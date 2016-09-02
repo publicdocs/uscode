@@ -99,7 +99,7 @@
 
         A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant’s employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under [section 4071f(a) of this title][/us/usc/t22/s4071f/a] to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-([Pub. L. 96–465, title I, § 854][/us/pl/96/465/s854], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 616][/us/stat/100/616]; amended [Pub. L. 99–556, title IV, § 405][/us/pl/99/556/s405], Oct. 27, 1986, [100 Stat. 3137][/us/stat/100/3137]; [Pub. L. 100–238, title II, § 242][/us/pl/100/238/s242], Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776]; [Pub. L. 103–178, title II, § 204(b)(2)][/us/pl/103/178/s204/b/2], Dec. 3, 1993, [107 Stat. 2033][/us/stat/107/2033]; [Pub. L. 105–33, title VII, § 7001(e)(1)(B)][/us/pl/105/33/s7001/e/1/B], Aug. 5, 1997, [111 Stat. 661][/us/stat/111/661]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(e)(2)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–54.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 854, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 616][/us/stat/100/616]; amended [Pub. L. 99–556, title IV][/us/pl/99/556/tIV], § 405, Oct. 27, 1986, [100 Stat. 3137][/us/stat/100/3137]; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 242, Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776]; [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 204(b)(2), Dec. 3, 1993, [107 Stat. 2033][/us/stat/107/2033]; [Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7001(e)(1)(B), Aug. 5, 1997, [111 Stat. 661][/us/stat/111/661]; [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title V, § 505(e)(2)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–54.)
 
  __References in Text__ 
 
@@ -107,13 +107,13 @@
 
     Section 414 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(3), is [section 414 of Pub. L. 99–335][/us/pl/99/335/s414], title IV, June 6, 1986, [100 Stat. 614][/us/stat/100/614], which amended [section 4043 of this title][/us/usc/t22/s4043].
 
-    The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) and (d), is [Pub. L. 88–643][/us/pl/88/643], as revised generally by [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. Titles II and III of the Act are classified generally to subchapters II (§ 2011 et seq.) and III (§ 2151 et seq.), respectively, of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001] and Tables.
+    The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) and (d), is [Pub. L. 88–643][/us/pl/88/643], as revised generally by [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. Titles II and III of the Act are classified generally to subchapters II (§ 2011 et seq.) and III (§ 2151 et seq.), respectively, of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001] and Tables.
 
     The Peace Corps Act, referred to in subsec. (c)(1)(A), is [Pub. L. 87–293][/us/pl/87/293], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612], as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title][/us/usc/t22/s2501] and Tables.
 
-    The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [73 Stat. 508][/us/stat/73/508], as amended. Part A of title VIII of the Act is part A of title VIII of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by [Pub. L. 93–113, title VI, § 603][/us/pl/93/113/s603], Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417]. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
+    The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [73 Stat. 508][/us/stat/73/508], as amended. Part A of title VIII of the Act is part A of title VIII of [Pub. L. 88–452][/us/pl/88/452], as added by [Pub. L. 90–222, title I][/us/pl/90/222/tI], § 110, Dec. 23, 1967, [81 Stat. 722][/us/stat/81/722], which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by [Pub. L. 93–113, title VI][/us/pl/93/113/tVI], § 603, Oct. 1, 1973, [87 Stat. 417][/us/stat/87/417]. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 
-    The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394]. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by [Pub. L. 111–13, title II, § 2121][/us/pl/111/13/s2121], Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584]. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42][/us/usc/t42/s4950] and Tables.
+    The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394]. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by [Pub. L. 111–13, title II][/us/pl/111/13/tII], § 2121, Apr. 21, 2009, [123 Stat. 1584][/us/stat/123/1584]. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42][/us/usc/t42/s4950] and Tables.
 
  __Amendments__ 
 
@@ -129,15 +129,15 @@
 
     if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service (as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State.”
 
-    1993—Subsec. (a)(3). [Pub. L. 103–178, § 204(b)(1)][/us/pl/103/178/s204/b/1], substituted “the Central Intelligence Agency Retirement Act ([50 U.S.C. 2011][/us/usc/t50/s2011] et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+    1993—Subsec. (a)(3). [Pub. L. 103–178][/us/pl/103/178], § 204(b)(1), substituted “the Central Intelligence Agency Retirement Act ([50 U.S.C. 2011][/us/usc/t50/s2011] et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-    Subsec. (d). [Pub. L. 103–178, § 204(b)(2)(B)][/us/pl/103/178/s204/b/2/B], substituted “the Central Intelligence Agency Retirement Act ([50 U.S.C. 2151][/us/usc/t50/s2151] et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+    Subsec. (d). [Pub. L. 103–178][/us/pl/103/178], § 204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act ([50 U.S.C. 2151][/us/usc/t50/s2151] et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
     1988—Subsec. (e). [Pub. L. 100–238][/us/pl/100/238] struck out “matching” after “shall make a” and inserted “determined under [section 4071f(a) of this title][/us/usc/t22/s4071f/a]” after “participant)”.
 
-    1986—Subsec. (d). [Pub. L. 99–556, § 405(a)][/us/pl/99/556/s405/a], which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual’s basic pay under the other retirement system” for “which would have been deducted from pay under [section 4071c(a) of this title][/us/usc/t22/s4071c/a] had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under [section 4071e(a) of this title][/us/usc/t22/s4071e/a] had the individual been a participant”, as the probable intent of Congress.
+    1986—Subsec. (d). [Pub. L. 99–556][/us/pl/99/556], § 405(a), which directed that subsec. (d) be amended by substituting “which was deducted and withheld from the individual’s basic pay under the other retirement system” for “which would have been deducted from pay under [section 4071c(a) of this title][/us/usc/t22/s4071c/a] had the individual been a participant”, was executed by making the substitution for “which would have been deducted from pay under [section 4071e(a) of this title][/us/usc/t22/s4071e/a] had the individual been a participant”, as the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 99–556, § 405(b)][/us/pl/99/556/s405/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–556][/us/pl/99/556], § 405(b), added subsec. (e).
 
  __Effective Date of 2000 Amendment__ 
 
@@ -157,7 +157,7 @@
 
  __Impact of Amendments by__  __[__  __Pub. L. 105–33__  __][/us/pl/105/33]__  __on Agency Contributions__ 
 
-[Pub. L. 105–33, title VII, § 7001(e)(2)][/us/pl/105/33/s7001/e/2], Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662], provided that: 
+[Pub. L. 105–33, title VII][/us/pl/105/33/tVII], § 7001(e)(2), Aug. 5, 1997, [111 Stat. 662][/us/stat/111/662], provided that: 
 
 > “Agency contributions under section 857 of the Foreign Service Act of 1980 ([22 U.S.C. 4071f][/us/usc/t22/s4071f]) shall not be reduced as a result of the amendments made under paragraph (1) of this subsection \[amending this section and [section 4071e of this title][/us/usc/t22/s4071e]\].”
 
@@ -174,18 +174,18 @@
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
 [/us/usc/t50/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2151
 [/us/usc/t22/s4071f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071f%2Fa
-[/us/pl/96/465/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs854
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F616
-[/us/pl/99/556/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs405
+[/us/pl/99/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtIV
 [/us/stat/100/3137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3137
-[/us/pl/100/238/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs242
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1776
-[/us/pl/103/178/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs204%2Fb%2F2
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2033
-[/us/pl/105/33/s7001/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7001%2Fe%2F1%2FB
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F661
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 [/us/pl/98/168/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168%2Fs204%2Fa%2F2
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
@@ -193,7 +193,7 @@
 [/us/stat/100/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F614
 [/us/usc/t22/s4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4043
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
@@ -202,29 +202,29 @@
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/73/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F508
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/pl/90/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2FtI
 [/us/stat/81/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F722
-[/us/pl/93/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs603
+[/us/pl/93/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2FtVI
 [/us/stat/87/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F417
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
-[/us/pl/111/13/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2121
+[/us/pl/111/13/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtII
 [/us/stat/123/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1584
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t42/s4951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4951
-[/us/pl/103/178/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs204%2Fb%2F1
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2011
-[/us/pl/103/178/s204/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs204%2Fb%2F2%2FB
+[/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2151
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t22/s4071f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071f%2Fa
-[/us/pl/99/556/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs405%2Fa
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/usc/t22/s4071c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c%2Fa
 [/us/usc/t22/s4071e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071e%2Fa
-[/us/pl/99/556/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs405%2Fb
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
@@ -238,7 +238,7 @@
 [/us/pl/99/556/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs408
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/105/33/s7001/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs7001%2Fe%2F2
+[/us/pl/105/33/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVII
 [/us/stat/111/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F662
 [/us/usc/t22/s4071f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071f
 [/us/usc/t22/s4071e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071e

@@ -59,7 +59,7 @@
 
         For purposes of this section, the term “multilateral development banks” means the International Bank for Reconstruction and Development, the Inter-American Development Bank, the African Development Bank, and the Asian Development Bank.
 
-([July 31, 1945, ch. 339, § 49][/us/act/1945-07-31/ch339/s49], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 812\], Nov. 30, 1983, [97 Stat. 1275][/us/stat/97/1275]; amended [Pub. L. 99–500, § 101(f)][/us/pl/99/500/s101/f] \[title V, § 555\], Oct. 18, 1986, [100 Stat. 1783–213][/us/stat/100/1783-213], 1783–240, and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 555\], Oct. 30, 1986, [100 Stat. 3341–214][/us/stat/100/3341-214], 3341–240; [Pub. L. 106–36, title I, § 1002(c)][/us/pl/106/36/s1002/c], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 49, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 812\], Nov. 30, 1983, [97 Stat. 1275][/us/stat/97/1275]; amended [Pub. L. 99–500][/us/pl/99/500], § 101(f) \[title V, § 555\], Oct. 18, 1986, [100 Stat. 1783–213][/us/stat/100/1783-213], 1783–240, and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 555\], Oct. 30, 1986, [100 Stat. 3341–214][/us/stat/100/3341-214], 3341–240; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(c), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Codification__ 
 
@@ -69,15 +69,15 @@
 
     1999—Subsec. (a)(3). [Pub. L. 106–36][/us/pl/106/36] substituted “Secretariat of the World Trade Organization (as the term ‘World Trade Organization’ is defined in [section 3501(8) of title 19][/us/usc/t19/s3501/8])” for “GATT Secretariat”.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 555(b)\], inserted “each of the multilateral development banks (in this section referred to as the ‘banks’) and of”, “each of the banks and of”, and “banks and of the”, and substituted “development of financial” for “development of Fund financial”.
+    1986—Subsec. (a)(1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 555(b)\], inserted “each of the multilateral development banks (in this section referred to as the ‘banks’) and of”, “each of the banks and of”, and “banks and of the”, and substituted “development of financial” for “development of Fund financial”.
 
-    Subsec. (a)(3). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 555(c)\], inserted “each of the banks and of” and substituted “their staff” for “Fund staff”.
+    Subsec. (a)(3). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 555(c)\], inserted “each of the banks and of” and substituted “their staff” for “Fund staff”.
 
-    Subsec. (b)(1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 555(d)\], inserted “each of the banks and of”, “the banks and by”, and “the banks and”.
+    Subsec. (b)(1). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 555(d)\], inserted “each of the banks and of”, “the banks and by”, and “the banks and”.
 
-    Subsec. (c). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 555(e), (f)\], inserted “bank and” and “loans or” in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 555(e), (f)\], inserted “bank and” and “loans or” in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 555(a)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 555(a)\], added subsec. (d).
 
 ----------
 
@@ -87,28 +87,28 @@
 ----------
 
 [/us/usc/t19/s3501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F8
-[/us/act/1945-07-31/ch339/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs49
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1275
-[/us/pl/99/500/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Ff
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-213
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-214
-[/us/pl/106/36/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fc
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F8
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 
 

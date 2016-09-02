@@ -23,17 +23,17 @@
 
         In particular, the Secretary of State shall establish and maintain a negotiating and implementation record for each such agreement, which shall be comprehensive and detailed, and shall document all communications between the parties with respect to such agreement. Such records shall be maintained both in hard copy and magnetic media.
 
-([Pub. L. 87–297, title III, § 307][/us/pl/87/297/s307], formerly § 38, as added [Pub. L. 103–236, title VII, § 713(a)][/us/pl/103/236/s713/a], Apr. 30, 1994, [108 Stat. 496][/us/stat/108/496]; renumbered § 307 and amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(12), (21), Oct. 21, 1998, [112 Stat. 2681–770][/us/stat/112/2681-770], 2681–772.)
+([Pub. L. 87–297, title III][/us/pl/87/297/tIII], § 307, formerly § 38, as added [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 713(a), Apr. 30, 1994, [108 Stat. 496][/us/stat/108/496]; renumbered § 307 and amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1223(12), (21), Oct. 21, 1998, [112 Stat. 2681–770][/us/stat/112/2681-770], 2681–772.)
 
  __Prior Provisions__ 
 
-    A prior section 2578, [Pub. L. 87–297, title III, § 38][/us/pl/87/297/s38], as added [Pub. L. 100–213, § 3(b)][/us/pl/100/213/s3/b], Dec. 24, 1987, [101 Stat. 1445][/us/stat/101/1445]; amended [Pub. L. 103–199, title IV, § 401(a)][/us/pl/103/199/s401/a], Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324], related to reports on activities of Standing Consultative Commission, prior to repeal by [Pub. L. 103–236, title VII, § 704(2)][/us/pl/103/236/s704/2], Apr. 30, 1994, [108 Stat. 492][/us/stat/108/492].
+    A prior section 2578, [Pub. L. 87–297, title III][/us/pl/87/297/tIII], § 38, as added [Pub. L. 100–213][/us/pl/100/213], § 3(b), Dec. 24, 1987, [101 Stat. 1445][/us/stat/101/1445]; amended [Pub. L. 103–199, title IV][/us/pl/103/199/tIV], § 401(a), Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324], related to reports on activities of Standing Consultative Commission, prior to repeal by [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 704(2), Apr. 30, 1994, [108 Stat. 492][/us/stat/108/492].
 
  __Amendments__ 
 
-    1998—Subsecs. (a), (b). [Pub. L. 105–277, § 1223(12)(A)][/us/pl/105/277/s1223/12/A], substituted “Secretary of State” for “Director”.
+    1998—Subsecs. (a), (b). [Pub. L. 105–277][/us/pl/105/277], § 1223(12)(A), substituted “Secretary of State” for “Director”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1223(12)(B)][/us/pl/105/277/s1223/12/B], struck out heading and text of subsec. (c). Text read as follows: “In order to implement effectively this section, the Director shall ensure that Agency personnel participate throughout the negotiation and implementation phases of all arms control, nonproliferation, and disarmament agreements.”
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1223(12)(B), struck out heading and text of subsec. (c). Text read as follows: “In order to implement effectively this section, the Director shall ensure that Agency personnel participate throughout the negotiation and implementation phases of all arms control, nonproliferation, and disarmament agreements.”
 
  __Effective Date of 1998 Amendment__ 
 
@@ -46,20 +46,20 @@
 ----------
 ----------
 
-[/us/pl/87/297/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs307
-[/us/pl/103/236/s713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs713%2Fa
+[/us/pl/87/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtIII
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F496
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-770
-[/us/pl/87/297/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs38
-[/us/pl/100/213/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F213%2Fs3%2Fb
+[/us/pl/87/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtIII
+[/us/pl/100/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F213
 [/us/stat/101/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1445
-[/us/pl/103/199/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs401%2Fa
+[/us/pl/103/199/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIV
 [/us/stat/107/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2324
-[/us/pl/103/236/s704/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs704%2F2
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F492
-[/us/pl/105/277/s1223/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F12%2FA
-[/us/pl/105/277/s1223/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F12%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511

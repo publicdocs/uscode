@@ -41,7 +41,7 @@
 
         Any employee who declines conversion under subsection (b)(2) shall for so long as that employee continues to hold the designated position be deemed to be a member of the Foreign Service for purposes of allowances, differentials, and similar benefits (as determined by the Secretary of Agriculture).
 
-([Pub. L. 96–465, title II, § 2105][/us/pl/96/465/s2105], Oct. 17, 1980, [94 Stat. 2150][/us/stat/94/2150].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2105, Oct. 17, 1980, [94 Stat. 2150][/us/stat/94/2150].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t22/s3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3981
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t22/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3903
-[/us/pl/96/465/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2105
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2150
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

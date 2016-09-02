@@ -37,7 +37,7 @@
 
             (B) when exported, is likely to cause injury to United States producers within the meaning of Article 15 of the Agreement on Subsidies and Countervailing Measures referred to in subparagraph (A).
 
-([Pub. L. 95–118, title XIV, § 1403][/us/pl/95/118/s1403], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 106–36, title I, § 1002(b)][/us/pl/106/36/s1002/b], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([Pub. L. 95–118, title XIV][/us/pl/95/118/tXIV], § 1403, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(b), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    1999—Subsec. (b)(1)(A). [Pub. L. 106–36, § 1002(b)(1)][/us/pl/106/36/s1002/b/1], substituted “GATT 1994 as defined in [section 3501(1)(B) of title 19][/us/usc/t19/s3501/1/B], or Article 3.1(a) of the Agreement on Subsidies and Countervailing Measures referred to in [section 3511(d)(12) of title 19][/us/usc/t19/s3511/d/12]” for “General Agreement on Tariffs and Trade or Article 10 of the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade”.
+    1999—Subsec. (b)(1)(A). [Pub. L. 106–36][/us/pl/106/36], § 1002(b)(1), substituted “GATT 1994 as defined in [section 3501(1)(B) of title 19][/us/usc/t19/s3501/1/B], or Article 3.1(a) of the Agreement on Subsidies and Countervailing Measures referred to in [section 3511(d)(12) of title 19][/us/usc/t19/s3511/d/12]” for “General Agreement on Tariffs and Trade or Article 10 of the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade”.
 
-    Subsec. (b)(2)(B). [Pub. L. 106–36, § 1002(b)(2)][/us/pl/106/36/s1002/b/2], substituted “Article 15 of the Agreement on Subsidies and Countervailing Measures referred to in subparagraph (A)” for “Article 6 of the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade”.
+    Subsec. (b)(2)(B). [Pub. L. 106–36][/us/pl/106/36], § 1002(b)(2), substituted “Article 15 of the Agreement on Subsidies and Countervailing Measures referred to in subparagraph (A)” for “Article 6 of the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade”.
 
  __Definitions__ 
 
@@ -62,17 +62,17 @@
 
 [/us/usc/t19/s3501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FB
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/pl/95/118/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1403
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/95/118/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIV
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/106/36/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fb
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/95/118/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1403
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/106/36/s1002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fb%2F1
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FB
 [/us/usc/t19/s3511/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd%2F12
-[/us/pl/106/36/s1002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fb%2F2
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 
 

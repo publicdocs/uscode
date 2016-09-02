@@ -35,7 +35,7 @@
 
     (9) to foster the growth of a pluralistic society that promotes and respects religious freedom.
 
-([Pub. L. 107–327, title I, § 102][/us/pl/107/327/s102], Dec. 4, 2002, [116 Stat. 2798][/us/stat/116/2798].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 102, Dec. 4, 2002, [116 Stat. 2798][/us/stat/116/2798].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/327/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs102
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2798
 
 

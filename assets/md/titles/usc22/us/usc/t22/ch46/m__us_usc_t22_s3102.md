@@ -39,7 +39,7 @@
 
     (11) “portfolio investment” means any international investment which is not direct investment.
 
-([Pub. L. 94–472, § 3][/us/pl/94/472/s3], Oct. 11, 1976, [90 Stat. 2060][/us/stat/90/2060].)
+([Pub. L. 94–472][/us/pl/94/472], § 3, Oct. 11, 1976, [90 Stat. 2060][/us/stat/90/2060].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/94/472/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs3
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2060
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 

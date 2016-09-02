@@ -33,11 +33,11 @@
 
         (3) After the unfunded liability of the Foreign Service Retirement and Disability System has been eliminated, as determined by the Secretary of State, Government contributions under this section shall be determined and made disregarding this subsection.
 
-([Pub. L. 96–465, title I, § 857][/us/pl/96/465/s857], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 618][/us/stat/100/618]; amended [Pub. L. 113–67, div. A, title IV, § 402(c)][/us/pl/113/67/s402/c], Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 857, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 618][/us/stat/100/618]; amended [Pub. L. 113–67, div. A, title IV][/us/pl/113/67/dA/tIV], § 402(c), Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185].)
 
  __References in Text__ 
 
-    Section 402(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (c)(1), is [section 402(b) of div. A of Pub. L. 113–67][/us/pl/113/67/s402/b], which amended [section 4071e of this title][/us/usc/t22/s4071e].
+    Section 402(b) of the Bipartisan Budget Act of 2013, referred to in subsec. (c)(1), is [section 402(b) of div. A of Pub. L. 113–67][/us/pl/113/67/dA/s402/b], which amended [section 4071e of this title][/us/usc/t22/s4071e].
 
  __Amendments__ 
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/usc/t5/s8423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8423%2Fa
-[/us/pl/96/465/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs857
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F618
-[/us/pl/113/67/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs402%2Fc
+[/us/pl/113/67/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtIV
 [/us/stat/127/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1185
-[/us/pl/113/67/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs402%2Fb
+[/us/pl/113/67/dA/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2Fs402%2Fb
 [/us/usc/t22/s4071e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071e
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 

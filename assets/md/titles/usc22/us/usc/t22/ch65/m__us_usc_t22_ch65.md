@@ -75,7 +75,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 65, enacted by [Pub. L. 102–138, title V][/us/pl/102/138], Oct. 28, 1991, [105 Stat. 722][/us/stat/105/722], contained provisions substantially identical to those enacted by [Pub. L. 102–182, title III][/us/pl/102/182], Dec. 4, 1991, [105 Stat. 1245][/us/stat/105/1245], prior to repeal by [Pub. L. 102–182, title III, § 309(a)][/us/pl/102/182/s309/a], Dec. 4, 1991, [105 Stat. 1258][/us/stat/105/1258].
+    A prior chapter 65, enacted by [Pub. L. 102–138, title V][/us/pl/102/138/tV], Oct. 28, 1991, [105 Stat. 722][/us/stat/105/722], contained provisions substantially identical to those enacted by [Pub. L. 102–182, title III][/us/pl/102/182/tIII], Dec. 4, 1991, [105 Stat. 1245][/us/stat/105/1245], prior to repeal by [Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 309(a), Dec. 4, 1991, [105 Stat. 1258][/us/stat/105/1258].
 
 ----------
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtV
 [/us/stat/105/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F722
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1245
-[/us/pl/102/182/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs309%2Fa
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1258
 
 

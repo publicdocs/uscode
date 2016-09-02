@@ -23,7 +23,7 @@
 
         The report described in subsection (a) shall be in unclassified form, but may include a classified annex.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 549, as added [Pub. L. 107–228, div. B, title XII, § 1212(a)][/us/pl/107/228/s1212/a], Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 549, as added [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1212(a), Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t22/s2151n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/107/228/s1212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1212%2Fa
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1428
 
 

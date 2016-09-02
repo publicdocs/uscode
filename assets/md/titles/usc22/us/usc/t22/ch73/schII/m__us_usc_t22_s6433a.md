@@ -101,7 +101,7 @@
 
         (2) respond to any requests to provide testimony before the appropriate congressional committees.
 
-([Pub. L. 114–71, § 4][/us/pl/114/71/s4], Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563].)
+([Pub. L. 114–71][/us/pl/114/71], § 4, Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563].)
 
  __Codification__ 
 
@@ -118,7 +118,7 @@
 [/us/usc/t22/s6432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432
 [/us/usc/t22/s6432a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432a
 [/us/usc/t22/s6432b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432b
-[/us/pl/114/71/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs4
+[/us/pl/114/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71
 [/us/stat/129/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F563
 
 

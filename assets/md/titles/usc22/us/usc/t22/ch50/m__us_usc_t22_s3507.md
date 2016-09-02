@@ -55,7 +55,7 @@
 
         The Council may appoint from among its members an Executive Committee, and such other committees it deems necessary, to assist it in exercising its powers and functions. The Executive Committee shall consist of seven members, one of whom shall be the Chairman of the Council and not more than three of whom shall be employees of the United States Government. The Executive Committee shall exercise such powers and functions as are delegated to it by the Council.
 
-([Pub. L. 96–53, title IV, § 407][/us/pl/96/53/s407], Aug. 14, 1979, [93 Stat. 374][/us/stat/93/374].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 407, Aug. 14, 1979, [93 Stat. 374][/us/stat/93/374].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/96/53/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs407
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F374
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

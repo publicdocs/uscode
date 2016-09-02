@@ -37,7 +37,7 @@
 
         All financing of programs and projects by the Bank from the United States Special Resources shall be repayable to the Bank by the borrowers in United States dollars.
 
-([Pub. L. 89–369, § 13][/us/pl/89/369/s13], as added [Pub. L. 92–245, § 1][/us/pl/92/245/s1], Mar. 10, 1972, [86 Stat. 57][/us/stat/86/57].)
+([Pub. L. 89–369][/us/pl/89/369], § 13, as added [Pub. L. 92–245][/us/pl/92/245], § 1, Mar. 10, 1972, [86 Stat. 57][/us/stat/86/57].)
 
  __Delegation of Functions__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/89/369/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs13
-[/us/pl/92/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245%2Fs1
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/92/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245
 [/us/stat/86/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F57
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b
 

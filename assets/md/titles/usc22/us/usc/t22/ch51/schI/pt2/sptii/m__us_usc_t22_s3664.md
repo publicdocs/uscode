@@ -37,7 +37,7 @@
 
     (10) Chapter 59 (relating to allowances).
 
-    (11) Repealed. [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
+    (11) Repealed. [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
 
     (12) Section 6323 (relating to military leave; Reserves and National Guardsmen).
 
@@ -55,7 +55,7 @@
 
     (19) Chapter 89 (relating to health insurance).
 
-([Pub. L. 96–70, title I, § 1224][/us/pl/96/70/s1224], Sept. 27, 1979, [93 Stat. 467][/us/stat/93/467]; [Pub. L. 104–201, div. C, title XXXV, § 3536][/us/pl/104/201/s3536], Sept. 23, 1996, [110 Stat. 2864][/us/stat/110/2864]; [Pub. L. 105–85, div. C, title XXXV, § 3524(a)(2)][/us/pl/105/85/s3524/a/2], Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065]; [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1224, Sept. 27, 1979, [93 Stat. 467][/us/stat/93/467]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3536, Sept. 23, 1996, [110 Stat. 2864][/us/stat/110/2864]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3524(a)(2), Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out par. (11) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, par. (11) of this section is terminated.
+[Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out par. (11) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, par. (11) of this section is terminated.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -86,21 +86,21 @@
 ----------
 ----------
 
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
-[/us/pl/96/70/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1224
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F467
-[/us/pl/104/201/s3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3536
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2864
-[/us/pl/105/85/s3524/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3524%2Fa%2F2
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2065
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5544%2Fa
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/85/s3524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3524%2Fc

@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, any appeal from a final order entered by a district court in an action brought under subsection (a) shall be heard promptly by the full Court of Appeals sitting en banc.
 
-([Pub. L. 105–277, div. I, title V, § 503][/us/pl/105/277/s503], Oct. 21, 1998, [112 Stat. 2681–885][/us/stat/112/2681-885].)
+([Pub. L. 105–277, div. I, title V][/us/pl/105/277/dI/tV], § 503, Oct. 21, 1998, [112 Stat. 2681–885][/us/stat/112/2681-885].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs503
+[/us/pl/105/277/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtV
 [/us/stat/112/2681-885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-885
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

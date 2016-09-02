@@ -19,7 +19,7 @@
 
     (b) The Secretary may terminate at any time the appointment of any foreign national employee in light of the criteria and procedures normally followed in the locality in similar circumstances.
 
-([Pub. L. 96–465, title I, § 613][/us/pl/96/465/s613], formerly § 612, Oct. 17, 1980, [94 Stat. 2099][/us/stat/94/2099]; renumbered § 613, [Pub. L. 103–236, title I, § 181(a)(1)][/us/pl/103/236/s181/a/1], Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 613, formerly § 612, Oct. 17, 1980, [94 Stat. 2099][/us/stat/94/2099]; renumbered § 613, [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 181(a)(1), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416].)
 
  __Prior Provisions__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/96/465/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs613
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2099
-[/us/pl/103/236/s181/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fa%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F416
 [/us/pl/96/465/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs613
 [/us/usc/t22/s4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4013

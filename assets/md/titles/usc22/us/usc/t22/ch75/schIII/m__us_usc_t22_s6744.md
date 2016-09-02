@@ -67,7 +67,7 @@
 
         The provisions of this section shall also apply to employees of the Technical Secretariat.
 
-([Pub. L. 105–277, div. I, title IV, § 404][/us/pl/105/277/s404], Oct. 21, 1998, [112 Stat. 2681–882][/us/stat/112/2681-882].)
+([Pub. L. 105–277, div. I, title IV][/us/pl/105/277/dI/tIV], § 404, Oct. 21, 1998, [112 Stat. 2681–882][/us/stat/112/2681-882].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t22/s6713/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6713%2Fg
 [/us/usc/t5/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa
-[/us/pl/105/277/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs404
+[/us/pl/105/277/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIV
 [/us/stat/112/2681-882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-882
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

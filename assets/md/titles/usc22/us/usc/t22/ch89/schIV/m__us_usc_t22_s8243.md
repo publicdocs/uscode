@@ -23,7 +23,7 @@
 
     (3) Providing Foreign Service Awards under [section 4013 of this title][/us/usc/t22/s4013] to such members and employees who provide distinguished or meritorious service in the promotion of democracy or the protection of human rights.
 
-([Pub. L. 110–53, title XXI, § 2143][/us/pl/110/53/s2143], Aug. 3, 2007, [121 Stat. 535][/us/stat/121/535].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2143, Aug. 3, 2007, [121 Stat. 535][/us/stat/121/535].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t22/s3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3965
 [/us/usc/t22/s4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4013
-[/us/pl/110/53/s2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2143
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F535
 
 

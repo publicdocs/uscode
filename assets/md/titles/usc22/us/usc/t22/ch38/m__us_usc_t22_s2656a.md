@@ -25,7 +25,7 @@
 
     (4) the effective use of science and technology in international relations for the mutual benefit of all countries requires the development and use of the skills and methods of long-range planning.
 
-([Pub. L. 95–426, title V, § 501][/us/pl/95/426/s501], Oct. 7, 1978, [92 Stat. 982][/us/stat/92/982].)
+([Pub. L. 95–426, title V][/us/pl/95/426/tV], § 501, Oct. 7, 1978, [92 Stat. 982][/us/stat/92/982].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs501
+[/us/pl/95/426/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtV
 [/us/stat/92/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F982
 
 

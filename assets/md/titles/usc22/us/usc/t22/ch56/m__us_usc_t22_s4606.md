@@ -51,7 +51,7 @@
 
         The Institute shall not make loans to its directors, officers, employees, or agents, or to any legal entity created by the Institute. A director, officer, employee, or agent who votes for or assents to the making of a loan or who participates in the making of a loan shall be jointly and severally liable to the Institute for the amount of the loan until repayment thereof.
 
-([Pub. L. 98–525, title XVII, § 1707][/us/pl/98/525/s1707], Oct. 19, 1984, [98 Stat. 2656][/us/stat/98/2656]; [Pub. L. 100–569, title III, § 301(b)][/us/pl/100/569/s301/b], Oct. 31, 1988, [102 Stat. 2864][/us/stat/102/2864]; [Pub. L. 101–520, title III, § 319(c)][/us/pl/101/520/s319/c], Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(c)(2), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1707, Oct. 19, 1984, [98 Stat. 2656][/us/stat/98/2656]; [Pub. L. 100–569, title III][/us/pl/100/569/tIII], § 301(b), Oct. 31, 1988, [102 Stat. 2864][/us/stat/102/2864]; [Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 319(c), Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(c)(2), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773].)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 ----------
 
 [/us/usc/t22/s4604/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4604%2Fh%2F3
-[/us/pl/98/525/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1707
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2656
-[/us/pl/100/569/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F569%2Fs301%2Fb
+[/us/pl/100/569/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F569%2FtIII
 [/us/stat/102/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2864
-[/us/pl/101/520/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs319%2Fc
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2285
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-773
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

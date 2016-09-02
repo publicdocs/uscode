@@ -45,7 +45,7 @@
 
     (b) Any authority provided by this section involving the expenditure of appropriated funds shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 96–53, title IV, § 404][/us/pl/96/53/s404], Aug. 14, 1979, [93 Stat. 373][/us/stat/93/373].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 404, Aug. 14, 1979, [93 Stat. 373][/us/stat/93/373].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/96/53/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs404
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F373
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

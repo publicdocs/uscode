@@ -105,7 +105,7 @@
 
             The Panel shall terminate on the date that is 60 days after the date on which the Panel submits the report to the appropriate congressional committees under paragraph (4).
 
-([Pub. L. 108–25, title III, § 312][/us/pl/108/25/s312], May 27, 2003, [117 Stat. 741][/us/stat/117/741]; [Pub. L. 110–293, title III][/us/pl/110/293], §§ 307, 309, July 30, 2008, [122 Stat. 2963][/us/stat/122/2963], 2964.)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 312, May 27, 2003, [117 Stat. 741][/us/stat/117/741]; [Pub. L. 110–293, title III][/us/pl/110/293/tIII], §§ 307, 309, July 30, 2008, [122 Stat. 2963][/us/stat/122/2963], 2964.)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1) to (6). [Pub. L. 110–293, § 307][/us/pl/110/293/s307], added pars. (1) to (6) and struck out former pars. (1) to (3) which read as follows:
+    2008—Subsec. (b)(1) to (6). [Pub. L. 110–293][/us/pl/110/293], § 307, added pars. (1) to (6) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) provide for meeting or exceeding the goal to reduce the rate of mother-to-child transmission of HIV by 20 percent by 2005 and by 50 percent by 2010;
 
@@ -121,7 +121,7 @@
 
     “(3) expand programs designed to care for children orphaned by AIDS.”
 
-    Subsec. (c). [Pub. L. 110–293, § 309][/us/pl/110/293/s309], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–293][/us/pl/110/293], § 309, added subsec. (c).
 
 ----------
 
@@ -132,14 +132,14 @@
 
 [/us/usc/t22/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7611
 [/us/usc/t22/s2151b–2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Ff
-[/us/pl/108/25/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs312
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F741
-[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2963
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
-[/us/pl/110/293/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs307
-[/us/pl/110/293/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs309
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 
 

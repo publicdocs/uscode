@@ -23,7 +23,7 @@
 
     (3) to provide financial, technical, or administrative assistance to public or private nonprofit entities who act to prevent or resolve such problems or who educate the population concerning such health problems.
 
-([Pub. L. 103–400, § 4][/us/pl/103/400/s4], Oct. 22, 1994, [108 Stat. 4169][/us/stat/108/4169].)
+([Pub. L. 103–400][/us/pl/103/400], § 4, Oct. 22, 1994, [108 Stat. 4169][/us/stat/108/4169].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s290n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290n%E2%80%931
-[/us/pl/103/400/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400%2Fs4
+[/us/pl/103/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400
 [/us/stat/108/4169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4169
 
 

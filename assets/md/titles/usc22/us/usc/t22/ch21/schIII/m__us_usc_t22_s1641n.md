@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to enable the Commission and the Treasury Department to pay their administrative expenses incurred in carrying out their functions under this subchapter.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 315, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 574][/us/stat/69/574].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 315, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 574][/us/stat/69/574].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F574
 
 

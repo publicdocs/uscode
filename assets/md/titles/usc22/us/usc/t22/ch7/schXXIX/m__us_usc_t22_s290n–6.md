@@ -33,7 +33,7 @@
 
         The term “United States-Mexico Border Area” means the area located in the United States and Mexico within 100 kilometers of the border between the United States and Mexico.
 
-([Pub. L. 103–400, § 8][/us/pl/103/400/s8], Oct. 22, 1994, [108 Stat. 4171][/us/stat/108/4171].)
+([Pub. L. 103–400][/us/pl/103/400], § 8, Oct. 22, 1994, [108 Stat. 4171][/us/stat/108/4171].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/400/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400%2Fs8
+[/us/pl/103/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400
 [/us/stat/108/4171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4171
 
 

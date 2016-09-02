@@ -17,7 +17,7 @@
 
     This subchapter shall be applicable in the several States, the District of Columbia, the Territories, the Canal Zone, the insular possessions, and all other places now or hereafter subject to the civil or military jurisdiction of the United States.
 
-([June 8, 1938, ch. 327, § 9][/us/act/1938-06-08/ch327/s9], as added [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 257][/us/stat/56/257]; amended Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 9, as added [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 257][/us/stat/56/257]; amended Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-08/ch327/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs9
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F257
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

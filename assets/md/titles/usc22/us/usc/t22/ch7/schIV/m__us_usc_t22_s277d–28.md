@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Department of State for use of the United States Section, International Boundary and Water Commission, United States and Mexico, not in excess of $300,000 for the initial cost of the work authorized in sections 277d–26 to 277d–28 of this title, and not to exceed $30,000 based on December 1975 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually thereafter for necessary maintenance.
 
-([Pub. L. 88–411, § 3][/us/pl/88/411/s3], Aug. 10, 1964, [78 Stat. 386][/us/stat/78/386]; [Pub. L. 93–126, § 7(b)][/us/pl/93/126/s7/b], Oct. 18, 1973, [87 Stat. 452][/us/stat/87/452]; [Pub. L. 95–105, title V, § 514(b)][/us/pl/95/105/s514/b], Aug. 17, 1977, [91 Stat. 862][/us/stat/91/862].)
+([Pub. L. 88–411][/us/pl/88/411], § 3, Aug. 10, 1964, [78 Stat. 386][/us/stat/78/386]; [Pub. L. 93–126][/us/pl/93/126], § 7(b), Oct. 18, 1973, [87 Stat. 452][/us/stat/87/452]; [Pub. L. 95–105, title V][/us/pl/95/105/tV], § 514(b), Aug. 17, 1977, [91 Stat. 862][/us/stat/91/862].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/88/411/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F411%2Fs3
+[/us/pl/88/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F411
 [/us/stat/78/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F386
-[/us/pl/93/126/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs7%2Fb
+[/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126
 [/us/stat/87/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F452
-[/us/pl/95/105/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs514%2Fb
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F862
 [/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
 [/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126

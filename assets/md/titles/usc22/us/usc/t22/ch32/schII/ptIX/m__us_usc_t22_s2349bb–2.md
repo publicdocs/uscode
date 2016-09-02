@@ -31,13 +31,13 @@
 
         The Secretary of State shall notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate in writing not more than 30 days after making a determination that any friendly country has been determined to be a country eligible for priority consideration of any assistance under subsection (a). Such determination shall set forth the reasons for such determination, and may be submitted in classified and unclassified form, as necessary.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 583, as added [Pub. L. 106–280, title III, § 301][/us/pl/106/280/s301], Oct. 6, 2000, [114 Stat. 852][/us/stat/114/852]; amended [Pub. L. 109–472, § 10(c)][/us/pl/109/472/s10/c], Jan. 11, 2007, [120 Stat. 3557][/us/stat/120/3557].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 583, as added [Pub. L. 106–280, title III][/us/pl/106/280/tIII], § 301, Oct. 6, 2000, [114 Stat. 852][/us/stat/114/852]; amended [Pub. L. 109–472][/us/pl/109/472], § 10(c), Jan. 11, 2007, [120 Stat. 3557][/us/stat/120/3557].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 109–472, § 10(c)(1)][/us/pl/109/472/s10/c/1], substituted “shall ensure that, beginning in fiscal year 2007,” for “should ensure that”, “obligated” for “expended”, and “to non-State actors and States of proliferation concern” for “that originate from, and are destined for, other countries”.
+    2007—Subsec. (a). [Pub. L. 109–472][/us/pl/109/472], § 10(c)(1), substituted “shall ensure that, beginning in fiscal year 2007,” for “should ensure that”, “obligated” for “expended”, and “to non-State actors and States of proliferation concern” for “that originate from, and are destined for, other countries”.
 
-    Subsecs. (c), (d). [Pub. L. 109–472, § 10(c)(2)][/us/pl/109/472/s10/c/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 109–472][/us/pl/109/472], § 10(c)(2), added subsecs. (c) and (d).
 
  __Change of Name__ 
 
@@ -55,12 +55,12 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/280/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs301
+[/us/pl/106/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtIII
 [/us/stat/114/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F852
-[/us/pl/109/472/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs10%2Fc
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3557
-[/us/pl/109/472/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs10%2Fc%2F1
-[/us/pl/109/472/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs10%2Fc%2F2
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 
 

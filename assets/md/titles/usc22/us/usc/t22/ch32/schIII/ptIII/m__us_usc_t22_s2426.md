@@ -27,7 +27,7 @@
 
         The Secretary of State shall promulgate such rules and regulations as he may deem necessary to carry out the provisions of this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 666, as added [Pub. L. 94–161, title III, § 318][/us/pl/94/161/s318], Dec. 20, 1975, [89 Stat. 868][/us/stat/89/868].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 666, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 318, Dec. 20, 1975, [89 Stat. 868][/us/stat/89/868].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs318
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F868
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

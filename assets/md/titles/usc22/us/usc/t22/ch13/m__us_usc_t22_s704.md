@@ -17,7 +17,7 @@
 
     Members of any service court of a friendly foreign force lawfully exercising jurisdiction in the United States in relation to members of such force, and any witnesses appearing before such service court, shall enjoy the same immunities and privileges as are enjoyed by members of a court martial of the United States and by witnesses appearing before such a court martial.
 
-([June 30, 1944, ch. 326, § 4][/us/act/1944-06-30/ch326/s4], [58 Stat. 644][/us/stat/58/644].)
+([June 30, 1944, ch. 326][/us/act/1944-06-30/ch326], § 4, [58 Stat. 644][/us/stat/58/644].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-06-30/ch326/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326%2Fs4
+[/us/act/1944-06-30/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326
 [/us/stat/58/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F644
 
 

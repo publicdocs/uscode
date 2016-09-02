@@ -43,7 +43,7 @@
 
         The authority of this section may be exercised only to such extent or in such amount as may be provided in advance in an appropriation Act.
 
-([Pub. L. 101–179, title VIII, § 805][/us/pl/101/179/s805], Nov. 28, 1989, [103 Stat. 1323][/us/stat/103/1323].)
+([Pub. L. 101–179, title VIII][/us/pl/101/179/tVIII], § 805, Nov. 28, 1989, [103 Stat. 1323][/us/stat/103/1323].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t31/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1306
-[/us/pl/101/179/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs805
+[/us/pl/101/179/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVIII
 [/us/stat/103/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1323
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

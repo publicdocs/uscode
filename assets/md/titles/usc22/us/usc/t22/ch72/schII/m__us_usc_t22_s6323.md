@@ -39,7 +39,7 @@
 
         (6) any initiatives that the President plans to take in support of each of the objectives set forth in sections 6321 and 6322 of this title.
 
-([Pub. L. 103–236, title VIII, § 843][/us/pl/103/236/s843], Apr. 30, 1994, [108 Stat. 524][/us/stat/108/524].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 843, Apr. 30, 1994, [108 Stat. 524][/us/stat/108/524].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t22/s3281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281%2Fa
-[/us/pl/103/236/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs843
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F524
 
 

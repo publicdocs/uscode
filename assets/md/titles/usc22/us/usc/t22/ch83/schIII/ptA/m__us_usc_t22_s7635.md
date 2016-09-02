@@ -43,7 +43,7 @@
 
         (3) an explanation of how those activities relate to efforts to prevent the transmission of the HIV infection.
 
-([Pub. L. 108–25, title III, § 305][/us/pl/108/25/s305], May 27, 2003, [117 Stat. 739][/us/stat/117/739].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 305, May 27, 2003, [117 Stat. 739][/us/stat/117/739].)
 
  __Delegation of Functions__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/108/25/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs305
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F739
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7611

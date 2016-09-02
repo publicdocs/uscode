@@ -345,7 +345,7 @@
 
         (2) the term “long-term sustainability” refers to the ability of a service delivery system, community, partner, or beneficiary to maintain, over time, any water, sanitation, or hygiene project that receives funding pursuant to the amendments made by the Senator Paul Simon Water for the World Act of 2014.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 136, formerly § 135, as added [Pub. L. 109–121, § 5(a)][/us/pl/109/121/s5/a], Dec. 1, 2005, [119 Stat. 2536][/us/stat/119/2536]; amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820]; renumbered § 136 and amended [Pub. L. 113–289][/us/pl/113/289], §§ 3–6(a), Dec. 19, 2014, [128 Stat. 3283–3288][/us/stat/128/3283-3288].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 136, formerly § 135, as added [Pub. L. 109–121][/us/pl/109/121], § 5(a), Dec. 1, 2005, [119 Stat. 2536][/us/stat/119/2536]; amended [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820]; renumbered § 136 and amended [Pub. L. 113–289][/us/pl/113/289], §§ 3–6(a), Dec. 19, 2014, [128 Stat. 3283–3288][/us/stat/128/3283-3288].)
 
  __References in Text__ 
 
@@ -355,15 +355,15 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–289, § 3(2)(A)][/us/pl/113/289/s3/2/A], substituted “, sanitation, and hygiene” for “and sanitation” in section catchline.
+    2014—[Pub. L. 113–289][/us/pl/113/289], § 3(2)(A), substituted “, sanitation, and hygiene” for “and sanitation” in section catchline.
 
-    Subsec. (b). [Pub. L. 113–289, § 3(2)(B)][/us/pl/113/289/s3/2/B], substituted “, sanitation, and hygiene” for “and sanitation”.
+    Subsec. (b). [Pub. L. 113–289][/us/pl/113/289], § 3(2)(B), substituted “, sanitation, and hygiene” for “and sanitation”.
 
-    Subsec. (e). [Pub. L. 113–289, § 4][/us/pl/113/289/s4], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–289][/us/pl/113/289], § 4, added subsec. (e).
 
-    Subsecs. (f) to (i). [Pub. L. 113–289, § 5][/us/pl/113/289/s5], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 113–289][/us/pl/113/289], § 5, added subsecs. (f) to (i).
 
-    Subsecs. (j), (k). [Pub. L. 113–289, § 6(a)][/us/pl/113/289/s6/a], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 113–289][/us/pl/113/289], § 6(a), added subsecs. (j) and (k).
 
     2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246] substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
@@ -373,7 +373,7 @@
 
  __Water for the Poor__ 
 
-[Pub. L. 109–121][/us/pl/109/121], Dec. 1, 2005, [119 Stat. 2533][/us/stat/119/2533], as amended by [Pub. L. 113–289, § 6(c)][/us/pl/113/289/s6/c], Dec. 19, 2014, [128 Stat. 3290][/us/stat/128/3290], provided that:
+[Pub. L. 109–121][/us/pl/109/121], Dec. 1, 2005, [119 Stat. 2533][/us/stat/119/2533], as amended by [Pub. L. 113–289][/us/pl/113/289], § 6(c), Dec. 19, 2014, [128 Stat. 3290][/us/stat/128/3290], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -483,7 +483,7 @@
 
 >     \[Amended [section 1704 of Title 7][/us/usc/t7/s1704], Agriculture.\]
 
-> “\[SEC. 6. Repealed. [Pub. L. 113–289, § 6(c)][/us/pl/113/289/s6/c], Dec. 19, 2014, [128 Stat. 3290][/us/stat/128/3290].\]
+> “\[SEC. 6. Repealed. [Pub. L. 113–289][/us/pl/113/289], § 6(c), Dec. 19, 2014, [128 Stat. 3290][/us/stat/128/3290].\]
 
 > “SEC. 7. __MONITORING REQUIREMENT.__ 
 
@@ -534,9 +534,9 @@
 
 [/us/usc/t7/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1701
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/109/121/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F121%2Fs5%2Fa
+[/us/pl/109/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F121
 [/us/stat/119/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2536
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/stat/128/3283-3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283-3288
@@ -546,21 +546,21 @@
 [/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/stat/128/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/113/289/s3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs3%2F2%2FA
-[/us/pl/113/289/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs3%2F2%2FB
-[/us/pl/113/289/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs4
-[/us/pl/113/289/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs5
-[/us/pl/113/289/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs6%2Fa
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/109/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F121
 [/us/stat/119/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2533
-[/us/pl/113/289/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs6%2Fc
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/stat/128/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3290
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
-[/us/pl/113/289/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs6%2Fc
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/stat/128/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3290
 [/us/usc/t22/s262r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc
 

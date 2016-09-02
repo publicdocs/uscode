@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2651.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2651.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652 _us_usc_t22_s2652a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a)
 
 ## § 2651a. Organization of Department of State
 
@@ -211,7 +211,7 @@
 
             The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer’s principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 1, [70 Stat. 890][/us/stat/70/890]; renumbered title I and amended [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 103–236, title I, § 161(a)][/us/pl/103/236/s161/a], Apr. 30, 1994, [108 Stat. 402][/us/stat/108/402]; [Pub. L. 103–415, § 1(f)(1)][/us/pl/103/415/s1/f/1], Oct. 25, 1994, [108 Stat. 4299][/us/stat/108/4299]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1213, title XIII, § 1313, subdiv. B, title XXIII, §§ 2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, [112 Stat. 2681–767][/us/stat/112/2681-767], 2681–776, 2681–824, 2681–825, 2681–826; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IV, § 404(a)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–96; [Pub. L. 107–228, div. A, title III, § 303][/us/pl/107/228/s303], Sept. 30, 2002, [116 Stat. 1377][/us/stat/116/1377]; [Pub. L. 108–25, title I, § 102(a)][/us/pl/108/25/s102/a], May 27, 2003, [117 Stat. 721][/us/stat/117/721]; [Pub. L. 108–458, title VII, § 7109(b)(1)][/us/pl/108/458/s7109/b/1], Dec. 17, 2004, [118 Stat. 3793][/us/stat/118/3793]; [Pub. L. 110–293, title I, § 102][/us/pl/110/293/s102], July 30, 2008, [122 Stat. 2933][/us/stat/122/2933]; [Pub. L. 112–166, § 2(j)][/us/pl/112/166/s2/j], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 1, [70 Stat. 890][/us/stat/70/890]; renumbered title I and amended [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 161(a), Apr. 30, 1994, [108 Stat. 402][/us/stat/108/402]; [Pub. L. 103–415][/us/pl/103/415], § 1(f)(1), Oct. 25, 1994, [108 Stat. 4299][/us/stat/108/4299]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1213, title XIII, § 1313, subdiv. B, title XXIII, §§ 2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, [112 Stat. 2681–767][/us/stat/112/2681-767], 2681–776, 2681–824, 2681–825, 2681–826; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title IV, § 404(a)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–96; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 303, Sept. 30, 2002, [116 Stat. 1377][/us/stat/116/1377]; [Pub. L. 108–25, title I][/us/pl/108/25/tI], § 102(a), May 27, 2003, [117 Stat. 721][/us/stat/117/721]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7109(b)(1), Dec. 17, 2004, [118 Stat. 3793][/us/stat/118/3793]; [Pub. L. 110–293, title I][/us/pl/110/293/tI], § 102, July 30, 2008, [122 Stat. 2933][/us/stat/122/2933]; [Pub. L. 112–166][/us/pl/112/166], § 2(j), Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
 
  __References in Text__ 
 
@@ -223,33 +223,33 @@
 
     Section was formerly classified to [section 2662 of this title][/us/usc/t22/s2662].
 
-    Section was also formerly classified to [section 170f of Title 5][/us/usc/t5/s170f] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was also formerly classified to [section 170f of Title 5][/us/usc/t5/s170f] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
     2012—Subsec. (c)(1). [Pub. L. 112–166][/us/pl/112/166] struck out “, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and” after “Secretaries of State” and inserted at end “Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.”
 
-    2008—Subsec. (f)(2)(A). [Pub. L. 110–293, § 102(1)][/us/pl/110/293/s102/1], which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
+    2008—Subsec. (f)(2)(A). [Pub. L. 110–293][/us/pl/110/293], § 102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
 
-    Subsec. (f)(2)(B)(ii)(IV), (V). [Pub. L. 110–293, § 102(2)(A)][/us/pl/110/293/s102/2/A], (B), added subcls. (IV) and (V) and struck out former subcls. (IV) and (V) which read as follows:
+    Subsec. (f)(2)(B)(ii)(IV), (V). [Pub. L. 110–293][/us/pl/110/293], § 102(2)(A), (B), added subcls. (IV) and (V) and struck out former subcls. (IV) and (V) which read as follows:
 
     “(IV) Ensuring coordination of relevant executive branch agency activities in the field.
 
     “(V) Pursuing coordination with other countries and international organizations.”
 
-    Subsec. (f)(2)(B)(ii)(VII), (VIII). [Pub. L. 110–293, § 102(2)(D)][/us/pl/110/293/s102/2/D], added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
+    Subsec. (f)(2)(B)(ii)(VII), (VIII). [Pub. L. 110–293][/us/pl/110/293], § 102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
 
-    Subsec. (f)(2)(B)(ii)(IX). [Pub. L. 110–293, § 102(2)(E)][/us/pl/110/293/s102/2/E], inserted “Vietnam,” after “Uganda,” and “, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program” after “May 27, 2003” and inserted at end “In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.”
+    Subsec. (f)(2)(B)(ii)(IX). [Pub. L. 110–293][/us/pl/110/293], § 102(2)(E), inserted “Vietnam,” after “Uganda,” and “, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program” after “May 27, 2003” and inserted at end “In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.”
 
-    [Pub. L. 110–293, § 102(2)(C)][/us/pl/110/293/s102/2/C], redesignated subcl. (VII) as (IX).
+    [Pub. L. 110–293][/us/pl/110/293], § 102(2)(C), redesignated subcl. (VII) as (IX).
 
-    Subsec. (f)(2)(B)(ii)(X), (XI). [Pub. L. 110–293, § 102(2)(F)][/us/pl/110/293/s102/2/F], added subcls. (X) and (XI).
+    Subsec. (f)(2)(B)(ii)(X), (XI). [Pub. L. 110–293][/us/pl/110/293], § 102(2)(F), added subcls. (X) and (XI).
 
-    Subsec. (f)(2)(B)(ii)(XII). [Pub. L. 110–293, § 102(2)(G)][/us/pl/110/293/s102/2/G], substituted “funds appropriated for HIV/AIDS assistance pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]” for “funds section”.
+    Subsec. (f)(2)(B)(ii)(XII). [Pub. L. 110–293][/us/pl/110/293], § 102(2)(G), substituted “funds appropriated for HIV/AIDS assistance pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]” for “funds section”.
 
-    [Pub. L. 110–293, § 102(2)(C)][/us/pl/110/293/s102/2/C], redesignated subcl. (VIII) as (XII).
+    [Pub. L. 110–293][/us/pl/110/293], § 102(2)(C), redesignated subcl. (VIII) as (XII).
 
-    Subsec. (f)(2)(B)(ii)(XIII). [Pub. L. 110–293, § 102(2)(H)][/us/pl/110/293/s102/2/H], added subcl. (XIII).
+    Subsec. (f)(2)(B)(ii)(XIII). [Pub. L. 110–293][/us/pl/110/293], § 102(2)(H), added subcl. (XIII).
 
     2004—Subsec. (b)(3). [Pub. L. 108–458][/us/pl/108/458] inserted “The Under Secretary for Public Diplomacy shall—” at end and added subpars. (A) to (E).
 
@@ -259,33 +259,33 @@
 
     2000—Subsec. (a)(2). [Pub. L. 106–553][/us/pl/106/553] substituted “, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources” for “and the Deputy Secretary of State”.
 
-    1998—Subsec. (b). [Pub. L. 105–277, § 1213][/us/pl/105/277/s1213], designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    1998—Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1213, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 105–277, § 2305(a)(1)][/us/pl/105/277/s2305/a/1], substituted “6 Under Secretaries” for “5 Under Secretaries”.
+    Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277], § 2305(a)(1), substituted “6 Under Secretaries” for “5 Under Secretaries”.
 
-    Subsec. (b)(3). [Pub. L. 105–277, § 1313][/us/pl/105/277/s1313], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–277][/us/pl/105/277], § 1313, added par. (3).
 
-    Subsec. (b)(4). [Pub. L. 105–277, § 2306(a)][/us/pl/105/277/s2306/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 105–277][/us/pl/105/277], § 2306(a), added par. (4).
 
-    Subsec. (c)(1). [Pub. L. 105–277, § 2305(b)(1)][/us/pl/105/277/s2305/b/1], substituted “24” for “20”.
+    Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277], § 2305(b)(1), substituted “24” for “20”.
 
-    Subsec. (c)(3). [Pub. L. 105–277, § 2306(b)][/us/pl/105/277/s2306/b], added par. (3).
+    Subsec. (c)(3). [Pub. L. 105–277][/us/pl/105/277], § 2306(b), added par. (3).
 
-    Subsec. (d). [Pub. L. 105–277, § 2305(c)][/us/pl/105/277/s2305/c], redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “There shall be in the Department of State not more than 66 Deputy Assistant Secretaries of State.”
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 2305(c), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “There shall be in the Department of State not more than 66 Deputy Assistant Secretaries of State.”
 
-    Subsec. (e). [Pub. L. 105–277, § 2305(c)(2)][/us/pl/105/277/s2305/c/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 105–277][/us/pl/105/277], § 2305(c)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 105–277, § 2305(c)(2)][/us/pl/105/277/s2305/c/2], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 105–277][/us/pl/105/277], § 2305(c)(2), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    [Pub. L. 105–277, § 2301(a)][/us/pl/105/277/s2301/a], added subsec. (f).
+    [Pub. L. 105–277][/us/pl/105/277], § 2301(a), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 105–277, § 2305(c)(2)][/us/pl/105/277/s2305/c/2], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 105–277][/us/pl/105/277], § 2305(c)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    [Pub. L. 105–277, § 2303][/us/pl/105/277/s2303], added subsec. (g).
+    [Pub. L. 105–277][/us/pl/105/277], § 2303, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 105–277, § 2305(c)(2)][/us/pl/105/277/s2305/c/2], redesignated subsec. (h) as (g).
+    Subsec. (h). [Pub. L. 105–277][/us/pl/105/277], § 2305(c)(2), redesignated subsec. (h) as (g).
 
-    [Pub. L. 105–277, § 2304][/us/pl/105/277/s2304], added subsec. (h).
+    [Pub. L. 105–277][/us/pl/105/277], § 2304, added subsec. (h).
 
     1994—[Pub. L. 103–236][/us/pl/103/236] amended section generally. Prior to amendment, section read as follows: “The Secretary of State is authorized to establish, maintain, and operate passport and despatch agencies.”
 
@@ -305,7 +305,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–236, title I, § 161(b)][/us/pl/103/236/s161/b], Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], as amended by [Pub. L. 103–415, § 1(f)(2)][/us/pl/103/415/s1/f/2], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 161(b), Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(f)(2), Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], provided that: 
 
 > “The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and [section 1525 of Title 8][/us/usc/t8/s1525], and amending provisions set out as a note under [section 113 of Title 10][/us/usc/t10/s113], Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier.”
 
@@ -315,11 +315,11 @@
 
  __Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7034(q)(2)][/us/pl/112/74/s7034/q/2], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that: 
+[Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(q)(2), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that: 
 
 > “The position of Coordinator established pursuant to section 664 of division J of [Public Law 110–161][/us/pl/110/161] \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): Provided, That the Coordinator shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: Provided further, That the responsibilities of the Coordinator enumerated in the first sentence of section 664(c) shall remain in full force and effect: Provided further, That the limitation in the second sentence of such section shall hereafter no longer apply to the Coordinator.”
 
-[Pub. L. 110–161, div. J, title VI, § 664(b)][/us/pl/110/161/s664/b], (c), Dec. 26, 2007, [121 Stat. 2349][/us/stat/121/2349], provided that:
+[Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 664(b), (c), Dec. 26, 2007, [121 Stat. 2349][/us/stat/121/2349], provided that:
 
 >     “(b)  __Coordinator__  __.—__ 
 
@@ -329,13 +329,13 @@
 
 >     That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual’s time of service as Coordinator.”
 
-\[[Pub. L. 111–117, div. F, title VII, § 7064(a)(2)][/us/pl/111/117/s7064/a/2], Dec. 16, 2009, [123 Stat. 3383][/us/stat/123/3383], provided that: 
+\[[Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7064(a)(2), Dec. 16, 2009, [123 Stat. 3383][/us/stat/123/3383], provided that: 
 
 > “There shall continue to be a Coordinator of United States Government Actions to Provide Basic Education Assistance in developing countries as established in section 664 of division J of [Public Law 110–161][/us/pl/110/161] \[set out above\].”
 
 \]
 
-\[[Pub. L. 111–8, div. H, title VII, § 7064(a)(2)][/us/pl/111/8/s7064/a/2], Mar. 11, 2009, [123 Stat. 899][/us/stat/123/899], provided that: 
+\[[Pub. L. 111–8, div. H, title VII][/us/pl/111/8/dH/tVII], § 7064(a)(2), Mar. 11, 2009, [123 Stat. 899][/us/stat/123/899], provided that: 
 
 > “There shall continue to be a Coordinator of United States government actions to provide basic education assistance in developing countries as established in section 664 of division J of [Public Law 110–161][/us/pl/110/161] \[set out above\].”
 
@@ -343,11 +343,11 @@
 
  __Advisor for Activities Relating to Indigenous Peoples Internationally__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7034(q)(1)][/us/pl/112/74/s7034/q/1], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that: 
+[Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(q)(1), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that: 
 
 > “The position of Advisor established pursuant to section 699B of division J of [Public Law 110–161][/us/pl/110/161] \[set out below\] shall, within 45 days of enactment of this Act \[Dec. 23, 2011\] and notwithstanding the requirements of such section, be moved to the United States Agency for International Development (USAID): Provided, That the Advisor shall hereafter be appointed by the USAID Administrator and shall report directly to the Administrator: Provided further, That the responsibilities of the Advisor enumerated in section 699B(b) shall remain in full force and effect.”
 
-[Pub. L. 110–161, div. J, title VI, § 699B][/us/pl/110/161/s699B], Dec. 26, 2007, [121 Stat. 2369][/us/stat/121/2369], provided that:
+[Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 699B, Dec. 26, 2007, [121 Stat. 2369][/us/stat/121/2369], provided that:
 
 >     “(a)  __Advisor__  __.—__ 
 
@@ -373,13 +373,13 @@
 
  __Consultation__ 
 
-[Pub. L. 108–458, title VII, § 7109(b)(2)][/us/pl/108/458/s7109/b/2], Dec. 17, 2004, [118 Stat. 3793][/us/stat/118/3793], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7109(b)(2), Dec. 17, 2004, [118 Stat. 3793][/us/stat/118/3793], provided that: 
 
 > “The Under Secretary of State for Public Diplomacy, in carrying out the responsibilities described in section 1(b)(3) of such Act \[[22 U.S.C. 2651a(b)(3)][/us/usc/t22/s2651a/b/3]\] (as amended by paragraph (1)), shall consult with public diplomacy officers operating at United States overseas posts and in the regional bureaus of the Department of State.”
 
  __Office of the Coordinator for Reconstruction and Stabilization__ 
 
-[Pub. L. 108–447, div. B, title IV, § 408][/us/pl/108/447/s408], Dec. 8, 2004, [118 Stat. 2904][/us/stat/118/2904], provided that: 
+[Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], § 408, Dec. 8, 2004, [118 Stat. 2904][/us/stat/118/2904], provided that: 
 
 > “There is established within the Department of State the Office of the Coordinator for Reconstruction and Stabilization: Provided, That the head of the Office shall be the Coordinator for Reconstruction and Stabilization, who shall report directly to the Secretary of State: Provided further, That the functions of the Office of the Coordinator for Reconstruction and Stabilization shall include—
 
@@ -397,11 +397,11 @@
 
  __Comprehensive Workforce Plan__ 
 
-    [Pub. L. 107–228, div. A, title III, § 301][/us/pl/107/228/s301], Sept. 30, 2002, [116 Stat. 1376][/us/stat/116/1376], required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
+    [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 301, Sept. 30, 2002, [116 Stat. 1376][/us/stat/116/1376], required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
 
 “Rightsizing” Overseas Posts
 
-[Pub. L. 107–228, div. A, title III, § 302][/us/pl/107/228/s302], Sept. 30, 2002, [116 Stat. 1376][/us/stat/116/1376], provided that:
+[Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 302, Sept. 30, 2002, [116 Stat. 1376][/us/stat/116/1376], provided that:
 
 >     “(a) __‘Rightsizing’ at the Department of State.—__ 
 
@@ -447,11 +447,11 @@
 
  __Report Concerning Minority Employment__ 
 
-    [Pub. L. 107–228, div. A, title III, § 324][/us/pl/107/228/s324], Sept. 30, 2002, [116 Stat. 1385][/us/stat/116/1385], required the Secretary of State, on Apr. 1 of 2003 and 2004, to submit a comprehensive report to Congress, with respect to the preceding calendar year, concerning the employment of members of minority groups at the Department, including the Civil Service and the Foreign Service.
+    [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 324, Sept. 30, 2002, [116 Stat. 1385][/us/stat/116/1385], required the Secretary of State, on Apr. 1 of 2003 and 2004, to submit a comprehensive report to Congress, with respect to the preceding calendar year, concerning the employment of members of minority groups at the Department, including the Civil Service and the Foreign Service.
 
  __Use of Funds Authorized for Minority Recruitment__ 
 
-[Pub. L. 107–228, div. A, title III, § 325][/us/pl/107/228/s325], Sept. 30, 2002, [116 Stat. 1386][/us/stat/116/1386], provided that:
+[Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 325, Sept. 30, 2002, [116 Stat. 1386][/us/stat/116/1386], provided that:
 
 >     “(a) __Conduct of Recruitment Activities.—__ 
 
@@ -473,13 +473,13 @@
 
  __State Department Official for Northeastern Europe__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 302\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–434, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 302\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–434, provided that: 
 
 > “The Secretary of State shall designate a senior-level official of the Department of State with responsibility for promoting regional cooperation in and coordinating United States policy toward Northeastern Europe.”
 
  __Science and Technology Adviser to Secretary of State__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–434, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–434, provided that:
 
 >     “(a)  __Designation__  __.—__ 
 
@@ -495,7 +495,7 @@
 
  __Transition; Reappointment of Officers Holding Office as of__  __April 30, 1994__  __, Not Required__ 
 
-[Pub. L. 103–236, title I, § 161(c)][/us/pl/103/236/s161/c], Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 161(c), Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], provided that: 
 
 > “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
 
@@ -503,17 +503,17 @@
 
  __References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State__ 
 
-[Pub. L. 103–236, title I, § 161(d)][/us/pl/103/236/s161/d], Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 161(d), Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], provided that: 
 
 > “Except as specifically provided in this Act \[see Tables for classification\], or the amendments made by this Act, a reference in any other provision of law to an official or office of the Department of State affected by the amendment made by subsection (a) \[amending this section\] (other than the Inspector General of the Department of State and the Chief Financial Officer of the Department of State) shall be deemed to be a reference to the Secretary of State or the Department of State, as may be appropriate.”
 
  __Office of Coordinator for Counterterrorism__ 
 
-    [Pub. L. 103–236, title I, § 161(e)][/us/pl/103/236/s161/e], Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2301(b), Oct. 21, 1998, [112 Stat. 2681–824][/us/stat/112/2681-824].
+    [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 161(e), Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2301(b), Oct. 21, 1998, [112 Stat. 2681–824][/us/stat/112/2681-824].
 
  __Deputy Assistant Secretary for Burdensharing__ 
 
-    [Pub. L. 103–236, title I, § 161(f)][/us/pl/103/236/s161/f], Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], as amended by [Pub. L. 103–415, § 1(f)(3)][/us/pl/103/415/s1/f/3], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2302, Oct. 21, 1998, [112 Stat. 2681–825][/us/stat/112/2681-825].
+    [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 161(f), Apr. 30, 1994, [108 Stat. 404][/us/stat/108/404], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(f)(3), Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2302, Oct. 21, 1998, [112 Stat. 2681–825][/us/stat/112/2681-825].
 
  __Authorization To Redelegate Certain Responsibilities Vested in the President and Delegated to the Secretary of State__ 
 
@@ -533,19 +533,9 @@
 
     For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in sections 301, 302, 324, and 325 of [Pub. L. 107–228][/us/pl/107/228], set out as notes above, see [section 3 of Pub. L. 107–228][/us/pl/107/228/s3], set out as a note under [section 2651 of this title][/us/usc/t22/s2651].
 
-§§ 2652, 2652a. __Repealed.__  __[__  __Pub. L. 103–236, title I, § 162(a)__  __][/us/pl/103/236/s162/a]__  __, (b),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 405__  __][/us/stat/108/405]__ 
-
-    Section 2652, [May 26, 1949, ch. 143, § 1][/us/act/1949-05-26/ch143/s1], [63 Stat. 111][/us/stat/63/111]; [Feb. 7, 1953. ch. 2][/us/act/1953-02-07/ch2], [67 Stat. 4][/us/stat/67/4]; [Aug. 5, 1955, ch. 576, § 1][/us/act/1955-08-05/ch576/s1], [69 Stat. 536][/us/stat/69/536]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(j)(1), [72 Stat. 274][/us/stat/72/274]; July 18, 1958, [Pub. L. 85–524, § 1][/us/pl/85/524/s1], [72 Stat. 363][/us/stat/72/363]; July 13, 1972, [Pub. L. 92–352, title I, § 103(a)(1)][/us/pl/92/352/s103/a/1], [86 Stat. 490][/us/stat/86/490]; Aug. 17, 1977, [Pub. L. 95–105, title I, § 109(c)][/us/pl/95/105/s109/c], [91 Stat. 847][/us/stat/91/847]; Oct. 7, 1978, [Pub. L. 95–426, title I, § 114(a)(1)][/us/pl/95/426/s114/a/1], [92 Stat. 968][/us/stat/92/968]; Aug. 16, 1985, [Pub. L. 99–93, title I][/us/pl/99/93], §§ 115(a), 116(a), [99 Stat. 411][/us/stat/99/411]; Aug. 27, 1986, [Pub. L. 99–399, title I, § 104(b)][/us/pl/99/399/s104/b], [100 Stat. 856][/us/stat/100/856], established positions in Department of State of Deputy Secretary of State, Under Secretary of State for Political Affairs, Under Secretary of State for Economic and Agricultural Affairs, Under Secretary of State for Management, and Assistant Secretaries of State.
-
-    Section 2652a, [Pub. L. 95–426, title I, § 115(a)][/us/pl/95/426/s115/a], Oct. 7, 1978, [92 Stat. 969][/us/stat/92/969], established position in Department of State of Assistant Secretary of State for International Narcotics Matters.
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of [Pub. L. 103–236][/us/pl/103/236] become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see [section 161(b) of Pub. L. 103–236][/us/pl/103/236/s161/b], as amended, set out as an Effective Date of 1994 Amendment note under [section 2651a of this title][/us/usc/t22/s2651a].
-
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2651.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2651.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652 _us_usc_t22_s2652a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a)
 
 ----------
 ----------
@@ -559,25 +549,25 @@
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/stat/70/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F890
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/103/236/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fa
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F402
-[/us/pl/103/415/s1/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Ff%2F1
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4299
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-767
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/107/228/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs303
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1377
-[/us/pl/108/25/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs102%2Fa
+[/us/pl/108/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtI
 [/us/stat/117/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F721
-[/us/pl/108/458/s7109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7109%2Fb%2F1
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3793
-[/us/pl/110/293/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102
+[/us/pl/110/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtI
 [/us/stat/122/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2933
-[/us/pl/112/166/s2/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fj
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1286
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/stat/70/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F890
@@ -589,37 +579,37 @@
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
 [/us/usc/t22/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2662
 [/us/usc/t5/s170f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170f
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/110/293/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F1
-[/us/pl/110/293/s102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FA
-[/us/pl/110/293/s102/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FD
-[/us/pl/110/293/s102/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FE
-[/us/pl/110/293/s102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FC
-[/us/pl/110/293/s102/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FF
-[/us/pl/110/293/s102/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FG
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/110/293/s102/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FC
-[/us/pl/110/293/s102/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs102%2F2%2FH
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
-[/us/pl/105/277/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1213
-[/us/pl/105/277/s2305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fa%2F1
-[/us/pl/105/277/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1313
-[/us/pl/105/277/s2306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2306%2Fa
-[/us/pl/105/277/s2305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fb%2F1
-[/us/pl/105/277/s2306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2306%2Fb
-[/us/pl/105/277/s2305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fc
-[/us/pl/105/277/s2305/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fc%2F2
-[/us/pl/105/277/s2305/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fc%2F2
-[/us/pl/105/277/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2301%2Fa
-[/us/pl/105/277/s2305/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fc%2F2
-[/us/pl/105/277/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2303
-[/us/pl/105/277/s2305/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2305%2Fc%2F2
-[/us/pl/105/277/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2304
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
@@ -632,100 +622,73 @@
 [/us/pl/105/277/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1313
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531
-[/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F404
-[/us/pl/103/415/s1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Ff%2F2
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4300
 [/us/usc/t8/s1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1525
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/97/241/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs204
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
-[/us/pl/112/74/s7034/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fq%2F2
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/161/s664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs664%2Fb
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2349
-[/us/pl/111/117/s7064/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7064%2Fa%2F2
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3383
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/111/8/s7064/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7064%2Fa%2F2
+[/us/pl/111/8/dH/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdH%2FtVII
 [/us/stat/123/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F899
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/112/74/s7034/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fq%2F1
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/161/s699B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs699B
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2369
 [/us/stat/121/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2277
-[/us/pl/108/458/s7109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7109%2Fb%2F2
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3793
 [/us/usc/t22/s2651a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a%2Fb%2F3
-[/us/pl/108/447/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs408
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2904
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/107/228/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs301
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1376
-[/us/pl/107/228/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs302
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1376
-[/us/pl/107/228/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs324
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1385
-[/us/pl/107/228/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs325
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1386
 [/us/pl/107/228/s111/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs111%2Fa%2F1%2FD
 [/us/stat/116/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1356
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
 [/us/usc/t20/s1101a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa%2F5
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/103/236/s161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fc
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F404
 [/us/pl/103/236/s161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fc
 [/us/usc/t22/s2370a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370a
-[/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F404
-[/us/pl/103/236/s161/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fe
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F404
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-824
-[/us/pl/103/236/s161/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Ff
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F404
-[/us/pl/103/415/s1/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Ff%2F3
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4300
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-825
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/103/236/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fa
-[/us/stat/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F405
-[/us/act/1949-05-26/ch143/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-26%2Fch143%2Fs1
-[/us/stat/63/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F111
-[/us/act/1953-02-07/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-02-07%2Fch2
-[/us/stat/67/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F4
-[/us/act/1955-08-05/ch576/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch576%2Fs1
-[/us/stat/69/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F536
-[/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
-[/us/stat/72/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F274
-[/us/pl/85/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F524%2Fs1
-[/us/stat/72/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F363
-[/us/pl/92/352/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs103%2Fa%2F1
-[/us/stat/86/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F490
-[/us/pl/95/105/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs109%2Fc
-[/us/stat/91/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F847
-[/us/pl/95/426/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs114%2Fa%2F1
-[/us/stat/92/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F968
-[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
-[/us/stat/99/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F411
-[/us/pl/99/399/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs104%2Fb
-[/us/stat/100/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F856
-[/us/pl/95/426/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs115%2Fa
-[/us/stat/92/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F969
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
-[/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 
 

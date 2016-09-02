@@ -41,7 +41,7 @@
 
         Any expenses incurred in awarding a person a Thomas Jefferson Star for Foreign Service may be paid out of appropriations available at the time of the award for personnel of the department or agency of the United States Government in which the person was employed when the person incurred the wound, injury, or illness upon which the award is based.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 36A, as added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 321\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–436; amended [Pub. L. 107–228, div. A, title III, § 311][/us/pl/107/228/s311], Sept. 30, 2002, [116 Stat. 1377][/us/stat/116/1377].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 36A, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 321\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–436; amended [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 311, Sept. 30, 2002, [116 Stat. 1377][/us/stat/116/1377].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs311
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1377
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 

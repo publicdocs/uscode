@@ -17,7 +17,7 @@
 
     The district courts of the United States are given jurisdiction to make and enter all such rules as to notice and otherwise, and all such orders and decrees, and to issue such process as may be necessary and proper in the premises to enforce the provisions of this subchapter, with a right of appeal from the final order or decree of such court as provided in chapter 83 of title 28.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 206, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 563][/us/stat/69/563]; amended [Pub. L. 100–352, § 6(g)][/us/pl/100/352/s6/g], June 27, 1988, [102 Stat. 664][/us/stat/102/664].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 206, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 563][/us/stat/69/563]; amended [Pub. L. 100–352][/us/pl/100/352], § 6(g), June 27, 1988, [102 Stat. 664][/us/stat/102/664].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F563
-[/us/pl/100/352/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352%2Fs6%2Fg
+[/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/stat/102/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F664
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352
 [/us/pl/100/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F352

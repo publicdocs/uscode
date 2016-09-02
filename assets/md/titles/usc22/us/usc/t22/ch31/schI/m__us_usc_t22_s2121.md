@@ -69,57 +69,57 @@
 
         (16) harmonize, to the maximum extent possible, all Federal activities in support of tourism and recreation with the needs of the general public and the States, territories, local governments, and the tourism and recreation industry, and to give leadership to all concerned with tourism, recreation, and national heritage preservation in the United States.
 
-([Pub. L. 87–63, title I, § 101][/us/pl/87/63/s101], formerly § 1, June 29, 1961, [75 Stat. 129][/us/stat/75/129]; renumbered and amended [Pub. L. 97–63, § 2(a)][/us/pl/97/63/s2/a], Oct. 16, 1981, [95 Stat. 1011][/us/stat/95/1011]; [Pub. L. 102–372, § 5][/us/pl/102/372/s5], Sept. 30, 1992, [106 Stat. 1175][/us/stat/106/1175].)
+([Pub. L. 87–63, title I][/us/pl/87/63/tI], § 101, formerly § 1, June 29, 1961, [75 Stat. 129][/us/stat/75/129]; renumbered and amended [Pub. L. 97–63][/us/pl/97/63], § 2(a), Oct. 16, 1981, [95 Stat. 1011][/us/stat/95/1011]; [Pub. L. 102–372][/us/pl/102/372], § 5, Sept. 30, 1992, [106 Stat. 1175][/us/stat/106/1175].)
 
  __Amendments__ 
 
-    1992—Subsec. (b)(1). [Pub. L. 102–372, § 5(1)][/us/pl/102/372/s5/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;”.
+    1992—Subsec. (b)(1). [Pub. L. 102–372][/us/pl/102/372], § 5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;”.
 
-    Subsec. (b)(2) to (16). [Pub. L. 102–372, § 5(2)][/us/pl/102/372/s5/2], (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
+    Subsec. (b)(2) to (16). [Pub. L. 102–372][/us/pl/102/372], § 5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
     1981—[Pub. L. 97–63][/us/pl/97/63] substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–63, § 6][/us/pl/97/63/s6], Oct. 16, 1981, [95 Stat. 1018][/us/stat/95/1018], provided that: 
+[Pub. L. 97–63][/us/pl/97/63], § 6, Oct. 16, 1981, [95 Stat. 1018][/us/stat/95/1018], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1981 Amendment note below\] shall take effect October 1, 1981.”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–235, div. B, title VI, § 601][/us/pl/113/235/s601], Dec. 16, 2014, [128 Stat. 2218][/us/stat/128/2218], provided that: 
+[Pub. L. 113–235, div. B, title VI][/us/pl/113/235/dB/tVI], § 601, Dec. 16, 2014, [128 Stat. 2218][/us/stat/128/2218], provided that: 
 
 > “This title \[amending sections 2123, 2123a, and 2131 of this title and [section 1187 of Title 8][/us/usc/t8/s1187], Aliens and Nationality\] may be cited as the ‘Travel Promotion, Enhancement, and Modernization Act of 2014’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–288, § 1][/us/pl/104/288/s1], Oct. 11, 1996, [110 Stat. 3402][/us/stat/110/3402], provided that: 
+[Pub. L. 104–288][/us/pl/104/288], § 1, Oct. 11, 1996, [110 Stat. 3402][/us/stat/110/3402], provided that: 
 
 > “This Act \[enacting sections 2124 and 2141 to 2141f of this title, amending sections 2122 and 2124c of this title and [section 4727 of Title 15][/us/usc/t15/s4727], Commerce and Trade, and repealing sections 2123 to 2123d, 2124 to 2124b, and 2126 to 2129 of this title\] may be cited as the ‘United States National Tourism Organization Act of 1996’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–372, § 1(a)][/us/pl/102/372/s1/a], Sept. 30, 1992, [106 Stat. 1170][/us/stat/106/1170], provided that: 
+[Pub. L. 102–372][/us/pl/102/372], § 1(a), Sept. 30, 1992, [106 Stat. 1170][/us/stat/106/1170], provided that: 
 
 > “This Act \[enacting sections 2123a to 2123d and 2124c of this title, amending this section and sections 2122, 2123, 2124 to 2124b, and 2126 of this title, repealing sections 2123a and 2123b of this title, and enacting provisions set out as notes under this section and sections 2122 and 2124 of this title\] may be cited as the ‘Tourism Policy and Export Promotion Act of 1992’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–63, § 1][/us/pl/97/63/s1], Oct. 16, 1981, [95 Stat. 1011][/us/stat/95/1011], provided that: 
+[Pub. L. 97–63][/us/pl/97/63], § 1, Oct. 16, 1981, [95 Stat. 1011][/us/stat/95/1011], provided that: 
 
 > “This Act \[enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing [section 2128 of this title][/us/usc/t22/s2128], and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the ‘National Tourism Policy Act’.”
 
  __Short Title__ 
 
-[Pub. L. 87–63, § 1][/us/pl/87/63/s1], June 29, 1961, [75 Stat. 129][/us/stat/75/129], as amended by [Pub. L. 97–63, § 2(a)][/us/pl/97/63/s2/a], Oct. 16, 1981, [95 Stat. 1011][/us/stat/95/1011], provided: 
+[Pub. L. 87–63][/us/pl/87/63], § 1, June 29, 1961, [75 Stat. 129][/us/stat/75/129], as amended by [Pub. L. 97–63][/us/pl/97/63], § 2(a), Oct. 16, 1981, [95 Stat. 1011][/us/stat/95/1011], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘International Travel Act of 1961’.”
 
-    [Pub. L. 87–63, § 8][/us/pl/87/63/s8], formerly § 7, June 29, 1961, [75 Stat. 130][/us/stat/75/130], as renumbered [Pub. L. 91–477, § 5][/us/pl/91/477/s5], Oct. 21, 1970, [84 Stat. 1072][/us/stat/84/1072], which had formerly authorized the citation of [Pub. L. 87–63][/us/pl/87/63] as the “International Travel Act of 1961”, was repealed by [Pub. L. 97–63, § 5(b)][/us/pl/97/63/s5/b], Oct. 16, 1981, [95 Stat. 1018][/us/stat/95/1018].
+    [Pub. L. 87–63][/us/pl/87/63], § 8, formerly § 7, June 29, 1961, [75 Stat. 130][/us/stat/75/130], as renumbered [Pub. L. 91–477][/us/pl/91/477], § 5, Oct. 21, 1970, [84 Stat. 1072][/us/stat/84/1072], which had formerly authorized the citation of [Pub. L. 87–63][/us/pl/87/63] as the “International Travel Act of 1961”, was repealed by [Pub. L. 97–63][/us/pl/97/63], § 5(b), Oct. 16, 1981, [95 Stat. 1018][/us/stat/95/1018].
 
  __Tourism Policy and Export Promotion; Congressional Statement of Findings__ 
 
-[Pub. L. 102–372, § 2][/us/pl/102/372/s2], Sept. 30, 1992, [106 Stat. 1170][/us/stat/106/1170], provided that: 
+[Pub. L. 102–372][/us/pl/102/372], § 2, Sept. 30, 1992, [106 Stat. 1170][/us/stat/106/1170], provided that: 
 
 > “The Congress finds that—
 
@@ -149,7 +149,7 @@
 
  __National Tourism Resources Review Commission__ 
 
-[Pub. L. 91–477, § 6][/us/pl/91/477/s6], Oct. 21, 1970, [84 Stat. 1073][/us/stat/84/1073], provided that:
+[Pub. L. 91–477][/us/pl/91/477], § 6, Oct. 21, 1970, [84 Stat. 1073][/us/stat/84/1073], provided that:
 
 >     “(a)
 
@@ -278,42 +278,42 @@
 ----------
 ----------
 
-[/us/pl/87/63/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs101
+[/us/pl/87/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2FtI
 [/us/stat/75/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F129
-[/us/pl/97/63/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs2%2Fa
-[/us/stat/95/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1011
-[/us/pl/102/372/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs5
-[/us/stat/106/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1175
-[/us/pl/102/372/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs5%2F1
-[/us/pl/102/372/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs5%2F2
 [/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
-[/us/pl/97/63/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs6
+[/us/stat/95/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1011
+[/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
+[/us/stat/106/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1175
+[/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
+[/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1018
-[/us/pl/113/235/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs601
+[/us/pl/113/235/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVI
 [/us/stat/128/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2218
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
-[/us/pl/104/288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs1
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/stat/110/3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3402
 [/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727
-[/us/pl/102/372/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs1%2Fa
+[/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
 [/us/stat/106/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1170
-[/us/pl/97/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs1
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1011
 [/us/usc/t22/s2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2128
-[/us/pl/87/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs1
+[/us/pl/87/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63
 [/us/stat/75/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F129
-[/us/pl/97/63/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs2%2Fa
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1011
-[/us/pl/87/63/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs8
+[/us/pl/87/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63
 [/us/stat/75/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F130
-[/us/pl/91/477/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477%2Fs5
+[/us/pl/91/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477
 [/us/stat/84/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1072
 [/us/pl/87/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63
-[/us/pl/97/63/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs5%2Fb
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1018
-[/us/pl/102/372/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs2
+[/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
 [/us/stat/106/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1170
-[/us/pl/91/477/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477%2Fs6
+[/us/pl/91/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477
 [/us/stat/84/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1073
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703

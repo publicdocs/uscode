@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 213, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 290][/us/stat/96/290].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 213, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 290][/us/stat/96/290].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F290
 
 

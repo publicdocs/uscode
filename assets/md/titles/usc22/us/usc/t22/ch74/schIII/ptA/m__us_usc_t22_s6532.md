@@ -23,7 +23,7 @@
 
         Subsection (a) does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1312, Oct. 21, 1998, [112 Stat. 2681–776][/us/stat/112/2681-776].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1312, Oct. 21, 1998, [112 Stat. 2681–776][/us/stat/112/2681-776].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-776
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301

@@ -47,7 +47,7 @@
 
         The Commissioner General of a United States pavilion or other major exhibit at any international exposition or world’s fair registered by the Bureau of International Expositions shall submit to the Secretary of State and the appropriate congressional committees a report concerning activities relating to such pavilion or exhibit every 180 days while serving as Commissioner General and shall submit a final report summarizing all such activities not later than 1 year after the closure of the pavilion or exhibit.
 
-([Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 204\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–420.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 204\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–420.)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t22/s2452/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fa%2F3
 [/us/usc/t22/s2455/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2455%2Ff
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7

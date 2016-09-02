@@ -35,7 +35,7 @@
 
     (6) to strengthen cooperation with other democratic countries in order to better promote and defend shared values and ideals.
 
-([Pub. L. 110–53, title XXI, § 2103][/us/pl/110/53/s2103], Aug. 3, 2007, [121 Stat. 527][/us/stat/121/527].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2103, Aug. 3, 2007, [121 Stat. 527][/us/stat/121/527].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2103
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F527
 
 

@@ -31,7 +31,7 @@
 
         (2) The term “agent of a foreign power” has the same meaning as set forth in section 1801(b)(1)(B) and (b)(2) of title 50, and does not include any person who acts in the capacity defined under [section 1801(b)(1)(A) of title 50][/us/usc/t50/s1801/b/1/A].
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1012, as added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 403\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–446.)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1012, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title IV, § 403\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–446.)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
 [/us/usc/t50/s1801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb%2F1%2FA
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/272/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs101
 [/us/stat/112/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2397

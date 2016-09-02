@@ -49,11 +49,11 @@
 
             Not later than 60 days after receiving such a request, the President shall provide to the Chairman of the Committee on Foreign Relations of the Senate and the Chairman of the Committee on Foreign Affairs of the House of Representatives a written report on the information held by the executive branch which is pertinent to the issue of whether the specified government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. This report shall contain an analysis of each of the items enumerated in subsection (a)(2).
 
-([Pub. L. 102–182, title III][/us/pl/102/182], §§ 306, 309(b)(3), Dec. 4, 1991, [105 Stat. 1252][/us/stat/105/1252], 1259.)
+([Pub. L. 102–182, title III][/us/pl/102/182/tIII], §§ 306, 309(b)(3), Dec. 4, 1991, [105 Stat. 1252][/us/stat/105/1252], 1259.)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 101–182, § 309(b)(3)][/us/pl/101/182/s309/b/3], substituted “October 28, 1991” for reference to the “date of the enactment of this title”, meaning the date of the enactment of title V of [Pub. L. 101–182][/us/pl/101/182] which was enacted Dec. 4, 1991. “October 28, 1991”, the second time appearing, was substituted for “such date of enactment” for purposes of codification.
+    1991—Subsec. (a)(1). [Pub. L. 101–182][/us/pl/101/182], § 309(b)(3), substituted “October 28, 1991” for reference to the “date of the enactment of this title”, meaning the date of the enactment of title V of [Pub. L. 101–182][/us/pl/101/182] which was enacted Dec. 4, 1991. “October 28, 1991”, the second time appearing, was substituted for “such date of enactment” for purposes of codification.
 
  __Delegation of Functions__ 
 
@@ -68,9 +68,9 @@
 
 [/us/usc/t22/s5605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5605
 [/us/usc/t22/s5605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5605
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1252
-[/us/pl/101/182/s309/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F182%2Fs309%2Fb%2F3
+[/us/pl/101/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F182
 [/us/pl/101/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F182
 [/us/usc/t22/s2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797
 

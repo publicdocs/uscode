@@ -59,7 +59,7 @@
 
         On receipt of each report required to be submitted pursuant to subsection (d) of this section, and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to the Committee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
 
-([Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 111–203, title IX, § 939(f)][/us/pl/111/203/s939/f], July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
+([Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939(f), July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
 
  __Codification__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/111/203/s939/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Ff
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1886
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339

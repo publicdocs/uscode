@@ -19,7 +19,7 @@
 
     (b) The Board shall review and determine the appeals of employees in accordance with [section 3662 of this title][/us/usc/t22/s3662]. The decisions of the Board shall conform to the provisions of this subpart.
 
-([Pub. L. 96–70, title I, § 1221][/us/pl/96/70/s1221], Sept. 27, 1979, [93 Stat. 466][/us/stat/93/466]; [Pub. L. 105–85, div. C, title XXXV, § 3548][/us/pl/105/85/s3548], Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1221, Sept. 27, 1979, [93 Stat. 466][/us/stat/93/466]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3548, Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t22/s3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3662
-[/us/pl/96/70/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1221
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F466
-[/us/pl/105/85/s3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3548
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2073
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

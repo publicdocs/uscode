@@ -47,7 +47,7 @@
 
         (2) This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
 
-([Pub. L. 95–242, title VI, § 602][/us/pl/95/242/s602], Mar. 10, 1978, [92 Stat. 151][/us/stat/92/151]; [Pub. L. 99–661, div. A, title XIII, § 1370][/us/pl/99/661/s1370], Nov. 14, 1986, [100 Stat. 4004][/us/stat/100/4004]; [Pub. L. 103–437, § 9(a)(8)][/us/pl/103/437/s9/a/8], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(e)(6), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7], \[div. B, title XI, § 1131\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–492.)
+([Pub. L. 95–242, title VI][/us/pl/95/242/tVI], § 602, Mar. 10, 1978, [92 Stat. 151][/us/stat/92/151]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1370, Nov. 14, 1986, [100 Stat. 4004][/us/stat/100/4004]; [Pub. L. 103–437][/us/pl/103/437], § 9(a)(8), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(e)(6), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7), \[div. B, title XI, § 1131\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–492.)
 
  __References in Text__ 
 
@@ -61,15 +61,15 @@
 
     1999—Subsec. (c). [Pub. L. 106–113][/us/pl/106/113] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, and the Commission shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, and with respect to the current activities of foreign nations which are of significance from the proliferation standpoint.”
 
-    1998—Subsec. (c). [Pub. L. 105–277, § 1225(e)(6)(A)][/us/pl/105/277/s1225/e/6/A], struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
+    1998—Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1225(e)(6)(A), struck out “the Arms Control and Disarmament Agency,” after “the Department of Defense,”.
 
-    Subsec. (e). [Pub. L. 105–277, § 1225(e)(6)(B)][/us/pl/105/277/s1225/e/6/B], struck out “and the Director” after “and the Commission” in subsec. (e), which had previously been omitted from the Code. See Codification note above.
+    Subsec. (e). [Pub. L. 105–277][/us/pl/105/277], § 1225(e)(6)(B), struck out “and the Director” after “and the Commission” in subsec. (e), which had previously been omitted from the Code. See Codification note above.
 
     1994—Subsecs. (c), (d). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations”.
 
-    1986—Subsec. (c). [Pub. L. 99–661, § 1370(1)][/us/pl/99/661/s1370/1], inserted “the Department of Defense,”.
+    1986—Subsec. (c). [Pub. L. 99–661][/us/pl/99/661], § 1370(1), inserted “the Department of Defense,”.
 
-    Subsec. (f). [Pub. L. 99–661, § 1370(2)][/us/pl/99/661/s1370/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–661][/us/pl/99/661], § 1370(2), added subsec. (f).
 
  __Change of Name__ 
 
@@ -83,7 +83,7 @@
 
  __Provision of Certain Information to Congress__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1134\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–494, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1134\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–494, provided that:
 
 >     “(a)  __Requirement to Provide Information__  __.—__ 
 
@@ -100,31 +100,31 @@
 ----------
 ----------
 
-[/us/pl/95/242/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs602
+[/us/pl/95/242/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtVI
 [/us/stat/92/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F151
-[/us/pl/99/661/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1370
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4004
-[/us/pl/103/437/s9/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs9%2Fa%2F8
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/277/s1225/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F6%2FA
-[/us/pl/105/277/s1225/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fe%2F6%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/99/661/s1370/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1370%2F1
-[/us/pl/99/661/s1370/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1370%2F2
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s3282/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3282%2Fc
 [/us/usc/t22/s3282/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3282%2Fc

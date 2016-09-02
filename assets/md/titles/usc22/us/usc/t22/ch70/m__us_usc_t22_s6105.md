@@ -21,7 +21,7 @@
 
     (2) such other method as is provided by law for the recovery of amounts owing to the Federal Government.
 
-([Pub. L. 103–236, title II, § 256][/us/pl/103/236/s256], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432].)
+([Pub. L. 103–236, title II][/us/pl/103/236/tII], § 256, Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs256
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
 
 

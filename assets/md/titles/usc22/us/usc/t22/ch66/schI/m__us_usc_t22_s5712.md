@@ -23,7 +23,7 @@
 
     (3) The United States should respect Hong Kong’s status as a separate customs territory, and as a WTO member country (as defined in [section 3501(10) of title 19][/us/usc/t19/s3501/10]), whether or not the People’s Republic of China participates in the World Trade Organization (as defined in [section 3501(8) of title 19][/us/usc/t19/s3501/8]).
 
-([Pub. L. 102–383, title I, § 102][/us/pl/102/383/s102], Oct. 5, 1992, [106 Stat. 1450][/us/stat/106/1450]; [Pub. L. 106–36, title I, § 1002(e)][/us/pl/106/36/s1002/e], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([Pub. L. 102–383, title I][/us/pl/102/383/tI], § 102, Oct. 5, 1992, [106 Stat. 1450][/us/stat/106/1450]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(e), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
 [/us/usc/t19/s3501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F8
-[/us/pl/102/383/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs102
+[/us/pl/102/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtI
 [/us/stat/106/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1450
-[/us/pl/106/36/s1002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fe
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10

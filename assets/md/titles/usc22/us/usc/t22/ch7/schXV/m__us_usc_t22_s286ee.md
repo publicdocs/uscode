@@ -29,7 +29,7 @@
 
     (3) As a part of its annual report, and at such times as it may consider desirable, the Fund should publish its evaluation of the trend and volume of international lending as it affects the economic situation of lenders, borrowers, and the smooth functioning of the international monetary system.
 
-([July 31, 1945, ch. 339, § 47][/us/act/1945-07-31/ch339/s47], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 809\], Nov. 30, 1983, [97 Stat. 1274][/us/stat/97/1274].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 47, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 809\], Nov. 30, 1983, [97 Stat. 1274][/us/stat/97/1274].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs47
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1274
 
 

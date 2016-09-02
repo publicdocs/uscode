@@ -31,7 +31,7 @@
 
         Not later than February 1 of each year, the President shall submit to the Congress a report on the activities conducted pursuant to this section during the preceding fiscal year, including the estimated full costs of the training and related support provided by the United States to each country and international organization and the estimated value of the training and related support provided to the United States by that country or international organization.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2C, § 30A, as added [Pub. L. 99–83, title I, § 116][/us/pl/99/83/s116], Aug. 8, 1985, [99 Stat. 201][/us/stat/99/201].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2C, § 30A, as added [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 116, Aug. 8, 1985, [99 Stat. 201][/us/stat/99/201].)
 
  __Effective Date__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/99/83/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs116
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F201
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

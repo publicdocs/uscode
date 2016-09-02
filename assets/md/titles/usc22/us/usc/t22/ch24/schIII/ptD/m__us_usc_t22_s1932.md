@@ -17,7 +17,7 @@
 
     Section, [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 412, as added July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(l), [73 Stat. 250][/us/stat/73/250], authorized appropriations for President’s special education and training fund.
 
-    A prior section 412 of act Aug. 26, 1954, which authorized assistance to selected Chinese and Korean students for studying or teaching, or for research and related academic and technical activities in the United States, was repealed by [Pub. L. 85–141, § 8][/us/pl/85/141/s8](l), Aug. 14, 1957, [71 Stat. 362][/us/stat/71/362].
+    A prior section 412 of act Aug. 26, 1954, which authorized assistance to selected Chinese and Korean students for studying or teaching, or for research and related academic and technical activities in the United States, was repealed by [Pub. L. 85–141][/us/pl/85/141], § 8(l), Aug. 14, 1957, [71 Stat. 362][/us/stat/71/362].
 
 ----------
 
@@ -31,7 +31,7 @@
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F250
-[/us/pl/85/141/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141%2Fs8
+[/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/stat/71/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F362
 
 

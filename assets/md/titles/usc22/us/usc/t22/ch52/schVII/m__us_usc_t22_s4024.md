@@ -63,7 +63,7 @@
 
         (2) As used in this subsection, the term “consular function” includes the issuance of visas, the performance of notarial and other legalization functions, the adjudication of passport applications, the adjudication of nationality, and the issuance of citizenship documentation.
 
-([Pub. L. 96–465, title I, § 704][/us/pl/96/465/s704], Oct. 17, 1980, [94 Stat. 2100][/us/stat/94/2100]; [Pub. L. 97–241, title I, § 125(1)][/us/pl/97/241/s125/1], Aug. 24, 1982, [96 Stat. 281][/us/stat/96/281]; [Pub. L. 103–236, title I, § 126(3)][/us/pl/103/236/s126/3], Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2222(f), Oct. 21, 1998, [112 Stat. 2681–819][/us/stat/112/2681-819].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 704, Oct. 17, 1980, [94 Stat. 2100][/us/stat/94/2100]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 125(1), Aug. 24, 1982, [96 Stat. 281][/us/stat/96/281]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 126(3), Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2222(f), Oct. 21, 1998, [112 Stat. 2681–819][/us/stat/112/2681-819].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5]) and section 302 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252][/us/usc/t41/s252])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5]) and section 302 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252][/us/usc/t41/s252])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -90,20 +90,20 @@
 
 [/us/usc/t22/s3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3972
 [/us/usc/t22/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951
-[/us/pl/96/465/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs704
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2100
-[/us/pl/97/241/s125/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs125%2F1
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F281
-[/us/pl/103/236/s126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs126%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F394
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-819
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

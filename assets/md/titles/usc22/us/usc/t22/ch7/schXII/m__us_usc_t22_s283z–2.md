@@ -19,7 +19,7 @@
 
     (b) In order to pay for a portion of the increase in the United States subscription to the capital stock of the Bank provided for in [section 283z–1(a) of this title][/us/usc/t22/s283z–1/a] and for the United States contribution to the Fund for Special Operations provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury, (1) $274,920,799 for the United States subscription, and (2) $70,000,000 for the United States contribution to the Fund for Special Operations: Provided, however, That no funds may be made available for such contribution to the Fund for Special Operations for the fiscal year 1982.
 
-([Pub. L. 86–147, § 30][/us/pl/86/147/s30], as added [Pub. L. 97–35, title XIII, § 1351(a)][/us/pl/97/35/s1351/a], Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
+([Pub. L. 86–147][/us/pl/86/147], § 30, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1351(a), Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
 
  __Effective Date__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t22/s283z–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs283z%E2%80%931%2Fa
-[/us/pl/86/147/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs30
-[/us/pl/97/35/s1351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1351%2Fa
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F744
 [/us/pl/97/35/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1372
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i

@@ -35,7 +35,7 @@
 
             (B) by each country of the Eastern Group of States Parties in implementing the CFE Treaty.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 9, § 94, as added [Pub. L. 102–228, § 2][/us/pl/102/228/s2], Dec. 12, 1991, [105 Stat. 1692][/us/stat/105/1692]; amended [Pub. L. 103–199, title IV, § 402(1)][/us/pl/103/199/s402/1], Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 9, § 94, as added [Pub. L. 102–228][/us/pl/102/228], § 2, Dec. 12, 1991, [105 Stat. 1692][/us/stat/105/1692]; amended [Pub. L. 103–199, title IV][/us/pl/103/199/tIV], § 402(1), Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324].)
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 [/us/usc/t22/s2799b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799b%2Fa
 [/us/usc/t22/s2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/102/228/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs2
+[/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/stat/105/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1692
-[/us/pl/103/199/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs402%2F1
+[/us/pl/103/199/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIV
 [/us/stat/107/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2324
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/usc/t22/s2799b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799b

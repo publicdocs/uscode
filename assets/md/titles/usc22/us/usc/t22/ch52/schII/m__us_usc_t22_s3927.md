@@ -31,15 +31,15 @@
 
         Each chief of mission to a foreign country shall have as a principal duty the promotion of United States goods and services for export to such country.
 
-([Pub. L. 96–465, title I, § 207][/us/pl/96/465/s207], Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079]; [Pub. L. 97–241, title I, § 123][/us/pl/97/241/s123], Aug. 24, 1982, [96 Stat. 281][/us/stat/96/281]; [Pub. L. 100–204, title I, § 136][/us/pl/100/204/s136], Dec. 22, 1987, [101 Stat. 1345][/us/stat/101/1345]; [Pub. L. 107–228, div. A, title V, § 505(b)][/us/pl/107/228/s505/b], Sept. 30, 2002, [116 Stat. 1393][/us/stat/116/1393].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 207, Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 123, Aug. 24, 1982, [96 Stat. 281][/us/stat/96/281]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 136, Dec. 22, 1987, [101 Stat. 1345][/us/stat/101/1345]; [Pub. L. 107–228, div. A, title V][/us/pl/107/228/dA/tV], § 505(b), Sept. 30, 2002, [116 Stat. 1393][/us/stat/116/1393].)
 
  __Amendments__ 
 
     2002—Subsecs. (a)(1), (2), (b). [Pub. L. 107–228][/us/pl/107/228] inserted “Voice of America correspondents on official assignment and” after “except for”.
 
-    1987—Subsec. (a). [Pub. L. 100–204, § 136(1)][/us/pl/100/204/s136/1], (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
+    1987—Subsec. (a). [Pub. L. 100–204][/us/pl/100/204], § 136(1), (2), inserted “executive branch” after “Government” in par. (1) and after second reference to “Government” in par. (2).
 
-    Subsec. (b). [Pub. L. 100–204, § 136(3)][/us/pl/100/204/s136/3], inserted “executive branch” after “Any”.
+    Subsec. (b). [Pub. L. 100–204][/us/pl/100/204], § 136(3), inserted “executive branch” after “Any”.
 
     1982—Subsec. (c). [Pub. L. 97–241][/us/pl/97/241] added subsec. (c).
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/96/465/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs207
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2079
-[/us/pl/97/241/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs123
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F281
-[/us/pl/100/204/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs136
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1345
-[/us/pl/107/228/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs505%2Fb
+[/us/pl/107/228/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtV
 [/us/stat/116/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1393
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/100/204/s136/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs136%2F1
-[/us/pl/100/204/s136/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs136%2F3
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 
 

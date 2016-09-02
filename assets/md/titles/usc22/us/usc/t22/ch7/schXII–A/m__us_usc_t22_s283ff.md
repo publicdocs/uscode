@@ -27,7 +27,7 @@
 
         Any payment of dividends made to the United States by the Corporation shall be deposited into the Treasury as a miscellaneous receipt.
 
-([Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __First General Capital Increase__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Inter-American Investment Corporation, and authorized $125,180,000 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Corporation.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Inter-American Investment Corporation, and authorized $125,180,000 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Corporation.
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 
 

@@ -17,7 +17,7 @@
 
     Whoever shall willfully violate any provision of this subchapter or any rule or regulation issued hereunder, and whoever shall willfully violate, neglect, or refuse to comply with any order of the President or of a designee of the President under this subchapter, issued in compliance with the provisions of this subchapter shall be fined not more than $5,000, or, if a natural person, imprisoned for not more than five years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation shall be punished by a like fine, imprisonment, or both.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 215, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 570][/us/stat/69/570].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 215, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 570][/us/stat/69/570].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F570
 
 

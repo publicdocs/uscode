@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch19/schI/m__us_usc_t22_s1514.md) | [Next](./../../../../..//us/usc/t22/ch19/schII/m__us_usc_t22_ch19_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1523)
+[Previous](./../../../../..//us/usc/t22/ch19/schI/m__us_usc_t22_s1520...1522.md) | [Next](./../../../../..//us/usc/t22/ch19/schII/m__us_usc_t22_ch19_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1523)
 
 ## § 1523. Repealed. [Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], title III, § 305, [65 Stat. 647][/us/stat/65/647]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch19/schI/m__us_usc_t22_s1514.md) | [Next](./../../../../..//us/usc/t22/ch19/schII/m__us_usc_t22_ch19_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1523)
+[Previous](./../../../../..//us/usc/t22/ch19/schI/m__us_usc_t22_s1520...1522.md) | [Next](./../../../../..//us/usc/t22/ch19/schII/m__us_usc_t22_ch19_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1523)
 
 ----------
 ----------

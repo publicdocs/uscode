@@ -31,7 +31,7 @@
 
         No career member of the Foreign Service, as defined by [section 3903 of this title][/us/usc/t22/s3903], may be appointed Inspector General of the Department of State.
 
-([Pub. L. 99–399, title IV, § 413][/us/pl/99/399/s413], Aug. 27, 1986, [100 Stat. 867][/us/stat/100/867]; [Pub. L. 100–204, title I, § 134][/us/pl/100/204/s134], Dec. 22, 1987, [101 Stat. 1344][/us/stat/101/1344].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 413, Aug. 27, 1986, [100 Stat. 867][/us/stat/100/867]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 134, Dec. 22, 1987, [101 Stat. 1344][/us/stat/101/1344].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 413 of Pub. L. 99–399][/us/pl/99/399/s413], as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended [section 3929 of this title][/us/usc/t22/s3929], was repealed by [Pub. L. 99–529, title IV, § 405][/us/pl/99/529/s405], Oct. 24, 1986, [100 Stat. 3020][/us/stat/100/3020]. Another subsec. (c) of section 413 amended [section 3929a of this title][/us/usc/t22/s3929a].
+    Section is comprised of [section 413 of Pub. L. 99–399][/us/pl/99/399/s413], as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended [section 3929 of this title][/us/usc/t22/s3929], was repealed by [Pub. L. 99–529, title IV][/us/pl/99/529/tIV], § 405, Oct. 24, 1986, [100 Stat. 3020][/us/stat/100/3020]. Another subsec. (c) of section 413 amended [section 3929a of this title][/us/usc/t22/s3929a].
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters__ 
 
-[Pub. L. 107–306, title VIII, § 832][/us/pl/107/306/s832], Nov. 27, 2002, [116 Stat. 2431][/us/stat/116/2431], provided that:
+[Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 832, Nov. 27, 2002, [116 Stat. 2431][/us/stat/116/2431], provided that:
 
 >     “(a)  __Evaluation Required__  __.—__ 
 
@@ -86,9 +86,9 @@
 
 [/us/usc/t22/s3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929
 [/us/usc/t22/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3903
-[/us/pl/99/399/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs413
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F867
-[/us/pl/100/204/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs134
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1344
 [/us/pl/99/93/s150/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs150%2Fa
 [/us/stat/99/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F427
@@ -97,11 +97,11 @@
 [/us/pl/99/399/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs413
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t22/s3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929
-[/us/pl/99/529/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs405
+[/us/pl/99/529/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2FtIV
 [/us/stat/100/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3020
 [/us/usc/t22/s3929a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929a
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/107/306/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs832
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2431
 [/us/usc/t50/s3106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106%2Fd
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

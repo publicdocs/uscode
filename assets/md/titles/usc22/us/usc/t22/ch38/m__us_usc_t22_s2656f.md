@@ -167,7 +167,7 @@
 
         (2) The report required by subsection (a) to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
 
-([Pub. L. 100–204, title I, § 140][/us/pl/100/204/s140], Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347]; [Pub. L. 101–246, title I, § 122][/us/pl/101/246/s122], Feb. 16, 1990, [104 Stat. 27][/us/stat/104/27]; [Pub. L. 103–236, title I, § 133(b)(1)][/us/pl/103/236/s133/b/1], Apr. 30, 1994, [108 Stat. 395][/us/stat/108/395]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 578\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 108–458, title VII, § 7102(d)(1)][/us/pl/108/458/s7102/d/1]–(3), Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], 3778; [Pub. L. 108–487, title VII, § 701(a)][/us/pl/108/487/s701/a], Dec. 23, 2004, [118 Stat. 3961][/us/stat/118/3961].)
+([Pub. L. 100–204, title I][/us/pl/100/204/tI], § 140, Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 122, Feb. 16, 1990, [104 Stat. 27][/us/stat/104/27]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 133(b)(1), Apr. 30, 1994, [108 Stat. 395][/us/stat/108/395]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 578\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7102(d)(1)–(3), Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], 3778; [Pub. L. 108–487, title VII][/us/pl/108/487/tVII], § 701(a), Dec. 23, 2004, [118 Stat. 3961][/us/stat/118/3961].)
 
  __References in Text__ 
 
@@ -175,35 +175,35 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 7102(d)(1)][/us/pl/108/458/s7102/d/1], designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (a)(2). [Pub. L. 108–487, § 701(a)(1)][/us/pl/108/487/s701/a/1], inserted “any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction,” after “during the preceding five years,” and “any group designated by the Secretary as a foreign terrorist organization under [section 1189 of title 8][/us/usc/t8/s1189],” after “section 2405(j) of the Appendix to title 50”.
+    Subsec. (a)(2). [Pub. L. 108–487][/us/pl/108/487], § 701(a)(1), inserted “any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction,” after “during the preceding five years,” and “any group designated by the Secretary as a foreign terrorist organization under [section 1189 of title 8][/us/usc/t8/s1189],” after “section 2405(j) of the Appendix to title 50”.
 
-    Subsec. (b)(1). [Pub. L. 108–458, § 7102(d)(2)(A)(i)][/us/pl/108/458/s7102/d/2/A/i], substituted “subsection (a)(1)(A)” for “subsection (a)(1)” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(A)(i), substituted “subsection (a)(1)(A)” for “subsection (a)(1)” in introductory provisions.
 
-    Subsec. (b)(1)(C)(iv). [Pub. L. 108–487, § 701(a)(2)(A)][/us/pl/108/487/s701/a/2/A], added cl. (iv) and redesignated former cl. (iv) as (v).
+    Subsec. (b)(1)(C)(iv). [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(A), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    Subsec. (b)(2). [Pub. L. 108–458, § 7102(d)(2)(A)(ii)][/us/pl/108/458/s7102/d/2/A/ii], (C), added par. (2). Former par. (2), relating to report provisions with respect to subsec. (a)(2), redesignated (3).
+    Subsec. (b)(2). [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(A)(ii), (C), added par. (2). Former par. (2), relating to report provisions with respect to subsec. (a)(2), redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 108–487, § 701(a)(2)(C)][/us/pl/108/487/s701/a/2/C], added par. (3) relating to statistical information on individuals killed, injured, or kidnapped by terrorist groups.
+    Subsec. (b)(3). [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(C), added par. (3) relating to statistical information on individuals killed, injured, or kidnapped by terrorist groups.
 
-    [Pub. L. 108–487, § 701(a)(2)(B)(iii)][/us/pl/108/487/s701/a/2/B/iii], which directed amendment of subsec. (b)(2)(F), as redesignated by [Pub. L. 108–487, § 701(a)(2)(B)(i)][/us/pl/108/487/s701/a/2/B/i], by substituting a semicolon for the period, was probably intended as an amendment to subpar. (F) of subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2), as redesignated by [Pub. L. 108–458, § 7102(d)(2)(B)][/us/pl/108/458/s7102/d/2/B], and [Pub. L. 108–487, § 701(a)(2)(B)(i)][/us/pl/108/487/s701/a/2/B/i], but could not be executed because of the amendment by [Pub. L. 108–458, § 7102(d)(2)(D)][/us/pl/108/458/s7102/d/2/D]. See below.
+    [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(B)(iii), which directed amendment of subsec. (b)(2)(F), as redesignated by [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(B)(i), by substituting a semicolon for the period, was probably intended as an amendment to subpar. (F) of subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2), as redesignated by [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(B), and [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(B)(i), but could not be executed because of the amendment by [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(D). See below.
 
-    [Pub. L. 108–458, § 7102(d)(2)(B)][/us/pl/108/458/s7102/d/2/B], (D), redesignated par. (2), relating to report provisions with respect to subsec. (a)(2), as (3) and substituted a semicolon for the period at end.
+    [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(B), (D), redesignated par. (2), relating to report provisions with respect to subsec. (a)(2), as (3) and substituted a semicolon for the period at end.
 
-    Subsec. (b)(3)(C) to (F). [Pub. L. 108–487, § 701(a)(2)(B)(i)][/us/pl/108/487/s701/a/2/B/i], (ii), which directed amendment of subsec. (b)(2) by adding subpar. (C) and redesignating former subpars. (C) to (E) as (D) to (F), respectively, was executed by making the amendment to subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2) to reflect the probable intent of Congress and the redesignation of subsec. (b)(2) as (b)(3) by [Pub. L. 108–458][/us/pl/108/458]. See above.
+    Subsec. (b)(3)(C) to (F). [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(B)(i), (ii), which directed amendment of subsec. (b)(2) by adding subpar. (C) and redesignating former subpars. (C) to (E) as (D) to (F), respectively, was executed by making the amendment to subsec. (b)(3) relating to report provisions with respect to subsec. (a)(2) to reflect the probable intent of Congress and the redesignation of subsec. (b)(2) as (b)(3) by [Pub. L. 108–458][/us/pl/108/458]. See above.
 
-    Subsec. (b)(4). [Pub. L. 108–487, § 701(a)(2)(C)][/us/pl/108/487/s701/a/2/C], added par. (4) relating to analysis of trends in international terrorism.
+    Subsec. (b)(4). [Pub. L. 108–487][/us/pl/108/487], § 701(a)(2)(C), added par. (4) relating to analysis of trends in international terrorism.
 
-    [Pub. L. 108–458, § 7102(d)(2)(E)][/us/pl/108/458/s7102/d/2/E], added par. (4) relating to strategy for addressing, and where possible eliminating, terrorist sanctuaries.
+    [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(E), added par. (4) relating to strategy for addressing, and where possible eliminating, terrorist sanctuaries.
 
-    Subsec. (b)(5). [Pub. L. 108–458, § 7102(d)(2)(E)][/us/pl/108/458/s7102/d/2/E], added par. (5).
+    Subsec. (b)(5). [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(2)(E), added par. (5).
 
-    Subsec. (d)(4), (5). [Pub. L. 108–458, § 7102(d)(3)][/us/pl/108/458/s7102/d/3], added pars. (4) and (5).
+    Subsec. (d)(4), (5). [Pub. L. 108–458][/us/pl/108/458], § 7102(d)(3), added pars. (4) and (5).
 
-    1996—Subsec. (a)(3), (4). [Pub. L. 104–208, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 578(1)\], added pars. (3) and (4).
+    1996—Subsec. (a)(3), (4). [Pub. L. 104–208][/us/pl/104/208], § 101(c) \[title V, § 578(1)\], added pars. (3) and (4).
 
-    Subsec. (c). [Pub. L. 104–208, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 578(2)\], designated existing provisions as par. (1), realigned margins, substituted “Except as provided in paragraph (2), the report” for “The report”, and added par. (2).
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 101(c) \[title V, § 578(2)\], designated existing provisions as par. (1), realigned margins, substituted “Except as provided in paragraph (2), the report” for “The report”, and added par. (2).
 
     1994—Subsec. (b)(2)(E). [Pub. L. 103–236][/us/pl/103/236] added subpar. (E).
 
@@ -211,15 +211,15 @@
 
  __Effective Date of 2004 Amendments__ 
 
-[Pub. L. 108–487, title VII, § 701(b)][/us/pl/108/487/s701/b], Dec. 23, 2004, [118 Stat. 3962][/us/stat/118/3962], provided that: 
+[Pub. L. 108–487, title VII][/us/pl/108/487/tVII], § 701(b), Dec. 23, 2004, [118 Stat. 3962][/us/stat/118/3962], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
-[Pub. L. 108–487, title VIII, § 801][/us/pl/108/487/s801], Dec. 23, 2004, [118 Stat. 3962][/us/stat/118/3962], provided that: 
+[Pub. L. 108–487, title VIII][/us/pl/108/487/tVIII], § 801, Dec. 23, 2004, [118 Stat. 3962][/us/stat/118/3962], provided that: 
 
 > “Except as otherwise expressly provided in this Act, this Act \[enacting sections 1912, 3032, 3201 to 3205, 3221, 3523, and 3617 of Title 50, War and National Defense, amending this section and sections 1902, 1903, 1910, 1911, 3036, 3361, and 3519a of Title 50, enacting provisions set out as notes under this section, [section 873 of Title 21][/us/usc/t21/s873], Food and Drugs, and sections 1902, 3001, 3032, 3036, 3106, and 3322 of Title 50, and amending provisions set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\].”
 
-[Pub. L. 108–458, title VII, § 7102(d)(4)][/us/pl/108/458/s7102/d/4], Dec. 17, 2004, [118 Stat. 3778][/us/stat/118/3778], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7102(d)(4), Dec. 17, 2004, [118 Stat. 3778][/us/stat/118/3778], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f][/us/usc/t22/s2656f]), by April 30, 2006, and by April 30 of each subsequent year.”
 
@@ -227,7 +227,7 @@
 
  __Terrorist Sanctuaries__ 
 
-[Pub. L. 108–458, title VII, § 7102(a)][/us/pl/108/458/s7102/a], (b), Dec. 17, 2004, [118 Stat. 3776][/us/stat/118/3776], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7102(a), (b), Dec. 17, 2004, [118 Stat. 3776][/us/stat/118/3776], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -257,7 +257,7 @@
 
  __Report on Terrorist Activity in Which United States Citizens Were Killed and Related Matters__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VIII, § 805\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–470, as amended by [Pub. L. 107–228, div. A, title II, § 216(c)][/us/pl/107/228/s216/c], Sept. 30, 2002, [116 Stat. 1367][/us/stat/116/1367], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VIII, § 805\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–470, as amended by [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 216(c), Sept. 30, 2002, [116 Stat. 1367][/us/stat/116/1367], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -326,60 +326,60 @@
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
-[/us/pl/100/204/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs140
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1347
-[/us/pl/101/246/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs122
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F27
-[/us/pl/103/236/s133/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs133%2Fb%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F395
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/108/458/s7102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F1
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3777
-[/us/pl/108/487/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa
+[/us/pl/108/487/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVII
 [/us/stat/118/3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3961
 [/us/pl/108/458/s7120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7120%2Fb
 [/us/stat/118/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3803
-[/us/pl/108/458/s7102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F1
-[/us/pl/108/487/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F1
-[/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
-[/us/pl/108/458/s7102/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FA%2Fi
-[/us/pl/108/487/s701/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FA
-[/us/pl/108/458/s7102/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FA%2Fii
-[/us/pl/108/487/s701/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FC
-[/us/pl/108/487/s701/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FB%2Fiii
-[/us/pl/108/487/s701/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FB%2Fi
-[/us/pl/108/458/s7102/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FB
-[/us/pl/108/487/s701/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FB%2Fi
-[/us/pl/108/458/s7102/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FD
-[/us/pl/108/458/s7102/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FB
-[/us/pl/108/487/s701/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FB%2Fi
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/487/s701/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fa%2F2%2FC
-[/us/pl/108/458/s7102/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FE
-[/us/pl/108/458/s7102/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F2%2FE
-[/us/pl/108/458/s7102/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F3
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
-[/us/pl/108/487/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs701%2Fb
+[/us/pl/108/487/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVII
 [/us/stat/118/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3962
-[/us/pl/108/487/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2Fs801
+[/us/pl/108/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F487%2FtVIII
 [/us/stat/118/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3962
 [/us/usc/t21/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs873
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
-[/us/pl/108/458/s7102/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fd%2F4
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3778
 [/us/usc/t22/s2656f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s7122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7122
 [/us/usc/t1/s112a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112a
-[/us/pl/108/458/s7102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7102%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3776
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s216/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs216%2Fc
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1367
 
 

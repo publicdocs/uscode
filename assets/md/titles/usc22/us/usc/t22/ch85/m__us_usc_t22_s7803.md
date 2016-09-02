@@ -45,7 +45,7 @@
 
         The term “South Korea” means the Republic of Korea.
 
-([Pub. L. 108–333, § 5][/us/pl/108/333/s5], Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290]; [Pub. L. 110–346, § 4][/us/pl/110/346/s4], Oct. 7, 2008, [122 Stat. 3941][/us/stat/122/3941].)
+([Pub. L. 108–333][/us/pl/108/333], § 5, Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290]; [Pub. L. 110–346][/us/pl/110/346], § 4, Oct. 7, 2008, [122 Stat. 3941][/us/stat/122/3941].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/108/333/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs5
+[/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/stat/118/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1290
-[/us/pl/110/346/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs4
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3941
 [/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 

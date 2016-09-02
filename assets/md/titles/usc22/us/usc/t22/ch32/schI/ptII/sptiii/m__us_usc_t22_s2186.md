@@ -99,11 +99,11 @@
 
             (B) in the case of any loan issue  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “issued”. </sup></sup>  on an interest-bearing basis, the stated principal amount thereof.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 226, as added [Pub. L. 102–391, title VI, § 601][/us/pl/102/391/s601], Oct. 6, 1992, [106 Stat. 1699][/us/stat/106/1699].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 226, as added [Pub. L. 102–391, title VI][/us/pl/102/391/tVI], § 601, Oct. 6, 1992, [106 Stat. 1699][/us/stat/106/1699].)
 
  __References in Text__ 
 
-    The Federal Credit Reform Act of 1990, referred to in subsecs. (e)(1) and (l), is title V of [Pub. L. 93–344][/us/pl/93/344] as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsecs. (e)(1) and (l), is title V of [Pub. L. 93–344][/us/pl/93/344] as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g)(3), is [section 601(b) of Pub. L. 94–329][/us/pl/94/329/s601/b], title VI, June 30, 1976, [90 Stat. 765][/us/stat/90/765], which is not classified to the Code.
 
@@ -126,10 +126,10 @@
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/usc/t22/s2183/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2183%2Ff
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/391/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs601
+[/us/pl/102/391/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtVI
 [/us/stat/106/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1699
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb

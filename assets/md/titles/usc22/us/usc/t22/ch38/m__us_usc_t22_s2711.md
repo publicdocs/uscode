@@ -27,11 +27,11 @@
 
         Amounts made available under this section may be referred to as the “Counterterrorism Protection Fund”.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 39, as added [Pub. L. 99–399, title V, § 504(2)][/us/pl/99/399/s504/2], Aug. 27, 1986, [100 Stat. 871][/us/stat/100/871].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 39, as added [Pub. L. 99–399, title V][/us/pl/99/399/tV], § 504(2), Aug. 27, 1986, [100 Stat. 871][/us/stat/100/871].)
 
  __Prior Provisions__ 
 
-    A prior section 39 of act Aug. 1, 1956, was renumbered section 40 by [section 504(1) of Pub. L. 99–399][/us/pl/99/399/s504/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 39 of act Aug. 1, 1956, was renumbered section 40 by [section 504(1) of Pub. L. 99–399][/us/pl/99/399/s504/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
 ----------
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/99/399/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs504%2F2
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F871
 [/us/pl/99/399/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs504%2F1
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 
 

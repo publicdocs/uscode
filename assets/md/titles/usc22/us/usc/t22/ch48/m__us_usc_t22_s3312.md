@@ -17,7 +17,7 @@
 
     The President is authorized to prescribe such rules and regulations as he may deem appropriate to carry out the purposes of this chapter. During the three-year period beginning on January 1, 1979, such rules and regulations shall be transmitted promptly to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate. Such action shall not, however, relieve the Institute of the responsibilities placed upon it by this chapter.
 
-([Pub. L. 96–8, § 13][/us/pl/96/8/s13], Apr. 10, 1979, [93 Stat. 20][/us/stat/93/20].)
+([Pub. L. 96–8][/us/pl/96/8], § 13, Apr. 10, 1979, [93 Stat. 20][/us/stat/93/20].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs13
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F20
 
 

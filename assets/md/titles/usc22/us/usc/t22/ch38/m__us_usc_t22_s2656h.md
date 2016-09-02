@@ -29,7 +29,7 @@
 
         Beginning 180 days after the submission of the report in subsection (a) and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.
 
-([Pub. L. 102–138, title I, § 197][/us/pl/102/138/s197], Oct. 28, 1991, [105 Stat. 684][/us/stat/105/684].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 197, Oct. 28, 1991, [105 Stat. 684][/us/stat/105/684].)
 
  __Authority of Secretary of State__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs197
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F684
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

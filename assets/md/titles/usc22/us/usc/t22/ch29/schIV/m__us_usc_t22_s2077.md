@@ -45,7 +45,7 @@
 
         Of the funds that are allocated for assistance for Latin America and the Caribbean under chapter 1 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] (relating to development assistance) and chapter 4 of part II of that Act \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] (relating to the economic support fund), $500,000 may be made available to carry out the site location and design phase of the International University for the Americas.
 
-([Pub. L. 102–549, title VI, § 604][/us/pl/102/549/s604], Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(O), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 604, Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(O), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t7/s1738m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738m
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/102/549/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs604
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3669
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

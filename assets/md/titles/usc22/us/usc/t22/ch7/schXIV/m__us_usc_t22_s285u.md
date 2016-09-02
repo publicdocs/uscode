@@ -31,7 +31,7 @@
 
         (2) shall take the steps necessary to obtain a certification from the Bank that any undisbursed balances resulting from drawdowns on such letter of credit will not exceed at any time the United States share of expected disbursement requirements for the following three-month period.
 
-([Pub. L. 89–369, § 24][/us/pl/89/369/s24], as added [Pub. L. 96–259, title II, § 201][/us/pl/96/259/s201], June 3, 1980, [94 Stat. 430][/us/stat/94/430]; amended [Pub. L. 97–35, title XIII, § 1352(b)][/us/pl/97/35/s1352/b], Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
+([Pub. L. 89–369][/us/pl/89/369], § 24, as added [Pub. L. 96–259, title II][/us/pl/96/259/tII], § 201, June 3, 1980, [94 Stat. 430][/us/stat/94/430]; amended [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1352(b), Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
 
  __Amendments__ 
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/89/369/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs24
-[/us/pl/96/259/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs201
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/96/259/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtII
 [/us/stat/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F430
-[/us/pl/97/35/s1352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1352%2Fb
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F744
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

@@ -17,7 +17,7 @@
 
     Persons sentenced to imprisonment by a service court of a friendly foreign force may be confined in disciplinary barracks, guardhouses, or other places of detention of the United States armed forces or in penitentiaries or other institutions employed by the United States for the detention or treatment of prisoners, at the expense of the state on whose behalf the prisoner is detained.
 
-([June 30, 1944, ch. 326, § 5][/us/act/1944-06-30/ch326/s5], [58 Stat. 644][/us/stat/58/644].)
+([June 30, 1944, ch. 326][/us/act/1944-06-30/ch326], § 5, [58 Stat. 644][/us/stat/58/644].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-06-30/ch326/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326%2Fs5
+[/us/act/1944-06-30/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326
 [/us/stat/58/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F644
 
 

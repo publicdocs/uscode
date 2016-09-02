@@ -31,13 +31,13 @@
 
         The Secretary may exclude from the operation of this part any member of the Foreign Service, or group of members, whose employment is temporary or intermittent, except a member whose employment is part-time career appointment or career candidate appointment under [section 3946 of this title][/us/usc/t22/s3946].
 
-([Pub. L. 96–465, title I, § 853][/us/pl/96/465/s853], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 616][/us/stat/100/616]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–178, title II, § 204(b)(1)][/us/pl/103/178/s204/b/1], Dec. 3, 1993, [107 Stat. 2033][/us/stat/107/2033].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 853, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 616][/us/stat/100/616]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 204(b)(1), Dec. 3, 1993, [107 Stat. 2033][/us/stat/107/2033].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsecs. (a) and (b), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Central Intelligence Agency Retirement Act, referred to in subsec. (c), is [Pub. L. 88–643][/us/pl/88/643], as revised generally by [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001] and Tables.
+    The Central Intelligence Agency Retirement Act, referred to in subsec. (c), is [Pub. L. 88–643][/us/pl/88/643], as revised generally by [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001] and Tables.
 
     The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (c), is [Pub. L. 99–335][/us/pl/99/335], June 6, 1986, [100 Stat. 514][/us/stat/100/514]. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, [section 1005 of Title 39][/us/usc/t39/s1005], Postal Service, and [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of Title 5, Government Organization and Employees, and [section 6103 of Title 26][/us/usc/t26/s6103], and amended provisions set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331]. For complete classification of this Act to the Code, see Short Title note set out under [section 8401 of Title 5][/us/usc/t5/s8401] and Tables.
 
@@ -60,18 +60,18 @@
 [/us/usc/t50/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2011
 [/us/usc/t22/s4071i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071i
 [/us/usc/t22/s3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3946
-[/us/pl/96/465/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs853
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F616
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/178/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs204%2Fb%2F1
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2033
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

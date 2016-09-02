@@ -29,7 +29,7 @@
 
         To pay for the contribution authorized by subsection (a) of this section, there are authorized to be appropriated not to exceed $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
 
-([July 31, 1945, ch. 339, § 54][/us/act/1945-07-31/ch339/s54], as added [Pub. L. 101–240, title III, § 301][/us/pl/101/240/s301], Dec. 19, 1989, [103 Stat. 2500][/us/stat/103/2500].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 54, as added [Pub. L. 101–240, title III][/us/pl/101/240/tIII], § 301, Dec. 19, 1989, [103 Stat. 2500][/us/stat/103/2500].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs54
-[/us/pl/101/240/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs301
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/101/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtIII
 [/us/stat/103/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2500
 
 

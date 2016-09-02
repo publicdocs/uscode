@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a _us_usc_t22_s2124b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
 
 ## § 2124. Tourism Policy Council
 
@@ -81,7 +81,7 @@
 
         The membership of the President of the United States National Tourism Organization on the Council shall not in itself make the Federal Advisory Committee Act applicable to the Council.
 
-([Pub. L. 87–63, title III, § 301][/us/pl/87/63/s301], as added [Pub. L. 104–288, § 11][/us/pl/104/288/s11], Oct. 11, 1996, [110 Stat. 3408][/us/stat/110/3408].)
+([Pub. L. 87–63, title III][/us/pl/87/63/tIII], § 301, as added [Pub. L. 104–288][/us/pl/104/288], § 11, Oct. 11, 1996, [110 Stat. 3408][/us/stat/110/3408].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2124, [Pub. L. 87–63, title III, § 301][/us/pl/87/63/s301], formerly § 4, June 29, 1961, [75 Stat. 130][/us/stat/75/130]; [Pub. L. 88–426, title III, § 305(29)][/us/pl/88/426/s305/29], Aug. 14, 1964, [78 Stat. 426][/us/stat/78/426]; [Pub. L. 91–477, § 3(a)][/us/pl/91/477/s3/a], Oct. 21, 1970, [84 Stat. 1072][/us/stat/84/1072]; renumbered and amended [Pub. L. 97–63, § 4(a)(1)][/us/pl/97/63/s4/a/1]–(3), (b), (c)(2), Oct. 16, 1981, [95 Stat. 1014][/us/stat/95/1014], 1015; [Pub. L. 102–372][/us/pl/102/372], §§ 12–14, Sept. 30, 1992, [106 Stat. 1180][/us/stat/106/1180], related to establishment of United States Travel and Tourism Administration, prior to repeal by [Pub. L. 104–288, § 9(a)][/us/pl/104/288/s9/a], Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407].
+    A prior section 2124, [Pub. L. 87–63, title III][/us/pl/87/63/tIII], § 301, formerly § 4, June 29, 1961, [75 Stat. 130][/us/stat/75/130]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(29), Aug. 14, 1964, [78 Stat. 426][/us/stat/78/426]; [Pub. L. 91–477][/us/pl/91/477], § 3(a), Oct. 21, 1970, [84 Stat. 1072][/us/stat/84/1072]; renumbered and amended [Pub. L. 97–63][/us/pl/97/63], § 4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, [95 Stat. 1014][/us/stat/95/1014], 1015; [Pub. L. 102–372][/us/pl/102/372], §§ 12–14, Sept. 30, 1992, [106 Stat. 1180][/us/stat/106/1180], related to establishment of United States Travel and Tourism Administration, prior to repeal by [Pub. L. 104–288][/us/pl/104/288], § 9(a), Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407].
 
  __Transfer of Functions__ 
 
@@ -99,50 +99,31 @@
 
     For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.
 
-§§ 2124a, 2124b. __Repealed.__  __[__  __Pub. L. 104–288__  __][/us/pl/104/288]__  __, §§ 9(a), 11,__  __Oct. 11, 1996__  __,__  __[__  __110 Stat. 3407__  __][/us/stat/110/3407]__  __, 3408__ 
-
-    Section 2124a, [Pub. L. 87–63, title III, § 302][/us/pl/87/63/s302], as added [Pub. L. 97–63, § 4(c)(2)][/us/pl/97/63/s4/c/2], Oct. 16, 1981, [95 Stat. 1015][/us/stat/95/1015]; amended [Pub. L. 102–372, § 15][/us/pl/102/372/s15], Sept. 30, 1992, [106 Stat. 1181][/us/stat/106/1181], provided for establishment of Tourism Policy Council. See [section 2124 of this title][/us/usc/t22/s2124].
-
-    Section 2124b, [Pub. L. 87–63, title III, § 303][/us/pl/87/63/s303], as added [Pub. L. 97–63, § 4(c)(2)][/us/pl/97/63/s4/c/2], Oct. 16, 1981, [95 Stat. 1017][/us/stat/95/1017]; amended [Pub. L. 102–372, § 16][/us/pl/102/372/s16], Sept. 30, 1992, [106 Stat. 1181][/us/stat/106/1181], provided for establishment of Travel and Tourism Advisory Board.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_ch31_schIII.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a _us_usc_t22_s2124b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124)
 
 ----------
 ----------
 
-[/us/pl/87/63/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs301
-[/us/pl/104/288/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs11
+[/us/pl/87/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2FtIII
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/stat/110/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3408
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/87/63/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs301
+[/us/pl/87/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2FtIII
 [/us/stat/75/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F130
-[/us/pl/88/426/s305/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F29
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F426
-[/us/pl/91/477/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477%2Fs3%2Fa
+[/us/pl/91/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477
 [/us/stat/84/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1072
-[/us/pl/97/63/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs4%2Fa%2F1
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1014
 [/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
 [/us/stat/106/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1180
-[/us/pl/104/288/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs9%2Fa
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
-[/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
-[/us/pl/87/63/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs302
-[/us/pl/97/63/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs4%2Fc%2F2
-[/us/stat/95/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1015
-[/us/pl/102/372/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs15
-[/us/stat/106/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1181
-[/us/usc/t22/s2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124
-[/us/pl/87/63/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs303
-[/us/pl/97/63/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs4%2Fc%2F2
-[/us/stat/95/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1017
-[/us/pl/102/372/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs16
-[/us/stat/106/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1181
 
 

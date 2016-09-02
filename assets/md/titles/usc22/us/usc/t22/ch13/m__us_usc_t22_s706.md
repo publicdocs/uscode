@@ -17,7 +17,7 @@
 
     This chapter shall be operative with respect to the military, naval, or air forces of any foreign state only after a finding and declaration by the President that the powers and privileges provided herein are necessary for the maintenance of discipline. The President may at any time revoke such finding and declaration.
 
-([June 30, 1944, ch. 326, § 6][/us/act/1944-06-30/ch326/s6], [58 Stat. 645][/us/stat/58/645].)
+([June 30, 1944, ch. 326][/us/act/1944-06-30/ch326], § 6, [58 Stat. 645][/us/stat/58/645].)
 
  __Proclamation No. 2626__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1944-06-30/ch326/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326%2Fs6
+[/us/act/1944-06-30/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326
 [/us/stat/58/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F645
 
 

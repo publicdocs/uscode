@@ -23,7 +23,7 @@
 
         Funds appropriated to carry out chapter 1 or chapter 10 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] (relating to development assistance and the Development Fund for Africa) may not be used for capital projects that do not meet the criteria contained in [section 2421b of this title][/us/usc/t22/s2421b]. This subsection does not apply with respect to capital projects for which funds have been obligated or expended before October 28, 1992.
 
-([Pub. L. 102–549, title III, § 306][/us/pl/102/549/s306], Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660].)
+([Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 306, Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2421b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421b
-[/us/pl/102/549/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs306
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3660
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

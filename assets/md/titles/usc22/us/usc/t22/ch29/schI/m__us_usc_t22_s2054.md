@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_ch29_schI.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
+[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2051...2053.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
 
 ## § 2054. Statement of purpose
 
@@ -23,7 +23,7 @@
 
     The United States Information and Educational Exchange Act of 1948, as amended, referred to in text, is [act Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], [62 Stat. 6][/us/stat/62/6], as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title][/us/usc/t22/s1431] and Tables.
 
-    The Mutual Security Act of 1954, referred to in text, is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2 to 11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108, § 2][/us/pl/86/108/s2], ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. I to V, [74 Stat. 134][/us/stat/74/134]. Title III of chapter II of the Act was classified to sections 1891 to 1896, 1897, and 1898 of this title and was repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460] and [Pub. L. 86–472][/us/pl/86/472], ch. II, § 203(d), May 14, 1960, [74 Stat. 136][/us/stat/74/136]. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of this title][/us/usc/t22/s1754] and Tables.
+    The Mutual Security Act of 1954, referred to in text, is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2 to 11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], § 2, ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. I to V, [74 Stat. 134][/us/stat/74/134]. Title III of chapter II of the Act was classified to sections 1891 to 1896, 1897, and 1898 of this title and was repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460] and [Pub. L. 86–472][/us/pl/86/472], ch. II, § 203(d), May 14, 1960, [74 Stat. 136][/us/stat/74/136]. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of this title][/us/usc/t22/s1754] and Tables.
 
  __Short Title__ 
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_ch29_schI.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
+[Previous](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2051...2053.md) | [Next](./../../../../..//us/usc/t22/ch29/schI/m__us_usc_t22_s2055.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2054)
 
 ----------
 ----------
@@ -58,7 +58,7 @@
 [/us/stat/71/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F355
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/stat/72/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F261
-[/us/pl/86/108/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108%2Fs2
+[/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F246
 [/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
 [/us/stat/74/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F134

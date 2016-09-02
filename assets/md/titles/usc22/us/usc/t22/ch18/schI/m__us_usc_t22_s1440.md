@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch18/schI/m__us_usc_t22_s1439.md) | [Next](./../../../../..//us/usc/t22/ch18/schI/m__us_usc_t22_s1441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1440)
 
-## § 1440. Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]
+## § 1440. Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]
 
-    Section, acts [Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1009, [62 Stat. 14][/us/stat/62/14]; [Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], related to applicability of chapter provisions to similar international activities of State Department.
+    Section, acts [Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1009, [62 Stat. 14][/us/stat/62/14]; [Pub. L. 87–256][/us/pl/87/256], § 111(a)(2), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], related to applicability of chapter provisions to similar international activities of State Department.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F14
-[/us/pl/87/256/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fa%2F2
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

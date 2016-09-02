@@ -67,11 +67,11 @@
 
         (C) shale formations located in the Russian Federation.
 
-([Pub. L. 113–272, § 2][/us/pl/113/272/s2], Dec. 18, 2014, [128 Stat. 2952][/us/stat/128/2952].)
+([Pub. L. 113–272][/us/pl/113/272], § 2, Dec. 18, 2014, [128 Stat. 2952][/us/stat/128/2952].)
 
  __Short Title__ 
 
-[Pub. L. 113–272, § 1(a)][/us/pl/113/272/s1/a], Dec. 18, 2014, [128 Stat. 2952][/us/stat/128/2952], provided that: 
+[Pub. L. 113–272][/us/pl/113/272], § 1(a), Dec. 18, 2014, [128 Stat. 2952][/us/stat/128/2952], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Ukraine Freedom Support Act of 2014’.”
 
@@ -85,9 +85,9 @@
 [/us/usc/t31/s5318A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318A
 [/us/usc/t22/s2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794
 [/us/usc/t31/s5312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa%2F2
-[/us/pl/113/272/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs2
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2952
-[/us/pl/113/272/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs1%2Fa
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2952
 
 

@@ -17,7 +17,7 @@
 
     The United States Governor of the Bank is authorized to agree to amendments to the provisions of the articles of agreement as provided in proposed Board of Governors resolutions entitled (a) “Amendment of the Provisions of the Agreement Establishing the Bank with Respect to Membership and to Related Matters” and (b) “Amendment of the Provisions of the Agreement Establishing the Bank with Respect to the Election of Executive Directors”.
 
-([Pub. L. 86–147, § 20][/us/pl/86/147/s20], as added [Pub. L. 92–246, § 1][/us/pl/92/246/s1], Mar. 10, 1972, [86 Stat. 59][/us/stat/86/59].)
+([Pub. L. 86–147][/us/pl/86/147], § 20, as added [Pub. L. 92–246][/us/pl/92/246], § 1, Mar. 10, 1972, [86 Stat. 59][/us/stat/86/59].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs20
-[/us/pl/92/246/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F246%2Fs1
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/92/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F246
 [/us/stat/86/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F59
 
 

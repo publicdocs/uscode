@@ -25,11 +25,11 @@
 
     (4) to promote multilateral activities, including cooperation with international organizations, relating to nonproliferation.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 581, as added [Pub. L. 106–280, title III, § 301][/us/pl/106/280/s301], Oct. 6, 2000, [114 Stat. 851][/us/stat/114/851].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 581, as added [Pub. L. 106–280, title III][/us/pl/106/280/tIII], § 301, Oct. 6, 2000, [114 Stat. 851][/us/stat/114/851].)
 
  __Nonproliferation Technology Acquisition Programs for Friendly Foreign Countries__ 
 
-[Pub. L. 107–228, div. B, title XIII, § 1302][/us/pl/107/228/s1302], Sept. 30, 2002, [116 Stat. 1435][/us/stat/116/1435], provided that:
+[Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1302, Sept. 30, 2002, [116 Stat. 1435][/us/stat/116/1435], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/280/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs301
+[/us/pl/106/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtIII
 [/us/stat/114/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F851
-[/us/pl/107/228/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1302
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1435
 [/us/usc/t22/s2349bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349bb
 [/us/usc/t22/s2349bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349bb%E2%80%934

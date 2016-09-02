@@ -17,7 +17,7 @@
 
     The Governor and Executive Director of the Inter-American Development Bank, and the alternate for each of them, appointed under [section 283a of this title][/us/usc/t22/s283a], shall serve as Governor, Director, and alternates, respectively, of the Corporation.
 
-([Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s283a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs283a
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 

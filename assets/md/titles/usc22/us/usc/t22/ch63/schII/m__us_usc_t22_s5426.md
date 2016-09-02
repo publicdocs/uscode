@@ -45,7 +45,7 @@
 
             (B) any insured credit union (as defined in [section 1752(7) of title 12][/us/usc/t12/s1752/7]).
 
-([Pub. L. 101–179, title II, § 206][/us/pl/101/179/s206], Nov. 28, 1989, [103 Stat. 1310][/us/stat/103/1310].)
+([Pub. L. 101–179, title II][/us/pl/101/179/tII], § 206, Nov. 28, 1989, [103 Stat. 1310][/us/stat/103/1310].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
 [/us/usc/t12/s1752/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752%2F7
-[/us/pl/101/179/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs206
+[/us/pl/101/179/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtII
 [/us/stat/103/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1310
 [/us/pl/101/179/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs206
 [/us/pl/101/179/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs206

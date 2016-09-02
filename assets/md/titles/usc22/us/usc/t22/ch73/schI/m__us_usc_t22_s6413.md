@@ -17,7 +17,7 @@
 
     In order to facilitate access by nongovernmental organizations (NGOs) and by the public around the world to international documents on the protection of religious freedom, the Secretary of State, with the assistance of the Ambassador at Large, shall establish and maintain an Internet site containing major international documents relating to religious freedom, the Annual Report, the Executive Summary, and any other documentation or references to other sites as deemed appropriate or relevant by the Ambassador at Large.
 
-([Pub. L. 105–292, title I, § 103][/us/pl/105/292/s103], Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 103, Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs103
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2795
 
 

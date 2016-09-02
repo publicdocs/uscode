@@ -17,7 +17,7 @@
 
     For fiscal year 2011 and thereafter, the President is authorized to accept the statute of, and to maintain membership of the United States in, the International Renewable Energy Agency, and the United States’ assessed contributions to maintain such membership may be paid from funds appropriated for “Contributions to International Organizations”.
 
-([Pub. L. 111–212, title I, § 1014][/us/pl/111/212/s1014], July 29, 2010, [124 Stat. 2332][/us/stat/124/2332].)
+([Pub. L. 111–212, title I][/us/pl/111/212/tI], § 1014, July 29, 2010, [124 Stat. 2332][/us/stat/124/2332].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/212/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs1014
+[/us/pl/111/212/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtI
 [/us/stat/124/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2332
 
 

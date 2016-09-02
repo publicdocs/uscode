@@ -43,17 +43,17 @@
 
         Nothing contained in this chapter shall contravene the interest of the United States in human rights, especially with respect to the human rights of all the approximately eighteen million inhabitants of Taiwan. The preservation and enhancement of the human rights of all the people on Taiwan are hereby reaffirmed as objectives of the United States.
 
-([Pub. L. 96–8, § 2][/us/pl/96/8/s2], Apr. 10, 1979, [93 Stat. 14][/us/stat/93/14].)
+([Pub. L. 96–8][/us/pl/96/8], § 2, Apr. 10, 1979, [93 Stat. 14][/us/stat/93/14].)
 
  __Effective Date__ 
 
-[Pub. L. 96–8, § 18][/us/pl/96/8/s18], Apr. 10, 1979, [93 Stat. 21][/us/stat/93/21], provided that: 
+[Pub. L. 96–8][/us/pl/96/8], § 18, Apr. 10, 1979, [93 Stat. 21][/us/stat/93/21], provided that: 
 
 > “This Act \[enacting this chapter\] shall be effective as of January 1, 1979.”
 
  __Short Title__ 
 
-[Pub. L. 96–8, § 1][/us/pl/96/8/s1], Apr. 10, 1979, [93 Stat. 14][/us/stat/93/14], provided that: 
+[Pub. L. 96–8][/us/pl/96/8], § 1, Apr. 10, 1979, [93 Stat. 14][/us/stat/93/14], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Taiwan Relations Act’.”
 
@@ -85,7 +85,7 @@
 
     (c) Sections 3709, 3710, and 3735 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5], 8, and 13);
 
-    (d) [Section 2 of title III of the Act of March 3, 1933][/us/act/1933-03-03/s2] ([41 U.S.C. 10a][/us/usc/t41/s10a]);
+    (d) [Section 2 of title III of the Act of March 3, 1933][/us/act/1933-03-03/tIII/s2] ([41 U.S.C. 10a][/us/usc/t41/s10a]);
 
     (e) Title III of the Federal Property and Administrative Services Act of 1949, as amended ([41 U.S.C. 251][/us/usc/t41/s251]-260);
 
@@ -118,11 +118,11 @@
 ----------
 ----------
 
-[/us/pl/96/8/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs2
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F14
-[/us/pl/96/8/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs18
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F21
-[/us/pl/96/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs1
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F14
 [/us/usc/t22/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3301
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
@@ -135,7 +135,7 @@
 [/us/usc/t41/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs11
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/act/1933-03-03/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs2
+[/us/act/1933-03-03/tIII/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2FtIII%2Fs2
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601

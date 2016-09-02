@@ -35,7 +35,7 @@
 
     (9) under appropriate circumstances, intervention by the United States in foreign exchange markets as part of a coordinated international strategic intervention effort could produce more orderly adjustment of foreign exchange markets and, in combination with necessary macroeconomic policy changes, assist adjustment toward a more appropriate and sustainable balance in current accounts.
 
-([Pub. L. 100–418, title III, § 3002][/us/pl/100/418/s3002], Aug. 23, 1988, [102 Stat. 1372][/us/stat/102/1372].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3002, Aug. 23, 1988, [102 Stat. 1372][/us/stat/102/1372].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3002
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1372
 
 

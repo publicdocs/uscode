@@ -17,7 +17,7 @@
 
     The provisions of chapter 81 of title 5 shall, on or after October 1, 1988, continue to be the exclusive remedy, in accordance with section 8116 of such title, for the disability or death of any employee of the Panama Canal Commission, or any of its predecessor agencies, who is covered under such chapter, resulting from injuries sustained while in the performance of the employee’s duty. The rights of any such employee for workers’ compensation benefits shall be based only on the provisions of that chapter.
 
-([Pub. L. 100–705, § 6][/us/pl/100/705/s6], Nov. 19, 1988, [102 Stat. 4686][/us/stat/102/4686].)
+([Pub. L. 100–705][/us/pl/100/705], § 6, Nov. 19, 1988, [102 Stat. 4686][/us/stat/102/4686].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/705/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs6
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4686
 [/us/pl/100/705/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs10
 [/us/usc/t22/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612

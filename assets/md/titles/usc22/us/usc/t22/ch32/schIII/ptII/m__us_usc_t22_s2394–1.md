@@ -35,7 +35,7 @@
 
         The President shall notify the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives concerning any reprogramming of funds in the International Affairs Budget Function, the authorizations of appropriations for which are in their respective jurisdictions, to the same degree and with the same conditions as the President notifies the Committees on Appropriations. The requirements of this subsection are in addition to, and not in lieu of, other notification requirements.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 634A, formerly § 671, as added [Pub. L. 95–88, title I, § 130][/us/pl/95/88/s130], Aug. 3, 1977, [91 Stat. 543][/us/stat/91/543]; renumbered § 634A, [Pub. L. 95–424, title V, § 502(b)][/us/pl/95/424/s502/b], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]; amended [Pub. L. 97–113, title VII, § 704][/us/pl/97/113/s704], Dec. 29, 1981, [95 Stat. 1544][/us/stat/95/1544]; [Pub. L. 99–83, title XII, § 1209(a)][/us/pl/99/83/s1209/a], Aug. 8, 1985, [99 Stat. 278][/us/stat/99/278]; [Pub. L. 103–437, § 9(a)(6)][/us/pl/103/437/s9/a/6], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 634A, formerly § 671, as added [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 130, Aug. 3, 1977, [91 Stat. 543][/us/stat/91/543]; renumbered § 634A, [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(b), Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]; amended [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 704, Dec. 29, 1981, [95 Stat. 1544][/us/stat/95/1544]; [Pub. L. 99–83, title XII][/us/pl/99/83/tXII], § 1209(a), Aug. 8, 1985, [99 Stat. 278][/us/stat/99/278]; [Pub. L. 103–437][/us/pl/103/437], § 9(a)(6), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2413%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/88/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs130
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F543
-[/us/pl/95/424/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fb
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
-[/us/pl/97/113/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs704
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1544
-[/us/pl/99/83/s1209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1209%2Fa
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F278
-[/us/pl/103/437/s9/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs9%2Fa%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

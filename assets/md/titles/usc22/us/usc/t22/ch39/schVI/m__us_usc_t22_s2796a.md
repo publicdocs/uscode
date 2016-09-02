@@ -39,7 +39,7 @@
 
         (2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 62, as added [Pub. L. 97–113, title I, § 109(a)][/us/pl/97/113/s109/a], Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 104–164, title I, § 141(e)(1)][/us/pl/104/164/s141/e/1], July 21, 1996, [110 Stat. 1432][/us/stat/110/1432]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804]; [Pub. L. 113–276, title II, § 208(a)(4)][/us/pl/113/276/s208/a/4], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 62, as added [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 109(a), Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 141(e)(1), July 21, 1996, [110 Stat. 1432][/us/stat/110/1432]; [Pub. L. 110–429, title II][/us/pl/110/429/tII], § 203(b)(1), Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III][/us/pl/111/266/tIII], § 301(1), Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804]; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(4), Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
@@ -55,11 +55,11 @@
 
     2008—Subsec. (c)(1). [Pub. L. 110–429][/us/pl/110/429] inserted “the Republic of Korea,” before “or New Zealand”.
 
-    1996—Subsec. (a). [Pub. L. 104–164, § 141(e)(1)(A)][/us/pl/104/164/s141/e/1/A], substituted “Before” for “Not less than 30 days before”.
+    1996—Subsec. (a). [Pub. L. 104–164][/us/pl/104/164], § 141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
 
-    Subsec. (b). [Pub. L. 104–164, § 141(e)(1)(B)][/us/pl/104/164/s141/e/1/B], substituted “states in his certification” for “determines, and immediately reports to the Congress” and inserted at end “If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.”
+    Subsec. (b). [Pub. L. 104–164][/us/pl/104/164], § 141(e)(1)(B), substituted “states in his certification” for “determines, and immediately reports to the Congress” and inserted at end “If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.”
 
-    Subsec. (c). [Pub. L. 104–164, § 141(e)(1)(C)][/us/pl/104/164/s141/e/1/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–164][/us/pl/104/164], § 141(e)(1)(C), added subsec. (c).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -79,15 +79,15 @@
 [/us/usc/t22/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2311
 [/us/usc/t22/s2796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2796b
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/97/113/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs109%2Fa
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1525
-[/us/pl/104/164/s141/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fe%2F1
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1432
-[/us/pl/110/429/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F1
+[/us/pl/110/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2FtII
 [/us/stat/122/4845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4845
-[/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
+[/us/pl/111/266/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtIII
 [/us/stat/124/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2804
-[/us/pl/113/276/s208/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F4
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -98,9 +98,9 @@
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/pl/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429
-[/us/pl/104/164/s141/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fe%2F1%2FA
-[/us/pl/104/164/s141/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fe%2F1%2FB
-[/us/pl/104/164/s141/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fe%2F1%2FC
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/104/164/s141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Ff
 [/us/usc/t22/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753

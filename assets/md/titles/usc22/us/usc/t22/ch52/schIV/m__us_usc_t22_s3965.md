@@ -51,7 +51,7 @@
 
         Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
-([Pub. L. 96–465, title I, § 405][/us/pl/96/465/s405], Oct. 17, 1980, [94 Stat. 2088][/us/stat/94/2088]; [Pub. L. 100–204, title I, § 175(b)][/us/pl/100/204/s175/b], Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361]; [Pub. L. 103–236, title I, § 173(d)][/us/pl/103/236/s173/d], Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2311(a), Oct. 21, 1998, [112 Stat. 2681–826][/us/stat/112/2681-826]; [Pub. L. 105–292, title V, § 504(a)][/us/pl/105/292/s504/a], Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 323\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–437; [Pub. L. 107–228, div. A, title III, § 312(a)][/us/pl/107/228/s312/a], Sept. 30, 2002, [116 Stat. 1378][/us/stat/116/1378]; [Pub. L. 108–447, div. B, title IV, § 412(b)][/us/pl/108/447/s412/b], Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 405, Oct. 17, 1980, [94 Stat. 2088][/us/stat/94/2088]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 175(b), Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 173(d), Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2311(a), Oct. 21, 1998, [112 Stat. 2681–826][/us/stat/112/2681-826]; [Pub. L. 105–292, title V][/us/pl/105/292/tV], § 504(a), Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 323\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–437; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 312(a), Sept. 30, 2002, [116 Stat. 1378][/us/stat/116/1378]; [Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], § 412(b), Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
 
  __Amendments__ 
 
@@ -61,11 +61,11 @@
 
     1999—Subsec. (b)(1). [Pub. L. 106–113][/us/pl/106/113] substituted “33” for “50”.
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 2311(a)(1)][/us/pl/105/277/s2311/a/1], substituted “Subject to subsection (e), members” for “Members” in introductory provisions.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 2311(a)(1), substituted “Subject to subsection (e), members” for “Members” in introductory provisions.
 
     Subsec. (d). [Pub. L. 105–292][/us/pl/105/292] inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
 
-    Subsec. (e). [Pub. L. 105–277, § 2311(a)(2)][/us/pl/105/277/s2311/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–277][/us/pl/105/277], § 2311(a)(2), added subsec. (e).
 
     1994—Subsec. (b)(4). [Pub. L. 103–236][/us/pl/103/236] amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under [section 5312 of title 5][/us/usc/t5/s5312] as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
 
@@ -73,13 +73,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–228, div. A, title III, § 312(b)][/us/pl/107/228/s312/b], Sept. 30, 2002, [116 Stat. 1378][/us/stat/116/1378], provided that: 
+[Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 312(b), Sept. 30, 2002, [116 Stat. 1378][/us/stat/116/1378], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 2002.”
 
  __Senior Foreign Service Performance Pay__ 
 
-[Pub. L. 103–236, title I, § 173(a)][/us/pl/103/236/s173/a]–(c), Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412], as amended by [Pub. L. 103–415, § 1(gg)][/us/pl/103/415/s1/gg], Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303], provided that:
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 173(a)–(c), Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(gg), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303], provided that:
 
 >     “(a)  __Prohibition on Awards__  __.—__ 
 
@@ -97,7 +97,7 @@
 
  __Review of Performance Pay Programs__ 
 
-[Pub. L. 100–204, title I, § 175(a)][/us/pl/100/204/s175/a], Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 175(a), Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361], provided that:
 
 >     “(1)  __Suspension of awards during review__  __.—__ 
 
@@ -133,40 +133,40 @@
 [/us/usc/t22/s3962/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3962%2Fa%2F3
 [/us/usc/t5/s5582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5582
 [/us/usc/t22/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4002
-[/us/pl/96/465/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs405
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2088
-[/us/pl/100/204/s175/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs175%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1361
-[/us/pl/103/236/s173/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs173%2Fd
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F412
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-826
-[/us/pl/105/292/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs504%2Fa
+[/us/pl/105/292/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtV
 [/us/stat/112/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2811
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs312%2Fa
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1378
-[/us/pl/108/447/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs412%2Fb
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2905
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t22/s3962/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3962%2Fa%2F3
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/277/s2311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2311%2Fa%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
-[/us/pl/105/277/s2311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2311%2Fa%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/107/228/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs312%2Fb
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1378
-[/us/pl/103/236/s173/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs173%2Fa
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F412
-[/us/pl/103/415/s1/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fgg
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
 [/us/usc/t22/s3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3965
-[/us/pl/100/204/s175/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs175%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1361
 [/us/usc/t22/s3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3965
 

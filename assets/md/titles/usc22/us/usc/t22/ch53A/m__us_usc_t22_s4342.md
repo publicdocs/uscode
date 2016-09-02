@@ -27,7 +27,7 @@
 
         Violation of this section, or other importation, sale, or other disposition of personal property within a foreign country which violates its laws or regulations or governing international law and is prohibited by regulations and policies, rules, and procedures issued pursuant to [section 4343 of this title][/us/usc/t22/s4343], shall be grounds for disciplinary action against an employee.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title III, § 302, as added [Pub. L. 100–204, title I, § 186(a)][/us/pl/100/204/s186/a], Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title III, § 302, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 186(a), Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t22/s4343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4343
 [/us/usc/t22/s4343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4343
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/204/s186/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs186%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1368
 
 

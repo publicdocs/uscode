@@ -27,7 +27,7 @@
 
         The term “Hong Kong Economic and Trade Offices” refers to Hong Kong’s official economic and trade missions in the United States.
 
-([Pub. L. 105–22, § 1][/us/pl/105/22/s1], June 27, 1997, [111 Stat. 236][/us/stat/111/236].)
+([Pub. L. 105–22][/us/pl/105/22], § 1, June 27, 1997, [111 Stat. 236][/us/stat/111/236].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
-[/us/pl/105/22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F22%2Fs1
+[/us/pl/105/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F22
 [/us/stat/111/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F236
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669

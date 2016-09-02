@@ -27,7 +27,7 @@
 
         Mail addressed to the Canal Zone from or through the continental United States may be routed by the United States Postal Service to the military post offices of the United States Armed Forces in the Republic of Panama. Such military post offices shall provide the required directory services and shall accept such mail to the extent permitted under the Panama Canal Treaty of 1977 and related agreements. The Commission shall furnish personnel, records, and other services to such military post offices to assure wherever appropriate the distribution, rerouting, or return of such mail.
 
-([Pub. L. 96–70, title I, § 1331][/us/pl/96/70/s1331], Sept. 27, 1979, [93 Stat. 481][/us/stat/93/481], 482; [Pub. L. 104–201, div. C, title XXXV, § 3543][/us/pl/104/201/s3543], Sept. 23, 1996, [110 Stat. 2867][/us/stat/110/2867].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1331, Sept. 27, 1979, [93 Stat. 481][/us/stat/93/481], 482; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3543, Sept. 23, 1996, [110 Stat. 2867][/us/stat/110/2867].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1331
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F481
-[/us/pl/104/201/s3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3543
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2867
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/96/70/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1331

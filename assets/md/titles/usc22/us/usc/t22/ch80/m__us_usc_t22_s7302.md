@@ -97,11 +97,11 @@
 
         The Governance Board shall ensure that those enhancements of, and the provision of service for, telecommunication capabilities that involve the national security interests of the United States receive the highest prioritization.
 
-([Pub. L. 106–567, title III, § 322][/us/pl/106/567/s322], as added [Pub. L. 111–259, title V, § 501(a)(1)][/us/pl/111/259/s501/a/1], Oct. 7, 2010, [124 Stat. 2736][/us/stat/124/2736].)
+([Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 322, as added [Pub. L. 111–259, title V][/us/pl/111/259/tV], § 501(a)(1), Oct. 7, 2010, [124 Stat. 2736][/us/stat/124/2736].)
 
  __Prior Provisions__ 
 
-    A prior section 7302, [Pub. L. 106–567, title III, § 322][/us/pl/106/567/s322], Dec. 27, 2000, [114 Stat. 2843][/us/stat/114/2843]; [Pub. L. 107–306, title VIII, § 811(b)(5)(E)][/us/pl/107/306/s811/b/5/E], Nov. 27, 2002, [116 Stat. 2425][/us/stat/116/2425], which related to personnel, was repealed by [Pub. L. 111–259, title V, § 501(a)(1)][/us/pl/111/259/s501/a/1], Oct. 7, 2010, [124 Stat. 2735][/us/stat/124/2735].
+    A prior section 7302, [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 322, Dec. 27, 2000, [114 Stat. 2843][/us/stat/114/2843]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(5)(E), Nov. 27, 2002, [116 Stat. 2425][/us/stat/116/2425], which related to personnel, was repealed by [Pub. L. 111–259, title V][/us/pl/111/259/tV], § 501(a)(1), Oct. 7, 2010, [124 Stat. 2735][/us/stat/124/2735].
 
 ----------
 
@@ -110,14 +110,14 @@
 ----------
 ----------
 
-[/us/pl/106/567/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs322
-[/us/pl/111/259/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs501%2Fa%2F1
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
+[/us/pl/111/259/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtV
 [/us/stat/124/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2736
-[/us/pl/106/567/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs322
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2843
-[/us/pl/107/306/s811/b/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F5%2FE
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2425
-[/us/pl/111/259/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs501%2Fa%2F1
+[/us/pl/111/259/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtV
 [/us/stat/124/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2735
 
 

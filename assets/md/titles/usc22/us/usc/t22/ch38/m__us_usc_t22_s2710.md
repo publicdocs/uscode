@@ -55,17 +55,17 @@
 
             Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d).
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 38, as added [Pub. L. 99–93, title I, § 128][/us/pl/99/93/s128], Aug. 16, 1985, [99 Stat. 419][/us/stat/99/419]; amended [Pub. L. 103–236, title I, § 123][/us/pl/103/236/s123], Apr. 30, 1994, [108 Stat. 392][/us/stat/108/392]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2212(b), Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812]; [Pub. L. 107–228, div. A, title II, § 203][/us/pl/107/228/s203], Sept. 30, 2002, [116 Stat. 1362][/us/stat/116/1362].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 38, as added [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 128, Aug. 16, 1985, [99 Stat. 419][/us/stat/99/419]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 123, Apr. 30, 1994, [108 Stat. 392][/us/stat/108/392]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2212(b), Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 203, Sept. 30, 2002, [116 Stat. 1362][/us/stat/116/1362].)
 
  __References in Text__ 
 
-    The Department of State Appropriations Act of 1937, referred to in subsec. (d)(3), probably means the Department of State Appropriation Act, 1937, which is title I of [act May 15, 1936, ch. 405][/us/act/1936-05-15/ch405], [49 Stat. 1309][/us/stat/49/1309]. Provisions relating to acceptance by the Secretary of State of reimbursement for expenses incurred in pursuing certain private claims against foreign governments were added to that act by [Pub. L. 100–204, title I, § 142(b)][/us/pl/100/204/s142/b], Dec. 22, 1987, [101 Stat. 1350][/us/stat/101/1350], and are classified to [section 2661 of this title][/us/usc/t22/s2661].
+    The Department of State Appropriations Act of 1937, referred to in subsec. (d)(3), probably means the Department of State Appropriation Act, 1937, which is title I of [act May 15, 1936, ch. 405][/us/act/1936-05-15/ch405], [49 Stat. 1309][/us/stat/49/1309]. Provisions relating to acceptance by the Secretary of State of reimbursement for expenses incurred in pursuing certain private claims against foreign governments were added to that act by [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 142(b), Dec. 22, 1987, [101 Stat. 1350][/us/stat/101/1350], and are classified to [section 2661 of this title][/us/usc/t22/s2661].
 
     [Section 2668a of this title][/us/usc/t22/s2668a], referred to in subsec. (e)(1), was in the original “chapter 34 of the Act of February 27, 1896 ([22 U.S.C. 2668a][/us/usc/t22/s2668a]; [29 Stat. 32][/us/stat/29/32])”. [Section 2668a of this title][/us/usc/t22/s2668a] contains the only provisions of the Act which are classified to the Code.
 
  __Prior Provisions__ 
 
-    A prior section 38 of act Aug. 1, 1956, was renumbered section 39 by [section 128 of Pub. L. 99–93][/us/pl/99/93/s128], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 38 of act Aug. 1, 1956, was renumbered section 39 by [section 128 of Pub. L. 99–93][/us/pl/99/93/s128], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
@@ -87,17 +87,17 @@
 [/us/usc/t22/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2661
 [/us/usc/t22/s2668a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668a
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/99/93/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs128
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F419
-[/us/pl/103/236/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs123
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F392
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-812
-[/us/pl/107/228/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs203
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1362
 [/us/act/1936-05-15/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-15%2Fch405
 [/us/stat/49/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1309
-[/us/pl/100/204/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs142%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1350
 [/us/usc/t22/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2661
 [/us/usc/t22/s2668a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668a
@@ -106,7 +106,7 @@
 [/us/usc/t22/s2668a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668a
 [/us/pl/99/93/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs128
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

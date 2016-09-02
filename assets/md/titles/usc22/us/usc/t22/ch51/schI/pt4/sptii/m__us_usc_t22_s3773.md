@@ -27,7 +27,7 @@
 
     Agent’s fees, or commissions, or other incidental expenses of similar character, or any items which are indefinite, indeterminable, speculative, or conjectural may not be allowed. The Commission shall be furnished such vouchers, receipts, or other evidence as may be necessary in support of any item of a claim. If a vessel is not operated under charter but by the owner directly, evidence shall be secured if available as to the sum for which vessels of the same size and class can be chartered in the market. If the charter value cannot be determined, the value of the vessel to its owners in the business in which it was engaged at the time of the injuries shall be used as a basis for estimating the damages for the vessel’s detention; and the books of the owners showing the vessel’s earnings about the time of the accident or injuries shall be considered as evidence of probable earnings during the time of detention. If the books are unavailable, such other evidence shall be furnished as may be necessary.
 
-([Pub. L. 96–70, title I, § 1413][/us/pl/96/70/s1413], Sept. 27, 1979, [93 Stat. 486][/us/stat/93/486].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1413, Sept. 27, 1979, [93 Stat. 486][/us/stat/93/486].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1413
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F486
 
 

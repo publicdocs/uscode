@@ -51,7 +51,7 @@
 
     (6) to highlight in the United Nations Human Rights Commission and in other appropriate fora violations of human rights by foreign governments and to seek the support of other governments in urging improvements in human rights practices.
 
-([Pub. L. 106–286, div. B, title II, § 203][/us/pl/106/286/s203], Oct. 10, 2000, [114 Stat. 893][/us/stat/114/893].)
+([Pub. L. 106–286, div. B, title II][/us/pl/106/286/dB/tII], § 203, Oct. 10, 2000, [114 Stat. 893][/us/stat/114/893].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs203
+[/us/pl/106/286/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtII
 [/us/stat/114/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F893
 
 

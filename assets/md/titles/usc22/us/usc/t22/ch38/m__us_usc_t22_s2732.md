@@ -41,7 +41,7 @@
 
         In cooperation with the United States Agency for International Development (USAID) and other public and private assistance organizations and agencies, the Secretary should ensure that information relating to foreign assistance provided by the United States, nongovernmental organizations, and private entities of the United States is disseminated widely, and particularly, to the extent practicable, within countries and regions that receive such assistance. The Secretary should ensure that, to the extent practicable, projects funded by USAID not involving commodities, including projects implemented by private voluntary organizations, are identified as provided by the people of the United States.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 60, as added [Pub. L. 108–458, title VII, § 7109(a)][/us/pl/108/458/s7109/a], Dec. 17, 2004, [118 Stat. 3792][/us/stat/118/3792].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 60, as added [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7109(a), Dec. 17, 2004, [118 Stat. 3792][/us/stat/118/3792].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/108/458/s7109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7109%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3792
 
 

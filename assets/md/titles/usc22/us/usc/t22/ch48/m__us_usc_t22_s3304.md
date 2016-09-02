@@ -23,7 +23,7 @@
 
         Except as provided in subsection (a) of this section, in issuing insurance, reinsurance, loans, or guaranties with respect to investment proj­ects on Taiwan, the Overseas Private Insurance  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Investment”. </sup></sup>  Corporation shall apply the same criteria as those applicable in other parts of the world.
 
-([Pub. L. 96–8, § 5][/us/pl/96/8/s5], Apr. 10, 1979, [93 Stat. 16][/us/stat/93/16].)
+([Pub. L. 96–8][/us/pl/96/8], § 5, Apr. 10, 1979, [93 Stat. 16][/us/stat/93/16].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191
-[/us/pl/96/8/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs5
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F16
 
 

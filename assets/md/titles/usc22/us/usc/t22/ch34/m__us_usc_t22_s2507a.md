@@ -105,11 +105,11 @@
 
             (B) suffer substantial emotional distress.
 
-([Pub. L. 87–293, title I, § 8A][/us/pl/87/293/s8A], as added [Pub. L. 112–57, § 2][/us/pl/112/57/s2], Nov. 21, 2011, [125 Stat. 736][/us/stat/125/736].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8A, as added [Pub. L. 112–57][/us/pl/112/57], § 2, Nov. 21, 2011, [125 Stat. 736][/us/stat/125/736].)
 
  __Offset of Costs and Personnel__ 
 
-[Pub. L. 112–57, § 9][/us/pl/112/57/s9], Nov. 21, 2011, [125 Stat. 745][/us/stat/125/745], provided that: 
+[Pub. L. 112–57][/us/pl/112/57], § 9, Nov. 21, 2011, [125 Stat. 745][/us/stat/125/745], provided that: 
 
 > “Notwithstanding any other provision of law, the Direct \[probably should be “Director”\] of the Peace Corps shall—
 
@@ -130,10 +130,10 @@
 
 [/us/usc/t22/s2507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507%2Fa
 [/us/usc/t22/s2507b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507b%2Fc
-[/us/pl/87/293/s8A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8A
-[/us/pl/112/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F736
-[/us/pl/112/57/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs9
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F745
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 

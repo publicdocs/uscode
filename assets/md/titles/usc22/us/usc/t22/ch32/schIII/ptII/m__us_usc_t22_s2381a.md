@@ -23,7 +23,7 @@
 
         To meet this need, the President shall establish a management system that includes: the definition of objectives and programs for United States foreign assistance; the development of quantitative indicators of progress toward these objectives; the orderly consideration of alternative means for accomplishing such objectives; and the adoption of methods for comparing actual results of programs and projects with those anticipated when they were undertaken. The system should provide information to the agency and to Congress that relates agency resources, expenditures, and budget projections to such objectives and results in order to assist in the evaluation of program performance, the review of budgetary requests, and the setting of program priorities.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 621A, as added [Pub. L. 90–554][/us/pl/90/554], pt. III, § 302(b), Oct. 8, 1968, [82 Stat. 964][/us/stat/82/964]; amended [Pub. L. 95–424, title V, § 502(d)(1)][/us/pl/95/424/s502/d/1], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 621A, as added [Pub. L. 90–554][/us/pl/90/554], pt. III, § 302(b), Oct. 8, 1968, [82 Stat. 964][/us/stat/82/964]; amended [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(d)(1), Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/stat/82/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F964
-[/us/pl/95/424/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F1
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424

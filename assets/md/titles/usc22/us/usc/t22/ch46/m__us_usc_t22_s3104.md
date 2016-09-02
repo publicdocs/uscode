@@ -47,17 +47,17 @@
 
         Any person who willfully violates subsection (c) or (d) shall, upon conviction, be fined not more than $10,000, in addition to any other penalty imposed by law.
 
-([Pub. L. 94–472, § 5][/us/pl/94/472/s5], Oct. 11, 1976, [90 Stat. 2062][/us/stat/90/2062]; [Pub. L. 98–573, title III, § 306(b)(5)][/us/pl/98/573/s306/b/5], Oct. 30, 1984, [98 Stat. 3010][/us/stat/98/3010]; [Pub. L. 101–533][/us/pl/101/533], §§ 6(d), (e), 7(a), Nov. 7, 1990, [104 Stat. 2349][/us/stat/104/2349].)
+([Pub. L. 94–472][/us/pl/94/472], § 5, Oct. 11, 1976, [90 Stat. 2062][/us/stat/90/2062]; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(b)(5), Oct. 30, 1984, [98 Stat. 3010][/us/stat/98/3010]; [Pub. L. 101–533][/us/pl/101/533], §§ 6(d), (e), 7(a), Nov. 7, 1990, [104 Stat. 2349][/us/stat/104/2349].)
 
  __Amendments__ 
 
-    1990—Subsec. (b). [Pub. L. 101–533, § 7(a)][/us/pl/101/533/s7/a], inserted at end “When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer’s best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report.”
+    1990—Subsec. (b). [Pub. L. 101–533][/us/pl/101/533], § 7(a), inserted at end “When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer’s best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report.”
 
-    Subsec. (c)(2). [Pub. L. 101–533, § 6(e)(1)][/us/pl/101/533/s6/e/1], substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (c)(2). [Pub. L. 101–533][/us/pl/101/533], § 6(e)(1), substituted “subsection (e)” for “subsection (d)”.
 
-    Subsec. (d). [Pub. L. 101–533, § 6(d)(2)][/us/pl/101/533/s6/d/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 101–533][/us/pl/101/533], § 6(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 101–533, § 6(d)(1)][/us/pl/101/533/s6/d/1], (e)(2), redesignated subsec. (d) as (e) and inserted “or (d)” after “subsection (c)”.
+    Subsec. (e). [Pub. L. 101–533][/us/pl/101/533], § 6(d)(1), (e)(2), redesignated subsec. (d) as (e) and inserted “or (d)” after “subsection (c)”.
 
     1984—Subsec. (b)(1), (2). [Pub. L. 98–573][/us/pl/98/573] struck out “international investment” before “surveys”.
 
@@ -68,16 +68,16 @@
 ----------
 ----------
 
-[/us/pl/94/472/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs5
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2062
-[/us/pl/98/573/s306/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F5
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3010
 [/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2349
-[/us/pl/101/533/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs7%2Fa
-[/us/pl/101/533/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2Fe%2F1
-[/us/pl/101/533/s6/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2Fd%2F2
-[/us/pl/101/533/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2Fd%2F1
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 
 

@@ -135,15 +135,15 @@
 
                     A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
 
-([Pub. L. 108–199, div. D, title VI, § 604][/us/pl/108/199/s604], Jan. 23, 2004, [118 Stat. 212][/us/stat/118/212].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 604, Jan. 23, 2004, [118 Stat. 212][/us/stat/118/212].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a) and (c)(2), (8)(B)(i)(I), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
+    This chapter, referred to in subsecs. (a) and (c)(2), (8)(B)(i)(I), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199/dD], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
 
  __Codification__ 
 
-    Section is comprised of [section 604 of div. D of Pub. L. 108–199][/us/pl/108/199/s604]. Subsec. (b)(4)(B) of [section 604 of div. D of Pub. L. 108–199][/us/pl/108/199/s604] amended [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+    Section is comprised of [section 604 of div. D of Pub. L. 108–199][/us/pl/108/199/dD/s604]. Subsec. (b)(4)(B) of [section 604 of div. D of Pub. L. 108–199][/us/pl/108/199/dD/s604] amended [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -155,13 +155,13 @@
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/108/199/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs604
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F212
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/usc/t22/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7701
-[/us/pl/108/199/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs604
-[/us/pl/108/199/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs604
+[/us/pl/108/199/dD/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2Fs604
+[/us/pl/108/199/dD/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2Fs604
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

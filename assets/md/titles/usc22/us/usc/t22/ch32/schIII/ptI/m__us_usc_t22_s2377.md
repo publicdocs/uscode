@@ -31,7 +31,7 @@
 
         (4) an explanation of how the assistance furthers United States national interests.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620G, as added [Pub. L. 104–132, title III, § 325][/us/pl/104/132/s325], Apr. 24, 1996, [110 Stat. 1256][/us/stat/110/1256].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620G, as added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 325, Apr. 24, 1996, [110 Stat. 1256][/us/stat/110/1256].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 104–132, title III, § 324][/us/pl/104/132/s324], Apr. 24, 1996, [110 Stat. 1255][/us/stat/110/1255], provided that: 
+[Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 324, Apr. 24, 1996, [110 Stat. 1255][/us/stat/110/1255], provided that: 
 
 > “The Congress finds that—
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/132/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs325
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1256
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -84,7 +84,7 @@
 [/us/pl/87/195/s620G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs620G
 [/us/usc/t22/s2378a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378a
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/104/132/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs324
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1255
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/132/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs329

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2653...2655.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
 
 ## § 2655a. Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau
 
     There is established within the Department of State a Bureau of Oceans and International Environmental and Scientific Affairs. There shall be an Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, appointed by the President, by and with the advice and consent of the Senate, who shall be the head of the Bureau and who shall have responsibility for matters relating to oceans, environmental, scientific, fisheries, wildlife, and conservation affairs and for such other related duties as the Secretary may from time to time designate.
 
-([Pub. L. 93–126, § 9(a)][/us/pl/93/126/s9/a], formerly § 9, Oct. 18, 1973, [87 Stat. 453][/us/stat/87/453], renumbered [Pub. L. 93–312, § 9][/us/pl/93/312/s9], June 8, 1974, [88 Stat. 238][/us/stat/88/238]; [Pub. L. 103–236, title I, § 162(q)(1)][/us/pl/103/236/s162/q/1], Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410]; [Pub. L. 103–415, § 1(f)(4)(B)][/us/pl/103/415/s1/f/4/B], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300].)
+([Pub. L. 93–126][/us/pl/93/126], § 9(a), formerly § 9, Oct. 18, 1973, [87 Stat. 453][/us/stat/87/453], renumbered [Pub. L. 93–312][/us/pl/93/312], § 9, June 8, 1974, [88 Stat. 238][/us/stat/88/238]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(q)(1), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410]; [Pub. L. 103–415][/us/pl/103/415], § 1(f)(4)(B), Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300].)
 
  __Amendments__ 
 
@@ -33,18 +33,18 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652c.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2653...2655.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2655a)
 
 ----------
 ----------
 
-[/us/pl/93/126/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs9%2Fa
+[/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126
 [/us/stat/87/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F453
-[/us/pl/93/312/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F312%2Fs9
+[/us/pl/93/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F312
 [/us/stat/88/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F238
-[/us/pl/103/236/s162/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fq%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F410
-[/us/pl/103/415/s1/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Ff%2F4%2FB
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4300
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415

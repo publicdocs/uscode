@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of this chapter.
 
-([Aug. 27, 1954, ch. 1018, § 6][/us/act/1954-08-27/ch1018/s6], [68 Stat. 883][/us/stat/68/883].)
+([Aug. 27, 1954, ch. 1018][/us/act/1954-08-27/ch1018], § 6, [68 Stat. 883][/us/stat/68/883].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1018/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018%2Fs6
+[/us/act/1954-08-27/ch1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018
 [/us/stat/68/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F883
 
 

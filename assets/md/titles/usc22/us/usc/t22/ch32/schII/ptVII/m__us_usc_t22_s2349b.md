@@ -23,7 +23,7 @@
 
         The provisions of paragraph (3) of [section 2396(a) of this title][/us/usc/t22/s2396/a] shall be applicable to the use of funds available to carry out this part, except that no more than sixty persons may be engaged at any one time under that paragraph for purposes of this part.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 563, as added [Pub. L. 96–35, § 3][/us/pl/96/35/s3], July 20, 1979, [93 Stat. 90][/us/stat/93/90].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 563, as added [Pub. L. 96–35][/us/pl/96/35], § 3, July 20, 1979, [93 Stat. 90][/us/stat/93/90].)
 
  __Delegation of Functions__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t22/s2393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393%2Fa
 [/us/usc/t22/s2396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/96/35/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs3
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F90
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

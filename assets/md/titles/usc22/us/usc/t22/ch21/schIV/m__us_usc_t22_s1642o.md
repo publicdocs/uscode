@@ -17,7 +17,7 @@
 
     To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title][/us/usc/t22/s1623]; subsections (c), (d), (e), and (f) of [section 1626 of this title][/us/usc/t22/s1626].
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 416, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 530][/us/stat/72/530].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 416, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 530][/us/stat/72/530].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t22/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1623
 [/us/usc/t22/s1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1626
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F530
 
 

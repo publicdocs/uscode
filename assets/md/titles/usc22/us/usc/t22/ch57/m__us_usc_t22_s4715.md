@@ -21,7 +21,7 @@
 
     (2) to the extent or in such amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 99–93, title VI, § 615][/us/pl/99/93/s615], Aug. 16, 1985, [99 Stat. 444][/us/stat/99/444].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 615, Aug. 16, 1985, [99 Stat. 444][/us/stat/99/444].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/93/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs615
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F444
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

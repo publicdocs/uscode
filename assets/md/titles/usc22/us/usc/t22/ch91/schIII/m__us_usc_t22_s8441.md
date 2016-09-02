@@ -101,7 +101,7 @@
 
         Not later than 180 days after October 15, 2009, the Secretary of State shall submit to the appropriate congressional committees a plan for the proposed use of amounts authorized for security-related assistance for each of the fiscal years 2010 through 2014. Such plan shall include an assessment of how the use of such amounts complements or otherwise is related to amounts described in [section 8424 of this title][/us/usc/t22/s8424].
 
-([Pub. L. 111–73, title III, § 301][/us/pl/111/73/s301], Oct. 15, 2009, [123 Stat. 2075][/us/stat/123/2075].)
+([Pub. L. 111–73, title III][/us/pl/111/73/tIII], § 301, Oct. 15, 2009, [123 Stat. 2075][/us/stat/123/2075].)
 
  __Delegation of a Reporting Authority__ 
 
@@ -124,7 +124,7 @@
 
 [/us/usc/t22/s8411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8411
 [/us/usc/t22/s8424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8424
-[/us/pl/111/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs301
+[/us/pl/111/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtIII
 [/us/stat/123/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2075
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/111/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73

@@ -39,7 +39,7 @@
 
         In addition to any other requirements of this section, no assistance authorized under part I of subchapter I of this chapter, subpart II of part II of subchapter I of this chapter, or part IV of subchapter II of this chapter shall be furnished with respect to any capital assistance project estimated to cost in excess of $1,000,000 until the head of the agency primarily responsible for administering subchapter I of this chapter has received and taken into consideration a certification from the principal officer of such agency in the country in which the project is located as to the capability of the country (both financial and human resources) to effectively maintain and utilize the project taking into account among other things the maintenance and utilization of projects in such country previously financed or assisted by the United States.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 611, Sept. 4, 1961, [75 Stat. 442][/us/stat/75/442]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(b), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 301(c), Dec. 16, 1963, [77 Stat. 385][/us/stat/77/385]; [Pub. L. 90–137][/us/pl/90/137], pt. II, § 301(d), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 95–424, title I, § 102(g)(2)(D)][/us/pl/95/424/s102/g/2/D], (E), Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943]; [Pub. L. 96–53, title I, § 117][/us/pl/96/53/s117], Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 99–83, title XII][/us/pl/99/83], §§ 1208, 1211(b)(2), Aug. 8, 1985, [99 Stat. 278][/us/stat/99/278], 279.)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 611, Sept. 4, 1961, [75 Stat. 442][/us/stat/75/442]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(b), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 301(c), Dec. 16, 1963, [77 Stat. 385][/us/stat/77/385]; [Pub. L. 90–137][/us/pl/90/137], pt. II, § 301(d), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(2)(D), (E), Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 117, Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 99–83, title XII][/us/pl/99/83/tXII], §§ 1208, 1211(b)(2), Aug. 8, 1985, [99 Stat. 278][/us/stat/99/278], 279.)
 
  __References in Text__ 
 
@@ -55,17 +55,17 @@
 
  __Amendments__ 
 
-    1985—Subsec. (a). [Pub. L. 99–83, § 1208(1)][/us/pl/99/83/s1208/1], substituted “$500,000” for “$100,000”.
+    1985—Subsec. (a). [Pub. L. 99–83][/us/pl/99/83], § 1208(1), substituted “$500,000” for “$100,000”.
 
-    [Pub. L. 99–83, § 1211(b)(2)][/us/pl/99/83/s1211/b/2], substituted reference to [section 1501 of title 31][/us/usc/t31/s1501], for reference to section 1311 of the Supplemental Appropriation Act, 1955.
+    [Pub. L. 99–83][/us/pl/99/83], § 1211(b)(2), substituted reference to [section 1501 of title 31][/us/usc/t31/s1501], for reference to section 1311 of the Supplemental Appropriation Act, 1955.
 
-    Subsec. (b). [Pub. L. 99–83, § 1208(2)][/us/pl/99/83/s1208/2], substituted “the principles, standards, and procedures established pursuant to the Water Resources Planning Act ([42 U.S.C. 1962][/us/usc/t42/s1962], et seq.) or acts amendatory or supplementary thereto” for “the procedures set forth in the Principles and Standards for Planning Water and Related Land Resources, dated October 25, 1973, with respect to such computations”.
+    Subsec. (b). [Pub. L. 99–83][/us/pl/99/83], § 1208(2), substituted “the principles, standards, and procedures established pursuant to the Water Resources Planning Act ([42 U.S.C. 1962][/us/usc/t42/s1962], et seq.) or acts amendatory or supplementary thereto” for “the procedures set forth in the Principles and Standards for Planning Water and Related Land Resources, dated October 25, 1973, with respect to such computations”.
 
     1979—Subsec. (b). [Pub. L. 96–53][/us/pl/96/53] substituted “Principles and Standards for Planning Water and Related Land Resources, dated October 25, 1973” for “Memorandum of the President dated May 15, 1962”.
 
-    1978—Subsec. (a). [Pub. L. 95–424, § 102(g)(2)(D)][/us/pl/95/424/s102/g/2/D], substituted “part I of subchapter I of this chapter, subpart II of part II of subchapter I of this chapter, or part IV of subchapter II of this chapter” for “subparts I, II, and VI of part II and part IV of subchapter I of this chapter”.
+    1978—Subsec. (a). [Pub. L. 95–424][/us/pl/95/424], § 102(g)(2)(D), substituted “part I of subchapter I of this chapter, subpart II of part II of subchapter I of this chapter, or part IV of subchapter II of this chapter” for “subparts I, II, and VI of part II and part IV of subchapter I of this chapter”.
 
-    Subsec. (e). [Pub. L. 95–424, § 102(g)(2)(E)][/us/pl/95/424/s102/g/2/E], substituted “part I of subchapter I of this chapter, subpart II of part II of subchapter I of this chapter, or part IV of subchapter II of this chapter” for “subparts I, II, or VI of part II or part IV of subchapter I of this chapter”.
+    Subsec. (e). [Pub. L. 95–424][/us/pl/95/424], § 102(g)(2)(E), substituted “part I of subchapter I of this chapter, subpart II of part II of subchapter I of this chapter, or part IV of subchapter II of this chapter” for “subparts I, II, or VI of part II or part IV of subchapter I of this chapter”.
 
     1967—Subsec. (e). [Pub. L. 90–137][/us/pl/90/137] added subsec. (e).
 
@@ -102,11 +102,11 @@
 [/us/stat/77/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F385
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F458
-[/us/pl/95/424/s102/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FD
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F943
-[/us/pl/96/53/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs117
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F365
-[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F278
 [/us/pl/89/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80
 [/us/stat/79/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F244
@@ -115,14 +115,14 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
-[/us/pl/99/83/s1208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1208%2F1
-[/us/pl/99/83/s1211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1211%2Fb%2F2
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
-[/us/pl/99/83/s1208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1208%2F2
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/usc/t42/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
-[/us/pl/95/424/s102/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FD
-[/us/pl/95/424/s102/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FE
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565

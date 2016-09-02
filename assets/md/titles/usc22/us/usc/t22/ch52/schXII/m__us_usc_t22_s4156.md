@@ -49,13 +49,13 @@
 
         may not be retired under [section 4008 of this title][/us/usc/t22/s4008] until 10 years after February 15, 1981, or when such individual first becomes eligible for an immediate annuity under subchapter VIII of this chapter, whichever occurs first.
 
-([Pub. L. 96–465, title II, § 2106][/us/pl/96/465/s2106], Oct. 17, 1980, [94 Stat. 2151][/us/stat/94/2151].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2106, Oct. 17, 1980, [94 Stat. 2151][/us/stat/94/2151].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (d), was in the original “this Act”, meaning [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
-    Section 633(a)(2) of the Foreign Service Act of 1946, referred to in subsec. (e)(2), which was classified to [section 1003(a)(2) of this title][/us/usc/t22/s1003/a/2], was repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    Section 633(a)(2) of the Foreign Service Act of 1946, referred to in subsec. (e)(2), which was classified to [section 1003(a)(2) of this title][/us/usc/t22/s1003/a/2], was repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
  __Codification__ 
 
@@ -72,13 +72,13 @@
 [/us/usc/t22/s4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4154
 [/us/usc/t22/s4154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4154
 [/us/usc/t22/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4008
-[/us/pl/96/465/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2106
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2151
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s1003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1003%2Fa%2F2
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

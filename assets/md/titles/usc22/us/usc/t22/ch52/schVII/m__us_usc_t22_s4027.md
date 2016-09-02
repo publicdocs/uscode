@@ -29,7 +29,7 @@
 
         The board referred to in subsection (b) shall be composed of the Director of the institution, who shall serve as chairperson, and four other members appointed by the Secretary of State.
 
-([Pub. L. 96–465, title I, § 707][/us/pl/96/465/s707], as added [Pub. L. 101–246, title I, § 144(a)][/us/pl/101/246/s144/a], Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36]; amended [Pub. L. 103–236, title I, § 126(3)][/us/pl/103/236/s126/3], Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 707, as added [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 144(a), Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 126(3), Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/96/465/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs707
-[/us/pl/101/246/s144/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs144%2Fa
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F36
-[/us/pl/103/236/s126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs126%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F394
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

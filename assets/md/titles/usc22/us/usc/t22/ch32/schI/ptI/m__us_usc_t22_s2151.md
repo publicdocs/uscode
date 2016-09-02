@@ -39,7 +39,7 @@
 
         Under the policy guidance of the Secretary of State, the agency primarily responsible for administering subchapter I of this chapter should have the responsibility for coordinating all United States development-related activities.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 101, formerly § 102, Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424]; [Pub. L. 87–565][/us/pl/87/565], pt. I, § 101, Aug. 1, 1962, [76 Stat. 255][/us/stat/76/255]; [Pub. L. 88–205][/us/pl/88/205], pt. I, § 101(c), Dec. 16, 1963, [77 Stat. 379][/us/stat/77/379]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 101, Sept. 6, 1965, [79 Stat. 653][/us/stat/79/653]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 101, Sept. 19, 1966, [80 Stat. 796][/us/stat/80/796]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 101, Nov. 14, 1967, [81 Stat. 445][/us/stat/81/445]; [Pub. L. 93–189, § 2(2)][/us/pl/93/189/s2/2], Dec. 17, 1973, [87 Stat. 714][/us/stat/87/714]; [Pub. L. 94–161, title III, § 301][/us/pl/94/161/s301], Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855]; [Pub. L. 95–88, title I][/us/pl/95/88], §§ 101, 113(b), Aug. 3, 1977, [91 Stat. 533][/us/stat/91/533], 538; renumbered and amended [Pub. L. 95–424, title I, § 101][/us/pl/95/424/s101], Oct. 6, 1978, [92 Stat. 937][/us/stat/92/937]; [Pub. L. 106–309, title II, § 203(a)][/us/pl/106/309/s203/a], Oct. 17, 2000, [114 Stat. 1091][/us/stat/114/1091].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 101, formerly § 102, Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424]; [Pub. L. 87–565][/us/pl/87/565], pt. I, § 101, Aug. 1, 1962, [76 Stat. 255][/us/stat/76/255]; [Pub. L. 88–205][/us/pl/88/205], pt. I, § 101(c), Dec. 16, 1963, [77 Stat. 379][/us/stat/77/379]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 101, Sept. 6, 1965, [79 Stat. 653][/us/stat/79/653]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 101, Sept. 19, 1966, [80 Stat. 796][/us/stat/80/796]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 101, Nov. 14, 1967, [81 Stat. 445][/us/stat/81/445]; [Pub. L. 93–189][/us/pl/93/189], § 2(2), Dec. 17, 1973, [87 Stat. 714][/us/stat/87/714]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 301, Dec. 20, 1975, [89 Stat. 855][/us/stat/89/855]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], §§ 101, 113(b), Aug. 3, 1977, [91 Stat. 533][/us/stat/91/533], 538; renumbered and amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 101, Oct. 6, 1978, [92 Stat. 937][/us/stat/92/937]; [Pub. L. 106–309, title II][/us/pl/106/309/tII], § 203(a), Oct. 17, 2000, [114 Stat. 1091][/us/stat/114/1091].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -55,13 +55,13 @@
 
     Subsecs. (c) to (e). [Pub. L. 95–424][/us/pl/95/424] struck out subsecs. (c) to (e).
 
-    1977—Subsec. (a). [Pub. L. 95–88, § 113(b)(1)][/us/pl/95/88/s113/b/1], inserted “environment and natural resources” to enumeration of fundamental needs of the people of less developed countries which development assistance must be used in meeting.
+    1977—Subsec. (a). [Pub. L. 95–88][/us/pl/95/88], § 113(b)(1), inserted “environment and natural resources” to enumeration of fundamental needs of the people of less developed countries which development assistance must be used in meeting.
 
-    Subsec. (b)(2). [Pub. L. 95–88, § 113(b)(2)][/us/pl/95/88/s113/b/2], inserted “environment and natural resources;” after “population planning and health;”.
+    Subsec. (b)(2). [Pub. L. 95–88][/us/pl/95/88], § 113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
-    Subsec. (d). [Pub. L. 95–88, § 101(a)][/us/pl/95/88/s101/a], substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment and progress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
+    Subsec. (d). [Pub. L. 95–88][/us/pl/95/88], § 101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment and progress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
 
-    Subsec. (e). [Pub. L. 95–88, § 101(b)][/us/pl/95/88/s101/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–88][/us/pl/95/88], § 101(b), added subsec. (e).
 
     1975—Subsecs. (c), (d). [Pub. L. 94–161][/us/pl/94/161] added subsecs. (c) and (d).
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–53, title V, § 512][/us/pl/96/53/s512], Aug. 14, 1979, [93 Stat. 380][/us/stat/93/380], provided that:
+[Pub. L. 96–53, title V][/us/pl/96/53/tV], § 512, Aug. 14, 1979, [93 Stat. 380][/us/stat/93/380], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section and in section 503(b) \[set out as an Effective Date of 1979 Amendment note under [section 2385a of this title][/us/usc/t22/s2385a]\] this Act \[see Short Title of 1979 Amendments note below\] shall take effect on October 1, 1979.
 
@@ -87,25 +87,25 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–424, title VI, § 605][/us/pl/95/424/s605], Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], provided that: 
+[Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–289, § 1][/us/pl/113/289/s1], Dec. 19, 2014, [128 Stat. 3283][/us/stat/128/3283], provided that: 
+[Pub. L. 113–289][/us/pl/113/289], § 1, Dec. 19, 2014, [128 Stat. 3283][/us/stat/128/3283], provided that: 
 
 > “This Act \[amending [section 2152h of this title][/us/usc/t22/s2152h] and provisions set out as a note under [section 2152h of this title][/us/usc/t22/s2152h]\] may be cited as the ‘Senator Paul Simon Water for the World Act of 2014’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–166, § 1][/us/pl/111/166/s1], May 17, 2010, [124 Stat. 1186][/us/stat/124/1186], provided that: 
+[Pub. L. 111–166][/us/pl/111/166], § 1, May 17, 2010, [124 Stat. 1186][/us/stat/124/1186], provided that: 
 
 > “This Act \[amending sections 2151n and 2304 of this title\] may be cited as the ‘Daniel Pearl Freedom of the Press Act of 2009’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–457, title IV, § 401][/us/pl/110/457/s401], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087], provided that: 
+[Pub. L. 110–457, title IV][/us/pl/110/457/tIV], § 401, Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087], provided that: 
 
 > “This title \[enacting sections 2370c to 2370c–2 of this title, amending [section 4028 of this title][/us/usc/t22/s4028], and enacting provisions set out as a note under [section 2370c of this title][/us/usc/t22/s2370c]\] may be cited as the ‘Child Soldiers Prevention Act of 2008’.”
 
@@ -115,359 +115,359 @@
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–53, title XX, § 2001][/us/pl/110/53/s2001], Aug. 3, 2007, [121 Stat. 508][/us/stat/121/508], provided that: 
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2001, Aug. 3, 2007, [121 Stat. 508][/us/stat/121/508], provided that: 
 
 > “This title \[enacting [section 6216 of this title][/us/usc/t22/s6216], amending [section 2228 of this title][/us/usc/t22/s2228], enacting provisions set out as notes under this section and sections 2228, 2375, 2452c, 2656, 6204, 6216, and 7511 of this title and [section 2000dd of Title 42][/us/usc/t42/s2000dd], The Public Health and Welfare, and amending provisions set out as a note under [section 2452 of this title][/us/usc/t22/s2452]\] may be cited as the ‘9/11 Commission International Implementation Act of 2007’.”
 
-[Pub. L. 109–472, § 1(a)][/us/pl/109/472/s1/a], Jan. 11, 2007, [120 Stat. 3554][/us/stat/120/3554], provided that: 
+[Pub. L. 109–472][/us/pl/109/472], § 1(a), Jan. 11, 2007, [120 Stat. 3554][/us/stat/120/3554], provided that: 
 
 > “This Act \[enacting sections 288l, 2349bb–5, and 2349bb–6 of this title and [section 118 of Title 18][/us/usc/t18/s118], Crimes and Criminal Procedure, amending sections 214, 288f–2, 2321h, 2349bb–2, and 4856 of this title, [section 5924 of Title 5][/us/usc/t5/s5924], Government Organization and Employees, and [section 1356 of Title 8][/us/usc/t8/s1356], Aliens and Nationality, enacting provisions set out as notes under [section 2751 of this title][/us/usc/t22/s2751] and [section 1714 of Title 8][/us/usc/t8/s1714], and amending provisions set out as a note under [section 6206 of this title][/us/usc/t22/s6206]\] may be cited as the ‘Department of State Authorities Act of 2006’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–165, § 1][/us/pl/109/165/s1], Jan. 10, 2006, [119 Stat. 3574][/us/stat/119/3574], provided that: 
+[Pub. L. 109–165][/us/pl/109/165], § 1, Jan. 10, 2006, [119 Stat. 3574][/us/stat/119/3574], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes under [section 2152 of this title][/us/usc/t22/s2152]\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 2005’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–95, § 1][/us/pl/109/95/s1], Nov. 8, 2005, [119 Stat. 2111][/us/stat/119/2111], provided that: 
+[Pub. L. 109–95][/us/pl/109/95], § 1, Nov. 8, 2005, [119 Stat. 2111][/us/stat/119/2111], provided that: 
 
 > “This Act \[enacting sections 2152f and 2152g of this title and provisions set out as notes under sections 2152f and 2152g of this title\] may be cited as the ‘Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–484, § 1][/us/pl/108/484/s1], Dec. 23, 2004, [118 Stat. 3922][/us/stat/118/3922], provided that: 
+[Pub. L. 108–484][/us/pl/108/484], § 1, Dec. 23, 2004, [118 Stat. 3922][/us/stat/118/3922], provided that: 
 
 > “This Act \[enacting sections 2211 to 2211d, 2214, and 2214a of this title, amending sections 2212 and 2213 of this title, transferring sections 2151f and 2152b of this title to sections 2212 and 2213, respectively, of this title, repealing [section 2152a of this title][/us/usc/t22/s2152a], enacting provisions set out as notes under [section 2211 of this title][/us/usc/t22/s2211], and amending provisions set out as a note under [section 2212 of this title][/us/usc/t22/s2212]\] may be cited as the ‘Microenterprise Results and Accountability Act of 2004’.”
 
  __Short Title of 2003 Amendments__ 
 
-[Pub. L. 108–179, § 1][/us/pl/108/179/s1], Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643], provided that: 
+[Pub. L. 108–179][/us/pl/108/179], § 1, Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes under [section 2152 of this title][/us/usc/t22/s2152]\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 2003’.”
 
-[Pub. L. 108–158, § 1][/us/pl/108/158/s1], Dec. 3, 2003, [117 Stat. 1949][/us/stat/117/1949], provided that: 
+[Pub. L. 108–158][/us/pl/108/158], § 1, Dec. 3, 2003, [117 Stat. 1949][/us/stat/117/1949], provided that: 
 
 > “This Act \[amending sections 2193, 2194, 2195, 2198, and 2200 of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 2003’.”
 
  __Short Title of 2002 Amendments__ 
 
-[Pub. L. 107–246, § 1][/us/pl/107/246/s1], Oct. 23, 2002, [116 Stat. 1511][/us/stat/116/1511], provided that: 
+[Pub. L. 107–246][/us/pl/107/246], § 1, Oct. 23, 2002, [116 Stat. 1511][/us/stat/116/1511], provided that: 
 
 > “This Act \[amending sections 2295 and 2295b of this title and enacting provisions set out as notes under [section 2295 of this title][/us/usc/t22/s2295]\] may be cited as the ‘Russian Democracy Act of 2002’.”
 
-[Pub. L. 107–228, div. A, title VI, § 661][/us/pl/107/228/s661], Sept. 30, 2002, [116 Stat. 1405][/us/stat/116/1405], provided that: 
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 661, Sept. 30, 2002, [116 Stat. 1405][/us/stat/116/1405], provided that: 
 
 > “This subtitle \[subtitle E (§§ 661–665) of title VI of div. A of [Pub. L. 107–228][/us/pl/107/228], enacting [section 2151n–2 of this title][/us/usc/t22/s2151n–2], amending sections 2151n and 2304 of this title, and enacting provisions set out as notes under sections 2151n and 2151n–2 of this title\] may be cited as the ‘Freedom Investment Act of 2002’.”
 
-[Pub. L. 107–228, div. B, title X, § 1001][/us/pl/107/228/s1001], Sept. 30, 2002, [116 Stat. 1425][/us/stat/116/1425], provided that: 
+[Pub. L. 107–228, div. B, title X][/us/pl/107/228/dB/tX], § 1001, Sept. 30, 2002, [116 Stat. 1425][/us/stat/116/1425], provided that: 
 
 > “This division \[see Tables for classification\] may be cited as the ‘Security Assistance Act of 2002’.”
 
  __Short Title of 2000 Amendments__ 
 
-[Pub. L. 106–570, § 1][/us/pl/106/570/s1], Dec. 27, 2000, [114 Stat. 3038][/us/stat/114/3038], provided that: 
+[Pub. L. 106–570][/us/pl/106/570], § 1, Dec. 27, 2000, [114 Stat. 3038][/us/stat/114/3038], provided that: 
 
 > “This Act \[enacting [section 2151b–1 of this title][/us/usc/t22/s2151b–1] and enacting provisions set out as notes under this section and sections 2151b–1, 2517, 2656, and 6901 of this title, [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense, and preceding [section 28101 of Title 49][/us/usc/t49/s28101], Transportation\] may be cited as the ‘Assistance for International Malaria Control Act’.”
 
-[Pub. L. 106–570, title I, § 101][/us/pl/106/570/s101], Dec. 27, 2000, [114 Stat. 3039][/us/stat/114/3039], provided that: 
+[Pub. L. 106–570, title I][/us/pl/106/570/tI], § 101, Dec. 27, 2000, [114 Stat. 3039][/us/stat/114/3039], provided that: 
 
 > “This title \[enacting [section 2151b–1 of this title][/us/usc/t22/s2151b–1] and provisions set out as a note under [section 2151b–1 of this title][/us/usc/t22/s2151b–1]\] may be cited as the ‘International Malaria Control Act of 2000’.”
 
-[Pub. L. 106–373, § 1][/us/pl/106/373/s1], Oct. 27, 2000, [114 Stat. 1427][/us/stat/114/1427], provided that: 
+[Pub. L. 106–373][/us/pl/106/373], § 1, Oct. 27, 2000, [114 Stat. 1427][/us/stat/114/1427], provided that: 
 
 > “This Act \[amending sections 2220a to 2220c and 2220e of this title\] may be cited as the ‘Famine Prevention and Freedom From Hunger Improvement Act of 2000’.”
 
-[Pub. L. 106–309, § 1][/us/pl/106/309/s1], Oct. 17, 2000, [114 Stat. 1078][/us/stat/114/1078], provided that: 
+[Pub. L. 106–309][/us/pl/106/309], § 1, Oct. 17, 2000, [114 Stat. 1078][/us/stat/114/1078], provided that: 
 
 > “This Act \[enacting sections 2152a to 2152c and 2462 of this title, amending this section and sections 287e–1, 2151–1, 2151f, 2151i, 2151aa, and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151f, 2151i, 2152b, 2152c, 2462, and 2517 of this title and [section 402 of Title 10][/us/usc/t10/s402], Armed Forces\] may be cited as the ‘Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000’.”
 
-[Pub. L. 106–309, title I, § 101][/us/pl/106/309/s101], Oct. 17, 2000, [114 Stat. 1079][/us/stat/114/1079], provided that: 
+[Pub. L. 106–309, title I][/us/pl/106/309/tI], § 101, Oct. 17, 2000, [114 Stat. 1079][/us/stat/114/1079], provided that: 
 
 > “This title \[enacting sections 2152a and 2152b of this title, amending [section 2151f of this title][/us/usc/t22/s2151f], and enacting provisions set out as notes under sections 2151f and 2152b of this title\] may be cited as the ‘Microenterprise for Self-Reliance Act of 2000’.”
 
-[Pub. L. 106–309, title II, § 201][/us/pl/106/309/s201], Oct. 17, 2000, [114 Stat. 1090][/us/stat/114/1090], provided that: 
+[Pub. L. 106–309, title II][/us/pl/106/309/tII], § 201, Oct. 17, 2000, [114 Stat. 1090][/us/stat/114/1090], provided that: 
 
 > “This title \[enacting [section 2152c of this title][/us/usc/t22/s2152c], amending this section and sections 2151–1 and 2151aa of this title, and enacting provisions set out as notes under [section 2152c of this title][/us/usc/t22/s2152c]\] may be cited as the ‘International Anti-Corruption and Good Governance Act of 2000’.”
 
-[Pub. L. 106–309, title IV, § 401(a)][/us/pl/106/309/s401/a], Oct. 17, 2000, [114 Stat. 1096][/us/stat/114/1096], provided that: 
+[Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 401(a), Oct. 17, 2000, [114 Stat. 1096][/us/stat/114/1096], provided that: 
 
 > “This section \[amending [section 2151i of this title][/us/usc/t22/s2151i] and enacting provisions set out as notes under [section 2151i of this title][/us/usc/t22/s2151i]\] may be cited as the ‘Support for Overseas Cooperative Development Act’.”
 
-[Pub. L. 106–280, § 1(a)][/us/pl/106/280/s1/a], Oct. 6, 2000, [114 Stat. 845][/us/stat/114/845], provided that: 
+[Pub. L. 106–280][/us/pl/106/280], § 1(a), Oct. 6, 2000, [114 Stat. 845][/us/stat/114/845], provided that: 
 
 > “This Act \[enacting part IX (§ 2349bb et seq.) of subchapter II of this chapter and sections 2305, 2347f, and 2347g of this title, amending sections 2302, 2318, 2321h, 2321j, 2349aa–4, 2415, 2776, 2778, 2797, and 6723 of this title, and enacting provisions set out as notes under sections 2305, 2797, and 2797b of this title\] may be cited as the ‘Security Assistance Act of 2000’.”
 
-[Pub. L. 106–264, title II, § 201][/us/pl/106/264/s201], Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758], provided that: 
+[Pub. L. 106–264, title II][/us/pl/106/264/tII], § 201, Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758], provided that: 
 
 > “This title \[amending [section 2151b of this title][/us/usc/t22/s2151b] and enacting provisions set out as a note under [section 2151b of this title][/us/usc/t22/s2151b]\] may be cited as the ‘International Tuberculosis Control Act of 2000’.”
 
  __Short Title of 1999 Amendments__ 
 
-[Pub. L. 106–158, § 1][/us/pl/106/158/s1], Dec. 9, 1999, [113 Stat. 1745][/us/stat/113/1745], provided that: 
+[Pub. L. 106–158][/us/pl/106/158], § 1, Dec. 9, 1999, [113 Stat. 1745][/us/stat/113/1745], provided that: 
 
 > “This Act \[enacting [section 4727a of Title 15][/us/usc/t15/s4727a], Commerce and Trade, amending sections 2191a, 2193, 2195, and 2421 of this title and [section 4727 of Title 15][/us/usc/t15/s4727], and enacting provisions set out as a note under [section 2191a of this title][/us/usc/t22/s2191a]\] may be cited as the ‘Export Enhancement Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–123, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 596(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–123, provided that: 
 
 > “This section \[enacting part XII of subchapter I of this chapter and amending sections 5812 and 5814 of this title\] may be cited as the ‘Silk Road Strategy Act of 1999’.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1201\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–497, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1201\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–497, provided that: 
 
 > “This title \[amending sections 2321h, 2321j, 2367, 2753, 2761, 2762, 2776, and 2779a of this title and [section 301 of Title 13][/us/usc/t13/s301], Census, and enacting provisions set out as notes under [section 2551 of this title][/us/usc/t22/s2551], sections 1 and 301 of Title 13, and former section 2099 of the former Appendix to Title 50, War and National Defense\] may be cited as the ‘Security Assistance Act of 1999’.”
 
-[Pub. L. 106–87, § 1][/us/pl/106/87/s1], Nov. 3, 1999, [113 Stat. 1301][/us/stat/113/1301], provided that: 
+[Pub. L. 106–87][/us/pl/106/87], § 1, Nov. 3, 1999, [113 Stat. 1301][/us/stat/113/1301], provided that: 
 
 > “This Act \[amending [section 2152 of this title][/us/usc/t22/s2152] and provisions set out as a note under [section 2152 of this title][/us/usc/t22/s2152]\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 1999’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–319, § 1][/us/pl/104/319/s1], Oct. 19, 1996, [110 Stat. 3864][/us/stat/110/3864], provided that: 
+[Pub. L. 104–319][/us/pl/104/319], § 1, Oct. 19, 1996, [110 Stat. 3864][/us/stat/110/3864], provided that: 
 
 > “This Act \[amending sections 277b, 2151n, and 2304 of this title, enacting provisions set out as notes under this section and [section 2452 of this title][/us/usc/t22/s2452], and amending provisions set out as notes under sections 1157 and 1255 of Title 8, Aliens and Nationality\] may be cited as the ‘Human Rights, Refugee, and Other Foreign Relations Provisions Act of 1996’.”
 
  __Short Title of 1994 Amendments__ 
 
-[Pub. L. 103–447, § 1][/us/pl/103/447/s1], Nov. 2, 1994, [108 Stat. 4691][/us/stat/108/4691], provided that: 
+[Pub. L. 103–447][/us/pl/103/447], § 1, Nov. 2, 1994, [108 Stat. 4691][/us/stat/108/4691], provided that: 
 
 > “This Act \[amending sections 2291, 2291a, 2291e, 2291f, 2291h to 2291k of this title, [section 635 of Title 12][/us/usc/t12/s635], Banks and Banking, [section 981 of Title 18][/us/usc/t18/s981], Crimes and Criminal Procedure, [section 1616a of Title 19][/us/usc/t19/s1616a], Customs Duties, and [section 881 of Title 21][/us/usc/t21/s881], Food and Drugs, repealing [section 2291–2 of this title][/us/usc/t22/s2291–2], enacting provisions set out as notes under this section, sections 1928 and 2420 of this title, and [section 1182 of Title 8][/us/usc/t8/s1182], Aliens and Nationality, amending provisions set out as a note under [section 5311 of Title 31][/us/usc/t31/s5311], Money and Finance, and repealing provisions set out as notes under this section, sections 2291, 2291h, and 2420 of this title, [section 701 of Title 41][/us/usc/t41/s701], Public Contracts, and [section 1902 of Title 46][/us/usc/t46/s1902], Appendix, Shipping\] may be cited as the ‘International Narcotics Control Corrections Act of 1994’.”
 
-[Pub. L. 103–392, § 1][/us/pl/103/392/s1], Oct. 22, 1994, [108 Stat. 4098][/us/stat/108/4098], provided that: 
+[Pub. L. 103–392][/us/pl/103/392], § 1, Oct. 22, 1994, [108 Stat. 4098][/us/stat/108/4098], provided that: 
 
 > “This Act \[enacting [section 2151t–1 of this title][/us/usc/t22/s2151t–1], amending sections 2191, 2195, and 2421 of this title and sections 4052 and 4728 of Title 15, Commerce and Trade, and enacting provisions set out as a note under [section 4701 of Title 15][/us/usc/t15/s4701]\] may be cited as the ‘Jobs Through Trade Expansion Act of 1994’.”
 
  __Short Title of 1992 Amendments__ 
 
-    [Pub. L. 102–583, § 1][/us/pl/102/583/s1], Nov. 2, 1992, [106 Stat. 4914][/us/stat/106/4914], provided that [Pub. L. 102–583][/us/pl/102/583] could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by [Pub. L. 103–447, title I, § 103(a)][/us/pl/103/447/s103/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
+    [Pub. L. 102–583][/us/pl/102/583], § 1, Nov. 2, 1992, [106 Stat. 4914][/us/stat/106/4914], provided that [Pub. L. 102–583][/us/pl/102/583] could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(a), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
 
-[Pub. L. 102–549, § 1][/us/pl/102/549/s1], Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651], provided that: 
+[Pub. L. 102–549][/us/pl/102/549], § 1, Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651], provided that: 
 
 > “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and [section 4723a of Title 15][/us/usc/t15/s4723a], Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, [section 1738i of Title 7][/us/usc/t7/s1738i], Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing [section 2296 of this title][/us/usc/t22/s2296], enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
 
-[Pub. L. 102–549, title VI, § 601][/us/pl/102/549/s601], Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664], provided that: 
+[Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 601, Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664], provided that: 
 
 > “This title \[enacting sections 2077 and 2430 to 2430i of this title, amending [section 1738i of Title 7][/us/usc/t7/s1738i], Agriculture, repealing [section 2296 of this title][/us/usc/t22/s2296], and enacting provisions set out as a note under [section 2296 of this title][/us/usc/t22/s2296]\] may be cited as the ‘Enterprise for the Americas Act of 1992’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–623, § 1(a)][/us/pl/101/623/s1/a], Nov. 21, 1990, [104 Stat. 3350][/us/stat/104/3350], provided that: 
+[Pub. L. 101–623][/us/pl/101/623], § 1(a), Nov. 21, 1990, [104 Stat. 3350][/us/stat/104/3350], provided that: 
 
 > “This Act \[enacting [section 2151x–1 of this title][/us/usc/t22/s2151x–1] and [section 3196 of Title 18][/us/usc/t18/s3196], Crimes and Criminal Procedure, amending sections 2291c, 2321k, 2346c, and 2360 of this title and [section 635 of Title 12][/us/usc/t12/s635], Banks and Banking, and enacting provisions set out as notes under sections 2291, 2291h, and 2360 of this title\] may be cited as the ‘International Narcotics Control Act of 1990’.”
 
  __Short Title of 1989 Amendments__ 
 
-[Pub. L. 101–240, § 1(a)][/us/pl/101/240/s1/a], Dec. 19, 1989, [103 Stat. 2492][/us/stat/103/2492], provided that: 
+[Pub. L. 101–240][/us/pl/101/240], § 1(a), Dec. 19, 1989, [103 Stat. 2492][/us/stat/103/2492], provided that: 
 
 > “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, 2281 to 2286, and 7901 to 7908 of this title and [section 3904a of Title 12][/us/usc/t12/s3904a], Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former [section 262q of this title][/us/usc/t22/s262q] to [section 262s of this title][/us/usc/t22/s262s], and former [section 4722 of Title 15][/us/usc/t15/s4722], Commerce and Trade, to [section 262s–2 of this title][/us/usc/t22/s262s–2], repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, 2291, and 7901 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262l of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
-[Pub. L. 101–240, title VII, § 701][/us/pl/101/240/s701], Dec. 19, 1989, [103 Stat. 2521][/us/stat/103/2521], provided that: 
+[Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 701, Dec. 19, 1989, [103 Stat. 2521][/us/stat/103/2521], provided that: 
 
 > “This title \[enacting sections 2281 to 2286 and 7901 to 7908 of this title and provisions set out as a note under [section 7901 of this title][/us/usc/t22/s7901] of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
-[Pub. L. 101–231, § 1(a)][/us/pl/101/231/s1/a], Dec. 13, 1989, [103 Stat. 1954][/us/stat/103/1954], provided that: 
+[Pub. L. 101–231][/us/pl/101/231], § 1(a), Dec. 13, 1989, [103 Stat. 1954][/us/stat/103/1954], provided that: 
 
 > “This Act \[enacting [section 2321k of this title][/us/usc/t22/s2321k], amending sections 2291, 2291a, 2708, and 2795 of this title and sections 2492 and 2495 of Title 19, Customs Duties, and enacting provisions set out as notes under sections 2291 and 2708 of this title\] may be cited as the ‘International Narcotics Control Act of 1989’.”
 
-[Pub. L. 101–222, § 1(a)][/us/pl/101/222/s1/a], Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892], provided that: 
+[Pub. L. 101–222][/us/pl/101/222], § 1(a), Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892], provided that: 
 
 > “This Act \[amending sections 1732, 2364, 2371, 2753, 2776, 2778, and 2780 of this title and [section 4605 of Title 50][/us/usc/t50/s4605], War and National Defense, and enacting provisions set out as a note under [section 2371 of this title][/us/usc/t22/s2371]\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
 
  __Short Title of 1988 Amendments__ 
 
-    [Pub. L. 100–690, title IV, § 4001][/us/pl/100/690/s4001], Nov. 18, 1988, [102 Stat. 4261][/us/stat/102/4261], provided that title IV of [Pub. L. 100–690][/us/pl/100/690] could be cited as the “International Narcotics Control Act of 1988”, prior to repeal by [Pub. L. 103–447, title I, § 103(b)][/us/pl/103/447/s103/b], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4001, Nov. 18, 1988, [102 Stat. 4261][/us/stat/102/4261], provided that title IV of [Pub. L. 100–690][/us/pl/100/690] could be cited as the “International Narcotics Control Act of 1988”, prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(b), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
 
-[Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555] \[H.R. 5263, title I, § 101, and S. 2757, title I, § 101\], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36], provided that: 
+[Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555 \[H.R. 5263, title I, § 101, and S. 2757, title I, § 101\], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36], provided that: 
 
 > “This title \[amending sections 2191, 2194, 2194b, 2195, 2197, 2199, and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1988’.”
 
  __Short Title of 1986 Amendments__ 
 
-    [Pub. L. 99–570, title II, § 2001][/us/pl/99/570/s2001], Oct. 27, 1986, [100 Stat. 3207–60][/us/stat/100/3207-60], provided that title II of [Pub. L. 99–570][/us/pl/99/570] could be cited as the “International Narcotics Control Act of 1986”, prior to repeal by [Pub. L. 103–447, title I, § 103(c)][/us/pl/103/447/s103/c], Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694].
+    [Pub. L. 99–570, title II][/us/pl/99/570/tII], § 2001, Oct. 27, 1986, [100 Stat. 3207–60][/us/stat/100/3207-60], provided that title II of [Pub. L. 99–570][/us/pl/99/570] could be cited as the “International Narcotics Control Act of 1986”, prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(c), Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694].
 
-[Pub. L. 99–529, § 1][/us/pl/99/529/s1], Oct. 24, 1986, [100 Stat. 3010][/us/stat/100/3010], provided that: 
+[Pub. L. 99–529][/us/pl/99/529], § 1, Oct. 24, 1986, [100 Stat. 3010][/us/stat/100/3010], provided that: 
 
 > “This Act \[enacting [section 2151p–1 of this title][/us/usc/t22/s2151p–1], amending sections 290f, 2151b, 2151p, 2151q, 2222, 2291a, 2427, and 3929 of this title, and enacting provisions set out as a note under [section 290f of this title][/us/usc/t22/s290f]\] may be cited as the ‘Special Foreign Assistance Act of 1986’.”
 
  __Short Title of 1985 Amendments__ 
 
-[Pub. L. 99–204, § 1][/us/pl/99/204/s1], Dec. 23, 1985, [99 Stat. 1669][/us/stat/99/1669], provided that: 
+[Pub. L. 99–204][/us/pl/99/204], § 1, Dec. 23, 1985, [99 Stat. 1669][/us/stat/99/1669], provided that: 
 
 > “This Act \[enacting sections 2191a and 2194b of this title, amending sections 2191, 2194, 2195, and 2197 to 2200a of this title and [section 709 of Title 18][/us/usc/t18/s709], Crimes and Criminal Procedure, repealing [section 2200b of this title][/us/usc/t22/s2200b], enacting provisions set out as a note under [section 2191a of this title][/us/usc/t22/s2191a], and repealing provisions set out as a note under [section 2200a of this title][/us/usc/t22/s2200a]\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1985’.”
 
-[Pub. L. 99–83, § 1(a)][/us/pl/99/83/s1/a], Aug. 8, 1985, [99 Stat. 190][/us/stat/99/190], provided that: 
+[Pub. L. 99–83][/us/pl/99/83], § 1(a), Aug. 8, 1985, [99 Stat. 190][/us/stat/99/190], provided that: 
 
 > “This Act \[enacting sections 2227, 2271 to 2276, 2291b, 2346 to 2346c, 2347c, 2347d, 2349aa–7 to 2349aa–9, 2511, 2521a, and 2770a of this title, [section 469j of Title 16][/us/usc/t16/s469j], Conservation, and sections 1356b and 1515a of former Title 49, Transportation, amending sections 290f, 290h–8, 290h–9, 2151–1, 2151a to 2151d, 2151f, 2151h, 2151s, 2151u, 2151x, 2151z, 2174, 2182, 2182a, 2184, 2201, 2222, 2291, 2291a, 2292a, 2304, 2311, 2312, 2314, 2321h, 2321i, 2346b, 2347a, 2348a, 2349aa–2, 2349aa–4, 2354, 2361, 2364, 2370, 2371, 2375, 2394, 2394–1, 2396, 2411, 2413, 2420, 2421, 2427, 2429a, 2501, 2502, 2504, 2506, 2510, 2522, 2523, 2752, 2753, 2761, 2763 to 2767, 2771, 2776, 2778, 2791, 2792, 2794, and 2795 of this title, sections 1431, 1721, 1722, 1727a, and 1736b of Title 7, Agriculture, [section 7307 of Title 10][/us/usc/t10/s7307], Armed Forces, and sections 1356, 1471, and 1515 of former Title 49, repealing sections 2293, 2294, 2346 to 2346c, 2346e to 2346i, and 2349aa–6 of this title, enacting provisions set out as notes under this section and sections 2151–1, 2151b, 2151u, 2291, 2346, 2374, 2429a, 2506, 2511, 2751, and 2778 of this title, [section 4011 of Title 15][/us/usc/t15/s4011], Commerce and Trade, and section 1515 of former Title 49, amending provisions set out as notes under sections 2370 and 2501 of this title, and repealing provisions set out as a note under [section 2293 of this title][/us/usc/t22/s2293]\] may be cited as the ‘International Security and Development Cooperation Act of 1985’.”
 
-[Pub. L. 99–83, title VI, § 601][/us/pl/99/83/s601], Aug. 8, 1985, [99 Stat. 228][/us/stat/99/228], provided that: 
+[Pub. L. 99–83, title VI][/us/pl/99/83/tVI], § 601, Aug. 8, 1985, [99 Stat. 228][/us/stat/99/228], provided that: 
 
 > “This title \[enacting [section 2291b of this title][/us/usc/t22/s2291b], amending sections 2151x, 2291, and 2291a of this title, and enacting provisions set out as a note under [section 2291 of this title][/us/usc/t22/s2291]\] may be cited as the ‘International Narcotics Control Act of 1985’.”
 
  __Short Title of 1983 Amendments__ 
 
-[Pub. L. 98–164, title VII, § 701][/us/pl/98/164/s701], Nov. 22, 1983, [97 Stat. 1045][/us/stat/97/1045], provided that: 
+[Pub. L. 98–164, title VII][/us/pl/98/164/tVII], § 701, Nov. 22, 1983, [97 Stat. 1045][/us/stat/97/1045], provided that: 
 
 > “This title \[enacting [section 2151q of this title][/us/usc/t22/s2151q] and amending [section 2452 of this title][/us/usc/t22/s2452]\] may be cited as the ‘International Environment Protection Act of 1983’.”
 
-[Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 968][/us/stat/97/968], provided in part that: 
+[Pub. L. 98–151][/us/pl/98/151], § 101(b)(2), Nov. 14, 1983, [97 Stat. 968][/us/stat/97/968], provided in part that: 
 
 > “Section 101(b)(2) of this joint resolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions set out as a note under [section 2349aa of this title][/us/usc/t22/s2349aa]\] may be cited as the ‘International Security and Development Assistance Authorizations Act of 1983’.”
 
  __Short Title of 1981 Amendments__ 
 
-[Pub. L. 97–113, § 1][/us/pl/97/113/s1], Dec. 29, 1981, [95 Stat. 1519][/us/stat/95/1519], provided that: 
+[Pub. L. 97–113][/us/pl/97/113], § 1, Dec. 29, 1981, [95 Stat. 1519][/us/stat/95/1519], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘International Security and Development Cooperation Act of 1981’.”
 
-[Pub. L. 97–65, § 1][/us/pl/97/65/s1], Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021], provided that: 
+[Pub. L. 97–65][/us/pl/97/65], § 1, Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021], provided that: 
 
 > “This Act \[enacting sections 2194a and 2200b of this title, amending sections 2191, 2193, 2194, 2195, 2197, 2198, 2199, and 2200a of this title, and enacting provisions set out as notes under sections 2193 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1981’.”
 
  __Short Title of 1980 Amendments__ 
 
-[Pub. L. 96–533, § 1][/us/pl/96/533/s1], Dec. 16, 1980, [94 Stat. 3131][/us/stat/94/3131], provided: 
+[Pub. L. 96–533][/us/pl/96/533], § 1, Dec. 16, 1980, [94 Stat. 3131][/us/stat/94/3131], provided: 
 
 > “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292l, 2304, 2311, 2312, 2318, 2321h to 2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and [section 4605 of Title 50][/us/usc/t50/s4605], War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, [section 1522 of Title 8][/us/usc/t8/s1522], Aliens and Nationality, and [section 2667 of Title 10][/us/usc/t10/s2667], Armed Forces, and repealing a provision set out as a note under [section 2293 of this title][/us/usc/t22/s2293]\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
 
-[Pub. L. 96–257, § 1][/us/pl/96/257/s1], May 31, 1980, [94 Stat. 422][/us/stat/94/422], provided: 
+[Pub. L. 96–257][/us/pl/96/257], § 1, May 31, 1980, [94 Stat. 422][/us/stat/94/422], provided: 
 
 > “That this Act \[enacting [section 2346e of this title][/us/usc/t22/s2346e]\] may be cited as the ‘Special Central American Assistance Act of 1979’.”
 
  __Short Title of 1979 Amendments__ 
 
-[Pub. L. 96–92, § 1][/us/pl/96/92/s1], Oct. 29, 1979, [93 Stat. 701][/us/stat/93/701], provided that: 
+[Pub. L. 96–92][/us/pl/96/92], § 1, Oct. 29, 1979, [93 Stat. 701][/us/stat/93/701], provided that: 
 
 > “This Act \[enacting sections 2346d, 2767, and 2768 of this title, amending sections 2261, 2291, 2291a, 2304, 2312, 2318, 2321h to 2321j, 2346 to 2346c, 2347a, 2348, 2348a, 2403, 2753, 2761, 2765, 2771, 2773, 2776, 2778, 2792, and 2794 of this title, and enacting provisions set out as notes under this section and sections 2321h, 2346c, 2771, 2776, and 3302 of this title\] may be cited as the ‘International Security Assistance Act of 1979’.”
 
-[Pub. L. 96–53, § 1][/us/pl/96/53/s1], Aug. 14, 1979, [93 Stat. 359][/us/stat/93/359], provided that: 
+[Pub. L. 96–53][/us/pl/96/53], § 1, Aug. 14, 1979, [93 Stat. 359][/us/stat/93/359], provided that: 
 
 > “This Act \[enacting sections 2151x, 2151y, 2374, and 3501 to 3513 of this title, and sections 1736g of Title 7, Agriculture, amending sections 2151–1, 2151a to 2151d, 2151i, 2151k, 2151n, 2151p, 2151q, 2151s, 2151u, 2151v, 2174, 2182, 2182a, 2183, 2220b, 2222, 2292a, 2292l, 2304, 2357, 2361, 2385a, 2395, 2399c, 2421, 2427, 2502, and 2506 of this title, sections 5314 to 5316 and 5924 of Title 5, Government Organization and Employees, and sections 1703, 1704, 1722, 1726, 1727, 1727a, 1727b, 1727d to 1727f, 1731, and 1734 of Title 7, and enacting provisions set out as notes under this section and sections 2151n, 2151y, 2312, 2385a, and 3201 of this title\] may be cited as the ‘International Development Cooperation Act of 1979’.”
 
  __Short Title of 1978 Amendments__ 
 
-[Pub. L. 95–424, § 1][/us/pl/95/424/s1], Oct. 6, 1978, [92 Stat. 937][/us/stat/92/937], provided that: 
+[Pub. L. 95–424][/us/pl/95/424], § 1, Oct. 6, 1978, [92 Stat. 937][/us/stat/92/937], provided that: 
 
 > “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292l, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151l, 2151m, 2151o, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and [section 1711 of Title 7][/us/usc/t7/s1711]\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
 
-[Pub. L. 95–384, § 1][/us/pl/95/384/s1], Sept. 26, 1978, [92 Stat. 730][/us/stat/92/730], provided that: 
+[Pub. L. 95–384][/us/pl/95/384], § 1, Sept. 26, 1978, [92 Stat. 730][/us/stat/92/730], provided that: 
 
 > “This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and [section 4603 of Title 50][/us/usc/t50/s4603], War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1978’.”
 
-[Pub. L. 95–268, § 1][/us/pl/95/268/s1], Apr. 24, 1978, [92 Stat. 213][/us/stat/92/213], provided that: 
+[Pub. L. 95–268][/us/pl/95/268], § 1, Apr. 24, 1978, [92 Stat. 213][/us/stat/92/213], provided that: 
 
 > “This Act \[enacting [section 2200 of this title][/us/usc/t22/s2200] and amending sections 2191, 2194, 2195, 2197, 2199, and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1978’.”
 
  __Short Title of 1977 Amendments__ 
 
-[Pub. L. 95–92, § 1][/us/pl/95/92/s1], Aug. 4, 1977, [91 Stat. 614][/us/stat/91/614], provided that: 
+[Pub. L. 95–92][/us/pl/95/92], § 1, Aug. 4, 1977, [91 Stat. 614][/us/stat/91/614], provided that: 
 
 > “This Act \[enacting sections 2294, 2346b, 2372, and 2429a of this title, amending sections 2261, 2291a, 2312, 2321h to 2321j, 2346, 2346a, 2347a, 2370, 2391, 2429, 2443, 2753, 2771, 2778, and 2792 of this title, and enacting provisions set out as notes under this section and sections 2346, 2370, 2406, 2431, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1977’.”
 
-[Pub. L. 95–88, § 1][/us/pl/95/88/s1], Aug. 3, 1977, [91 Stat. 533][/us/stat/91/533], provided that: 
+[Pub. L. 95–88][/us/pl/95/88], § 1, Aug. 3, 1977, [91 Stat. 533][/us/stat/91/533], provided that: 
 
 > “This Act \[enacting sections 2151o to 2151s, 2292k, and 2429b of this title and sections 1712, 1713, 1714, and 1727 to 1727f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151d, 2151g, 2151h, 2151i, 2151k, 2151l, 2151m, 2151n, 2174, 2181, 2182, 2182a, 2183, 2222, 2225, 2292a, 2292h, 2357, 2370, 2384, 2385, 2386, 2399c, 2421, and 2427 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and sections 1427, 1431, 1692, 1702, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of Title 7, repealing [section 2424 of this title][/us/usc/t22/s2424], and enacting provisions set out as notes under this section and sections 2151b, 2151i, 2174, 2357, and 2384 of this title and sections 1702, 1708, and 1722 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1977’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–329, § 1][/us/pl/94/329/s1], June 30, 1976, [90 Stat. 729][/us/stat/90/729], provided: 
+[Pub. L. 94–329][/us/pl/94/329], § 1, June 30, 1976, [90 Stat. 729][/us/stat/90/729], provided: 
 
 > “That this Act \[enacting sections 2292h, 2292i, 2321j, 2347, 2347a, 2347b, 2371, 2394a, 2428, 2429, 2755, 2765, 2778, and 2779 of this title, amending sections 2183, 2222, 2261, 2291, 2291a, 2292f, 2304, 2312, 2314, 2318, 2321b, 2321h, 2321i, 2346a, 2370, 2382, 2383, 2384, 2386, 2392, 2394, 2396, 2403, 2415, 2416, 2417, 2441, 2443, 2751, 2751 note, 2752, 2753, 2761, 2762, 2763, 2771, 2776, 2791, 2792, and 2794 of this title, repealing sections 2321a, 2415 note, 2431, 2431 notes, 2432, 2432 note, 2433, 2433 note, 2434, and 2435, and enacting provisions set out as notes under this section and sections 2291, 2292, 2314, 2321a, 2321b, 2347, 2352, 2370, 2428, 2431, 2441, 2751, 2753, 2763, 2776, and 2778 of this title\] may be cited as the ‘International Security Assistance and Arms Export Control Act of 1976’.”
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 94–161, § 1][/us/pl/94/161/s1], Dec. 20, 1975, [89 Stat. 849][/us/stat/89/849], provided: 
+[Pub. L. 94–161][/us/pl/94/161], § 1, Dec. 20, 1975, [89 Stat. 849][/us/stat/89/849], provided: 
 
 > “That this Act \[redesignating as sections 2292c to 2292e former sections 2262, 2399–1a, and 2399–1b of this title, enacting sections 2151a–1, 2151d, 2151e, 2151n, 2220a to 2220e, 2292 to 2292b, 2292f, and 2425 to 2427 of this title and sections 1691a, 1711, 1726, and 1736f of Title 7, Agriculture, amending this section and sections 2151a, 2151b, 2151c, 2151h, 2151i, 2151k, 2169, 2174, 2181 to 2183, 2221, 2222, 2225, 2293, 2357 and 2421 of this title and sections 1691, 1703, 1706, 1709, 1721, 1736, 1736a, and 1736b of Title 7, repealing sections 2151d, 2151e, 2201, 2292, and 2399 of this title, and enacting provisions set out as a note under [section 2220a of this title][/us/usc/t22/s2220a] and as a note under [section 1691a of Title 7][/us/usc/t7/s1691a]\] may be cited as the ‘International Development and Food Assistance Act of 1975’.”
 
  __Short Title of 1974 Amendments__ 
 
-[Pub. L. 93–559, § 1][/us/pl/93/559/s1], Dec. 30, 1974, [88 Stat. 1795][/us/stat/88/1795], provided: 
+[Pub. L. 93–559][/us/pl/93/559], § 1, Dec. 30, 1974, [88 Stat. 1795][/us/stat/88/1795], provided: 
 
 > “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
 
-[Pub. L. 93–390, § 1][/us/pl/93/390/s1], Aug. 27, 1974, [88 Stat. 763][/us/stat/88/763], provided: 
+[Pub. L. 93–390][/us/pl/93/390], § 1, Aug. 27, 1974, [88 Stat. 763][/us/stat/88/763], provided: 
 
 > “That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
 
-[Pub. L. 93–333, § 1][/us/pl/93/333/s1], July 8, 1974, [88 Stat. 290][/us/stat/88/290], provided: 
+[Pub. L. 93–333][/us/pl/93/333], § 1, July 8, 1974, [88 Stat. 290][/us/stat/88/290], provided: 
 
 > “That this Act \[enacting [section 2292c of this title][/us/usc/t22/s2292c], amending [section 2292d of this title][/us/usc/t22/s2292d], and enacting provisions set out as notes under this section and [section 2395 of this title][/us/usc/t22/s2395]\] may be cited as the ‘Foreign Disaster Assistance Act of 1974’.”
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–189, § 1][/us/pl/93/189/s1], Dec. 17, 1973, [87 Stat. 714][/us/stat/87/714], provided: 
+[Pub. L. 93–189][/us/pl/93/189], § 1, Dec. 17, 1973, [87 Stat. 714][/us/stat/87/714], provided: 
 
 > “That this Act \[enacting sections 2151a to 2151l, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and [section 2397 of this title][/us/usc/t22/s2397], repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
  __Short Title of 1972 Amendment__ 
 
-[Pub. L. 92–226, § 1][/us/pl/92/226/s1], Feb. 7, 1972, [86 Stat. 20][/us/stat/86/20], provided: 
+[Pub. L. 92–226][/us/pl/92/226], § 1, Feb. 7, 1972, [86 Stat. 20][/us/stat/86/20], provided: 
 
 > “That this Act \[enacting sections 2180a, 2291, 2292, 2321d to 2321g, 2346 to 2346b, and 2413 to 2418 of this title, amending sections 276, 290f, 1476, 1928b, 2162, 2163, 2169, 2172, 2174, 2181, 2183, 2198, 2199, 2200, 2212, 2219a, 2222, 2261, 2312, 2314, 2318, 2319, 2321b, 2370, 2384, 2394, 2397, 2403, 2411, 2684, 2771, 2773, and 2791 of this title and [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, repealing sections 2165 and 2241 to 2243 of this title, and enacting provisions set out as notes under this section and sections 287e, 2411, 2417, and 2680 of this title\] may be cited as the ‘Foreign Assistance Act of 1971’.”
 
  __Short Title of 1971 Amendment__ 
 
-[Pub. L. 91–652, § 1][/us/pl/91/652/s1], Jan. 5, 1971, [84 Stat. 1942][/us/stat/84/1942], provided: 
+[Pub. L. 91–652][/us/pl/91/652], § 1, Jan. 5, 1971, [84 Stat. 1942][/us/stat/84/1942], provided: 
 
 > “That this Act \[enacting [section 2411 of this title][/us/usc/t22/s2411], amending sections 2261 and 2242 of this title, and enacting provisions set out as notes under sections 2261, 2302, and 2411 of this title\] may be cited as the ‘Special Foreign Assistance Act of 1971’.”
 
  __Short Title of 1969 Amendment__ 
 
-[Pub. L. 91–175, § 1][/us/pl/91/175/s1], Dec. 30, 1969, [83 Stat. 805][/us/stat/83/805], provided that: 
+[Pub. L. 91–175][/us/pl/91/175], § 1, Dec. 30, 1969, [83 Stat. 805][/us/stat/83/805], provided that: 
 
 > “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
 
  __Short Title of 1968 Amendment__ 
 
-[Pub. L. 90–554, § 1][/us/pl/90/554/s1], Oct. 8, 1968, [82 Stat. 960][/us/stat/82/960], provided: 
+[Pub. L. 90–554][/us/pl/90/554], § 1, Oct. 8, 1968, [82 Stat. 960][/us/stat/82/960], provided: 
 
 > “That this Act \[enacting sections 2381a, 2399b, and 2410 of this title and [section 617 of Title 16][/us/usc/t16/s617], Conservation, amending sections 2161, 2162, 2171, 2172, 2174, 2181, 2184, 2212, 2218, 2219a, 2222, 2242, 2261, 2312, 2318–2320, 2354, 2357, 2370, 2381, 2385, 2396, and 2397 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1968’.”
 
  __Short Title of 1967 Amendment__ 
 
-[Pub. L. 90–137, § 1][/us/pl/90/137/s1], Nov. 14, 1967, [81 Stat. 445][/us/stat/81/445], provided: 
+[Pub. L. 90–137][/us/pl/90/137], § 1, Nov. 14, 1967, [81 Stat. 445][/us/stat/81/445], provided: 
 
 > “That this Act \[enacting sections 2167 to 2169, 2178, 2219, 2219a, 2220, 2224, 2243, 2302, 2341 to 2345, and 2409 of this title, amending this section and sections 276, 276c–1, 1928b to 1928d, 1934, 2161, 2162, 2165, 2171, 2172, 2174, 2181 to 2184, 2192, 2211, 2212, 2218, 2221, 2222, 2241, 2242, 2261, 2271, 2301, 2302, 2311, 2312, 2314, 2318 to 2321, 2341 to 2345, 2351, 2358, 2360, 2361, 2364, 2384 to 2386, 2389, 2392, 2394 to 2397, 2399a, and 2403 of this title, repealing sections 2217b and 2317(a) of this title, and enacting provision set out as a note under [section 2395 of this title][/us/usc/t22/s2395]\] may be cited as the ‘Foreign Assistance Act of 1967’.”
 
  __Short Title of 1966 Amendment__ 
 
-[Pub. L. 89–583, § 1][/us/pl/89/583/s1], Sept. 19, 1966, [80 Stat. 795][/us/stat/80/795], provided: 
+[Pub. L. 89–583][/us/pl/89/583], § 1, Sept. 19, 1966, [80 Stat. 795][/us/stat/80/795], provided: 
 
 > “That this Act \[enacting sections 2217 to 2217b, 2218, 2281, and 2322 of this title and amending this section and sections 2161, 2162, 2165, 2171, 2172, 2174, 2181, 2182, 2184, 2211, 2212, 2221, 2222, 2241, 2242, 2261, 2312, 2314, 2316, 2318, 2320, 2351, 2354, 2358, 2360, 2362, 2364, 2370, 2382, 2384, 2394, 2395, and 2397 of this title\] may be cited as the ‘Foreign Assistance Act of 1966’.”
 
  __Short Title of 1965 Amendment__ 
 
-[Pub. L. 89–171, § 1][/us/pl/89/171/s1], Sept. 6, 1965, [79 Stat. 653][/us/stat/79/653], provided: 
+[Pub. L. 89–171][/us/pl/89/171], § 1, Sept. 6, 1965, [79 Stat. 653][/us/stat/79/653], provided: 
 
 > “That this Act \[enacting sections 2166, 2399, 2399a and 2408 of this title, and amending this section and sections 2165, 2172, 2174, 2181 to 2184, 2212, 2221, 2222, 2242, 2261, 2311 to 2313, 2315 to 2320, 2355, 2362, 2363, 2370, 2382, 2384 to 2386, 2390, 2391, 2395 to 2398, 2403, and 2404 of this title, [section 1707 of Title 7][/us/usc/t7/s1707], Agriculture, and provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1965’.”
 
  __Short Title of 1964 Amendment__ 
 
-[Pub. L. 88–633, § 1][/us/pl/88/633/s1], Oct. 7, 1964, [78 Stat. 1009][/us/stat/78/1009], provided: 
+[Pub. L. 88–633][/us/pl/88/633], § 1, Oct. 7, 1964, [78 Stat. 1009][/us/stat/78/1009], provided: 
 
 > “That this Act \[enacting sections 2177, 2321, and 2407 of this title, amending sections 276, 1754, 2161, 2172, 2174, 2176, 2181, 2184, 2192, 2212, 2222, 2242, 2261, 2311, 2312, 2315, 2317, 2318, 2320, 2351, 2362, 2370, 2385, 2386, and 2397 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1964’.”
 
  __Short Title of 1963 Amendment__ 
 
-[Pub. L. 88–205, § 1][/us/pl/88/205/s1], Dec. 16, 1963, [77 Stat. 379][/us/stat/77/379], provided that: 
+[Pub. L. 88–205][/us/pl/88/205], § 1, Dec. 16, 1963, [77 Stat. 379][/us/stat/77/379], provided that: 
 
 > “This Act \[enacting sections 816, 1138a, 2216, 2320, 2398, and 2684 of this title, amending sections 961, 1136, 1139, 1251, 1928a, 1943, 2161, 2162, 2172, 2174, 2181, 2182, 2184, 2201, 2211 to 2213, 2222, 2242, 2261, 2312, 2313, 2318, 2319, 2351, 2361, 2362, 2370, 2381, 2384, 2386, 2391, 2395 to 2397, 2403, and 2404 of this title, sections 1701, 1705, 1706, and 1722 of Title 7, Agriculture, and [section 1861 of Title 19][/us/usc/t19/s1861], Customs Duties, enacting provisions set out as notes under this section and [section 1942 of this title][/us/usc/t22/s1942], and [section 1706 of Title 7][/us/usc/t7/s1706], and repealing provisions set out as notes under this section and [section 2301 of this title][/us/usc/t22/s2301]\], may be cited as the ‘Foreign Assistance Act of 1963’.”
 
  __Short Title of 1962 Amendment__ 
 
-[Pub. L. 87–565, § 1][/us/pl/87/565/s1], Aug. 1, 1962, [76 Stat. 255][/us/stat/76/255], provided: 
+[Pub. L. 87–565][/us/pl/87/565], § 1, Aug. 1, 1962, [76 Stat. 255][/us/stat/76/255], provided: 
 
 > “That this Act \[enacting sections 2211 to 2213 of this title, amending this section and sections 276, 2161, 2171, 2172, 2181, 2182, 2184, 2192, 2222, 2242, 2261, 2271, 2314, 2315, 2318, 2360, 2361, 2368, 2370, 2381, 2384, 2385, 2389, 2394, 2395, 2397, 2402 to 2404, 2452, and 2669 of this title, repealing [section 2173 of this title][/us/usc/t22/s2173], enacting provisions set out as a note under [section 2452 of this title][/us/usc/t22/s2452], and repealing Part IV of the Foreign Assistance Act of 1961\] may be cited as the ‘Foreign Assistance Act of 1962’.”
 
  __Short Title__ 
 
-[Pub. L. 87–195, § 1][/us/pl/87/195/s1], as added by [Pub. L. 87–329, title I, § 111][/us/pl/87/329/s111], Sept. 30, 1961, [75 Stat. 719][/us/stat/75/719], provided: 
+[Pub. L. 87–195][/us/pl/87/195], § 1, as added by [Pub. L. 87–329, title I][/us/pl/87/329/tI], § 111, Sept. 30, 1961, [75 Stat. 719][/us/stat/75/719], provided: 
 
 > “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, [section 1704 of Title 7][/us/usc/t7/s1704], Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
 
     [Pub. L. 87–195][/us/pl/87/195], pt. I, § 101, Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], which provided that this subchapter should be cited as the “Act for International Development of 1961” was repealed by [Pub. L. 88–205][/us/pl/88/205], pt. I, § 101(b), Dec. 16, 1963, [77 Stat. 379][/us/stat/77/379].
 
-[Pub. L. 87–195][/us/pl/87/195], pt. V, § 801, as added by [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 885][/us/stat/112/885], provided that: 
+[Pub. L. 87–195][/us/pl/87/195], pt. V, § 801, as added by [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 885][/us/stat/112/885], provided that: 
 
 > “This part \[part V (§§ 801–813) of [Pub. L. 87–195][/us/pl/87/195], enacting subchapter IV of this chapter\] may be cited as the ‘Tropical Forest Conservation Act of 1998’.”
 
@@ -505,7 +505,7 @@
 
  __Support to the Government of Jordan and the Government of Lebanon for Border Security Operations__ 
 
-[Pub. L. 114–92, div. A, title XII, § 1226][/us/pl/114/92/s1226], Nov. 25, 2015, [129 Stat. 1056][/us/stat/129/1056], provided that:
+[Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1226, Nov. 25, 2015, [129 Stat. 1056][/us/stat/129/1056], provided that:
 
 >     “(a) __Authority to Provide Support.—__ 
 
@@ -651,7 +651,7 @@
 
  __Military-to-Military Engagement With the Government of Burma__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1253][/us/pl/113/291/s1253], Dec. 19, 2014, [128 Stat. 3571][/us/stat/128/3571], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1253, Dec. 19, 2014, [128 Stat. 3571][/us/stat/128/3571], provided that:
 
 >     “(a)  __Authorization__  __.—__ 
 
@@ -899,7 +899,7 @@
 
  __United States Security and Assistance Strategies in Africa__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1206][/us/pl/113/66/s1206], Dec. 26, 2013, [127 Stat. 899][/us/stat/127/899], provided that:
+[Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1206, Dec. 26, 2013, [127 Stat. 899][/us/stat/127/899], provided that:
 
 >     “(a) __Strategic Framework for Counterterrorism Assistance and Cooperation in the Sahel and the Maghreb Regions.—__ 
 
@@ -1005,7 +1005,7 @@
 
  __Assistance to the Government of Jordan for Border Security Operations__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1207][/us/pl/113/66/s1207], Dec. 26, 2013, [127 Stat. 902][/us/stat/127/902], provided that:
+[Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1207, Dec. 26, 2013, [127 Stat. 902][/us/stat/127/902], provided that:
 
 >     “(a) __Authority To Provide Assistance.—__ 
 
@@ -1053,7 +1053,7 @@
 
  __Support of Foreign Forces Participating in Operations To Disarm the Lord’s Resistance Army__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1208(a)][/us/pl/113/66/s1208/a]–(f), Dec. 26, 2013, [127 Stat. 903][/us/stat/127/903], 904, provided that:
+[Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1208(a)–(f), Dec. 26, 2013, [127 Stat. 903][/us/stat/127/903], 904, provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -1117,7 +1117,7 @@
 
  __Reports on Responsibility Within Department of State and the United States Agency for International Development for Contract Support for Overseas Contingency Operations__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 850][/us/pl/112/239/s850], Jan. 2, 2013, [126 Stat. 1854][/us/stat/126/1854], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 850, Jan. 2, 2013, [126 Stat. 1854][/us/stat/126/1854], provided that:
 
 >     “(a)  __DoS and USAID Reports Required__  __.—__ 
 
@@ -1165,7 +1165,7 @@
 
  __Global Security Contingency Fund__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1207][/us/pl/112/81/s1207], Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], as amended by [Pub. L. 113–66, div. A, title XII, § 1202][/us/pl/113/66/s1202], Dec. 26, 2013, [127 Stat. 893][/us/stat/127/893]; [Pub. L. 113–291, div. A, title XII, § 1201][/us/pl/113/291/s1201], Dec. 19, 2014, [128 Stat. 3529][/us/stat/128/3529], provided that:
+[Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1207, Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], as amended by [Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1202, Dec. 26, 2013, [127 Stat. 893][/us/stat/127/893]; [Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1201, Dec. 19, 2014, [128 Stat. 3529][/us/stat/128/3529], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -1305,7 +1305,7 @@
 
  __Lord’s Resistance Army Disarmament and Northern Uganda Recovery__ 
 
-    [Pub. L. 112–81, div. A, title XII, § 1206][/us/pl/112/81/s1206], Dec. 31, 2011, [125 Stat. 1624][/us/stat/125/1624], which related to logistic support, supplies, and services for foreign forces in operations against the Lord’s Resistance Army, was repealed by [Pub. L. 113–66, div. A, title XII, § 1208(g)][/us/pl/113/66/s1208/g], Dec. 26, 2013, [127 Stat. 904][/us/stat/127/904].
+    [Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1206, Dec. 31, 2011, [125 Stat. 1624][/us/stat/125/1624], which related to logistic support, supplies, and services for foreign forces in operations against the Lord’s Resistance Army, was repealed by [Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1208(g), Dec. 26, 2013, [127 Stat. 904][/us/stat/127/904].
 
 [Pub. L. 111–172][/us/pl/111/172], May 24, 2010, [124 Stat. 1209][/us/stat/124/1209], provided that:
 
@@ -1519,7 +1519,7 @@
 
  __Middle East Foundation__ 
 
-[Pub. L. 110–53, title XX, § 2021][/us/pl/110/53/s2021], Aug. 3, 2007, [121 Stat. 513][/us/stat/121/513], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2021, Aug. 3, 2007, [121 Stat. 513][/us/stat/121/513], provided that:
 
 >     “(a)  __Purposes__  __.—__ 
 
@@ -1839,7 +1839,7 @@
 
  __Promotion of Democracy for Iran__ 
 
-[Pub. L. 109–293, title III][/us/pl/109/293], Sept. 30, 2006, [120 Stat. 1347][/us/stat/120/1347], provided that:
+[Pub. L. 109–293, title III][/us/pl/109/293/tIII], Sept. 30, 2006, [120 Stat. 1347][/us/stat/120/1347], provided that:
 
 > “SEC. 301. __DECLARATION OF POLICY.__ 
 
@@ -2123,11 +2123,11 @@
 
  __Iraq Relief and Reconstruction Fund__ 
 
-[Pub. L. 109–234, title I, § 1302(a)][/us/pl/109/234/s1302/a], June 15, 2006, [120 Stat. 435][/us/stat/120/435], provided in part: 
+[Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1302(a), June 15, 2006, [120 Stat. 435][/us/stat/120/435], provided in part: 
 
 > “That notwithstanding [section 2207(d) of Public Law 108–106][/us/pl/108/106/s2207/d] \[set out below\], requirements of [section 2207 of Public Law 108–106][/us/pl/108/106/s2207] shall expire on October 1, 2008.”
 
-[Pub. L. 108–106, title II][/us/pl/108/106], §§ 2207, 2208, Nov. 6, 2003, [117 Stat. 1231][/us/stat/117/1231], as amended by section 574(a) of H.R. 4818, One Hundred Eighth Congress, as passed by the House of Representatives on July 15, 2004, and as enacted into law by [Pub. L. 108–309, § 135][/us/pl/108/309/s135], Sept. 30, 2004, [118 Stat. 1143][/us/stat/118/1143], provided that:
+[Pub. L. 108–106, title II][/us/pl/108/106/tII], §§ 2207, 2208, Nov. 6, 2003, [117 Stat. 1231][/us/stat/117/1231], as amended by section 574(a) of H.R. 4818, One Hundred Eighth Congress, as passed by the House of Representatives on July 15, 2004, and as enacted into law by [Pub. L. 108–309][/us/pl/108/309], § 135, Sept. 30, 2004, [118 Stat. 1143][/us/stat/118/1143], provided that:
 
 > “Sec. 2207.
 
@@ -2153,15 +2153,15 @@
 
  __Reports on Iraqi Oil Production and Revenues__ 
 
-    [Pub. L. 108–106, title II, § 2215(a)][/us/pl/108/106/s2215/a], Nov. 6, 2003, [117 Stat. 1232][/us/stat/117/1232], required the Coalition Provisional Authority in Iraq to report, not later than 30 days after Nov. 6, 2003, and on a monthly basis until Sept. 30, 2006, Iraqi oil production and oil revenues, and uses of such revenues.
+    [Pub. L. 108–106, title II][/us/pl/108/106/tII], § 2215(a), Nov. 6, 2003, [117 Stat. 1232][/us/stat/117/1232], required the Coalition Provisional Authority in Iraq to report, not later than 30 days after Nov. 6, 2003, and on a monthly basis until Sept. 30, 2006, Iraqi oil production and oil revenues, and uses of such revenues.
 
  __Reports on United States Strategy for Relief and Reconstruction in Iraq__ 
 
-    [Pub. L. 108–11, title I, § 1506][/us/pl/108/11/s1506], Apr. 16, 2003, [117 Stat. 580][/us/stat/117/580], required the President to submit (1) not later than 45 days after Apr. 16, 2003, an initial report on United States strategy regarding post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq undertaken as a result of Operation Iraqi Freedom, and (2) not later than 90 days after Apr. 16, 2003, and every 90 days thereafter until Sept. 30, 2004, subsequent reports related to reconstruction in Iraq.
+    [Pub. L. 108–11, title I][/us/pl/108/11/tI], § 1506, Apr. 16, 2003, [117 Stat. 580][/us/stat/117/580], required the President to submit (1) not later than 45 days after Apr. 16, 2003, an initial report on United States strategy regarding post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq undertaken as a result of Operation Iraqi Freedom, and (2) not later than 90 days after Apr. 16, 2003, and every 90 days thereafter until Sept. 30, 2004, subsequent reports related to reconstruction in Iraq.
 
  __Community-Based Police Assistance for Jamaica and El Salvador__ 
 
-[Pub. L. 108–7, div. E, title V, § 582][/us/pl/108/7/s582], Feb. 20, 2003, [117 Stat. 214][/us/stat/117/214], provided that:
+[Pub. L. 108–7, div. E, title V][/us/pl/108/7/dE/tV], § 582, Feb. 20, 2003, [117 Stat. 214][/us/stat/117/214], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -2177,13 +2177,13 @@
 
 >     Assistance provided under subsection (a) shall be subject to the regular notification procedures of the Committees on Appropriations.”
 
-Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/108/7] were contained in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006, [Pub. L. 109–102, title V, § 564][/us/pl/109/102/s564], Nov. 14, 2005, [119 Stat. 2225][/us/stat/119/2225], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/108/7] were contained in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006, [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 564, Nov. 14, 2005, [119 Stat. 2225][/us/stat/119/2225], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-    [Pub. L. 108–447, div. D, title V, § 564][/us/pl/108/447/s564], Dec. 8, 2004, [118 Stat. 3022][/us/stat/118/3022].
+    [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 564, Dec. 8, 2004, [118 Stat. 3022][/us/stat/118/3022].
 
-    [Pub. L. 108–199, div. D, title V, § 573][/us/pl/108/199/s573], Jan. 23, 2004, [118 Stat. 199][/us/stat/118/199].
+    [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 573, Jan. 23, 2004, [118 Stat. 199][/us/stat/118/199].
 
-    [Pub. L. 107–115, title V, § 587][/us/pl/107/115/s587], Jan. 10, 2002, [115 Stat. 2173][/us/stat/115/2173].
+    [Pub. L. 107–115, title V][/us/pl/107/115/tV], § 587, Jan. 10, 2002, [115 Stat. 2173][/us/stat/115/2173].
 
  __Assistance for Zimbabwe__ 
 
@@ -2321,41 +2321,41 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/pl/107/99/s4/c], set out above, were contained in the following appropriation acts:
 
-    [Pub. L. 114–113, div. K, title VII, § 7042(k)(1)][/us/pl/114/113/s7042/k/1], Dec. 18, 2015, [129 Stat. 2783][/us/stat/129/2783].
+    [Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7042(k)(1), Dec. 18, 2015, [129 Stat. 2783][/us/stat/129/2783].
 
-    [Pub. L. 113–235, div. J, title VII, § 7042(m)(1)][/us/pl/113/235/s7042/m/1], Dec. 16, 2014, [128 Stat. 2644][/us/stat/128/2644].
+    [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7042(m)(1), Dec. 16, 2014, [128 Stat. 2644][/us/stat/128/2644].
 
-    [Pub. L. 113–76, div. K, title VII, § 7042(n)(1)][/us/pl/113/76/s7042/n/1], Jan. 17, 2014, [128 Stat. 532][/us/stat/128/532].
+    [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7042(n)(1), Jan. 17, 2014, [128 Stat. 532][/us/stat/128/532].
 
-    [Pub. L. 112–74, div. I, title VII, § 7043(j)(1)][/us/pl/112/74/s7043/j/1], Dec. 23, 2011, [125 Stat. 1230][/us/stat/125/1230].
+    [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7043(j)(1), Dec. 23, 2011, [125 Stat. 1230][/us/stat/125/1230].
 
-    [Pub. L. 111–117, div. F, title VII, § 7070(i)(1)][/us/pl/111/117/s7070/i/1], Dec. 16, 2009, [123 Stat. 3388][/us/stat/123/3388].
+    [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7070(i)(1), Dec. 16, 2009, [123 Stat. 3388][/us/stat/123/3388].
 
-    [Pub. L. 111–8, div. H, title VII, § 7070(e)(1)][/us/pl/111/8/s7070/e/1], Mar. 11, 2009, [123 Stat. 902][/us/stat/123/902].
+    [Pub. L. 111–8, div. H, title VII][/us/pl/111/8/dH/tVII], § 7070(e)(1), Mar. 11, 2009, [123 Stat. 902][/us/stat/123/902].
 
-    [Pub. L. 110–161, div. J, title VI, § 673][/us/pl/110/161/s673], Dec. 26, 2007, [121 Stat. 2356][/us/stat/121/2356].
+    [Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 673, Dec. 26, 2007, [121 Stat. 2356][/us/stat/121/2356].
 
-    [Pub. L. 109–102, title V, § 572][/us/pl/109/102/s572], Nov. 14, 2005, [119 Stat. 2229][/us/stat/119/2229].
+    [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 572, Nov. 14, 2005, [119 Stat. 2229][/us/stat/119/2229].
 
-    [Pub. L. 108–447, div. D, title V, § 580][/us/pl/108/447/s580], Dec. 8, 2004, [118 Stat. 3030][/us/stat/118/3030].
+    [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 580, Dec. 8, 2004, [118 Stat. 3030][/us/stat/118/3030].
 
-    [Pub. L. 108–199, div. D, title V, § 557][/us/pl/108/199/s557], Jan. 23, 2004, [118 Stat. 190][/us/stat/118/190].
+    [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 557, Jan. 23, 2004, [118 Stat. 190][/us/stat/118/190].
 
-    [Pub. L. 108–7, div. E, title V, § 556][/us/pl/108/7/s556], Feb. 20, 2003, [117 Stat. 202][/us/stat/117/202].
+    [Pub. L. 108–7, div. E, title V][/us/pl/108/7/dE/tV], § 556, Feb. 20, 2003, [117 Stat. 202][/us/stat/117/202].
 
-    [Pub. L. 107–115, title V, § 560][/us/pl/107/115/s560], Jan. 10, 2002, [115 Stat. 2162][/us/stat/115/2162].
+    [Pub. L. 107–115, title V][/us/pl/107/115/tV], § 560, Jan. 10, 2002, [115 Stat. 2162][/us/stat/115/2162].
 
  __Report on Relations With Vietnam__ 
 
-    [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVIII, § 2805, Oct. 21, 1998, [112 Stat. 2681–846][/us/stat/112/2681-846], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 209(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423, required the Secretary of State to submit a report, not later than 90 days after Oct. 21, 1998, and every 180 days thereafter during the period ending Sept. 30, 2001, regarding the Government of the Socialist Republic of Vietnam’s cooperation in providing the fullest possible accounting of all unresolved cases of prisoners of war (POWs) or persons missing-in-action (MIAs), progress toward the release of all political and religious prisoners, including clergy, and cooperation with the Orderly Departure (ODP) and Resettlement Opportunities for Vietnamese Refugees (ROVR) programs.
+    [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXVIII, § 2805, Oct. 21, 1998, [112 Stat. 2681–846][/us/stat/112/2681-846], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 209(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423, required the Secretary of State to submit a report, not later than 90 days after Oct. 21, 1998, and every 180 days thereafter during the period ending Sept. 30, 2001, regarding the Government of the Socialist Republic of Vietnam’s cooperation in providing the fullest possible accounting of all unresolved cases of prisoners of war (POWs) or persons missing-in-action (MIAs), progress toward the release of all political and religious prisoners, including clergy, and cooperation with the Orderly Departure (ODP) and Resettlement Opportunities for Vietnamese Refugees (ROVR) programs.
 
  __Iraq Liberation__ 
 
-    [Pub. L. 105–338][/us/pl/105/338], Oct. 31, 1998, [112 Stat. 3178][/us/stat/112/3178], as amended by [Pub. L. 108–11, title I, § 1309(b)][/us/pl/108/11/s1309/b], Apr. 16, 2003, [117 Stat. 568][/us/stat/117/568], known as the “Iraq Liberation Act of 1998”, contained congressional findings regarding Iraq, stated the sense of Congress that United States policy should support efforts to remove the regime headed by Saddam Hussein from power in Iraq and to promote the emergence of a democratic government, authorized assistance to support a transition to democracy in Iraq, required Presidential designation of Iraqi democratic opposition organizations eligible to receive assistance, urged establishment of a war crimes tribunal for Iraq, stated the sense of Congress that the United States should support Iraq’s transition to democracy upon replacement of the Saddam Hussein regime, and specified that, with an exception, nothing in the Act be construed to authorize the use of United States Armed Forces to carry out the Act.
+    [Pub. L. 105–338][/us/pl/105/338], Oct. 31, 1998, [112 Stat. 3178][/us/stat/112/3178], as amended by [Pub. L. 108–11, title I][/us/pl/108/11/tI], § 1309(b), Apr. 16, 2003, [117 Stat. 568][/us/stat/117/568], known as the “Iraq Liberation Act of 1998”, contained congressional findings regarding Iraq, stated the sense of Congress that United States policy should support efforts to remove the regime headed by Saddam Hussein from power in Iraq and to promote the emergence of a democratic government, authorized assistance to support a transition to democracy in Iraq, required Presidential designation of Iraqi democratic opposition organizations eligible to receive assistance, urged establishment of a war crimes tribunal for Iraq, stated the sense of Congress that the United States should support Iraq’s transition to democracy upon replacement of the Saddam Hussein regime, and specified that, with an exception, nothing in the Act be construed to authorize the use of United States Armed Forces to carry out the Act.
 
  __Assistance for Mauritania__ 
 
-[Pub. L. 104–319, title II, § 202][/us/pl/104/319/s202], Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866], provided that:
+[Pub. L. 104–319, title II][/us/pl/104/319/tII], § 202, Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -2387,7 +2387,7 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
  __Authority for Anticrime Assistance__ 
 
-    [Pub. L. 103–447, title I, § 106][/us/pl/103/447/s106], Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694], stated policy that prevention and suppression of international criminal activities should be a priority for the United States, and, for fiscal year 1995, authorized the President to furnish assistance to any country or international organization, on such terms and conditions as he determined, for the prevention and suppression of international criminal activities.
+    [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 106, Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694], stated policy that prevention and suppression of international criminal activities should be a priority for the United States, and, for fiscal year 1995, authorized the President to furnish assistance to any country or international organization, on such terms and conditions as he determined, for the prevention and suppression of international criminal activities.
 
  __African Conflict Resolution__ 
 
@@ -2559,37 +2559,37 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
  __Waiver of Restrictions for Narcotics-Related Economic Assistance__ 
 
-    [Pub. L. 104–164, title I, § 133][/us/pl/104/164/s133], July 21, 1996, [110 Stat. 1430][/us/stat/110/1430], stated terms under which narcotics-related assistance under part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) could be provided for fiscal years 1996 and 1997.
+    [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 133, July 21, 1996, [110 Stat. 1430][/us/stat/110/1430], stated terms under which narcotics-related assistance under part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) could be provided for fiscal years 1996 and 1997.
 
 Similar provisions were contained in the following prior acts:
 
-    [Pub. L. 103–447, title I, § 105][/us/pl/103/447/s105], Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694].
+    [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 105, Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694].
 
-    [Pub. L. 102–583, § 8][/us/pl/102/583/s8], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933], prior to repeal by [Pub. L. 103–447, title I, § 103(a)][/us/pl/103/447/s103/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
+    [Pub. L. 102–583][/us/pl/102/583], § 8, Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933], prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(a), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
 
  __“Appropriate Congressional Committees” Defined for Purposes of__  __[__  __Pub. L. 102–583__  __][/us/pl/102/583]__ 
 
-    [Pub. L. 102–583, § 11(b)][/us/pl/102/583/s11/b], Nov. 2, 1992, [106 Stat. 4935][/us/stat/106/4935], provided that as used in [Pub. L. 102–583][/us/pl/102/583], the term “appropriate congressional committees” had the definition given that term by section 481(e)(6) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(e)(6)][/us/usc/t22/s2291/e/6]), prior to repeal by [Pub. L. 103–447, title I, § 103(a)][/us/pl/103/447/s103/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
+    [Pub. L. 102–583][/us/pl/102/583], § 11(b), Nov. 2, 1992, [106 Stat. 4935][/us/stat/106/4935], provided that as used in [Pub. L. 102–583][/us/pl/102/583], the term “appropriate congressional committees” had the definition given that term by section 481(e)(6) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(e)(6)][/us/usc/t22/s2291/e/6]), prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(a), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
 
  __Impact on Employment in United States__ 
 
-[Pub. L. 102–549, title VIII, § 801][/us/pl/102/549/s801], Oct. 28, 1992, [106 Stat. 3671][/us/stat/106/3671], provided that: 
+[Pub. L. 102–549, title VIII][/us/pl/102/549/tVIII], § 801, Oct. 28, 1992, [106 Stat. 3671][/us/stat/106/3671], provided that: 
 
 > “No funds made available to carry out any provision of this Act \[see Short Title of 1992 Amendments note above\] or the amendments made by this Act may be obligated or expended for any financial incentive to a business enterprise currently located in the United States for the purpose of inducing such an enterprise to relocate outside the United States, if such incentive or inducement is likely to reduce the number of employees in the United States because United States production is being replaced by such enterprise outside the United States.”
 
  __Internationally Recognized Worker Rights__ 
 
-[Pub. L. 102–549, title VIII, § 802][/us/pl/102/549/s802], Oct. 28, 1992, [106 Stat. 3671][/us/stat/106/3671], provided that: 
+[Pub. L. 102–549, title VIII][/us/pl/102/549/tVIII], § 802, Oct. 28, 1992, [106 Stat. 3671][/us/stat/106/3671], provided that: 
 
 > “No funds made available to carry out any provision of this Act \[see Short Title of 1992 Amendments note above\] or the amendments made by this Act may be obligated or expended for any project or activity that contributes to the violation of internationally recognized workers rights, as defined in section 502(a)(4) of the Trade Act of 1974 \[[19 U.S.C. 2462(a)(4)][/us/usc/t19/s2462/a/4]\], of workers in the recipient country, including any designated zone in that country.”
 
  __Horn of Africa Recovery and Food Security__ 
 
-    [Pub. L. 102–274][/us/pl/102/274], Apr. 21, 1992, [106 Stat. 115][/us/stat/106/115], as amended by [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(R), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], known as the Horn of Africa Recovery and Food Security Act, provided findings of Congress concerning the Horn of Africa (the region comprised of Ethiopia, Somalia, Sudan, and Djibouti), stated policy regarding individual countries, authorized a relief and rehabilitation program, provided for a peace initiative and a food security and recovery strategy, prohibited security assistance to Ethiopia, Somalia, or Sudan for fiscal year 1992 or 1993 absent a certification by the President, required the President to submit a report to Congress on the efforts and progress in carrying out [Pub. L. 102–274][/us/pl/102/274] not later than 180 days after Apr. 21, 1992, and required additional reports.
+    [Pub. L. 102–274][/us/pl/102/274], Apr. 21, 1992, [106 Stat. 115][/us/stat/106/115], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(R), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], known as the Horn of Africa Recovery and Food Security Act, provided findings of Congress concerning the Horn of Africa (the region comprised of Ethiopia, Somalia, Sudan, and Djibouti), stated policy regarding individual countries, authorized a relief and rehabilitation program, provided for a peace initiative and a food security and recovery strategy, prohibited security assistance to Ethiopia, Somalia, or Sudan for fiscal year 1992 or 1993 absent a certification by the President, required the President to submit a report to Congress on the efforts and progress in carrying out [Pub. L. 102–274][/us/pl/102/274] not later than 180 days after Apr. 21, 1992, and required additional reports.
 
  __Peace Process in Liberia__ 
 
-[Pub. L. 102–270][/us/pl/102/270], Apr. 16, 1992, [106 Stat. 106][/us/stat/106/106], as amended by [Pub. L. 104–107, title V, § 573(a)][/us/pl/104/107/s573/a], Feb. 12, 1996, [110 Stat. 749][/us/stat/110/749], provided: That (a) the Congress—
+[Pub. L. 102–270][/us/pl/102/270], Apr. 16, 1992, [106 Stat. 106][/us/stat/106/106], as amended by [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 573(a), Feb. 12, 1996, [110 Stat. 749][/us/stat/110/749], provided: That (a) the Congress—
 
 >     “(1) strongly supports the peace process for Liberia initiated by the Yamoussoukro peace accord;
 
@@ -2613,7 +2613,7 @@ Similar provisions were contained in the following prior acts:
 
  __Suspension of Certain Programs and Activities Relating to the People’s Republic of China__ 
 
-[Pub. L. 101–246, title IX, § 902][/us/pl/101/246/s902], Feb. 16, 1990, [104 Stat. 83][/us/stat/104/83], as amended by [Pub. L. 102–549, title II, § 202(e)][/us/pl/102/549/s202/e], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658], provided that:
+[Pub. L. 101–246, title IX][/us/pl/101/246/tIX], § 902, Feb. 16, 1990, [104 Stat. 83][/us/stat/104/83], as amended by [Pub. L. 102–549, title II][/us/pl/102/549/tII], § 202(e), Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658], provided that:
 
 >     “(a) __Suspensions.—__ 
 
@@ -2709,7 +2709,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(3)
 
->          the impact of the President’s actions described in section 901(a)(9) \[[Pub. L. 101–246, title IX][/us/pl/101/246], Feb. 16, 1990, [104 Stat. 80][/us/stat/104/80]\] and of the suspensions under subsection (a) of this section on—
+>          the impact of the President’s actions described in section 901(a)(9) \[[Pub. L. 101–246, title IX][/us/pl/101/246/tIX], Feb. 16, 1990, [104 Stat. 80][/us/stat/104/80]\] and of the suspensions under subsection (a) of this section on—
 
 >             “(A) political and economic developments in China;
 
@@ -2727,11 +2727,11 @@ Similar provisions were contained in the following prior acts:
 
  __Limitation on Assistance to Panamanian Defense Force__ 
 
-    [Pub. L. 100–456, div. A, title XIII, § 1302][/us/pl/100/456/s1302], Sept. 29, 1988, [102 Stat. 2060][/us/stat/102/2060], prohibited the President from using appropriated funds to provide assistance to the Panamanian Defense Force, with such limitation to cease to apply upon a certification of certain conditions by the President to Congress.
+    [Pub. L. 100–456, div. A, title XIII][/us/pl/100/456/dA/tXIII], § 1302, Sept. 29, 1988, [102 Stat. 2060][/us/stat/102/2060], prohibited the President from using appropriated funds to provide assistance to the Panamanian Defense Force, with such limitation to cease to apply upon a certification of certain conditions by the President to Congress.
 
  __Codification of Policy Prohibiting Negotiations With the Palestine Liberation Organization__ 
 
-[Pub. L. 99–83, title XIII, § 1302][/us/pl/99/83/s1302], Aug. 8, 1985, [99 Stat. 280][/us/stat/99/280], as amended by [Pub. L. 101–246, title I, § 108][/us/pl/101/246/s108], Feb. 16, 1990, [104 Stat. 21][/us/stat/104/21], provided that:
+[Pub. L. 99–83, title XIII][/us/pl/99/83/tXIII], § 1302, Aug. 8, 1985, [99 Stat. 280][/us/stat/99/280], as amended by [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 108, Feb. 16, 1990, [104 Stat. 21][/us/stat/104/21], provided that:
 
 >     “(a)  __United States Policy__  __.—__ 
 
@@ -2743,51 +2743,51 @@ Similar provisions were contained in the following prior acts:
 
  __Obligation or Expenditure of Funds for Planning, etc., Mining of the Ports or Territorial Waters of Nicaragua__ 
 
-[Pub. L. 98–369, div. B, title IX, § 2907][/us/pl/98/369/s2907], July 18, 1984, [98 Stat. 1210][/us/stat/98/1210], provided that: 
+[Pub. L. 98–369, div. B, title IX][/us/pl/98/369/dB/tIX], § 2907, July 18, 1984, [98 Stat. 1210][/us/stat/98/1210], provided that: 
 
 > “It is the sense of the Congress that no funds heretofore or hereafter appropriated in any Act of Congress shall be obligated or expended for the purpose of planning, directing, executing, or supporting the mining of the ports or territorial waters of Nicaragua.”
 
  __Prohibition on Certain Assistance to the Khmer Rouge in Kampuchea__ 
 
-    [Pub. L. 98–164, title X, § 1005][/us/pl/98/164/s1005], Nov. 22, 1983, [97 Stat. 1058][/us/stat/97/1058], prohibited the obligation or expenditure of funds to promote, sustain, or augment the capacity of the Khmer Rouge or any of its members to conduct military or paramilitary operations in Kampuchea (now Cambodia) or elsewhere in Indochina.
+    [Pub. L. 98–164, title X][/us/pl/98/164/tX], § 1005, Nov. 22, 1983, [97 Stat. 1058][/us/stat/97/1058], prohibited the obligation or expenditure of funds to promote, sustain, or augment the capacity of the Khmer Rouge or any of its members to conduct military or paramilitary operations in Kampuchea (now Cambodia) or elsewhere in Indochina.
 
  __Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and Removal From Law__ 
 
-[Pub. L. 97–113, title VII, § 734(c)][/us/pl/97/113/s734/c], Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561], provided that: 
+[Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(c), Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561], provided that: 
 
 > “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[see Short Title note above\] and the Arms Export Control Act \[see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751]\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
  __Assistance for Panama__ 
 
-    [Pub. L. 101–167, title V, § 561][/us/pl/101/167/s561], Nov. 21, 1989, [103 Stat. 1239][/us/stat/103/1239], prohibited United States assistance for programs, projects, or activities which would assist or lend support for the Noriega regime or ministries of government under the control of the Noriega regime, prohibited use of appropriated funds to finance any participation of the United States in joint military exercises conducted in Panama during the fiscal year 1990, and directed the Secretary of the Treasury to instruct the United States Executive Directors to the International Financial Institutions to vote against any loan to Panama unless the President had certified that certain conditions had been met.
+    [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 561, Nov. 21, 1989, [103 Stat. 1239][/us/stat/103/1239], prohibited United States assistance for programs, projects, or activities which would assist or lend support for the Noriega regime or ministries of government under the control of the Noriega regime, prohibited use of appropriated funds to finance any participation of the United States in joint military exercises conducted in Panama during the fiscal year 1990, and directed the Secretary of the Treasury to instruct the United States Executive Directors to the International Financial Institutions to vote against any loan to Panama unless the President had certified that certain conditions had been met.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–461, title V, § 564][/us/pl/100/461/s564], Oct. 1, 1988, [102 Stat. 2268–40][/us/stat/102/2268-40].
+    [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 564, Oct. 1, 1988, [102 Stat. 2268–40][/us/stat/102/2268-40].
 
-    [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 570\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–174.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 570\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–174.
 
-    [Pub. L. 96–92, § 28][/us/pl/96/92/s28], Oct. 29, 1979, [93 Stat. 711][/us/stat/93/711]. \[Repealed by [Pub. L. 97–113, title VII, § 734(a)(11)][/us/pl/97/113/s734/a/11], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].\]
+    [Pub. L. 96–92][/us/pl/96/92], § 28, Oct. 29, 1979, [93 Stat. 711][/us/stat/93/711]. \[Repealed by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(11), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].\]
 
  __Final Accounting of Americans Missing in Action in Vietnam__ 
 
-[Pub. L. 95–426, title VII, § 705][/us/pl/95/426/s705], Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992], as amended by [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], (b)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that: 
+[Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 705, Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992], as amended by [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(2), (b)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that: 
 
 > “The President shall continue to take all possible steps to obtain a final accounting of all Americans missing in action in Vietnam.”
 
  Similar provisions were contained in the following acts:
 
-    [Pub. L. 95–105, title V, § 505][/us/pl/95/105/s505], Aug. 17, 1977, [91 Stat. 858][/us/stat/91/858], as amended by [Pub. L. 97–241, title V, § 505(a)(3)][/us/pl/97/241/s505/a/3], (b)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299].
+    [Pub. L. 95–105, title V][/us/pl/95/105/tV], § 505, Aug. 17, 1977, [91 Stat. 858][/us/stat/91/858], as amended by [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(3), (b)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299].
 
-    [Pub. L. 95–88, title I, § 132][/us/pl/95/88/s132], Aug. 3, 1977, [91 Stat. 544][/us/stat/91/544], as amended by [Pub. L. 97–113, title VII, § 734(a)(6)][/us/pl/97/113/s734/a/6], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 132, Aug. 3, 1977, [91 Stat. 544][/us/stat/91/544], as amended by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(6), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
  __Plan for Increased Minority Business Participation in Foreign Assistance Activities; Minority Resource Center Section as Implementing Administrative Unit; Functions, Duties, Etc., of Center__ 
 
-    [Pub. L. 95–88, title I, § 133][/us/pl/95/88/s133], Aug. 3, 1977, [91 Stat. 544][/us/stat/91/544], as amended by [Pub. L. 96–53, title I, § 123][/us/pl/96/53/s123], Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 97–113, title VII, § 734(a)(6)][/us/pl/97/113/s734/a/6], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that (1) the Administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) was to prepare and transmit to the Congress, not later than 30 days after Aug. 3, 1977, a detailed plan for the establishment of a section on minority business within such agency; and (2) upon the enactment of the International Development Cooperation Act of 1979 (Aug. 14, 1979), the section on minority business so established was to be redesignated as the Minority Resource Center and was to be responsible for assisting economically and socially disadvantaged businesses.
+    [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 133, Aug. 3, 1977, [91 Stat. 544][/us/stat/91/544], as amended by [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 123, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(6), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that (1) the Administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) was to prepare and transmit to the Congress, not later than 30 days after Aug. 3, 1977, a detailed plan for the establishment of a section on minority business within such agency; and (2) upon the enactment of the International Development Cooperation Act of 1979 (Aug. 14, 1979), the section on minority business so established was to be redesignated as the Minority Resource Center and was to be responsible for assisting economically and socially disadvantaged businesses.
 
  __Use of Accrued Foreign Currencies__ 
 
-[Pub. L. 93–189, § 40][/us/pl/93/189/s40], Dec. 18, 1973, [87 Stat. 736][/us/stat/87/736], provided that: 
+[Pub. L. 93–189][/us/pl/93/189], § 40, Dec. 18, 1973, [87 Stat. 736][/us/stat/87/736], provided that: 
 
 > “Effective July 1, 1974, no amount of any foreign currency (including principal and interest from loan repayments) which accrues in connection with any sale for foreign currency under any provision of law may be used under any agreement entered into after the date of the enactment of this Act \[Dec. 17, 1973\], or any revision or extension entered into after such date of any prior or subsequent agreement, to provide any assistance to any foreign country to procure equipment, materials, facilities, or services for the common defense, including internal security, unless such agreement is specifically authorized by legislation enacted after such date.”
 
@@ -2799,39 +2799,39 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Communist Regime in China__ 
 
-[Pub. L. 91–194, title I, § 105][/us/pl/91/194/s105], Feb. 9, 1970, [84 Stat. 7][/us/stat/84/7], related to Congressional opposition to the seating in the United Nations of the Communist regime in China as the representative of China, and requested the President, in the event of the seating of representatives of the Chinese Communist regime in the Security Council or the General Assembly of the United Nations, to inform the Congress of the implications of the seating upon the foreign policy of the United States. Similar provisions were contained in the following prior acts:
+[Pub. L. 91–194, title I][/us/pl/91/194/tI], § 105, Feb. 9, 1970, [84 Stat. 7][/us/stat/84/7], related to Congressional opposition to the seating in the United Nations of the Communist regime in China as the representative of China, and requested the President, in the event of the seating of representatives of the Chinese Communist regime in the Security Council or the General Assembly of the United Nations, to inform the Congress of the implications of the seating upon the foreign policy of the United States. Similar provisions were contained in the following prior acts:
 
-    Oct. 17, 1968, [Pub. L. 90–581, title I, § 105][/us/pl/90/581/s105], [82 Stat. 1139][/us/stat/82/1139].
+    Oct. 17, 1968, [Pub. L. 90–581, title I][/us/pl/90/581/tI], § 105, [82 Stat. 1139][/us/stat/82/1139].
 
-    Jan. 2, 1968, [Pub. L. 90–249, title I, § 105][/us/pl/90/249/s105], [81 Stat. 938][/us/stat/81/938].
+    Jan. 2, 1968, [Pub. L. 90–249, title I][/us/pl/90/249/tI], § 105, [81 Stat. 938][/us/stat/81/938].
 
-    Oct. 15, 1966, [Pub. L. 89–691, title I, § 105][/us/pl/89/691/s105], [80 Stat. 1020][/us/stat/80/1020].
+    Oct. 15, 1966, [Pub. L. 89–691, title I][/us/pl/89/691/tI], § 105, [80 Stat. 1020][/us/stat/80/1020].
 
-    Oct. 20, 1965, [Pub. L. 89–273, title I, § 105][/us/pl/89/273/s105], [79 Stat. 1003][/us/stat/79/1003].
+    Oct. 20, 1965, [Pub. L. 89–273, title I][/us/pl/89/273/tI], § 105, [79 Stat. 1003][/us/stat/79/1003].
 
-    Oct. 7, 1964, [Pub. L. 88–634, title I, § 105][/us/pl/88/634/s105], [78 Stat. 1017][/us/stat/78/1017].
+    Oct. 7, 1964, [Pub. L. 88–634, title I][/us/pl/88/634/tI], § 105, [78 Stat. 1017][/us/stat/78/1017].
 
-    Jan. 6, 1964, [Pub. L. 88–258, title I, § 105][/us/pl/88/258/s105], [77 Stat. 858][/us/stat/77/858].
+    Jan. 6, 1964, [Pub. L. 88–258, title I][/us/pl/88/258/tI], § 105, [77 Stat. 858][/us/stat/77/858].
 
-    Oct. 23, 1962, [Pub. L. 87–872, title I, § 105][/us/pl/87/872/s105], [76 Stat. 1164][/us/stat/76/1164].
+    Oct. 23, 1962, [Pub. L. 87–872, title I][/us/pl/87/872/tI], § 105, [76 Stat. 1164][/us/stat/76/1164].
 
-    Sept. 30, 1961, [Pub. L. 87–329, title I, § 107][/us/pl/87/329/s107], [75 Stat. 718][/us/stat/75/718].
+    Sept. 30, 1961, [Pub. L. 87–329, title I][/us/pl/87/329/tI], § 107, [75 Stat. 718][/us/stat/75/718].
 
-    Sept. 2, 1960, [Pub. L. 86–704, title I, § 107][/us/pl/86/704/s107], [74 Stat. 779][/us/stat/74/779].
+    Sept. 2, 1960, [Pub. L. 86–704, title I][/us/pl/86/704/tI], § 107, [74 Stat. 779][/us/stat/74/779].
 
-    Sept. 28, 1959, [Pub. L. 86–383, title I, § 112][/us/pl/86/383/s112], [73 Stat. 720][/us/stat/73/720].
+    Sept. 28, 1959, [Pub. L. 86–383, title I][/us/pl/86/383/tI], § 112, [73 Stat. 720][/us/stat/73/720].
 
-    Aug. 28, 1958, [Pub. L. 85–853, § 105][/us/pl/85/853/s105], [72 Stat. 1101][/us/stat/72/1101].
+    Aug. 28, 1958, [Pub. L. 85–853][/us/pl/85/853], § 105, [72 Stat. 1101][/us/stat/72/1101].
 
-    Sept. 3, 1957, [Pub. L. 85–279, § 109][/us/pl/85/279/s109], [71 Stat. 604][/us/stat/71/604].
+    Sept. 3, 1957, [Pub. L. 85–279][/us/pl/85/279], § 109, [71 Stat. 604][/us/stat/71/604].
 
-    [July 31, 1956, ch. 803, § 108][/us/act/1956-07-31/ch803/s108], [70 Stat. 735][/us/stat/70/735].
+    [July 31, 1956, ch. 803][/us/act/1956-07-31/ch803], § 108, [70 Stat. 735][/us/stat/70/735].
 
-    [July 8, 1955, ch. 301, § 12][/us/act/1955-07-08/ch301/s12], [69 Stat. 290][/us/stat/69/290] (repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(3), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460]).
+    [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], § 12, [69 Stat. 290][/us/stat/69/290] (repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(3), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460]).
 
  __Definitions__ 
 
-[Pub. L. 110–53, title XX, § 2002][/us/pl/110/53/s2002], Aug. 3, 2007, [121 Stat. 508][/us/stat/121/508], provided that: 
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2002, Aug. 3, 2007, [121 Stat. 508][/us/stat/121/508], provided that: 
 
 > “In this title \[see Short Title of 2007 Amendment note above\], except as otherwise provided, the term ‘appropriate congressional committees’—
 
@@ -2845,7 +2845,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(2) includes, for purposes of subtitle D \[subtitle D (§§ 2041–2043) of title XX of [Pub. L. 110–53][/us/pl/110/53], enacting provisions set out as notes under sections 2375, 2656, and 7511 of this title\], the Committees on Armed Services of the House of Representatives and of the Senate.”
 
-[Pub. L. 107–228, div. B, title X, § 1002][/us/pl/107/228/s1002], Sept. 30, 2002, [116 Stat. 1425][/us/stat/116/1425], provided that: 
+[Pub. L. 107–228, div. B, title X][/us/pl/107/228/dB/tX], § 1002, Sept. 30, 2002, [116 Stat. 1425][/us/stat/116/1425], provided that: 
 
 > “In this division \[see Tables for classification\]:
 
@@ -2987,7 +2987,9 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 
  __Extension of Term of President’s Global Development Council__ 
 
-    Term of President’s Global Development Council extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of President’s Global Development Council extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of President’s Global Development Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Ex. Ord. No. 13623. Preventing and Responding to Violence Against Women and Girls Globally__ 
 
@@ -3254,15 +3256,15 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/stat/80/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F796
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F445
-[/us/pl/93/189/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F2
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F714
-[/us/pl/94/161/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs301
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F855
-[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F533
-[/us/pl/95/424/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs101
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F937
-[/us/pl/106/309/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs203%2Fa
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1091
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -3270,10 +3272,10 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/95/88/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs113%2Fb%2F1
-[/us/pl/95/88/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs113%2Fb%2F2
-[/us/pl/95/88/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs101%2Fa
-[/us/pl/95/88/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs101%2Fb
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
@@ -3283,30 +3285,30 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
-[/us/pl/96/53/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512
+[/us/pl/96/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtV
 [/us/stat/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F380
 [/us/usc/t22/s2385a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385a
-[/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
-[/us/pl/113/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289%2Fs1
+[/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/stat/128/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283
 [/us/usc/t22/s2152h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h
 [/us/usc/t22/s2152h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h
-[/us/pl/111/166/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166%2Fs1
+[/us/pl/111/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166
 [/us/stat/124/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1186
-[/us/pl/110/457/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs401
+[/us/pl/110/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIV
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
 [/us/usc/t22/s4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4028
 [/us/usc/t22/s2370c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370c
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4652
-[/us/pl/110/53/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2001
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F508
 [/us/usc/t22/s6216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6216
 [/us/usc/t22/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2228
 [/us/usc/t42/s2000dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/109/472/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs1%2Fa
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3554
 [/us/usc/t18/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs118
 [/us/usc/t5/s5924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924
@@ -3314,80 +3316,80 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t8/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1714
 [/us/usc/t22/s6206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6206
-[/us/pl/109/165/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F165%2Fs1
+[/us/pl/109/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F165
 [/us/stat/119/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3574
 [/us/usc/t22/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152
-[/us/pl/109/95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs1
+[/us/pl/109/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95
 [/us/stat/119/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2111
-[/us/pl/108/484/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs1
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3922
 [/us/usc/t22/s2152a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152a
 [/us/usc/t22/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2211
 [/us/usc/t22/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2212
-[/us/pl/108/179/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179%2Fs1
+[/us/pl/108/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179
 [/us/stat/117/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2643
 [/us/usc/t22/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152
-[/us/pl/108/158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs1
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/stat/117/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1949
-[/us/pl/107/246/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs1
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/stat/116/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1511
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
-[/us/pl/107/228/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs661
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1405
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2151n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%E2%80%932
-[/us/pl/107/228/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1001
+[/us/pl/107/228/dB/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtX
 [/us/stat/116/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1425
-[/us/pl/106/570/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2Fs1
+[/us/pl/106/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570
 [/us/stat/114/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3038
 [/us/usc/t22/s2151b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%931
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t49/s28101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28101
-[/us/pl/106/570/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2Fs101
+[/us/pl/106/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtI
 [/us/stat/114/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3039
 [/us/usc/t22/s2151b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%931
 [/us/usc/t22/s2151b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%931
-[/us/pl/106/373/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs1
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/stat/114/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1427
-[/us/pl/106/309/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs1
+[/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
 [/us/stat/114/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1078
 [/us/usc/t10/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs402
-[/us/pl/106/309/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs101
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1079
 [/us/usc/t22/s2151f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151f
-[/us/pl/106/309/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs201
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1090
 [/us/usc/t22/s2152c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152c
 [/us/usc/t22/s2152c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152c
-[/us/pl/106/309/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs401%2Fa
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1096
 [/us/usc/t22/s2151i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151i
 [/us/usc/t22/s2151i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151i
-[/us/pl/106/280/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs1%2Fa
+[/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
 [/us/stat/114/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F845
-[/us/pl/106/264/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs201
+[/us/pl/106/264/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtII
 [/us/stat/114/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F758
 [/us/usc/t22/s2151b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b
 [/us/usc/t22/s2151b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b
-[/us/pl/106/158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs1
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1745
 [/us/usc/t15/s4727a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727a
 [/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727
 [/us/usc/t22/s2191a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191a
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t13/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs301
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/106/87/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87%2Fs1
+[/us/pl/106/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87
 [/us/stat/113/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1301
 [/us/usc/t22/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152
 [/us/usc/t22/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152
-[/us/pl/104/319/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319%2Fs1
+[/us/pl/104/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319
 [/us/stat/110/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3864
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/103/447/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs1
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
 [/us/stat/108/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4691
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t18/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs981
@@ -3398,170 +3400,170 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t31/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5311
 [/us/usc/t41/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs701
 [/us/usc/t46/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1902
-[/us/pl/103/392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs1
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
 [/us/stat/108/4098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4098
 [/us/usc/t22/s2151t–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151t%E2%80%931
 [/us/usc/t15/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4701
-[/us/pl/102/583/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4914
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
-[/us/pl/103/447/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fa
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
-[/us/pl/102/549/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs1
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/stat/106/3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3651
 [/us/usc/t15/s4723a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4723a
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t7/s1738i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i
 [/us/usc/t22/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2296
-[/us/pl/102/549/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs601
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3664
 [/us/usc/t7/s1738i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i
 [/us/usc/t22/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2296
 [/us/usc/t22/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2296
-[/us/pl/101/623/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs1%2Fa
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3350
 [/us/usc/t22/s2151x–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151x%E2%80%931
 [/us/usc/t18/s3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3196
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
-[/us/pl/101/240/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs1%2Fa
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/stat/103/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2492
 [/us/usc/t12/s3904a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3904a
 [/us/usc/t22/s262q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262q
 [/us/usc/t22/s262s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262s
 [/us/usc/t15/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4722
 [/us/usc/t22/s262s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262s%E2%80%932
-[/us/pl/101/240/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs701
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
 [/us/stat/103/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2521
 [/us/usc/t22/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7901
-[/us/pl/101/231/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs1%2Fa
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1954
 [/us/usc/t22/s2321k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k
-[/us/pl/101/222/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs1%2Fa
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1892
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
-[/us/pl/100/690/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4001
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4261
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/103/447/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fb
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/99/570/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2001
+[/us/pl/99/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtII
 [/us/stat/100/3207-60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-60
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/103/447/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fc
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4694
-[/us/pl/99/529/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs1
+[/us/pl/99/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529
 [/us/stat/100/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3010
 [/us/usc/t22/s2151p–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151p%E2%80%931
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f
-[/us/pl/99/204/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs1
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1669
 [/us/usc/t18/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs709
 [/us/usc/t22/s2200b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200b
 [/us/usc/t22/s2191a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191a
 [/us/usc/t22/s2200a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200a
-[/us/pl/99/83/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1%2Fa
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/stat/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F190
 [/us/usc/t16/s469j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469j
 [/us/usc/t10/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7307
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
-[/us/pl/99/83/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs601
+[/us/pl/99/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVI
 [/us/stat/99/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F228
 [/us/usc/t22/s2291b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291b
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
-[/us/pl/98/164/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs701
+[/us/pl/98/164/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVII
 [/us/stat/97/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1045
 [/us/usc/t22/s2151q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151q
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/98/151/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Fb%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F968
 [/us/usc/t22/s2349aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa
-[/us/pl/97/113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs1
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/stat/95/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1519
-[/us/pl/97/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs1
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1021
-[/us/pl/96/533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs1
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/stat/94/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3131
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t8/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522
 [/us/usc/t10/s2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
-[/us/pl/96/257/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F257%2Fs1
+[/us/pl/96/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F257
 [/us/stat/94/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F422
 [/us/usc/t22/s2346e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346e
-[/us/pl/96/92/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs1
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F701
-[/us/pl/96/53/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs1
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F359
-[/us/pl/95/424/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs1
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/stat/92/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F937
 [/us/usc/t7/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1711
-[/us/pl/95/384/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs1
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F730
 [/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
-[/us/pl/95/268/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs1
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F213
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
-[/us/pl/95/92/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs1
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F614
-[/us/pl/95/88/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs1
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/stat/91/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F533
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t22/s2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2424
-[/us/pl/94/329/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs1
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/stat/90/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F729
-[/us/pl/94/161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs1
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/stat/89/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F849
 [/us/usc/t22/s2220a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220a
 [/us/usc/t7/s1691a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691a
-[/us/pl/93/559/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs1
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1795
-[/us/pl/93/390/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs1
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F763
-[/us/pl/93/333/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F333%2Fs1
+[/us/pl/93/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F333
 [/us/stat/88/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F290
 [/us/usc/t22/s2292c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2292c
 [/us/usc/t22/s2292d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2292d
 [/us/usc/t22/s2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395
-[/us/pl/93/189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs1
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F714
 [/us/usc/t22/s2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2397
-[/us/pl/92/226/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs1
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F20
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/91/652/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652%2Fs1
+[/us/pl/91/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652
 [/us/stat/84/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1942
 [/us/usc/t22/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2411
-[/us/pl/91/175/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs1
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F805
-[/us/pl/90/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554%2Fs1
+[/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/stat/82/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F960
 [/us/usc/t16/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs617
-[/us/pl/90/137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs1
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F445
 [/us/usc/t22/s2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395
-[/us/pl/89/583/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs1
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/stat/80/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F795
-[/us/pl/89/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs1
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/stat/79/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F653
 [/us/usc/t7/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707
-[/us/pl/88/633/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633%2Fs1
+[/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
 [/us/stat/78/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1009
-[/us/pl/88/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205%2Fs1
+[/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F379
 [/us/usc/t19/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1861
 [/us/usc/t22/s1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942
 [/us/usc/t7/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1706
 [/us/usc/t22/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2301
-[/us/pl/87/565/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565%2Fs1
+[/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/stat/76/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F255
 [/us/usc/t22/s2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2173
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/87/195/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs1
-[/us/pl/87/329/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329%2Fs111
+[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
+[/us/pl/87/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329%2FtI
 [/us/stat/75/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F719
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -3569,7 +3571,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F379
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F885
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -3583,7 +3585,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1922
 [/us/usc/t22/s1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1783
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/114/92/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1226
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1056
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F393
@@ -3592,40 +3594,40 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/114/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F24
 [/us/stat/129/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F314
 [/us/usc/t22/s2394/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%2Fb
-[/us/pl/113/291/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1253
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3571
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F162
 [/us/stat/128/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1858
-[/us/pl/113/66/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1206
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F899
-[/us/pl/113/66/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1207
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F902
 [/us/stat/127/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F935
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F393
 [/us/stat/127/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1137
-[/us/pl/113/66/s1208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1208%2Fa
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F903
 [/us/pl/111/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F172
 [/us/stat/124/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1209
 [/us/usc/t10/s2350/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350%2F1
-[/us/pl/112/239/s850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs850
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1854
-[/us/pl/112/81/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1207
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1625
-[/us/pl/113/66/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1202
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F893
-[/us/pl/113/291/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1201
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3529
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2378d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378d
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/stat/125/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1554
 [/us/usc/t22/s2395/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395%2Fd
-[/us/pl/112/81/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1206
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1624
-[/us/pl/113/66/s1208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1208%2Fg
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F904
 [/us/pl/111/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F172
 [/us/stat/124/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1209
@@ -3640,7 +3642,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/stat/119/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3465
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/110/53/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2021
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F513
 [/us/pl/109/102/s534/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs534%2Fk
 [/us/stat/119/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2210
@@ -3653,7 +3655,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/109/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293
+[/us/pl/109/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2FtIII
 [/us/stat/120/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1347
 [/us/usc/t31/s5318A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318A
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -3665,36 +3667,36 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/108/175/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F175%2Fs5%2Fb
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/109/234/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1302%2Fa
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F435
 [/us/pl/108/106/s2207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs2207%2Fd
 [/us/pl/108/106/s2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs2207
-[/us/pl/108/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106
+[/us/pl/108/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2FtII
 [/us/stat/117/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1231
-[/us/pl/108/309/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F309%2Fs135
+[/us/pl/108/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F309
 [/us/stat/118/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1143
 [/us/stat/117/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1225
 [/us/pl/108/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106
 [/us/usc/t22/s7554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7554
 [/us/pl/108/106/s2215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs2215%2Fa
-[/us/pl/108/106/s2215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs2215%2Fa
+[/us/pl/108/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2FtII
 [/us/stat/117/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1232
-[/us/pl/108/11/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1506
+[/us/pl/108/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtI
 [/us/stat/117/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F580
-[/us/pl/108/7/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs582
+[/us/pl/108/7/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdE%2FtV
 [/us/stat/117/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F214
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420
 [/us/pl/107/115/s587/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs587%2Fb
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/109/102/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs564
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2225
-[/us/pl/108/447/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs564
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3022
-[/us/pl/108/199/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs573
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F199
-[/us/pl/107/115/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs587
+[/us/pl/107/115/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2FtV
 [/us/stat/115/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2173
 [/us/pl/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F99
 [/us/stat/115/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F962
@@ -3703,39 +3705,39 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/107/99/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F99%2Fs4%2Fc
-[/us/pl/114/113/s7042/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7042%2Fk%2F1
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2783
-[/us/pl/113/235/s7042/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7042%2Fm%2F1
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2644
-[/us/pl/113/76/s7042/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7042%2Fn%2F1
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F532
-[/us/pl/112/74/s7043/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7043%2Fj%2F1
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1230
-[/us/pl/111/117/s7070/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7070%2Fi%2F1
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3388
-[/us/pl/111/8/s7070/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7070%2Fe%2F1
+[/us/pl/111/8/dH/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdH%2FtVII
 [/us/stat/123/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F902
-[/us/pl/110/161/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs673
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2356
-[/us/pl/109/102/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs572
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2229
-[/us/pl/108/447/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs580
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3030
-[/us/pl/108/199/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs557
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F190
-[/us/pl/108/7/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs556
+[/us/pl/108/7/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdE%2FtV
 [/us/stat/117/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F202
-[/us/pl/107/115/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs560
+[/us/pl/107/115/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2FtV
 [/us/stat/115/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2162
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-846
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F338
 [/us/stat/112/3178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3178
-[/us/pl/108/11/s1309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1309%2Fb
+[/us/pl/108/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtI
 [/us/stat/117/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F568
-[/us/pl/104/319/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319%2Fs202
+[/us/pl/104/319/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319%2FtII
 [/us/stat/110/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3866
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2311
@@ -3744,45 +3746,45 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/103/447/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs106
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4694
 [/us/pl/103/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F381
 [/us/stat/108/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3513
 [/us/usc/t22/s2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2347
 [/us/pl/103/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F381
-[/us/pl/104/164/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs133
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1430
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/103/447/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs105
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4694
-[/us/pl/102/583/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs8
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/103/447/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fa
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
-[/us/pl/102/583/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs11%2Fb
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4935
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/usc/t22/s2291/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe%2F6
-[/us/pl/103/447/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fa
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
-[/us/pl/102/549/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs801
+[/us/pl/102/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVIII
 [/us/stat/106/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3671
-[/us/pl/102/549/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs802
+[/us/pl/102/549/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVIII
 [/us/stat/106/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3671
 [/us/usc/t19/s2462/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462%2Fa%2F4
 [/us/pl/102/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F274
 [/us/stat/106/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F115
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/102/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F274
 [/us/pl/102/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F270
 [/us/stat/106/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F106
-[/us/pl/104/107/s573/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs573%2Fa
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F749
-[/us/pl/101/246/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs902
+[/us/pl/101/246/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIX
 [/us/stat/104/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F83
-[/us/pl/102/549/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fe
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t50/s4605/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fk
@@ -3792,91 +3794,91 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/99/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F183
 [/us/stat/99/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1174
 [/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
-[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/101/246/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIX
 [/us/stat/104/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F80
 [/us/pl/101/246/s902/a/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs902%2Fa%2F6%2FB%2Fi
-[/us/pl/100/456/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1302
+[/us/pl/100/456/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXIII
 [/us/stat/102/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2060
-[/us/pl/99/83/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1302
+[/us/pl/99/83/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXIII
 [/us/stat/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F280
-[/us/pl/101/246/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs108
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F21
-[/us/pl/98/369/s2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2907
+[/us/pl/98/369/dB/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIX
 [/us/stat/98/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1210
-[/us/pl/98/164/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1005
+[/us/pl/98/164/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtX
 [/us/stat/97/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1058
-[/us/pl/97/113/s734/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fc
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1561
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/101/167/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs561
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1239
-[/us/pl/100/461/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs564
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-40
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/96/92/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs28
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F711
-[/us/pl/97/113/s734/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F11
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/426/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs705
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F992
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/95/105/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs505
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F858
-[/us/pl/97/241/s505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F3
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/95/88/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs132
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F544
-[/us/pl/97/113/s734/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F6
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/88/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs133
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F544
-[/us/pl/96/53/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs123
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F366
-[/us/pl/97/113/s734/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F6
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/93/189/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs40
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F736
 [/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
 [/us/stat/78/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1015
-[/us/pl/91/194/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2Fs105
+[/us/pl/91/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2FtI
 [/us/stat/84/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F7
-[/us/pl/90/581/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2Fs105
+[/us/pl/90/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2FtI
 [/us/stat/82/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1139
-[/us/pl/90/249/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2Fs105
+[/us/pl/90/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2FtI
 [/us/stat/81/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F938
-[/us/pl/89/691/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F691%2Fs105
+[/us/pl/89/691/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F691%2FtI
 [/us/stat/80/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1020
-[/us/pl/89/273/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F273%2Fs105
+[/us/pl/89/273/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F273%2FtI
 [/us/stat/79/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1003
-[/us/pl/88/634/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F634%2Fs105
+[/us/pl/88/634/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F634%2FtI
 [/us/stat/78/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1017
-[/us/pl/88/258/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F258%2Fs105
+[/us/pl/88/258/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F258%2FtI
 [/us/stat/77/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F858
-[/us/pl/87/872/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F872%2Fs105
+[/us/pl/87/872/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F872%2FtI
 [/us/stat/76/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1164
-[/us/pl/87/329/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329%2Fs107
+[/us/pl/87/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329%2FtI
 [/us/stat/75/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F718
-[/us/pl/86/704/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F704%2Fs107
+[/us/pl/86/704/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F704%2FtI
 [/us/stat/74/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F779
-[/us/pl/86/383/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F383%2Fs112
+[/us/pl/86/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F383%2FtI
 [/us/stat/73/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F720
-[/us/pl/85/853/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F853%2Fs105
+[/us/pl/85/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F853
 [/us/stat/72/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1101
-[/us/pl/85/279/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F279%2Fs109
+[/us/pl/85/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F279
 [/us/stat/71/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F604
-[/us/act/1956-07-31/ch803/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch803%2Fs108
+[/us/act/1956-07-31/ch803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch803
 [/us/stat/70/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F735
-[/us/act/1955-07-08/ch301/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-08%2Fch301%2Fs12
+[/us/act/1955-07-08/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-08%2Fch301
 [/us/stat/69/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F290
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
-[/us/pl/110/53/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2002
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F508
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/107/228/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1002
+[/us/pl/107/228/dB/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtX
 [/us/stat/116/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1425
 [/us/usc/t22/s2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794
 [/us/usc/t22/s2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794

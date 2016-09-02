@@ -17,11 +17,11 @@
 
     Any person in the employ or service of the Government of the United States, while assigned for service to or in cooperation with another government under the authority of this chapter, shall be considered, for the purpose of preserving his rights, allowances, and privileges as such, an officer or employee of the Government of the United States and of the Government agency from which assigned and he shall continue to receive compensation from that agency. He may also receive, under such regulations as the President may prescribe, representation allowances similar to those allowed under [section 4085 of this title][/us/usc/t22/s4085]. The authorization of such allowances and other benefits and the payment thereof out of any appropriations available therefor shall be considered as meeting all the requirements of [section 5536 of title 5][/us/usc/t5/s5536].
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title III, § 302, [62 Stat. 8][/us/stat/62/8]; [Pub. L. 97–241, title III, § 304(a)(1)(B)][/us/pl/97/241/s304/a/1/B], (3), Aug. 24, 1982, [96 Stat. 292][/us/stat/96/292].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title III, § 302, [62 Stat. 8][/us/stat/62/8]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 304(a)(1)(B), (3), Aug. 24, 1982, [96 Stat. 292][/us/stat/96/292].)
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–241][/us/pl/97/241] substituted “person in the employ or service of the Government of the United States” for “citizen of the United States”, “[section 4085 of this title][/us/usc/t22/s4085]” for “[section 1131(3) of this title][/us/usc/t22/s1131/3]”, and “[section 5536 of title 5][/us/usc/t5/s5536]” for “section 1765 of the Revised Statutes”. Prior to the amendment by [Pub. L. 97–241][/us/pl/97/241], “[section 5536 of title 5][/us/usc/t5/s5536]” had been substituted for “section 1765 of the Revised Statutes” (which was formerly classified to [section 70 of title 5][/us/usc/t5/s70]) on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees, thereby requiring no change in text.
+    1982—[Pub. L. 97–241][/us/pl/97/241] substituted “person in the employ or service of the Government of the United States” for “citizen of the United States”, “[section 4085 of this title][/us/usc/t22/s4085]” for “[section 1131(3) of this title][/us/usc/t22/s1131/3]”, and “[section 5536 of title 5][/us/usc/t5/s5536]” for “section 1765 of the Revised Statutes”. Prior to the amendment by [Pub. L. 97–241][/us/pl/97/241], “[section 5536 of title 5][/us/usc/t5/s5536]” had been substituted for “section 1765 of the Revised Statutes” (which was formerly classified to [section 70 of title 5][/us/usc/t5/s70]) on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees, thereby requiring no change in text.
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F8
-[/us/pl/97/241/s304/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs304%2Fa%2F1%2FB
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F292
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/usc/t22/s4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4085
@@ -43,7 +43,7 @@
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
 [/us/usc/t5/s70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs70
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 
 

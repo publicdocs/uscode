@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective three months after Aug. 13, 1946, see [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1141, [60 Stat. 1040][/us/stat/60/1040].
+    Repeal effective three months after Aug. 13, 1946, see [act Aug. 13, 1946, ch. 957, title XI][/us/act/1946-08-13/ch957/tXI], § 1141, [60 Stat. 1040][/us/stat/60/1040].
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1036
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/act/1946-08-13/ch957/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957%2FtXI
 [/us/stat/60/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1040
 
 

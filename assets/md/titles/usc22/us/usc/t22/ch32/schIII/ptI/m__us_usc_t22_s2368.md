@@ -41,13 +41,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 2368, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 618, as added [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(c), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260], related to payment to the United States regarding the Settlement of Postwar Economic Assistance to Japan, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424], §§ 604, 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
+    A prior section 2368, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 618, as added [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(c), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260], related to payment to the United States regarding the Settlement of Postwar Economic Assistance to Japan, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], §§ 604, 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
 
     Another prior section 2368, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 618, Sept. 4, 1961, [75 Stat. 444][/us/stat/75/444], related to economic assistance to Latin America, prior to repeal by [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(c), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260].
 
  __Findings__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XVI, § 1602, Oct. 14, 2008, [122 Stat. 4653][/us/stat/122/4653], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(18)][/us/pl/111/383/s1075/e/18], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that: 
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XVI, § 1602, Oct. 14, 2008, [122 Stat. 4653][/us/stat/122/4653], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(18), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that: 
 
 > “Congress finds the following:
 
@@ -103,7 +103,7 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/stat/76/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F260
-[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F444
@@ -111,7 +111,7 @@
 [/us/stat/76/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F260
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4653
-[/us/pl/111/383/s1075/e/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F18
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4657

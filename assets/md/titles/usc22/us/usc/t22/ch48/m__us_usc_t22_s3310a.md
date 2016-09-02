@@ -17,7 +17,7 @@
 
     The American Institute of Taiwan shall employ personnel to perform duties similar to those performed by personnel of the United States and Foreign Commercial Service. The number of individuals employed shall be commensurate with the number of United States personnel of the Commercial Service who are permanently assigned to the United States diplomatic mission to South Korea.
 
-([Pub. L. 100–418, title II, § 2201][/us/pl/100/418/s2201], Aug. 23, 1988, [102 Stat. 1327][/us/stat/102/1327].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2201, Aug. 23, 1988, [102 Stat. 1327][/us/stat/102/1327].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2201
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1327
 
 

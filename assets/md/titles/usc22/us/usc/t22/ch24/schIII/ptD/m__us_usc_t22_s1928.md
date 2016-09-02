@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1925.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1926 _us_usc_t22_s1927.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
 
 ## § 1928. North Atlantic Treaty Organization
 
@@ -27,7 +27,7 @@
 
         Persons detailed to the international staff of the North Atlantic Treaty Organization in accordance with [section 2388 of this title][/us/usc/t22/s2388] who are members of the Foreign Service serving under limited appointments may serve for periods of more than five years notwithstanding the limitation in section 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3949][/us/usc/t22/s3949]\].
 
-([Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title IV, § 408, [68 Stat. 845][/us/stat/68/845]; [Pub. L. 85–141, § 8(h)][/us/pl/85/141/s8/h], Aug. 14, 1957, [71 Stat. 361][/us/stat/71/361]; [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(h), July 24, 1959, [73 Stat. 250][/us/stat/73/250]; [Pub. L. 96–465, title II, § 2206(a)(6)][/us/pl/96/465/s2206/a/6], Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161].)
+([Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title IV, § 408, [68 Stat. 845][/us/stat/68/845]; [Pub. L. 85–141][/us/pl/85/141], § 8(h), Aug. 14, 1957, [71 Stat. 361][/us/stat/71/361]; [Pub. L. 86–108][/us/pl/86/108], ch. II, § 205(h), July 24, 1959, [73 Stat. 250][/us/stat/73/250]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(6), Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161].)
 
  __References in Text__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–465, § 2206(a)(6)(A)][/us/pl/96/465/s2206/a/6/A], substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended ([22 U.S.C. 801][/us/usc/t22/s801]),”.
+    1980—Subsec. (a). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(6)(A), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended ([22 U.S.C. 801][/us/usc/t22/s801]),”.
 
-    Subsec. (b). [Pub. L. 96–465, § 2206(a)(6)(B)][/us/pl/96/465/s2206/a/6/B], substituted “chief of mission under the Foreign Service Act of 1980” for “chief of mission, class 1, within the meaning of the Foreign Service Act of 1946, as amended ([22 U.S.C. 801][/us/usc/t22/s801])”.
+    Subsec. (b). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(6)(B), substituted “chief of mission under the Foreign Service Act of 1980” for “chief of mission, class 1, within the meaning of the Foreign Service Act of 1946, as amended ([22 U.S.C. 801][/us/usc/t22/s801])”.
 
-    Subsec. (c). [Pub. L. 96–465, § 2206(a)(6)(C)][/us/pl/96/465/s2206/a/6/C], among other changes, substituted references to sections 2388 and 3949 of this title for references to sections 1789 and 922 of this title, respectively, and reference to members of the Foreign Service for reference to Foreign Service Reserve officers.
+    Subsec. (c). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(6)(C), among other changes, substituted references to sections 2388 and 3949 of this title for references to sections 1789 and 922 of this title, respectively, and reference to members of the Foreign Service for reference to Foreign Service Reserve officers.
 
     1959—Subsec. (c). [Pub. L. 86–108][/us/pl/86/108] substituted “five years” for “four years”.
 
@@ -55,7 +55,7 @@
 
  __Annual Report Regarding NATO Special Operations Headquarters__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1244(d)][/us/pl/111/84/s1244/d], as added [Pub. L. 112–239, div. A, title XII, § 1272(b)][/us/pl/112/239/s1272/b], Jan. 2, 2013, [126 Stat. 2023][/us/stat/126/2023], provided that: 
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1244(d), as added [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1272(b), Jan. 2, 2013, [126 Stat. 2023][/us/stat/126/2023], provided that: 
 
 > “Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report regarding support for the NSHQ \[NATO Special Operations Headquarters\]. Each report shall include the following:
 
@@ -79,7 +79,7 @@
 
  __Report on Host Countries Assuming Greater Share of Common Defense Burden__ 
 
-[Pub. L. 111–117, div. E, title I, § 118][/us/pl/111/117/s118], Dec. 16, 2009, [123 Stat. 3293][/us/stat/123/3293], provided that:
+[Pub. L. 111–117, div. E, title I][/us/pl/111/117/dE/tI], § 118, Dec. 16, 2009, [123 Stat. 3293][/us/stat/123/3293], provided that:
 
 >     “(a) The Secretary of Defense, in consultation with the Secretary of State, shall submit to the Committees on Appropriations of both Houses of Congress, by February 15 of each year, an annual report in unclassified and, if necessary, classified form, on actions taken by the Department of Defense and the Department of State during the previous fiscal year to encourage host countries to assume a greater share of the common defense burden of such countries and the United States.
 
@@ -101,9 +101,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 110–329, div. E, title I, § 118][/us/pl/110/329/s118], Sept. 30, 2008, [122 Stat. 3698][/us/stat/122/3698].
+    [Pub. L. 110–329, div. E, title I][/us/pl/110/329/dE/tI], § 118, Sept. 30, 2008, [122 Stat. 3698][/us/stat/122/3698].
 
-    [Pub. L. 110–161, div. I, title I, § 118][/us/pl/110/161/s118], Dec. 26, 2007, [121 Stat. 2259][/us/stat/121/2259].
+    [Pub. L. 110–161, div. I, title I][/us/pl/110/161/dI/tI], § 118, Dec. 26, 2007, [121 Stat. 2259][/us/stat/121/2259].
 
  __NATO Freedom Consolidation__ 
 
@@ -217,7 +217,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Annual Report on the NATO Prague Capabilities Commitment and the NATO Response Force__ 
 
-[Pub. L. 108–136, div. A, title XII, § 1231][/us/pl/108/136/s1231], Nov. 24, 2003, [117 Stat. 1654][/us/stat/117/1654], provided that:
+[Pub. L. 108–136, div. A, title XII][/us/pl/108/136/dA/tXII], § 1231, Nov. 24, 2003, [117 Stat. 1654][/us/stat/117/1654], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -291,7 +291,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Sense of Congress on Cooperation by United States and NATO With Russia on Ballistic Missile Defenses__ 
 
-[Pub. L. 108–136, div. C, title XXXVI, § 3623][/us/pl/108/136/s3623], Nov. 24, 2003, [117 Stat. 1824][/us/stat/117/1824], provided that:
+[Pub. L. 108–136, div. C, title XXXVI][/us/pl/108/136/dC/tXXXVI], § 3623, Nov. 24, 2003, [117 Stat. 1824][/us/stat/117/1824], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -387,7 +387,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Reports on Burdensharing of Future NATO Operations__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1221(b)–(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–328, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1221(b)–(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–328, provided that:
 
 >     “(b)  __Report on Burdensharing of Future NATO Operations__  __.—__ 
 
@@ -407,7 +407,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __European Security__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVII, Oct. 21, 1998, [112 Stat. 2681–839][/us/stat/112/2681-839], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 209(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423, provided that:
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXVII, Oct. 21, 1998, [112 Stat. 2681–839][/us/stat/112/2681-839], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 209(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423, provided that:
 
 > “SEC. 2701. __SHORT TITLE.__ 
 
@@ -497,7 +497,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(1)  __Designation of additional countries__  __.—__ 
 
->         Romania, Estonia, Latvia, Lithuania, and Bulgaria are each designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[[Pub. L. 103–447, title II][/us/pl/103/447]\] ([22 U.S.C. 1928][/us/usc/t22/s1928] note) and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
+>         Romania, Estonia, Latvia, Lithuania, and Bulgaria are each designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[[Pub. L. 103–447, title II][/us/pl/103/447/tII]\] ([22 U.S.C. 1928][/us/usc/t22/s1928] note) and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
 >         “(2)  __Rule of construction__  __.—__ 
 
@@ -531,7 +531,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         Funds described in this paragraph are funds that are available—
 
->             “(A) during any fiscal year under the NATO Participation Act of 1994 \[[Pub. L. 103–447, title II][/us/pl/103/447], set out as a note below\] with respect to countries eligible for assistance under that Act; or
+>             “(A) during any fiscal year under the NATO Participation Act of 1994 \[[Pub. L. 103–447, title II][/us/pl/103/447/tII], set out as a note below\] with respect to countries eligible for assistance under that Act; or
 
 >             “(B) during fiscal year 1998 under any Act to carry out the Warsaw Initiative.
 
@@ -607,11 +607,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         The term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972 (23 UST 3435), and includes the Protocols to that Treaty, signed at Moscow on July 3, 1974 (27 UST 1645).”
 
-    \[Memorandum of President of the United States, Mar. 3, 2000, 66 F.R. 3851, delegated to the Secretary of Defense the duties and responsibilities of the President under [section 2705(d) of div. G of Pub. L. 105–277][/us/pl/105/277/s2705/d], set out above, with such duties and responsibilities to be exercised subject to the concurrence of the Secretary of State, authorized redelegation not lower than the Under Secretary level of the delegated reporting requirements, and provided that the Department of Defense was to obtain clearance on the report from the Office of Management and Budget prior to its submission to Congress.\]
+    \[Memorandum of President of the United States, Mar. 3, 2000, 66 F.R. 3851, delegated to the Secretary of Defense the duties and responsibilities of the President under [section 2705(d) of div. G of Pub. L. 105–277][/us/pl/105/277/dG/s2705/d], set out above, with such duties and responsibilities to be exercised subject to the concurrence of the Secretary of State, authorized redelegation not lower than the Under Secretary level of the delegated reporting requirements, and provided that the Department of Defense was to obtain clearance on the report from the Office of Management and Budget prior to its submission to Congress.\]
 
  __Limitation on United States Share of Costs of NATO Expansion__ 
 
-[Pub. L. 105–261, div. A, title XII, § 1221][/us/pl/105/261/s1221], Oct. 17, 1998, [112 Stat. 2152][/us/stat/112/2152], provided that:
+[Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1221, Oct. 17, 1998, [112 Stat. 2152][/us/stat/112/2152], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -627,11 +627,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Reports on Development of European Security and Defense Identity__ 
 
-    [Pub. L. 105–261, div. A, title XII, § 1223][/us/pl/105/261/s1223], Oct. 17, 1998, [112 Stat. 2154][/us/stat/112/2154], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], required the submission of reports by the Secretary of Defense on the development of the European Security and Defense Identity within the NATO Alliance, prior to repeal by [Pub. L. 108–136, div. A, title X, § 1031(g)(2)][/us/pl/108/136/s1031/g/2], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604].
+    [Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1223, Oct. 17, 1998, [112 Stat. 2154][/us/stat/112/2154], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], required the submission of reports by the Secretary of Defense on the development of the European Security and Defense Identity within the NATO Alliance, prior to repeal by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(g)(2), Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604].
 
  __NATO Enlargement Facilitation__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title VI\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–173, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title VI\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–173, provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
@@ -819,7 +819,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Defense Burdensharing__ 
 
-[Pub. L. 105–85, div. A, title XII, § 1221][/us/pl/105/85/s1221], Nov. 18, 1997, [111 Stat. 1935][/us/stat/111/1935], as amended by [Pub. L. 105–261, div. A, title XII, § 1233][/us/pl/105/261/s1233], Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(e)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, provided that:
+[Pub. L. 105–85, div. A, title XII][/us/pl/105/85/dA/tXII], § 1221, Nov. 18, 1997, [111 Stat. 1935][/us/stat/111/1935], as amended by [Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1233, Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(e)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, provided that:
 
 >     “(a)  __Efforts To Increase Allied Burdensharing__  __.—__ 
 
@@ -885,15 +885,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) The President shall submit to Congress a report on the review under paragraph (1). The report shall be submitted not later than March 1, 1999, in classified and unclassified form.”
 
-    \[[Pub. L. 105–261, div. A, title XII, § 1233(a)][/us/pl/105/261/s1233/a], Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156], provided that the amendments made by that section to [section 1221(a) of Pub. L. 105–85][/us/pl/105/85/s1221/a], set out above, are effective Oct. 1, 1998.\]
+    \[[Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1233(a), Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156], provided that the amendments made by that section to [section 1221(a) of Pub. L. 105–85][/us/pl/105/85/s1221/a], set out above, are effective Oct. 1, 1998.\]
 
     Similar provisions were contained in the following prior authorization act:
 
-    [Pub. L. 104–201, div. A, title X, § 1084][/us/pl/104/201/s1084], Sept. 23, 1996, [110 Stat. 2673][/us/stat/110/2673], as amended by [Pub. L. 108–136, div. A, title X, § 1045(e)][/us/pl/108/136/s1045/e], Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613].
+    [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1084, Sept. 23, 1996, [110 Stat. 2673][/us/stat/110/2673], as amended by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(e), Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613].
 
  __Nato Participation__ 
 
-[Pub. L. 103–447, title II][/us/pl/103/447], Nov. 2, 1994, [108 Stat. 4695][/us/stat/108/4695], as amended by [Pub. L. 104–107, title V, § 585][/us/pl/104/107/s585], Feb. 12, 1996, [110 Stat. 752][/us/stat/110/752]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title VI, § 612\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–178; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVII, § 2703(e), Oct. 21, 1998, [112 Stat. 2681–842][/us/stat/112/2681-842], provided that:
+[Pub. L. 103–447, title II][/us/pl/103/447/tII], Nov. 2, 1994, [108 Stat. 4695][/us/stat/108/4695], as amended by [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 585, Feb. 12, 1996, [110 Stat. 752][/us/stat/110/752]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title VI, § 612\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–178; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXVII, § 2703(e), Oct. 21, 1998, [112 Stat. 2681–842][/us/stat/112/2681-842], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -1027,7 +1027,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Cost-Sharing Policy__ 
 
-[Pub. L. 103–337, div. A, title XIII, § 1313(a)][/us/pl/103/337/s1313/a]–(d), Oct. 5, 1994, [108 Stat. 2894][/us/stat/108/2894], 2895, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1238(b), Oct. 14, 2008, [122 Stat. 4644][/us/stat/122/4644], provided that:
+[Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1313(a)–(d), Oct. 5, 1994, [108 Stat. 2894][/us/stat/108/2894], 2895, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1238(b), Oct. 14, 2008, [122 Stat. 4644][/us/stat/122/4644], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -1045,9 +1045,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Implementation of Partnership for Peace__ 
 
-[Pub. L. 103–236, title V, § 514][/us/pl/103/236/s514], Apr. 30, 1994, [108 Stat. 467][/us/stat/108/467], as amended by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 514, Apr. 30, 1994, [108 Stat. 467][/us/stat/108/467], as amended by [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
 
->     “\[(a) Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]
+>     “\[(a) Repealed. [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]
 
 >     “(b)  __Authority of the President__  __.—__ 
 
@@ -1057,7 +1057,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Defense Cost-Sharing__ 
 
-[Pub. L. 102–190, div. A, title X, § 1046][/us/pl/102/190/s1046], Dec. 5, 1991, [105 Stat. 1466][/us/stat/105/1466], as amended by [Pub. L. 103–160, div. A, title XIV, § 1412(b)][/us/pl/103/160/s1412/b], Nov. 30, 1993, [107 Stat. 1829][/us/stat/107/1829]; [Pub. L. 103–337, div. A, title XIII, § 1313(e)][/us/pl/103/337/s1313/e], Oct. 5, 1994, [108 Stat. 2895][/us/stat/108/2895], provided that:
+[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1046, Dec. 5, 1991, [105 Stat. 1466][/us/stat/105/1466], as amended by [Pub. L. 103–160, div. A, title XIV][/us/pl/103/160/dA/tXIV], § 1412(b), Nov. 30, 1993, [107 Stat. 1829][/us/stat/107/1829]; [Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1313(e), Oct. 5, 1994, [108 Stat. 2895][/us/stat/108/2895], provided that:
 
 >     “(a)  __Defense Cost-Sharing Agreements__  __.—__ 
 
@@ -1115,11 +1115,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Active-Duty Forces in Europe of Member Nations of NATO__ 
 
-    [Pub. L. 101–189, div. A, title IX, § 912][/us/pl/101/189/s912], Nov. 29, 1989, [103 Stat. 1523][/us/stat/103/1523], directed Secretary of Defense to ensure that, for the next three years, the current ratio (expressed as a percentage) of U.S. active duty forces in Europe to allied active duty forces in Europe does not increase by more than a specified amount.
+    [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 912, Nov. 29, 1989, [103 Stat. 1523][/us/stat/103/1523], directed Secretary of Defense to ensure that, for the next three years, the current ratio (expressed as a percentage) of U.S. active duty forces in Europe to allied active duty forces in Europe does not increase by more than a specified amount.
 
  __Sense of Congress on Need for Modernization of Theater Nuclear Capabilities of NATO__ 
 
-[Pub. L. 100–456, div. A, title X, § 1004][/us/pl/100/456/s1004], Sept. 29, 1988, [102 Stat. 2039][/us/stat/102/2039], provided that:
+[Pub. L. 100–456, div. A, title X][/us/pl/100/456/dA/tX], § 1004, Sept. 29, 1988, [102 Stat. 2039][/us/stat/102/2039], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -1149,13 +1149,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Report on Official Development Assistance Program of Japan__ 
 
-[Pub. L. 100–456, div. A, title X, § 1009(b)][/us/pl/100/456/s1009/b], Sept. 29, 1988, [102 Stat. 2041][/us/stat/102/2041], provided that: 
+[Pub. L. 100–456, div. A, title X][/us/pl/100/456/dA/tX], § 1009(b), Sept. 29, 1988, [102 Stat. 2041][/us/stat/102/2041], provided that: 
 
 > “The Secretary of Defense shall include with the annual report submitted pursuant to [section 1003 of Public Law 98–525][/us/pl/98/525/s1003] ([22 U.S.C. 1928][/us/usc/t22/s1928] note) a report on the Official Development Assistance program of the Government of Japan. Such report shall be prepared each year in coordination with the Secretary of State and the Administrator of the Agency for International Development and shall include a description of the amount and nature of spending under such program by recipient, including distinguishing between grant aid, loans, and credits.”
 
  __Japan-United States Security Relationship and Efforts by Japan To Fulfill Self-Defense Responsibilities__ 
 
-[Pub. L. 99–93, title VIII, § 812][/us/pl/99/93/s812], Aug. 16, 1985, [99 Stat. 453][/us/stat/99/453], as amended by [Pub. L. 103–236, title I, § 139(14)][/us/pl/103/236/s139/14], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
+[Pub. L. 99–93, title VIII][/us/pl/99/93/tVIII], § 812, Aug. 16, 1985, [99 Stat. 453][/us/stat/99/453], as amended by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(14), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -1181,7 +1181,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Sense of Congress Relating to Increase in Defense Spending by United States Allies__ 
 
-[Pub. L. 98–525, title X, § 1001][/us/pl/98/525/s1001], Oct. 19, 1984, [98 Stat. 2574][/us/stat/98/2574], provided that: 
+[Pub. L. 98–525, title X][/us/pl/98/525/tX], § 1001, Oct. 19, 1984, [98 Stat. 2574][/us/stat/98/2574], provided that: 
 
 > “It is the sense of Congress that the President—
 
@@ -1191,11 +1191,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     in furtherance of increased unity, equitable sharing of the common defense burden, and international sta­bility.”
 
-    Similar provisions were contained in [Pub. L. 98–473, title I, § 101(e)][/us/pl/98/473/s101/e] \[§ 127\], (h) \[title VIII, § 8105\], Oct. 12, 1984, [98 Stat. 1877][/us/stat/98/1877], 1883, 1904, 1943.
+    Similar provisions were contained in [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(e) \[§ 127\], (h) \[title VIII, § 8105\], Oct. 12, 1984, [98 Stat. 1877][/us/stat/98/1877], 1883, 1904, 1943.
 
  __Improvements to NATO Conventional Capability__ 
 
-[Pub. L. 98–525, title X, § 1002][/us/pl/98/525/s1002], Oct. 19, 1984, [98 Stat. 2574][/us/stat/98/2574], as amended by [Pub. L. 99–145, title XI, § 1101][/us/pl/99/145/s1101], Nov. 8, 1985, [99 Stat. 707][/us/stat/99/707]; [Pub. L. 101–189, div. A, title IX, § 911(a)][/us/pl/101/189/s911/a], Nov. 29, 1989, [103 Stat. 1523][/us/stat/103/1523]; [Pub. L. 101–510, div. A, title IV, § 406][/us/pl/101/510/s406], title XIII, § 1312(c)(1), (2), Nov. 5, 1990, [104 Stat. 1546][/us/stat/104/1546], 1670; [Pub. L. 102–25, title VII, § 704(a)(2)][/us/pl/102/25/s704/a/2], Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118]; [Pub. L. 102–190, div. A, title X, § 1042][/us/pl/102/190/s1042], Dec. 5, 1991, [105 Stat. 1462][/us/stat/105/1462]; [Pub. L. 102–484, div. A, title XIII, § 1303(a)][/us/pl/102/484/s1303/a], Oct. 23, 1992, [106 Stat. 2546][/us/stat/106/2546]; [Pub. L. 103–160, div. A, title XIV, § 1412(a)][/us/pl/103/160/s1412/a], Nov. 30, 1993, [107 Stat. 1828][/us/stat/107/1828]; [Pub. L. 103–337, div. A, title XIII, § 1303(a)][/us/pl/103/337/s1303/a]–(c), Oct. 5, 1994, [108 Stat. 2889][/us/stat/108/2889], 2890; [Pub. L. 104–106, div. A, title XIII, § 1334(a)][/us/pl/104/106/s1334/a], title XV, § 1502(c)(7), Feb. 10, 1996, [110 Stat. 484][/us/stat/110/484], 508; [Pub. L. 106–65, div. A, title X][/us/pl/106/65], §§ 1032(b)(4), 1067(12), Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751], 775, provided that:
+[Pub. L. 98–525, title X][/us/pl/98/525/tX], § 1002, Oct. 19, 1984, [98 Stat. 2574][/us/stat/98/2574], as amended by [Pub. L. 99–145, title XI][/us/pl/99/145/tXI], § 1101, Nov. 8, 1985, [99 Stat. 707][/us/stat/99/707]; [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 911(a), Nov. 29, 1989, [103 Stat. 1523][/us/stat/103/1523]; [Pub. L. 101–510, div. A, title IV][/us/pl/101/510/dA/tIV], § 406, title XIII, § 1312(c)(1), (2), Nov. 5, 1990, [104 Stat. 1546][/us/stat/104/1546], 1670; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(a)(2), Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1042, Dec. 5, 1991, [105 Stat. 1462][/us/stat/105/1462]; [Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1303(a), Oct. 23, 1992, [106 Stat. 2546][/us/stat/106/2546]; [Pub. L. 103–160, div. A, title XIV][/us/pl/103/160/dA/tXIV], § 1412(a), Nov. 30, 1993, [107 Stat. 1828][/us/stat/107/1828]; [Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1303(a)–(c), Oct. 5, 1994, [108 Stat. 2889][/us/stat/108/2889], 2890; [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1334(a), title XV, § 1502(c)(7), Feb. 10, 1996, [110 Stat. 484][/us/stat/110/484], 508; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], §§ 1032(b)(4), 1067(12), Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751], 775, provided that:
 
 >     “(a)
 
@@ -1231,7 +1231,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) Members performing duties in Europe for more than 179 days under a military-to-military contact program under [section 168 of title 10][/us/usc/t10/s168], United States Code.
 
->     “\[(d) Repealed. [Pub. L. 106–65, div. A, title X, § 1032(b)(4)][/us/pl/106/65/s1032/b/4], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751].\]
+>     “\[(d) Repealed. [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1032(b)(4), Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751].\]
 
 >     “(e)
 
@@ -1245,19 +1245,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) This section may be waived by the President if he declares an emergency and immediately informs the Congress of his action and the reasons therefor.”
 
-\[[Pub. L. 103–337, div. A, title XIII, § 1303(d)][/us/pl/103/337/s1303/d], Oct. 5, 1994, [108 Stat. 2890][/us/stat/108/2890], provided that: 
+\[[Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1303(d), Oct. 5, 1994, [108 Stat. 2890][/us/stat/108/2890], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 1002(c)(1) of Pub. L. 98–525][/us/pl/98/525/s1002/c/1], set out above\] shall take effect on October 1, 1995.”
 
 \]
 
-    \[[Pub. L. 102–484, div. A, title XIII, § 1303(b)][/us/pl/102/484/s1303/b], Oct. 23, 1992, [106 Stat. 2546][/us/stat/106/2546], which provided that the amendment of [section 1002(c)(1) of Pub. L. 98–525][/us/pl/98/525/s1002/c/1], set out above, by [section 1303(a) of Pub. L. 102–484][/us/pl/102/484/s1303/a], take effect Oct. 1, 1995, was repealed by [Pub. L. 103–337, div. A, title XIII, § 1303(c)][/us/pl/103/337/s1303/c], Oct. 5, 1994, [108 Stat. 2890][/us/stat/108/2890].\]
+    \[[Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1303(b), Oct. 23, 1992, [106 Stat. 2546][/us/stat/106/2546], which provided that the amendment of [section 1002(c)(1) of Pub. L. 98–525][/us/pl/98/525/s1002/c/1], set out above, by [section 1303(a) of Pub. L. 102–484][/us/pl/102/484/s1303/a], take effect Oct. 1, 1995, was repealed by [Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1303(c), Oct. 5, 1994, [108 Stat. 2890][/us/stat/108/2890].\]
 
-    \[[Pub. L. 101–189, div. A, title IX, § 911(b)][/us/pl/101/189/s911/b], Nov. 29, 1989, [103 Stat. 1523][/us/stat/103/1523], which provided that the amendment of [section 1002 of Pub. L. 98–525][/us/pl/98/525/s1002], set out above, by [section 911(a) of Pub. L. 101–189][/us/pl/101/189/s911/a], take effect on Sept. 30, 1991, was repealed by [Pub. L. 101–510, div. A, title IV, § 406(c)][/us/pl/101/510/s406/c], Nov. 5, 1990, [104 Stat. 1546][/us/stat/104/1546].\]
+    \[[Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 911(b), Nov. 29, 1989, [103 Stat. 1523][/us/stat/103/1523], which provided that the amendment of [section 1002 of Pub. L. 98–525][/us/pl/98/525/s1002], set out above, by [section 911(a) of Pub. L. 101–189][/us/pl/101/189/s911/a], take effect on Sept. 30, 1991, was repealed by [Pub. L. 101–510, div. A, title IV][/us/pl/101/510/dA/tIV], § 406(c), Nov. 5, 1990, [104 Stat. 1546][/us/stat/104/1546].\]
 
  __Report on Allied Contributions to the Common Defense__ 
 
-[Pub. L. 98–525, title X, § 1003][/us/pl/98/525/s1003], Oct. 19, 1984, [98 Stat. 2576][/us/stat/98/2576], as amended by [Pub. L. 101–510, div. A, title XIII, § 1312(c)(3)][/us/pl/101/510/s1312/c/3], Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 104–201, div. A, title X, § 1084(e)][/us/pl/104/201/s1084/e], Sept. 23, 1996, [110 Stat. 2675][/us/stat/110/2675]; [Pub. L. 108–136, div. A, title X, § 1045(e)][/us/pl/108/136/s1045/e], Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1238(a), Oct. 14, 2008, [122 Stat. 4644][/us/stat/122/4644], provided that:
+[Pub. L. 98–525, title X][/us/pl/98/525/tX], § 1003, Oct. 19, 1984, [98 Stat. 2576][/us/stat/98/2576], as amended by [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1312(c)(3), Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1084(e), Sept. 23, 1996, [110 Stat. 2675][/us/stat/110/2675]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(e), Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1238(a), Oct. 14, 2008, [122 Stat. 4644][/us/stat/122/4644], provided that:
 
 >     “(a)
 
@@ -1289,7 +1289,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(d) The report required under subsection (c) shall be submitted in unclassified form, but may include a classified annex.”
 
-\[[Pub. L. 108–136, div. A, title X, § 1045(e)][/us/pl/108/136/s1045/e], Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613], provided in part that: 
+\[[Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(e), Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613], provided in part that: 
 
 > “The amendment made by the preceding sentence \[amending section 1084(e) of 104–201, set out in the credit of the note above\] shall take effect as if included in [Public Law 104–201][/us/pl/104/201].”
 
@@ -1297,11 +1297,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
     Similar provisions were contained in the following prior authorization act:
 
-    [Pub. L. 98–94, title XI, § 1102][/us/pl/98/94/s1102], Sept. 24, 1983, [97 Stat. 673][/us/stat/97/673].
+    [Pub. L. 98–94, title XI][/us/pl/98/94/tXI], § 1102, Sept. 24, 1983, [97 Stat. 673][/us/stat/97/673].
 
  __NATO Defense Industrial Cooperation__ 
 
-[Pub. L. 97–252, title XI, § 1122][/us/pl/97/252/s1122], Sept. 8, 1982, [96 Stat. 755][/us/stat/96/755], provided that:
+[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1122, Sept. 8, 1982, [96 Stat. 755][/us/stat/96/755], provided that:
 
 >     “(a)
 
@@ -1331,7 +1331,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __North Atlantic Treaty Organization Countries and Japan; Contributions of Allies of United States to Common Defense Commensurate With Economic Resources; Report to Congress__ 
 
-[Pub. L. 96–342, title X, § 1006][/us/pl/96/342/s1006], Sept. 8, 1980, [94 Stat. 1120][/us/stat/94/1120], as amended by [Pub. L. 97–86, title IX, § 919][/us/pl/97/86/s919], Dec. 1, 1981, [95 Stat. 1132][/us/stat/95/1132]; [Pub. L. 97–252, title XI, § 1120][/us/pl/97/252/s1120], Sept. 8, 1982, [96 Stat. 754][/us/stat/96/754], provided that:
+[Pub. L. 96–342, title X][/us/pl/96/342/tX], § 1006, Sept. 8, 1980, [94 Stat. 1120][/us/stat/94/1120], as amended by [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 919, Dec. 1, 1981, [95 Stat. 1132][/us/stat/95/1132]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1120, Sept. 8, 1982, [96 Stat. 754][/us/stat/96/754], provided that:
 
 >     “(a)
 
@@ -1365,7 +1365,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __North Atlantic Treaty Organization; Balance-of-Payments Deficit; Equitable Cost Sharing; Report to Congress__ 
 
-[Pub. L. 93–155, title VIII, § 812][/us/pl/93/155/s812], Nov. 16, 1973, [87 Stat. 619][/us/stat/87/619], provided that:
+[Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 812, Nov. 16, 1973, [87 Stat. 619][/us/stat/87/619], provided that:
 
 >     “(a) The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result of the deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
 
@@ -1413,7 +1413,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1925.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1926 _us_usc_t22_s1927.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928)
 
 ----------
 ----------
@@ -1425,36 +1425,36 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t22/s3949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3949
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/stat/68/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F845
-[/us/pl/85/141/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141%2Fs8%2Fh
+[/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/stat/71/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F361
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F250
-[/us/pl/96/465/s2206/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F6
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2161
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/96/465/s2206/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F6%2FA
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs801
-[/us/pl/96/465/s2206/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F6%2FB
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs801
-[/us/pl/96/465/s2206/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F6%2FC
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s269a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs269a
-[/us/pl/111/84/s1244/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1244%2Fd
-[/us/pl/112/239/s1272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1272%2Fb
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2023
 [/us/pl/111/84/s1244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1244%2Fb
 [/us/stat/123/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2541
-[/us/pl/111/117/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs118
+[/us/pl/111/117/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdE%2FtI
 [/us/stat/123/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3293
-[/us/pl/110/329/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs118
+[/us/pl/110/329/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdE%2FtI
 [/us/stat/122/3698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3698
-[/us/pl/110/161/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs118
+[/us/pl/110/161/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdI%2FtI
 [/us/stat/121/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2259
 [/us/pl/110/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F17
 [/us/stat/121/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F73
@@ -1479,9 +1479,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F187
 [/us/usc/t22/s1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
-[/us/pl/108/136/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1231
+[/us/pl/108/136/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXII
 [/us/stat/117/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1654
-[/us/pl/108/136/s3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3623
+[/us/pl/108/136/dC/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXVI
 [/us/stat/117/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1824
 [/us/pl/107/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F187
 [/us/stat/116/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F590
@@ -1503,28 +1503,28 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
 [/us/stat/114/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F858
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-839
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtII
 [/us/usc/t22/s1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928
-[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtII
 [/us/pl/104/164/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs105
 [/us/stat/110/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1427
 [/us/pl/103/447/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs203%2Fc
-[/us/pl/105/277/s2705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2705%2Fd
-[/us/pl/105/261/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1221
+[/us/pl/105/277/dG/s2705/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2Fs2705%2Fd
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2152
-[/us/pl/105/261/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1223
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2154
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s1031/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fg%2F2
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1604
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 [/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
 [/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
@@ -1541,26 +1541,26 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/pl/103/447/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs203
-[/us/pl/105/85/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1221
+[/us/pl/105/85/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXII
 [/us/stat/111/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1935
-[/us/pl/105/261/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1233
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2156
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/261/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1233%2Fa
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2156
 [/us/pl/105/85/s1221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1221%2Fa
-[/us/pl/104/201/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1084
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2673
-[/us/pl/108/136/s1045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Fe
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1613
-[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtII
 [/us/stat/108/4695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4695
-[/us/pl/104/107/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs585
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F752
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-842
 [/us/usc/t22/s2321j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321j
 [/us/usc/t22/s2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2347
@@ -1579,24 +1579,24 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t10/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2457
 [/us/pl/103/236/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs514%2Fa
 [/us/usc/t22/s1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928
-[/us/pl/103/337/s1313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1313%2Fa
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2894
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4644
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/103/236/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs514
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F467
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/103/236/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs514
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/102/190/s1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1046
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1466
-[/us/pl/103/160/s1412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1412%2Fb
+[/us/pl/103/160/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIV
 [/us/stat/107/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1829
-[/us/pl/103/337/s1313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1313%2Fe
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2895
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -1604,86 +1604,86 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/pl/98/525/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1003
 [/us/usc/t22/s1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928
-[/us/pl/101/189/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs912
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1523
-[/us/pl/100/456/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1004
+[/us/pl/100/456/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtX
 [/us/stat/102/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2039
-[/us/pl/100/456/s1009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1009%2Fb
+[/us/pl/100/456/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtX
 [/us/stat/102/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2041
 [/us/pl/98/525/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1003
 [/us/usc/t22/s1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1928
-[/us/pl/99/93/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs812
+[/us/pl/99/93/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVIII
 [/us/stat/99/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F453
-[/us/pl/103/236/s139/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F14
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/98/525/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1001
+[/us/pl/98/525/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtX
 [/us/stat/98/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2574
-[/us/pl/98/473/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fe
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1877
-[/us/pl/98/525/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1002
+[/us/pl/98/525/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtX
 [/us/stat/98/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2574
-[/us/pl/99/145/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1101
+[/us/pl/99/145/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXI
 [/us/stat/99/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F707
-[/us/pl/101/189/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs911%2Fa
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1523
-[/us/pl/101/510/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs406
+[/us/pl/101/510/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIV
 [/us/stat/104/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1546
-[/us/pl/102/25/s704/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fa%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F118
-[/us/pl/102/190/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1042
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1462
-[/us/pl/102/484/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1303%2Fa
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2546
-[/us/pl/103/160/s1412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1412%2Fa
+[/us/pl/103/160/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIV
 [/us/stat/107/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1828
-[/us/pl/103/337/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1303%2Fa
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2889
-[/us/pl/104/106/s1334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1334%2Fa
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F484
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F751
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
-[/us/pl/106/65/s1032/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1032%2Fb%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F751
-[/us/pl/103/337/s1303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1303%2Fd
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2890
 [/us/pl/98/525/s1002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1002%2Fc%2F1
-[/us/pl/102/484/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1303%2Fb
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2546
 [/us/pl/98/525/s1002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1002%2Fc%2F1
 [/us/pl/102/484/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1303%2Fa
-[/us/pl/103/337/s1303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1303%2Fc
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2890
-[/us/pl/101/189/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs911%2Fb
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1523
 [/us/pl/98/525/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1002
 [/us/pl/101/189/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs911%2Fa
-[/us/pl/101/510/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs406%2Fc
+[/us/pl/101/510/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIV
 [/us/stat/104/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1546
-[/us/pl/98/525/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1003
+[/us/pl/98/525/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtX
 [/us/stat/98/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2576
-[/us/pl/101/510/s1312/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1312%2Fc%2F3
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1670
-[/us/pl/104/201/s1084/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1084%2Fe
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2675
-[/us/pl/108/136/s1045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Fe
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1613
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4644
-[/us/pl/108/136/s1045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Fe
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1613
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/98/94/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1102
+[/us/pl/98/94/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXI
 [/us/stat/97/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F673
-[/us/pl/97/252/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1122
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F755
-[/us/pl/96/342/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs1006
+[/us/pl/96/342/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtX
 [/us/stat/94/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1120
-[/us/pl/97/86/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs919
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1132
-[/us/pl/97/252/s1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1120
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F754
-[/us/pl/93/155/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs812
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F619
 [/us/pl/86/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F719
 [/us/stat/74/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F818

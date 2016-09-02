@@ -17,7 +17,7 @@
 
     Effective on December 29, 1981, the Peace Corps shall be an independent agency within the executive branch and shall not be an agency within the ACTION Agency, the successor to the ACTION Agency, or any other department or agency of the United States.
 
-([Pub. L. 87–293, title I, § 2A][/us/pl/87/293/s2A], as added [Pub. L. 97–113, title VI, § 601(a)][/us/pl/97/113/s601/a], Dec. 29, 1981, [95 Stat. 1540][/us/stat/95/1540]; amended [Pub. L. 103–82, title IV, § 405(e)][/us/pl/103/82/s405/e], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 2A, as added [Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 601(a), Dec. 29, 1981, [95 Stat. 1540][/us/stat/95/1540]; amended [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(e), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Transfer of Functions, Personnel, Etc., to Peace Corps__ 
 
-[Pub. L. 97–113, title VI, § 601(b)][/us/pl/97/113/s601/b], (c), Dec. 29, 1981, [95 Stat. 1540][/us/stat/95/1540], provided that:
+[Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 601(b), (c), Dec. 29, 1981, [95 Stat. 1540][/us/stat/95/1540], provided that:
 
 >     “(b) There are transferred to the Director of the Peace Corps all functions relating to the Peace Corps which were vested in the Director of the ACTION Agency \[now Corporation for National and Community Service\] on the day before the date of the enactment of this Act \[Dec. 29, 1981\].
 
@@ -65,7 +65,7 @@
 
  __References to ACTION Agency or Director of ACTION Agency With Respect to Peace Corps or Director Functions or Activities__ 
 
-[Pub. L. 97–113, title VI, § 601(g)][/us/pl/97/113/s601/g], Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542], provided that: 
+[Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 601(g), Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542], provided that: 
 
 > “References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the ACTION Agency \[now Corporation for National and Community Service\] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
 
@@ -76,23 +76,23 @@
 ----------
 ----------
 
-[/us/pl/87/293/s2A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs2A
-[/us/pl/97/113/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fa
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1540
-[/us/pl/103/82/s405/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fe
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F921
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs406%2Fb
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
-[/us/pl/97/113/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fb
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1540
 [/us/usc/t31/s581c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs581c
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/usc/t22/s2506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2506%2Fa%2F2
 [/us/usc/t22/s2506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2506%2Fa%2F2
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/97/113/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fg
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1542
 
 

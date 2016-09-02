@@ -17,7 +17,7 @@
 
     Any employee of an agency who accepts a limited appointment in the Service with the consent of the head of the agency in which the employee is employed shall be entitled, upon the termination of such limited appointment, to be reemployed in accordance with [section 3597 of title 5][/us/usc/t5/s3597].
 
-([Pub. L. 96–465, title I, § 310][/us/pl/96/465/s310], Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 310, Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087].)
 
  __Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3597
-[/us/pl/96/465/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs310
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2087
 [/us/usc/t22/s1787/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1787%2Fc
 [/us/usc/t22/s2385/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385%2Fd

@@ -17,7 +17,7 @@
 
     For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Fund in accordance with the agreement, the Fund shall be deemed to be an inhabitant of the Federal judicial district in which its principal office or agency appointed for the purpose of accepting service or notice of service is located, and any such action to which the Fund shall be party shall be deemed to arise under the laws of the United States, and the district courts of the United States (including the courts enumerated in [section 460 of title 28][/us/usc/t28/s460]) shall have original jurisdiction of any such action. When the Fund is defendant in any action in a State court, it may, at any time before the trial thereof, remove such action into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
-([Pub. L. 94–302, title II, § 208][/us/pl/94/302/s208], May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 208, May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
-[/us/pl/94/302/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs208
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F594
 
 

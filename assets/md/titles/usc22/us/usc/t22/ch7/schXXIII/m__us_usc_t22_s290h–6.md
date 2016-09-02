@@ -17,11 +17,11 @@
 
     The Foundation shall be subject to the provisions of chapter 91 of title 31 applicable to wholly owned Government corporations.
 
-([Pub. L. 96–533, title V, § 508][/us/pl/96/533/s508], Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 508, Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155].)
 
  __Codification__ 
 
-    “The provisions of chapter 91 of title 31 applicable to wholly owned Government corporations” substituted in text for “title I of the Government Corporation Control Act \[[31 U.S.C. 846][/us/usc/t31/s846] et seq.\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “The provisions of chapter 91 of title 31 applicable to wholly owned Government corporations” substituted in text for “title I of the Government Corporation Control Act \[[31 U.S.C. 846][/us/usc/t31/s846] et seq.\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/96/533/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs508
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3155
 [/us/usc/t31/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs846
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

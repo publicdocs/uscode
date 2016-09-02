@@ -23,7 +23,7 @@
 
         For purposes of title 26, the Institute shall be treated as an organization described in sections 170(b)(1)(A), 170(c), 2055(a), 2106(a)(2)(A), 2522(a), and 2522(b) of title 26.
 
-([Pub. L. 96–8, § 8][/us/pl/96/8/s8], Apr. 10, 1979, [93 Stat. 17][/us/stat/93/17]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–8][/us/pl/96/8], § 8, Apr. 10, 1979, [93 Stat. 17][/us/stat/93/17]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t22/s3310/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3310%2Fa%2F3
-[/us/pl/96/8/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs8
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F17
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F415

@@ -17,7 +17,7 @@
 
     Not later than 120 days after February 7, 2014, and annually thereafter, the Secretary of State shall submit to Congress a report on efforts by Mexico to meet its treaty deliveries of water to the Rio Grande in accordance with the Treaty between the United States and Mexico Respecting Utilization of waters of the Colorado and Tijuana Rivers and of the Rio Grande (done at Washington, February 3, 1944).
 
-([Pub. L. 113–79, title XII, § 12310][/us/pl/113/79/s12310], Feb. 7, 2014, [128 Stat. 991][/us/stat/128/991].)
+([Pub. L. 113–79, title XII][/us/pl/113/79/tXII], § 12310, Feb. 7, 2014, [128 Stat. 991][/us/stat/128/991].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/79/s12310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12310
+[/us/pl/113/79/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtXII
 [/us/stat/128/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F991
 
 

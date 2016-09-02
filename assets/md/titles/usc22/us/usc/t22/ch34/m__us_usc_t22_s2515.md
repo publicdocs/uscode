@@ -55,21 +55,21 @@
 
         Each year the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on funds transferred under this section.
 
-([Pub. L. 87–293, title I, § 16][/us/pl/87/293/s16], as added [Pub. L. 102–565, § 2(a)][/us/pl/102/565/s2/a], Oct. 28, 1992, [106 Stat. 4265][/us/stat/106/4265].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 16, as added [Pub. L. 102–565][/us/pl/102/565], § 2(a), Oct. 28, 1992, [106 Stat. 4265][/us/stat/106/4265].)
 
  __Prior Provisions__ 
 
-    A prior section 2515, [Pub. L. 87–293, title I, § 16][/us/pl/87/293/s16], Sept. 22, 1961, [75 Stat. 622][/us/stat/75/622], related to appointment of persons serving under prior law, prior to repeal by [Pub. L. 89–572, § 5(a)][/us/pl/89/572/s5/a], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765].
+    A prior section 2515, [Pub. L. 87–293, title I][/us/pl/87/293/tI], § 16, Sept. 22, 1961, [75 Stat. 622][/us/stat/75/622], related to appointment of persons serving under prior law, prior to repeal by [Pub. L. 89–572][/us/pl/89/572], § 5(a), Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765].
 
  __Effective Date__ 
 
-[Pub. L. 102–565, § 2(b)][/us/pl/102/565/s2/b], Oct. 28, 1992, [106 Stat. 4266][/us/stat/106/4266], provided that: 
+[Pub. L. 102–565][/us/pl/102/565], § 2(b), Oct. 28, 1992, [106 Stat. 4266][/us/stat/106/4266], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] applies with respect to each fiscal year after fiscal year 1992.”
 
  __Repeals; Amendments and Application of Amendments Unaffected; Continuation of Determinations, Authorization, Regulations, Orders, Contracts, Agreements, and Other Actions__ 
 
-[Pub. L. 89–572, § 5][/us/pl/89/572/s5], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765], provided that:
+[Pub. L. 89–572][/us/pl/89/572], § 5, Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765], provided that:
 
 >     “(a) Section 16 of the Peace Corps Act, as amended \[former [section 2515 of this title][/us/usc/t22/s2515]\], which relates to appointment of persons serving under prior law, section 20 of the Peace Corps Act, as amended, which relates to moratorium on student loans \[amending [section 425 of Title 20][/us/usc/t20/s425], Education\], section 21 of the Peace Corps Act, as amended, which amends the Civil Service Retirement Act \[section 8301 et seq. of Title 5, Government Organization and Employees\], and title II of the Act, which relates to Internal Revenue Code and Social Security Act amendments \[amending sections 912, 1303, 3121, 3122, 3401 and 6051 of Title 26, Internal Revenue Code, and sections 405, 409 and 410 of Title 42, The Public Health and Welfare, and notes under sections 912 and 3121 of Title 26\] are hereby repealed.
 
@@ -82,16 +82,16 @@
 ----------
 ----------
 
-[/us/pl/87/293/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs16
-[/us/pl/102/565/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565%2Fs2%2Fa
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/102/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565
 [/us/stat/106/4265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4265
-[/us/pl/87/293/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs16
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F622
-[/us/pl/89/572/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs5%2Fa
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
-[/us/pl/102/565/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565%2Fs2%2Fb
+[/us/pl/102/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565
 [/us/stat/106/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4266
-[/us/pl/89/572/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs5
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
 [/us/usc/t22/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2515
 [/us/usc/t20/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs425

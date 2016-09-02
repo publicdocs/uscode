@@ -71,7 +71,7 @@
 
         Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.
 
-([Pub. L. 105–277, div. I, title V, § 501][/us/pl/105/277/s501], Oct. 21, 1998, [112 Stat. 2681–883][/us/stat/112/2681-883].)
+([Pub. L. 105–277, div. I, title V][/us/pl/105/277/dI/tV], § 501, Oct. 21, 1998, [112 Stat. 2681–883][/us/stat/112/2681-883].)
 
  __Delegation of Functions__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t22/s6726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6726
 [/us/usc/t22/s6745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6745
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/105/277/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs501
+[/us/pl/105/277/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtV
 [/us/stat/112/2681-883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-883
 [/us/usc/t22/s6711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6711
 

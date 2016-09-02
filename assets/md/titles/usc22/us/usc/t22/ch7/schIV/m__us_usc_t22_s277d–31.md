@@ -21,7 +21,7 @@
 
     (2) Upon completion of construction, not to exceed $25,000 based on estimated calendar year 1976 costs, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually for costs of operation and maintenance.
 
-([Pub. L. 89–584, § 2][/us/pl/89/584/s2], Sept. 19, 1966, [80 Stat. 808][/us/stat/80/808]; [Pub. L. 93–126, § 7(a)][/us/pl/93/126/s7/a], Oct. 18, 1973, [87 Stat. 452][/us/stat/87/452]; [Pub. L. 95–105, title V, § 514(a)][/us/pl/95/105/s514/a], Aug. 17, 1977, [91 Stat. 862][/us/stat/91/862].)
+([Pub. L. 89–584][/us/pl/89/584], § 2, Sept. 19, 1966, [80 Stat. 808][/us/stat/80/808]; [Pub. L. 93–126][/us/pl/93/126], § 7(a), Oct. 18, 1973, [87 Stat. 452][/us/stat/87/452]; [Pub. L. 95–105, title V][/us/pl/95/105/tV], § 514(a), Aug. 17, 1977, [91 Stat. 862][/us/stat/91/862].)
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t22/s277d–30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9330
-[/us/pl/89/584/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F584%2Fs2
+[/us/pl/89/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F584
 [/us/stat/80/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F808
-[/us/pl/93/126/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs7%2Fa
+[/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126
 [/us/stat/87/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F452
-[/us/pl/95/105/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs514%2Fa
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F862
 [/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
 [/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126

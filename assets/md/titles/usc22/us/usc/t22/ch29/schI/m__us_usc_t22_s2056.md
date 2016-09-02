@@ -27,7 +27,7 @@
 
         The Director of the United States Information Agency shall make periodic reports, as he deems necessary, to the Congress with respect to his activities under the provisions of this subchapter, and such reports shall include any recommendations for needed revisions in this subchapter.
 
-([Pub. L. 86–472][/us/pl/86/472], ch. VII, § 704, May 14, 1960, [74 Stat. 141][/us/stat/74/141]; [Pub. L. 96–465, title II, § 2206(a)(8)][/us/pl/96/465/s2206/a/8], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 96–470, title II, § 212(b)][/us/pl/96/470/s212/b], Oct. 19, 1980, [94 Stat. 2246][/us/stat/94/2246]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
+([Pub. L. 86–472][/us/pl/86/472], ch. VII, § 704, May 14, 1960, [74 Stat. 141][/us/stat/74/141]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(8), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 212(b), Oct. 19, 1980, [94 Stat. 2246][/us/stat/94/2246]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
 
  __References in Text__ 
 
@@ -60,13 +60,13 @@
 [/us/usc/t22/s2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2697
 [/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
 [/us/stat/74/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F141
-[/us/pl/96/465/s2206/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F8
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
-[/us/pl/96/470/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs212%2Fb
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2246
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F6

@@ -11,100 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1199.md) | [Next](./../../../..//us/usc/t22/ch15/m__us_usc_t22_ch15.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14A)
+[Previous](./../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1200...1204.md) | [Next](./../../../..//us/usc/t22/ch14A/m__us_usc_t22_s1221...1234.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14A)
 
 ## CHAPTER 14A—FOREIGN SERVICE INFORMATION OFFICERS CORPS
 
-§§ 1221 to 1234. __Repealed.__  __[__  __Pub. L. 96–465, title II, § 2205(6)__  __][/us/pl/96/465/s2205/6]__  __,__  __Oct. 17, 1980__  __,__  __[__  __94 Stat. 2160__  __][/us/stat/94/2160]__ 
-
-    Section 1221, [Pub. L. 90–494, § 1][/us/pl/90/494/s1], Aug. 20, 1968, [82 Stat. 810][/us/stat/82/810]; [Pub. L. 95–426, title II, § 204(b)(1)][/us/pl/95/426/s204/b/1], Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973], related to establishment of a category of officers of United States Information Agency known as Foreign Service information officers.
-
-    Section 1222, [Pub. L. 90–494, § 2][/us/pl/90/494/s2], Aug. 20, 1968, [82 Stat. 810][/us/stat/82/810]; [Pub. L. 95–426, title II, § 204(b)(1)][/us/pl/95/426/s204/b/1], Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973], related to Congressional statement of policy with respect to Foreign Service Information Officer Corps.
-
-    Section 1223, [Pub. L. 90–494, § 3][/us/pl/90/494/s3], Aug. 20, 1968, [82 Stat. 810][/us/stat/82/810], related to Congressional statement of purpose with respect to Foreign Service Information Officer Corps.
-
-    Section 1224, [Pub. L. 90–494, § 4][/us/pl/90/494/s4], Aug. 20, 1968, [82 Stat. 811][/us/stat/82/811]; [Pub. L. 95–426, title II, § 204(b)(2)][/us/pl/95/426/s204/b/2], Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973], related to authority of Director of United States Information Agency. See [section 3922 of this title][/us/usc/t22/s3922].
-
-    Section 1225, [Pub. L. 90–494, § 5][/us/pl/90/494/s5], Aug. 20, 1968, [82 Stat. 811][/us/stat/82/811], related to policies and regulations of Foreign Service information officer personnel system and the Foreign Service officer personnel system. See sections 3923 and 3925 of this title.
-
-    Section 1226, [Pub. L. 90–494, § 6][/us/pl/90/494/s6], Aug. 20, 1968, [82 Stat. 811][/us/stat/82/811], related to appointment and assignment of Foreign Service information officers.
-
-    Section 1227, [Pub. L. 90–494, § 7][/us/pl/90/494/s7], Aug. 20, 1968, [82 Stat. 811][/us/stat/82/811], related to promotion of Foreign Service information officers.
-
-    Section 1228, [Pub. L. 90–494, § 8][/us/pl/90/494/s8], Aug. 20, 1968, [82 Stat. 812][/us/stat/82/812], related to separation and retirement of Foreign Service information officers.
-
-    Section 1229, [Pub. L. 90–494, § 9][/us/pl/90/494/s9], Aug. 20, 1968, [82 Stat. 812][/us/stat/82/812]; [Pub. L. 94–350, title V, § 522(d)][/us/pl/94/350/s522/d], July 12, 1976, [90 Stat. 847][/us/stat/90/847], related to participation in Foreign Service retirement and disability system. See [section 4043 of this title][/us/usc/t22/s4043].
-
-    Section 1230, [Pub. L. 90–494, § 10][/us/pl/90/494/s10], Aug. 20, 1968, [82 Stat. 812][/us/stat/82/812]; [Pub. L. 95–426, title II, § 204(b)(3)][/us/pl/95/426/s204/b/3], Oct. 7, 1978, [92 Stat. 974][/us/stat/92/974], related to applicability of other statutory provisions.
-
-    Section 1231, [Pub. L. 90–494, § 11][/us/pl/90/494/s11], Aug. 20, 1968, [82 Stat. 813][/us/stat/82/813]; [Pub. L. 95–426, title II, § 204(b)(4)][/us/pl/95/426/s204/b/4], Oct. 7, 1978, [92 Stat. 974][/us/stat/92/974], related to commissioning and assignment as diplomatic and consular officers. See [section 3952 of this title][/us/usc/t22/s3952].
-
-    Section 1232, [Pub. L. 90–494, § 12][/us/pl/90/494/s12], Aug. 20, 1968, [82 Stat. 813][/us/stat/82/813]; [Pub. L. 95–426, title II, § 204(b)(1)][/us/pl/95/426/s204/b/1], Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973], defined terms applicable to former provisions of chapter.
-
-    Section 1233, [Pub. L. 90–494, § 13][/us/pl/90/494/s13], Aug. 20, 1968, [82 Stat. 813][/us/stat/82/813], related to transfer of Agency Foreign Service officers to Foreign Service information officer status.
-
-    Section 1234, [Pub. L. 90–494, § 14][/us/pl/90/494/s14], Aug. 20, 1968, [82 Stat. 813][/us/stat/82/813], related to veterans’ preference. See [section 3941 of this title][/us/usc/t22/s3941].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Feb. 15, 1981, except as otherwise provided, see [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as an Effective Date note under [section 3901 of this title][/us/usc/t22/s3901].
-
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1199.md) | [Next](./../../../..//us/usc/t22/ch15/m__us_usc_t22_ch15.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14A)
+[Previous](./../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1200...1204.md) | [Next](./../../../..//us/usc/t22/ch14A/m__us_usc_t22_s1221...1234.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14A)
 
 ----------
 ----------
 
-[/us/pl/96/465/s2205/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F6
-[/us/stat/94/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2160
-[/us/pl/90/494/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs1
-[/us/stat/82/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F810
-[/us/pl/95/426/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fb%2F1
-[/us/stat/92/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F973
-[/us/pl/90/494/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs2
-[/us/stat/82/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F810
-[/us/pl/95/426/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fb%2F1
-[/us/stat/92/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F973
-[/us/pl/90/494/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs3
-[/us/stat/82/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F810
-[/us/pl/90/494/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs4
-[/us/stat/82/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F811
-[/us/pl/95/426/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fb%2F2
-[/us/stat/92/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F973
-[/us/usc/t22/s3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3922
-[/us/pl/90/494/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs5
-[/us/stat/82/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F811
-[/us/pl/90/494/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs6
-[/us/stat/82/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F811
-[/us/pl/90/494/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs7
-[/us/stat/82/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F811
-[/us/pl/90/494/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs8
-[/us/stat/82/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F812
-[/us/pl/90/494/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs9
-[/us/stat/82/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F812
-[/us/pl/94/350/s522/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs522%2Fd
-[/us/stat/90/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F847
-[/us/usc/t22/s4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4043
-[/us/pl/90/494/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs10
-[/us/stat/82/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F812
-[/us/pl/95/426/s204/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fb%2F3
-[/us/stat/92/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F974
-[/us/pl/90/494/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs11
-[/us/stat/82/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F813
-[/us/pl/95/426/s204/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fb%2F4
-[/us/stat/92/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F974
-[/us/usc/t22/s3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3952
-[/us/pl/90/494/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs12
-[/us/stat/82/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F813
-[/us/pl/95/426/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fb%2F1
-[/us/stat/92/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F973
-[/us/pl/90/494/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs13
-[/us/stat/82/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F813
-[/us/pl/90/494/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F494%2Fs14
-[/us/stat/82/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F813
-[/us/usc/t22/s3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3941
-[/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
-[/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 
 

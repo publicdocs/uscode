@@ -55,7 +55,7 @@
 
         The Board shall identify whether a country is a candidate country for purposes of this section.
 
-([Pub. L. 108–199, div. D, title VI, § 606][/us/pl/108/199/s606], Jan. 23, 2004, [118 Stat. 215][/us/stat/118/215].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 606, Jan. 23, 2004, [118 Stat. 215][/us/stat/118/215].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
-[/us/pl/108/199/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs606
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F215
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

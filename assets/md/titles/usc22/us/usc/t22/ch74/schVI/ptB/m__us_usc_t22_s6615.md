@@ -63,7 +63,7 @@
 
         Orders and actions of the Secretary in the exercise of functions transferred under any subchapter of this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Federal agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by any subchapter of this chapter shall apply to the exercise of such function by the Secretary.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XVI, § 1615, Oct. 21, 1998, [112 Stat. 2681–800][/us/stat/112/2681-800].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XVI, § 1615, Oct. 21, 1998, [112 Stat. 2681–800][/us/stat/112/2681-800].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t22/s6543/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6543%2Fd
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-800
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

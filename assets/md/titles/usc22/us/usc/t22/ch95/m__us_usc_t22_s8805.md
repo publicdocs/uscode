@@ -77,7 +77,7 @@
 
             Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-([Pub. L. 112–239, div. A, title XII, § 1246][/us/pl/112/239/s1246], Jan. 2, 2013, [126 Stat. 2011][/us/stat/126/2011].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1246, Jan. 2, 2013, [126 Stat. 2011][/us/stat/126/2011].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8804%2Fd
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/239/s1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1246
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2011
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004

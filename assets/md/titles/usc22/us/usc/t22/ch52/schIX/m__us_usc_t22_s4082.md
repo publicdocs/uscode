@@ -17,7 +17,7 @@
 
     The Secretary may, as a means of eliminating transportation costs, provide members of the Service with basic household furnishing and equipment for use on a loan basis in personally owned or leased residences.
 
-([Pub. L. 96–465, title I, § 902][/us/pl/96/465/s902], Oct. 17, 1980, [94 Stat. 2127][/us/stat/94/2127].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 902, Oct. 17, 1980, [94 Stat. 2127][/us/stat/94/2127].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs902
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2127
 
 

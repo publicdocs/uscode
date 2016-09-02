@@ -23,7 +23,7 @@
 
     (C) report, through consultation within 90 days after November 5, 1990, to the Committees specified in subparagraph (A) on the progress of efforts to create such procedures and mechanisms.
 
-([Pub. L. 101–513, title V, § 562(c)(11)][/us/pl/101/513/s562/c/11], Nov. 5, 1990, [104 Stat. 2036][/us/stat/104/2036].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(11), Nov. 5, 1990, [104 Stat. 2036][/us/stat/104/2036].)
 
  __Change of Name__ 
 
@@ -31,7 +31,7 @@
 
  __Goals in Negotiations Concerning Structure, Bylaws, and Operating Procedures of Bank__ 
 
-[Pub. L. 101–513, title V, § 584][/us/pl/101/513/s584], Nov. 5, 1990, [104 Stat. 2046][/us/stat/104/2046], provided that: 
+[Pub. L. 101–513, title V][/us/pl/101/513/tV], § 584, Nov. 5, 1990, [104 Stat. 2046][/us/stat/104/2046], provided that: 
 
 > “In all negotiations concerning the structure, bylaws, and operating procedures of the European Bank for Reconstruction and Development (EBRD), the Secretary of the Treasury shall vigorously seek—
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/101/513/s562/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F11
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2036
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/101/513/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs584
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2046
 
 

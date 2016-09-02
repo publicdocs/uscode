@@ -31,7 +31,7 @@
 
         Agreements and transactions made or to be made by or through the Institute shall be subject to the same congressional notification, review, and approval requirements and procedures as if such agreements and transactions were made by or through the agency of the United States Government on behalf of which the Institute is acting.
 
-([Pub. L. 96–8, § 12][/us/pl/96/8/s12], Apr. 10, 1979, [93 Stat. 20][/us/stat/93/20]; [Pub. L. 98–164, title X, § 1011(a)(3)][/us/pl/98/164/s1011/a/3], Nov. 22, 1983, [97 Stat. 1061][/us/stat/97/1061].)
+([Pub. L. 96–8][/us/pl/96/8], § 12, Apr. 10, 1979, [93 Stat. 20][/us/stat/93/20]; [Pub. L. 98–164, title X][/us/pl/98/164/tX], § 1011(a)(3), Nov. 22, 1983, [97 Stat. 1061][/us/stat/97/1061].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/96/8/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs12
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F20
-[/us/pl/98/164/s1011/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1011%2Fa%2F3
+[/us/pl/98/164/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtX
 [/us/stat/97/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1061
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 

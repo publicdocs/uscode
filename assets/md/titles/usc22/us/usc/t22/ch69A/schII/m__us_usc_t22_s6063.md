@@ -57,7 +57,7 @@
 
         Any changes in the assistance to be provided under the plan developed under [section 6062(b) of this title][/us/usc/t22/s6062/b] may not be made unless the President notifies the appropriate congressional committees at least 15 days in advance in accordance with the procedures applicable to reprogramming notifications under [section 2394–1 of this title][/us/usc/t22/s2394–1].
 
-([Pub. L. 104–114, title II, § 203][/us/pl/104/114/s203], Mar. 12, 1996, [110 Stat. 809][/us/stat/110/809].)
+([Pub. L. 104–114, title II][/us/pl/104/114/tII], § 203, Mar. 12, 1996, [110 Stat. 809][/us/stat/110/809].)
 
 ----------
 
@@ -74,7 +74,7 @@
 [/us/usc/t22/s6062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6062%2Fb
 [/us/usc/t22/s6062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6062%2Fb
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
-[/us/pl/104/114/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs203
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F809
 
 

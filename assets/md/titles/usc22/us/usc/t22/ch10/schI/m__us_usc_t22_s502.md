@@ -17,7 +17,7 @@
 
     The President is authorized to create such advisory committees as in his judgment may be of assistance in carrying out the undertakings of this Government under the treaties, resolutions, declarations, and recommendations referred to, but no committee or member thereof shall be allowed any salary or other compensation for services: Provided, however, That they may, within the limits of appropriations made available therefor by the Congress, which appropriations are authorized, be paid their actual transportation expenses and not to exceed $10 per diem in lieu of subsistence and other expenses while away from their homes in attendance upon meetings within the United States under instructions from the Secretary of State.
 
-([Aug. 9, 1939, ch. 616, § 2][/us/act/1939-08-09/ch616/s2], [53 Stat. 1290][/us/stat/53/1290].)
+([Aug. 9, 1939, ch. 616][/us/act/1939-08-09/ch616], § 2, [53 Stat. 1290][/us/stat/53/1290].)
 
  __Termination of Advisory Committees__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-09/ch616/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch616%2Fs2
+[/us/act/1939-08-09/ch616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch616
 [/us/stat/53/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1290
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

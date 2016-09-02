@@ -17,7 +17,7 @@
 
     All functions, powers, and duties not directly related to adjudicating claims are hereby vested in the Chairman, including the functions set forth in section 3 of Reorganization Plan Numbered 1 of 1954 and the authority to issue rules and regulations.
 
-([Pub. L. 96–209, title I, § 105][/us/pl/96/209/s105], Mar. 14, 1980, [94 Stat. 97][/us/stat/94/97].)
+([Pub. L. 96–209, title I][/us/pl/96/209/tI], § 105, Mar. 14, 1980, [94 Stat. 97][/us/stat/94/97].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/209/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2Fs105
+[/us/pl/96/209/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2FtI
 [/us/stat/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F97
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622

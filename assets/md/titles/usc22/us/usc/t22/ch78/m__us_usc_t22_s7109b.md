@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated, for each of the fiscal years 2008 through 2011, such sums as may be necessary to carry out this section.
 
-([Pub. L. 106–386, div. A, § 112B][/us/pl/106/386/s112B], as added [Pub. L. 110–457, title I, § 109][/us/pl/110/457/s109], Dec. 23, 2008, [122 Stat. 5051][/us/stat/122/5051].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112B, as added [Pub. L. 110–457, title I][/us/pl/110/457/tI], § 109, Dec. 23, 2008, [122 Stat. 5051][/us/stat/122/5051].)
 
 ----------
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t22/s7107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb%2F1
-[/us/pl/106/386/s112B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112B
-[/us/pl/110/457/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs109
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5051
 
 

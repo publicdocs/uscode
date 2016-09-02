@@ -115,7 +115,7 @@
 
         A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
 
-([Pub. L. 105–292, title IV, § 402][/us/pl/105/292/s402], Oct. 27, 1998, [112 Stat. 2802][/us/stat/112/2802]; [Pub. L. 106–55, § 2(a)][/us/pl/106/55/s2/a], Aug. 17, 1999, [113 Stat. 405][/us/stat/113/405].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 402, Oct. 27, 1998, [112 Stat. 2802][/us/stat/112/2802]; [Pub. L. 106–55][/us/pl/106/55], § 2(a), Aug. 17, 1999, [113 Stat. 405][/us/stat/113/405].)
 
  __References in Text__ 
 
@@ -125,11 +125,11 @@
 
  __Amendments__ 
 
-    1999—Subsec. (c)(1). [Pub. L. 106–55, § 2(a)(1)][/us/pl/106/55/s2/a/1], substituted “(4), and (5)” for “and (4)” in introductory provisions.
+    1999—Subsec. (c)(1). [Pub. L. 106–55][/us/pl/106/55], § 2(a)(1), substituted “(4), and (5)” for “and (4)” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 106–55, § 2(a)(2)(A)][/us/pl/106/55/s2/a/2/A], inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
+    Subsec. (c)(4). [Pub. L. 106–55][/us/pl/106/55], § 2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
 
-    Subsec. (c)(4)(B) to (D), (5). [Pub. L. 106–55, § 2(a)(2)(B)][/us/pl/106/55/s2/a/2/B]–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
+    Subsec. (c)(4)(B) to (D), (5). [Pub. L. 106–55][/us/pl/106/55], § 2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
 
 ----------
 
@@ -142,17 +142,17 @@
 [/us/usc/t22/s6445/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fc
 [/us/usc/t22/s6448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6448
 [/us/usc/t22/s6449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6449
-[/us/pl/105/292/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs402
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2802
-[/us/pl/106/55/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs2%2Fa
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F405
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2800
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787
 [/us/usc/t22/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6401
-[/us/pl/106/55/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs2%2Fa%2F1
-[/us/pl/106/55/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs2%2Fa%2F2%2FA
-[/us/pl/106/55/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs2%2Fa%2F2%2FB
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 
 

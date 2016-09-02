@@ -17,7 +17,7 @@
 
     The provisions of sections 1196  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 4223 of this title, relative to official fees and the method of accounting therefor shall apply to diplomatic officers below the grade of minister and to consular officers.
 
-([May 24, 1924, ch. 182, § 18][/us/act/1924-05-24/ch182/s18], formerly § 11, [43 Stat. 142][/us/stat/43/142], renumbered and amended [Feb. 23, 1931, ch. 276, § 7][/us/act/1931-02-23/ch276/s7], [46 Stat. 1209][/us/stat/46/1209].)
+([May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], § 18, formerly § 11, [43 Stat. 142][/us/stat/43/142], renumbered and amended [Feb. 23, 1931, ch. 276][/us/act/1931-02-23/ch276], § 7, [46 Stat. 1209][/us/stat/46/1209].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1931 Amendment__ 
 
-[Act May 24, 1924, ch. 182, § 37][/us/act/1924-05-24/ch182/s37], as added [act Feb. 23, 1931, ch. 276, § 7][/us/act/1931-02-23/ch276/s7], [46 Stat. 1217][/us/stat/46/1217], provided: 
+[Act May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], § 37, as added [act Feb. 23, 1931, ch. 276][/us/act/1931-02-23/ch276], § 7, [46 Stat. 1217][/us/stat/46/1217], provided: 
 
 > “That this Act \[see Tables for classification\] shall take effect on July 1, 1931.”
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/act/1924-05-24/ch182/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs18
+[/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
 [/us/stat/43/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F142
-[/us/act/1931-02-23/ch276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276%2Fs7
+[/us/act/1931-02-23/ch276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276
 [/us/stat/46/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1209
 [/us/usc/t22/s1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1196
 [/us/act/1955-06-28/ch196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch196
 [/us/stat/69/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F187
 [/us/usc/t22/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs812
 [/us/usc/t22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs13
-[/us/act/1924-05-24/ch182/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs37
-[/us/act/1931-02-23/ch276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276%2Fs7
+[/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
+[/us/act/1931-02-23/ch276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276
 [/us/stat/46/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1217
 
 

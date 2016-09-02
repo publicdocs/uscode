@@ -39,7 +39,7 @@
 
         The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
 
-([Pub. L. 105–277, div. I, title I, § 101][/us/pl/105/277/s101], Oct. 21, 1998, [112 Stat. 2681–860][/us/stat/112/2681-860].)
+([Pub. L. 105–277, div. I, title I][/us/pl/105/277/dI/tI], § 101, Oct. 21, 1998, [112 Stat. 2681–860][/us/stat/112/2681-860].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/105/277/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101
+[/us/pl/105/277/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtI
 [/us/stat/112/2681-860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-860
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

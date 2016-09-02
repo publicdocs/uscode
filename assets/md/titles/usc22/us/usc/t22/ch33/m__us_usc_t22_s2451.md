@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to enable the Government of the United States to increase mutual understanding between the people of the United States and the people of other countries by means of educational and cultural exchange; to strengthen the ties which unite us with other nations by demonstrating the educational and cultural interests, developments, and achievements of the people of the United States and other nations, and the contributions being made toward a peaceful and more fruitful life for people throughout the world; to promote international cooperation for educational and cultural advancement; and thus to assist in the development of friendly, sympathetic, and peaceful relations between the United States and the other countries of the world.
 
-([Pub. L. 87–256, § 101][/us/pl/87/256/s101], Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527].)
+([Pub. L. 87–256][/us/pl/87/256], § 101, Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 87–256, § 1][/us/pl/87/256/s1], Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527], provided: 
+[Pub. L. 87–256][/us/pl/87/256], § 1, Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
 
@@ -37,7 +37,7 @@
 
  __Expansion of United States Scholarship and Exchange Programs in the Islamic World__ 
 
-[Pub. L. 108–458, title VII, § 7112][/us/pl/108/458/s7112], Dec. 17, 2004, [118 Stat. 3796][/us/stat/118/3796], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7112, Dec. 17, 2004, [118 Stat. 3796][/us/stat/118/3796], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -71,7 +71,7 @@
 
  __Advisory Committee on Cultural Diplomacy__ 
 
-[Pub. L. 107–228, div. A, title II, § 224][/us/pl/107/228/s224], Sept. 30, 2002, [116 Stat. 1368][/us/stat/116/1368], provided that:
+[Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 224, Sept. 30, 2002, [116 Stat. 1368][/us/stat/116/1368], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -127,13 +127,13 @@
 
  __Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions__ 
 
-[Pub. L. 87–256, § 111(b)][/us/pl/87/256/s111/b], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], provided that: 
+[Pub. L. 87–256][/us/pl/87/256], § 111(b), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], provided that: 
 
 > “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense\] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act \[this chapter\] until modified or superseded by appropriate authority.”
 
  __References in Other Laws to Repealed Provisions__ 
 
-[Pub. L. 87–256, § 111(c)][/us/pl/87/256/s111/c], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], provided that: 
+[Pub. L. 87–256][/us/pl/87/256], § 111(c), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], provided that: 
 
 > “Any reference in any other Act to the provisions of law listed in subsection (a) \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense\] shall hereafter be considered to be references to the appropriate provisions of this Act \[this chapter\].”
 
@@ -144,11 +144,11 @@
 ----------
 ----------
 
-[/us/pl/87/256/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs101
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
-[/us/pl/87/256/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs1
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
@@ -158,16 +158,16 @@
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/usc/t22/s6551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6551
-[/us/pl/108/458/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7112
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3796
-[/us/pl/107/228/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs224
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1368
 [/us/pl/107/228/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs224
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/87/256/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fb
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
-[/us/pl/87/256/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fc
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 
 

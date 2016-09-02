@@ -17,7 +17,7 @@
 
     Agricultural research carried out under this chapter shall (1) take account of the special needs of small farmers in the determination of research priorities, (2) include research on the interrelationships among technology, institutions, and economic, social, environmental, and cultural factors affecting small-farm agriculture, and (3) make extensive use of field testing to adapt basic research to local conditions. Special emphasis shall be placed on disseminating research results to the farms on which they can be put to use, and especially on institutional and other arrangements needed to assure that small farmers have effective access to both new and existing improved technology.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 103A, as added [Pub. L. 94–161, title III, § 303][/us/pl/94/161/s303], Dec. 20, 1975, [89 Stat. 857][/us/stat/89/857]; amended [Pub. L. 95–424, title I, § 103(d)][/us/pl/95/424/s103/d], Oct. 6, 1978, [92 Stat. 945][/us/stat/92/945].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 103A, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 303, Dec. 20, 1975, [89 Stat. 857][/us/stat/89/857]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 103(d), Oct. 6, 1978, [92 Stat. 945][/us/stat/92/945].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs303
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F857
-[/us/pl/95/424/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs103%2Fd
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F945
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

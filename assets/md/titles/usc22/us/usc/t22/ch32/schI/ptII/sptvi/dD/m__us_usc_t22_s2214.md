@@ -57,7 +57,7 @@
 
         The report required by this section shall be made available to the public on the Internet website of the Agency.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 258, as added [Pub. L. 108–484, § 6][/us/pl/108/484/s6], Dec. 23, 2004, [118 Stat. 3928][/us/stat/118/3928].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 258, as added [Pub. L. 108–484][/us/pl/108/484], § 6, Dec. 23, 2004, [118 Stat. 3928][/us/stat/118/3928].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t22/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2212
 [/us/usc/t22/s2211c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2211c
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/484/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs6
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3928
 
 

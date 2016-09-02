@@ -25,7 +25,7 @@
 
     (b) In determining his vote on extensions of assistance to any Fund borrower, the United States Executive Director of the Fund shall take into account whether such borrower’s policies are consistent with the requirements of article IV of the Articles of Agreement of the Fund.
 
-([July 31, 1945, ch. 339, § 40][/us/act/1945-07-31/ch339/s40], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 801\], Nov. 30, 1983, [97 Stat. 1267][/us/stat/97/1267].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 40, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 801\], Nov. 30, 1983, [97 Stat. 1267][/us/stat/97/1267].)
 
 ----------
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t22/s286e–1i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286e%E2%80%931i
-[/us/act/1945-07-31/ch339/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs40
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1267
 
 

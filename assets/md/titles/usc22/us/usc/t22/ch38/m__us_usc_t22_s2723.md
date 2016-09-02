@@ -33,7 +33,7 @@
 
         For the purposes of this section the term “appropriate committees of the Congress” means the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 51, as added [Pub. L. 102–138, title I, § 127(a)][/us/pl/102/138/s127/a], Oct. 28, 1991, [105 Stat. 660][/us/stat/105/660]; amended [Pub. L. 107–228, div. A, title II, § 231][/us/pl/107/228/s231], Sept. 30, 2002, [116 Stat. 1372][/us/stat/116/1372].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 51, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 127(a), Oct. 28, 1991, [105 Stat. 660][/us/stat/105/660]; amended [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 231, Sept. 30, 2002, [116 Stat. 1372][/us/stat/116/1372].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs127%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F660
-[/us/pl/107/228/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs231
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1372
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 

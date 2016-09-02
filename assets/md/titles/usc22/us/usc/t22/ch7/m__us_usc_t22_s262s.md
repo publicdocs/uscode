@@ -33,7 +33,7 @@
 
         As used in this section, the term “multilateral development bank” includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the InterAmerican Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund.
 
-([Pub. L. 95–118, title XVIII, § 1801][/us/pl/95/118/s1801], formerly [Pub. L. 100–418, title III, § 3202][/us/pl/100/418/s3202], Aug. 23, 1988, [102 Stat. 1382][/us/stat/102/1382]; renumbered [§ 1801 of Pub. L. 95–118][/us/pl/95/118/s1801], [Pub. L. 101–240, title V, § 541(b)(1)][/us/pl/101/240/s541/b/1], Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517].)
+([Pub. L. 95–118, title XVIII][/us/pl/95/118/tXVIII], § 1801, formerly [Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3202, Aug. 23, 1988, [102 Stat. 1382][/us/stat/102/1382]; renumbered § 1801 of [Pub. L. 95–118][/us/pl/95/118], [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(b)(1), Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–418, title III, § 3201][/us/pl/100/418/s3201], Aug. 23, 1988, [102 Stat. 1382][/us/stat/102/1382], provided that: 
+[Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3201, Aug. 23, 1988, [102 Stat. 1382][/us/stat/102/1382], provided that: 
 
 > “This subtitle \[subtitle C (§§ 3201, 3202) of title III of [Pub. L. 100–418][/us/pl/100/418], enacting former [section 262q of this title][/us/usc/t22/s262q]\] may be cited as the ‘Multilateral Development Banks Procurement Act of 1988’.”
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1801
-[/us/pl/100/418/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3202
+[/us/pl/95/118/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVIII
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1382
-[/us/pl/95/118/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1801
-[/us/pl/101/240/s541/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fb%2F1
+[/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2517
 [/us/usc/t22/s262q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262q
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
-[/us/pl/100/418/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3201
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1382
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t22/s262q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262q

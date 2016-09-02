@@ -33,7 +33,7 @@
 
         The President is authorized to utilize the provisions of title VIII of the United States Information and Educational Exchange Act of 1948, as amended \[[22 U.S.C. 1471][/us/usc/t22/s1471] et seq.\], to the extent he deems necessary in carrying out the provisions and purposes of this chapter.
 
-([Pub. L. 87–256, § 108][/us/pl/87/256/s108], Sept. 21, 1961, [75 Stat. 534][/us/stat/75/534]; [Pub. L. 96–60, title II, § 203(d)][/us/pl/96/60/s203/d], Aug. 15, 1979, [93 Stat. 399][/us/stat/93/399]; [Pub. L. 96–470, title II, § 212(a)][/us/pl/96/470/s212/a], Oct. 19, 1980, [94 Stat. 2246][/us/stat/94/2246]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
+([Pub. L. 87–256][/us/pl/87/256], § 108, Sept. 21, 1961, [75 Stat. 534][/us/stat/75/534]; [Pub. L. 96–60, title II][/us/pl/96/60/tII], § 203(d), Aug. 15, 1979, [93 Stat. 399][/us/stat/93/399]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 212(a), Oct. 19, 1980, [94 Stat. 2246][/us/stat/94/2246]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Soviet Nationals Participating in Exchange Programs; Topics and Location of Study; National Security Interests; Report to Congress__ 
 
-    [Pub. L. 97–241, title I, § 126(c)][/us/pl/97/241/s126/c], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], directed Secretary of State to submit annually to Congress a list of Soviet nationals participating during the upcoming academic year in the United States-Union of Soviet Socialist Republics graduate student/young faculty exchange or in the United States-Union of Soviet Socialist Republics senior scholar exchange, their topics of study, and where they were to study, such report to also include a determination by Secretary of State, in consultation with heads of other agencies involved in these exchange programs, that these exchange programs would not jeopardize United States national security interests, prior to repeal by [Pub. L. 103–199, title III, § 306][/us/pl/103/199/s306], Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324].
+    [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 126(c), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], directed Secretary of State to submit annually to Congress a list of Soviet nationals participating during the upcoming academic year in the United States-Union of Soviet Socialist Republics graduate student/young faculty exchange or in the United States-Union of Soviet Socialist Republics senior scholar exchange, their topics of study, and where they were to study, such report to also include a determination by Secretary of State, in consultation with heads of other agencies involved in these exchange programs, that these exchange programs would not jeopardize United States national security interests, prior to repeal by [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 306, Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324].
 
 ----------
 
@@ -76,13 +76,13 @@
 
 [/us/usc/t22/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431
 [/us/usc/t22/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1471
-[/us/pl/87/256/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs108
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F534
-[/us/pl/96/60/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs203%2Fd
+[/us/pl/96/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtII
 [/us/stat/93/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F399
-[/us/pl/96/470/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs212%2Fa
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2246
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
@@ -101,9 +101,9 @@
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/usc/t22/s2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2454
-[/us/pl/97/241/s126/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs126%2Fc
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/103/199/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs306
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2324
 
 

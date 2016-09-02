@@ -31,7 +31,7 @@
 
         Beginning in fiscal year 2007, amounts deposited in the fund established under subsection (a) shall be available without fiscal year limitation for severance, retirement, or other separation payments to host country resident personal services contractors of the Peace Corps in countries where such payments are legally authorized.
 
-([Pub. L. 110–86, § 1][/us/pl/110/86/s1], Sept. 27, 2007, [121 Stat. 979][/us/stat/121/979].)
+([Pub. L. 110–86][/us/pl/110/86], § 1, Sept. 27, 2007, [121 Stat. 979][/us/stat/121/979].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F86%2Fs1
+[/us/pl/110/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F86
 [/us/stat/121/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F979
 
 

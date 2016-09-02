@@ -35,7 +35,7 @@
 
     (e) encourage the IAEA, to the maximum degree consistent with the Statute, to provide nations which supply nuclear materials and equipment with the data needed to assure such nations of adherence to bilateral commitments applicable to such supply.
 
-([Pub. L. 95–242, title II, § 201][/us/pl/95/242/s201], Mar. 10, 1978, [92 Stat. 124][/us/stat/92/124].)
+([Pub. L. 95–242, title II][/us/pl/95/242/tII], § 201, Mar. 10, 1978, [92 Stat. 124][/us/stat/92/124].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/242/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs201
+[/us/pl/95/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtII
 [/us/stat/92/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F124
 [/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201

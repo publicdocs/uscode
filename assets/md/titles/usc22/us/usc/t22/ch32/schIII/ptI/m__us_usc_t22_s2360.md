@@ -27,7 +27,7 @@
 
         Any funds which the President has notified Congress pursuant to [section 2413 of this title][/us/usc/t22/s2413] that he intends to provide in military assistance to any country may be transferred to, and consolidated with, any other funds he has notified Congress pursuant to such section that he intends to provide to that country for development assistance purposes.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 610, Sept. 4, 1961, [75 Stat. 442][/us/stat/75/442]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(a), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260]; [Pub. L. 89–371, § 3][/us/pl/89/371/s3], Mar. 18, 1966, [80 Stat. 74][/us/stat/80/74]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(d), Sept. 19, 1966, [80 Stat. 804][/us/stat/80/804]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(c), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 91–175][/us/pl/91/175], pt. III, § 301, Dec. 30, 1969, [83 Stat. 820][/us/stat/83/820]; [Pub. L. 93–559, § 19(a)][/us/pl/93/559/s19/a], Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800]; [Pub. L. 95–384, § 10(b)(2)][/us/pl/95/384/s10/b/2], Sept. 26, 1978, [92 Stat. 735][/us/stat/92/735]; [Pub. L. 101–623, § 10(a)][/us/pl/101/623/s10/a], Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 610, Sept. 4, 1961, [75 Stat. 442][/us/stat/75/442]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 301(a), Aug. 1, 1962, [76 Stat. 260][/us/stat/76/260]; [Pub. L. 89–371][/us/pl/89/371], § 3, Mar. 18, 1966, [80 Stat. 74][/us/stat/80/74]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(d), Sept. 19, 1966, [80 Stat. 804][/us/stat/80/804]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(c), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 91–175][/us/pl/91/175], pt. III, § 301, Dec. 30, 1969, [83 Stat. 820][/us/stat/83/820]; [Pub. L. 93–559][/us/pl/93/559], § 19(a), Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800]; [Pub. L. 95–384][/us/pl/95/384], § 10(b)(2), Sept. 26, 1978, [92 Stat. 735][/us/stat/92/735]; [Pub. L. 101–623][/us/pl/101/623], § 10(a), Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
     1978—Subsec. (b). [Pub. L. 95–384][/us/pl/95/384] struck out provisions authorizing transfer and consolidation of not to exceed $9,000,000 of the funds appropriated under [section 2242 of this title][/us/usc/t22/s2242] with the funds appropriated under [section 2397(a) of this title][/us/usc/t22/s2397/a] to be available solely for additional administrative expenses incurred in connection with programs in Vietnam.
 
-    1974—Subsec. (a). [Pub. L. 93–559, § 19(a)(1)][/us/pl/93/559/s19/a/1], inserted provisions excepting funds made available under part II of subchapter II of this chapter from the designation of funds subject to consolidation.
+    1974—Subsec. (a). [Pub. L. 93–559][/us/pl/93/559], § 19(a)(1), inserted provisions excepting funds made available under part II of subchapter II of this chapter from the designation of funds subject to consolidation.
 
-    Subsec. (c). [Pub. L. 93–559, § 19(a)(2)][/us/pl/93/559/s19/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 93–559][/us/pl/93/559], § 19(a)(2), added subsec. (c).
 
     1969—Subsec. (a). [Pub. L. 91–175][/us/pl/91/175] inserted provision excepting funds made available pursuant to subpart IV of part II of subchapter I of this chapter form the designation of funds subject to consolidation.
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–623, § 10(b)][/us/pl/101/623/s10/b], Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], provided that: 
+[Pub. L. 101–623][/us/pl/101/623], § 10(b), Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply with respect to funds made available for fiscal year 1991 or any fiscal year thereafter.”
 
@@ -76,7 +76,7 @@
 [/us/stat/75/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F442
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/stat/76/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F260
-[/us/pl/89/371/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F371%2Fs3
+[/us/pl/89/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F371
 [/us/stat/80/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F74
 [/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/stat/80/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F804
@@ -84,11 +84,11 @@
 [/us/stat/81/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F458
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F820
-[/us/pl/93/559/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs19%2Fa
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1800
-[/us/pl/95/384/s10/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs10%2Fb%2F2
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F735
-[/us/pl/101/623/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs10%2Fa
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3356
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -98,14 +98,14 @@
 [/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/usc/t22/s2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2242
 [/us/usc/t22/s2397/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2397%2Fa
-[/us/pl/93/559/s19/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs19%2Fa%2F1
-[/us/pl/93/559/s19/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs19%2Fa%2F2
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/pl/89/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F371
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
-[/us/pl/101/623/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs10%2Fb
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3356
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

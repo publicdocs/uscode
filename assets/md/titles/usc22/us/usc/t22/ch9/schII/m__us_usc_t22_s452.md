@@ -15,9 +15,9 @@
 
 ## § 452. Repealed. [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a)(12), [68 Stat. 861][/us/stat/68/861]
 
-    Section, acts [Nov. 4, 1939, ch. 2, § 12][/us/act/1939-11-04/ch2/s12], [54 Stat. 10][/us/stat/54/10]; [Jan. 26, 1942, ch. 19][/us/act/1942-01-26/ch19], [56 Stat. 19][/us/stat/56/19], established the National Munitions Control Board. See former section 1934 and [section 2778 of this title][/us/usc/t22/s2778].
+    Section, acts [Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 12, [54 Stat. 10][/us/stat/54/10]; [Jan. 26, 1942, ch. 19][/us/act/1942-01-26/ch19], [56 Stat. 19][/us/stat/56/19], established the National Munitions Control Board. See former section 1934 and [section 2778 of this title][/us/usc/t22/s2778].
 
-    Subsec. (h) was subsequently repealed by [act Aug. 30, 1954, ch. 1076, § 1(28)][/us/act/1954-08-30/ch1076/s1/28], [68 Stat. 968][/us/stat/68/968].
+    Subsec. (h) was subsequently repealed by [act Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(28), [68 Stat. 968][/us/stat/68/968].
 
 ----------
 
@@ -28,12 +28,12 @@
 
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
-[/us/act/1939-11-04/ch2/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs12
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F10
 [/us/act/1942-01-26/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-01-26%2Fch19
 [/us/stat/56/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F19
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/act/1954-08-30/ch1076/s1/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F28
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F968
 
 

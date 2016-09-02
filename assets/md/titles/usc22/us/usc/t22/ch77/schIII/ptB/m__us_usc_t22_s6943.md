@@ -51,7 +51,7 @@
 
         There are authorized to be appropriated to the Department of Agriculture, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff to increase legal and technical expertise in areas covered by trade agreements and United States trade law, including food safety and biotechnology, for purposes of monitoring compliance by the People’s Republic of China with its trade agreement obligations.
 
-([Pub. L. 106–286, div. B, title IV, § 413][/us/pl/106/286/s413], Oct. 10, 2000, [114 Stat. 901][/us/stat/114/901].)
+([Pub. L. 106–286, div. B, title IV][/us/pl/106/286/dB/tIV], § 413, Oct. 10, 2000, [114 Stat. 901][/us/stat/114/901].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t22/s6951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6951
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/pl/106/286/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs413
+[/us/pl/106/286/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIV
 [/us/stat/114/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F901
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978

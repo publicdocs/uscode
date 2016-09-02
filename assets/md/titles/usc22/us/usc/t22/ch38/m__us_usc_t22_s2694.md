@@ -19,7 +19,7 @@
 
     (2) Beginning October 1, 1977, the Secretary of State shall annually transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report containing details on (1) any gifts of more than minimal value purchased with appropriated funds which were given to a foreign individual during the previous fiscal year, and (2) any other gifts of more than minimal value given by the United States Government to a foreign individual which were not obtained using appropriated funds.
 
-([Pub. L. 95–105, title V, § 515(b)][/us/pl/95/105/s515/b], Aug. 17, 1977, [91 Stat. 866][/us/stat/91/866].)
+([Pub. L. 95–105, title V][/us/pl/95/105/tV], § 515(b), Aug. 17, 1977, [91 Stat. 866][/us/stat/91/866].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t5/s7342/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fa%2F5
-[/us/pl/95/105/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs515%2Fb
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F866
 
 

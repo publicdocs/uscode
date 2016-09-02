@@ -17,7 +17,7 @@
 
     The certificate of the Chairman of the House delegation or the Senate delegation of the Mexico-United States Interparliamentary group shall on and after April 9, 1960 be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group of the Mexico-United States Interparliamentary group.
 
-([Pub. L. 86–420, § 4][/us/pl/86/420/s4], Apr. 9, 1960, [74 Stat. 40][/us/stat/74/40].)
+([Pub. L. 86–420][/us/pl/86/420], § 4, Apr. 9, 1960, [74 Stat. 40][/us/stat/74/40].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/420/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F420%2Fs4
+[/us/pl/86/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F420
 [/us/stat/74/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F40
 
 

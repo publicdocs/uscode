@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 671, as added [Pub. L. 95–88, title I, § 130][/us/pl/95/88/s130], Aug. 3, 1977, [91 Stat. 543][/us/stat/91/543], which related to notification of program changes, was transferred to [section 2394–1 of this title][/us/usc/t22/s2394–1].
+    Section, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 671, as added [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 130, Aug. 3, 1977, [91 Stat. 543][/us/stat/91/543], which related to notification of program changes, was transferred to [section 2394–1 of this title][/us/usc/t22/s2394–1].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/88/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs130
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F543
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 

@@ -17,7 +17,7 @@
 
     Not later than February 1 of each year that occurs more than 1 year after the date of the establishment of the Commission, the Commission should submit an annual report to both the United States Government and the Government of Mexico regarding all activities of the Commission during the preceding calendar year.
 
-([Pub. L. 103–400, § 7][/us/pl/103/400/s7], Oct. 22, 1994, [108 Stat. 4171][/us/stat/108/4171].)
+([Pub. L. 103–400][/us/pl/103/400], § 7, Oct. 22, 1994, [108 Stat. 4171][/us/stat/108/4171].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/400/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400%2Fs7
+[/us/pl/103/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400
 [/us/stat/108/4171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4171
 
 

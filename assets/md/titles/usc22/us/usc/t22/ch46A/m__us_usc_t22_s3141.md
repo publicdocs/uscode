@@ -29,7 +29,7 @@
 
     (6) The Government Accountability Office may have limited access to Government data on foreign direct investment.
 
-([Pub. L. 101–533, § 2][/us/pl/101/533/s2], Nov. 7, 1990, [104 Stat. 2344][/us/stat/104/2344]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 101–533][/us/pl/101/533], § 2, Nov. 7, 1990, [104 Stat. 2344][/us/stat/104/2344]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–533, § 1][/us/pl/101/533/s1], Nov. 7, 1990, [104 Stat. 2344][/us/stat/104/2344], provided that: 
+[Pub. L. 101–533][/us/pl/101/533], § 1, Nov. 7, 1990, [104 Stat. 2344][/us/stat/104/2344], provided that: 
 
 > “This Act \[enacting this chapter and [section 401 of Title 13][/us/usc/t13/s401], Census, and amending sections 3101 and 3103 to 3105 of this title and [section 9 of Title 13][/us/usc/t13/s9]\] may be cited as the ‘Foreign Direct Investment and International Financial Data Improvements Act of 1990’.”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/101/533/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs2
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2344
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/usc/t22/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3101
-[/us/pl/101/533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs1
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2344
 [/us/usc/t13/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs401
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9

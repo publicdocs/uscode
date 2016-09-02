@@ -23,11 +23,11 @@
 
     The Secretary of State acting through such officers as he may designate, is further authorized to consider, adjust, and pay from funds appropriated for the project, the construction of which resulted in damages, any claim for damages accruing after March 31, 1937, caused to owners of lands or other private property of any kind by reason of the operations of the United States, its officers or employees, in the survey, construction, operation, or maintenance of any project constructed or administered through the American Commissioner, International Boundary and Water Commission, United States and Mexico, if such claim for damages does not exceed $1,000 and has been filed with the American Commissioner within one year after the damage is alleged to have occurred, and when in the opinion of the American Commissioner such claim is substantiated by a report of a board appointed by the said Commissioner.
 
-([Aug. 27, 1935, ch. 763][/us/act/1935-08-27/ch763], [49 Stat. 906][/us/stat/49/906]; [June 19, 1939, ch. 212][/us/act/1939-06-19/ch212], [53 Stat. 841][/us/stat/53/841]; [Oct. 31, 1951, ch. 654, § 2(15)][/us/act/1951-10-31/ch654/s2/15], [65 Stat. 707][/us/stat/65/707]; [Pub. L. 85–201][/us/pl/85/201], Aug. 28, 1957, [71 Stat. 475][/us/stat/71/475].)
+([Aug. 27, 1935, ch. 763][/us/act/1935-08-27/ch763], [49 Stat. 906][/us/stat/49/906]; [June 19, 1939, ch. 212][/us/act/1939-06-19/ch212], [53 Stat. 841][/us/stat/53/841]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 2(15), [65 Stat. 707][/us/stat/65/707]; [Pub. L. 85–201][/us/pl/85/201], Aug. 28, 1957, [71 Stat. 475][/us/stat/71/475].)
 
  __Codification__ 
 
-    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 [/us/stat/49/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F906
 [/us/act/1939-06-19/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-19%2Fch212
 [/us/stat/53/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F841
-[/us/act/1951-10-31/ch654/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs2%2F15
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F707
 [/us/pl/85/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F201
 [/us/stat/71/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F475
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/85/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F201
 

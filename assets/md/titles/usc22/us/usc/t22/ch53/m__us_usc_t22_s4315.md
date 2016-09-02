@@ -45,7 +45,7 @@
 
             (B) is not a member, or a family member of a member, of a foreign mission of that foreign country.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 215, as added [Pub. L. 100–204, title I, § 128(a)][/us/pl/100/204/s128/a], Dec. 22, 1987, [101 Stat. 1343][/us/stat/101/1343].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 215, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 128(a), Dec. 22, 1987, [101 Stat. 1343][/us/stat/101/1343].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–204, title I, § 128(b)][/us/pl/100/204/s128/b], Dec. 22, 1987, [101 Stat. 1343][/us/stat/101/1343], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 128(b), Dec. 22, 1987, [101 Stat. 1343][/us/stat/101/1343], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[enacting this section\] shall apply to any foreign mission beginning on the date of enactment of this Act \[Dec. 22, 1987\].
 
@@ -72,10 +72,10 @@
 
 [/us/usc/t22/s4309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4309%2Fb
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/204/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs128%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1343
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/100/204/s128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs128%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1343
 
 

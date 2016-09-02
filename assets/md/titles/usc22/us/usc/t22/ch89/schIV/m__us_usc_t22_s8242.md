@@ -21,7 +21,7 @@
 
     (2) the Secretary should establish procedures for selecting recipients of such award, including any financial terms associated with such award.
 
-([Pub. L. 110–53, title XXI, § 2142][/us/pl/110/53/s2142], Aug. 3, 2007, [121 Stat. 534][/us/stat/121/534].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2142, Aug. 3, 2007, [121 Stat. 534][/us/stat/121/534].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2142
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F534
 
 

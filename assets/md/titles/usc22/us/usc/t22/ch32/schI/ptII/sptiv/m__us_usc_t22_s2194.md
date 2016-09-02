@@ -113,31 +113,31 @@
 
         denominated in currencies other than United States dollars, of loans and other investments made to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 234, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 811][/us/stat/83/811]; amended 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 93–390, § 2(2)][/us/pl/93/390/s2/2], Aug. 27, 1974, [88 Stat. 764][/us/stat/88/764]; [Pub. L. 95–268, § 3][/us/pl/95/268/s3], Apr. 24, 1978, [92 Stat. 214][/us/stat/92/214]; [Pub. L. 97–65, § 4][/us/pl/97/65/s4], Oct. 16, 1981, [95 Stat. 1022][/us/stat/95/1022]; [Pub. L. 99–204][/us/pl/99/204], §§ 6(a), 7, 8, Dec. 23, 1985, [99 Stat. 1671][/us/stat/99/1671], 1672; [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 101–218, § 8(c)][/us/pl/101/218/s8/c], Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868]; [Pub. L. 102–549, title I, § 103][/us/pl/102/549/s103], Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 106–31, title VI, § 6001][/us/pl/106/31/s6001], May 21, 1999, [113 Stat. 112][/us/stat/113/112]; [Pub. L. 108–158][/us/pl/108/158], §§ 4(a), 5(a), Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 234, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 811][/us/stat/83/811]; amended 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 93–390][/us/pl/93/390], § 2(2), Aug. 27, 1974, [88 Stat. 764][/us/stat/88/764]; [Pub. L. 95–268][/us/pl/95/268], § 3, Apr. 24, 1978, [92 Stat. 214][/us/stat/92/214]; [Pub. L. 97–65][/us/pl/97/65], § 4, Oct. 16, 1981, [95 Stat. 1022][/us/stat/95/1022]; [Pub. L. 99–204][/us/pl/99/204], §§ 6(a), 7, 8, Dec. 23, 1985, [99 Stat. 1671][/us/stat/99/1671], 1672; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 101–218][/us/pl/101/218], § 8(c), Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 103, Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6001, May 21, 1999, [113 Stat. 112][/us/stat/113/112]; [Pub. L. 108–158][/us/pl/108/158], §§ 4(a), 5(a), Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
 
  __References in Text__ 
 
-    [Section 2195(a) of this title][/us/usc/t22/s2195/a], referred to in subsecs. (a)(3), (b), and (f), was amended by [Pub. L. 105–118, title V, § 581][/us/pl/105/118/s581], Nov. 26, 1997, [111 Stat. 2435][/us/stat/111/2435], and, as so amended, provisions formerly appearing in pars. (1) and (2) of subsec. (a) are now contained in par. (1).
+    [Section 2195(a) of this title][/us/usc/t22/s2195/a], referred to in subsecs. (a)(3), (b), and (f), was amended by [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 581, Nov. 26, 1997, [111 Stat. 2435][/us/stat/111/2435], and, as so amended, provisions formerly appearing in pars. (1) and (2) of subsec. (a) are now contained in par. (1).
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (g)(5), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (g)(5), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
  __Codification__ 
 
     Amendment by [Pub. L. 100–461][/us/pl/100/461] is based on sections 103 and 104 of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 103 and 104 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by [Pub. L. 100–461][/us/pl/100/461].
 
-    In subsec. (c), “[section 1306 of title 31][/us/usc/t31/s1306]” substituted for “section 1415 of the Supplemental Appropriation Act, 1953, \[[31 U.S.C. 724][/us/usc/t31/s724]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “[section 1306 of title 31][/us/usc/t31/s1306]” substituted for “section 1415 of the Supplemental Appropriation Act, 1953, \[[31 U.S.C. 724][/us/usc/t31/s724]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2003—Subsec. (a)(1)(B). [Pub. L. 108–158, § 4(a)][/us/pl/108/158/s4/a], inserted “or any political subdivision thereof” after “government”.
+    2003—Subsec. (a)(1)(B). [Pub. L. 108–158][/us/pl/108/158], § 4(a), inserted “or any political subdivision thereof” after “government”.
 
-    Subsec. (h). [Pub. L. 108–158, § 5(a)][/us/pl/108/158/s5/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 108–158][/us/pl/108/158], § 5(a), added subsec. (h).
 
-    1999—Subsec. (g). [Pub. L. 106–31, § 6000(1)][/us/pl/106/31/s6000/1], struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to [section 2392(a) of this title][/us/usc/t22/s2392/a].”
+    1999—Subsec. (g). [Pub. L. 106–31][/us/pl/106/31], § 6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to [section 2392(a) of this title][/us/usc/t22/s2392/a].”
 
-    Subsec. (g)(2). [Pub. L. 106–31, § 6001(2)][/us/pl/106/31/s6001/2], in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “[section 2702 of title 19][/us/usc/t19/s2702]”.
+    Subsec. (g)(2). [Pub. L. 106–31][/us/pl/106/31], § 6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “[section 2702 of title 19][/us/usc/t19/s2702]”.
 
-    Subsec. (g)(5). [Pub. L. 106–31, § 6001(3)][/us/pl/106/31/s6001/3], added par. (5).
+    Subsec. (g)(5). [Pub. L. 106–31][/us/pl/106/31], § 6001(3), added par. (5).
 
     1992—Subsec. (g)(5). [Pub. L. 102–549][/us/pl/102/549] amended par. (5) generally, substituting designation “(c)” for “(5)”. Prior to amendment, par. (5) read as follows: “Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues.”
 
@@ -149,51 +149,51 @@
 
     Subsec. (g). [Pub. L. 100–461][/us/pl/100/461] added subsec. (g).
 
-    1985—Subsec. (a)(1)(D). [Pub. L. 99–204, § 6(a)(1)][/us/pl/99/204/s6/a/1], added subpar. (D).
+    1985—Subsec. (a)(1)(D). [Pub. L. 99–204][/us/pl/99/204], § 6(a)(1), added subpar. (D).
 
-    Subsec. (a)(4). [Pub. L. 99–204, § 6(a)(2)][/us/pl/99/204/s6/a/2], substituted “insurance for the first time for loss due to business interruption” for “civil strife insurance for the first time” and “definition of ‘civil strife’ or ‘business interruption’ ” for “definition of civil strife” and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwriting basis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to [section 2394–1 of this title][/us/usc/t22/s2394–1].
+    Subsec. (a)(4). [Pub. L. 99–204][/us/pl/99/204], § 6(a)(2), substituted “insurance for the first time for loss due to business interruption” for “civil strife insurance for the first time” and “definition of ‘civil strife’ or ‘business interruption’ ” for “definition of civil strife” and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwriting basis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to [section 2394–1 of this title][/us/usc/t22/s2394–1].
 
-    Subsec. (b). [Pub. L. 99–204, § 7][/us/pl/99/204/s7], substituted “15” for “10”.
+    Subsec. (b). [Pub. L. 99–204][/us/pl/99/204], § 7, substituted “15” for “10”.
 
-    Subsec. (f)(2). [Pub. L. 99–204, § 8][/us/pl/99/204/s8], struck out “other national or” after “arrangements with”.
+    Subsec. (f)(2). [Pub. L. 99–204][/us/pl/99/204], § 8, struck out “other national or” after “arrangements with”.
 
-    1981—Subsec. (a)(1)(C). [Pub. L. 97–65, § 4(a)(1)][/us/pl/97/65/s4/a/1], inserted reference to civil strife.
+    1981—Subsec. (a)(1)(C). [Pub. L. 97–65][/us/pl/97/65], § 4(a)(1), inserted reference to civil strife.
 
-    Subsec. (a)(2). [Pub. L. 97–65, § 4(a)(2)][/us/pl/97/65/s4/a/2], substituted “eligible investors in the project” for “eligible investors in the total project financing”.
+    Subsec. (a)(2). [Pub. L. 97–65][/us/pl/97/65], § 4(a)(2), substituted “eligible investors in the project” for “eligible investors in the total project financing”.
 
-    Subsec. (a)(3). [Pub. L. 97–65, § 4(a)(3)][/us/pl/97/65/s4/a/3], substituted “which the Corporation is permitted to have outstanding under [section 2195(a)(1) of this title][/us/usc/t22/s2195/a/1]” for “which the Corporation is authorized to issue under this subsection”.
+    Subsec. (a)(3). [Pub. L. 97–65][/us/pl/97/65], § 4(a)(3), substituted “which the Corporation is permitted to have outstanding under [section 2195(a)(1) of this title][/us/usc/t22/s2195/a/1]” for “which the Corporation is authorized to issue under this subsection”.
 
-    Subsec. (a)(4). [Pub. L. 97–65, § 4(a)(4)][/us/pl/97/65/s4/a/4], added par. (4).
+    Subsec. (a)(4). [Pub. L. 97–65][/us/pl/97/65], § 4(a)(4), added par. (4).
 
-    Subsec. (b). [Pub. L. 97–65, § 4(b)(1)][/us/pl/97/65/s4/b/1], substituted “which the Corporation is permitted to have outstanding under [section 2195(a)(2) of this title][/us/usc/t22/s2195/a/2]” for “which the Corporation is authorized to issue under this subsection”.
+    Subsec. (b). [Pub. L. 97–65][/us/pl/97/65], § 4(b)(1), substituted “which the Corporation is permitted to have outstanding under [section 2195(a)(2) of this title][/us/usc/t22/s2195/a/2]” for “which the Corporation is authorized to issue under this subsection”.
 
-    Subsec. (f)(1). [Pub. L. 97–65, § 4(b)(2)][/us/pl/97/65/s4/b/2], struck out provisions under which the Corporation was prohibited from making or carrying out any association or risk-sharing agreement for the direct underwriting of insurance by the Corporation with others, other than on an individual basis where such direct underwriting facilitated the purposes of the Corporation as set forth in [section 2191 of this title][/us/usc/t22/s2191].
+    Subsec. (f)(1). [Pub. L. 97–65][/us/pl/97/65], § 4(b)(2), struck out provisions under which the Corporation was prohibited from making or carrying out any association or risk-sharing agreement for the direct underwriting of insurance by the Corporation with others, other than on an individual basis where such direct underwriting facilitated the purposes of the Corporation as set forth in [section 2191 of this title][/us/usc/t22/s2191].
 
-    Subsec. (f)(4). [Pub. L. 97–65, § 4(b)(3)][/us/pl/97/65/s4/b/3], struck out provisions which had placed a $600,000,000 limit in any one year on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
+    Subsec. (f)(4). [Pub. L. 97–65][/us/pl/97/65], § 4(b)(3), struck out provisions which had placed a $600,000,000 limit in any one year on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
 
-    1978—Subsec. (a)(2). [Pub. L. 95–268, § 3(1)][/us/pl/95/268/s3/1], struck out provisions relating to limitations on maximum share of liabilities assumed under par. (1) of this subsection.
+    1978—Subsec. (a)(2). [Pub. L. 95–268][/us/pl/95/268], § 3(1), struck out provisions relating to limitations on maximum share of liabilities assumed under par. (1) of this subsection.
 
-    Subsec. (a)(3). [Pub. L. 95–268, § 3(2)][/us/pl/95/268/s3/2], substituted “maximum contingent liability” for “total face amount”.
+    Subsec. (a)(3). [Pub. L. 95–268][/us/pl/95/268], § 3(2), substituted “maximum contingent liability” for “total face amount”.
 
-    Subsec. (a)(4) to (7). [Pub. L. 95–268, § 3(3)][/us/pl/95/268/s3/3], struck out pars. (4) to (7) which set forth requirements for participation by private insurance companies, multilateral organizations, or others in insurance programs, and limitations respecting participation by the Corporation as insurer under contracts of insurance.
+    Subsec. (a)(4) to (7). [Pub. L. 95–268][/us/pl/95/268], § 3(3), struck out pars. (4) to (7) which set forth requirements for participation by private insurance companies, multilateral organizations, or others in insurance programs, and limitations respecting participation by the Corporation as insurer under contracts of insurance.
 
-    Subsec. (b). [Pub. L. 95–268, § 3(2)][/us/pl/95/268/s3/2], substituted “maximum contingent liability” for “total face amount”.
+    Subsec. (b). [Pub. L. 95–268][/us/pl/95/268], § 3(2), substituted “maximum contingent liability” for “total face amount”.
 
-    Subsec. (c). [Pub. L. 95–268, § 3(4)][/us/pl/95/268/s3/4], (5), inserted provisions setting forth requirements respecting United States small businesses or cooperatives, and substituted provisions relating to aggregate amount of loans for mining or other extraction of ores or other nonfuel minerals, for provisions prohibiting loans for mining or other extraction of ores or other minerals.
+    Subsec. (c). [Pub. L. 95–268][/us/pl/95/268], § 3(4), (5), inserted provisions setting forth requirements respecting United States small businesses or cooperatives, and substituted provisions relating to aggregate amount of loans for mining or other extraction of ores or other nonfuel minerals, for provisions prohibiting loans for mining or other extraction of ores or other minerals.
 
-    Subsec. (d). [Pub. L. 95–268, § 3(6)][/us/pl/95/268/s3/6], substituted provisions setting forth exception for financing surveys relating to oil and gas and limitation on amount of expenditures for surveys relating to nonfuel minerals, for provisions setting forth proviso relating to surveys for mining of any deposit of ore, oil, gas, or other mineral.
+    Subsec. (d). [Pub. L. 95–268][/us/pl/95/268], § 3(6), substituted provisions setting forth exception for financing surveys relating to oil and gas and limitation on amount of expenditures for surveys relating to nonfuel minerals, for provisions setting forth proviso relating to surveys for mining of any deposit of ore, oil, gas, or other mineral.
 
-    Subsec. (f)(1). [Pub. L. 95–268, § 3(7)][/us/pl/95/268/s3/7], inserted provisions setting forth exceptions for agreements and contracts.
+    Subsec. (f)(1). [Pub. L. 95–268][/us/pl/95/268], § 3(7), inserted provisions setting forth exceptions for agreements and contracts.
 
-    1974—Subsec. (a)(2). [Pub. L. 93–390, § 2(2)(B)][/us/pl/93/390/s2/2/B], inserted “and institutions” after “multilateral organizations” and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
+    1974—Subsec. (a)(2). [Pub. L. 93–390][/us/pl/93/390], § 2(2)(B), inserted “and institutions” after “multilateral organizations” and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
 
-    Subsec. (a)(4) to (7). [Pub. L. 93–390, § 2(2)(C)][/us/pl/93/390/s2/2/C], added pars. (4) to (7).
+    Subsec. (a)(4) to (7). [Pub. L. 93–390][/us/pl/93/390], § 2(2)(C), added pars. (4) to (7).
 
-    Subsec. (f). [Pub. L. 93–390, § 2(2)(D)][/us/pl/93/390/s2/2/D], added subsec. (f).
+    Subsec. (f). [Pub. L. 93–390][/us/pl/93/390], § 2(2)(D), added subsec. (f).
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–31, title VI, § 6001][/us/pl/106/31/s6001], May 21, 1999, [113 Stat. 112][/us/stat/113/112], provided that the amendment made by section 6001 is effective Oct. 1, 1999.
+    [Pub. L. 106–31, title VI][/us/pl/106/31/tVI], § 6001, May 21, 1999, [113 Stat. 112][/us/stat/113/112], provided that the amendment made by section 6001 is effective Oct. 1, 1999.
 
  __Transfer of Functions__ 
 
@@ -201,27 +201,27 @@
 
  __Extension of OPIC Authority__ 
 
-[Pub. L. 114–113, div. K, title VII, § 7061(b)][/us/pl/114/113/s7061/b], Dec. 18, 2015, [129 Stat. 2810][/us/stat/129/2810], provided that: 
+[Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7061(b), Dec. 18, 2015, [129 Stat. 2810][/us/stat/129/2810], provided that: 
 
 > “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2195(a)(2)][/us/usc/t22/s2195/a/2]\], the authority of subsections (a) through (c) of section 234 of such Act \[[22 U.S.C. 2194(a)][/us/usc/t22/s2194/a]–(c)\] shall remain in effect until September 30, 2016.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 113–235, div. J, title VII, § 7073(b)][/us/pl/113/235/s7073/b], Dec. 16, 2014, [128 Stat. 2679][/us/stat/128/2679].
+    [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7073(b), Dec. 16, 2014, [128 Stat. 2679][/us/stat/128/2679].
 
-    [Pub. L. 113–76, div. K, title VII, § 7064(b)][/us/pl/113/76/s7064/b], Jan. 17, 2014, [128 Stat. 557][/us/stat/128/557].
+    [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7064(b), Jan. 17, 2014, [128 Stat. 557][/us/stat/128/557].
 
-    [Pub. L. 112–74, div. I, title VII, § 7065(b)][/us/pl/112/74/s7065/b], Dec. 23, 2011, [125 Stat. 1252][/us/stat/125/1252].
+    [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7065(b), Dec. 23, 2011, [125 Stat. 1252][/us/stat/125/1252].
 
-    [Pub. L. 111–117, div. F, title VII, § 7079(c)][/us/pl/111/117/s7079/c], Dec. 16, 2009, [123 Stat. 3396][/us/stat/123/3396].
+    [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7079(c), Dec. 16, 2009, [123 Stat. 3396][/us/stat/123/3396].
 
-    [Pub. L. 111–8, div. H, title VII, § 7081(a)][/us/pl/111/8/s7081/a], Mar. 11, 2009, [123 Stat. 910][/us/stat/123/910].
+    [Pub. L. 111–8, div. H, title VII][/us/pl/111/8/dH/tVII], § 7081(a), Mar. 11, 2009, [123 Stat. 910][/us/stat/123/910].
 
-    [Pub. L. 110–161, div. J, title VI, § 634(t)][/us/pl/110/161/s634/t], Dec. 26, 2007, [121 Stat. 2331][/us/stat/121/2331].
+    [Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 634(t), Dec. 26, 2007, [121 Stat. 2331][/us/stat/121/2331].
 
  __Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program__ 
 
-[Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36], provided in part: 
+[Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36], provided in part: 
 
 > “That purchases, investments or other acquisitions of equity by the fund created by section 104 of H.R. 5263 as hereby enacted \[[22 U.S.C. 2194(g)(5)][/us/usc/t22/s2194/g/5]\] are limited to such amounts as may be provided in advance in appropriations Acts”
 
@@ -244,95 +244,95 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F811
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/93/390/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F2
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F764
-[/us/pl/95/268/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F214
-[/us/pl/97/65/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1022
 [/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1671
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/101/218/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs8%2Fc
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1868
-[/us/pl/102/549/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs103
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3651
-[/us/pl/106/31/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6001
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F112
 [/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/stat/117/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1950
 [/us/usc/t22/s2195/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2195%2Fa
-[/us/pl/105/118/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs581
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2435
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/usc/t31/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1306
 [/us/usc/t31/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs724
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/108/158/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs4%2Fa
-[/us/pl/108/158/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs5%2Fa
-[/us/pl/106/31/s6000/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6000%2F1
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/usc/t22/s2392/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fa
-[/us/pl/106/31/s6001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6001%2F2
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/usc/t19/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702
-[/us/pl/106/31/s6001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6001%2F3
+[/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/99/204/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs6%2Fa%2F1
-[/us/pl/99/204/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs6%2Fa%2F2
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
-[/us/pl/99/204/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs7
-[/us/pl/99/204/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs8
-[/us/pl/97/65/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fa%2F1
-[/us/pl/97/65/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fa%2F2
-[/us/pl/97/65/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fa%2F3
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/usc/t22/s2195/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2195%2Fa%2F1
-[/us/pl/97/65/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fa%2F4
-[/us/pl/97/65/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fb%2F1
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/usc/t22/s2195/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2195%2Fa%2F2
-[/us/pl/97/65/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fb%2F2
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/usc/t22/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191
-[/us/pl/97/65/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs4%2Fb%2F3
-[/us/pl/95/268/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F1
-[/us/pl/95/268/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F2
-[/us/pl/95/268/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F3
-[/us/pl/95/268/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F2
-[/us/pl/95/268/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F4
-[/us/pl/95/268/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F6
-[/us/pl/95/268/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs3%2F7
-[/us/pl/93/390/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F2%2FB
-[/us/pl/93/390/s2/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F2%2FC
-[/us/pl/93/390/s2/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F2%2FD
-[/us/pl/106/31/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs6001
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/106/31/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtVI
 [/us/stat/113/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F112
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/114/113/s7061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7061%2Fb
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2810
 [/us/usc/t22/s2195/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2195%2Fa%2F2
 [/us/usc/t22/s2194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fa
-[/us/pl/113/235/s7073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7073%2Fb
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2679
-[/us/pl/113/76/s7064/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7064%2Fb
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F557
-[/us/pl/112/74/s7065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7065%2Fb
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1252
-[/us/pl/111/117/s7079/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7079%2Fc
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3396
-[/us/pl/111/8/s7081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7081%2Fa
+[/us/pl/111/8/dH/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdH%2FtVII
 [/us/stat/123/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F910
-[/us/pl/110/161/s634/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs634%2Ft
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2331
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/usc/t22/s2194/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fg%2F5
 [/us/usc/t22/s2194/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fg%2F5

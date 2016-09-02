@@ -47,7 +47,7 @@
 
         (8) a report on the size and composition of international capital flows, and the factors contributing to such flows, including, where possible, an assessment of the impact of such flows on exchange rates and trade flows.
 
-([Pub. L. 100–418, title III, § 3005(a)][/us/pl/100/418/s3005/a], (b), Aug. 23, 1988, [102 Stat. 1374][/us/stat/102/1374].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3005(a), (b), Aug. 23, 1988, [102 Stat. 1374][/us/stat/102/1374].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t22/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5304
-[/us/pl/100/418/s3005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3005%2Fa
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1374
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1372

@@ -285,7 +285,7 @@
 
                 Any amount received by the Corporation from non-Federal sources in each of the fiscal years 2011 through 2020 that cannot be used to meet the matching requirement under paragraph (3)(A) for the fiscal year in which amount was collected may be carried forward and treated as having been received in the succeeding fiscal year for purposes of meeting the matching requirement of paragraph (3)(A) in such succeeding fiscal year.
 
-    (e) __Repealed.__  __[__  __Pub. L. 113–235, div. B, title VI, § 607__  __][/us/pl/113/235/s607]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2220__  __][/us/stat/128/2220]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 113–235, div. B, title VI__  __][/us/pl/113/235/dB/tVI]__  __, § 607,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2220__  __][/us/stat/128/2220]__ 
 
     (f) __Accountability__ 
 
@@ -319,7 +319,7 @@
 
     (h) __to (j) Omitted__ 
 
-([Pub. L. 111–145, § 9][/us/pl/111/145/s9], Mar. 4, 2010, [124 Stat. 56][/us/stat/124/56]; [Pub. L. 111–198, § 5(b)][/us/pl/111/198/s5/b], July 2, 2010, [124 Stat. 1357][/us/stat/124/1357]; [Pub. L. 113–235, div. B, title VI][/us/pl/113/235], §§ 602–605(a), 606, 607, Dec. 16, 2014, [128 Stat. 2218–2220][/us/stat/128/2218-2220].)
+([Pub. L. 111–145][/us/pl/111/145], § 9, Mar. 4, 2010, [124 Stat. 56][/us/stat/124/56]; [Pub. L. 111–198][/us/pl/111/198], § 5(b), July 2, 2010, [124 Stat. 1357][/us/stat/124/1357]; [Pub. L. 113–235, div. B, title VI][/us/pl/113/235/dB/tVI], §§ 602–605(a), 606, 607, Dec. 16, 2014, [128 Stat. 2218–2220][/us/stat/128/2218-2220].)
 
  __References in Text__ 
 
@@ -327,49 +327,49 @@
 
  __Codification__ 
 
-    Section is comprised of [section 9 of Pub. L. 111–145][/us/pl/111/145/s9]. Subsec. (h) of [section 9 of Pub. L. 111–145][/us/pl/111/145/s9], as redesignated by [Pub. L. 113–235, § 606(1)][/us/pl/113/235/s606/1], amended [section 1187 of Title 8][/us/usc/t8/s1187], Aliens and Nationality. Subsecs. (i) and (j) of [section 9 of Pub. L. 111–145][/us/pl/111/145/s9], as redesignated by [Pub. L. 113–235, § 606(1)][/us/pl/113/235/s606/1], enacted sections 2123 and 2123a of this title, respectively.
+    Section is comprised of [section 9 of Pub. L. 111–145][/us/pl/111/145/s9]. Subsec. (h) of [section 9 of Pub. L. 111–145][/us/pl/111/145/s9], as redesignated by [Pub. L. 113–235][/us/pl/113/235], § 606(1), amended [section 1187 of Title 8][/us/usc/t8/s1187], Aliens and Nationality. Subsecs. (i) and (j) of [section 9 of Pub. L. 111–145][/us/pl/111/145/s9], as redesignated by [Pub. L. 113–235][/us/pl/113/235], § 606(1), enacted sections 2123 and 2123a of this title, respectively.
 
     Section was enacted as part of the United States Capitol Police Administrative Technical Corrections Act of 2009, and not as part of the International Travel Act of 1961 which comprises this chapter.
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(A). [Pub. L. 113–235, § 602(1)][/us/pl/113/235/s602/1], in introductory provisions, substituted “promotion or marketing” for “promotion and marketing” and inserted “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with [section 7265 of title 15][/us/usc/t15/s7265]). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position.” after “United States citizens.”
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–235][/us/pl/113/235], § 602(1), in introductory provisions, substituted “promotion or marketing” for “promotion and marketing” and inserted “At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with [section 7265 of title 15][/us/usc/t15/s7265]). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position.” after “United States citizens.”
 
-    Subsec. (b)(2)(A)(x). [Pub. L. 113–235, § 602(2)][/us/pl/113/235/s602/2], substituted “land or sea passenger transportation sector” for “intercity passenger railroad business”.
+    Subsec. (b)(2)(A)(x). [Pub. L. 113–235][/us/pl/113/235], § 602(2), substituted “land or sea passenger transportation sector” for “intercity passenger railroad business”.
 
-    Subsec. (b)(5)(A)(iv). [Pub. L. 113–235, § 605(a)(1)][/us/pl/113/235/s605/a/1], substituted “all States and territories of the United States and the District of Columbia,” for “all States and the District of Columbia”.
+    Subsec. (b)(5)(A)(iv). [Pub. L. 113–235][/us/pl/113/235], § 605(a)(1), substituted “all States and territories of the United States and the District of Columbia,” for “all States and the District of Columbia”.
 
-    Subsec. (c)(2). [Pub. L. 113–235, § 606(3)][/us/pl/113/235/s606/3], substituted “$500,000” for “$5,000,000”.
+    Subsec. (c)(2). [Pub. L. 113–235][/us/pl/113/235], § 606(3), substituted “$500,000” for “$5,000,000”.
 
-    Subsec. (c)(3)(G) to (I). [Pub. L. 113–235, § 603][/us/pl/113/235/s603], added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
+    Subsec. (c)(3)(G) to (I). [Pub. L. 113–235][/us/pl/113/235], § 603, added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
 
-    Subsec. (d)(2)(B). [Pub. L. 113–235, § 605(a)(2)(A)][/us/pl/113/235/s605/a/2/A], substituted “2020” for “2015”.
+    Subsec. (d)(2)(B). [Pub. L. 113–235][/us/pl/113/235], § 605(a)(2)(A), substituted “2020” for “2015”.
 
-    Subsec. (d)(3)(B)(ii). [Pub. L. 113–235, § 604(1)][/us/pl/113/235/s604/1], substituted “70 percent” for “80 percent”.
+    Subsec. (d)(3)(B)(ii). [Pub. L. 113–235][/us/pl/113/235], § 604(1), substituted “70 percent” for “80 percent”.
 
-    Subsec. (d)(3)(E) to (G). [Pub. L. 113–235, § 604(2)][/us/pl/113/235/s604/2], added subpars. (E) to (G).
+    Subsec. (d)(3)(E) to (G). [Pub. L. 113–235][/us/pl/113/235], § 604(2), added subpars. (E) to (G).
 
-    Subsec. (d)(4)(B). [Pub. L. 113–235, § 605(a)(2)(B)][/us/pl/113/235/s605/a/2/B], substituted “each of the fiscal years 2011 through 2020” for “fiscal year 2011, 2012, 2013, 2014, or 2015”.
+    Subsec. (d)(4)(B). [Pub. L. 113–235][/us/pl/113/235], § 605(a)(2)(B), substituted “each of the fiscal years 2011 through 2020” for “fiscal year 2011, 2012, 2013, 2014, or 2015”.
 
-    Subsec. (e). [Pub. L. 113–235, § 607][/us/pl/113/235/s607], struck out subsec. (e), which related to Corporation’s authority to impose annual assessment on United States members of the international travel and tourism industry.
+    Subsec. (e). [Pub. L. 113–235][/us/pl/113/235], § 607, struck out subsec. (e), which related to Corporation’s authority to impose annual assessment on United States members of the international travel and tourism industry.
 
-    [Pub. L. 113–235, § 606(1)][/us/pl/113/235/s606/1], (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
+    [Pub. L. 113–235][/us/pl/113/235], § 606(1), (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
 
-    Subsec. (f). [Pub. L. 113–235, § 606(4)][/us/pl/113/235/s606/4], added subsec. (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 113–235][/us/pl/113/235], § 606(4), added subsec. (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 113–235, § 606(4)][/us/pl/113/235/s606/4], added subsec. (g). Former subsec. (g) redesignated (i).
+    Subsec. (g). [Pub. L. 113–235][/us/pl/113/235], § 606(4), added subsec. (g). Former subsec. (g) redesignated (i).
 
-    Subsec. (h). [Pub. L. 113–235, § 606(1)][/us/pl/113/235/s606/1], redesignated subsec. (e) as (h). Former subsec. (h) redesignated (j).
+    Subsec. (h). [Pub. L. 113–235][/us/pl/113/235], § 606(1), redesignated subsec. (e) as (h). Former subsec. (h) redesignated (j).
 
-    Subsecs. (i), (j). [Pub. L. 113–235, § 606(1)][/us/pl/113/235/s606/1], redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+    Subsecs. (i), (j). [Pub. L. 113–235][/us/pl/113/235], § 606(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
-    2010—Subsec. (d)(2)(A). [Pub. L. 111–198, § 5(b)(1)][/us/pl/111/198/s5/b/1], (2), substituted “The” for “For fiscal year 2010, the” and “monthly, immediately following the collection of fees under [section 1187(h)(3)(B)(i)(I) of title 8][/us/usc/t8/s1187/h/3/B/i/I],” for “quarterly, beginning on January 1, 2010,”.
+    2010—Subsec. (d)(2)(A). [Pub. L. 111–198][/us/pl/111/198], § 5(b)(1), (2), substituted “The” for “For fiscal year 2010, the” and “monthly, immediately following the collection of fees under [section 1187(h)(3)(B)(i)(I) of title 8][/us/usc/t8/s1187/h/3/B/i/I],” for “quarterly, beginning on January 1, 2010,”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–198, § 5(b)(3)][/us/pl/111/198/s5/b/3], substituted “fiscal years 2012 through 2015,” for “fiscal years 2011 through 2014,”.
+    Subsec. (d)(2)(B). [Pub. L. 111–198][/us/pl/111/198], § 5(b)(3), substituted “fiscal years 2012 through 2015,” for “fiscal years 2011 through 2014,”.
 
-    Subsec. (d)(3)(A). [Pub. L. 111–198, § 5(b)(4)][/us/pl/111/198/s5/b/4], (5), substituted “fiscal year 2011,” for “fiscal year 2010,” in introductory provisions and “fiscal year 2012,” for “fiscal year 2011,” in cls. (i) and (ii).
+    Subsec. (d)(3)(A). [Pub. L. 111–198][/us/pl/111/198], § 5(b)(4), (5), substituted “fiscal year 2011,” for “fiscal year 2010,” in introductory provisions and “fiscal year 2012,” for “fiscal year 2011,” in cls. (i) and (ii).
 
-    Subsec. (d)(4)(B). [Pub. L. 111–198, § 5(b)(6)][/us/pl/111/198/s5/b/6], substituted “fiscal year 2011, 2012, 2013, 2014, or 2015” for “fiscal year 2010, 2011, 2012, 2013, or 2014”.
+    Subsec. (d)(4)(B). [Pub. L. 111–198][/us/pl/111/198], § 5(b)(6), substituted “fiscal year 2011, 2012, 2013, 2014, or 2015” for “fiscal year 2010, 2011, 2012, 2013, or 2014”.
 
 ----------
 
@@ -384,42 +384,42 @@
 [/us/usc/t8/s1187/h/3/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187%2Fh%2F3%2FB%2Fi%2FI
 [/us/usc/t8/s1187/h/3/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187%2Fh%2F3%2FB%2Fi%2FI
 [/us/usc/t8/s1187/h/3/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187%2Fh%2F3%2FB%2Fi%2FI
-[/us/pl/113/235/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs607
+[/us/pl/113/235/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVI
 [/us/stat/128/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2220
-[/us/pl/111/145/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F56
-[/us/pl/111/198/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs5%2Fb
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
 [/us/stat/124/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1357
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVI
 [/us/stat/128/2218-2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2218-2220
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/pl/111/145/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9
 [/us/pl/111/145/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9
-[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
 [/us/pl/111/145/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9
-[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
-[/us/pl/113/235/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs602%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t15/s7265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7265
-[/us/pl/113/235/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs602%2F2
-[/us/pl/113/235/s605/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs605%2Fa%2F1
-[/us/pl/113/235/s606/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F3
-[/us/pl/113/235/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs603
-[/us/pl/113/235/s605/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs605%2Fa%2F2%2FA
-[/us/pl/113/235/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs604%2F1
-[/us/pl/113/235/s604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs604%2F2
-[/us/pl/113/235/s605/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs605%2Fa%2F2%2FB
-[/us/pl/113/235/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs607
-[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
-[/us/pl/113/235/s606/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F4
-[/us/pl/113/235/s606/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F4
-[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
-[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
-[/us/pl/111/198/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs5%2Fb%2F1
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
 [/us/usc/t8/s1187/h/3/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187%2Fh%2F3%2FB%2Fi%2FI
-[/us/pl/111/198/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs5%2Fb%2F3
-[/us/pl/111/198/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs5%2Fb%2F4
-[/us/pl/111/198/s5/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs5%2Fb%2F6
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
 
 

@@ -57,7 +57,7 @@
 
             There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out title III \[[22 U.S.C. 8541][/us/usc/t22/s8541] et seq.\].
 
-([Pub. L. 111–195, title IV, § 401][/us/pl/111/195/s401], July 1, 2010, [124 Stat. 1350][/us/stat/124/1350]; [Pub. L. 112–158, title IV, § 403(d)][/us/pl/112/158/s403/d], title VI, § 605(b), Aug. 10, 2012, [126 Stat. 1255][/us/stat/126/1255], 1265; [Pub. L. 112–239, div. A, title XII, § 1249(b)][/us/pl/112/239/s1249/b], Jan. 2, 2013, [126 Stat. 2016][/us/stat/126/2016].)
+([Pub. L. 111–195, title IV][/us/pl/111/195/tIV], § 401, July 1, 2010, [124 Stat. 1350][/us/stat/124/1350]; [Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 403(d), title VI, § 605(b), Aug. 10, 2012, [126 Stat. 1255][/us/stat/126/1255], 1265; [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1249(b), Jan. 2, 2013, [126 Stat. 2016][/us/stat/126/2016].)
 
  __References in Text__ 
 
@@ -67,9 +67,9 @@
 
     2013—Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “105B(a), or 105C(a)” for “or 105B(a)” and “105B(b), or 105C(b)” for “or 105B(b)”.
 
-    2012—Subsec. (a)(2). [Pub. L. 112–158, § 605(b)][/us/pl/112/158/s605/b], inserted “, and verifiably dismantled its,” after “development of”.
+    2012—Subsec. (a)(2). [Pub. L. 112–158][/us/pl/112/158], § 605(b), inserted “, and verifiably dismantled its,” after “development of”.
 
-    Subsec. (b)(1). [Pub. L. 112–158, § 403(d)][/us/pl/112/158/s403/d], inserted “, 105A(a), or 105B(a)” after “105(a)” and “, 105A(b), or 105B(b)” after “105(b)”.
+    Subsec. (b)(1). [Pub. L. 112–158][/us/pl/112/158], § 403(d), inserted “, 105A(a), or 105B(a)” after “105(a)” and “, 105A(b), or 105B(b)” after “105(b)”.
 
  __Delegation of Functions__ 
 
@@ -111,11 +111,11 @@
 [/us/usc/t22/s8543/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8543%2Fd%2F1%2FA
 [/us/usc/t22/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8511
 [/us/usc/t22/s8541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8541
-[/us/pl/111/195/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs401
+[/us/pl/111/195/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtIV
 [/us/stat/124/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1350
-[/us/pl/112/158/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs403%2Fd
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1255
-[/us/pl/112/239/s1249/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1249%2Fb
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2016
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/stat/124/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1312
@@ -138,8 +138,8 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/158/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs605%2Fb
-[/us/pl/112/158/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs403%2Fd
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/77/60568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F60568
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fa

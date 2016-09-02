@@ -33,7 +33,7 @@
 
         (3) shall consult with the heads of such other agencies in determining which foreign countries will receive assistance under this section.
 
-([Pub. L. 103–392, title V, § 501][/us/pl/103/392/s501], Oct. 22, 1994, [108 Stat. 4103][/us/stat/108/4103].)
+([Pub. L. 103–392, title V][/us/pl/103/392/tV], § 501, Oct. 22, 1994, [108 Stat. 4103][/us/stat/108/4103].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/103/392/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs501
+[/us/pl/103/392/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2FtV
 [/us/stat/108/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4103
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

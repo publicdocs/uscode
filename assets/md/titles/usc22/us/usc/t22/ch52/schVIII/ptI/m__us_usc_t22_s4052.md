@@ -37,7 +37,7 @@
 
         (3) Any participant who completes a period of service authorized by this subsection shall be retired at the end of the month in which such authorized service is completed.
 
-([Pub. L. 96–465, title I, § 812][/us/pl/96/465/s812], Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 101–513, title V, § 587(b)][/us/pl/101/513/s587/b], Nov. 5, 1990, [104 Stat. 2056][/us/stat/104/2056]; [Pub. L. 102–499, § 4(c)][/us/pl/102/499/s4/c], Oct. 24, 1992, [106 Stat. 3265][/us/stat/106/3265]; [Pub. L. 105–382, § 3][/us/pl/105/382/s3], Nov. 13, 1998, [112 Stat. 3408][/us/stat/112/3408].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 812, Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 587(b), Nov. 5, 1990, [104 Stat. 2056][/us/stat/104/2056]; [Pub. L. 102–499][/us/pl/102/499], § 4(c), Oct. 24, 1992, [106 Stat. 3265][/us/stat/106/3265]; [Pub. L. 105–382][/us/pl/105/382], § 3, Nov. 13, 1998, [112 Stat. 3408][/us/stat/112/3408].)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
-[/us/pl/96/465/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs812
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2113
-[/us/pl/101/513/s587/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs587%2Fb
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2056
-[/us/pl/102/499/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F499%2Fs4%2Fc
+[/us/pl/102/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F499
 [/us/stat/106/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3265
-[/us/pl/105/382/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs3
+[/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
 [/us/stat/112/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3408
 [/us/pl/105/382/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs4%2Fa%2F2
 [/us/usc/t22/s4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4044

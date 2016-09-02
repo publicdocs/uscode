@@ -33,7 +33,7 @@
 
         Foreign travel for official purposes by members and staff of the Commission may be authorized by either the Chairman or the Cochairman.
 
-([Pub. L. 106–286, div. B, title III, § 307][/us/pl/106/286/s307], Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 307, Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s6918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6918
-[/us/pl/106/286/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs307
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F899
 
 

@@ -21,7 +21,7 @@
 
  __Short Title__ 
 
-[Act Sept. 13, 1950, ch. 948, § 1][/us/act/1950-09-13/ch948/s1], [64 Stat. 846][/us/stat/64/846], provided that: 
+[Act Sept. 13, 1950, ch. 948][/us/act/1950-09-13/ch948], § 1, [64 Stat. 846][/us/stat/64/846], provided that: 
 
 > “This Act \[enacting this section and sections 277d–2 to 277d–9 of this title\] may be cited as the ‘American-Mexican Treaty Act of 1950’.”
 
@@ -34,7 +34,7 @@
 
 [/us/act/1950-09-13/ch948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-13%2Fch948
 [/us/stat/64/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F846
-[/us/act/1950-09-13/ch948/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-13%2Fch948%2Fs1
+[/us/act/1950-09-13/ch948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-13%2Fch948
 [/us/stat/64/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F846
 
 

@@ -29,7 +29,7 @@
 
         In furtherance of the purposes of this section, the agency primarily responsible for administering subchapter I of this chapter shall cooperate fully with, and share its expertise in development matters with, other agencies of the United States Government involved in narcotics control activities abroad.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 126, as added [Pub. L. 96–53, title I, § 110][/us/pl/96/53/s110], Aug. 14, 1979, [93 Stat. 363][/us/stat/93/363]; amended [Pub. L. 99–83, title VI, § 603][/us/pl/99/83/s603], Aug. 8, 1985, [99 Stat. 228][/us/stat/99/228]; [Pub. L. 101–513, title V, § 562(d)(7)][/us/pl/101/513/s562/d/7], Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 126, as added [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 110, Aug. 14, 1979, [93 Stat. 363][/us/stat/93/363]; amended [Pub. L. 99–83, title VI][/us/pl/99/83/tVI], § 603, Aug. 8, 1985, [99 Stat. 228][/us/stat/99/228]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(d)(7), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -57,11 +57,11 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/96/53/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs110
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F363
-[/us/pl/99/83/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs603
+[/us/pl/99/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVI
 [/us/stat/99/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F228
-[/us/pl/101/513/s562/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd%2F7
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2031
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

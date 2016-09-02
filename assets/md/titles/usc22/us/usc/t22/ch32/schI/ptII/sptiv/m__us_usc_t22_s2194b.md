@@ -47,7 +47,7 @@
 
             The advisory group shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 234A, as added [Pub. L. 99–204, § 9(a)][/us/pl/99/204/s9/a], Dec. 23, 1985, [99 Stat. 1672][/us/stat/99/1672]; amended [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 234A, as added [Pub. L. 99–204][/us/pl/99/204], § 9(a), Dec. 23, 1985, [99 Stat. 1672][/us/stat/99/1672]; amended [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
 
  __References in Text__ 
 
@@ -70,9 +70,9 @@
 
 [/us/usc/t22/s2197/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2197%2Fe
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/204/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs9%2Fa
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1672
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

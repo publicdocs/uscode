@@ -17,9 +17,9 @@
 
     (a) When the President finds that any economically less developed country is diverting development assistance furnished pursuant to the Foreign Assistance Act of 1961, as amended \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], or sales under the Food for Peace Act, as amended \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\], to military expenditures, or is diverting its own resources to unnecessary military expenditures, to a degree which materially interferes with its development, such country shall be immediately ineligible for further sales and guarantees under sections 2761, 2762, 2763, and 2764 of this title, until the President is assured that such diversion will no longer take place.
 
-    (b) Repealed. [Pub. L. 93–559, § 45(a)(5)][/us/pl/93/559/s45/a/5], Dec. 30, 1974, [88 Stat. 1814][/us/stat/88/1814].
+    (b) Repealed. [Pub. L. 93–559][/us/pl/93/559], § 45(a)(5), Dec. 30, 1974, [88 Stat. 1814][/us/stat/88/1814].
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 35, Oct. 22, 1968, [82 Stat. 1325][/us/stat/82/1325]; [Pub. L. 93–559, § 45(a)(5)][/us/pl/93/559/s45/a/5], Dec. 30, 1974, [88 Stat. 1814][/us/stat/88/1814]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(T), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 35, Oct. 22, 1968, [82 Stat. 1325][/us/stat/82/1325]; [Pub. L. 93–559][/us/pl/93/559], § 45(a)(5), Dec. 30, 1974, [88 Stat. 1814][/us/stat/88/1814]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(T), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/93/559/s45/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs45%2Fa%2F5
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1814
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1325
-[/us/pl/93/559/s45/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs45%2Fa%2F5
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1814
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

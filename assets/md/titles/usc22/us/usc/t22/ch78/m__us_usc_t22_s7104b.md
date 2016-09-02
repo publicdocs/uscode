@@ -73,7 +73,7 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 112–239, div. A, title XVII, § 1704][/us/pl/112/239/s1704], Jan. 2, 2013, [126 Stat. 2094][/us/stat/126/2094].)
+([Pub. L. 112–239, div. A, title XVII][/us/pl/112/239/dA/tXVII], § 1704, Jan. 2, 2013, [126 Stat. 2094][/us/stat/126/2094].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t22/s7104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104a
-[/us/pl/112/239/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1704
+[/us/pl/112/239/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVII
 [/us/stat/126/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2094
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg

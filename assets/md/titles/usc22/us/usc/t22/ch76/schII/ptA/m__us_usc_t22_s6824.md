@@ -41,7 +41,7 @@
 
             Notwithstanding any other provision of law (including an international agreement), a representative of the United States on the Advisory Board may not accept compensation for services performed as a member of the Board, except that such representative may accept travel expenses, including per diem in lieu of subsistence, while away from the representative’s home or regular place of business in the performance of services for the Board.
 
-([Pub. L. 106–264, title I, § 124][/us/pl/106/264/s124], Aug. 19, 2000, [114 Stat. 756][/us/stat/114/756].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 124, Aug. 19, 2000, [114 Stat. 756][/us/stat/114/756].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/264/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs124
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F756
 
 

@@ -79,11 +79,11 @@
 
         The authority granted by this section is in addition to the authorities granted by any other provision of law.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 40, as added [Pub. L. 99–399, title V, § 506(2)][/us/pl/99/399/s506/2], Aug. 27, 1986, [100 Stat. 871][/us/stat/100/871].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 40, as added [Pub. L. 99–399, title V][/us/pl/99/399/tV], § 506(2), Aug. 27, 1986, [100 Stat. 871][/us/stat/100/871].)
 
  __Prior Provisions__ 
 
-    A prior section 40 of act Aug. 1, 1956, was renumbered section 41 by [section 506(1) of Pub. L. 99–399][/us/pl/99/399/s506/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 40 of act Aug. 1, 1956, was renumbered section 41 by [section 506(1) of Pub. L. 99–399][/us/pl/99/399/s506/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
 ----------
 
@@ -94,11 +94,11 @@
 
 [/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/99/399/s506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs506%2F2
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F871
 [/us/pl/99/399/s506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs506%2F1
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 
 

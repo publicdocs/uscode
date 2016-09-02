@@ -31,11 +31,11 @@
 
         Any payment made to the United States by the Association as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
-([Pub. L. 86–565, § 7][/us/pl/86/565/s7], June 30, 1960, [74 Stat. 294][/us/stat/74/294]; [Pub. L. 88–310][/us/pl/88/310], §§ 1, 2, May 26, 1964, [78 Stat. 200][/us/stat/78/200].)
+([Pub. L. 86–565][/us/pl/86/565], § 7, June 30, 1960, [74 Stat. 294][/us/stat/74/294]; [Pub. L. 88–310][/us/pl/88/310], §§ 1, 2, May 26, 1964, [78 Stat. 200][/us/stat/78/200].)
 
  __Codification__ 
 
-    In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/86/565/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs7
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
 [/us/stat/74/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F294
 [/us/pl/88/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F310
 [/us/stat/78/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F200
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/88/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F310
 

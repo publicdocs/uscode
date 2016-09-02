@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda, leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity.
 
-([Pub. L. 107–206, title II, § 2015][/us/pl/107/206/s2015], Aug. 2, 2002, [116 Stat. 909][/us/stat/116/909].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2015, Aug. 2, 2002, [116 Stat. 909][/us/stat/116/909].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/206/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2015
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F909
 
 

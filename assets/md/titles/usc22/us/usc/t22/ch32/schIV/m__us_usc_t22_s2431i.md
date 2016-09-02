@@ -57,7 +57,7 @@
 
         (3) Review the programs, operations, and fiscal audits of each administering body.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 811, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 892][/us/stat/112/892]; amended [Pub. L. 107–26, § 3][/us/pl/107/26/s3], Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 811, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 892][/us/stat/112/892]; amended [Pub. L. 107–26][/us/pl/107/26], § 3, Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __Amendments__ 
 
@@ -85,11 +85,11 @@
 [/us/usc/t7/s1738i/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i%2Fb%2F2
 [/us/usc/t7/s1738i/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i%2Fb%2F1%2FA
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F892
-[/us/pl/107/26/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26%2Fs3
+[/us/pl/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26
 [/us/stat/115/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F206
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t7/s1738i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738i%2Fa

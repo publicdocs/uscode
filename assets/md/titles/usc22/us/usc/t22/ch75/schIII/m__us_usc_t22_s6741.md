@@ -39,7 +39,7 @@
 
             As used in paragraph (1), the term “Federal agency” has the meaning given the term “agency” in [section 551(1) of title 5][/us/usc/t5/s551/1].
 
-([Pub. L. 105–277, div. I, title IV, § 401][/us/pl/105/277/s401], Oct. 21, 1998, [112 Stat. 2681–880][/us/stat/112/2681-880].)
+([Pub. L. 105–277, div. I, title IV][/us/pl/105/277/dI/tIV], § 401, Oct. 21, 1998, [112 Stat. 2681–880][/us/stat/112/2681-880].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/105/277/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs401
+[/us/pl/105/277/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIV
 [/us/stat/112/2681-880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-880
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

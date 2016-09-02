@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the President to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\], $300,000,000 for the fiscal year 1979 for Egypt, in addition to amounts otherwise authorized to be appropriated for such chapter for the fiscal year 1979. The amounts appropriated pursuant to this section may be made available until expended.
 
-([Pub. L. 96–35, § 5][/us/pl/96/35/s5], July 20, 1979, [93 Stat. 91][/us/stat/93/91].)
+([Pub. L. 96–35][/us/pl/96/35], § 5, July 20, 1979, [93 Stat. 91][/us/stat/93/91].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/96/35/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs5
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F91
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

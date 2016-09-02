@@ -17,7 +17,7 @@
 
     To carry out this chapter, there are authorized to be appropriated $4,400,000 for the fiscal year ending September 30, 1980, $4,500,000 for the fiscal year ending September 30, 1981, $4,000,000 for the fiscal year ending September 30, 1982, and such sums as may be necessary for any subsequent fiscal years.
 
-([Pub. L. 94–472, § 9][/us/pl/94/472/s9], Oct. 11, 1976, [90 Stat. 2064][/us/stat/90/2064]; [Pub. L. 95–381, § 1][/us/pl/95/381/s1], Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726]; [Pub. L. 96–72, § 23(a)][/us/pl/96/72/s23/a], Sept. 29, 1979, [93 Stat. 536][/us/stat/93/536]; [Pub. L. 97–33, § 5][/us/pl/97/33/s5], Aug. 7, 1981, [95 Stat. 171][/us/stat/95/171].)
+([Pub. L. 94–472][/us/pl/94/472], § 9, Oct. 11, 1976, [90 Stat. 2064][/us/stat/90/2064]; [Pub. L. 95–381][/us/pl/95/381], § 1, Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726]; [Pub. L. 96–72][/us/pl/96/72], § 23(a), Sept. 29, 1979, [93 Stat. 536][/us/stat/93/536]; [Pub. L. 97–33][/us/pl/97/33], § 5, Aug. 7, 1981, [95 Stat. 171][/us/stat/95/171].)
 
  __Amendments__ 
 
@@ -29,13 +29,13 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–72, § 23(b)][/us/pl/96/72/s23/b], Sept. 29, 1979, [93 Stat. 536][/us/stat/93/536], provided that: 
+[Pub. L. 96–72][/us/pl/96/72], § 23(b), Sept. 29, 1979, [93 Stat. 536][/us/stat/93/536], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1979.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–381, § 4][/us/pl/95/381/s4], Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726], provided that: 
+[Pub. L. 95–381][/us/pl/95/381], § 4, Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall take effect on October 1, 1978.”
 
@@ -46,20 +46,20 @@
 ----------
 ----------
 
-[/us/pl/94/472/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs9
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2064
-[/us/pl/95/381/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381%2Fs1
+[/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381
 [/us/stat/92/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F726
-[/us/pl/96/72/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs23%2Fa
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F536
-[/us/pl/97/33/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33%2Fs5
+[/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
 [/us/stat/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F171
 [/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381
-[/us/pl/96/72/s23/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs23%2Fb
+[/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F536
-[/us/pl/95/381/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381%2Fs4
+[/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381
 [/us/stat/92/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F726
 
 

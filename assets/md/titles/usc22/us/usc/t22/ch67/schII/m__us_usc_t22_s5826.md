@@ -17,7 +17,7 @@
 
     Should the Secretary of the Treasury determine that foreign countries are engaged in tied aid practices with respect to any of the independent states of the former Soviet Union that violate the 1991 Helsinki agreement of the Organization for Economic Cooperation and Development, the President should give priority attention to combatting such practices.
 
-([Pub. L. 102–511, title III, § 306][/us/pl/102/511/s306], Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
+([Pub. L. 102–511, title III][/us/pl/102/511/tIII], § 306, Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs306
+[/us/pl/102/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIII
 [/us/stat/106/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3335
 
 

@@ -23,7 +23,7 @@
 
         At such times that a report is transmitted pursuant to subsection (a), the Director of Central Intelligence shall promptly prepare and submit to the Congress a separate report containing any credible information indicating that the country described in subsection (a) has engaged in any activity identified under subparagraph (A), (B), or (C) of [section 2797b(a)(1) of this title][/us/usc/t22/s2797b/a/1] within the previous two years.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73A, as added [Pub. L. 103–236, title VII, § 735(d)][/us/pl/103/236/s735/d], Apr. 30, 1994, [108 Stat. 506][/us/stat/108/506]; amended [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1136(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–496.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73A, as added [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 735(d), Apr. 30, 1994, [108 Stat. 506][/us/stat/108/506]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1136(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–496.)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t22/s2797b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b%2Fa%2F1
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/103/236/s735/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs735%2Fd
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F506
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

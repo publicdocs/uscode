@@ -31,7 +31,7 @@
 
         (4) Any other appropriate information relating to the needs of orphans and other vulnerable children in developing countries that could be addressed through the provision of assistance authorized in [section 2152f of this title][/us/usc/t22/s2152f] or under any other provision of law.
 
-([Pub. L. 109–95, § 5][/us/pl/109/95/s5], Nov. 8, 2005, [119 Stat. 2117][/us/stat/119/2117].)
+([Pub. L. 109–95][/us/pl/109/95], § 5, Nov. 8, 2005, [119 Stat. 2117][/us/stat/119/2117].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Appropriate Congressional Committees Defined__ 
 
-[Pub. L. 109–95, § 6][/us/pl/109/95/s6], Nov. 8, 2005, [119 Stat. 2118][/us/stat/119/2118], provided that: 
+[Pub. L. 109–95][/us/pl/109/95], § 6, Nov. 8, 2005, [119 Stat. 2118][/us/stat/119/2118], provided that: 
 
 > “In this Act \[see Short Title of 2005 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151]\], the term ‘appropriate congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.”
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t22/s2152f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f
 [/us/usc/t22/s2152f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f
-[/us/pl/109/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs5
+[/us/pl/109/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95
 [/us/stat/119/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2117
 [/us/pl/109/95/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs4%2Fa
 [/us/usc/t22/s2152f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f
@@ -66,7 +66,7 @@
 [/us/stat/119/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2111
 [/us/usc/t22/s2152f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/109/95/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs6
+[/us/pl/109/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95
 [/us/stat/119/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2118
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

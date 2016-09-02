@@ -49,7 +49,7 @@
 
         For purposes of this section, any medical care or related service covered by this section and performed abroad by a covered person at the direction or with the approval of the United States chief of mission or other principal representative of the United States in the area shall be deemed to be within the scope of employment of the individual performing the service.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 30, as added [Pub. L. 96–465, title II, § 2201(a)][/us/pl/96/465/s2201/a], Oct. 17, 1980, [94 Stat. 2155][/us/stat/94/2155]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 30, as added [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2201(a), Oct. 17, 1980, [94 Stat. 2155][/us/stat/94/2155]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
 
  __Effective Date__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/96/465/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2201%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2155
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

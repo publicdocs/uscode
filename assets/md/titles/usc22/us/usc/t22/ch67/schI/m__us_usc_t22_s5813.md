@@ -29,7 +29,7 @@
 
         (3) the amount of funds available for fiscal year 1993 under the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] that are proposed to be made to each agency to carry out activities for the independent states under that Act or this Act.
 
-([Pub. L. 102–511, title I, § 103][/us/pl/102/511/s103], Oct. 24, 1992, [106 Stat. 3323][/us/stat/106/3323].)
+([Pub. L. 102–511, title I][/us/pl/102/511/tI], § 103, Oct. 24, 1992, [106 Stat. 3323][/us/stat/106/3323].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t22/s5823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5823
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/102/511/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs103
+[/us/pl/102/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtI
 [/us/stat/106/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3323
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

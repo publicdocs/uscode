@@ -17,7 +17,7 @@
 
     The provisions of article IX, sections 2 to 9, both inclusive, and the first sentence of article VIII, section 2(b), of the Articles of Agreement of the Fund, and the provisions of article VI, section 5(i), and article VII, sections 2 to 9, both inclusive, of the Articles of Agreement of the Bank, shall have full force and effect in the United States and its Territories and possessions upon acceptance of membership by the United States in, and the establishment of, the Fund and the Bank, respectively.
 
-([July 31, 1945, ch. 339, § 11][/us/act/1945-07-31/ch339/s11], [59 Stat. 516][/us/stat/59/516].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 11, [59 Stat. 516][/us/stat/59/516].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs11
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F516
 
 

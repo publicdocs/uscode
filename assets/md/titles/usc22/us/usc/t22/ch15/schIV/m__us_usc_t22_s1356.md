@@ -25,7 +25,7 @@
 
  __References in Text__ 
 
-    [Section 4 of the Act of March 8, 1902][/us/act/1902-03-08/s4] ([32 Stat. 54][/us/stat/32/54], ch. 140), referred to in text, was classified to [section 123a of Title 19][/us/usc/t19/s123a], Customs Duties, and was transferred to section 3343(b) of the Internal Revenue Code of 1939, and subsequently repealed by [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 506(b), [60 Stat. 157][/us/stat/60/157], eff. July 4, 1946.
+    [Section 4 of the Act of March 8, 1902][/us/act/1902-03-08/s4] ([32 Stat. 54][/us/stat/32/54], ch. 140), referred to in text, was classified to [section 123a of Title 19][/us/usc/t19/s123a], Customs Duties, and was transferred to section 3343(b) of the Internal Revenue Code of 1939, and subsequently repealed by [act Apr. 30, 1946, ch. 244, title V][/us/act/1946-04-30/ch244/tV], § 506(b), [60 Stat. 157][/us/stat/60/157], eff. July 4, 1946.
 
     [Section 19 of the Act of March 24, 1934][/us/act/1934-03-24/s19] ([48 Stat. 456][/us/stat/48/456], ch. 84), as added to such Act by [section 6 of the Act of August 7, 1939][/us/act/1939-08-07/s6] ([53 Stat. 1232][/us/stat/53/1232], ch. 502), referred to in text, was classified to [section 1248 of Title 48][/us/usc/t48/s1248], Territories and Insular Possessions, which was omitted from the Code.
 
@@ -53,7 +53,7 @@
 [/us/act/1902-03-08/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-08%2Fs4
 [/us/stat/32/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F54
 [/us/usc/t19/s123a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs123a
-[/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
+[/us/act/1946-04-30/ch244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244%2FtV
 [/us/stat/60/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F157
 [/us/act/1934-03-24/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fs19
 [/us/stat/48/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F456

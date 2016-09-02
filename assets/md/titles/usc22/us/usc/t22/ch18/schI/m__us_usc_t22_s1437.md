@@ -17,7 +17,7 @@
 
     In carrying out the provisions of this chapter it shall be the duty of the Secretary and the Broadcasting Board of Governors to utilize, to the maximum extent practicable, the services and facilities of private agencies, including existing American press, publishing, radio, motion picture, and other agencies, through contractual arrangements or otherwise. It is the intent of Congress that the Secretary and the Broadcasting Board of Governors shall encourage participation in carrying out the purposes of this chapter by the maximum number of different private agencies in each field consistent with the present or potential market for their services in each country.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1005, [62 Stat. 14][/us/stat/62/14]; [Pub. L. 112–239, div. A, title X, § 1078(d)(2)][/us/pl/112/239/s1078/d/2], Jan. 2, 2013, [126 Stat. 1959][/us/stat/126/1959].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1005, [62 Stat. 14][/us/stat/62/14]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1078(d)(2), Jan. 2, 2013, [126 Stat. 1959][/us/stat/126/1959].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title X, § 1078(e)][/us/pl/112/239/s1078/e], Jan. 2, 2013, [126 Stat. 1959][/us/stat/126/1959], provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1078(e), Jan. 2, 2013, [126 Stat. 1959][/us/stat/126/1959], provided that: 
 
 > “This section \[amending this section and sections 1461, 1461–1a, and 1462 of this title and enacting provisions set out as a note under [section 1461 of this title][/us/usc/t22/s1461]\] shall take effect and apply on the date that is 180 days after the date of the enactment of this section \[Jan. 2, 2013\].”
 
@@ -38,10 +38,10 @@
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F14
-[/us/pl/112/239/s1078/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fd%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1959
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/239/s1078/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fe
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1959
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 

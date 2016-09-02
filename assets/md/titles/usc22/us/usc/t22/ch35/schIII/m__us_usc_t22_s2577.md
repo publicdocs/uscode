@@ -39,19 +39,19 @@
 
         Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliance with arms control, nonproliferation, and disarmament agreements.
 
-([Pub. L. 87–297, title III, § 306][/us/pl/87/297/s306], formerly § 37, as added [Pub. L. 95–108, § 4][/us/pl/95/108/s4], Aug. 17, 1977, [91 Stat. 871][/us/stat/91/871]; amended [Pub. L. 103–236, title VII, § 712][/us/pl/103/236/s712], Apr. 30, 1994, [108 Stat. 495][/us/stat/108/495]; renumbered § 306 and amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(11), (21), Oct. 21, 1998, [112 Stat. 2681–770][/us/stat/112/2681-770], 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1115\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489.)
+([Pub. L. 87–297, title III][/us/pl/87/297/tIII], § 306, formerly § 37, as added [Pub. L. 95–108][/us/pl/95/108], § 4, Aug. 17, 1977, [91 Stat. 871][/us/stat/91/871]; amended [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 712, Apr. 30, 1994, [108 Stat. 495][/us/stat/108/495]; renumbered § 306 and amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1223(11), (21), Oct. 21, 1998, [112 Stat. 2681–770][/us/stat/112/2681-770], 2681–772; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1115\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489.)
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1115(a)\], struck out “adequately” before “verified” in introductory provisions.
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1115(a)\], struck out “adequately” before “verified” in introductory provisions.
 
-    Subsecs. (b) to (d). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1115(b)\], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Language in section 1000(a)(7) \[title XI, § 1115(b)\] directing redesignation of subsec. (d) as (e) could not be executed. See 1998 Amendment note below.
+    Subsecs. (b) to (d). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1115(b)\], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. Language in section 1000(a)(7) \[title XI, § 1115(b)\] directing redesignation of subsec. (d) as (e) could not be executed. See 1998 Amendment note below.
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1223(11)(A)][/us/pl/105/277/s1223/11/A], substituted “Secretary of State” for “Director” in introductory provisions and par. (1) and substituted “Department of State” for “Agency” in par. (3).
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1223(11)(A), substituted “Secretary of State” for “Director” in introductory provisions and par. (1) and substituted “Department of State” for “Agency” in par. (3).
 
-    Subsec. (b). [Pub. L. 105–277, § 1223(11)(A)][/us/pl/105/277/s1223/11/A], substituted “Secretary of State” for “Director”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1223(11)(A), substituted “Secretary of State” for “Director”.
 
-    Subsec. (d). [Pub. L. 105–277, § 1223(11)(B)][/us/pl/105/277/s1223/11/B], struck out heading and text of subsec. (d). Text read as follows: “In order to ensure adherence of the United States to obligations or commitments undertaken in arms control, nonproliferation, and disarmament agreements, and in order for the Director to make the assessment required by [section 2593a(a)(5) of this title][/us/usc/t22/s2593a/a/5], the Director, or the Director’s designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on United States adherence to obligations undertaken in arms control, nonproliferation, or disarmament agreements.”
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1223(11)(B), struck out heading and text of subsec. (d). Text read as follows: “In order to ensure adherence of the United States to obligations or commitments undertaken in arms control, nonproliferation, and disarmament agreements, and in order for the Director to make the assessment required by [section 2593a(a)(5) of this title][/us/usc/t22/s2593a/a/5], the Director, or the Director’s designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on United States adherence to obligations undertaken in arms control, nonproliferation, or disarmament agreements.”
 
     1994—[Pub. L. 103–236][/us/pl/103/236] substituted “Verification of compliance” for “Verification of Arms Control Agreements” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) requiring the Director to report to Congress relating to verification of arms control proposals and agreements.
 
@@ -70,20 +70,20 @@
 ----------
 ----------
 
-[/us/pl/87/297/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs306
-[/us/pl/95/108/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108%2Fs4
+[/us/pl/87/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtIII
+[/us/pl/95/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108
 [/us/stat/91/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F871
-[/us/pl/103/236/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs712
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F495
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-770
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/277/s1223/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F11%2FA
-[/us/pl/105/277/s1223/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F11%2FA
-[/us/pl/105/277/s1223/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F11%2FB
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2593a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593a%2Fa%2F5
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

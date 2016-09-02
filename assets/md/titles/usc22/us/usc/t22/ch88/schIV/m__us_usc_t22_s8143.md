@@ -37,7 +37,7 @@
 
             In any such civil action, process shall be served on a defendant wherever the defendant may reside or may be found.
 
-([Pub. L. 109–401, title II, § 243][/us/pl/109/401/s243], Dec. 18, 2006, [120 Stat. 2749][/us/stat/120/2749].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 243, Dec. 18, 2006, [120 Stat. 2749][/us/stat/120/2749].)
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/usc/t22/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8141
 [/us/usc/t22/s8124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8124
 [/us/usc/t22/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8141
-[/us/pl/109/401/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs243
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2749
 
 

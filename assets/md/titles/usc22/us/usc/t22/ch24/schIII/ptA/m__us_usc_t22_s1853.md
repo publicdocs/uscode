@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1842.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1851 _us_usc_t22_s1852.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
 
 ## § 1853. Assistance to Yugoslavia
 
     In furnishing assistance to Yugoslavia, the President shall continuously assure himself (1) that Yugoslavia continues to maintain its independence, (2) that Yugoslavia is not participating in any policy or program for the Communist conquest of the world, and (3) that the furnishing of such assistance is in the interest of the national security of the United States. The President shall keep the Foreign Relations Committee and the Appropriations Committee of the Senate and the Speaker of the House of Representatives fully and constantly informed of any assistance furnished to Yugoslavia under this chapter.
 
-([Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 143, as added [July 18, 1956, ch. 627, § 5][/us/act/1956-07-18/ch627/s5], [70 Stat. 556][/us/stat/70/556]; amended [Pub. L. 85–141, § 5(b)][/us/pl/85/141/s5/b], Aug. 14, 1957, [71 Stat. 356][/us/stat/71/356].)
+([Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 143, as added [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], § 5, [70 Stat. 556][/us/stat/70/556]; amended [Pub. L. 85–141][/us/pl/85/141], § 5(b), Aug. 14, 1957, [71 Stat. 356][/us/stat/71/356].)
 
  __Amendments__ 
 
@@ -25,15 +25,15 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1842.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1851 _us_usc_t22_s1852.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptA/m__us_usc_t22_s1854.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1853)
 
 ----------
 ----------
 
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
-[/us/act/1956-07-18/ch627/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627%2Fs5
+[/us/act/1956-07-18/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627
 [/us/stat/70/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F556
-[/us/pl/85/141/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141%2Fs5%2Fb
+[/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/stat/71/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F356
 [/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 

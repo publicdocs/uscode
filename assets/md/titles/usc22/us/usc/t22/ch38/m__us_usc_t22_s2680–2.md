@@ -23,7 +23,7 @@
 
         The Department of State shall also make available adequate parking for members and staff of the congressional committees of jurisdiction in order to facilitate attendance of meetings at the Department of State.
 
-([Pub. L. 103–236, title I, § 129][/us/pl/103/236/s129], Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394].)
+([Pub. L. 103–236, title I][/us/pl/103/236/tI], § 129, Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs129
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F394
 
 

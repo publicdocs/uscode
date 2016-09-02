@@ -23,7 +23,7 @@
 
         The Administrator of the United States Agency for International Development shall seek to ensure that appropriate programs of the Agency play a primary role in preparing candidate countries to become eligible countries.
 
-([Pub. L. 108–199, div. D, title VI, § 615][/us/pl/108/199/s615], Jan. 23, 2004, [118 Stat. 224][/us/stat/118/224].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 615, Jan. 23, 2004, [118 Stat. 224][/us/stat/118/224].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/199/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs615
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F224
 
 

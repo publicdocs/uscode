@@ -23,7 +23,7 @@
 
         The United States Executive Director to the International Bank for Reconstruction and Development shall request the management of the International Bank for Reconstruction and Development to prepare a review and analysis of the debt burden of the developing countries, with particular attention to alternatives for dealing with the debt problem including new lending instruments, rescheduling and refinancing of existing debt, securitization and debt conversion techniques, discounted debt repurchases, and the International Debt Management Authority described in [section 5331 of this title][/us/usc/t22/s5331] no later than 1 year after August 23, 1988.
 
-([Pub. L. 100–418, title III, § 3113][/us/pl/100/418/s3113], Aug. 23, 1988, [102 Stat. 1378][/us/stat/102/1378].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3113, Aug. 23, 1988, [102 Stat. 1378][/us/stat/102/1378].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t22/s5331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5331
 [/us/usc/t22/s5331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5331
-[/us/pl/100/418/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3113
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1378
 
 

@@ -31,7 +31,7 @@
 
         Requests for appropriations to the Fund under [section 4061(b) of this title][/us/usc/t22/s4061/b] shall include reports to the Congress on the sums credited to the Fund under this section.
 
-([Pub. L. 96–465, title I, § 822][/us/pl/96/465/s822], Oct. 17, 1980, [94 Stat. 2121][/us/stat/94/2121]; Ex. Ord. No. 12446, § 4(d), Oct. 17, 1983, 48 F.R. 48445.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 822, Oct. 17, 1980, [94 Stat. 2121][/us/stat/94/2121]; Ex. Ord. No. 12446, § 4(d), Oct. 17, 1983, 48 F.R. 48445.)
 
  __Amendments__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t22/s4045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fe
 [/us/usc/t22/s4061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4061%2Fb
-[/us/pl/96/465/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs822
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2121
 [/us/usc/t22/s4045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fe
 [/us/usc/t22/s4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067

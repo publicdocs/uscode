@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $66,750,000 for payment by the Secretary of the Treasury: Provided, however, That no funds may be made available for such contribution for the fiscal year 1982.
 
-([Pub. L. 89–369, § 26][/us/pl/89/369/s26], as added [Pub. L. 97–35, title XIII, § 1352(a)][/us/pl/97/35/s1352/a], Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
+([Pub. L. 89–369][/us/pl/89/369], § 26, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1352(a), Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/369/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs26
-[/us/pl/97/35/s1352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1352%2Fa
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F744
 [/us/pl/97/35/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1372
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i

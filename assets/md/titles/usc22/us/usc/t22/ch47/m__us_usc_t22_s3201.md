@@ -25,31 +25,31 @@
 
     (d) cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power in aiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
 
-([Pub. L. 95–242, § 2][/us/pl/95/242/s2], Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120].)
+([Pub. L. 95–242][/us/pl/95/242], § 2, Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120].)
 
  __Effective Date__ 
 
-[Pub. L. 95–242, title VI, § 603(c)][/us/pl/95/242/s603/c], Mar. 10, 1978, [92 Stat. 152][/us/stat/92/152], provided that: 
+[Pub. L. 95–242, title VI][/us/pl/95/242/tVI], § 603(c), Mar. 10, 1978, [92 Stat. 152][/us/stat/92/152], provided that: 
 
 > “Except where otherwise provided, the provisions of this Act \[see Short Title note below\] shall take effect immediately upon enactment \[Mar. 10, 1978\] regardless of any requirement for the promulgation of regulations to implement such provisions.”
 
  __Short Title__ 
 
-[Pub. L. 95–242, § 1][/us/pl/95/242/s1], Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120], provided: 
+[Pub. L. 95–242][/us/pl/95/242], § 1, Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120], provided: 
 
 > “That this Act \[enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The Public Health and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and [section 2139 of Title 42][/us/usc/t42/s2139]\] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
 
  __Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment__ 
 
-    Title VIII of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507], known as the Nuclear Proliferation Prevention Act of 1994, was amended by [Pub. L. 104–164, title I, § 157][/us/pl/104/164/s157], July 21, 1996, [110 Stat. 1440][/us/stat/110/1440]. As so amended, title VIII has been primarily transferred to chapter 72 (§ 6301 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t22/s6301] and Tables.
+    Title VIII of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507], known as the Nuclear Proliferation Prevention Act of 1994, was amended by [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 157, July 21, 1996, [110 Stat. 1440][/us/stat/110/1440]. As so amended, title VIII has been primarily transferred to chapter 72 (§ 6301 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t22/s6301] and Tables.
 
  __Advocacy and Encouragement by United States of Nonparties to Treaty on Non-Proliferation of Nuclear Weapons To Become Signatories; Report to Congress__ 
 
-[Pub. L. 96–53, title V, § 507][/us/pl/96/53/s507], Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378], as amended by [Pub. L. 97–113, title VII, § 734(a)(3)][/us/pl/97/113/s734/a/3], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that:
+[Pub. L. 96–53, title V][/us/pl/96/53/tV], § 507, Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378], as amended by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(3), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that:
 
 >     “(a) In accordance with the Nuclear Non-Proliferation Act of 1978 \[see Short Title note above\], the Congress strongly urges all nations which are not parties to the Treaty on Non-Proliferation of Nuclear Weapons to become parties to that treaty.
 
->     “(b) __\[Repealed.__  __[__  __Pub. L. 97–113, title VII, § 734(a)(3)__  __][/us/pl/97/113/s734/a/3]__  __,__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__  __.\]__ 
+>     “(b) __\[Repealed.__  __[__  __Pub. L. 97–113, title VII__  __][/us/pl/97/113/tVII]__  __, § 734(a)(3),__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__  __.\]__ 
 
 >     ”
 
@@ -96,23 +96,23 @@ By virtue of the authority vested in me by the Nuclear Non-Proliferation Act of 
 ----------
 ----------
 
-[/us/pl/95/242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs2
+[/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120
-[/us/pl/95/242/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs603%2Fc
+[/us/pl/95/242/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtVI
 [/us/stat/92/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F152
-[/us/pl/95/242/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs1
+[/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120
 [/us/usc/t42/s2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F507
-[/us/pl/104/164/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs157
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1440
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
-[/us/pl/96/53/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs507
+[/us/pl/96/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtV
 [/us/stat/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F378
-[/us/pl/97/113/s734/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F3
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/97/113/s734/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F3
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

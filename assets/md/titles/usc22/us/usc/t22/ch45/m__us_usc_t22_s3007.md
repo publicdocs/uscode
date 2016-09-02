@@ -39,13 +39,13 @@
 
         Foreign travel for official purposes by Commission members and staff may be authorized by either the Chairman or the Cochairman.
 
-([Pub. L. 94–304, § 7][/us/pl/94/304/s7], June 3, 1976, [90 Stat. 662][/us/stat/90/662]; [Pub. L. 94–534][/us/pl/94/534], Oct. 17, 1976, [90 Stat. 2495][/us/stat/90/2495]; [Pub. L. 95–426, title VII, § 702][/us/pl/95/426/s702], Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992]; [Pub. L. 96–60, title IV, § 401][/us/pl/96/60/s401], Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403]; [Pub. L. 99–7][/us/pl/99/7], §§ 3, 4, Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19].)
+([Pub. L. 94–304][/us/pl/94/304], § 7, June 3, 1976, [90 Stat. 662][/us/stat/90/662]; [Pub. L. 94–534][/us/pl/94/534], Oct. 17, 1976, [90 Stat. 2495][/us/stat/90/2495]; [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 702, Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992]; [Pub. L. 96–60, title IV][/us/pl/96/60/tIV], § 401, Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403]; [Pub. L. 99–7][/us/pl/99/7], §§ 3, 4, Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19].)
 
  __Amendments__ 
 
-    1985—Subsec. (a). [Pub. L. 99–7, § 3][/us/pl/99/7/s3], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Commission for each fiscal year and to remain available until expended $550,000 to assist in meeting the expenses of the Commission for the purpose of carrying out the provisions of this chapter, such appropriation to be disbursed on voucher to be approved by the Chairman of the Commission.”
+    1985—Subsec. (a). [Pub. L. 99–7][/us/pl/99/7], § 3, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Commission for each fiscal year and to remain available until expended $550,000 to assist in meeting the expenses of the Commission for the purpose of carrying out the provisions of this chapter, such appropriation to be disbursed on voucher to be approved by the Chairman of the Commission.”
 
-    Subsec. (d). [Pub. L. 99–7, § 4][/us/pl/99/7/s4], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–7][/us/pl/99/7], § 4, added subsec. (d).
 
     1979—Subsec. (c). [Pub. L. 96–60][/us/pl/96/60] added subsec. (c).
 
@@ -66,18 +66,18 @@
 
 [/us/usc/t22/s3008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3008%2Fa
 [/us/usc/t22/s1754/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1754%2Fb
-[/us/pl/94/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs7
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F662
 [/us/pl/94/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F534
 [/us/stat/90/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2495
-[/us/pl/95/426/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs702
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F992
-[/us/pl/96/60/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs401
+[/us/pl/96/60/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtIV
 [/us/stat/93/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F403
 [/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/stat/99/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F19
-[/us/pl/99/7/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs3
-[/us/pl/99/7/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs4
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/pl/96/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/pl/94/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F534

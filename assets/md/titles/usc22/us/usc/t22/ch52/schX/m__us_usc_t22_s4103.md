@@ -31,13 +31,13 @@
 
         The President may by Executive order suspend any provision of this subchapter with respect to any post, bureau, office, or activity of the Department, if the President determines in writing that the suspension is necessary in the interest of national security because of an emergency.
 
-([Pub. L. 96–465, title I, § 1003][/us/pl/96/465/s1003], Oct. 17, 1980, [94 Stat. 2130][/us/stat/94/2130]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(k)(3), title XIV, § 1422(b)(4)(C), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1003, Oct. 17, 1980, [94 Stat. 2130][/us/stat/94/2130]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(k)(3), title XIV, § 1422(b)(4)(C), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793.)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1422(b)(4)(C)][/us/pl/105/277/s1422/b/4/C], substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(4)(C), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
-    [Pub. L. 105–277, § 1335(k)(3)][/us/pl/105/277/s1335/k/3], substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
  __Change of Name__ 
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1003
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2130
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
-[/us/pl/105/277/s1422/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F4%2FC
-[/us/pl/105/277/s1335/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F3
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/pl/105/277/s1335/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F3

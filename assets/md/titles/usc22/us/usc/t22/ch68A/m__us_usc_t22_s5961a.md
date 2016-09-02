@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5959.md) | [Next](./../../../..//us/usc/t22/ch69/m__us_usc_t22_ch69.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5961a)
+[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5960 _us_usc_t22_s5961.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5962 _us_usc_t22_s5963.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5961a)
 
 ## § 5961a. Requirement for on-site managers
 
@@ -69,48 +69,20 @@
 
         This section shall take effect six months after November 24, 2003.
 
-([Pub. L. 108–136, div. C, title XXXI, § 3125][/us/pl/108/136/s3125], Nov. 24, 2003, [117 Stat. 1748][/us/stat/117/1748].)
+([Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3125, Nov. 24, 2003, [117 Stat. 1748][/us/stat/117/1748].)
 
  __Codification__ 
 
     Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 
-§§ 5962, 5963. __Repealed.__  __[__  __Pub. L. 113–291, div. A, title XIII, § 1351(11)__  __][/us/pl/113/291/s1351/11]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3607__  __][/us/stat/128/3607]__ 
-
-    Section 5962, [Pub. L. 108–136, div. A, title XIII, § 1307][/us/pl/108/136/s1307], Nov. 24, 2003, [117 Stat. 1661][/us/stat/117/1661], related to annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities.
-
-    Section 5963, [Pub. L. 108–136, div. A, title XIII, § 1308][/us/pl/108/136/s1308], Nov. 24, 2003, [117 Stat. 1662][/us/stat/117/1662]; [Pub. L. 110–53, title XVIII, § 1811(4)][/us/pl/110/53/s1811/4], Aug. 3, 2007, [121 Stat. 493][/us/stat/121/493]; [Pub. L. 110–181, div. A, title XIII, § 1305][/us/pl/110/181/s1305], Jan. 28, 2008, [122 Stat. 413][/us/stat/122/413], related to authority to use Cooperative Threat Reduction funds outside the former Soviet Union.
-
-§§ 5964, 5965. __Repealed.__  __[__  __Pub. L. 113–291, div. A, title XIII, § 1351(12)(B)__  __][/us/pl/113/291/s1351/12/B]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3607__  __][/us/stat/128/3607]__ 
-
-    Section 5964, [Pub. L. 111–84, div. A, title XIII, § 1304][/us/pl/111/84/s1304], Oct. 28, 2009, [123 Stat. 2558][/us/stat/123/2558], related to metrics for the Cooperative Threat Reduction Program.
-
-    Section 5965, [Pub. L. 111–84, div. A, title XIII, § 1305][/us/pl/111/84/s1305], Oct. 28, 2009, [123 Stat. 2559][/us/stat/123/2559], related to Cooperative Threat Reduction Program authority for urgent threat reduction activities.
-
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5959.md) | [Next](./../../../..//us/usc/t22/ch69/m__us_usc_t22_ch69.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5961a)
+[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5960 _us_usc_t22_s5961.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5962 _us_usc_t22_s5963.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5961a)
 
 ----------
 ----------
 
-[/us/pl/108/136/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3125
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1748
-[/us/pl/113/291/s1351/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F11
-[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
-[/us/pl/108/136/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1307
-[/us/stat/117/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1661
-[/us/pl/108/136/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1308
-[/us/stat/117/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1662
-[/us/pl/110/53/s1811/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1811%2F4
-[/us/stat/121/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F493
-[/us/pl/110/181/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1305
-[/us/stat/122/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F413
-[/us/pl/113/291/s1351/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F12%2FB
-[/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
-[/us/pl/111/84/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1304
-[/us/stat/123/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2558
-[/us/pl/111/84/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1305
-[/us/stat/123/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2559
 
 

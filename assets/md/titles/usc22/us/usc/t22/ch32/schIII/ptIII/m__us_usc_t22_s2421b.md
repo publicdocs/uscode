@@ -23,7 +23,7 @@
 
         In order to carry out subsection (a), the Administrator of AID shall, working with AID technical support staff, regional bureau staff, and country missions, identify and provide funding for capital projects to alleviate the worst manifestations of poverty or to promote environmental safety and sustainability at the community level in countries receiving assistance under part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\]. Such projects may include basic sanitation systems, basic water supply and treatment, pollution control, and rural infrastructure benefiting poor communities or establishing environmentally sustainable patterns of rural development. Such projects should have measurable positive effects on indicators of human and environmental health.
 
-([Pub. L. 102–549, title III, § 303][/us/pl/102/549/s303], Oct. 28, 1992, [106 Stat. 3659][/us/stat/106/3659].)
+([Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 303, Oct. 28, 1992, [106 Stat. 3659][/us/stat/106/3659].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/102/549/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs303
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3659
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

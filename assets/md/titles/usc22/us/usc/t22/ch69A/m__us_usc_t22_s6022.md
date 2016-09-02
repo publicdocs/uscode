@@ -29,7 +29,7 @@
 
     (6) to protect United States nationals against confiscatory takings and the wrongful trafficking in property confiscated by the Castro regime.
 
-([Pub. L. 104–114, § 3][/us/pl/104/114/s3], Mar. 12, 1996, [110 Stat. 788][/us/stat/110/788].)
+([Pub. L. 104–114][/us/pl/104/114], § 3, Mar. 12, 1996, [110 Stat. 788][/us/stat/110/788].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs3
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F788
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785

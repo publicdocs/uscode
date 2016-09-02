@@ -45,21 +45,21 @@
 
         Not later than 180 days after October 18, 2004, and annually thereafter through 2017, the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
 
-([Pub. L. 108–333, title I, § 107][/us/pl/108/333/s107], Oct. 18, 2004, [118 Stat. 1292][/us/stat/118/1292]; [Pub. L. 110–346, § 8][/us/pl/110/346/s8], Oct. 7, 2008, [122 Stat. 3941][/us/stat/122/3941]; [Pub. L. 112–172, § 7][/us/pl/112/172/s7], Aug. 16, 2012, [126 Stat. 1309][/us/stat/126/1309].)
+([Pub. L. 108–333, title I][/us/pl/108/333/tI], § 107, Oct. 18, 2004, [118 Stat. 1292][/us/stat/118/1292]; [Pub. L. 110–346][/us/pl/110/346], § 8, Oct. 7, 2008, [122 Stat. 3941][/us/stat/122/3941]; [Pub. L. 112–172][/us/pl/112/172], § 7, Aug. 16, 2012, [126 Stat. 1309][/us/stat/126/1309].)
 
  __Amendments__ 
 
     2012—Subsec. (d). [Pub. L. 112–172][/us/pl/112/172] substituted “2017” for “2012”.
 
-    2008—[Pub. L. 110–346, § 8(1)][/us/pl/110/346/s8/1], substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
+    2008—[Pub. L. 110–346][/us/pl/110/346], § 8(1), substituted “North Korean human rights issues” for “human rights in North Korea” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–346, § 8(2)][/us/pl/110/346/s8/2], in first sentence, substituted “North Korean human rights issues” for “human rights in North Korea” and inserted “, by and with the advice and consent of the Senate” before period at end and, in second sentence, inserted “who shall have the rank of ambassador and shall hold the office at the pleasure of the President” before period at end.
+    Subsec. (a). [Pub. L. 110–346][/us/pl/110/346], § 8(2), in first sentence, substituted “North Korean human rights issues” for “human rights in North Korea” and inserted “, by and with the advice and consent of the Senate” before period at end and, in second sentence, inserted “who shall have the rank of ambassador and shall hold the office at the pleasure of the President” before period at end.
 
-    Subsec. (b). [Pub. L. 110–346, § 8(3)][/us/pl/110/346/s8/3], inserted “, including, in coordination with the Bureau of Population, Refugees, and Migration, the protection of those people who have fled as refugees” after “North Korea”.
+    Subsec. (b). [Pub. L. 110–346][/us/pl/110/346], § 8(3), inserted “, including, in coordination with the Bureau of Population, Refugees, and Migration, the protection of those people who have fled as refugees” after “North Korea”.
 
-    Subsec. (c). [Pub. L. 110–346, § 8(4)][/us/pl/110/346/s8/4], added par. (1), redesignated former pars. (1) to (6) as (2) to (7), respectively, and substituted “sections 7812 and 7814” for “section 7812” in par. (5).
+    Subsec. (c). [Pub. L. 110–346][/us/pl/110/346], § 8(4), added par. (1), redesignated former pars. (1) to (6) as (2) to (7), respectively, and substituted “sections 7812 and 7814” for “section 7812” in par. (5).
 
-    Subsec. (d). [Pub. L. 110–346, § 8(5)][/us/pl/110/346/s8/5], substituted “thereafter through 2012” for “for the subsequent 5 year-period”.
+    Subsec. (d). [Pub. L. 110–346][/us/pl/110/346], § 8(5), substituted “thereafter through 2012” for “for the subsequent 5 year-period”.
 
 ----------
 
@@ -68,17 +68,17 @@
 ----------
 ----------
 
-[/us/pl/108/333/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs107
+[/us/pl/108/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtI
 [/us/stat/118/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1292
-[/us/pl/110/346/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs8
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3941
-[/us/pl/112/172/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172%2Fs7
+[/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/stat/126/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1309
 [/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
-[/us/pl/110/346/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs8%2F1
-[/us/pl/110/346/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs8%2F2
-[/us/pl/110/346/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs8%2F3
-[/us/pl/110/346/s8/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs8%2F4
-[/us/pl/110/346/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs8%2F5
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 
 

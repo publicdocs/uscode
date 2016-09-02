@@ -27,7 +27,7 @@
 
         Under the direction of the President, the Secretary of State shall be responsible for the continuous supervision and general direction of economic assistance, military assistance, and military education and training programs, including but not limited to determining whether there shall be a military assistance (including civic action) or a military education and training program for a country and the value thereof, to the end that such programs are effectively integrated both at home and abroad and the foreign policy of the United States is best served thereby.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 622, Sept. 4, 1961, [75 Stat. 446][/us/stat/75/446]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(a), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 302(a), Sept. 19, 1966, [80 Stat. 807][/us/stat/80/807]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(b)(1), (2), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 94–329, title I, § 106(b)(2)][/us/pl/94/329/s106/b/2], June 30, 1976, [90 Stat. 733][/us/stat/90/733].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 622, Sept. 4, 1961, [75 Stat. 446][/us/stat/75/446]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(a), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 302(a), Sept. 19, 1966, [80 Stat. 807][/us/stat/80/807]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(b)(1), (2), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(b)(2), June 30, 1976, [90 Stat. 733][/us/stat/90/733].)
 
  __References in Text__ 
 
@@ -35,21 +35,21 @@
 
  __Amendments__ 
 
-    1976—Subsec. (b). [Pub. L. 94–329, § 106(b)(2)(A)][/us/pl/94/329/s106/b/2/A], inserted “and military education and training” after “(including civic action)”.
+    1976—Subsec. (b). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(2)(A), inserted “and military education and training” after “(including civic action)”.
 
-    Subsec. (c). [Pub. L. 94–329, § 106(b)(2)(B)][/us/pl/94/329/s106/b/2/B], inserted reference to military education and training programs in two places.
+    Subsec. (c). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(2)(B), inserted reference to military education and training programs in two places.
 
-    1968—Subsec. (b). [Pub. L. 90–629, § 45(b)(1)][/us/pl/90/629/s45/b/1], struck out “or sales” before “programs”.
+    1968—Subsec. (b). [Pub. L. 90–629][/us/pl/90/629], § 45(b)(1), struck out “or sales” before “programs”.
 
-    Subsec. (c). [Pub. L. 90–629, § 45(b)(2)][/us/pl/90/629/s45/b/2], struck out “and sales” and “or sales” before “programs” and “program”, respectively.
+    Subsec. (c). [Pub. L. 90–629][/us/pl/90/629], § 45(b)(2), struck out “and sales” and “or sales” before “programs” and “program”, respectively.
 
-    1966—Subsec. (b). [Pub. L. 89–583, § 302(a)(1)][/us/pl/89/583/s302/a/1], substituted “(including civic action) or sales programs” for “(including any civic action and sales program)”.
+    1966—Subsec. (b). [Pub. L. 89–583][/us/pl/89/583], § 302(a)(1), substituted “(including civic action) or sales programs” for “(including any civic action and sales program)”.
 
-    Subsec. (c). [Pub. L. 89–583, § 302(a)(2)][/us/pl/89/583/s302/a/2], substituted “economic assistance and military assistance and sales programs” and “military assistance (including civic action) or sales program” for “the assistance programs authorized by this chapter” and “military assistance program (including civic action and sales program)”, respectively.
+    Subsec. (c). [Pub. L. 89–583][/us/pl/89/583], § 302(a)(2), substituted “economic assistance and military assistance and sales programs” and “military assistance (including civic action) or sales program” for “the assistance programs authorized by this chapter” and “military assistance program (including civic action and sales program)”, respectively.
 
-    1965—Subsec. (b). [Pub. L. 89–171, § 302(a)(1)][/us/pl/89/171/s302/a/1], inserted “(including any civic action and sales program)”.
+    1965—Subsec. (b). [Pub. L. 89–171][/us/pl/89/171], § 302(a)(1), inserted “(including any civic action and sales program)”.
 
-    Subsec. (c). [Pub. L. 89–171, § 302(a)(2)][/us/pl/89/171/s302/a/2], inserted “including any civic action and sales program)”.
+    Subsec. (c). [Pub. L. 89–171][/us/pl/89/171], § 302(a)(2), inserted “including any civic action and sales program)”.
 
  __Effective Date of 1968 Amendment__ 
 
@@ -120,19 +120,19 @@
 [/us/stat/80/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F807
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1327
-[/us/pl/94/329/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F2
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F733
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/94/329/s106/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F2%2FA
-[/us/pl/94/329/s106/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F2%2FB
-[/us/pl/90/629/s45/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs45%2Fb%2F1
-[/us/pl/90/629/s45/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs45%2Fb%2F2
-[/us/pl/89/583/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs302%2Fa%2F1
-[/us/pl/89/583/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs302%2Fa%2F2
-[/us/pl/89/171/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs302%2Fa%2F1
-[/us/pl/89/171/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs302%2Fa%2F2
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
+[/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/90/629/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs41
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751

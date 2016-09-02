@@ -21,7 +21,7 @@
 
     (2) employees engaged in criminal or national security investigations or who audit the work of individuals to insure that their functions are discharged honestly and with integrity.
 
-([Pub. L. 96–465, title I, § 1012][/us/pl/96/465/s1012], Oct. 17, 1980, [94 Stat. 2135][/us/stat/94/2135].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1012, Oct. 17, 1980, [94 Stat. 2135][/us/stat/94/2135].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1012
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2135
 
 

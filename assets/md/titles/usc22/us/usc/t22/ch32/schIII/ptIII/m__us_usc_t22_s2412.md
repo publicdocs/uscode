@@ -31,7 +31,7 @@
 
         The provisions of this section shall not be superseded except by a provision of law enacted after January 12, 1971, which specifically repeals or modifies the provisions of this section.
 
-([Pub. L. 91–672, § 10][/us/pl/91/672/s10], Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055].)
+([Pub. L. 91–672][/us/pl/91/672], § 10, Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/91/672/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs10
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2055
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

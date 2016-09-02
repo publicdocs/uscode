@@ -49,7 +49,7 @@
 
             Subsections (e) and (f) shall apply to fiscal year 2004.
 
-([Pub. L. 108–199, div. H, § 154][/us/pl/108/199/s154], Jan. 23, 2004, [118 Stat. 449][/us/stat/118/449].)
+([Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 154, Jan. 23, 2004, [118 Stat. 449][/us/stat/118/449].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/108/199/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs154
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F449
 
 

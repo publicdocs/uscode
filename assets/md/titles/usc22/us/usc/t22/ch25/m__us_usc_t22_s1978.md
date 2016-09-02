@@ -95,25 +95,25 @@
 
             (B) attempt to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect.
 
-([Aug. 27, 1954, ch. 1018, § 8][/us/act/1954-08-27/ch1018/s8], as added [Pub. L. 92–219][/us/pl/92/219], Dec. 23, 1971, [85 Stat. 786][/us/stat/85/786]; amended [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 95–376, § 2][/us/pl/95/376/s2], Sept. 18, 1978, [92 Stat. 714][/us/stat/92/714]; [Pub. L. 96–61, § 3(b)][/us/pl/96/61/s3/b], Aug. 15, 1979, [93 Stat. 408][/us/stat/93/408]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–711, § 8][/us/pl/100/711/s8], Nov. 23, 1988, [102 Stat. 4772][/us/stat/102/4772]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–582, title II, § 201][/us/pl/102/582/s201], Nov. 2, 1992, [106 Stat. 4904][/us/stat/106/4904]; [Pub. L. 106–36, title I, § 1002(d)][/us/pl/106/36/s1002/d], June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
+([Aug. 27, 1954, ch. 1018][/us/act/1954-08-27/ch1018], § 8, as added [Pub. L. 92–219][/us/pl/92/219], Dec. 23, 1971, [85 Stat. 786][/us/stat/85/786]; amended [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 95–376][/us/pl/95/376], § 2, Sept. 18, 1978, [92 Stat. 714][/us/stat/92/714]; [Pub. L. 96–61][/us/pl/96/61], § 3(b), Aug. 15, 1979, [93 Stat. 408][/us/stat/93/408]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 100–711][/us/pl/100/711], § 8, Nov. 23, 1988, [102 Stat. 4772][/us/stat/102/4772]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–582, title II][/us/pl/102/582/tII], § 201, Nov. 2, 1992, [106 Stat. 4904][/us/stat/106/4904]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(d), June 25, 1999, [113 Stat. 133][/us/stat/113/133].)
 
  __Amendments__ 
 
     1999—Subsec. (a)(4). [Pub. L. 106–36][/us/pl/106/36] substituted “World Trade Organization (as defined in [section 3501(8) of title 19][/us/usc/t19/s3501/8]) or the multilateral trade agreements (as defined in [section 3501(4) of title 19][/us/usc/t19/s3501/4])” for “General Agreement on Tariffs and Trade”.
 
-    1992—Subsec. (a)(4). [Pub. L. 102–582, § 201(a)(1)][/us/pl/102/582/s201/a/1], substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
+    1992—Subsec. (a)(4). [Pub. L. 102–582][/us/pl/102/582], § 201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.
 
-    Subsecs. (c), (e)(2). [Pub. L. 102–582, § 201(a)(2)][/us/pl/102/582/s201/a/2], (3), substituted “products” for “fish products or wildlife products”.
+    Subsecs. (c), (e)(2). [Pub. L. 102–582][/us/pl/102/582], § 201(a)(2), (3), substituted “products” for “fish products or wildlife products”.
 
-    Subsec. (f). [Pub. L. 102–582, § 201(a)(4)][/us/pl/102/582/s201/a/4], substituted “products” for “fish products and wildlife products” in pars. (1) and (5) and “Products” for “Fish products and wildlife products” in par. (5).
+    Subsec. (f). [Pub. L. 102–582][/us/pl/102/582], § 201(a)(4), substituted “products” for “fish products and wildlife products” in pars. (1) and (5) and “Products” for “Fish products and wildlife products” in par. (5).
 
-    Subsec. (h)(2). [Pub. L. 102–582, § 201(b)(1)][/us/pl/102/582/s201/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘United States’, when used in a geographical sense, means the continental United States, Alaska, Hawaii, Puerto Rico, and the United States Virgin Islands.”
+    Subsec. (h)(2). [Pub. L. 102–582][/us/pl/102/582], § 201(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘United States’, when used in a geographical sense, means the continental United States, Alaska, Hawaii, Puerto Rico, and the United States Virgin Islands.”
 
-    Subsec. (h)(3). [Pub. L. 102–582, § 201(b)(2)][/us/pl/102/582/s201/b/2], inserted “bilateral or” before “multilateral” and “, including marine mammals” before period at end.
+    Subsec. (h)(3). [Pub. L. 102–582][/us/pl/102/582], § 201(b)(2), inserted “bilateral or” before “multilateral” and “, including marine mammals” before period at end.
 
-    Subsec. (h)(4). [Pub. L. 102–582, § 201(b)(3)][/us/pl/102/582/s201/b/3], (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means any aquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
+    Subsec. (h)(4). [Pub. L. 102–582][/us/pl/102/582], § 201(b)(3), (4), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘fish products’ means any aquatic species (including marine mammals and plants) and all products thereof exported from an offending country, whether or not taken by fishing vessels of such country, or packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
-    Subsec. (h)(5). [Pub. L. 102–582, § 201(b)(5)][/us/pl/102/582/s201/b/5], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘taking’ means—
+    Subsec. (h)(5). [Pub. L. 102–582][/us/pl/102/582], § 201(b)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘taking’ means—
 
     “(A) for purposes of subsection (a)(2) of this section—
 
@@ -125,35 +125,35 @@
 
     “(B) for purposes of paragraph (6), any conduct described in subparagraph (A)(i), whether or not such conduct is legal under the laws of the offending country, undertaken with respect to any wild animal.”
 
-    [Pub. L. 102–582, § 201(b)(4)][/us/pl/102/582/s201/b/4], redesignated par. (7) as (5). Former par. (5) redesignated (4).
+    [Pub. L. 102–582][/us/pl/102/582], § 201(b)(4), redesignated par. (7) as (5). Former par. (5) redesignated (4).
 
-    Subsec. (h)(6). [Pub. L. 102–582, § 201(b)(3)][/us/pl/102/582/s201/b/3], struck out par. (6) which read as follows: “The term ‘wildlife products’ means fish (other than those to which paragraph (4) applies) and wild animals, and parts (including eggs) thereof, taken within an offending country and all products of any such fish and wild animals, or parts thereof, whether or not such products are packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof. Such term does not include any wild animal or fish if brought or imported into the United States for scientific research.”
+    Subsec. (h)(6). [Pub. L. 102–582][/us/pl/102/582], § 201(b)(3), struck out par. (6) which read as follows: “The term ‘wildlife products’ means fish (other than those to which paragraph (4) applies) and wild animals, and parts (including eggs) thereof, taken within an offending country and all products of any such fish and wild animals, or parts thereof, whether or not such products are packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof. Such term does not include any wild animal or fish if brought or imported into the United States for scientific research.”
 
-    Subsec. (h)(7). [Pub. L. 102–582, § 201(b)(4)][/us/pl/102/582/s201/b/4], redesignated par. (7) as (5).
+    Subsec. (h)(7). [Pub. L. 102–582][/us/pl/102/582], § 201(b)(4), redesignated par. (7) as (5).
 
     1988—Subsec. (h)(4). [Pub. L. 100–711][/us/pl/100/711] amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fish products’ means fish and marine mammals and all products thereof taken by fishing vessels of an offending country whether or not packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
-    1979—Subsec. (a)(3), (4). [Pub. L. 96–61, § 3(b)(1)][/us/pl/96/61/s3/b/1], added par. (3) and redesignated former par. (3) as (4).
+    1979—Subsec. (a)(3), (4). [Pub. L. 96–61][/us/pl/96/61], § 3(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsecs. (d) to (h). [Pub. L. 96–61, § 3(b)(2)][/us/pl/96/61/s3/b/2], (3), added subsec. (d) and redesignated subsecs. (d) to (g) as (e) to (h), respectively.
+    Subsecs. (d) to (h). [Pub. L. 96–61][/us/pl/96/61], § 3(b)(2), (3), added subsec. (d) and redesignated subsecs. (d) to (g) as (e) to (h), respectively.
 
-    1978—Subsec. (a). [Pub. L. 95–376, § 2(1)][/us/pl/95/376/s2/1], designated existing provisions as par. (1), struck out a provision enabling the President, upon receipt of certification, to direct the Secretary of the Treasury to prohibit importation of fish products of the offending country for as long as he determines appropriate and to the extent such prohibition is sanctioned by the General Agreement on Tariffs and Trade, and added pars. (2) and (3).
+    1978—Subsec. (a). [Pub. L. 95–376][/us/pl/95/376], § 2(1), designated existing provisions as par. (1), struck out a provision enabling the President, upon receipt of certification, to direct the Secretary of the Treasury to prohibit importation of fish products of the offending country for as long as he determines appropriate and to the extent such prohibition is sanctioned by the General Agreement on Tariffs and Trade, and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 95–376, § 2(2)][/us/pl/95/376/s2/2], inserted “or the Secretary of the Interior” after “Secretary of Commerce” and inserted “or wildlife products” after “fish products” in two places.
+    Subsec. (b). [Pub. L. 95–376][/us/pl/95/376], § 2(2), inserted “or the Secretary of the Interior” after “Secretary of Commerce” and inserted “or wildlife products” after “fish products” in two places.
 
-    Subsec. (c). [Pub. L. 95–376, § 2(3)][/us/pl/95/376/s2/3], inserted “or wildlife products” after “fish products”.
+    Subsec. (c). [Pub. L. 95–376][/us/pl/95/376], § 2(3), inserted “or wildlife products” after “fish products”.
 
-    Subsecs. (d)(2), (e)(1). [Pub. L. 95–376, § 2(4)][/us/pl/95/376/s2/4], (5)(A), inserted “and wildlife products” after “fish products”.
+    Subsecs. (d)(2), (e)(1). [Pub. L. 95–376][/us/pl/95/376], § 2(4), (5)(A), inserted “and wildlife products” after “fish products”.
 
-    Subsec. (e)(4)(B). [Pub. L. 95–376, § 2(5)(B)][/us/pl/95/376/s2/5/B], inserted “or other conveyance” after “vessel” wherever appearing.
+    Subsec. (e)(4)(B). [Pub. L. 95–376][/us/pl/95/376], § 2(5)(B), inserted “or other conveyance” after “vessel” wherever appearing.
 
-    Subsec. (e)(5). [Pub. L. 95–376, § 2(5)(A)][/us/pl/95/376/s2/5/A], (C), inserted “and wildlife products” after “all fish products”, and substituted “Fish products and wildlife products” for “Any fish products”.
+    Subsec. (e)(5). [Pub. L. 95–376][/us/pl/95/376], § 2(5)(A), (C), inserted “and wildlife products” after “all fish products”, and substituted “Fish products and wildlife products” for “Any fish products”.
 
-    Subsec. (f). [Pub. L. 95–376, § 2(6)][/us/pl/95/376/s2/6], inserted references to the Secretary of Commerce and the Secretary of the Interior.
+    Subsec. (f). [Pub. L. 95–376][/us/pl/95/376], § 2(6), inserted references to the Secretary of Commerce and the Secretary of the Interior.
 
-    Subsec. (g)(3). [Pub. L. 95–376, § 2(7)(A)][/us/pl/95/376/s2/7/A], (B), substituted “in effect” for “in force”, and “which is in force with respect to the United States” for “to which the United States is a signatory party”.
+    Subsec. (g)(3). [Pub. L. 95–376][/us/pl/95/376], § 2(7)(A), (B), substituted “in effect” for “in force”, and “which is in force with respect to the United States” for “to which the United States is a signatory party”.
 
-    Subsec. (g)(5) to (7). [Pub. L. 95–376, § 2(7)(C)][/us/pl/95/376/s2/7/C], added pars. (5) to (7).
+    Subsec. (g)(5) to (7). [Pub. L. 95–376][/us/pl/95/376], § 2(7)(C), added pars. (5) to (7).
 
  __Change of Name__ 
 
@@ -170,50 +170,50 @@
 
 [/us/usc/t19/s3501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F8
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/act/1954-08-27/ch1018/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018%2Fs8
+[/us/act/1954-08-27/ch1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018
 [/us/pl/92/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F219
 [/us/stat/85/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F786
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/95/376/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
 [/us/stat/92/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F714
-[/us/pl/96/61/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61%2Fs3%2Fb
+[/us/pl/96/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61
 [/us/stat/93/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F408
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/100/711/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs8
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4772
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/582/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201
+[/us/pl/102/582/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtII
 [/us/stat/106/4904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4904
-[/us/pl/106/36/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fd
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F133
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F8
 [/us/usc/t19/s3501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F4
-[/us/pl/102/582/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fa%2F1
-[/us/pl/102/582/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fa%2F2
-[/us/pl/102/582/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fa%2F4
-[/us/pl/102/582/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F1
-[/us/pl/102/582/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F2
-[/us/pl/102/582/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F3
-[/us/pl/102/582/s201/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F5
-[/us/pl/102/582/s201/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F4
-[/us/pl/102/582/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F3
-[/us/pl/102/582/s201/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs201%2Fb%2F4
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
-[/us/pl/96/61/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61%2Fs3%2Fb%2F1
-[/us/pl/96/61/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61%2Fs3%2Fb%2F2
-[/us/pl/95/376/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F1
-[/us/pl/95/376/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F2
-[/us/pl/95/376/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F3
-[/us/pl/95/376/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F4
-[/us/pl/95/376/s2/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F5%2FB
-[/us/pl/95/376/s2/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F5%2FA
-[/us/pl/95/376/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F6
-[/us/pl/95/376/s2/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F7%2FA
-[/us/pl/95/376/s2/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376%2Fs2%2F7%2FC
+[/us/pl/96/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61
+[/us/pl/96/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
+[/us/pl/95/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F376
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578

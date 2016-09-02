@@ -27,7 +27,7 @@
 
         In this section, the term “International Criminal Court” has the meaning given the term in [section 7401(c) of this title][/us/usc/t22/s7401/c].
 
-([Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 706\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 706\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461.)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s7401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7401%2Fc
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s262–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262%E2%80%931
 

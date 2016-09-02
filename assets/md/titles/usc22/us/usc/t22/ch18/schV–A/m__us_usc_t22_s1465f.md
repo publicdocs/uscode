@@ -21,7 +21,7 @@
 
     (c) Amounts appropriated under this section are authorized to be made available until expended.
 
-([Pub. L. 98–111, § 8][/us/pl/98/111/s8], Oct. 4, 1983, [97 Stat. 752][/us/stat/97/752]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1324(1), (2), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
+([Pub. L. 98–111][/us/pl/98/111], § 8, Oct. 4, 1983, [97 Stat. 752][/us/stat/97/752]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1324(1), (2), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
 
  __Repeal of Section__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1324(1)][/us/pl/105/277/s1324/1], substituted “Broadcasting Board of Governors” for “United States Information Agency” in two places.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1324(1), substituted “Broadcasting Board of Governors” for “United States Information Agency” in two places.
 
-    Subsec. (b). [Pub. L. 105–277, § 1324(2)][/us/pl/105/277/s1324/2], substituted “Board” for “Agency” in two places.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1324(2), substituted “Board” for “Agency” in two places.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/98/111/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs8
+[/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F752
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-781
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
-[/us/pl/105/277/s1324/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1324%2F1
-[/us/pl/105/277/s1324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1324%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

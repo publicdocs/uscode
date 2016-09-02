@@ -23,7 +23,7 @@
 
         The authority of subsection (a) shall cease to be effective upon the enactment of the Overseas Private Investment Corporation Act Amendments Act of 1992.
 
-([Pub. L. 102–511, title III, § 308][/us/pl/102/511/s308], Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
+([Pub. L. 102–511, title III][/us/pl/102/511/tIII], § 308, Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 [/us/usc/t22/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191
-[/us/pl/102/511/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs308
+[/us/pl/102/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIII
 [/us/stat/106/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3335
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

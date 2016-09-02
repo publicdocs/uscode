@@ -37,7 +37,7 @@
 
         (2) shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services of the Commission.
 
-([Pub. L. 103–400, § 5][/us/pl/103/400/s5], Oct. 22, 1994, [108 Stat. 4170][/us/stat/108/4170].)
+([Pub. L. 103–400][/us/pl/103/400], § 5, Oct. 22, 1994, [108 Stat. 4170][/us/stat/108/4170].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/103/400/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400%2Fs5
+[/us/pl/103/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400
 [/us/stat/108/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4170
 
 

@@ -17,7 +17,7 @@
 
     Any expenditure for any gift for any person of any foreign country which involves any funds made available to meet unforeseen emergencies arising in the Diplomatic and Consular Service shall be audited by the Comptroller General and reports thereon made to the Congress to such extent and at such times as he may determine necessary. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and all other papers, things, or property pertaining to such expenditure and necessary to facilitate the audit.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 20, as added [Pub. L. 94–350, title I, § 116(a)][/us/pl/94/350/s116/a], July 12, 1976, [90 Stat. 827][/us/stat/90/827]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 20, as added [Pub. L. 94–350, title I][/us/pl/94/350/tI], § 116(a), July 12, 1976, [90 Stat. 827][/us/stat/90/827]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/94/350/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs116%2Fa
+[/us/pl/94/350/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtI
 [/us/stat/90/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F827
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

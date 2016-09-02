@@ -87,7 +87,7 @@
 
         If a participant dies after completing at least 18 months of service or a former participant dies entitled to a deferred annuity, but before becoming eligible to receive the annuity, and such participant or former participant has left with the Secretary of State a spousal agreement promising a share of a survivor annuity under subchapter IV, chapter 84, title 5, to a former spouse, such survivor annuity shall be paid under the terms of this part as if the survivor annuity had been ordered by a court.
 
-([Pub. L. 96–465, title I, § 861][/us/pl/96/465/s861], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 619][/us/stat/100/619]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–556, title IV, § 407][/us/pl/99/556/s407], Oct. 27, 1986, [100 Stat. 3139][/us/stat/100/3139].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 861, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 619][/us/stat/100/619]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–556, title IV][/us/pl/99/556/tIV], § 407, Oct. 27, 1986, [100 Stat. 3139][/us/stat/100/3139].)
 
  __Amendments__ 
 
@@ -106,12 +106,12 @@
 ----------
 ----------
 
-[/us/pl/96/465/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs861
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F619
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/556/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs407
+[/us/pl/99/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtIV
 [/us/stat/100/3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3139
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556

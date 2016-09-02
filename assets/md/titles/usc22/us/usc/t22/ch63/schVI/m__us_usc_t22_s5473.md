@@ -43,7 +43,7 @@
 
         (D) recommendations for minimizing further environmental damage to Krakow, and for the protection and restoration of historic sites in that city.
 
-([Pub. L. 101–179, title VII, § 703][/us/pl/101/179/s703], Nov. 28, 1989, [103 Stat. 1321][/us/stat/103/1321].)
+([Pub. L. 101–179, title VII][/us/pl/101/179/tVII], § 703, Nov. 28, 1989, [103 Stat. 1321][/us/stat/103/1321].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t22/s5474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5474
-[/us/pl/101/179/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs703
+[/us/pl/101/179/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVII
 [/us/stat/103/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1321
 
 

@@ -27,7 +27,7 @@
 
         Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951), as amended, regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
 
-([Pub. L. 87–510, § 3][/us/pl/87/510/s3], June 28, 1962, [76 Stat. 123][/us/stat/76/123].)
+([Pub. L. 87–510][/us/pl/87/510], § 3, June 28, 1962, [76 Stat. 123][/us/stat/76/123].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/87/510/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs3
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F123
 [/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121

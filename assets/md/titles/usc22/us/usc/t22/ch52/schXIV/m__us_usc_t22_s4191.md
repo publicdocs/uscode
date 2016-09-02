@@ -17,7 +17,7 @@
 
     The various provisions of title 18 of the Revised Statutes which are expressed in terms of general application to any particular classes of consular officers, shall be deemed to apply as well to all other classes of such officers and to such other United States citizen employees of the Department of State as may be designated by the Secretary of State pursuant to such regulations as the Secretary may prescribe, so far as may be consistent with the subject matter of the same and with the treaties of the United States.
 
-(R.S. § 1689; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2222(b), Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818].)
+(R.S. § 1689; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2222(b), Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 1689 derived from [act Aug. 18, 1856, ch. 127, § 31][/us/act/1856-08-18/ch127/s31], [11 Stat. 64][/us/stat/11/64].
+    R.S. § 1689 derived from [act Aug. 18, 1856, ch. 127][/us/act/1856-08-18/ch127], § 31, [11 Stat. 64][/us/stat/11/64].
 
     Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-818
-[/us/act/1856-08-18/ch127/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127%2Fs31
+[/us/act/1856-08-18/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127
 [/us/stat/11/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F64
 [/us/usc/t22/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1171
 [/us/usc/t22/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs53

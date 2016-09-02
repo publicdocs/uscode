@@ -55,7 +55,7 @@
 
             No proprietary information may be disclosed under this paragraph.
 
-    (c) __Repealed.__  __[__  __Pub. L. 100–461, title V, § 555__  __][/us/pl/100/461/s555]__  __,__  __Oct. 1, 1988__  __,__  __[__  __102 Stat. 2268–36__  __][/us/stat/102/2268-36]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 100–461, title V__  __][/us/pl/100/461/tV]__  __, § 555,__  __Oct. 1, 1988__  __,__  __[__  __102 Stat. 2268–36__  __][/us/stat/102/2268-36]__ 
 
     (d) __Maintenance of records__ 
 
@@ -79,7 +79,7 @@
 
         Subsections (b) and (e) do not require the inclusion in any report submitted pursuant to those subsections of any information which would not be required to be made available to the public pursuant to [section 552 of title 5][/us/usc/t5/s552] (relating to freedom of information).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 240A, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 818][/us/stat/83/818]; amended [Pub. L. 93–390, § 2(7)][/us/pl/93/390/s2/7], Aug. 27, 1974, [88 Stat. 768][/us/stat/88/768]; [Pub. L. 95–268, § 10][/us/pl/95/268/s10], Apr. 24, 1978, [92 Stat. 216][/us/stat/92/216]; [Pub. L. 97–65, § 9][/us/pl/97/65/s9], formerly § 9(a), Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024], renumbered § 9, [Pub. L. 99–204, § 17(c)(1)][/us/pl/99/204/s17/c/1], Dec. 23, 1985, [99 Stat. 1677][/us/stat/99/1677]; [Pub. L. 99–204, § 14(a)][/us/pl/99/204/s14/a], Dec. 23, 1985, [99 Stat. 1674][/us/stat/99/1674]; [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I, § 108][/us/pl/102/549/s108], Oct. 28, 1992, [106 Stat. 3654][/us/stat/106/3654].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 240A, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 818][/us/stat/83/818]; amended [Pub. L. 93–390][/us/pl/93/390], § 2(7), Aug. 27, 1974, [88 Stat. 768][/us/stat/88/768]; [Pub. L. 95–268][/us/pl/95/268], § 10, Apr. 24, 1978, [92 Stat. 216][/us/stat/92/216]; [Pub. L. 97–65][/us/pl/97/65], § 9, formerly § 9(a), Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024], renumbered § 9, [Pub. L. 99–204][/us/pl/99/204], § 17(c)(1), Dec. 23, 1985, [99 Stat. 1677][/us/stat/99/1677]; [Pub. L. 99–204][/us/pl/99/204], § 14(a), Dec. 23, 1985, [99 Stat. 1674][/us/stat/99/1674]; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 108, Oct. 28, 1992, [106 Stat. 3654][/us/stat/106/3654].)
 
  __Codification__ 
 
@@ -103,7 +103,7 @@
 
     Subsec. (f). [Pub. L. 100–461][/us/pl/100/461] redesignated subsec. (e) as (f) and substituted “(e)” for “(c)”.
 
-    1985—[Pub. L. 99–204, § 14(a)][/us/pl/99/204/s14/a], designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+    1985—[Pub. L. 99–204][/us/pl/99/204], § 14(a), designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
 
     1981—[Pub. L. 97–65][/us/pl/97/65] struck out designation “(a)” before “After the end of each fiscal year”, substituted references to section 2199(h) and (i) of this title for references to section 2199(i) and (l) of this title, respectively, in pars. (1) and (2)(A), and struck out subsec. (b) which had provided that, not later than Sept. 30, 1980, the Corporation was to submit to the Congress a report on the development of private and multilateral programs for investment insurance and any reinsurance arrangements the Corporation had made with private insurance companies, multilateral organizations and institutions or other entities.
 
@@ -115,7 +115,7 @@
 
  __Report to Congress Not Later Than__  __June 30, 1982__  __, on Methods for Estimating the Impact on Investments if Insurance or Other Support is Not Provided__ 
 
-    [Pub. L. 97–65, § 9(b)][/us/pl/97/65/s9/b], Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024], which provided for a report to Congress by the Overseas Private Investment Corporation on the effect on investments of lack of insurance, was repealed by [Pub. L. 99–204, § 17(c)(2)][/us/pl/99/204/s17/c/2], Dec. 23, 1985, [99 Stat. 1677][/us/stat/99/1677].
+    [Pub. L. 97–65][/us/pl/97/65], § 9(b), Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024], which provided for a report to Congress by the Overseas Private Investment Corporation on the effect on investments of lack of insurance, was repealed by [Pub. L. 99–204][/us/pl/99/204], § 17(c)(2), Dec. 23, 1985, [99 Stat. 1677][/us/stat/99/1677].
 
 ----------
 
@@ -126,26 +126,26 @@
 
 [/us/usc/t22/s2199/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2199%2Fh
 [/us/usc/t22/s2199/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2199%2Fi
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/usc/t22/s2194b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194b%2Fa
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F818
-[/us/pl/93/390/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F7
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F768
-[/us/pl/95/268/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs10
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F216
-[/us/pl/97/65/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs9
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1024
-[/us/pl/99/204/s17/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs17%2Fc%2F1
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1677
-[/us/pl/99/204/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs14%2Fa
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1674
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/102/549/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs108
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3654
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
@@ -155,14 +155,14 @@
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/99/204/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs14%2Fa
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
-[/us/pl/97/65/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs9%2Fb
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1024
-[/us/pl/99/204/s17/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs17%2Fc%2F2
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1677
 
 

@@ -17,11 +17,11 @@
 
     The Secretary of State, with the approval of the Office of Management and Budget, shall prescribe the maximum rates of per diem in lieu of subsistence (or of similar allowances therefor) payable while away from their own countries to foreign participants in any exchange of persons program, or in any program of furnishing technical information and assistance, under the jurisdiction of any Government agency, and said rates may be fixed without regard to any provision of law in limitation thereof.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 12, [70 Stat. 892][/us/stat/70/892]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 12, [70 Stat. 892][/us/stat/70/892]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 170q of Title 5][/us/usc/t5/s170q] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170q of Title 5][/us/usc/t5/s170q] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Transfer of Functions__ 
 
@@ -41,10 +41,10 @@
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/stat/70/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F892
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
 [/us/usc/t5/s170q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170q
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

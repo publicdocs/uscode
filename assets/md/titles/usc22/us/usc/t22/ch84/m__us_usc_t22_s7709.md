@@ -31,7 +31,7 @@
 
         (2) shall publish such detailed summary and the text of the Compact in the Federal Register and on the Internet website of the Corporation.
 
-([Pub. L. 108–199, div. D, title VI, § 610][/us/pl/108/199/s610], Jan. 23, 2004, [118 Stat. 220][/us/stat/118/220].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 610, Jan. 23, 2004, [118 Stat. 220][/us/stat/118/220].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/199/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs610
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F220
 
 

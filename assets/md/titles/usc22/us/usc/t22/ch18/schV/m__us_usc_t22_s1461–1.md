@@ -33,7 +33,7 @@
 
     (5) promote United States participation in international events relevant to the mission of the Agency.
 
-([Pub. L. 95–426, title II, § 202][/us/pl/95/426/s202], Oct. 7, 1978, [92 Stat. 972][/us/stat/92/972]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
+([Pub. L. 95–426, title II][/us/pl/95/426/tII], § 202, Oct. 7, 1978, [92 Stat. 972][/us/stat/92/972]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Increase in Financial Resources of Agency for Exchange-of-Persons Activities__ 
 
-[Pub. L. 95–426, title II, § 203][/us/pl/95/426/s203], Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973], as amended by [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], provided that: 
+[Pub. L. 95–426, title II][/us/pl/95/426/tII], § 203, Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973], as amended by [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], provided that: 
 
 > “The President shall, by a process of gradual expansion during the four-year period beginning October 1, 1979, increase significantly the financial resources expended annually by the United States Information Agency for exchange-of-persons activities. The President shall prepare at an early date a general plan for the accomplishment of this goal and shall adjust that plan annually, as he finds appropriate, in consultation with the Congress.”
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/95/426/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs202
+[/us/pl/95/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtII
 [/us/stat/92/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F972
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
-[/us/pl/95/426/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs203
+[/us/pl/95/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtII
 [/us/stat/92/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F973
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 
 

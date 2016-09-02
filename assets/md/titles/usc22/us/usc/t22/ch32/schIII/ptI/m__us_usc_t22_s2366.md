@@ -29,7 +29,7 @@
 
  __Administration of Funds__ 
 
-    [Pub. L. 87–329, title I, § 112][/us/pl/87/329/s112], Sept. 30, 1961, [75 Stat. 719][/us/stat/75/719], provided that funds appropriated under [Pub. L. 87–329][/us/pl/87/329], popularly known as the Foreign Assistance and Related Agencies Appropriation Act, 1962, should be administered with a favorable view toward those recipient nations which share the view of the United States on the world crisis.
+    [Pub. L. 87–329, title I][/us/pl/87/329/tI], § 112, Sept. 30, 1961, [75 Stat. 719][/us/stat/75/719], provided that funds appropriated under [Pub. L. 87–329][/us/pl/87/329], popularly known as the Foreign Assistance and Related Agencies Appropriation Act, 1962, should be administered with a favorable view toward those recipient nations which share the view of the United States on the world crisis.
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/87/329/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329%2Fs112
+[/us/pl/87/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329%2FtI
 [/us/stat/75/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F719
 [/us/pl/87/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F329
 

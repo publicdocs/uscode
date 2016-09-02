@@ -65,7 +65,7 @@
 
                 (iii) efforts to maximize United States capabilities to support clinical trials of vaccines in developing countries and to address the challenges of delivering vaccines in developing countries to minimize delays in access once vaccines are available.
 
-([Pub. L. 110–293, title II, § 206][/us/pl/110/293/s206], July 30, 2008, [122 Stat. 2944][/us/stat/122/2944].)
+([Pub. L. 110–293, title II][/us/pl/110/293/tII], § 206, July 30, 2008, [122 Stat. 2944][/us/stat/122/2944].)
 
  __Codification__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/110/293/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs206
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2944
 
 

@@ -33,7 +33,7 @@
 
     (8) it is also in the interest of the United States, as well as peaceful cooperation in the Western Hemisphere, that particular attention be given to the students of the Caribbean region.
 
-([Pub. L. 99–93, title VI, § 602][/us/pl/99/93/s602], Aug. 16, 1985, [99 Stat. 439][/us/stat/99/439]; [Pub. L. 103–199, title III, § 305][/us/pl/103/199/s305], Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 602, Aug. 16, 1985, [99 Stat. 439][/us/stat/99/439]; [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 305, Dec. 17, 1993, [107 Stat. 2324][/us/stat/107/2324].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/99/93/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs602
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F439
-[/us/pl/103/199/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs305
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2324
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 

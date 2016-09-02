@@ -41,7 +41,7 @@
 
         To pay for the contribution authorized under subsection (b), there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury $212,000,000, for the United States contribution to the Fund for Special Operations.
 
-([Pub. L. 86–147, § 40][/us/pl/86/147/s40], as added [Pub. L. 111–212, title I, § 1009][/us/pl/111/212/s1009], July 29, 2010, [124 Stat. 2330][/us/stat/124/2330].)
+([Pub. L. 86–147][/us/pl/86/147], § 40, as added [Pub. L. 111–212, title I][/us/pl/111/212/tI], § 1009, July 29, 2010, [124 Stat. 2330][/us/stat/124/2330].)
 
 ----------
 
@@ -52,8 +52,8 @@
 
 [/us/usc/t22/s283c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs283c
 [/us/usc/t22/s283c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs283c
-[/us/pl/86/147/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs40
-[/us/pl/111/212/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs1009
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/111/212/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtI
 [/us/stat/124/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2330
 
 

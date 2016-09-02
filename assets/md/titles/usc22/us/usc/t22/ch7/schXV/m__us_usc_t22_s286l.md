@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945, between the United States and the United Kingdom which was transmitted by the President to the Congress on January 30, 1946, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved.
 
-([July 15, 1946, ch. 577, § 1][/us/act/1946-07-15/ch577/s1], [60 Stat. 535][/us/stat/60/535]; [Pub. L. 85–21][/us/pl/85/21], Apr. 20, 1957, [71 Stat. 17][/us/stat/71/17].)
+([July 15, 1946, ch. 577][/us/act/1946-07-15/ch577], § 1, [60 Stat. 535][/us/stat/60/535]; [Pub. L. 85–21][/us/pl/85/21], Apr. 20, 1957, [71 Stat. 17][/us/stat/71/17].)
 
  __References in Text__ 
 
@@ -140,7 +140,7 @@ of the United States of America.
 ----------
 ----------
 
-[/us/act/1946-07-15/ch577/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-15%2Fch577%2Fs1
+[/us/act/1946-07-15/ch577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-15%2Fch577
 [/us/stat/60/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F535
 [/us/pl/85/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F21
 [/us/stat/71/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F17

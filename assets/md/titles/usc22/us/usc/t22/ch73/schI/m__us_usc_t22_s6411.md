@@ -55,7 +55,7 @@
 
         The Secretary of State shall provide the Ambassador at Large with such funds as may be necessary for the hiring of staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section.
 
-([Pub. L. 105–292, title I, § 101][/us/pl/105/292/s101], Oct. 27, 1998, [112 Stat. 2791][/us/stat/112/2791].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 101, Oct. 27, 1998, [112 Stat. 2791][/us/stat/112/2791].)
 
  __Near East and South Central Asia Religious Freedom__ 
 
@@ -125,7 +125,7 @@
 ----------
 
 [/us/usc/t22/s6412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6412
-[/us/pl/105/292/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs101
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2791
 [/us/pl/113/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F161
 [/us/stat/128/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1855

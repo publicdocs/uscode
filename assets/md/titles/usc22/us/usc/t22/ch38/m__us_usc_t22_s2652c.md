@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652b.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652b.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2653...2655.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c)
 
 ## § 2652c. Assistant Secretary of State for Verification and Compliance
 
@@ -83,7 +83,7 @@
 
             (D) other reports being prepared by the Department of State as of November 29, 1999, relating to arms control, nonproliferation, or disarmament verification or compliance matters.
 
-([Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1112\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–486; [Pub. L. 109–401, title I, § 108][/us/pl/109/401/s108], Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1112\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–486; [Pub. L. 109–401, title I][/us/pl/109/401/tI], § 108, Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
 
  __Amendments__ 
 
@@ -95,7 +95,7 @@
 
  __Definitions__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1102\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–485, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1102\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–485, provided that: 
 
 > “In this title \[see Short Title of 1999 Amendment note set out under [section 2551 of this title][/us/usc/t22/s2551]\]:
 
@@ -123,21 +123,9 @@
 
 >     The term ‘START II Treaty’ means the Treaty Between the United States of America and the Russian Federation on Further Reduction and Limitation of Strategic Offensive Arms, and related protocols and memorandum of understanding, signed at Moscow on January 3, 1993.”
 
-§§ 2653 to 2655. __Repealed.__  __[__  __Pub. L. 103–236, title I, § 162(a)__  __][/us/pl/103/236/s162/a]__  __, (p),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 405__  __][/us/stat/108/405]__  __, 410__ 
-
-    Section 2653, acts [May 26, 1949, ch. 143, § 2][/us/act/1949-05-26/ch143/s2], [63 Stat. 111][/us/stat/63/111]; [Aug. 5, 1955, ch. 576, § 2][/us/act/1955-08-05/ch576/s2], [69 Stat. 536][/us/stat/69/536]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(j)(2), [72 Stat. 274][/us/stat/72/274]; July 30, 1959, [Pub. L. 86–117][/us/pl/86/117], [73 Stat. 265][/us/stat/73/265]; Aug. 14, 1964, [Pub. L. 88–426, title III, § 305(14)][/us/pl/88/426/s305/14], [78 Stat. 424][/us/stat/78/424]; July 13, 1972, [Pub. L. 92–352, title I, § 103(a)(2)][/us/pl/92/352/s103/a/2], [86 Stat. 490][/us/stat/86/490]; Nov. 22, 1983, [Pub. L. 98–164, title I, § 125(a)][/us/pl/98/164/s125/a], [97 Stat. 1026][/us/stat/97/1026], related to appointment and rank of Secretary of State and other officers of Department of State.
-
-    Section 2654, [act May 24, 1924, ch. 182, § 30][/us/act/1924-05-24/ch182/s30], as added [Feb. 23, 1931, ch. 276, § 7][/us/act/1931-02-23/ch276/s7], [46 Stat. 1214][/us/stat/46/1214]; amended [Oct. 15, 1949, ch. 695, § 6(d)][/us/act/1949-10-15/ch695/s6/d], [63 Stat. 881][/us/stat/63/881], related to office and appointment of legal adviser in Department of State.
-
-    Section 2655, [act May 18, 1937, ch. 220][/us/act/1937-05-18/ch220], [50 Stat. 169][/us/stat/50/169], related to position and appointment of Counselor of Department of State.
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of [Pub. L. 103–236][/us/pl/103/236] become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see [section 161(b) of Pub. L. 103–236][/us/pl/103/236/s161/b], as amended, set out as an Effective Date of 1994 Amendment note under [section 2651a of this title][/us/usc/t22/s2651a].
-
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652b.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2655a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2652b.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2653...2655.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c)
 
 ----------
 ----------
@@ -146,45 +134,19 @@
 [/us/usc/t22/s2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2577
 [/us/usc/t22/s2593a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593a%2Fa
 [/us/usc/t22/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8003
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/401/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs108
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2738
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
 [/us/usc/t22/s2652c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/103/236/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fa
-[/us/stat/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F405
-[/us/act/1949-05-26/ch143/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-26%2Fch143%2Fs2
-[/us/stat/63/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F111
-[/us/act/1955-08-05/ch576/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch576%2Fs2
-[/us/stat/69/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F536
-[/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
-[/us/stat/72/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F274
-[/us/pl/86/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F117
-[/us/stat/73/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F265
-[/us/pl/88/426/s305/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F14
-[/us/stat/78/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F424
-[/us/pl/92/352/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs103%2Fa%2F2
-[/us/stat/86/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F490
-[/us/pl/98/164/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs125%2Fa
-[/us/stat/97/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1026
-[/us/act/1924-05-24/ch182/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs30
-[/us/act/1931-02-23/ch276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276%2Fs7
-[/us/stat/46/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1214
-[/us/act/1949-10-15/ch695/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs6%2Fd
-[/us/stat/63/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F881
-[/us/act/1937-05-18/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-18%2Fch220
-[/us/stat/50/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F169
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
-[/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 
 

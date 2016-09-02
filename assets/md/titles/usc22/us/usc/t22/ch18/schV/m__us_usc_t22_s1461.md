@@ -47,7 +47,7 @@
 
         Nothing in this section may be construed to require the Secretary or the Broadcasting Board of Governors to make material disseminated abroad available in any format other than in the format disseminated abroad.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 501, [62 Stat. 9][/us/stat/62/9]; [Pub. L. 92–352, title II, § 204][/us/pl/92/352/s204], July 13, 1972, [86 Stat. 494][/us/stat/86/494]; [Pub. L. 96–60, title II, § 208][/us/pl/96/60/s208], Aug. 15, 1979, [93 Stat. 401][/us/stat/93/401]; [Pub. L. 101–246, title II, § 202][/us/pl/101/246/s202], Feb. 16, 1990, [104 Stat. 49][/us/stat/104/49]; [Pub. L. 112–239, div. A, title X, § 1078(a)][/us/pl/112/239/s1078/a], Jan. 2, 2013, [126 Stat. 1957][/us/stat/126/1957].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 501, [62 Stat. 9][/us/stat/62/9]; [Pub. L. 92–352, title II][/us/pl/92/352/tII], § 204, July 13, 1972, [86 Stat. 494][/us/stat/86/494]; [Pub. L. 96–60, title II][/us/pl/96/60/tII], § 208, Aug. 15, 1979, [93 Stat. 401][/us/stat/93/401]; [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 202, Feb. 16, 1990, [104 Stat. 49][/us/stat/104/49]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1078(a), Jan. 2, 2013, [126 Stat. 1957][/us/stat/126/1957].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 112–239, div. A, title X, § 1078(b)][/us/pl/112/239/s1078/b], Jan. 2, 2013, [126 Stat. 1958][/us/stat/126/1958], provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1078(b), Jan. 2, 2013, [126 Stat. 1958][/us/stat/126/1958], provided that: 
 
 > “Nothing in this section \[amending this section and sections 1437, 1461–1a, and 1462 of this title and enacting provisions set out as a note under [section 1437 of this title][/us/usc/t22/s1437]\], or in the United States Information and Educational Exchange Act of 1948 ([22 U.S.C. 1431][/us/usc/t22/s1431] et seq.), may be construed to affect the allocation of funds appropriated or otherwise made specifically available for public diplomacy or to authorize appropriations for Broadcasting Board of Governors programming other than for foreign audiences abroad.”
 
@@ -85,7 +85,7 @@
 
  __USIA Network for Dissemination of Information Concerning United States Programs To Combat Narcotics and Other Controlled Substances__ 
 
-[Pub. L. 101–246, title II, § 210][/us/pl/101/246/s210], Feb. 16, 1990, [104 Stat. 54][/us/stat/104/54], provided that: 
+[Pub. L. 101–246, title II][/us/pl/101/246/tII], § 210, Feb. 16, 1990, [104 Stat. 54][/us/stat/104/54], provided that: 
 
 > “The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
 
@@ -97,7 +97,7 @@
 
  __Public Service Announcements To Promote Child Survival__ 
 
-[Pub. L. 101–246, title II, § 233][/us/pl/101/246/s233], Feb. 16, 1990, [104 Stat. 57][/us/stat/104/57], provided that: 
+[Pub. L. 101–246, title II][/us/pl/101/246/tII], § 233, Feb. 16, 1990, [104 Stat. 57][/us/stat/104/57], provided that: 
 
 > “The United States Information Agency shall establish and maintain through the Voice of America a system of public service announcements focusing on child survival techniques.”
 
@@ -105,11 +105,11 @@
 
  __USIA Posts and Personnel Overseas__ 
 
-    [Pub. L. 100–204, title II, § 204][/us/pl/100/204/s204], Dec. 22, 1987, [101 Stat. 1373][/us/stat/101/1373], prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by [Pub. L. 102–138, title II, § 206(c)][/us/pl/102/138/s206/c], Oct. 28, 1991, [105 Stat. 693][/us/stat/105/693]. See [section 1475g of this title][/us/usc/t22/s1475g].
+    [Pub. L. 100–204, title II][/us/pl/100/204/tII], § 204, Dec. 22, 1987, [101 Stat. 1373][/us/stat/101/1373], prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by [Pub. L. 102–138, title II][/us/pl/102/138/tII], § 206(c), Oct. 28, 1991, [105 Stat. 693][/us/stat/105/693]. See [section 1475g of this title][/us/usc/t22/s1475g].
 
  __Redesignation of International Communication Agency as United States Information Agency__ 
 
-[Pub. L. 97–241, title III, § 303][/us/pl/97/241/s303], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], provided that:
+[Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303, Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], provided that:
 
 >     “(a) The International Communication Agency, established by Reorganization Plan Numbered 2 of 1977 \[set out as a note below\], is hereby redesignated the United States Information Agency. The Director of the International Communication Agency or any other official of the International Communication Agency is hereby redesignated the Director or other official, as appropriate, of the United States Information Agency.
 
@@ -117,7 +117,7 @@
 
     \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
- __REORGANIZATION PLAN NO. 8 OF 1953__  __Eff.__  __Aug. 1, 1953__  __, 18 F.R. 4542,__  __[__  __67 Stat. 642__  __][/us/stat/67/642]__  __, as amended__  __[__  __act June 28, 1955, ch. 189, § 12(c)(21)__  __][/us/act/1955-06-28/ch189/s12/c/21]__  __,__  __[__  __69 Stat. 183__  __][/us/stat/69/183]__  __; Reorg. Plan No. 2 of 1977, § 9(b), eff.__  __Oct. 11, 1977__  __, 42 F.R. 62461,__  __[__  __91 Stat. 1639__  __][/us/stat/91/1639]__ 
+ __REORGANIZATION PLAN NO. 8 OF 1953__  __Eff.__  __Aug. 1, 1953__  __, 18 F.R. 4542,__  __[__  __67 Stat. 642__  __][/us/stat/67/642]__  __, as amended__  __[__  __act June 28, 1955, ch. 189__  __][/us/act/1955-06-28/ch189]__  __, § 12(c)(21),__  __[__  __69 Stat. 183__  __][/us/stat/69/183]__  __; Reorg. Plan No. 2 of 1977, § 9(b), eff.__  __Oct. 11, 1977__  __, 42 F.R. 62461,__  __[__  __91 Stat. 1639__  __][/us/stat/91/1639]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see [5 U.S.C. 901][/us/usc/t5/s901] et seq.\].
 
@@ -125,7 +125,7 @@
 
  __Section 1. Establishment of Agency__ 
 
-    \[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, [91 Stat. 1639][/us/stat/91/1639], set out as a note below. Section was amended by [act June 28, 1955, ch. 189, § 12(c)(21)][/us/act/1955-06-28/ch189/s12/c/21], [69 Stat. 183][/us/stat/69/183] and related to the establishment of the United States Information Agency.\]
+    \[Superseded. Reorg. Plan No. 2 of 1977, § 9(b), eff. Oct. 11, 1977, 42 F.R. 62461, [91 Stat. 1639][/us/stat/91/1639], set out as a note below. Section was amended by [act June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 12(c)(21), [69 Stat. 183][/us/stat/69/183] and related to the establishment of the United States Information Agency.\]
 
  __Sec. 2. Transfer of Functions__ 
 
@@ -169,7 +169,7 @@
 
     The White House, June 1, 1953.
 
- __REORGANIZATION PLAN NO. 2 OF 1977__  __42 F.R. 62461,__  __[__  __91 Stat. 1636__  __][/us/stat/91/1636]__  __, as amended__  __[__  __Pub. L. 101–246, title II, § 204(c)__  __][/us/pl/101/246/s204/c]__  __,__  __Feb. 16, 1990__  __,__  __[__  __104 Stat. 50__  __][/us/stat/104/50]__  __;__  __[__  __Pub. L. 105–277, div. G__  __][/us/pl/105/277]__  __, subdiv. A, title XIII, §§ 1334(b), 1336(6),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–786__  __][/us/stat/112/2681-786]__  __, 2681–790;__  __[__  __Pub. L. 106–113, div. B, § 1000(a)(7)__  __][/us/pl/106/113/s1000/a/7]__  __\[div. A, title IV, § 404(a), (c)\],__  __Nov. 29, 1999__  __,__  __[__  __113 Stat. 1536__  __][/us/stat/113/1536]__  __, 1501A–446, 1501A–447;__  __[__  __Pub. L. 107–77, title IV, § 407(c)__  __][/us/pl/107/77/s407/c]__  __,__  __Nov. 28, 2001__  __,__  __[__  __115 Stat. 790__  __][/us/stat/115/790]__ 
+ __REORGANIZATION PLAN NO. 2 OF 1977__  __42 F.R. 62461,__  __[__  __91 Stat. 1636__  __][/us/stat/91/1636]__  __, as amended__  __[__  __Pub. L. 101–246, title II__  __][/us/pl/101/246/tII]__  __, § 204(c),__  __Feb. 16, 1990__  __,__  __[__  __104 Stat. 50__  __][/us/stat/104/50]__  __;__  __[__  __Pub. L. 105–277, div. G__  __][/us/pl/105/277/dG]__  __, subdiv. A, title XIII, §§ 1334(b), 1336(6),__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–786__  __][/us/stat/112/2681-786]__  __, 2681–790;__  __[__  __Pub. L. 106–113, div. B__  __][/us/pl/106/113/dB]__  __, § 1000(a)(7) \[div. A, title IV, § 404(a), (c)\],__  __Nov. 29, 1999__  __,__  __[__  __113 Stat. 1536__  __][/us/stat/113/1536]__  __, 1501A–446, 1501A–447;__  __[__  __Pub. L. 107–77, title IV__  __][/us/pl/107/77/tIV]__  __, § 407(c),__  __Nov. 28, 2001__  __,__  __[__  __115 Stat. 790__  __][/us/stat/115/790]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, October 11, 1977, <sup>\[1\]</sup>  <sup><sup> 1 Actually transmitted Oct. 12, 1977. </sup></sup>  pursuant to the provisions of chapter 9 of title 5 of the United States Code. <sup>\[2\]</sup>  <sup><sup> 2 As amended Nov. 1, 1977, and Nov. 3, 1977. </sup></sup> 
 
@@ -177,27 +177,27 @@
 
  __Section 1. Establishment of the International Communication Agency__ 
 
-    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section established the International Communication Agency.\]
+    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section established the International Communication Agency.\]
 
  __Sec. 2. Director__ 
 
-    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for appointment and responsibilities of Director of the Agency.\]
+    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for appointment and responsibilities of Director of the Agency.\]
 
  __Sec. 3. Deputy Director__ 
 
-    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for appointment and duties of Deputy Director of the Agency.\]
+    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for appointment and duties of Deputy Director of the Agency.\]
 
  __Sec. 4. Associate Directors__ 
 
-    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for appointment, titles, and functions of four Associate Directors of the Agency.\]
+    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for appointment, titles, and functions of four Associate Directors of the Agency.\]
 
  __Sec. 5. Performance of Functions__ 
 
-    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for establishment of bureaus, offices, divisions, and other units within the Agency and for performance of functions of the Director within the Agency.\]
+    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section provided for establishment of bureaus, offices, divisions, and other units within the Agency and for performance of functions of the Director within the Agency.\]
 
  __Sec. 6. Negotiations__ 
 
-    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section authorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.\]
+    \[Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790]. Section authorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.\]
 
  __Sec. 7. Transfer of Functions__ 
 
@@ -253,7 +253,7 @@
 
     The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission’s reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
-    (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended [Pub. L. 101–246, title II, § 204(c)][/us/pl/101/246/s204/c], Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, [112 Stat. 2681–786][/us/stat/112/2681-786]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 404(a), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–446, 1501A–447; [Pub. L. 107–77, title IV, § 407(c)][/us/pl/107/77/s407/c], Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].\]
+    (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 204(c), Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1334(b), Oct. 21, 1998, [112 Stat. 2681–786][/us/stat/112/2681-786]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title IV, § 404(a), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–446, 1501A–447; [Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 407(c), Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].\]
 
     \[[Section 6553 of this title][/us/usc/t22/s6553] provided that the United States Advisory Commission on Public Diplomacy, established under section 8 of Reorganization Plan Numbered 2 of 1977, set out above, was to continue to exist and operate until Oct. 1, 2005.\]
 
@@ -396,13 +396,13 @@
 [/us/usc/t44/s2116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2116%2Fc
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F9
-[/us/pl/92/352/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs204
+[/us/pl/92/352/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2FtII
 [/us/stat/86/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F494
-[/us/pl/96/60/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs208
+[/us/pl/96/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtII
 [/us/stat/93/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F401
-[/us/pl/101/246/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs202
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F49
-[/us/pl/112/239/s1078/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1957
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
@@ -423,28 +423,28 @@
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s1078/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fe
 [/us/usc/t22/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1437
-[/us/pl/112/239/s1078/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fb
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1958
 [/us/usc/t22/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1437
 [/us/usc/t22/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431
-[/us/pl/101/246/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs210
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F54
-[/us/pl/101/246/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs233
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F57
-[/us/pl/100/204/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs204
+[/us/pl/100/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtII
 [/us/stat/101/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1373
-[/us/pl/102/138/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs206%2Fc
+[/us/pl/102/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtII
 [/us/stat/105/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F693
 [/us/usc/t22/s1475g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1475g
-[/us/pl/97/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/stat/67/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F642
-[/us/act/1955-06-28/ch189/s12/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs12%2Fc%2F21
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F183
 [/us/stat/91/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1639
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
 [/us/stat/91/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1639
-[/us/act/1955-06-28/ch189/s12/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs12%2Fc%2F21
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F183
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/usc/t22/s1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1447
@@ -462,25 +462,25 @@
 [/us/pl/97/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/stat/91/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1636
-[/us/pl/101/246/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs204%2Fc
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F50
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-786
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/77/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs407%2Fc
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/usc/t22/s1431–147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431%E2%80%93147
 [/us/usc/t22/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1452
@@ -515,13 +515,13 @@
 [/us/usc/t20/s76h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76h%2Fa
 [/us/usc/t22/s1466–146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1466%E2%80%93146
 [/us/usc/t22/s2456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2456%2Fb
-[/us/pl/101/246/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs204%2Fc
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F50
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-786
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/77/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs407%2Fc
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
 [/us/usc/t22/s6553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6553
 [/us/usc/t22/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469

@@ -61,7 +61,7 @@
 
         The term “USIA” means the United States Information Agency.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XI, § 1103, Oct. 21, 1998, [112 Stat. 2681–766][/us/stat/112/2681-766].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XI, § 1103, Oct. 21, 1998, [112 Stat. 2681–766][/us/stat/112/2681-766].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-766
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

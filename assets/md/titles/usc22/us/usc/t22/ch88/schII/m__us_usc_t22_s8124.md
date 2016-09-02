@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person willfully to fail or refuse to permit, or to disrupt, delay, or otherwise impede, a complementary access authorized by this subchapter or an entry in connection with such access.
 
-([Pub. L. 109–401, title II, § 224][/us/pl/109/401/s224], Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 224, Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs224
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2747
 
 

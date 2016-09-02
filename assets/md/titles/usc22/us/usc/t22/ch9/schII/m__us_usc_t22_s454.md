@@ -19,7 +19,7 @@
 
     (b) Any vessel violating the provisions of subsection (a) of this section shall be denied for a period of three months the right to enter the ports or territorial waters of the United States except in cases of force majeure.
 
-([Nov. 4, 1939, ch. 2, § 14][/us/act/1939-11-04/ch2/s14], [54 Stat. 11][/us/stat/54/11].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 14, [54 Stat. 11][/us/stat/54/11].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1939-11-04/ch2/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs14
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F11
 
 

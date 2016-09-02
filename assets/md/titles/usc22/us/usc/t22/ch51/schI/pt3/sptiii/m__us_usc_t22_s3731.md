@@ -43,7 +43,7 @@
 
         The appropriations or funds of any other department or agency of the United States conducting operations in the Republic of Panama, including the Smithsonian Institution, shall be available for reimbursements on behalf of employees of such department or agency and their dependents.
 
-    (e) __Repealed.__  __[__  __Pub. L. 105–261, div. C, title XXXV, § 3507(a)__  __][/us/pl/105/261/s3507/a]__  __,__  __Oct. 17, 1998__  __,__  __[__  __112 Stat. 2269__  __][/us/stat/112/2269]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 105–261, div. C, title XXXV__  __][/us/pl/105/261/dC/tXXXV]__  __, § 3507(a),__  __Oct. 17, 1998__  __,__  __[__  __112 Stat. 2269__  __][/us/stat/112/2269]__ 
 
     (f) __Reimbursement of United States by Republic of Panama for salaries and other employment costs__ 
 
@@ -57,7 +57,7 @@
 
         Except as expressly provided in this chapter, funds available to the Panama Canal Commission may not be made available to any other agency as that term is defined in [section 551 of title 5][/us/usc/t5/s551], nor may funds be authorized or appropriated for any function other than Panama Canal Commission activities.
 
-([Pub. L. 96–70, title I, § 1321][/us/pl/96/70/s1321], Sept. 27, 1979, [93 Stat. 480][/us/stat/93/480]; [Pub. L. 99–223, § 5(c)][/us/pl/99/223/s5/c], Dec. 28, 1985, [99 Stat. 1739][/us/stat/99/1739]; [Pub. L. 100–705, § 8][/us/pl/100/705/s8], Nov. 19, 1988, [102 Stat. 4686][/us/stat/102/4686]; [Pub. L. 102–484, div. C, title XXXV, § 3512][/us/pl/102/484/s3512], Oct. 23, 1992, [106 Stat. 2655][/us/stat/106/2655]; [Pub. L. 103–337, div. C, title XXXVI, § 3604][/us/pl/103/337/s3604], Oct. 5, 1994, [108 Stat. 3112][/us/stat/108/3112]; [Pub. L. 104–106, div. C, title XXXV, § 3529(3)][/us/pl/104/106/s3529/3], Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642]; [Pub. L. 104–201, div. C, title XXXV, § 3542][/us/pl/104/201/s3542], Sept. 23, 1996, [110 Stat. 2867][/us/stat/110/2867]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85], §§ 3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, [111 Stat. 2066][/us/stat/111/2066], 2074; [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1321, Sept. 27, 1979, [93 Stat. 480][/us/stat/93/480]; [Pub. L. 99–223][/us/pl/99/223], § 5(c), Dec. 28, 1985, [99 Stat. 1739][/us/stat/99/1739]; [Pub. L. 100–705][/us/pl/100/705], § 8, Nov. 19, 1988, [102 Stat. 4686][/us/stat/102/4686]; [Pub. L. 102–484, div. C, title XXXV][/us/pl/102/484/dC/tXXXV], § 3512, Oct. 23, 1992, [106 Stat. 2655][/us/stat/106/2655]; [Pub. L. 103–337, div. C, title XXXVI][/us/pl/103/337/dC/tXXXVI], § 3604, Oct. 5, 1994, [108 Stat. 3112][/us/stat/108/3112]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3529(3), Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3542, Sept. 23, 1996, [110 Stat. 2867][/us/stat/110/2867]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], §§ 3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, [111 Stat. 2066][/us/stat/111/2066], 2074; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 
     1998—Subsec. (e). [Pub. L. 105–261][/us/pl/105/261] struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency of the United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
 
-    1997—Subsec. (c)(1). [Pub. L. 105–85, § 3550(d)(2)(A)][/us/pl/105/85/s3550/d/2/A], substituted “October 1, 1979” for “the effective date of this Act”.
+    1997—Subsec. (c)(1). [Pub. L. 105–85][/us/pl/105/85], § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
-    Subsec. (c)(2). [Pub. L. 105–85, § 3550(d)(2)(B)][/us/pl/105/85/s3550/d/2/B], substituted “October 1, 1979” for “such effective date”.
+    Subsec. (c)(2). [Pub. L. 105–85][/us/pl/105/85], § 3550(d)(2)(B), substituted “October 1, 1979” for “such effective date”.
 
-    Subsec. (e)(2). [Pub. L. 105–85, § 3525(b)][/us/pl/105/85/s3525/b], substituted “, to other Commission employees when determined by the Commission to be necessary for their recruitment or retention, and to other persons” for “and persons”.
+    Subsec. (e)(2). [Pub. L. 105–85][/us/pl/105/85], § 3525(b), substituted “, to other Commission employees when determined by the Commission to be necessary for their recruitment or retention, and to other persons” for “and persons”.
 
     1996—Subsec. (d). [Pub. L. 104–106][/us/pl/104/106] struck out “appropriations or” before “funds of the Commission” in introductory provisions.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
+[Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -104,34 +104,34 @@
 ----------
 ----------
 
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
-[/us/pl/96/70/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1321
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F480
-[/us/pl/99/223/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223%2Fs5%2Fc
+[/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
 [/us/stat/99/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1739
-[/us/pl/100/705/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs8
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4686
-[/us/pl/102/484/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3512
+[/us/pl/102/484/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXV
 [/us/stat/106/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2655
-[/us/pl/103/337/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3604
+[/us/pl/103/337/dC/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXVI
 [/us/stat/108/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3112
-[/us/pl/104/106/s3529/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3529%2F3
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F642
-[/us/pl/104/201/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3542
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2867
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2066
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/85/s3550/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F2%2FA
-[/us/pl/105/85/s3550/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F2%2FB
-[/us/pl/105/85/s3525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3525%2Fb
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5924/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924%2F4%2FA
@@ -139,7 +139,7 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/pl/100/705/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs10

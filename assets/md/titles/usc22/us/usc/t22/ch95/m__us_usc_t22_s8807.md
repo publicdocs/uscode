@@ -41,7 +41,7 @@
 
             Sections 8514(d) and 8551(b) of this title shall apply with respect to sanctions imposed under paragraph (1)(A) to the same extent that such sections apply with respect to the imposition of sanctions under [section 8514(a) of this title][/us/usc/t22/s8514/a].
 
-([Pub. L. 112–239, div. A, title XII, § 1248][/us/pl/112/239/s1248], Jan. 2, 2013, [126 Stat. 2015][/us/stat/126/2015].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1248, Jan. 2, 2013, [126 Stat. 2015][/us/stat/126/2015].)
 
  __Delegation of Functions__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t22/s8514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fc
 [/us/usc/t22/s8514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fa
-[/us/pl/112/239/s1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1248
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2015
 [/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 

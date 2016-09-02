@@ -43,13 +43,13 @@
 
         (5) a description of comments received from interested parties about the extent to which the licensing procedures were effective, after the applicable department or agency holds a public 30-day comment period.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 906\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–69; [Pub. L. 107–56, title II, § 221(a)(2)][/us/pl/107/56/s221/a/2], (3), Oct. 26, 2001, [115 Stat. 292][/us/stat/115/292].)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 906\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–69; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 221(a)(2), (3), Oct. 26, 2001, [115 Stat. 292][/us/stat/115/292].)
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1). [Pub. L. 107–56, § 221(a)(2)][/us/pl/107/56/s221/a/2], inserted “, the Taliban or the territory of Afghanistan controlled by the Taliban,” after “Cuba” and “, or in the territory of Afghanistan controlled by the Taliban,” after “entity within such country”.
+    2001—Subsec. (a)(1). [Pub. L. 107–56][/us/pl/107/56], § 221(a)(2), inserted “, the Taliban or the territory of Afghanistan controlled by the Taliban,” after “Cuba” and “, or in the territory of Afghanistan controlled by the Taliban,” after “entity within such country”.
 
-    Subsec. (a)(2). [Pub. L. 107–56, § 221(a)(3)][/us/pl/107/56/s221/a/3], inserted “, or to any other entity in Syria or North Korea” before period at end.
+    Subsec. (a)(2). [Pub. L. 107–56][/us/pl/107/56], § 221(a)(3), inserted “, or to any other entity in Syria or North Korea” before period at end.
 
 ----------
 
@@ -62,11 +62,11 @@
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/107/56/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs221%2Fa%2F2
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F292
-[/us/pl/107/56/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs221%2Fa%2F2
-[/us/pl/107/56/s221/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs221%2Fa%2F3
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 
 

@@ -73,7 +73,7 @@
 
             (B) assist in the development of an AIDS vaccine.
 
-([Pub. L. 106–264, title I, § 103][/us/pl/106/264/s103], Aug. 19, 2000, [114 Stat. 749][/us/stat/114/749].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 103, Aug. 19, 2000, [114 Stat. 749][/us/stat/114/749].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/106/264/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs103
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F749
 
 

@@ -27,11 +27,11 @@
 
         References in law to provisions of the Foreign Service Act of 1946 or other law superseded by this chapter shall be deemed to include reference to the corresponding provisions of this chapter.
 
-([Pub. L. 96–465, title II, § 2401][/us/pl/96/465/s2401], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2401, Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168].)
 
  __References in Text__ 
 
-    The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], titles I to X, [60 Stat. 999][/us/stat/60/999], as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], titles I to X, [60 Stat. 999][/us/stat/60/999], as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2401
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2168
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F999
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

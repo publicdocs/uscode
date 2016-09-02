@@ -33,7 +33,7 @@
 
         (3) upon an advance of funds, property or services to the United States Government accepted with the approval of the President for specified uses in furtherance of the purposes of this chapter; and funds so advanced may be established as a separate fund in the Treasury of the United States Government, to be available for the specified uses, and to be used for reimbursement of appropriations or direct expenditure subject to the provisions of this chapter, any unexpended balance of such account to be returned to the foreign government or international organization.
 
-([Pub. L. 87–293, title I, § 14][/us/pl/87/293/s14], Sept. 22, 1961, [75 Stat. 620][/us/stat/75/620]; [Pub. L. 91–352, § 7][/us/pl/91/352/s7], July 24, 1970, [84 Stat. 465][/us/stat/84/465]; [Pub. L. 96–465, title II, § 2202(d)][/us/pl/96/465/s2202/d], Oct. 17, 1980, [94 Stat. 2158][/us/stat/94/2158].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 14, Sept. 22, 1961, [75 Stat. 620][/us/stat/75/620]; [Pub. L. 91–352][/us/pl/91/352], § 7, July 24, 1970, [84 Stat. 465][/us/stat/84/465]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2202(d), Oct. 17, 1980, [94 Stat. 2158][/us/stat/94/2158].)
 
  __References in Text__ 
 
@@ -62,11 +62,11 @@
 
 [/us/usc/t22/s4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4085
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
-[/us/pl/87/293/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs14
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F620
-[/us/pl/91/352/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352%2Fs7
+[/us/pl/91/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352
 [/us/stat/84/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F465
-[/us/pl/96/465/s2202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2202%2Fd
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2158
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

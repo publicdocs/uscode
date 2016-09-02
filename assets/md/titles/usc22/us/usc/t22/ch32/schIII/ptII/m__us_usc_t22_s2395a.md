@@ -15,11 +15,11 @@
 
 ## § 2395a. International agreements concerning debt relief; transmittal to congressional committees
 
-    (1) Repealed. [Pub. L. 97–113, title VII, § 734(a)(5)][/us/pl/97/113/s734/a/5], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    (1) Repealed. [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(5), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
     (2) The Secretary of State shall transmit to such committees a copy of the text of any agreement with any foreign government which would result in any such debt relief no less than thirty days prior to its entry into force, together with a detailed justification of the interest of the United States in the proposed debt relief. The requirements of this paragraph shall not apply with respect to an agreement if a statutory requirement exists that the amount of the debt relief provided by the agreement may not exceed the amount approved for such purposes in advance in an appropriation Act.
 
-([Pub. L. 95–424, title VI, § 603(a)][/us/pl/95/424/s603/a], Oct. 6, 1978, [92 Stat. 960][/us/stat/92/960]; H. Res. 89, Feb. 5, 1979; [Pub. L. 97–113, title VII, § 734(a)(5)][/us/pl/97/113/s734/a/5], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 603(a), Oct. 6, 1978, [92 Stat. 960][/us/stat/92/960]; H. Res. 89, Feb. 5, 1979; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(5), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Actions To Provide Bilateral Debt Relief__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 501\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–311, as amended by [Pub. L. 108–447, div. D, title V, § 591(b)][/us/pl/108/447/s591/b], Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037]; [Pub. L. 109–102, title V, § 578][/us/pl/109/102/s578], Nov. 14, 2005, [119 Stat. 2232][/us/stat/119/2232]; [Pub. L. 110–161, div. J, title VI, § 699H(b)(1)][/us/pl/110/161/s699H/b/1], Dec. 26, 2007, [121 Stat. 2372][/us/stat/121/2372], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title V, § 501\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–311, as amended by [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 591(b), Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037]; [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 578, Nov. 14, 2005, [119 Stat. 2232][/us/stat/119/2232]; [Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 699H(b)(1), Dec. 26, 2007, [121 Stat. 2372][/us/stat/121/2372], provided that:
 
 >     “(a)  __Cancellation of Debt__  __.—__ 
 
@@ -127,23 +127,23 @@
 
 >     Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 
-    \[[Pub. L. 108–447, § 591(b)][/us/pl/108/447/s591/b], which directed amendment of [section 501(i) of Public Law 106–113][/us/pl/106/113/s501/i] by substituting “2000–2006” for “2003–2004”, was executed in section 1000(a)(5) \[title V, § 501\] of div. B of [Pub. L. 106–113][/us/pl/106/113], set out above, by making substitution for “2000 through 2004”, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 108–447][/us/pl/108/447], § 591(b), which directed amendment of [section 501(i) of Public Law 106–113][/us/pl/106/113/s501/i] by substituting “2000–2006” for “2003–2004”, was executed in section 1000(a)(5) \[title V, § 501\] of div. B of [Pub. L. 106–113][/us/pl/106/113], set out above, by making substitution for “2000 through 2004”, to reflect the probable intent of Congress.\]
 
  __Notification to Congress on Debt Relief Agreements__ 
 
-[Pub. L. 102–391, title V, § 548][/us/pl/102/391/s548], Oct. 6, 1992, [106 Stat. 1673][/us/stat/106/1673], provided that: 
+[Pub. L. 102–391, title V][/us/pl/102/391/tV], § 548, Oct. 6, 1992, [106 Stat. 1673][/us/stat/106/1673], provided that: 
 
 > “The Secretary of State shall transmit to the Appropriations Committees of the Congress and to such other Committees as appropriate, a copy of the text of any agreement with any foreign government which would result in any debt relief no less than thirty days prior to its entry into force, other than one entered into pursuant to this Act, together with a detailed justification of the interest of the United States in the proposed debt relief: Provided, That the term ‘debt relief’ shall include any and all debt prepayment, debt rescheduling, and debt restructuring proposals and agreements: Provided further, That the Secretary of State and the Secretary of the Treasury should in every feasible instance notify the Appropriations Committees of the Congress and such other Committees as appropriate not less than 15 days prior to any formal multilateral or bilateral negotiation for official debt restructuring, rescheduling, or relief: Provided further, That the Secretary of State or the Secretary of the Treasury, as appropriate, shall report not later than February 1 of each year a consolidated statement of the budgetary implications of all debt-related agreements entered into force during the preceding fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 101–513, title V, § 550][/us/pl/101/513/s550], Nov. 5, 1990, [104 Stat. 2020][/us/stat/104/2020].
+    [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 550, Nov. 5, 1990, [104 Stat. 2020][/us/stat/104/2020].
 
-    [Pub. L. 101–167, title V, § 555][/us/pl/101/167/s555], Nov. 21, 1989, [103 Stat. 1237][/us/stat/103/1237].
+    [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 555, Nov. 21, 1989, [103 Stat. 1237][/us/stat/103/1237].
 
-    [Pub. L. 100–461, title V, § 557][/us/pl/100/461/s557], Oct. 1, 1988, [102 Stat. 2268–38][/us/stat/102/2268-38].
+    [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 557, Oct. 1, 1988, [102 Stat. 2268–38][/us/stat/102/2268-38].
 
-    [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 563\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–172.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 563\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–172.
 
 ----------
 
@@ -152,23 +152,23 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/97/113/s734/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F5
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/424/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs603%2Fa
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F960
-[/us/pl/97/113/s734/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F5
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/447/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs591%2Fb
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3037
-[/us/pl/109/102/s578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs578
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2232
-[/us/pl/110/161/s699H/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs699H%2Fb%2F1
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2372
 [/us/usc/t22/s2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2181
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
@@ -183,18 +183,18 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t22/s262p–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%937
 [/us/usc/t22/s2370/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fr
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
-[/us/pl/108/447/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs591%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/113/s501/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs501%2Fi
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/102/391/s548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs548
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1673
-[/us/pl/101/513/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs550
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2020
-[/us/pl/101/167/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs555
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1237
-[/us/pl/100/461/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs557
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-38
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 
 

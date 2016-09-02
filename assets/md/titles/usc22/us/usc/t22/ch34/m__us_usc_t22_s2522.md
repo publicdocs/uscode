@@ -35,7 +35,7 @@
 
     (g) The word “transportation” in sections 2504(b), 2504(m), and 2505(2) of this title includes transportation of not to exceed three hundred pounds per person of unaccompanied necessary personal and household effects.
 
-([Pub. L. 87–293, title I, § 26][/us/pl/87/293/s26], formerly § 25, Sept. 22, 1961, [75 Stat. 624][/us/stat/75/624]; [Pub. L. 89–572, § 4][/us/pl/89/572/s4], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]; [Pub. L. 91–352, § 8][/us/pl/91/352/s8], July 24, 1970, [84 Stat. 465][/us/stat/84/465]; renumbered § 26, [Pub. L. 99–83, title XI, § 1105(a)(1)][/us/pl/99/83/s1105/a/1], Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 26, formerly § 25, Sept. 22, 1961, [75 Stat. 624][/us/stat/75/624]; [Pub. L. 89–572][/us/pl/89/572], § 4, Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]; [Pub. L. 91–352][/us/pl/91/352], § 8, July 24, 1970, [84 Stat. 465][/us/stat/84/465]; renumbered § 26, [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1105(a)(1), Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276].)
 
  __References in Text__ 
 
@@ -60,13 +60,13 @@
 
 [/us/usc/t22/s2504/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Ff
 [/us/usc/t22/s2507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507%2Fa
-[/us/pl/87/293/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs26
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F624
-[/us/pl/89/572/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs4
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
-[/us/pl/91/352/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352%2Fs8
+[/us/pl/91/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352
 [/us/stat/84/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F465
-[/us/pl/99/83/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1105%2Fa%2F1
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F276
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

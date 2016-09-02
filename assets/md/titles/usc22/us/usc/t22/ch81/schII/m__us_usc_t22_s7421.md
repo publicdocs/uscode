@@ -39,7 +39,7 @@
 
     (11) It is a fundamental principle of international law that a treaty is binding upon its parties only and that it does not create obligations for nonparties without their consent to be bound. The United States is not a party to the Rome Statute and will not be bound by any of its terms. The United States will not recognize the jurisdiction of the International Criminal Court over United States nationals.
 
-([Pub. L. 107–206, title II, § 2002][/us/pl/107/206/s2002], Aug. 2, 2002, [116 Stat. 899][/us/stat/116/899].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2002, Aug. 2, 2002, [116 Stat. 899][/us/stat/116/899].)
 
  __Short Title__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/107/206/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2002
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F899
 [/us/pl/107/206/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2001
 [/us/usc/t22/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7401

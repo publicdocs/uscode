@@ -31,7 +31,7 @@
 
         The report under subsection (a), and the description of measures under subsection (b), or appropriate parts thereof, may be submitted in classified form.
 
-([Pub. L. 107–206, title II, § 2009][/us/pl/107/206/s2009], Aug. 2, 2002, [116 Stat. 906][/us/stat/116/906].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2009, Aug. 2, 2002, [116 Stat. 906][/us/stat/116/906].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/206/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2009
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F906
 
 

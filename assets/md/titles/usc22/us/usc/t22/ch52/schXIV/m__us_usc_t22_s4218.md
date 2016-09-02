@@ -17,11 +17,11 @@
 
     If any consul or vice consul falsely and knowingly certifies that property belonging to foreigners is property belonging to citizens of the United States, he shall be punishable by imprisonment for not more than three years, and by a fine of not more than $10,000.
 
-(R.S. § 1737; [Apr. 5, 1906, ch. 1366, § 3][/us/act/1906-04-05/ch1366/s3], [34 Stat. 100][/us/stat/34/100].)
+(R.S. § 1737; [Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 3, [34 Stat. 100][/us/stat/34/100].)
 
  __Codification__ 
 
-    R.S. § 1737 derived from [act Feb. 22, 1803, ch. 9, § 7][/us/act/1803-02-22/ch9/s7], [2 Stat. 204][/us/stat/2/204].
+    R.S. § 1737 derived from [act Feb. 22, 1803, ch. 9][/us/act/1803-02-22/ch9], § 7, [2 Stat. 204][/us/stat/2/204].
 
     References to “commercial agent” and “vice-commercial agent” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1906-04-05/ch1366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs3
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F100
-[/us/act/1803-02-22/ch9/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1803-02-22%2Fch9%2Fs7
+[/us/act/1803-02-22/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1803-02-22%2Fch9
 [/us/stat/2/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F204
 [/us/usc/t22/s1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1200
 [/us/usc/t22/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs104

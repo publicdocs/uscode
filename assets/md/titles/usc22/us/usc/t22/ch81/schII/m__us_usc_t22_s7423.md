@@ -57,7 +57,7 @@
 
         No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the United States, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
 
-([Pub. L. 107–206, title II, § 2004][/us/pl/107/206/s2004], Aug. 2, 2002, [116 Stat. 902][/us/stat/116/902].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2004, Aug. 2, 2002, [116 Stat. 902][/us/stat/116/902].)
 
 ----------
 
@@ -69,7 +69,7 @@
 [/us/usc/t22/s7427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7427
 [/us/usc/t28/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1782
 [/us/usc/t28/s1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1781
-[/us/pl/107/206/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2004
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F902
 
 

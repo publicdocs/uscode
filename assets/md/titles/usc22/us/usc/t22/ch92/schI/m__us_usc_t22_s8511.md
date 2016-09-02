@@ -61,7 +61,7 @@
 
         (B) an entity that is organized under the laws of the United States or any State.
 
-([Pub. L. 111–195, title I, § 101][/us/pl/111/195/s101], July 1, 2010, [124 Stat. 1316][/us/stat/124/1316]; [Pub. L. 112–158, title III, § 311(b)(2)][/us/pl/112/158/s311/b/2], Aug. 10, 2012, [126 Stat. 1248][/us/stat/126/1248].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 101, July 1, 2010, [124 Stat. 1316][/us/stat/124/1316]; [Pub. L. 112–158, title III][/us/pl/112/158/tIII], § 311(b)(2), Aug. 10, 2012, [126 Stat. 1248][/us/stat/126/1248].)
 
  __Termination of Section__ 
 
@@ -69,7 +69,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in introductory provisions, was in the original “this title”, meaning [Pub. L. 111–195, title I][/us/pl/111/195], July 1, 2010, [124 Stat. 1316][/us/stat/124/1316], which enacted this subchapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of title I to the Code, see Tables.
+    This subchapter, referred to in introductory provisions, was in the original “this title”, meaning [Pub. L. 111–195, title I][/us/pl/111/195/tI], July 1, 2010, [124 Stat. 1316][/us/stat/124/1316], which enacted this subchapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of title I to the Code, see Tables.
 
     Section 102 of this Act, referred to in par. (2), is [section 102 of Pub. L. 111–195][/us/pl/111/195/s102], which enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense.
 
@@ -93,12 +93,12 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
-[/us/pl/111/195/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs101
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1316
-[/us/pl/112/158/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs311%2Fb%2F2
+[/us/pl/112/158/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIII
 [/us/stat/126/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1248
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
-[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1316
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315

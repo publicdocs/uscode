@@ -37,7 +37,7 @@
 
         Subsections (a) through (c) shall be exercised notwithstanding any other provision of law.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XVI, § 1613, Oct. 21, 1998, [112 Stat. 2681–799][/us/stat/112/2681-799]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 341\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444.)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XVI, § 1613, Oct. 21, 1998, [112 Stat. 2681–799][/us/stat/112/2681-799]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 341\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444.)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 
 [/us/usc/t22/s4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4102
 [/us/usc/t5/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-799
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-776

@@ -27,7 +27,7 @@
 
         The Endowment shall consult with the Department of State on any overseas program funded by the Endowment prior to the commencement of the activities of that program.
 
-([Pub. L. 98–164, title V, § 505][/us/pl/98/164/s505], as added [Pub. L. 99–93, title II, § 210(a)][/us/pl/99/93/s210/a], Aug. 16, 1985, [99 Stat. 431][/us/stat/99/431].)
+([Pub. L. 98–164, title V][/us/pl/98/164/tV], § 505, as added [Pub. L. 99–93, title II][/us/pl/99/93/tII], § 210(a), Aug. 16, 1985, [99 Stat. 431][/us/stat/99/431].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/98/164/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs505
-[/us/pl/99/93/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs210%2Fa
+[/us/pl/98/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtV
+[/us/pl/99/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtII
 [/us/stat/99/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F431
 
 

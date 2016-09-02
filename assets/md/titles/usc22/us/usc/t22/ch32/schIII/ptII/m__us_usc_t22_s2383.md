@@ -33,7 +33,7 @@
 
     (b) The establishment of priorities in the procurement, delivery, and allocation of military equipment shall be determined by the Secretary of Defense.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 623, Sept. 4, 1961, [75 Stat. 446][/us/stat/75/446]; [Pub. L. 94–329, title I, § 106(b)(3)][/us/pl/94/329/s106/b/3], June 30, 1976, [90 Stat. 733][/us/stat/90/733].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 623, Sept. 4, 1961, [75 Stat. 446][/us/stat/75/446]; [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(b)(3), June 30, 1976, [90 Stat. 733][/us/stat/90/733].)
 
  __References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a)(4). [Pub. L. 94–329, § 106(b)(3)(A)][/us/pl/94/329/s106/b/3/A], inserted “and related civilian” after “military”.
+    1976—Subsec. (a)(4). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(3)(A), inserted “and related civilian” after “military”.
 
-    Subsec. (a)(6). [Pub. L. 94–329, § 106(b)(3)(B)][/us/pl/94/329/s106/b/3/B], inserted “education and training” after “assistance”.
+    Subsec. (a)(6). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(3)(B), inserted “education and training” after “assistance”.
 
 ----------
 
@@ -54,11 +54,11 @@
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F446
-[/us/pl/94/329/s106/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F3
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F733
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/94/329/s106/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F3%2FA
-[/us/pl/94/329/s106/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F3%2FB
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 
 

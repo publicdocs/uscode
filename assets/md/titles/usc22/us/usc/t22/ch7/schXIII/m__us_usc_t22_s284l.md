@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution, there is hereby authorized to be appropriated without fiscal year limitation four annual installments of $375,000,000 each for payment by the Secretary of the Treasury.
 
-([Pub. L. 86–565, § 14][/us/pl/86/565/s14], as added [Pub. L. 93–373, § 1][/us/pl/93/373/s1], Aug. 14, 1974, [88 Stat. 445][/us/stat/88/445].)
+([Pub. L. 86–565][/us/pl/86/565], § 14, as added [Pub. L. 93–373][/us/pl/93/373], § 1, Aug. 14, 1974, [88 Stat. 445][/us/stat/88/445].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/86/565/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs14
-[/us/pl/93/373/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F373%2Fs1
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
+[/us/pl/93/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F373
 [/us/stat/88/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F445
 
 

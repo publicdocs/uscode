@@ -25,7 +25,7 @@
 
     (4) the term “appropriate committees of Congress” includes the Committee on Foreign Affairs and the Committee on Energy and Commerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 101–246, title II, § 248][/us/pl/101/246/s248], Feb. 16, 1990, [104 Stat. 62][/us/stat/104/62].)
+([Pub. L. 101–246, title II][/us/pl/101/246/tII], § 248, Feb. 16, 1990, [104 Stat. 62][/us/stat/104/62].)
 
  __Repeal of Section__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/246/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs248
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F62
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc

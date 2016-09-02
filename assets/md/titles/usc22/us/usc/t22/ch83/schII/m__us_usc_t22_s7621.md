@@ -35,7 +35,7 @@
 
         (2) the United States should systematically track the evolution of these partnerships and work with others in the public and private sector to profile and build upon those models that are most effective.
 
-([Pub. L. 108–25, title II, § 201][/us/pl/108/25/s201], May 27, 2003, [117 Stat. 723][/us/stat/117/723].)
+([Pub. L. 108–25, title II][/us/pl/108/25/tII], § 201, May 27, 2003, [117 Stat. 723][/us/stat/117/723].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/108/25/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs201
+[/us/pl/108/25/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtII
 [/us/stat/117/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F723
 
 

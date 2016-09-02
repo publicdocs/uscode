@@ -17,7 +17,7 @@
 
     The provisions of this subchapter may be extended to the Office of the High Representative in Bosnia and Herzegovina (and to its officers and employees) or the International Civilian Office in Kosovo (and to its officers and employees) in the same manner, to the same extent, and subject to the same conditions, as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation. Any such extension may provide for the provisions of this subchapter to continue to extend to the Office of the High Representative in Bosnia and Herzegovina (and to its officers and employees) or the International Civilian Office in Kosovo (and to its officers and employees) after that Office has been dissolved.
 
-([Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 17, as added [Pub. L. 111–177, § 2][/us/pl/111/177/s2], June 8, 2010, [124 Stat. 1260][/us/stat/124/1260].)
+([Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 17, as added [Pub. L. 111–177][/us/pl/111/177], § 2, June 8, 2010, [124 Stat. 1260][/us/stat/124/1260].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
-[/us/pl/111/177/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F177%2Fs2
+[/us/pl/111/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F177
 [/us/stat/124/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1260
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669

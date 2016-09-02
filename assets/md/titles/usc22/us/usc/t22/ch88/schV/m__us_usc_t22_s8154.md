@@ -21,7 +21,7 @@
 
     (2) facilitating the formation of a political consensus or political support for such sampling in the territory of a non-nuclear-weapon State Party.
 
-([Pub. L. 109–401, title II, § 254][/us/pl/109/401/s254], Dec. 18, 2006, [120 Stat. 2751][/us/stat/120/2751].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 254, Dec. 18, 2006, [120 Stat. 2751][/us/stat/120/2751].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs254
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2751
 
 

@@ -23,7 +23,7 @@
 
         Property classified as domestic excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 shall not be transferred to the agency primarily responsible for administering subchapter I of this chapter for use pursuant to the provisions of subchapter I of this chapter or [section 2357 of this title][/us/usc/t22/s2357] unless (1) such property is transferred for use exclusively by an agency of the United States Government, or (2) it has been determined in the same manner as provided for surplus property in section 549(a) to (e) of title 40, that such property is not needed for donation pursuant to those subsections. The foregoing restrictions shall not apply to the transfer in any fiscal year for use pursuant to the provisions of subchapter I of this chapter of amounts of such property with a total original acquisition cost to the United States Government not exceeding $45,000,000.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 608, Sept. 4, 1961, [75 Stat. 441][/us/stat/75/441]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(c), Sept. 19, 1966, [80 Stat. 804][/us/stat/80/804]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(b), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 95–424, title I, § 102(g)(2)(C)][/us/pl/95/424/s102/g/2/C], Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942]; [Pub. L. 97–113, title VII, § 701][/us/pl/97/113/s701], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 608, Sept. 4, 1961, [75 Stat. 441][/us/stat/75/441]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(c), Sept. 19, 1966, [80 Stat. 804][/us/stat/80/804]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(b), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(2)(C), Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 701, Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -35,11 +35,11 @@
 
  __Codification__ 
 
-    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for references to the Federal Property and Administrative Services Act of 1949, as amended, on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for references to the Federal Property and Administrative Services Act of 1949, as amended, on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a), “[section 1535(d) of title 31][/us/usc/t31/s1535/d]” substituted for “section 1210 of the General Appropriation Act, 1951 ([64 Stat. 765][/us/stat/64/765]) \[[31 U.S.C. 686–1][/us/usc/t31/s686–1]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “[section 1535(d) of title 31][/us/usc/t31/s1535/d]” substituted for “section 1210 of the General Appropriation Act, 1951 ([64 Stat. 765][/us/stat/64/765]) \[[31 U.S.C. 686–1][/us/usc/t31/s686–1]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (b), “section 549(a) to (e) of title 40” substituted for “section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended” and “those subsections” substituted for “that subsection” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (b), “section 549(a) to (e) of title 40” substituted for “section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended” and “those subsections” substituted for “that subsection” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -75,24 +75,24 @@
 [/us/stat/80/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F804
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F458
-[/us/pl/95/424/s102/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FC
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
-[/us/pl/97/113/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs701
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1543
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t31/s1535/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535%2Fd
 [/us/stat/64/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F765
 [/us/usc/t31/s686–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs686%E2%80%931
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424

@@ -37,7 +37,7 @@
 
         The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
 
-([Pub. L. 96–465, title I, § 827][/us/pl/96/465/s827], Oct. 17, 1980, [94 Stat. 2124][/us/stat/94/2124]; [Pub. L. 99–335, title IV, § 411][/us/pl/99/335/s411], June 6, 1986, [100 Stat. 614][/us/stat/100/614].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 827, Oct. 17, 1980, [94 Stat. 2124][/us/stat/94/2124]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 411, June 6, 1986, [100 Stat. 614][/us/stat/100/614].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Reference to Veterans’ Administration Deemed Reference to Department of Veterans Affairs__ 
 
-[Pub. L. 102–54, § 13(h)(2)][/us/pl/102/54/s13/h/2], June 13, 1991, [105 Stat. 275][/us/stat/105/275], provided that: 
+[Pub. L. 102–54][/us/pl/102/54], § 13(h)(2), June 13, 1991, [105 Stat. 275][/us/stat/105/275], provided that: 
 
 > “Any reference to the Veterans’ Administration in any regulation prescribed or Executive order issued pursuant to section 827(a) of the Foreign Service Act of 1980 ([22 U.S.C. 4067(a)][/us/usc/t22/s4067/a]) shall be deemed to be a reference to the Department of Veterans Affairs.”
 
@@ -63,7 +63,7 @@
 
  __Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems__ 
 
-Ex. Ord. No. 12289, Feb. 14, 1981, 46 F.R. 12693, as amended by [Pub. L. 102–54, § 13(h)(2)][/us/pl/102/54/s13/h/2], June 13, 1991, [105 Stat. 275][/us/stat/105/275], provided:
+Ex. Ord. No. 12289, Feb. 14, 1981, 46 F.R. 12693, as amended by [Pub. L. 102–54][/us/pl/102/54], § 13(h)(2), June 13, 1991, [105 Stat. 275][/us/stat/105/275], provided:
 
     By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 ([22 U.S.C. 4067][/us/usc/t22/s4067]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
@@ -284,15 +284,15 @@ Sec. 2. Foreign Service Pension System. (a) The following provisions of the Fede
 ----------
 ----------
 
-[/us/pl/96/465/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs827
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2124
-[/us/pl/99/335/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs411
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F614
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
-[/us/pl/102/54/s13/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fh%2F2
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
 [/us/usc/t22/s4067/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067%2Fa
 [/us/pl/98/615/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs2
@@ -303,7 +303,7 @@ Sec. 2. Foreign Service Pension System. (a) The following provisions of the Fede
 [/us/pl/98/615/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs4%2Fh
 [/us/usc/t5/s8341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8341
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/102/54/s13/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fh%2F2
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
 [/us/usc/t22/s4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067
 [/us/usc/t22/s4066/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4066%2Fc

@@ -43,7 +43,7 @@
 
             (B) priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
-([Pub. L. 106–309, title III, § 303][/us/pl/106/309/s303], Oct. 17, 2000, [114 Stat. 1095][/us/stat/114/1095].)
+([Pub. L. 106–309, title III][/us/pl/106/309/tIII], § 303, Oct. 17, 2000, [114 Stat. 1095][/us/stat/114/1095].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __International Academic Opportunity__ 
 
-[Pub. L. 106–309, title III][/us/pl/106/309], Oct. 17, 2000, [114 Stat. 1094][/us/stat/114/1094], provided that:
+[Pub. L. 106–309, title III][/us/pl/106/309/tIII], Oct. 17, 2000, [114 Stat. 1094][/us/stat/114/1094], provided that:
 
 > “SEC. 301. __SHORT TITLE.__ 
 
@@ -106,7 +106,7 @@
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/106/309/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs303
+[/us/pl/106/309/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIII
 [/us/stat/114/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1095
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
@@ -116,7 +116,7 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
+[/us/pl/106/309/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIII
 [/us/stat/114/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1094
 
 

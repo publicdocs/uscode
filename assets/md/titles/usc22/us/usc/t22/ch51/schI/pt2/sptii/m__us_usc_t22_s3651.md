@@ -29,13 +29,13 @@
 
     (3) “employee” means an individual serving in a position.
 
-([Pub. L. 96–70, title I, § 1211][/us/pl/96/70/s1211], Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201], §§ 3529, 3548(b)(1), Sept. 23, 1996, [110 Stat. 2862][/us/stat/110/2862], 2869.)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1211, Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], §§ 3529, 3548(b)(1), Sept. 23, 1996, [110 Stat. 2862][/us/stat/110/2862], 2869.)
 
  __Amendments__ 
 
-    1996—Par. (1)(B). [Pub. L. 104–201, § 3548(b)(1)][/us/pl/104/201/s3548/b/1], which directed substitution of “section 3652(b)” for “section 3652(B)(2)” could not be executed because the phrase “section 3652(B)(2)” did not appear after amendment by [Pub. L. 104–201, § 3529][/us/pl/104/201/s3529]. See below.
+    1996—Par. (1)(B). [Pub. L. 104–201][/us/pl/104/201], § 3548(b)(1), which directed substitution of “section 3652(b)” for “section 3652(B)(2)” could not be executed because the phrase “section 3652(B)(2)” did not appear after amendment by [Pub. L. 104–201][/us/pl/104/201], § 3529. See below.
 
-    [Pub. L. 104–201, § 3529][/us/pl/104/201/s3529], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an Executive agency or the Smithsonian Institution, to the extent of any election in effect under [section 3652(b)(2) of this title][/us/usc/t22/s3652/b/2];”.
+    [Pub. L. 104–201][/us/pl/104/201], § 3529, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “an Executive agency or the Smithsonian Institution, to the extent of any election in effect under [section 3652(b)(2) of this title][/us/usc/t22/s3652/b/2];”.
 
 ----------
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/usc/t22/s3652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3652%2Fb
-[/us/pl/96/70/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1211
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F463
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2862
-[/us/pl/104/201/s3548/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fb%2F1
-[/us/pl/104/201/s3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3529
-[/us/pl/104/201/s3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3529
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t22/s3652/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3652%2Fb%2F2
 
 

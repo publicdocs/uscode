@@ -73,7 +73,7 @@
 
         Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Board.
 
-([Pub. L. 96–465, title I, § 1011][/us/pl/96/465/s1011], Oct. 17, 1980, [94 Stat. 2134][/us/stat/94/2134].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1011, Oct. 17, 1980, [94 Stat. 2134][/us/stat/94/2134].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1011
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2134
 
 

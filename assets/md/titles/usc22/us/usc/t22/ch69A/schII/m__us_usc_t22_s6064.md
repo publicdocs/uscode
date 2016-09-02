@@ -71,7 +71,7 @@
 
             (C) Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a), and in each 6-month period thereafter.
 
-([Pub. L. 104–114, title II, § 204][/us/pl/104/114/s204], Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810].)
+([Pub. L. 104–114, title II][/us/pl/104/114/tII], § 204, Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 [/us/usc/t22/s2370/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fa
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
-[/us/pl/104/114/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs204
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F810
 [/us/pl/99/198/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs902%2Fc
 [/us/usc/t7/s1446g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446g

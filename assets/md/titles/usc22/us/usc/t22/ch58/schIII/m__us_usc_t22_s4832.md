@@ -33,7 +33,7 @@
 
             A Board may employ and compensate (in accordance with [section 3109 of title 5][/us/usc/t5/s3109]) such experts and consultants as the Board considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Board.
 
-([Pub. L. 99–399, title III, § 302][/us/pl/99/399/s302], Aug. 27, 1986, [100 Stat. 859][/us/stat/100/859].)
+([Pub. L. 99–399, title III][/us/pl/99/399/tIII], § 302, Aug. 27, 1986, [100 Stat. 859][/us/stat/100/859].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/99/399/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs302
+[/us/pl/99/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIII
 [/us/stat/100/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F859
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2428b.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2429a–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429a%E2%80%931)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2429 _us_usc_t22_s2429a.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2429a–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429a%E2%80%931)
 
 ## § 2429a–1. Annual report on nuclear transfer activities
 
@@ -21,7 +21,7 @@
 
     (2) the capability, actions, and intentions of the government of that country with respect to the manufacture or acquisition of a nuclear explosive device.
 
-([Pub. L. 97–113, title VII, § 735][/us/pl/97/113/s735], Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561]; [Pub. L. 103–236, title VIII, § 826(c)][/us/pl/103/236/s826/c], Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519].)
+([Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 735, Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(c), Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519].)
 
  __Codification__ 
 
@@ -37,14 +37,14 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2428b.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2429a–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429a%E2%80%931)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2429 _us_usc_t22_s2429a.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2429a–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429a%E2%80%931)
 
 ----------
 ----------
 
-[/us/pl/97/113/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs735
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1561
-[/us/pl/103/236/s826/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fc
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F519
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

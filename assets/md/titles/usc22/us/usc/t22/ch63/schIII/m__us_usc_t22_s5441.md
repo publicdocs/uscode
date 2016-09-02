@@ -41,7 +41,7 @@
 
         To enable the United States Information Agency to support the activities described in this section, there are authorized to be appropriated $12,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes.
 
-([Pub. L. 101–179, title IV, § 401][/us/pl/101/179/s401], Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314].)
+([Pub. L. 101–179, title IV][/us/pl/101/179/tIV], § 401, Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314].)
 
  __Transfer of Functions__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs401
+[/us/pl/101/179/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIV
 [/us/stat/103/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1314
 
 

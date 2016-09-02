@@ -11,58 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2314.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2318.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2314a)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2314.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2315...2317.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2314a)
 
-## § 2314a. Repealed. [Pub. L. 93–189, § 26(4)][/us/pl/93/189/s26/4], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]
+## § 2314a. Repealed. [Pub. L. 93–189][/us/pl/93/189], § 26(4), Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]
 
-    Section, [Pub. L. 91–672, § 9][/us/pl/91/672/s9], Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055], related to transfer of defense articles to other countries under sections 2314(a)(1), (4) and 2753(a)(2) of this title and prerequisites for consent of President to transfer.
-
-§§ 2315 to 2317. __Transferred__ 
-
- __Codification__ 
-
-    Section 2315, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 507, Sept. 4, 1961, [75 Stat. 437][/us/stat/75/437], as amended, which related to sale of defense articles and services, manner of payment, price of non-excess defense articles, value of excess defense articles, contracts for procurement, undertakings, and fixed-price sales agreements, was renumbered §§ 522, 523 of [Pub. L. 87–195][/us/pl/87/195] by [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(f), (g), Nov. 14, 1967, [81 Stat. 456][/us/stat/81/456], and transferred to sections 2342 and 2343 of this title, respectively, which sections were subsequently repealed.
-
-    Section 2316, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 508, Sept. 4, 1961, [75 Stat. 437][/us/stat/75/437], as amended, which related to reimbursements and transfers to separate fund account, was renumbered [§ 524 of Pub. L. 87–195][/us/pl/87/195/s524] by [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(h), Nov. 14, 1967, [81 Stat. 456][/us/stat/81/456], and transferred to [section 2344 of this title][/us/usc/t22/s2344].
-
-    Section 2317(a), [Pub. L. 87–195][/us/pl/87/195], pt. II, § 509(a), Sept. 4, 1961, [75 Stat. 437][/us/stat/75/437]; [Pub. L. 88–633][/us/pl/88/633], pt. II, § 201(d), Oct. 7, 1964, [78 Stat. 1011][/us/stat/78/1011], related to exchanges, and was repealed by [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(i)(1), Nov. 14, 1967, [81 Stat. 457][/us/stat/81/457].
-
-    Section 2317(b), [Pub. L. 87–195][/us/pl/87/195], pt. II, § 509(b), as added [Pub. L. 88–633][/us/pl/88/633], pt. II, § 201(d), Oct. 7, 1964, [78 Stat. 1011][/us/stat/78/1011], which related to guaranties, was renumbered [§ 525(b) of Pub. L. 87–195][/us/pl/87/195/s525/b] by [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(i)(2), Nov. 14, 1967, [81 Stat. 457][/us/stat/81/457], transferred to [section 2345(b) of this title][/us/usc/t22/s2345/b], and subsequently repealed.
+    Section, [Pub. L. 91–672][/us/pl/91/672], § 9, Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055], related to transfer of defense articles to other countries under sections 2314(a)(1), (4) and 2753(a)(2) of this title and prerequisites for consent of President to transfer.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2314.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2318.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2314a)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2314.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2315...2317.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2314a)
 
 ----------
 ----------
 
-[/us/pl/93/189/s26/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs26%2F4
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F731
-[/us/pl/91/672/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs9
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2055
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/stat/75/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F437
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
-[/us/stat/81/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F456
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/stat/75/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F437
-[/us/pl/87/195/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs524
-[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
-[/us/stat/81/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F456
-[/us/usc/t22/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/stat/75/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F437
-[/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
-[/us/stat/78/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1011
-[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
-[/us/stat/81/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F457
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
-[/us/stat/78/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1011
-[/us/pl/87/195/s525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs525%2Fb
-[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
-[/us/stat/81/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F457
-[/us/usc/t22/s2345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2345%2Fb
 
 

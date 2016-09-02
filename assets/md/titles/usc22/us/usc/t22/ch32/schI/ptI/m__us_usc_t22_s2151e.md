@@ -19,11 +19,11 @@
 
     (b) Funds made available to carry out this part should be used to the extent practicable for activities in the field of appropriate technology, including support of an expanded and coordinated private effort to promote the development and dissemination of appropriate technology in developing countries.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 107, as added [Pub. L. 94–161, title III, § 306(2)][/us/pl/94/161/s306/2], Dec. 20, 1975, [89 Stat. 859][/us/stat/89/859]; amended [Pub. L. 95–424, title I, § 107][/us/pl/95/424/s107], Oct. 6, 1978, [92 Stat. 947][/us/stat/92/947].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 107, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 306(2), Dec. 20, 1975, [89 Stat. 859][/us/stat/89/859]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 107, Oct. 6, 1978, [92 Stat. 947][/us/stat/92/947].)
 
  __Prior Provisions__ 
 
-    A prior section 2151e, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 107, as added [Pub. L. 93–189, § 2(3)][/us/pl/93/189/s2/3], Dec. 17, 1973, [87 Stat. 715][/us/stat/87/715], authorized additional appropriations of $39,000,000 for fiscal years 1974, and 1975, for assistance to select countries and organizations in support of general economy of recipient countries as for development programs conducted by private international organizations, prior to repeal by [section 306(1) of Pub. L. 94–161][/us/pl/94/161/s306/1]. See [section 2151d of this title][/us/usc/t22/s2151d].
+    A prior section 2151e, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 107, as added [Pub. L. 93–189][/us/pl/93/189], § 2(3), Dec. 17, 1973, [87 Stat. 715][/us/stat/87/715], authorized additional appropriations of $39,000,000 for fiscal years 1974, and 1975, for assistance to select countries and organizations in support of general economy of recipient countries as for development programs conducted by private international organizations, prior to repeal by [section 306(1) of Pub. L. 94–161][/us/pl/94/161/s306/1]. See [section 2151d of this title][/us/usc/t22/s2151d].
 
  __Amendments__ 
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs306%2F2
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F859
-[/us/pl/95/424/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs107
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F947
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F3
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F715
 [/us/pl/94/161/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs306%2F1
 [/us/usc/t22/s2151d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151d

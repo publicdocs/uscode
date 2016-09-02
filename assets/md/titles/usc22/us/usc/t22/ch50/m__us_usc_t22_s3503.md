@@ -47,7 +47,7 @@
 
         The President shall prescribe appropriate procedures to assure coordination of the activities of the Institute with other activities of the United States Government in furthering the use of science and technology in the cause of development.
 
-([Pub. L. 96–53, title IV, § 403][/us/pl/96/53/s403], Aug. 14, 1979, [93 Stat. 372][/us/stat/93/372]; [Pub. L. 96–465, title II, § 2206(a)(11)][/us/pl/96/465/s2206/a/11], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 403, Aug. 14, 1979, [93 Stat. 372][/us/stat/93/372]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(11), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
 
  __References in Text__ 
 
@@ -80,9 +80,9 @@
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s2656a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656a
 [/us/usc/t22/s2385a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385a
-[/us/pl/96/53/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs403
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F372
-[/us/pl/96/465/s2206/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F11
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

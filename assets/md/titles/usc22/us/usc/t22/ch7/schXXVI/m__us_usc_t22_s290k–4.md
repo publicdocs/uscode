@@ -17,7 +17,7 @@
 
     Recognizing that United States participation in the Agency represents an effort to enhance United States trade prospects and strengthen the role of the United States private sector in the development process, the Secretary of the Treasury shall ensure regular and continuing consultations with United States private sector representatives and representatives of United States labor organizations, through appropriate mechanisms, on policy directions and operations of the Agency, and shall take account of those consultations in determining the policies of the United States toward the Agency.
 
-([Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
+([Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 

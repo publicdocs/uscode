@@ -51,7 +51,7 @@
 
         Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shall be in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 222A, as added [Pub. L. 93–559, § 8(a)(2)][/us/pl/93/559/s8/a/2], Dec. 30, 1974, [88 Stat. 1796][/us/stat/88/1796]; amended [Pub. L. 95–88, title I, § 117(b)(1)][/us/pl/95/88/s117/b/1], Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I, § 115(b)][/us/pl/95/424/s115/b], title V, § 502(d)(1), Oct. 6, 1978, [92 Stat. 951][/us/stat/92/951], 959; [Pub. L. 96–53, title I, § 112(b)][/us/pl/96/53/s112/b], Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 97–438][/us/pl/97/438], Jan. 8, 1983, [96 Stat. 2286][/us/stat/96/2286]; [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903; [Pub. L. 99–83, title III, § 313(d)][/us/pl/99/83/s313/d], Aug. 8, 1985, [99 Stat. 217][/us/stat/99/217]; [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 586(h)(3)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–120.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 222A, as added [Pub. L. 93–559][/us/pl/93/559], § 8(a)(2), Dec. 30, 1974, [88 Stat. 1796][/us/stat/88/1796]; amended [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 117(b)(1), Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 115(b), title V, § 502(d)(1), Oct. 6, 1978, [92 Stat. 951][/us/stat/92/951], 959; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 112(b), Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 97–438][/us/pl/97/438], Jan. 8, 1983, [96 Stat. 2286][/us/stat/96/2286]; [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903; [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 313(d), Aug. 8, 1985, [99 Stat. 217][/us/stat/99/217]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 586(h)(3)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–120.)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    Amendment by [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 586(h)(3)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, § 586\] of div. B of [Pub. L. 106–113][/us/pl/106/113], formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title][/us/usc/t22/s290f].
+    Amendment by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 586(h)(3)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, § 586\] of div. B of [Pub. L. 106–113][/us/pl/106/113], formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title][/us/usc/t22/s290f].
 
     Amendment by [Pub. L. 98–473][/us/pl/98/473] is based on section 312 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by [Pub. L. 98–473][/us/pl/98/473].
 
@@ -79,15 +79,15 @@
 
     1983—Subsec. (h). [Pub. L. 97–438][/us/pl/97/438] substituted “1983” for “1982”.
 
-    1979—Subsec. (a). [Pub. L. 96–53, § 112(b)(1)][/us/pl/96/53/s112/b/1], substituted “six” for “five”.
+    1979—Subsec. (a). [Pub. L. 96–53][/us/pl/96/53], § 112(b)(1), substituted “six” for “five”.
 
-    Subsec. (c). [Pub. L. 96–53, § 112(b)(2)][/us/pl/96/53/s112/b/2], substituted “$20,000,000” for “$15,000,000”.
+    Subsec. (c). [Pub. L. 96–53][/us/pl/96/53], § 112(b)(2), substituted “$20,000,000” for “$15,000,000”.
 
-    Subsec. (h). [Pub. L. 96–53, § 112(b)(3)][/us/pl/96/53/s112/b/3], substituted “through September 30, 1982” for “until September 30, 1979”.
+    Subsec. (h). [Pub. L. 96–53][/us/pl/96/53], § 112(b)(3), substituted “through September 30, 1982” for “until September 30, 1979”.
 
-    1978—Subsec. (h). [Pub. L. 95–424, § 115(b)][/us/pl/95/424/s115/b], substituted “September 30, 1979” for “September 30, 1978”.
+    1978—Subsec. (h). [Pub. L. 95–424][/us/pl/95/424], § 115(b), substituted “September 30, 1979” for “September 30, 1978”.
 
-    Subsec. (j). [Pub. L. 95–424, § 502(d)(1)][/us/pl/95/424/s502/d/1], struck out subsec. (j) relating to a Presidential report to Congress on the results of the program established under this section.
+    Subsec. (j). [Pub. L. 95–424][/us/pl/95/424], § 502(d)(1), struck out subsec. (j) relating to a Presidential report to Congress on the results of the program established under this section.
 
     1977—Subsec. (h). [Pub. L. 95–88][/us/pl/95/88] substituted “September 30, 1978” for “December 31, 1977”.
 
@@ -115,21 +115,21 @@
 [/us/usc/t22/s2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2196
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs8%2Fa%2F2
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1796
-[/us/pl/95/88/s117/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs117%2Fb%2F1
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F540
-[/us/pl/95/424/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fb
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F951
-[/us/pl/96/53/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fb
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F364
 [/us/pl/97/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F438
 [/us/stat/96/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2286
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
-[/us/pl/99/83/s313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs313%2Fd
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F217
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
 [/us/pl/87/195/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs240
@@ -140,7 +140,7 @@
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f
@@ -151,11 +151,11 @@
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/97/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F438
-[/us/pl/96/53/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fb%2F1
-[/us/pl/96/53/s112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fb%2F2
-[/us/pl/96/53/s112/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fb%2F3
-[/us/pl/95/424/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fb
-[/us/pl/95/424/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F1
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301

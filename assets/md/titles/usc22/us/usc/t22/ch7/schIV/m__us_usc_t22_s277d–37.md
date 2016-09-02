@@ -17,7 +17,7 @@
 
     When a determination must be made under the treaty whether to permit a new channel to become the boundary, or whether or not to restore a river to its former channel, or whether, instead of restoration, the Governments should undertake a rectification of the river channel, the Commissioner’s decision, approved by the Secretary of State shall be final so far as the United States is concerned, and the Commissioner is authorized to construct or arrange for the construction of such works as may be required to give effect to that decision.
 
-([Pub. L. 92–549, title I, § 104][/us/pl/92/549/s104], Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162].)
+([Pub. L. 92–549, title I][/us/pl/92/549/tI], § 104, Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/549/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs104
+[/us/pl/92/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtI
 [/us/stat/86/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1162
 
 

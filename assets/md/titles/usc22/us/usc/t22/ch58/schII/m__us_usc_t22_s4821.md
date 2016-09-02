@@ -17,7 +17,7 @@
 
     The Secretary of State may establish a Diplomatic Security Service, which shall perform such functions as the Secretary may determine.
 
-([Pub. L. 99–399, title II, § 201][/us/pl/99/399/s201], Aug. 27, 1986, [100 Stat. 858][/us/stat/100/858]; [Pub. L. 103–236, title I, § 162(g)(7)][/us/pl/103/236/s162/g/7], Apr. 30, 1994, [108 Stat. 407][/us/stat/108/407].)
+([Pub. L. 99–399, title II][/us/pl/99/399/tII], § 201, Aug. 27, 1986, [100 Stat. 858][/us/stat/100/858]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(g)(7), Apr. 30, 1994, [108 Stat. 407][/us/stat/108/407].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/99/399/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs201
+[/us/pl/99/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtII
 [/us/stat/100/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F858
-[/us/pl/103/236/s162/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fg%2F7
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F407
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

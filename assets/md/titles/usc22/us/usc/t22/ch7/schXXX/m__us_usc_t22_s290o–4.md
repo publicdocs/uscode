@@ -49,7 +49,7 @@
 
         Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
-([Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title VII, § 706\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–179.)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title VII, § 706\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–179.)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 
 

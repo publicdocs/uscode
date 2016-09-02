@@ -19,7 +19,7 @@
 
     If agreement for the construction of separate facilities for generating hydroelectric energy is concluded, the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is directed to construct, operate, and maintain such self-liquidating facilities for the United States.
 
-([Pub. L. 86–605, § 2][/us/pl/86/605/s2], July 7, 1960, [74 Stat. 360][/us/stat/74/360].)
+([Pub. L. 86–605][/us/pl/86/605], § 2, July 7, 1960, [74 Stat. 360][/us/stat/74/360].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t22/s277d–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9313
-[/us/pl/86/605/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F605%2Fs2
+[/us/pl/86/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F605
 [/us/stat/74/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F360
 
 

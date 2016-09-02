@@ -35,7 +35,7 @@
 
         Training provided under this section shall be conducted by the Department and by other governmental and nongovernmental institutions as the Secretary may consider appropriate.
 
-([Pub. L. 96–465, title I, § 703][/us/pl/96/465/s703], Oct. 17, 1980, [94 Stat. 2100][/us/stat/94/2100]; [Pub. L. 100–204, title I, § 185(c)(1)][/us/pl/100/204/s185/c/1], Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 703, Oct. 17, 1980, [94 Stat. 2100][/us/stat/94/2100]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 185(c)(1), Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/465/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs703
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2100
-[/us/pl/100/204/s185/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs185%2Fc%2F1
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1366
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 

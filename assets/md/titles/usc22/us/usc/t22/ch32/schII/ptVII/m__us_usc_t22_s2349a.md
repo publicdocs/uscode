@@ -27,7 +27,7 @@
 
         Funds made available by the Government of Israel pursuant to subsection (b) of this section may be credited to the appropriation account established to carry out the purposes of this section for the payment of obligations incurred and for refund to the Government of Israel if they are unnecessary for that purpose, as determined by the President. Credits and the proceeds of guaranteed loans made available to the Government of Israel pursuant to the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\], as well as any other source of financing available to it, may be used by Israel to carry out its undertaking to provide such additional funds.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 562, as added [Pub. L. 96–35, § 3][/us/pl/96/35/s3], July 20, 1979, [93 Stat. 90][/us/stat/93/90].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 562, as added [Pub. L. 96–35][/us/pl/96/35], § 3, July 20, 1979, [93 Stat. 90][/us/stat/93/90].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/96/35/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs3
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F90
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320

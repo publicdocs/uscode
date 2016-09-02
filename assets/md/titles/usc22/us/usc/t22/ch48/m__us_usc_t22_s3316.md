@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of the chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
 
-([Pub. L. 96–8, § 17][/us/pl/96/8/s17], Apr. 10, 1979, [93 Stat. 21][/us/stat/93/21].)
+([Pub. L. 96–8][/us/pl/96/8], § 17, Apr. 10, 1979, [93 Stat. 21][/us/stat/93/21].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs17
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F21
 
 

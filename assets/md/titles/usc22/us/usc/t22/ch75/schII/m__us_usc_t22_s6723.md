@@ -55,7 +55,7 @@
 
         The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
 
-([Pub. L. 105–277, div. I, title III, § 303][/us/pl/105/277/s303], Oct. 21, 1998, [112 Stat. 2681–873][/us/stat/112/2681-873]; [Pub. L. 106–280, title III, § 305][/us/pl/106/280/s305], Oct. 6, 2000, [114 Stat. 854][/us/stat/114/854]; [Pub. L. 107–107, div. A, title XII, § 1204(a)][/us/pl/107/107/s1204/a], Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 303, Oct. 21, 1998, [112 Stat. 2681–873][/us/stat/112/2681-873]; [Pub. L. 106–280, title III][/us/pl/106/280/tIII], § 305, Oct. 6, 2000, [114 Stat. 854][/us/stat/114/854]; [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1204(a), Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Protection of United States Companies__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1117\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1117\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that:
 
 >     “(a)  __Reimbursement__  __.—__ 
 
@@ -82,15 +82,15 @@
 ----------
 ----------
 
-[/us/pl/105/277/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs303
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-873
-[/us/pl/106/280/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs305
+[/us/pl/106/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtIII
 [/us/stat/114/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F854
-[/us/pl/107/107/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1204%2Fa
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1247
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s6711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6711
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

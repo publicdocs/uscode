@@ -29,7 +29,7 @@
 
         (2) __Omitted__ 
 
-        (3) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 101(c)__  __][/us/pl/103/236/s101/c]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 388__  __][/us/stat/108/388]__ 
+        (3) __Repealed.__  __[__  __Pub. L. 103–236, title I__  __][/us/pl/103/236/tI]__  __, § 101(c),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 388__  __][/us/stat/108/388]__ 
 
         (4) __Allocation of amounts authorized to be appropriated__ 
 
@@ -39,7 +39,7 @@
 
         In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a), the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
 
-    (c) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 122(b)__  __][/us/pl/103/236/s122/b]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 392__  __][/us/stat/108/392]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 103–236, title I__  __][/us/pl/103/236/tI]__  __, § 122(b),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 392__  __][/us/stat/108/392]__ 
 
     (d) __Prohibition on reallocations of authorizations__ 
 
@@ -65,9 +65,9 @@
 
         (2) __Omitted__ 
 
-        (3) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 122(b)__  __][/us/pl/103/236/s122/b]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 392__  __][/us/stat/108/392]__ 
+        (3) __Repealed.__  __[__  __Pub. L. 103–236, title I__  __][/us/pl/103/236/tI]__  __, § 122(b),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 392__  __][/us/stat/108/392]__ 
 
-([Pub. L. 99–399, title IV, § 401][/us/pl/99/399/s401], Aug. 27, 1986, [100 Stat. 862][/us/stat/100/862]; [Pub. L. 100–204, title I, § 101(c)][/us/pl/100/204/s101/c], Dec. 22, 1987, [101 Stat. 1336][/us/stat/101/1336]; [Pub. L. 103–236, title I][/us/pl/103/236], §§ 101(c), 122(b), Apr. 30, 1994, [108 Stat. 388][/us/stat/108/388], 392.)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 401, Aug. 27, 1986, [100 Stat. 862][/us/stat/100/862]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 101(c), Dec. 22, 1987, [101 Stat. 1336][/us/stat/101/1336]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], §§ 101(c), 122(b), Apr. 30, 1994, [108 Stat. 388][/us/stat/108/388], 392.)
 
  __References in Text__ 
 
@@ -81,21 +81,21 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(3). [Pub. L. 103–236, § 101(c)][/us/pl/103/236/s101/c], struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State’s Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
+    1994—Subsec. (a)(3). [Pub. L. 103–236][/us/pl/103/236], § 101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State’s Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
 
-    Subsec. (c). [Pub. L. 103–236, § 122(b)][/us/pl/103/236/s122/b], struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706] and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+    Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706] and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
-    Subsec. (h)(3). [Pub. L. 103–236, § 122(b)][/us/pl/103/236/s122/b], struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706] and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+    Subsec. (h)(3). [Pub. L. 103–236][/us/pl/103/236], § 122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706] and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
     1987—Subsec. (a)(3). [Pub. L. 100–204][/us/pl/100/204] inserted sentence at end providing that authorizations of appropriations under this paragraph remain available until appropriations are made.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–236, title I, § 101(c)][/us/pl/103/236/s101/c], Apr. 30, 1994, [108 Stat. 388][/us/stat/108/388], provided that the amendment made by that section is effective Oct. 1, 1995.
+    [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 101(c), Apr. 30, 1994, [108 Stat. 388][/us/stat/108/388], provided that the amendment made by that section is effective Oct. 1, 1995.
 
  __Construction Security Certification__ 
 
-[Pub. L. 100–204, title I, § 160][/us/pl/100/204/s160], Dec. 22, 1987, [101 Stat. 1356][/us/stat/101/1356], as amended by [Pub. L. 101–246, title I, § 135][/us/pl/101/246/s135], Feb. 16, 1990, [104 Stat. 33][/us/stat/104/33], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 160, Dec. 22, 1987, [101 Stat. 1356][/us/stat/101/1356], as amended by [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 135, Feb. 16, 1990, [104 Stat. 33][/us/stat/104/33], provided that:
 
 >     “(a)  __Certification__  __.—__ 
 
@@ -129,15 +129,15 @@
 
  __Report to Congress on Obligation of Funds__ 
 
-[Pub. L. 100–459, title III, § 302][/us/pl/100/459/s302], Oct. 1, 1988, [102 Stat. 2207][/us/stat/102/2207], provided that: 
+[Pub. L. 100–459, title III][/us/pl/100/459/tIII], § 302, Oct. 1, 1988, [102 Stat. 2207][/us/stat/102/2207], provided that: 
 
 > “The Secretary of State shall report to the appropriate committees of the Congress on the obligation of funds provided for diplomatic security and related expenses every month.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title III, § 302\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–23.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title III, § 302\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–23.
 
-    [Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title III, § 302\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–60, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title III, § 302\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–60.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title III, § 302\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–60, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title III, § 302\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–60.
 
 ----------
 
@@ -146,18 +146,18 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/103/236/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs101%2Fc
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F388
-[/us/pl/103/236/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs122%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F392
 [/us/usc/t22/s2696/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2696%2Fd
-[/us/pl/103/236/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs122%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F392
-[/us/pl/99/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs401
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F862
-[/us/pl/100/204/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs101%2Fc
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1336
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F388
 [/us/pl/99/399/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs401%2Fa%2F2
 [/us/usc/t22/s2349aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa%E2%80%934
@@ -165,27 +165,27 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/100/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F853
 [/us/pl/99/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs401
 [/us/pl/99/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs401
-[/us/pl/103/236/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs101%2Fc
-[/us/pl/103/236/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs122%2Fb
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
-[/us/pl/103/236/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs122%2Fb
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/103/236/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs101%2Fc
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F388
-[/us/pl/100/204/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs160
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1356
-[/us/pl/101/246/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs135
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F33
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/100/459/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs302
+[/us/pl/100/459/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtIII
 [/us/stat/102/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2207
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1722 derived from [act Mar. 3, 1869, ch. 125, § 3][/us/act/1869-03-03/ch125/s3], [15 Stat. 321][/us/stat/15/321].
+    R.S. § 1722 derived from [act Mar. 3, 1869, ch. 125][/us/act/1869-03-03/ch125], § 3, [15 Stat. 321][/us/stat/15/321].
 
     Provisions of R.S. § 1722 that no consul, vice consul, or consular agent in the Dominion of Canada shall be allowed tonnage fees for any services, actual or constructive, rendered any vessel owned and registered in the United States that may touch at a Canadian port, were omitted as superseded by section 12 of [act June 26, 1884, ch. 121][/us/act/1884-06-26/ch121], [23 Stat. 56][/us/stat/23/56], which is classified to [section 4206 of this title][/us/usc/t22/s4206].
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1869-03-03/ch125/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch125%2Fs3
+[/us/act/1869-03-03/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch125
 [/us/stat/15/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F321
 [/us/act/1884-06-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121
 [/us/stat/23/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F56

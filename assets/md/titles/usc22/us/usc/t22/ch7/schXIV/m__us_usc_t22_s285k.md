@@ -19,7 +19,7 @@
 
     (b) The United States Governor of the Bank shall give due regard to the principles of (A) utilizing all special funds resources on an equitable basis, and (B) significantly shared participation by other contributors in each special fund to which United States Special Resources are provided.
 
-([Pub. L. 89–369, § 14][/us/pl/89/369/s14], as added [Pub. L. 92–245, § 1][/us/pl/92/245/s1], Mar. 10, 1972, [86 Stat. 58][/us/stat/86/58].)
+([Pub. L. 89–369][/us/pl/89/369], § 14, as added [Pub. L. 92–245][/us/pl/92/245], § 1, Mar. 10, 1972, [86 Stat. 58][/us/stat/86/58].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/89/369/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs14
-[/us/pl/92/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245%2Fs1
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/92/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245
 [/us/stat/86/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F58
 
 

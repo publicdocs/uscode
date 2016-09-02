@@ -27,7 +27,7 @@
 
         The Congress urges the President to take such steps as are necessary to expand the opportunities for Americans from all economic classes to study in developing countries.
 
-([Pub. L. 99–93, title VI, § 606][/us/pl/99/93/s606], Aug. 16, 1985, [99 Stat. 442][/us/stat/99/442].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 606, Aug. 16, 1985, [99 Stat. 442][/us/stat/99/442].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4704
-[/us/pl/99/93/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs606
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F442
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

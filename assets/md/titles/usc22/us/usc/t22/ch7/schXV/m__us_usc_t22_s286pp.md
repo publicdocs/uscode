@@ -17,7 +17,7 @@
 
     The United States Governor of the Fund may agree to and accept the amendments to the Articles of Agreement of the Fund as proposed in the resolutions numbered 63–2 and 63–3 of the Board of Governors of the Fund which were approved by such Board on April 28, 2008 and May 5, 2008, respectively.
 
-([July 31, 1945, ch. 339, § 64][/us/act/1945-07-31/ch339/s64], as added [Pub. L. 111–32, title XIV, § 1402][/us/pl/111/32/s1402], June 24, 2009, [123 Stat. 1917][/us/stat/123/1917].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 64, as added [Pub. L. 111–32, title XIV][/us/pl/111/32/tXIV], § 1402, June 24, 2009, [123 Stat. 1917][/us/stat/123/1917].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs64
-[/us/pl/111/32/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1402
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/111/32/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXIV
 [/us/stat/123/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1917
 
 

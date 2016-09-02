@@ -95,7 +95,7 @@
 
             The term “Enhanced HIPC Initiative” means the multilateral debt initiative for heavily indebted poor countries presented in the Report of G–7 Finance Ministers on the Cologne Debt Initiative to the Cologne Economic Summit, Cologne, June 18–20, 1999.
 
-([Pub. L. 95–118, title XVI, § 1625][/us/pl/95/118/s1625], as added [Pub. L. 108–25, title V, § 501][/us/pl/108/25/s501], May 27, 2003, [117 Stat. 747][/us/stat/117/747]; amended [Pub. L. 108–199, div. D, title V, § 596][/us/pl/108/199/s596], Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1625, as added [Pub. L. 108–25, title V][/us/pl/108/25/tV], § 501, May 27, 2003, [117 Stat. 747][/us/stat/117/747]; amended [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 596, Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209].)
 
  __References in Text__ 
 
@@ -123,10 +123,10 @@
 [/us/usc/t22/s262p–4p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934p
 [/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
-[/us/pl/95/118/s1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1625
-[/us/pl/108/25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs501
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/108/25/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtV
 [/us/stat/117/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F747
-[/us/pl/108/199/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs596
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F209
 [/us/usc/t22/s262p–4p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934p
 [/us/usc/t22/s262p–4p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934p

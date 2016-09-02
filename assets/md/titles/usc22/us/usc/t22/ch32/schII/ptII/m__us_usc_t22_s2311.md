@@ -59,7 +59,7 @@
 
             (B) to any defense article or defense service, or portion thereof, acquired with funds appropriated for military assistance under this chapter.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 503, Sept. 4, 1961, [75 Stat. 435][/us/stat/75/435]; [Pub. L. 88–633, § 201(a)][/us/pl/88/633/s201/a], Oct. 7, 1964, [78 Stat. 1011][/us/stat/78/1011]; [Pub. L. 89–171][/us/pl/89/171], pt. II, § 201(a), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(b), Nov. 14, 1967, [81 Stat. 455][/us/stat/81/455]; [Pub. L. 93–189, § 12(b)(1)][/us/pl/93/189/s12/b/1], Dec. 17, 1973, [87 Stat. 720][/us/stat/87/720]; [Pub. L. 96–533, title I, § 112(a)][/us/pl/96/533/s112/a], Dec. 16, 1980, [94 Stat. 3138][/us/stat/94/3138]; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 109(c), 110(c), Dec. 29, 1981, [95 Stat. 1526][/us/stat/95/1526]; [Pub. L. 99–83, title I, § 123(a)][/us/pl/99/83/s123/a], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; [Pub. L. 100–461, title V, § 586(a)][/us/pl/100/461/s586/a], Oct. 1, 1988, [102 Stat. 2268–50][/us/stat/102/2268-50].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 503, Sept. 4, 1961, [75 Stat. 435][/us/stat/75/435]; [Pub. L. 88–633][/us/pl/88/633], § 201(a), Oct. 7, 1964, [78 Stat. 1011][/us/stat/78/1011]; [Pub. L. 89–171][/us/pl/89/171], pt. II, § 201(a), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(b), Nov. 14, 1967, [81 Stat. 455][/us/stat/81/455]; [Pub. L. 93–189][/us/pl/93/189], § 12(b)(1), Dec. 17, 1973, [87 Stat. 720][/us/stat/87/720]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 112(a), Dec. 16, 1980, [94 Stat. 3138][/us/stat/94/3138]; [Pub. L. 97–113, title I][/us/pl/97/113/tI], §§ 109(c), 110(c), Dec. 29, 1981, [95 Stat. 1526][/us/stat/95/1526]; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 123(a), Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 586(a), Oct. 1, 1988, [102 Stat. 2268–50][/us/stat/102/2268-50].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
     1985—Subsec. (a). [Pub. L. 99–83][/us/pl/99/83] inserted sentence relating to pricing of sales wholly paid from transferred funds.
 
-    1981—Subsec. (a)(3). [Pub. L. 97–113, § 110(c)][/us/pl/97/113/s110/c], substituted “country” for “specified in [section 2312(a)(1) of this title][/us/usc/t22/s2312/a/1], within the dollar limitations of that section”.
+    1981—Subsec. (a)(3). [Pub. L. 97–113][/us/pl/97/113], § 110(c), substituted “country” for “specified in [section 2312(a)(1) of this title][/us/usc/t22/s2312/a/1], within the dollar limitations of that section”.
 
     Subsec. (b)(5). [Pub. L. 97–113][/us/pl/97/113] substituted provision respecting payment of restoration or replacement costs for defense articles on loan for provision for making such a loan only if arrangements were made with the agency making the loan for reimbursement in the event the article was lost or destroyed while on loan, the reimbursement of which was to be made first out of any funds available to carry out this part and based on the depreciated value of the article at the time of loss or destruction.
 
@@ -85,11 +85,11 @@
 
     1973—[Pub. L. 93–189][/us/pl/93/189] designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
 
-    1967—Subsec. (a). [Pub. L. 90–137, § 201(b)(1)][/us/pl/90/137/s201/b/1], substituted “or grant” for “, lease, sale, exchange, grant, or any other means”.
+    1967—Subsec. (a). [Pub. L. 90–137][/us/pl/90/137], § 201(b)(1), substituted “or grant” for “, lease, sale, exchange, grant, or any other means”.
 
-    Subsec. (d). [Pub. L. 90–137, § 201(b)(2)][/us/pl/90/137/s201/b/2], substituted a period for “; and”.
+    Subsec. (d). [Pub. L. 90–137][/us/pl/90/137], § 201(b)(2), substituted a period for “; and”.
 
-    Subsec. (e). [Pub. L. 90–137, § 201(b)(3)][/us/pl/90/137/s201/b/3], struck out subsec. (e) which related to the guaranty and insuring against political and credit risks in connection with credit sales for defense articles and services procured in the United States. See Codification note above.
+    Subsec. (e). [Pub. L. 90–137][/us/pl/90/137], § 201(b)(3), struck out subsec. (e) which related to the guaranty and insuring against political and credit risks in connection with credit sales for defense articles and services procured in the United States. See Codification note above.
 
     1965—Subsec. (b). [Pub. L. 89–171][/us/pl/89/171] struck out “in foreign countries” after “facilities”.
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–461, title V, § 586(c)][/us/pl/100/461/s586/c], Oct. 1, 1988, [102 Stat. 2268–50][/us/stat/102/2268-50], provided that: 
+[Pub. L. 100–461, title V][/us/pl/100/461/tV], § 586(c), Oct. 1, 1988, [102 Stat. 2268–50][/us/stat/102/2268-50], provided that: 
 
 > “This section \[amending this section\] shall be effective on October 1, 1989.”
 
@@ -115,7 +115,7 @@
 
  __Reports to Congressional Committees__ 
 
-[Pub. L. 100–461, title III][/us/pl/100/461], Oct. 1, 1988, [102 Stat. 2268–17][/us/stat/102/2268-17] provided in part: 
+[Pub. L. 100–461, title III][/us/pl/100/461/tIII], Oct. 1, 1988, [102 Stat. 2268–17][/us/stat/102/2268-17] provided in part: 
 
 > “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\] as regards the individual sale, item description, and estimated sales price.”
 
@@ -125,7 +125,7 @@
 
  __Review of Military Assistance Program; Reduction and Elimination Plan; Submittal to Congress__ 
 
-    [Pub. L. 93–559, § 17][/us/pl/93/559/s17], Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800], which set forth provisions respecting review of military assistance program and submittal to Congress of plan for reduction and elimination, was repealed by [Pub. L. 95–384, § 29(c)(4)][/us/pl/95/384/s29/c/4], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
+    [Pub. L. 93–559][/us/pl/93/559], § 17, Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800], which set forth provisions respecting review of military assistance program and submittal to Congress of plan for reduction and elimination, was repealed by [Pub. L. 95–384][/us/pl/95/384], § 29(c)(4), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
 
 ----------
 
@@ -139,21 +139,21 @@
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F435
-[/us/pl/88/633/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633%2Fs201%2Fa
+[/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
 [/us/stat/78/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1011
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/stat/79/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F656
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F455
-[/us/pl/93/189/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs12%2Fb%2F1
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F720
-[/us/pl/96/533/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs112%2Fa
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3138
-[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1526
-[/us/pl/99/83/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs123%2Fa
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F205
-[/us/pl/100/461/s586/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs586%2Fa
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-50
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
@@ -169,30 +169,30 @@
 [/us/stat/82/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1327
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/97/113/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs110%2Fc
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2312%2Fa%2F1
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
-[/us/pl/90/137/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs201%2Fb%2F1
-[/us/pl/90/137/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs201%2Fb%2F2
-[/us/pl/90/137/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs201%2Fb%2F3
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
-[/us/pl/100/461/s586/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs586%2Fc
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-50
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/461/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtIII
 [/us/stat/102/2268-17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-17
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/93/559/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs17
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1800
-[/us/pl/95/384/s29/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fc%2F4
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
 
 

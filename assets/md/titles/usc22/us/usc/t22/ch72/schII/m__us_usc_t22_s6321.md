@@ -39,11 +39,11 @@
 
     (11) seek agreement among the parties to the Treaty to apply IAEA safeguards in perpetuity and to establish new limits on the right to withdraw from the Treaty.
 
-([Pub. L. 103–236, title VIII, § 841][/us/pl/103/236/s841], Apr. 30, 1994, [108 Stat. 522][/us/stat/108/522].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 841, Apr. 30, 1994, [108 Stat. 522][/us/stat/108/522].)
 
  __Promotion of Discussions on Nuclear and Radiological Security and Safety Between the International Atomic Energy Agency and the Organization for Economic Cooperation and Development__ 
 
-[Pub. L. 108–136, div. C, title XXXVI, § 3631][/us/pl/108/136/s3631], Nov. 24, 2003, [117 Stat. 1825][/us/stat/117/1825], provided that:
+[Pub. L. 108–136, div. C, title XXXVI][/us/pl/108/136/dC/tXXXVI], § 3631, Nov. 24, 2003, [117 Stat. 1825][/us/stat/117/1825], provided that:
 
 >     “(a)  __Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD__  __.—__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/103/236/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs841
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F522
-[/us/pl/108/136/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3631
+[/us/pl/108/136/dC/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXVI
 [/us/stat/117/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1825
 
 

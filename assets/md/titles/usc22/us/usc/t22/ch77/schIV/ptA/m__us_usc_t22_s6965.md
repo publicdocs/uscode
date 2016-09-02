@@ -39,7 +39,7 @@
 
         (4) such other information as the Task Force considers useful in monitoring and enforcing compliance with [section 1307 of title 19][/us/usc/t19/s1307].
 
-([Pub. L. 106–286, div. B, title V, § 505][/us/pl/106/286/s505], Oct. 10, 2000, [114 Stat. 904][/us/stat/114/904].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 505, Oct. 10, 2000, [114 Stat. 904][/us/stat/114/904].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
-[/us/pl/106/286/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs505
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F904
 
 

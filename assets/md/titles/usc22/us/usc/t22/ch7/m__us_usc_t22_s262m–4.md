@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development banks to support the strengthening of educational programs within each multilateral development bank to improve the capacity of mid-level managers to initiate and manage environmental aspects of development activities, and to train officials of borrowing countries in the conduct of environmental analyses.
 
-([Pub. L. 95–118, title XIII, § 1305][/us/pl/95/118/s1305], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
+([Pub. L. 95–118, title XIII][/us/pl/95/118/tXIII], § 1305, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1305
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/95/118/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIII
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/95/118/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1305
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

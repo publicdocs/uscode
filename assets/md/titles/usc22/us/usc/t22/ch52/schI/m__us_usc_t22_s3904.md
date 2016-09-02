@@ -23,7 +23,7 @@
 
     (3) perform functions on behalf of any agency or other Government establishment (including any establishment in the legislative or judicial branch) requiring their services.
 
-([Pub. L. 96–465, title I, § 104][/us/pl/96/465/s104], Oct. 17, 1980, [94 Stat. 2076][/us/stat/94/2076].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 104, Oct. 17, 1980, [94 Stat. 2076][/us/stat/94/2076].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs104
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2076
 
 

@@ -29,7 +29,7 @@
 
     (f) The term “citizen” shall include any individual owing allegiance to the United States, a partnership, company, or association composed in whole or in part of citizens of the United States, and any corporation organized and existing under the laws of the United States as defined in subsection (a) of this section.
 
-([Nov. 4, 1939, ch. 2, § 16][/us/act/1939-11-04/ch2/s16], [54 Stat. 12][/us/stat/54/12]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 16, [54 Stat. 12][/us/stat/54/12]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/act/1939-11-04/ch2/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs16
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F12
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

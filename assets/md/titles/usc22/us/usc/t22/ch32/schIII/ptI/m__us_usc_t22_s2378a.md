@@ -29,7 +29,7 @@
 
         The prohibition contained in subsection (a) shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620J, formerly § 620G, as added [Pub. L. 104–164, title I, § 149][/us/pl/104/164/s149], July 21, 1996, [110 Stat. 1436][/us/stat/110/1436]; renumbered § 620J, [Pub. L. 109–446, § 2(b)(1)][/us/pl/109/446/s2/b/1], Dec. 21, 2006, [120 Stat. 3318][/us/stat/120/3318].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620J, formerly § 620G, as added [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 149, July 21, 1996, [110 Stat. 1436][/us/stat/110/1436]; renumbered § 620J, [Pub. L. 109–446][/us/pl/109/446], § 2(b)(1), Dec. 21, 2006, [120 Stat. 3318][/us/stat/120/3318].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 
 [/us/usc/t22/s2403/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403%2Fq
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/164/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs149
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1436
-[/us/pl/109/446/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F446%2Fs2%2Fb%2F1
+[/us/pl/109/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F446
 [/us/stat/120/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3318
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -19,11 +19,11 @@
 
     The Secretary of State is authorized to accept reimbursement from corporations, firms, and individuals for the expenses of travel, translation, printing, special experts, and other extraordinary expenses (including such expenses as salaries and other personnel expenses) incurred in pursuing a claim on their behalf against a foreign government or other foreign entity. Such reimbursements shall be credited to the appropriation account against which the expense was initially charged.
 
-([May 15, 1936, ch. 405][/us/act/1936-05-15/ch405], [49 Stat. 1321][/us/stat/49/1321]; [Pub. L. 100–204, title I, § 142(b)][/us/pl/100/204/s142/b], Dec. 22, 1987, [101 Stat. 1350][/us/stat/101/1350]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2212(a), Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812].)
+([May 15, 1936, ch. 405][/us/act/1936-05-15/ch405], [49 Stat. 1321][/us/stat/49/1321]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 142(b), Dec. 22, 1987, [101 Stat. 1350][/us/stat/101/1350]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2212(a), Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 169 of Title 5][/us/usc/t5/s169] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 169 of Title 5][/us/usc/t5/s169] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     Section is from the Department of State Appropriation Act, 1937, act May 15, 1936.
 
@@ -58,12 +58,12 @@ Provisions similar to those in this section were contained in the following prio
 
 [/us/act/1936-05-15/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-15%2Fch405
 [/us/stat/49/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1321
-[/us/pl/100/204/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs142%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1350
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-812
 [/us/usc/t5/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs169
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1935-03-22/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-03-22%2Fch39
 [/us/stat/49/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F76

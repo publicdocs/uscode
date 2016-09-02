@@ -23,7 +23,7 @@
 
         The Deputy Administrator shall be paid compensation at a rate of pay, established by the Board, which does not exceed the rate of basic pay in effect for level IV of the Executive Schedule, and, if eligible, shall be paid the overseas recruitment and retention differential provided for in [section 3657 of this title][/us/usc/t22/s3657].
 
-([Pub. L. 96–70, title I, § 1104][/us/pl/96/70/s1104], Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457]; [Pub. L. 101–510, div. C, title XXXV, § 3505][/us/pl/101/510/s3505], Nov. 5, 1990, [104 Stat. 1846][/us/stat/104/1846]; [Pub. L. 104–201, div. C, title XXXV, § 3524(a)][/us/pl/104/201/s3524/a], Sept. 23, 1996, [110 Stat. 2860][/us/stat/110/2860].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1104, Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457]; [Pub. L. 101–510, div. C, title XXXV][/us/pl/101/510/dC/tXXXV], § 3505, Nov. 5, 1990, [104 Stat. 1846][/us/stat/104/1846]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3524(a), Sept. 23, 1996, [110 Stat. 2860][/us/stat/110/2860].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 104–201, div. C, title XXXV, § 3524(b)][/us/pl/104/201/s3524/b], Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861], provided that: 
+[Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3524(b), Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861], provided that: 
 
 > “Nothing in this section \[amending this section\] shall be considered to affect—
 
@@ -61,11 +61,11 @@
 ----------
 
 [/us/usc/t22/s3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3657
-[/us/pl/96/70/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1104
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F457
-[/us/pl/101/510/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3505
+[/us/pl/101/510/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXV
 [/us/stat/104/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1846
-[/us/pl/104/201/s3524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3524%2Fa
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2860
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -74,7 +74,7 @@
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t22/s3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3657
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/pl/104/201/s3524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3524%2Fb
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2861
 [/us/pl/104/201/s3524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3524%2Fa
 

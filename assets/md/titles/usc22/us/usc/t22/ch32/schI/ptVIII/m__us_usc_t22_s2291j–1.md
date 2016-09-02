@@ -107,7 +107,7 @@
 
         This section shall take effect September 30, 2002, and shall remain in effect thereafter unless Congress enacts subsequent legislation repealing such section.
 
-([Pub. L. 107–228, div. A, title VI, § 706][/us/pl/107/228/s706], Sept. 30, 2002, [116 Stat. 1424][/us/stat/116/1424]; [Pub. L. 109–177, title VII, § 722(c)][/us/pl/109/177/s722/c], Mar. 9, 2006, [120 Stat. 269][/us/stat/120/269].)
+([Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 706, Sept. 30, 2002, [116 Stat. 1424][/us/stat/116/1424]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 722(c), Mar. 9, 2006, [120 Stat. 269][/us/stat/120/269].)
 
  __Codification__ 
 
@@ -221,9 +221,9 @@ Pursuant to section 706(1) of the Foreign Relations Authorization Act, Fiscal Ye
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
 [/us/usc/t22/s2291j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j
 [/us/usc/t22/s2291h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa
-[/us/pl/107/228/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs706
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1424
-[/us/pl/109/177/s722/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs722%2Fc
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F269
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228

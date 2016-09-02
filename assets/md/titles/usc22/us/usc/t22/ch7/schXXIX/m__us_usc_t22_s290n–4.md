@@ -23,7 +23,7 @@
 
     If feasible to avoid duplicative efforts, the Commission offices should be located in existing State or local nonprofit offices. The Commission should provide adequate compensation for cooperative efforts and resources.
 
-([Pub. L. 103–400, § 6][/us/pl/103/400/s6], Oct. 22, 1994, [108 Stat. 4170][/us/stat/108/4170].)
+([Pub. L. 103–400][/us/pl/103/400], § 6, Oct. 22, 1994, [108 Stat. 4170][/us/stat/108/4170].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/400/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400%2Fs6
+[/us/pl/103/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400
 [/us/stat/108/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4170
 
 

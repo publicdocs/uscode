@@ -51,7 +51,7 @@
 
         In this section the term “multilateral development bank” has the meaning given that term in [section 262m–7 of this title][/us/usc/t22/s262m–7] and also includes the European Bank for Reconstruction and Development and the Global Environment Facility.
 
-([Pub. L. 95–118, title XV, § 1505][/us/pl/95/118/s1505], as added [Pub. L. 109–102, title V, § 599B][/us/pl/109/102/s599B], Nov. 14, 2005, [119 Stat. 2241][/us/stat/119/2241].)
+([Pub. L. 95–118, title XV][/us/pl/95/118/tXV], § 1505, as added [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 599B, Nov. 14, 2005, [119 Stat. 2241][/us/stat/119/2241].)
 
  __Codification__ 
 
@@ -69,8 +69,8 @@
 ----------
 
 [/us/usc/t22/s262m–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%937
-[/us/pl/95/118/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1505
-[/us/pl/109/102/s599B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs599B
+[/us/pl/95/118/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXV
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2241
 [/us/pl/109/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935

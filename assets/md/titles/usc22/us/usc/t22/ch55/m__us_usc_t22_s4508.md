@@ -21,7 +21,7 @@
 
     (2) $5,000,000 for the fiscal year 1985 shall be available only to carry out this chapter.
 
-([Pub. L. 98–164, title VIII, § 809][/us/pl/98/164/s809], Nov. 22, 1983, [97 Stat. 1050][/us/stat/97/1050].)
+([Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 809, Nov. 22, 1983, [97 Stat. 1050][/us/stat/97/1050].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/164/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs809
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1050
 [/us/pl/98/164/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs102%2F1
 [/us/stat/97/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1017

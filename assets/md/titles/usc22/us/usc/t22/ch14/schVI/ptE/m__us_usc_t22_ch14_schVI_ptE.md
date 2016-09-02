@@ -11,40 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1002.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptF/m__us_usc_t22_ch14_schVI_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptE)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1003...1009.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptE/m__us_usc_t22_s1016 _us_usc_t22_s1017.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptE)
 
 #### Part E—Promotion of Staff Officers and Employees
 
-§§ 1016, 1017. __Repealed.__  __[__  __Pub. L. 96–465, title II, § 2205(1)__  __][/us/pl/96/465/s2205/1]__  __,__  __Oct. 17, 1980__  __,__  __[__  __94 Stat. 2159__  __][/us/stat/94/2159]__ 
-
-    Section 1016, acts [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VI, § 641, [60 Stat. 1017][/us/stat/60/1017]; Sept. 8, 1960, [Pub. L. 86–723, § 27][/us/pl/86/723/s27], [74 Stat. 837][/us/stat/74/837], related to class promotion of staff personnel.
-
-    Section 1017, acts [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VI, § 642, [60 Stat. 1017][/us/stat/60/1017]; Sept. 8, 1960, [Pub. L. 86–723, § 28][/us/pl/86/723/s28], [74 Stat. 837][/us/stat/74/837]; Oct. 11, 1962, [Pub. L. 87–793, § 905][/us/pl/87/793/s905], [76 Stat. 863][/us/stat/76/863], related to within-class salary increases for staff officers or employees.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Feb. 15, 1981, except as otherwise provided, see [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as an Effective Date note under [section 3901 of this title][/us/usc/t22/s3901].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1002.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptF/m__us_usc_t22_ch14_schVI_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptE)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1003...1009.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptE/m__us_usc_t22_s1016 _us_usc_t22_s1017.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptE)
 
 ----------
 ----------
 
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
-[/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1017
-[/us/pl/86/723/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs27
-[/us/stat/74/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F837
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1017
-[/us/pl/86/723/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs28
-[/us/stat/74/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F837
-[/us/pl/87/793/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs905
-[/us/stat/76/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F863
-[/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
-[/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 
 

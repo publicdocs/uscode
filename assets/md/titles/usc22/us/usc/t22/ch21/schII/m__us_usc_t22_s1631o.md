@@ -27,7 +27,7 @@
 
         Determinations by the designee of the President or any other officer or agency with respect to claims under this section, including the allowance or disallowance thereof, shall be final and shall not be subject to review by any court.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 216, as added [Pub. L. 90–421, § 1(7)][/us/pl/90/421/s1/7], July 24, 1968, [82 Stat. 421][/us/stat/82/421].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 216, as added [Pub. L. 90–421][/us/pl/90/421], § 1(7), July 24, 1968, [82 Stat. 421][/us/stat/82/421].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t22/s1631f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631f%2Fc
 [/us/usc/t50/s4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4330
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/90/421/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F7
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F421
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

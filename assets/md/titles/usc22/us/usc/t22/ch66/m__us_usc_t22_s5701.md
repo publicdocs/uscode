@@ -41,11 +41,11 @@
 
     (6) The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong’s continued economic prosperity.
 
-([Pub. L. 102–383, § 2][/us/pl/102/383/s2], Oct. 5, 1992, [106 Stat. 1448][/us/stat/106/1448].)
+([Pub. L. 102–383][/us/pl/102/383], § 2, Oct. 5, 1992, [106 Stat. 1448][/us/stat/106/1448].)
 
  __Short Title__ 
 
-[Pub. L. 102–383, § 1][/us/pl/102/383/s1], Oct. 5, 1992, [106 Stat. 1448][/us/stat/106/1448], provided that: 
+[Pub. L. 102–383][/us/pl/102/383], § 1, Oct. 5, 1992, [106 Stat. 1448][/us/stat/106/1448], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘United States-Hong Kong Policy Act of 1992’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/102/383/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs2
+[/us/pl/102/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383
 [/us/stat/106/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1448
-[/us/pl/102/383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs1
+[/us/pl/102/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383
 [/us/stat/106/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1448
 
 

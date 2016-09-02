@@ -69,7 +69,7 @@
 
         (2) Upon complaint of any foreign or United States person of a violation of the certification as required by this section, filed with the Secretary of State, the Department of State shall investigate such complaint, and if such complaint is found to be correct and a violation of the certification has been found, all contracts with such violator shall be terminated for default as soon as practicable, and, for a period of two years thereafter, the State Department shall not enter into any contracts with such a violator.
 
-([Pub. L. 103–236, title V, § 565][/us/pl/103/236/s565], Apr. 30, 1994, [108 Stat. 484][/us/stat/108/484]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(3), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
+([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 565, Apr. 30, 1994, [108 Stat. 484][/us/stat/108/484]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(3), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 134 of title 41][/us/usc/t41/s134]” substituted for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(1), “[section 134 of title 41][/us/usc/t41/s134]” substituted for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–236, title V, § 561][/us/pl/103/236/s561], Apr. 30, 1994, [108 Stat. 483][/us/stat/108/483], provided that: 
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 561, Apr. 30, 1994, [108 Stat. 483][/us/stat/108/483], provided that: 
 
 > “This part \[part C (§§ 561–565) of title V of [Pub. L. 103–236][/us/pl/103/236], enacting this section and provisions set out as a note under [section 2751 of this title][/us/usc/t22/s2751]\] may be cited as the ‘Anti-Economic Discrimination Act of 1994’.”
 
@@ -106,22 +106,22 @@
 [/us/usc/t50/s4618/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618%2F2
 [/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
 [/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
-[/us/pl/103/236/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs565
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F484
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/pl/96/72/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs8%2Fa
 [/us/stat/93/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F521
 [/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531
-[/us/pl/103/236/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs561
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F483
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751

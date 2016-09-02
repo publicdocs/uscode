@@ -37,7 +37,7 @@
 
         The uses of agricultural commodities and local currencies specified in subsection (a) are in addition to other uses authorized by law.
 
-([Pub. L. 101–179, title II, § 205][/us/pl/101/179/s205], Nov. 28, 1989, [103 Stat. 1310][/us/stat/103/1310]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(U), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
+([Pub. L. 101–179, title II][/us/pl/101/179/tII], § 205, Nov. 28, 1989, [103 Stat. 1310][/us/stat/103/1310]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(U), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 [/us/usc/t7/s1431/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb%2F7
 [/us/usc/t7/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/101/179/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs205
+[/us/pl/101/179/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtII
 [/us/stat/103/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1310
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/100/418/s2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2226
 [/us/usc/t7/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431

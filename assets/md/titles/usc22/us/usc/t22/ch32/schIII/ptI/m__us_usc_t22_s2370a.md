@@ -105,7 +105,7 @@
 
         (3) The date to which paragraph (2) refers is a date after December 8, 2004, that is specified by the Secretary of State, in the Secretary’s discretion, in a notice published in the Federal Register.
 
-([Pub. L. 103–236, title V, § 527][/us/pl/103/236/s527], Apr. 30, 1994, [108 Stat. 475][/us/stat/108/475]; [Pub. L. 108–447, div. D, title V, § 584(c)][/us/pl/108/447/s584/c], Dec. 8, 2004, [118 Stat. 3032][/us/stat/118/3032].)
+([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 527, Apr. 30, 1994, [108 Stat. 475][/us/stat/108/475]; [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 584(c), Dec. 8, 2004, [118 Stat. 3032][/us/stat/118/3032].)
 
  __References in Text__ 
 
@@ -166,9 +166,9 @@ By the authority vested in me by the Constitution and laws of the United States 
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/103/236/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs527
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F475
-[/us/pl/108/447/s584/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs584%2Fc
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3032
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F382

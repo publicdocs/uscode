@@ -51,7 +51,7 @@
 
     (8) the term “unsafeguarded special nuclear material” means special nuclear material which is held in violation of IAEA safeguards or not subject to IAEA safeguards (excluding any quantity of material that could, if it were exported from the United States, be exported under a general license issued by the Nuclear Regulatory Commission).
 
-([Pub. L. 103–236, title VIII, § 830][/us/pl/103/236/s830], Apr. 30, 1994, [108 Stat. 521][/us/stat/108/521].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 830, Apr. 30, 1994, [108 Stat. 521][/us/stat/108/521].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t42/s2139a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139a%2Fc
 [/us/usc/t42/s2077/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077%2Fb
 [/us/usc/t42/s2014/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Faa
-[/us/pl/103/236/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs830
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F521
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301

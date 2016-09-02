@@ -37,7 +37,7 @@
 
         Nothing in this subchapter shall authorize the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any other law of the United States.
 
-([Dec. 20, 1945, ch. 583, § 7][/us/act/1945-12-20/ch583/s7], as added [Oct. 10, 1949, ch. 660, § 5][/us/act/1949-10-10/ch660/s5], [63 Stat. 735][/us/stat/63/735]; amended [Aug. 10, 1949, ch. 412, § 12(a)][/us/act/1949-08-10/ch412/s12/a], [63 Stat. 591][/us/stat/63/591].)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 7, as added [Oct. 10, 1949, ch. 660][/us/act/1949-10-10/ch660], § 5, [63 Stat. 735][/us/stat/63/735]; amended [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 12(a), [63 Stat. 591][/us/stat/63/591].)
 
  __Change of Name__ 
 
@@ -65,10 +65,10 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 ----------
 
 [/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e
-[/us/act/1945-12-20/ch583/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs7
-[/us/act/1949-10-10/ch660/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660%2Fs5
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
+[/us/act/1949-10-10/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660
 [/us/stat/63/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F735
-[/us/act/1949-08-10/ch412/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs12%2Fa
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619
 

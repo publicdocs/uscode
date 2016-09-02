@@ -39,7 +39,7 @@
 
         (2) expresses its desire to enhance the friendly relations between the people of Hungary and the people of the United States and between their respective governments.
 
-([Pub. L. 101–179, title VIII, § 802][/us/pl/101/179/s802], Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322].)
+([Pub. L. 101–179, title VIII][/us/pl/101/179/tVIII], § 802, Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs802
+[/us/pl/101/179/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVIII
 [/us/stat/103/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1322
 
 

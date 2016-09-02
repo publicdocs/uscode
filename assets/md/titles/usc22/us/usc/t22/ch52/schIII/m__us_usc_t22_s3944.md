@@ -31,7 +31,7 @@
 
         (2) Each individual nominated by the President to be a chief of mission, ambassador at large, or minister shall, at the time of nomination, file with the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives a report of contributions made by such individual and by members of his or her immediate family during the period beginning on the first day of the fourth calendar year preceding the calendar year of the nomination and ending on the date of the nomination. The report shall be verified by the oath of the nominee, taken before any individual authorized to administer oaths. The chairman of the Committee on Foreign Relations of the Senate shall have each such report printed in the Congressional Record. As used in this paragraph, the term “contribution” has the same meaning given such term by [section 30101(8) of title 52][/us/usc/t52/s30101/8], and the term “immediate family” means the spouse of the nominee, and any child, parent, grandparent, brother, or sister of the nominee and the spouses of any of them.
 
-([Pub. L. 96–465, title I, § 304][/us/pl/96/465/s304], Oct. 17, 1980, [94 Stat. 2085][/us/stat/94/2085]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 208(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 304, Oct. 17, 1980, [94 Stat. 2085][/us/stat/94/2085]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 208(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422.)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t52/s30101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F8
-[/us/pl/96/465/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs304
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2085
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 

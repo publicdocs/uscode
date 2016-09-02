@@ -21,7 +21,7 @@
 
     (2) for purposes of such construction, to furnish as a grant to the Government of Israel, on such terms and conditions as the President may determine, defense articles and defense services, which he may acquire from any source, of a value not to exceed the amount appropriated pursuant to [section 2349a(a) of this title][/us/usc/t22/s2349a/a].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 561, as added [Pub. L. 96–35, § 3][/us/pl/96/35/s3], July 20, 1979, [93 Stat. 89][/us/stat/93/89].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 561, as added [Pub. L. 96–35][/us/pl/96/35], § 3, July 20, 1979, [93 Stat. 89][/us/stat/93/89].)
 
  __Delegation of Functions__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t22/s2349a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349a%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/96/35/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs3
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F89
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

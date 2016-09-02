@@ -17,9 +17,9 @@
 
  __Codification__ 
 
-    Section, [act July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title I, [60 Stat. 450][/us/stat/60/450], 451, the Department of State Appropriation Act, 1947, related to compensation of personnel and rent and expenses of despatch agencies established by Secretary of State. See [section 2662 of this title][/us/usc/t22/s2662].
+    Section, [act July 5, 1946, ch. 541, title I][/us/act/1946-07-05/ch541/tI], [60 Stat. 450][/us/stat/60/450], 451, the Department of State Appropriation Act, 1947, related to compensation of personnel and rent and expenses of despatch agencies established by Secretary of State. See [section 2662 of this title][/us/usc/t22/s2662].
 
-    Section was formerly classified to [section 153a of Title 5][/us/usc/t5/s153a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 153a of Title 5][/us/usc/t5/s153a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 Similar provisions were contained in the following prior Department of State Appropriation Acts:
 
@@ -42,11 +42,11 @@ Similar provisions were contained in the following prior Department of State App
 ----------
 ----------
 
-[/us/act/1946-07-05/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541
+[/us/act/1946-07-05/ch541/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541%2FtI
 [/us/stat/60/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F450
 [/us/usc/t22/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2662
 [/us/usc/t5/s153a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs153a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1945-05-21/ch129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-21%2Fch129
 [/us/stat/59/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F173

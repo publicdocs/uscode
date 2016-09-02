@@ -29,11 +29,11 @@
 
     (6) To foster stability and democratization and to effectively eliminate the causes of terrorism, the United States and the international community should also support efforts that advance the development of democratic civil authorities and institutions in the broader Central Asia region.
 
-([Pub. L. 107–327, title I, § 101][/us/pl/107/327/s101], Dec. 4, 2002, [116 Stat. 2798][/us/stat/116/2798].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 101, Dec. 4, 2002, [116 Stat. 2798][/us/stat/116/2798].)
 
  __Consultations With Congress on a Bilateral Security Agreement With Afghanistan__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1225][/us/pl/112/239/s1225], Jan. 2, 2013, [126 Stat. 1999][/us/stat/126/1999], provided that:
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1225, Jan. 2, 2013, [126 Stat. 1999][/us/stat/126/1999], provided that:
 
 >     “(a)  __Consultations Required__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Strategy for the United States Relationship With Afghanistan__ 
 
-[Pub. L. 110–53, title XX, § 2041][/us/pl/110/53/s2041], Aug. 3, 2007, [121 Stat. 518][/us/stat/121/518], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2041, Aug. 3, 2007, [121 Stat. 518][/us/stat/121/518], provided that:
 
 >     “(a)  __Congressional Findings__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Coordination of Assistance__ 
 
-[Pub. L. 108–458, title VII, § 7104(b)][/us/pl/108/458/s7104/b], Dec. 17, 2004, [118 Stat. 3780][/us/stat/118/3780], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(b), Dec. 17, 2004, [118 Stat. 3780][/us/stat/118/3780], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -181,7 +181,7 @@
 
  __Declarations of General Policy__ 
 
-[Pub. L. 108–458, title VII, § 7104(e)(2)][/us/pl/108/458/s7104/e/2], Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(e)(2), Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782], provided that: 
 
 > “Congress makes the following declarations:
 
@@ -198,11 +198,11 @@
 ----------
 ----------
 
-[/us/pl/107/327/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs101
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2798
-[/us/pl/112/239/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1225
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1999
-[/us/pl/110/53/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2041
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F518
 [/us/usc/t22/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7501
 [/us/usc/t22/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7501
@@ -211,10 +211,10 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/110/53/s2041/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2041%2Fd%2F3
 [/us/usc/t22/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2228
-[/us/pl/108/458/s7104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fb
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3780
 [/us/usc/t22/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7501
-[/us/pl/108/458/s7104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fe%2F2
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3782
 
 

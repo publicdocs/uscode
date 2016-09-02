@@ -17,7 +17,7 @@
 
     For purposes of this Act, the terms “independent states of the former Soviet Union” and “independent states” mean the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
-([Pub. L. 102–511, § 3][/us/pl/102/511/s3], Oct. 24, 1992, [106 Stat. 3321][/us/stat/106/3321].)
+([Pub. L. 102–511][/us/pl/102/511], § 3, Oct. 24, 1992, [106 Stat. 3321][/us/stat/106/3321].)
 
  __References in Text__ 
 
@@ -25,31 +25,31 @@
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–82, § 1][/us/pl/112/82/s1], Jan. 3, 2012, [125 Stat. 1863][/us/stat/125/1863], provided that: 
+[Pub. L. 112–82][/us/pl/112/82], § 1, Jan. 3, 2012, [125 Stat. 1863][/us/stat/125/1863], provided that: 
 
 > “This Act \[amending provisions set out as a note under [section 5811 of this title][/us/usc/t22/s5811]\] may be cited as the ‘Belarus Democracy and Human Rights Act of 2011’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 109–480, § 1][/us/pl/109/480/s1], Jan. 12, 2007, [120 Stat. 3666][/us/stat/120/3666], provided that: 
+[Pub. L. 109–480][/us/pl/109/480], § 1, Jan. 12, 2007, [120 Stat. 3666][/us/stat/120/3666], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes under [section 5811 of this title][/us/usc/t22/s5811]\] may be cited as the ‘Belarus Democracy Reauthorization Act of 2006’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–199, § 1][/us/pl/103/199/s1], Dec. 17, 1993, [107 Stat. 2317][/us/stat/107/2317], provided that: 
+[Pub. L. 103–199][/us/pl/103/199], § 1, Dec. 17, 1993, [107 Stat. 2317][/us/stat/107/2317], provided that: 
 
 > “This Act \[amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, [section 4101 of Title 15][/us/usc/t15/s4101], Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, [section 951 of Title 18][/us/usc/t18/s951], Crimes and Criminal Procedure, and sections 783, 4601, and 4602 of Title 50, War and National Defense, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and former section 2403–1 of the former Appendix to Title 50, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and [section 4602 of Title 50][/us/usc/t50/s4602], amending provisions set out as notes under [section 4501 of this title][/us/usc/t22/s4501], [section 113 of Title 10][/us/usc/t10/s113], [section 2901 of Title 15][/us/usc/t15/s2901], and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, [section 1307 of Title 19][/us/usc/t19/s1307], Customs Duties, and [section 781 of Title 50][/us/usc/t50/s781]\] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
 
  __Short Title__ 
 
-[Pub. L. 102–511, § 1][/us/pl/102/511/s1], Oct. 24, 1992, [106 Stat. 3320][/us/stat/106/3320], provided that: 
+[Pub. L. 102–511][/us/pl/102/511], § 1, Oct. 24, 1992, [106 Stat. 3320][/us/stat/106/3320], provided that: 
 
 > “This Act \[enacting this chapter and sections 282m, 282n, 286e–1l, 286e–5b, 286e–13, 286ll, 286mm, 288j, 2295 to 2295c, and 5402 of this title, amending sections 262d, 2370, 2507, and 4903 of this title and sections 1736o, 3293, 5602, 5621, 5622, and 5651 of Title 7, Agriculture, enacting provisions set out as notes under sections 2295a, 2452, 2753, 4903, and 5812 of this title, [section 5621 of Title 7][/us/usc/t7/s5621], and [section 955 of Title 18][/us/usc/t18/s955], Crimes and Criminal Procedure, amending provisions set out as notes under [section 2452 of this title][/us/usc/t22/s2452], [section 5622 of Title 7][/us/usc/t7/s5622], and sections 1157 and 1255 of Title 8, Aliens and Nationality, and repealing provisions set out as a note under [section 2452 of this title][/us/usc/t22/s2452]\] may be cited as the ‘Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992’ or the ‘FREEDOM Support Act’.”
 
  __Policy of Friendship and Cooperation__ 
 
-[Pub. L. 103–199, title I][/us/pl/103/199], §§ 101–103, Dec. 17, 1993, [107 Stat. 2318][/us/stat/107/2318], 2319, provided that:
+[Pub. L. 103–199, title I][/us/pl/103/199/tI], §§ 101–103, Dec. 17, 1993, [107 Stat. 2318][/us/stat/107/2318], 2319, provided that:
 
 > “SEC. 101. __STATEMENT OF PURPOSE.__ 
 
@@ -113,7 +113,7 @@
 
  __Definitions for__  __[__  __Pub. L. 103–199__  __][/us/pl/103/199]__ 
 
-[Pub. L. 103–199, § 3][/us/pl/103/199/s3], Dec. 17, 1993, [107 Stat. 2318][/us/stat/107/2318], provided that: 
+[Pub. L. 103–199][/us/pl/103/199], § 3, Dec. 17, 1993, [107 Stat. 2318][/us/stat/107/2318], provided that: 
 
 > “As used in this Act \[see Short Title of 1993 Amendment note above\] (including the amendments made by this Act), the terms ‘independent states of the former Soviet Union’ and ‘independent states’ have the meaning given those terms by section 3 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5801][/us/usc/t22/s5801]).”
 
@@ -124,17 +124,17 @@
 ----------
 ----------
 
-[/us/pl/102/511/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs3
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3321
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3320
-[/us/pl/112/82/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F82%2Fs1
+[/us/pl/112/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F82
 [/us/stat/125/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1863
 [/us/usc/t22/s5811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5811
-[/us/pl/109/480/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F480%2Fs1
+[/us/pl/109/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F480
 [/us/stat/120/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3666
 [/us/usc/t22/s5811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5811
-[/us/pl/103/199/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs1
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/stat/107/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2317
 [/us/usc/t15/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4101
 [/us/usc/t18/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs951
@@ -144,14 +144,14 @@
 [/us/usc/t15/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2901
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
 [/us/usc/t50/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs781
-[/us/pl/102/511/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3320
 [/us/usc/t7/s5621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5621
 [/us/usc/t18/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs955
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtI
 [/us/stat/107/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2318
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
@@ -175,7 +175,7 @@
 [/us/usc/t22/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1961
 [/us/usc/t22/s286aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286aa
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
-[/us/pl/103/199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs3
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/stat/107/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2318
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 

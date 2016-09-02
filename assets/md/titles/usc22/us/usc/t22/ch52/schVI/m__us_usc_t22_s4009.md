@@ -43,23 +43,23 @@
 
         In the event that a member of the Service has elected to receive retirement benefits under paragraph (2) and dies before reaching age 60 (for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System), his or her death shall be considered a death in service within the meaning of [section 4049 of this title][/us/usc/t22/s4049].
 
-([Pub. L. 96–465, title I, § 609][/us/pl/96/465/s609], Oct. 17, 1980, [94 Stat. 2098][/us/stat/94/2098]; [Pub. L. 103–236, title I, § 181(a)(3)][/us/pl/103/236/s181/a/3], Apr. 30, 1994, [108 Stat. 417][/us/stat/108/417]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2312(a), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 609, Oct. 17, 1980, [94 Stat. 2098][/us/stat/94/2098]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 181(a)(3), Apr. 30, 1994, [108 Stat. 417][/us/stat/108/417]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2312(a), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 2312(a)(2)][/us/pl/105/277/s2312/a/2], inserted “or [section 4071d of this title][/us/usc/t22/s4071d], as appropriate” after “[section 4046 of this title][/us/usc/t22/s4046]” in concluding provisions.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 2312(a)(2), inserted “or [section 4071d of this title][/us/usc/t22/s4071d], as appropriate” after “[section 4046 of this title][/us/usc/t22/s4046]” in concluding provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 105–277, § 2312(a)(1)][/us/pl/105/277/s2312/a/1], inserted “or any other applicable provision of chapter 84 of title 5” after “[section 4051 of this title][/us/usc/t22/s4051]”.
+    Subsec. (a)(2)(A). [Pub. L. 105–277][/us/pl/105/277], § 2312(a)(1), inserted “or any other applicable provision of chapter 84 of title 5” after “[section 4051 of this title][/us/usc/t22/s4051]”.
 
-    Subsec. (b). [Pub. L. 105–277, § 2312(a)(4)][/us/pl/105/277/s2312/a/4], inserted “(for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System)” after “age 60” in concluding provisions.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 2312(a)(4), inserted “(for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System)” after “age 60” in concluding provisions.
 
-    Subsec. (b)(2). [Pub. L. 105–277, § 2312(a)(3)][/us/pl/105/277/s2312/a/3], designated existing provisions as subpar. (A), inserted “for those participants in the Foreign Service Retirement and Disability System,” before “a refund”, and added subpar. (B).
+    Subsec. (b)(2). [Pub. L. 105–277][/us/pl/105/277], § 2312(a)(3), designated existing provisions as subpar. (A), inserted “for those participants in the Foreign Service Retirement and Disability System,” before “a refund”, and added subpar. (B).
 
     1994—Subsecs. (a)(2), (b). [Pub. L. 103–236][/us/pl/103/236] inserted “or 4010a” after “4008(b)”.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2312(c), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827], provided that:
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2312(c), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -71,7 +71,7 @@
 
  __Special Annuity for Certain Foreign Service Officers__ 
 
-[Pub. L. 95–105, title IV, § 411][/us/pl/95/105/s411], Aug. 17, 1977, [91 Stat. 855][/us/stat/91/855], as amended by [Pub. L. 95–426, title IV, § 412(b)][/us/pl/95/426/s412/b], Oct. 7, 1978, [92 Stat. 981][/us/stat/92/981], provided that:
+[Pub. L. 95–105, title IV][/us/pl/95/105/tIV], § 411, Aug. 17, 1977, [91 Stat. 855][/us/stat/91/855], as amended by [Pub. L. 95–426, title IV][/us/pl/95/426/tIV], § 412(b), Oct. 7, 1978, [92 Stat. 981][/us/stat/92/981], provided that:
 
 >     “(a)
 
@@ -108,28 +108,28 @@
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
 [/us/usc/t22/s4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071
 [/us/usc/t22/s4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4049
-[/us/pl/96/465/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs609
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2098
-[/us/pl/103/236/s181/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fa%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F417
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-827
-[/us/pl/105/277/s2312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fa%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s4071d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071d
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
-[/us/pl/105/277/s2312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fa%2F1
-[/us/usc/t22/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4051
-[/us/pl/105/277/s2312/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fa%2F4
-[/us/pl/105/277/s2312/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fa%2F3
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/usc/t22/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4051
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-827
 [/us/usc/t22/s4071d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071d
 [/us/usc/t22/s4071d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071d
 [/us/usc/t22/s4010a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010a
-[/us/pl/95/105/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs411
+[/us/pl/95/105/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtIV
 [/us/stat/91/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F855
-[/us/pl/95/426/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs412%2Fb
+[/us/pl/95/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtIV
 [/us/stat/92/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F981
 [/us/usc/t22/s1003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1003%2Fa%2F1
 [/us/usc/t22/s4007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4007%2Fa

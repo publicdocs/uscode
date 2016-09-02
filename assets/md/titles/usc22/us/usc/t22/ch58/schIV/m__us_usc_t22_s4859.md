@@ -17,7 +17,7 @@
 
     The Secretary of State shall install and maintain a walk-through metal detector or other advanced screening system at public entrances of each United States diplomatic mission abroad.
 
-([Pub. L. 99–399, title IV, § 409][/us/pl/99/399/s409], Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 409, Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/399/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs409
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F866
 
 

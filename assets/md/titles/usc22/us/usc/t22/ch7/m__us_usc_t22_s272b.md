@@ -17,7 +17,7 @@
 
     No person shall serve as representative, delegate, or alternate from the United States until such person has been investigated as to loyalty and security by the Director of the Office of Personnel Management.
 
-([June 30, 1948, ch. 756, § 3][/us/act/1948-06-30/ch756/s3], [62 Stat. 1152][/us/stat/62/1152]; [Apr. 5, 1952, ch. 159, § 1][/us/act/1952-04-05/ch159/s1], [66 Stat. 43][/us/stat/66/43]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784].)
+([June 30, 1948, ch. 756][/us/act/1948-06-30/ch756], § 3, [62 Stat. 1152][/us/stat/62/1152]; [Apr. 5, 1952, ch. 159][/us/act/1952-04-05/ch159], § 1, [66 Stat. 43][/us/stat/66/43]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-30/ch756/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch756%2Fs3
+[/us/act/1948-06-30/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch756
 [/us/stat/62/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1152
-[/us/act/1952-04-05/ch159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-05%2Fch159%2Fs1
+[/us/act/1952-04-05/ch159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-05%2Fch159
 [/us/stat/66/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F43
 [/us/stat/92/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3784
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

@@ -177,7 +177,7 @@
 
         The provisions of this section shall terminate on the date that is 30 days after the date on which the President submits to Congress the certification described in [section 8551(a) of this title][/us/usc/t22/s8551/a].
 
-([Pub. L. 112–81, div. A, title XII, § 1245][/us/pl/112/81/s1245], Dec. 31, 2011, [125 Stat. 1647][/us/stat/125/1647]; [Pub. L. 112–158, title V][/us/pl/112/158], §§ 503(a)(1), (b)(1), 504(a), Aug. 10, 2012, [126 Stat. 1260][/us/stat/126/1260], 1261; [Pub. L. 112–239, div. A, title XII, § 1250][/us/pl/112/239/s1250], Jan. 2, 2013, [126 Stat. 2016][/us/stat/126/2016].)
+([Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1245, Dec. 31, 2011, [125 Stat. 1647][/us/stat/125/1647]; [Pub. L. 112–158, title V][/us/pl/112/158/tV], §§ 503(a)(1), (b)(1), 504(a), Aug. 10, 2012, [126 Stat. 1260][/us/stat/126/1260], 1261; [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1250, Jan. 2, 2013, [126 Stat. 2016][/us/stat/126/2016].)
 
  __References in Text__ 
 
@@ -191,31 +191,31 @@
 
     2013—Subsec. (d)(5)(B)(ii), (iii). [Pub. L. 112–239][/us/pl/112/239] added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    2012—Subsec. (d)(2). [Pub. L. 112–158, § 503(a)(1)][/us/pl/112/158/s503/a/1], inserted “agricultural commodities,” after “sales of” in heading and after “sale of” in text.
+    2012—Subsec. (d)(2). [Pub. L. 112–158][/us/pl/112/158], § 503(a)(1), inserted “agricultural commodities,” after “sales of” in heading and after “sale of” in text.
 
-    Subsec. (d)(3). [Pub. L. 112–158, § 504(a)(1)(A)][/us/pl/112/158/s504/a/1/A], struck out “a foreign financial institution owned or controlled by the government of a foreign country, including” after “with respect to”.
+    Subsec. (d)(3). [Pub. L. 112–158][/us/pl/112/158], § 504(a)(1)(A), struck out “a foreign financial institution owned or controlled by the government of a foreign country, including” after “with respect to”.
 
-    Subsec. (d)(4)(A). [Pub. L. 112–158, § 503(b)(1)][/us/pl/112/158/s503/b/1], substituted “October 25, 2012, and the last Thursday of every other month thereafter” for “60 days after December 31, 2011, and every 60 days thereafter” and “2-month period” for “60-day period”.
+    Subsec. (d)(4)(A). [Pub. L. 112–158][/us/pl/112/158], § 503(b)(1), substituted “October 25, 2012, and the last Thursday of every other month thereafter” for “60 days after December 31, 2011, and every 60 days thereafter” and “2-month period” for “60-day period”.
 
-    Subsec. (d)(4)(D)(i). [Pub. L. 112–158, § 504(a)(1)(B)(i)][/us/pl/112/158/s504/a/1/B/i], (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted “a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution” for “a foreign financial institution” and “institution—” for “institution has significantly”, inserted subcl. (I) designation and “has significantly reduced” before “reduced its volume”, and added subcl. (II).
+    Subsec. (d)(4)(D)(i). [Pub. L. 112–158][/us/pl/112/158], § 504(a)(1)(B)(i), (ii), designated existing provisions as cl. (i) and inserted cl. heading, substituted “a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution” for “a foreign financial institution” and “institution—” for “institution has significantly”, inserted subcl. (I) designation and “has significantly reduced” before “reduced its volume”, and added subcl. (II).
 
-    Subsec. (d)(4)(D)(ii). [Pub. L. 112–158, § 504(a)(1)(B)(iii)][/us/pl/112/158/s504/a/1/B/iii], added cl. (ii).
+    Subsec. (d)(4)(D)(ii). [Pub. L. 112–158][/us/pl/112/158], § 504(a)(1)(B)(iii), added cl. (ii).
 
-    Subsec. (h)(3), (4). [Pub. L. 112–158, § 504(a)(2)][/us/pl/112/158/s504/a/2], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (h)(3), (4). [Pub. L. 112–158][/us/pl/112/158], § 504(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (i). [Pub. L. 112–158, § 504(a)(3)][/us/pl/112/158/s504/a/3], added subsec. (i).
+    Subsec. (i). [Pub. L. 112–158][/us/pl/112/158], § 504(a)(3), added subsec. (i).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–158, title V, § 503(a)(2)][/us/pl/112/158/s503/a/2], Aug. 10, 2012, [126 Stat. 1261][/us/stat/126/1261], provided that: 
+[Pub. L. 112–158, title V][/us/pl/112/158/tV], § 503(a)(2), Aug. 10, 2012, [126 Stat. 1261][/us/stat/126/1261], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1298][/us/stat/125/1298]).”
 
-[Pub. L. 112–158, title V, § 503(b)(2)][/us/pl/112/158/s503/b/2], Aug. 10, 2012, [126 Stat. 1261][/us/stat/126/1261], provided that: 
+[Pub. L. 112–158, title V][/us/pl/112/158/tV], § 503(b)(2), Aug. 10, 2012, [126 Stat. 1261][/us/stat/126/1261], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on September 1, 2012.”
 
-[Pub. L. 112–158, title V, § 504(b)][/us/pl/112/158/s504/b], Aug. 10, 2012, [126 Stat. 1262][/us/stat/126/1262], provided that: 
+[Pub. L. 112–158, title V][/us/pl/112/158/tV], § 504(b), Aug. 10, 2012, [126 Stat. 1262][/us/stat/126/1262], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 10, 2012\].”
 
@@ -238,6 +238,8 @@
  __Presidential Determinations Relating to Petroleum or Petroleum Products from Iran__ 
 
     The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+    Determination of President of the United States, No. 2016–03, Nov. 18, 2015, 80 F.R. 75921.
 
     Determination of President of the United States, No. 2015–06, May 19, 2015, 80 F.R. 32851.
 
@@ -273,30 +275,30 @@
 [/us/usc/t22/s8513/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513%2Fi
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
-[/us/pl/112/81/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1245
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1647
-[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1260
-[/us/pl/112/239/s1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1250
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2016
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/158/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs503%2Fa%2F1
-[/us/pl/112/158/s504/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fa%2F1%2FA
-[/us/pl/112/158/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs503%2Fb%2F1
-[/us/pl/112/158/s504/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fa%2F1%2FB%2Fi
-[/us/pl/112/158/s504/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fa%2F1%2FB%2Fiii
-[/us/pl/112/158/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fa%2F2
-[/us/pl/112/158/s504/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fa%2F3
-[/us/pl/112/158/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs503%2Fa%2F2
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1261
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1298
-[/us/pl/112/158/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs503%2Fb%2F2
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1261
-[/us/pl/112/158/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fb
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1262
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

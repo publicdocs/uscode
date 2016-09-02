@@ -99,7 +99,7 @@
 
             This section applies only with respect to acts within the meaning of “traffics” that occur on or after March 12, 1996.
 
-([Pub. L. 104–114, title IV, § 401][/us/pl/104/114/s401], Mar. 12, 1996, [110 Stat. 822][/us/stat/110/822].)
+([Pub. L. 104–114, title IV][/us/pl/104/114/tIV], § 401, Mar. 12, 1996, [110 Stat. 822][/us/stat/110/822].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 
  __Reports on Determinations Under Title IV of the LIBERTAD Act__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVIII, § 2802, Oct. 21, 1998, [112 Stat. 2681–845][/us/stat/112/2681-845], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 209(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423; [Pub. L. 107–228, div. A, title II, § 216(b)][/us/pl/107/228/s216/b], Sept. 30, 2002, [116 Stat. 1366][/us/stat/116/1366], provided that:
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXVIII, § 2802, Oct. 21, 1998, [112 Stat. 2681–845][/us/stat/112/2681-845], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 209(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 216(b), Sept. 30, 2002, [116 Stat. 1366][/us/stat/116/1366], provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -140,16 +140,16 @@
 ----------
 ----------
 
-[/us/pl/104/114/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs401
+[/us/pl/104/114/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIV
 [/us/stat/110/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F822
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F814
 [/us/usc/t28/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1611
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-845
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs216%2Fb
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1366
 [/us/usc/t22/s6091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6091
 

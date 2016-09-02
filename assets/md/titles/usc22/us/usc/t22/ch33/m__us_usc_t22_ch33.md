@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch32/schV/m__us_usc_t22_ch32_schV.md) | [Next](./../../../..//us/usc/t22/ch33/m__us_usc_t22_s2451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch33)
+[Previous](./../../../..//us/usc/t22/ch32/schV/m__us_usc_t22_s2441...2443.md) | [Next](./../../../..//us/usc/t22/ch33/m__us_usc_t22_s2451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch33)
 
 ## CHAPTER 33—MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch32/schV/m__us_usc_t22_ch32_schV.md) | [Next](./../../../..//us/usc/t22/ch33/m__us_usc_t22_s2451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch33)
+[Previous](./../../../..//us/usc/t22/ch32/schV/m__us_usc_t22_s2441...2443.md) | [Next](./../../../..//us/usc/t22/ch33/m__us_usc_t22_s2451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch33)
 
 ----------
 ----------

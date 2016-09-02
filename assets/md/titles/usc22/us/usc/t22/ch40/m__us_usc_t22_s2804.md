@@ -19,7 +19,7 @@
 
     (b) Standards, definitions, and criteria established by the Secretary and such revisions in them as he may make from time to time shall be published in the Federal Register.
 
-([Pub. L. 91–269, § 4][/us/pl/91/269/s4], May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
+([Pub. L. 91–269][/us/pl/91/269], § 4, May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t22/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2803%2Fa
-[/us/pl/91/269/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs4
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F272
 
 

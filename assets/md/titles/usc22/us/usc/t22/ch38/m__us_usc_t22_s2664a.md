@@ -37,7 +37,7 @@
 
         For purposes of this section, the term “Civil Service employees” means employees of the Federal Government except for members of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 \[[22 U.S.C. 3903][/us/usc/t22/s3903]\]).
 
-([Pub. L. 100–204, title I, § 172][/us/pl/100/204/s172], Dec. 22, 1987, [101 Stat. 1359][/us/stat/101/1359].)
+([Pub. L. 100–204, title I][/us/pl/100/204/tI], § 172, Dec. 22, 1987, [101 Stat. 1359][/us/stat/101/1359].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t5/s3132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F2
 [/us/usc/t22/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3903
-[/us/pl/100/204/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs172
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1359
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

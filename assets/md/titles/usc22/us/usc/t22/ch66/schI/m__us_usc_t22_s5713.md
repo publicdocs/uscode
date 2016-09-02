@@ -39,7 +39,7 @@
 
     (11) The change in the exercise of sovereignty over Hong Kong should not affect ownership in any property, tangible or intangible, held in the United States by any Hong Kong person.
 
-([Pub. L. 102–383, title I, § 103][/us/pl/102/383/s103], Oct. 5, 1992, [106 Stat. 1450][/us/stat/106/1450]; [Pub. L. 105–206, title V, § 5003(b)(7)][/us/pl/105/206/s5003/b/7], July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
+([Pub. L. 102–383, title I][/us/pl/102/383/tI], § 103, Oct. 5, 1992, [106 Stat. 1450][/us/stat/106/1450]; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(7), July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/102/383/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs103
+[/us/pl/102/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtI
 [/us/stat/106/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1450
-[/us/pl/105/206/s5003/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F7
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F790
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 

@@ -29,7 +29,7 @@
 
         It is the sense of Congress that, of the amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance, 10 percent should be used for orphans and vulnerable children.
 
-([Pub. L. 108–25, title IV, § 402][/us/pl/108/25/s402], May 27, 2003, [117 Stat. 745][/us/stat/117/745]; [Pub. L. 110–293, title IV, § 402][/us/pl/110/293/s402], July 30, 2008, [122 Stat. 2966][/us/stat/122/2966].)
+([Pub. L. 108–25, title IV][/us/pl/108/25/tIV], § 402, May 27, 2003, [117 Stat. 745][/us/stat/117/745]; [Pub. L. 110–293, title IV][/us/pl/110/293/tIV], § 402, July 30, 2008, [122 Stat. 2966][/us/stat/122/2966].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/108/25/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs402
+[/us/pl/108/25/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIV
 [/us/stat/117/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F745
-[/us/pl/110/293/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs402
+[/us/pl/110/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIV
 [/us/stat/122/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2966
 [/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s2151b–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Fd

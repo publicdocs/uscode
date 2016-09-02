@@ -31,7 +31,7 @@
 
         The provisions of this section shall apply to the Smithsonian Institution.
 
-([Pub. L. 96–70, title I, § 1502][/us/pl/96/70/s1502], Sept. 27, 1979, [93 Stat. 488][/us/stat/93/488].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1502, Sept. 27, 1979, [93 Stat. 488][/us/stat/93/488].)
 
  __Delegation of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1502
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F488
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 

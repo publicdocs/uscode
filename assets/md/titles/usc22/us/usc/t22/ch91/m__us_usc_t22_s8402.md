@@ -41,7 +41,7 @@
 
     (12) The 2009 Pakistani military offensive in the NWFP and the FATA displaced millions of residents in one of the gravest humanitarian crises Pakistan has faced, and despite the heroic efforts of Pakistanis to respond to the needs of the displaced millions and facilitate the return of many, it has highlighted the need for Pakistan to develop an effective national counterinsurgency strategy.
 
-([Pub. L. 111–73, § 3][/us/pl/111/73/s3], Oct. 15, 2009, [123 Stat. 2061][/us/stat/123/2061].)
+([Pub. L. 111–73][/us/pl/111/73], § 3, Oct. 15, 2009, [123 Stat. 2061][/us/stat/123/2061].)
 
 ----------
 
@@ -54,7 +54,7 @@
 [/us/usc/t22/s2656f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/usc/t22/s2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2375
-[/us/pl/111/73/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs3
+[/us/pl/111/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73
 [/us/stat/123/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2061
 
 

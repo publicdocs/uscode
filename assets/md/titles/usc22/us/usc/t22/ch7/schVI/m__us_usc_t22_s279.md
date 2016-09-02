@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the United States in the Food and Agriculture Organization of the United Nations (hereinafter referred to as the “Organization”) the Constitution of which is set forth in appendix I of the First Report to the Governments of the United Nations by the Interim Commission on Food and Agriculture, dated August 1, 1944.
 
-([July 31, 1945, ch. 342, § 1][/us/act/1945-07-31/ch342/s1], [59 Stat. 529][/us/stat/59/529].)
+([July 31, 1945, ch. 342][/us/act/1945-07-31/ch342], § 1, [59 Stat. 529][/us/stat/59/529].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch342/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch342%2Fs1
+[/us/act/1945-07-31/ch342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch342
 [/us/stat/59/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F529
 
 

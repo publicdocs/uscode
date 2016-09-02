@@ -31,7 +31,7 @@
 
         (2) for an equity interest in an enterprise theretofore owned by the particular East European government.
 
-([Pub. L. 101–179, title I, § 104][/us/pl/101/179/s104], Nov. 28, 1989, [103 Stat. 1304][/us/stat/103/1304].)
+([Pub. L. 101–179, title I][/us/pl/101/179/tI], § 104, Nov. 28, 1989, [103 Stat. 1304][/us/stat/103/1304].)
 
  __Delegation of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs104
+[/us/pl/101/179/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtI
 [/us/stat/103/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1304
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 

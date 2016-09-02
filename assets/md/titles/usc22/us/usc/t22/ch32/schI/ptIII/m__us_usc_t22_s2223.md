@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    In text, “[section 55305 of title 46][/us/usc/t46/s55305]” substituted for “section 901(b) of the Merchant Marine Act, 1936, as amended ([46 U.S.C. 1241][/us/usc/t46/s1241])” and “said section 55305” substituted for “said section 901(b)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 55305 of Title 46][/us/usc/t46/s55305], Shipping.
+    In text, “[section 55305 of title 46][/us/usc/t46/s55305]” substituted for “section 901(b) of the Merchant Marine Act, 1936, as amended ([46 U.S.C. 1241][/us/usc/t46/s1241])” and “said section 55305” substituted for “said section 901(b)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 55305 of Title 46][/us/usc/t46/s55305], Shipping.
 
  __Delegation of Functions__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
 [/us/usc/t46/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1241
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

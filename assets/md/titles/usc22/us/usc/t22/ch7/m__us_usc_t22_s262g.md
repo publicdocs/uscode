@@ -17,7 +17,7 @@
 
     The Congress declares it to be the policy of the United States, in connection with its voice and vote in the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Fund, and the Asian Development Bank, to combat hunger and malnutrition and to encourage economic development in the developing countries, with emphasis on assistance to those countries that are determined to improve their own agricultural production, by seeking to channel assistance for agriculturally related development to projects that would aid in fulfilling domestic food and nutrition needs and in alleviating hunger and malnutrition in the recipient country. The United States representatives to the institutions named in this section shall oppose any loan or other financial assistance for establishing or expanding production for export of palm oil, sugar, or citrus crops if such loan or assistance will cause injury to United States producers of the same, similar, or competing agricultural commodity.
 
-([Pub. L. 95–118, title IX, § 901][/us/pl/95/118/s901], Oct. 3, 1977, [91 Stat. 1071][/us/stat/91/1071]; [Pub. L. 97–35, title XIII, § 1371(b)(2)][/us/pl/97/35/s1371/b/2], Aug. 13, 1981, [95 Stat. 746][/us/stat/95/746].)
+([Pub. L. 95–118, title IX][/us/pl/95/118/tIX], § 901, Oct. 3, 1977, [91 Stat. 1071][/us/stat/91/1071]; [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1371(b)(2), Aug. 13, 1981, [95 Stat. 746][/us/stat/95/746].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/118/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs901
+[/us/pl/95/118/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtIX
 [/us/stat/91/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1071
-[/us/pl/97/35/s1371/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1371%2Fb%2F2
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F746
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

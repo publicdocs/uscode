@@ -17,7 +17,7 @@
 
     The United States Government, in connection with its voice and vote in the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Bank, and the African Development Bank, shall promote the development and utilization of light capital technologies, otherwise known as intermediate, appropriate, or village technologies, by such international institutions as major facets of their development strategies, with major emphasis on the production and conservation of energy through light capital technologies.
 
-([Pub. L. 95–118, title VIII, § 801][/us/pl/95/118/s801], Oct. 3, 1977, [91 Stat. 1071][/us/stat/91/1071]; [Pub. L. 97–35, title XIII][/us/pl/97/35], §§ 1342(c), 1371(b)(1), Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743], 746.)
+([Pub. L. 95–118, title VIII][/us/pl/95/118/tVIII], § 801, Oct. 3, 1977, [91 Stat. 1071][/us/stat/91/1071]; [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], §§ 1342(c), 1371(b)(1), Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743], 746.)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/118/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs801
+[/us/pl/95/118/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtVIII
 [/us/stat/91/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1071
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F743
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

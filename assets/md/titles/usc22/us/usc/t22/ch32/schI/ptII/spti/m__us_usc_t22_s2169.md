@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2166.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2167 _us_usc_t22_s2168.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
 
 ## § 2169. Multilateral, regional, and bilateral programs
 
@@ -27,7 +27,7 @@
 
         It is the sense of the Congress that the President should increase, to the extent practicable, the funds provided by the United States to multilateral lending institutions and multilateral organizations in which the United States participates for use by such institutions and organizations in making loans to foreign countries.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 209, as added [Pub. L. 90–137][/us/pl/90/137], pt. I, § 102(e), Nov. 14, 1967, [81 Stat. 449][/us/stat/81/449]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 101(c), Feb. 7, 1972, [86 Stat. 21][/us/stat/86/21]; [Pub. L. 94–161, title III, § 311(1)][/us/pl/94/161/s311/1], Dec. 20, 1975, [89 Stat. 860][/us/stat/89/860]; [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VIII, § 804\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–67.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 209, as added [Pub. L. 90–137][/us/pl/90/137], pt. I, § 102(e), Nov. 14, 1967, [81 Stat. 449][/us/stat/81/449]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 101(c), Feb. 7, 1972, [86 Stat. 21][/us/stat/86/21]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 311(1), Dec. 20, 1975, [89 Stat. 860][/us/stat/89/860]; [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title VIII, § 804\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–67.)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
     1975—Subsec. (c). [Pub. L. 94–161][/us/pl/94/161] substituted provision for increase of Federal funds to multilateral lending institutions and multilateral organizations for making loans to foreign countries for prior provision for reduction of loans under the bilateral lending programs to attain a total amount not to exceed $100,000,000 not later than June 30, 1975.
 
-    1972—Subsec. (a). [Pub. L. 92–226, § 101(c)(1)][/us/pl/92/226/s101/c/1], in amending subsec. (a) generally, provided for United Nations sponsorship of development assistance and substituted “may contribute” for “may, in some instances, contribute”.
+    1972—Subsec. (a). [Pub. L. 92–226][/us/pl/92/226], § 101(c)(1), in amending subsec. (a) generally, provided for United Nations sponsorship of development assistance and substituted “may contribute” for “may, in some instances, contribute”.
 
-    Subsecs. (c), (d). [Pub. L. 92–226, § 101(c)(2)][/us/pl/92/226/s101/c/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 92–226][/us/pl/92/226], § 101(c)(2), added subsecs. (c) and (d).
 
  __Delegation of Functions__ 
 
@@ -49,13 +49,13 @@
 
  __Establishment of Standard Governing Allocation of Development Assistance for Production and Export of Commodities in Surplus in World Market; Presidential Initiation of International Consultations; Report by President to Congress__ 
 
-[Pub. L. 95–481, title VI, § 610][/us/pl/95/481/s610], Oct. 18, 1978, [92 Stat. 1602][/us/stat/92/1602], provided that: 
+[Pub. L. 95–481, title VI][/us/pl/95/481/tVI], § 610, Oct. 18, 1978, [92 Stat. 1602][/us/stat/92/1602], provided that: 
 
 > “The President shall initiate wide international consultations beginning with the member nations of the Organization of Economic Cooperation and Development (OECD), designed to develop a viable standard governing the allocation of development assistance for the production and export of commodities. Such consultations shall relate to commodities which are in surplus in the world market and if produced for export would cause substantial harm to producers of the same, similar or competing products. Not later than one year after the enactment of this Act \[Oct. 18, 1978\] the President shall report to the President of the Senate, the Speaker of the House of Representatives, and the Chairmen of the House and Senate Appropriations Committees on the progress made in carrying out this section.”
 
  __Policy With Respect to Countries Most Seriously Affected by Food Shortages; Presidential Reports to Congress__ 
 
-[Pub. L. 93–559, § 55(a)][/us/pl/93/559/s55/a], Dec. 30, 1974, [88 Stat. 1819][/us/stat/88/1819], provided that: 
+[Pub. L. 93–559][/us/pl/93/559], § 55(a), Dec. 30, 1974, [88 Stat. 1819][/us/stat/88/1819], provided that: 
 
 > “The United Nations has designated thirty-two countries as ‘Most Seriously Affected’ by the current economic crisis. These are countries without the internal food production capability or the foreign exchange availability to secure food to meet their immediate food requirements. The Congress calls upon the President and Secretary of State to take the following actions designed to mobilize appropriate resources to meet the food emergency:
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2166.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/spti/m__us_usc_t22_s2167 _us_usc_t22_s2168.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2169)
 
 ----------
 ----------
@@ -83,21 +83,21 @@
 [/us/stat/81/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F449
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F21
-[/us/pl/94/161/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F1
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F860
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
-[/us/pl/92/226/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs101%2Fc%2F1
-[/us/pl/92/226/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs101%2Fc%2F2
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/95/481/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2Fs610
+[/us/pl/95/481/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2FtVI
 [/us/stat/92/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1602
-[/us/pl/93/559/s55/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs55%2Fa
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1819
 
 

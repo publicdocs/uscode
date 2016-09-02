@@ -35,7 +35,7 @@
 
         (2) shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts which are authorized by law and administered under or pursuant to this chapter.
 
-([Pub. L. 103–236, title III, § 313][/us/pl/103/236/s313], Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444]; [Pub. L. 107–228, div. A, title V, § 507(2)][/us/pl/107/228/s507/2], Sept. 30, 2002, [116 Stat. 1394][/us/stat/116/1394].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 313, Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444]; [Pub. L. 107–228, div. A, title V][/us/pl/107/228/dA/tV], § 507(2), Sept. 30, 2002, [116 Stat. 1394][/us/stat/116/1394].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Continued Availability of Funds Following Repeal of Board for International Broadcasting Act of 1973__ 
 
-[Pub. L. 103–317, title V][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1771][/us/stat/108/1771], provided in part: 
+[Pub. L. 103–317, title V][/us/pl/103/317/tV], Aug. 26, 1994, [108 Stat. 1771][/us/stat/108/1771], provided in part: 
 
 > “That on the date upon which the Board for International Broadcasting Act of 1973 ([22 U.S.C. 2871][/us/usc/t22/s2871], et seq.) is repealed, as provided for by section 310(e) of the Foreign Relations Authorization Act, fiscal years 1994 and 1995 ([Public Law 103–236][/us/pl/103/236]; [108 Stat. 442][/us/stat/108/442]) \[[22 U.S.C. 6209(e)][/us/usc/t22/s6209/e]\], funds made available for expenses of the Board for International Broadcasting shall be made available until expended only for expenses necessary to enable the Broadcasting Board of Governors to carry out the authorities provided in [section 305(a) of Public Law 103–236][/us/pl/103/236/s305/a] \[[22 U.S.C. 6204(a)][/us/usc/t22/s6204/a]\], including the appointment of staff personnel as authorized by [section 305(a)(11) of Public Law 103–236][/us/pl/103/236/s305/a/11]: Provided further, That such amounts appropriated to the Board for International Broadcasting in fiscal year 1994 as are certified by the Office of Management and Budget to the Congress as gains due to the fluctuation of foreign currency, may be used in fiscal year 1995 and thereafter either to offset foreign currency losses or to offset unfunded RFE/RL costs associated with the implementation of [Public Law 103–236][/us/pl/103/236] \[see Tables for classification\]: Provided further, That obligated but unexpended balances appropriated in fiscal year 1990 to fund planned transmitter modernization expenses may be expended in fiscal year 1995 for unfunded RFE/RL costs associated with the implementation of [Public Law 103–236][/us/pl/103/236]”.
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/103/236/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs313
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F444
-[/us/pl/107/228/s507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs507%2F2
+[/us/pl/107/228/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtV
 [/us/stat/116/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1394
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
 [/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtV
 [/us/stat/108/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1771
 [/us/usc/t22/s2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2871
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

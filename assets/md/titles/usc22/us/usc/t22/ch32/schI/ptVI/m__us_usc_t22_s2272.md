@@ -17,7 +17,7 @@
 
     The President shall ensure that assistance authorized by this chapter and the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\] to Central American countries is furnished in a manner which fosters demonstrated progress toward and commitment to the objectives set forth in [section 2271 of this title][/us/usc/t22/s2271]. Where necessary to achieve this purpose, the President shall impose conditions on the furnishing of such assistance. In carrying out this section, the President shall consult with the Congress in regard to progress toward the objectives set forth in [section 2271 of this title][/us/usc/t22/s2271], and any conditions imposed on the furnishing of assistance in furtherance of those objectives.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 462, as added [Pub. L. 99–83, title VII, § 701][/us/pl/99/83/s701], Aug. 8, 1985, [99 Stat. 235][/us/stat/99/235].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 462, as added [Pub. L. 99–83, title VII][/us/pl/99/83/tVII], § 701, Aug. 8, 1985, [99 Stat. 235][/us/stat/99/235].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t22/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2271
 [/us/usc/t22/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2271
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs701
+[/us/pl/99/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVII
 [/us/stat/99/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F235
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

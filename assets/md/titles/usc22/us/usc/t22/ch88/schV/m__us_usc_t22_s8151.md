@@ -29,7 +29,7 @@
 
         (3) an assessment of the ability of the approved methods and sampling techniques to detect, identify, and determine the conduct, type, and nature of nuclear activities.
 
-([Pub. L. 109–401, title II, § 251][/us/pl/109/401/s251], Dec. 18, 2006, [120 Stat. 2749][/us/stat/120/2749].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 251, Dec. 18, 2006, [120 Stat. 2749][/us/stat/120/2749].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs251
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2749
 
 

@@ -101,7 +101,7 @@
 
             It is therefore the sense of Congress that United States food assistance should be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries, in order to help feed such individuals.
 
-([Pub. L. 108–25, title III, § 301][/us/pl/108/25/s301], May 27, 2003, [117 Stat. 728][/us/stat/117/728]; [Pub. L. 108–199, div. D, title V, § 595(3)][/us/pl/108/199/s595/3], Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209]; [Pub. L. 110–293, title III, § 301(f)][/us/pl/110/293/s301/f]–(h), July 30, 2008, [122 Stat. 2956][/us/stat/122/2956], 2957.)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 301, May 27, 2003, [117 Stat. 728][/us/stat/117/728]; [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 595(3), Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209]; [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 301(f)–(h), July 30, 2008, [122 Stat. 2956][/us/stat/122/2956], 2957.)
 
  __References in Text__ 
 
@@ -121,9 +121,9 @@ For information regarding constitutionality of certain provisions of [section 30
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1), (3). [Pub. L. 110–293, § 301(f)][/us/pl/110/293/s301/f], substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+    2008—Subsec. (b)(1), (3). [Pub. L. 110–293][/us/pl/110/293], § 301(f), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-    Subsec. (c). [Pub. L. 110–293, § 301(g)][/us/pl/110/293/s301/g], amended subsec. (c) generally. Prior to amendment, text read as follows: “In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
+    Subsec. (c). [Pub. L. 110–293][/us/pl/110/293], § 301(g), amended subsec. (c) generally. Prior to amendment, text read as follows: “In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
 
     “(1) integrate nutrition programs with HIV/AIDS activities, generally;
 
@@ -131,9 +131,9 @@ For information regarding constitutionality of certain provisions of [section 30
 
     “(3) provide support for food and nutrition for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS.”
 
-    Subsec. (d). [Pub. L. 110–293, § 301(h)][/us/pl/110/293/s301/h], amended subsec. (d) generally. Prior to amendment, text read as follows: “An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.”
+    Subsec. (d). [Pub. L. 110–293][/us/pl/110/293], § 301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: “An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.”
 
-    2004—Subsec. (f). [Pub. L. 108–199, § 595(3)][/us/pl/108/199/s595/3], inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
+    2004—Subsec. (f). [Pub. L. 108–199][/us/pl/108/199], § 595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
 
 ----------
 
@@ -149,11 +149,11 @@ For information regarding constitutionality of certain provisions of [section 30
 [/us/usc/t22/s2151b–2/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Fd%2F4
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
-[/us/pl/108/25/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs301
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F728
-[/us/pl/108/199/s595/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs595%2F3
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F209
-[/us/pl/110/293/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Ff
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2956
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -169,9 +169,9 @@ For information regarding constitutionality of certain provisions of [section 30
 [/us/usc/t22/s2151b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/pl/108/25/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs301
-[/us/pl/110/293/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Ff
-[/us/pl/110/293/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fg
-[/us/pl/110/293/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fh
-[/us/pl/108/199/s595/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs595%2F3
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 
 

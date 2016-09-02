@@ -57,11 +57,11 @@
 
         None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
 
-([Pub. L. 96–465, title I, § 820][/us/pl/96/465/s820], Oct. 17, 1980, [94 Stat. 2120][/us/stat/94/2120]; [Pub. L. 99–335, title IV, § 402(a)(2)][/us/pl/99/335/s402/a/2], June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 820, Oct. 17, 1980, [94 Stat. 2120][/us/stat/94/2120]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(2), June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
 
  __Codification__ 
 
-    In subsec. (a)(2), “[section 3727 of title 31][/us/usc/t31/s3727]” substituted for “section 3477 of the Revised Statutes of the United States ([31 U.S.C. 203][/us/usc/t31/s203])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a)(2), “[section 3727 of title 31][/us/usc/t31/s3727]” substituted for “section 3477 of the Revised Statutes of the United States ([31 U.S.C. 203][/us/usc/t31/s203])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -83,13 +83,13 @@
 [/us/usc/t22/s4054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054%2Fa
 [/us/usc/t22/s4054/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054%2Fc%2F3
 [/us/usc/t22/s4044/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4044%2Fb%2F6
-[/us/pl/96/465/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs820
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2120
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
 [/us/usc/t31/s3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3727
 [/us/usc/t31/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs203
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

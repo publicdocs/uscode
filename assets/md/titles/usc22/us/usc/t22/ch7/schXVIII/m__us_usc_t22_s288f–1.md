@@ -17,7 +17,7 @@
 
     The provisions of this subchapter may be extended to the European Space Agency and to the Organization of Eastern Caribbean States (including any office established in the United States by that organization) in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
-([Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 11, as added [Pub. L. 89–353][/us/pl/89/353], Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5]; amended [Pub. L. 98–164, title I, § 120][/us/pl/98/164/s120], Nov. 22, 1983, [97 Stat. 1023][/us/stat/97/1023]; [Pub. L. 100–362][/us/pl/100/362], July 6, 1988, [102 Stat. 819][/us/stat/102/819].)
+([Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 11, as added [Pub. L. 89–353][/us/pl/89/353], Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5]; amended [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 120, Nov. 22, 1983, [97 Stat. 1023][/us/stat/97/1023]; [Pub. L. 100–362][/us/pl/100/362], July 6, 1988, [102 Stat. 819][/us/stat/102/819].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/pl/89/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F353
 [/us/stat/80/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F5
-[/us/pl/98/164/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs120
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1023
 [/us/pl/100/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F362
 [/us/stat/102/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F819

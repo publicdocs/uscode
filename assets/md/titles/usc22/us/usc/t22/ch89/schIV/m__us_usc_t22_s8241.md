@@ -35,7 +35,7 @@
 
         Not later than 180 days after August 3, 2007, the Secretary shall submit to the appropriate congressional committees a report containing a description of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving or preparing to serve in nondemocratic countries or democratic transition countries.
 
-([Pub. L. 110–53, title XXI, § 2141][/us/pl/110/53/s2141], Aug. 3, 2007, [121 Stat. 534][/us/stat/121/534].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2141, Aug. 3, 2007, [121 Stat. 534][/us/stat/121/534].)
 
  __Change of Name__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2141
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F534
 [/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
 [/us/usc/t22/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021

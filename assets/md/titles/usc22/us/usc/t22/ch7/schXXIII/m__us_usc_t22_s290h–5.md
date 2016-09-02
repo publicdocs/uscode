@@ -43,7 +43,7 @@
 
         (3) Members of the advisory council shall receive no compensation for their services but may be allowed travel and other expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703], which are incurred by them in the performance of the functions under this subsection.
 
-([Pub. L. 96–533, title V, § 507][/us/pl/96/533/s507], Dec. 16, 1980, [94 Stat. 3154][/us/stat/94/3154]; [Pub. L. 101–167, title II][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1209][/us/stat/103/1209].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 507, Dec. 16, 1980, [94 Stat. 3154][/us/stat/94/3154]; [Pub. L. 101–167, title II][/us/pl/101/167/tII], Nov. 21, 1989, [103 Stat. 1209][/us/stat/103/1209].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–167, title II][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1209][/us/stat/103/1209], provided: 
+[Pub. L. 101–167, title II][/us/pl/101/167/tII], Nov. 21, 1989, [103 Stat. 1209][/us/stat/103/1209], provided: 
 
 > “That the amendment to section 507(a)(1) of such Act \[[22 U.S.C. 290h–5(a)(1)][/us/usc/t22/s290h–5/a/1]\] shall not affect an appointment made to the Board prior to the date of enactment of this Act \[Nov. 21, 1989\]”.
 
@@ -65,12 +65,12 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/96/533/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs507
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3154
-[/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
+[/us/pl/101/167/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtII
 [/us/stat/103/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1209
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
-[/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
+[/us/pl/101/167/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtII
 [/us/stat/103/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1209
 [/us/usc/t22/s290h–5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%935%2Fa%2F1
 

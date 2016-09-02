@@ -17,11 +17,11 @@
 
     There shall remain vested in the Government of the United States or its agencies or instrumentalities all the right, title, and interest of the said Government or its agencies or instrumentalities to all real and personal property within the Philippine Islands as may now be vested in, or later be acquired by the Government of the United States or any of its agencies or instrumentalities.
 
-([July 3, 1946, ch. 536, § 2][/us/act/1946-07-03/ch536/s2], [60 Stat. 418][/us/stat/60/418].)
+([July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], § 2, [60 Stat. 418][/us/stat/60/418].)
 
  __Short Title__ 
 
-[Act July 3, 1946, ch. 536, § 1][/us/act/1946-07-03/ch536/s1], [60 Stat. 418][/us/stat/60/418], provided that: 
+[Act July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], § 1, [60 Stat. 418][/us/stat/60/418], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Philippine Property Act of 1946’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1946-07-03/ch536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536%2Fs2
+[/us/act/1946-07-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536
 [/us/stat/60/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F418
-[/us/act/1946-07-03/ch536/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536%2Fs1
+[/us/act/1946-07-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536
 [/us/stat/60/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F418
 
 

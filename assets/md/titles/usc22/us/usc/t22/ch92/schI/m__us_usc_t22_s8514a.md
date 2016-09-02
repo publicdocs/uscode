@@ -87,7 +87,7 @@
 
             (B) impose such other sanctions from among the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note) as the President determines appropriate.
 
-([Pub. L. 111–195, title I, § 105A][/us/pl/111/195/s105A], as added [Pub. L. 112–158, title IV, § 402(a)][/us/pl/112/158/s402/a], Aug. 10, 2012, [126 Stat. 1252][/us/stat/126/1252].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 105A, as added [Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 402(a), Aug. 10, 2012, [126 Stat. 1252][/us/stat/126/1252].)
 
 ----------
 
@@ -103,8 +103,8 @@
 [/us/usc/t22/s8514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fc
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/195/s105A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs105A
-[/us/pl/112/158/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs402%2Fa
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1252
 
 

@@ -17,7 +17,7 @@
 
     Fees for the consular certification of invoices shall be, and they are, included with the fees for official services for which the President is authorized by [section 4219 of this title][/us/usc/t22/s4219] to prescribe rates or tariffs.
 
-([Apr. 5, 1906, ch. 1366, § 9][/us/act/1906-04-05/ch1366/s9], [34 Stat. 101][/us/stat/34/101].)
+([Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 9, [34 Stat. 101][/us/stat/34/101].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4219
-[/us/act/1906-04-05/ch1366/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs9
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F101
 [/us/usc/t22/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1181
 [/us/usc/t22/s84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs84

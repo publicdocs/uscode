@@ -17,7 +17,7 @@
 
     The policies and operations of the representatives of the United States on the Bank shall be coordinated with other United States policies in such manner as the President shall direct.
 
-([Pub. L. 89–369, § 4][/us/pl/89/369/s4], Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71]; [Pub. L. 101–240, title V, § 541(d)(2)][/us/pl/101/240/s541/d/2], (f)(3), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518], 2519.)
+([Pub. L. 89–369][/us/pl/89/369], § 4, Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71]; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(2), (f)(3), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518], 2519.)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/369/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs4
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/stat/80/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F71
-[/us/pl/101/240/s541/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F2
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 

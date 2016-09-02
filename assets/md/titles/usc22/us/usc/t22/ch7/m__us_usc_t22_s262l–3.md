@@ -111,7 +111,7 @@
 
         Of the funds appropriated by this Act to carry out the provisions of [section 2763 of this title][/us/usc/t22/s2763], not less than $15,000,000 shall be made available to countries in Africa for programs which support conservation and biological diversity.
 
-([Pub. L. 102–391, title V, § 532][/us/pl/102/391/s532], Oct. 6, 1992, [106 Stat. 1666][/us/stat/106/1666].)
+([Pub. L. 102–391, title V][/us/pl/102/391/tV], § 532, Oct. 6, 1992, [106 Stat. 1666][/us/stat/106/1666].)
 
  __References in Text__ 
 
@@ -148,7 +148,7 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
-[/us/pl/102/391/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs532
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1666
 [/us/pl/101/513/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs533
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240

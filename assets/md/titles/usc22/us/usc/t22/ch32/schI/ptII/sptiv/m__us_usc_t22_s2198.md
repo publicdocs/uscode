@@ -37,23 +37,23 @@
 
         (2) does not include a branch, however organized, of a bank or other financial institution that is organized under the laws of a country in which the Corporation does not operate.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 238, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 815][/us/stat/83/815]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 104(a), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 97–65, § 7][/us/pl/97/65/s7], Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024]; [Pub. L. 99–204, § 17(a)][/us/pl/99/204/s17/a], Dec. 23, 1985, [99 Stat. 1676][/us/stat/99/1676]; [Pub. L. 102–549, title I, § 106][/us/pl/102/549/s106], Oct. 28, 1992, [106 Stat. 3653][/us/stat/106/3653]; [Pub. L. 108–158][/us/pl/108/158], §§ 4(b), 5(b), Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 238, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 815][/us/stat/83/815]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 104(a), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 97–65][/us/pl/97/65], § 7, Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024]; [Pub. L. 99–204][/us/pl/99/204], § 17(a), Dec. 23, 1985, [99 Stat. 1676][/us/stat/99/1676]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 106, Oct. 28, 1992, [106 Stat. 3653][/us/stat/106/3653]; [Pub. L. 108–158][/us/pl/108/158], §§ 4(b), 5(b), Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
 
  __References in Text__ 
 
     The Foreign Assistance Act of 1969, referred to in subsec. (f), is [Pub. L. 91–175][/us/pl/91/175], Dec. 30, 1969, [83 Stat. 805][/us/stat/83/805], as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
-    [Section 1509(b)(3) of this title][/us/usc/t22/s1509/b/3], referred to in subsec. (f), was repealed by [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a)(4), [68 Stat. 861][/us/stat/68/861].
+    [Section 1509(b)(3) of this title][/us/usc/t22/s1509/b/3], referred to in subsec. (f), was repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a)(4), [68 Stat. 861][/us/stat/68/861].
 
     Sections 1872(b) and 1933(b) of this title, referred to in subsec. (f), were repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460]. [Section 642(b) of Pub. L. 87–195][/us/pl/87/195/s642/b] provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of [Pub. L. 87–195][/us/pl/87/195]. See sections 2163 and 2351 of this title.
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–158, § 4(b)][/us/pl/108/158/s4/b], inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
+    2003—Subsec. (b). [Pub. L. 108–158][/us/pl/108/158], § 4(b), inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
 
-    Subsec. (d). [Pub. L. 108–158, § 5(b)(1)][/us/pl/108/158/s5/b/1], struck out “and” after semicolon at end.
+    Subsec. (d). [Pub. L. 108–158][/us/pl/108/158], § 5(b)(1), struck out “and” after semicolon at end.
 
-    Subsec. (g). [Pub. L. 108–158, § 5(b)(2)][/us/pl/108/158/s5/b/2], (3), added subsec. (g).
+    Subsec. (g). [Pub. L. 108–158][/us/pl/108/158], § 5(b)(2), (3), added subsec. (g).
 
     1992—Subsecs. (c) to (f). [Pub. L. 102–549][/us/pl/102/549] struck out “and” at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
 
@@ -78,11 +78,11 @@
 [/us/stat/83/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F815
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F22
-[/us/pl/97/65/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs7
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1024
-[/us/pl/99/204/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs17%2Fa
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1676
-[/us/pl/102/549/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs106
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3653
 [/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/stat/117/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1950
@@ -90,15 +90,15 @@
 [/us/stat/83/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F805
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s1509/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1509%2Fb%2F3
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/act/1954-08-26/ch937/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2FtV
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
 [/us/pl/87/195/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs642%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/158/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs4%2Fb
-[/us/pl/108/158/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs5%2Fb%2F1
-[/us/pl/108/158/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs5%2Fb%2F2
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65

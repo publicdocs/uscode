@@ -19,7 +19,7 @@
 
     (b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated $246,100,000 to remain available until expended.
 
-([July 31, 1945, ch. 339, § 23][/us/act/1945-07-31/ch339/s23], as added [Pub. L. 91–599][/us/pl/91/599], ch. 1, § 1, Dec. 30, 1970, [84 Stat. 1657][/us/stat/84/1657].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 23, as added [Pub. L. 91–599][/us/pl/91/599], ch. 1, § 1, Dec. 30, 1970, [84 Stat. 1657][/us/stat/84/1657].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs23
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/pl/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F599
 [/us/stat/84/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1657
 

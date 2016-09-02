@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law that restricts assistance to foreign countries (other than sections 2304 and 2371 of this title), the President is authorized to furnish, on such terms and conditions as the President may determine, assistance to foreign countries in order to enhance the ability of their law enforcement personnel to deter terrorists and terrorist groups from engaging in international terrorist acts such as bombing, kidnapping, assassination, hostage taking, and hijacking. Such assistance may include training services and the provision of equipment and other commodities related to bomb detection and disposal, management of hostage situations, physical security, and other matters relating to the detection, deterrence, and prevention of acts of terrorism, the resolution of terrorist incidents, and the apprehension of those involved in such acts.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 571, as added [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; amended [Pub. L. 104–164, title I, § 121(a)][/us/pl/104/164/s121/a], July 21, 1996, [110 Stat. 1428][/us/stat/110/1428].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 571, as added [Pub. L. 98–151][/us/pl/98/151], § 101(b)(2), Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; amended [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 121(a), July 21, 1996, [110 Stat. 1428][/us/stat/110/1428].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-Section 203 of title II of H.R. 2992, as enacted into permanent law by [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972], provided that: 
+Section 203 of title II of H.R. 2992, as enacted into permanent law by [Pub. L. 98–151][/us/pl/98/151], § 101(b)(2), Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972], provided that: 
 
 > “This title \[enacting this part and amending sections 2304 and 2403 of this title\] shall take effect on the date of enactment of this Act \[Nov. 14, 1983\].”
 
@@ -45,14 +45,14 @@ Section 203 of title II of H.R. 2992, as enacted into permanent law by [Pub. L. 
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/98/151/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Fb%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F972
-[/us/pl/104/164/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs121%2Fa
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1428
 [/us/pl/87/195/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs571
 [/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
-[/us/pl/98/151/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Fb%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F972
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

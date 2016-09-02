@@ -17,7 +17,7 @@
 
     It is the policy of the United States to further assist the Government of Ukraine in restoring its sovereignty and territorial integrity to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe, the Caucasus, and Central Asia. That policy shall be carried into effect, among other things, through a comprehensive effort, in coordination with allies and partners of the United States where appropriate, that includes economic sanctions, diplomacy, assistance for the people of Ukraine, and the provision of military capabilities to the Government of Ukraine that will enhance the ability of that Government to defend itself and to restore its sovereignty and territorial integrity in the face of unlawful actions by the Government of the Russian Federation.
 
-([Pub. L. 113–272, § 3][/us/pl/113/272/s3], Dec. 18, 2014, [128 Stat. 2953][/us/stat/128/2953].)
+([Pub. L. 113–272][/us/pl/113/272], § 3, Dec. 18, 2014, [128 Stat. 2953][/us/stat/128/2953].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/272/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs3
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2953
 
 

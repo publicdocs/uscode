@@ -17,11 +17,11 @@
 
     The President is hereby authorized to accept membership for the United States in the International Development Association (hereinafter referred to as the “Association”), provided for by the Articles of Agreement (hereinafter referred to as the “Articles”) of the Association deposited in the archives of the International Bank for Reconstruction and Development.
 
-([Pub. L. 86–565, § 2][/us/pl/86/565/s2], June 30, 1960, [74 Stat. 293][/us/stat/74/293].)
+([Pub. L. 86–565][/us/pl/86/565], § 2, June 30, 1960, [74 Stat. 293][/us/stat/74/293].)
 
  __Short Title__ 
 
-[Pub. L. 86–565, § 1][/us/pl/86/565/s1], June 30, 1960, [74 Stat. 293][/us/stat/74/293], provided that: 
+[Pub. L. 86–565][/us/pl/86/565], § 1, June 30, 1960, [74 Stat. 293][/us/stat/74/293], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘International Development Association Act’.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/86/565/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs2
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
 [/us/stat/74/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F293
-[/us/pl/86/565/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs1
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
 [/us/stat/74/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F293
 [/us/usc/t31/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5152
 

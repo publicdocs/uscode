@@ -37,7 +37,7 @@
 
     (3) review the programs, operations, and fiscal audits of each administering body.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 709, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3668][/us/stat/106/3668].)
+([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 709, as added [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(a), Oct. 28, 1992, [106 Stat. 3668][/us/stat/106/3668].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fa
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3668
 [/us/pl/87/195/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs709
 [/us/stat/75/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F465

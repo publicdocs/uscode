@@ -53,7 +53,7 @@
 
         Not later than 120 days after December 16, 2014, and after consultation with the appropriate congressional committees, the Administrator shall submit a report to such committees describing the guidance to implement the SGP.
 
-([Pub. L. 113–235, div. J, title VII, § 7080][/us/pl/113/235/s7080], Dec. 16, 2014, [128 Stat. 2682][/us/stat/128/2682]; [Pub. L. 114–113, div. K, title VII, § 7034(q)(3)][/us/pl/114/113/s7034/q/3], Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768].)
+([Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7080, Dec. 16, 2014, [128 Stat. 2682][/us/stat/128/2682]; [Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7034(q)(3), Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768].)
 
  __References in Text__ 
 
@@ -71,19 +71,19 @@
 
  __Amendments__ 
 
-    2015—Subsecs. (b), (c). [Pub. L. 114–113, § 7034(q)(3)(A)][/us/pl/114/113/s7034/q/3/A], substituted “Awards” for “Grants”.
+    2015—Subsecs. (b), (c). [Pub. L. 114–113][/us/pl/114/113], § 7034(q)(3)(A), substituted “Awards” for “Grants”.
 
-    Subsec. (c)(3). [Pub. L. 114–113, § 7034(q)(3)(B)][/us/pl/114/113/s7034/q/3/B]–(D), added par. (3).
+    Subsec. (c)(3). [Pub. L. 114–113][/us/pl/114/113], § 7034(q)(3)(B)–(D), added par. (3).
 
-    Subsec. (e)(3). [Pub. L. 114–113, § 7034(q)(3)(E)][/us/pl/114/113/s7034/q/3/E], substituted “20” for “12” and “administrative expenses, and other necessary support associated with managing and strengthening” for “administrative and oversight expenses associated with managing”.
+    Subsec. (e)(3). [Pub. L. 114–113][/us/pl/114/113], § 7034(q)(3)(E), substituted “20” for “12” and “administrative expenses, and other necessary support associated with managing and strengthening” for “administrative and oversight expenses associated with managing”.
 
  __Definitions__ 
 
-[Pub. L. 114–113, div. K, title VII, § 7034(q)(4)][/us/pl/114/113/s7034/q/4], Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768], provided that: 
+[Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7034(q)(4), Dec. 18, 2015, [129 Stat. 2768][/us/stat/129/2768], provided that: 
 
 > “For the purposes of [section 7080 of Public Law 113–235][/us/pl/113/235/s7080] \[this section\], ‘eligible entities’ shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 in USAID funding over the previous five years: Provided, That departments or centers of such educational institutions may be considered individually in determining such eligibility.”
 
-[Pub. L. 113–235, div. J, title VII, § 7034(t)(1)][/us/pl/113/235/s7034/t/1], Dec. 16, 2014, [128 Stat. 2627][/us/stat/128/2627], provided that: 
+[Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7034(t)(1), Dec. 16, 2014, [128 Stat. 2627][/us/stat/128/2627], provided that: 
 
 > “Unless otherwise defined in this Act \[div. J of [Pub. L. 113–235][/us/pl/113/235], [128 Stat. 2573][/us/stat/128/2573], see Tables for classification\], for purposes of this Act the term ‘appropriate congressional committees’ shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives.”
 
@@ -99,9 +99,9 @@
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2413%2Fa
-[/us/pl/113/235/s7080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7080
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2682
-[/us/pl/114/113/s7034/q/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2768
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -113,13 +113,13 @@
 [/us/stat/128/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2132
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2573
-[/us/pl/114/113/s7034/q/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3%2FA
-[/us/pl/114/113/s7034/q/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3%2FB
-[/us/pl/114/113/s7034/q/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F3%2FE
-[/us/pl/114/113/s7034/q/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fq%2F4
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2768
 [/us/pl/113/235/s7080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7080
-[/us/pl/113/235/s7034/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Ft%2F1
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2627
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2573

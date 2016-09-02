@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contributions provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $3,240,000,000 for payment by the Secretary of the Treasury: Provided, however, That not more than $850,000,000 of such sum may be made available for the fiscal year 1982 and not more than $945,000,000 of such sum may be made available for the fiscal year 1983.
 
-([Pub. L. 86–565, § 17][/us/pl/86/565/s17], as added [Pub. L. 97–35, title XIII, § 1321][/us/pl/97/35/s1321], Aug. 13, 1981, [95 Stat. 740][/us/stat/95/740].)
+([Pub. L. 86–565][/us/pl/86/565], § 17, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1321, Aug. 13, 1981, [95 Stat. 740][/us/stat/95/740].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/86/565/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs17
-[/us/pl/97/35/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1321
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F740
 [/us/pl/97/35/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1372
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i

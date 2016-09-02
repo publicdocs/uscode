@@ -69,15 +69,15 @@
 
         such related problems as the Secretary of State may determine to be in need of research, development, or study in order to carry out the provisions of this chapter.
 
-([Pub. L. 87–297, title III, § 301][/us/pl/87/297/s301], formerly § 31, Sept. 26, 1961, [75 Stat. 633][/us/stat/75/633]; [Pub. L. 88–186, § 5][/us/pl/88/186/s5], Nov. 26, 1963, [77 Stat. 342][/us/stat/77/342]; [Pub. L. 95–108, § 3][/us/pl/95/108/s3], Aug. 17, 1977, [91 Stat. 871][/us/stat/91/871]; [Pub. L. 97–339, § 4][/us/pl/97/339/s4], Oct. 15, 1982, [96 Stat. 1636][/us/stat/96/1636]; [Pub. L. 103–236, title VII, § 719(c)][/us/pl/103/236/s719/c], Apr. 30, 1994, [108 Stat. 501][/us/stat/108/501]; renumbered § 301 and amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(6), (21), Oct. 21, 1998, [112 Stat. 2681–769][/us/stat/112/2681-769], 2681–772.)
+([Pub. L. 87–297, title III][/us/pl/87/297/tIII], § 301, formerly § 31, Sept. 26, 1961, [75 Stat. 633][/us/stat/75/633]; [Pub. L. 88–186][/us/pl/88/186], § 5, Nov. 26, 1963, [77 Stat. 342][/us/stat/77/342]; [Pub. L. 95–108][/us/pl/95/108], § 3, Aug. 17, 1977, [91 Stat. 871][/us/stat/91/871]; [Pub. L. 97–339][/us/pl/97/339], § 4, Oct. 15, 1982, [96 Stat. 1636][/us/stat/96/1636]; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 719(c), Apr. 30, 1994, [108 Stat. 501][/us/stat/108/501]; renumbered § 301 and amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1223(6), (21), Oct. 21, 1998, [112 Stat. 2681–769][/us/stat/112/2681-769], 2681–772.)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–277, § 1223(6)(A)][/us/pl/105/277/s1223/6/A]–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under [section 2575 of this title][/us/usc/t22/s2575]” after “other Government agencies”, and substituted “The authority of the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 1223(6)(A)–(E), in introductory provisions, inserted “this subchapter in” after “powers in”, substituted “Secretary of State” for “Director” wherever appearing and “ensure” for “insure” in two places, struck out “in accordance with procedures established under [section 2575 of this title][/us/usc/t22/s2575]” after “other Government agencies”, and substituted “The authority of the Secretary under this chapter with respect to research, development, and other studies concerning arms control, nonproliferation, and disarmament shall be limited to participation in the following:” for “The authority of the Director with respect to research, development, and other studies shall be limited to participation in the following insofar as they relate to arms control, nonproliferation, and disarmament:”.
 
-    Subsec. (l). [Pub. L. 105–277, § 1223(6)(F)][/us/pl/105/277/s1223/6/F], inserted “and” at end.
+    Subsec. (l). [Pub. L. 105–277][/us/pl/105/277], § 1223(6)(F), inserted “and” at end.
 
-    Subsec. (m). [Pub. L. 105–277, § 1223(6)(B)][/us/pl/105/277/s1223/6/B], substituted “Secretary of State” for “Director”.
+    Subsec. (m). [Pub. L. 105–277][/us/pl/105/277], § 1223(6)(B), substituted “Secretary of State” for “Director”.
 
     1994—[Pub. L. 103–236][/us/pl/103/236], in introductory provisions, substituted “fields of arms control, nonproliferation, and disarmament” for “field of arms control and disarmament” in three places, in first sentence, inserted “and nonproliferation” after “disarmament”, and in fourth sentence, inserted “, nonproliferation,” after “arms control” wherever appearing.
 
@@ -93,7 +93,7 @@
 
  __Report on International Transfer of Conventional Arms__ 
 
-    [Pub. L. 92–352, title III, § 302][/us/pl/92/352/s302], July 13, 1972, [86 Stat. 495][/us/stat/86/495], directed Arms Control and Disarmament Agency, with cooperation of other agencies, to prepare a comprehensive report on international transfer of conventional arms and submit this report no later than one year after July 13, 1972, with an interim report submitted no later than six months after July 13, 1972.
+    [Pub. L. 92–352, title III][/us/pl/92/352/tIII], § 302, July 13, 1972, [86 Stat. 495][/us/stat/86/495], directed Arms Control and Disarmament Agency, with cooperation of other agencies, to prepare a comprehensive report on international transfer of conventional arms and submit this report no later than one year after July 13, 1972, with an interim report submitted no later than six months after July 13, 1972.
 
 ----------
 
@@ -102,22 +102,22 @@
 ----------
 ----------
 
-[/us/pl/87/297/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs301
+[/us/pl/87/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtIII
 [/us/stat/75/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F633
-[/us/pl/88/186/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F186%2Fs5
+[/us/pl/88/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F186
 [/us/stat/77/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F342
-[/us/pl/95/108/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108%2Fs3
+[/us/pl/95/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108
 [/us/stat/91/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F871
-[/us/pl/97/339/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F339%2Fs4
+[/us/pl/97/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F339
 [/us/stat/96/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1636
-[/us/pl/103/236/s719/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs719%2Fc
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F501
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-769
-[/us/pl/105/277/s1223/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F6%2FA
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2575
-[/us/pl/105/277/s1223/6/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F6%2FF
-[/us/pl/105/277/s1223/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F6%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/97/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F339
 [/us/pl/95/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108
@@ -125,7 +125,7 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
-[/us/pl/92/352/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs302
+[/us/pl/92/352/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2FtIII
 [/us/stat/86/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F495
 
 

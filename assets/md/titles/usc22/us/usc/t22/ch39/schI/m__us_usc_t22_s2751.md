@@ -37,7 +37,7 @@
 
     It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 1, Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321]; [Pub. L. 91–672, § 4][/us/pl/91/672/s4], Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053]; [Pub. L. 93–189, § 25(1)][/us/pl/93/189/s25/1], Dec. 17, 1973, [87 Stat. 729][/us/stat/87/729]; [Pub. L. 94–329, title II, § 202][/us/pl/94/329/s202], formerly § 202(a), June 30, 1976, [90 Stat. 734][/us/stat/90/734], renumbered and amended [Pub. L. 95–384][/us/pl/95/384], §§ 15(a), 29(c)(1)(A), Sept. 26, 1978, [92 Stat. 739][/us/stat/92/739], 747; [Pub. L. 97–113, title VII, § 734(a)(10)][/us/pl/97/113/s734/a/10], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 1, Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321]; [Pub. L. 91–672][/us/pl/91/672], § 4, Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053]; [Pub. L. 93–189][/us/pl/93/189], § 25(1), Dec. 17, 1973, [87 Stat. 729][/us/stat/87/729]; [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 202, formerly § 202(a), June 30, 1976, [90 Stat. 734][/us/stat/90/734], renumbered and amended [Pub. L. 95–384][/us/pl/95/384], §§ 15(a), 29(c)(1)(A), Sept. 26, 1978, [92 Stat. 739][/us/stat/92/739], 747; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(10), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act__ 
 
-[Pub. L. 94–329, title II, § 201(b)][/us/pl/94/329/s201/b], June 30, 1976, [90 Stat. 734][/us/stat/90/734], provided that: 
+[Pub. L. 94–329, title II][/us/pl/94/329/tII], § 201(b), June 30, 1976, [90 Stat. 734][/us/stat/90/734], provided that: 
 
 > “Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act.”
 
@@ -63,7 +63,7 @@
 
     1981—[Pub. L. 97–113][/us/pl/97/113] struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progress to their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
 
-    1978—[Pub. L. 95–384, § 15(a)][/us/pl/95/384/s15/a], inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
+    1978—[Pub. L. 95–384][/us/pl/95/384], § 15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
     1976—[Pub. L. 94–329][/us/pl/94/329] substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
 
@@ -77,43 +77,49 @@
 
 > “This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and [section 2341 of this title][/us/usc/t22/s2341]\] shall take effect on July 1, 1968.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–123][/us/pl/114/123], § 1, Feb. 18, 2016, [130 Stat. 117][/us/stat/130/117], provided that: 
+
+> “This Act \[enacting provisions set out as a note under [section 2753 of this title][/us/usc/t22/s2753]\] may be cited as the ‘United States-Jordan Defense Cooperation Act of 2015’.”
+
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–266, § 1][/us/pl/111/266/s1], Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], provided that: 
+[Pub. L. 111–266][/us/pl/111/266], § 1, Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], provided that: 
 
 > “This Act \[amending sections 2321h, 2753, 2755, 2761, 2765, 2776, 2778, 2779, 2779a, 2796a, and 2796b of this title and enacting provisions set out as notes under this section and [section 2778 of this title][/us/usc/t22/s2778]\] may be cited as the ‘Security Cooperation Act of 2010’.”
 
-[Pub. L. 111–266, title I, § 101][/us/pl/111/266/s101], Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], provided that: 
+[Pub. L. 111–266, title I][/us/pl/111/266/tI], § 101, Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], provided that: 
 
 > “This title \[amending sections 2753, 2755, 2765, 2776, 2778, 2779, and 2779a of this title and enacting provisions set out as notes under [section 2778 of this title][/us/usc/t22/s2778]\] may be cited as the ‘Defense Trade Cooperation Treaties Implementation Act of 2010’.”
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, § 1001\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–485, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, § 1001\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–485, provided that: 
 
 > “This division \[div. B of H.R. 3427 as enacted by [section 1000(a)(7) of Pub. L. 106–113][/us/pl/106/113/s1000/a/7], see Tables for classification\] may be cited as the ‘Arms Control, Nonproliferation, and Security Assistance Act of 1999’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–194, § 1][/us/pl/105/194/s1], July 14, 1998, [112 Stat. 627][/us/stat/112/627], provided that: 
+[Pub. L. 105–194][/us/pl/105/194], § 1, July 14, 1998, [112 Stat. 627][/us/stat/112/627], provided that: 
 
 > “This Act \[amending [section 2799aa–1 of this title][/us/usc/t22/s2799aa–1] and enacting provisions set out as notes under [section 2799aa–1 of this title][/us/usc/t22/s2799aa–1]\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–228, § 1][/us/pl/102/228/s1], Dec. 12, 1991, [105 Stat. 1691][/us/stat/105/1691], provided that: 
+[Pub. L. 102–228][/us/pl/102/228], § 1, Dec. 12, 1991, [105 Stat. 1691][/us/stat/105/1691], provided that: 
 
 > “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under [section 2551 of this title][/us/usc/t22/s2551]\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
  __Short Title__ 
 
-[Pub. L. 90–629, § 1][/us/pl/90/629/s1], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended by [Pub. L. 94–329, title II, § 201(a)][/us/pl/94/329/s201/a], June 30, 1976, [90 Stat. 734][/us/stat/90/734], provided: 
+[Pub. L. 90–629][/us/pl/90/629], § 1, Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended by [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 201(a), June 30, 1976, [90 Stat. 734][/us/stat/90/734], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and [section 2341 of this title][/us/usc/t22/s2341]\] may be cited as the ‘Arms Export Control Act’.”
 
  __Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1225][/us/pl/111/84/s1225], Oct. 28, 2009, [123 Stat. 2523][/us/stat/123/2523], provided that:
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1225, Oct. 28, 2009, [123 Stat. 2523][/us/stat/123/2523], provided that:
 
 >     “(a) __Program Required.—__ 
 
@@ -219,7 +225,7 @@
 
  __Tracking and Monitoring of Defense Articles Provided to the Government of Iraq and Other Individuals and Groups in Iraq__ 
 
-[Pub. L. 110–181, div. A, title XII, § 1228][/us/pl/110/181/s1228], Jan. 28, 2008, [122 Stat. 377][/us/stat/122/377], provided that:
+[Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1228, Jan. 28, 2008, [122 Stat. 377][/us/stat/122/377], provided that:
 
 >     “(a)  __Export and Transfer Control Policy__  __.—__ 
 
@@ -297,7 +303,7 @@
 
  __Man-Portable Air Defense Systems (MANPADS)__ 
 
-[Pub. L. 109–472, § 12][/us/pl/109/472/s12], Jan. 11, 2007, [120 Stat. 3558][/us/stat/120/3558], provided that:
+[Pub. L. 109–472][/us/pl/109/472], § 12, Jan. 11, 2007, [120 Stat. 3558][/us/stat/120/3558], provided that:
 
 >     “(a)  __Statement of Policy__  __.—__ 
 
@@ -365,7 +371,7 @@
 
 >             “(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
 
-[Pub. L. 108–458, title IV, § 4026][/us/pl/108/458/s4026], Dec. 17, 2004, [118 Stat. 3724][/us/stat/118/3724], provided that:
+[Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4026, Dec. 17, 2004, [118 Stat. 3724][/us/stat/118/3724], provided that:
 
 >     “(a) __United States Policy on Nonproliferation and Export Control.—__ 
 
@@ -477,7 +483,7 @@
 
  __Bilateral Exchanges and Trade in Defense Articles and Defense Services Between the United States and the United Kingdom and Australia__ 
 
-[Pub. L. 108–375, div. A, title XII, § 1225][/us/pl/108/375/s1225], Oct. 28, 2004, [118 Stat. 2091][/us/stat/118/2091], provided that:
+[Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1225, Oct. 28, 2004, [118 Stat. 2091][/us/stat/118/2091], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -493,13 +499,13 @@
 
  __Eligibility of Panama Under Arms Export Control Act__ 
 
-[Pub. L. 104–164, title I, § 154][/us/pl/104/164/s154], July 21, 1996, [110 Stat. 1440][/us/stat/110/1440], provided that: 
+[Pub. L. 104–164, title I][/us/pl/104/164/tI], § 154, July 21, 1996, [110 Stat. 1440][/us/stat/110/1440], provided that: 
 
 > “The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.), except as otherwise specifically provided by law.”
 
  __Reports on Counterproliferation Activities and Programs__ 
 
-[Pub. L. 103–337, div. A, title XV, § 1503][/us/pl/103/337/s1503], Oct. 5, 1994, [108 Stat. 2916][/us/stat/108/2916]; [Pub. L. 104–201, div. A, title XIII, § 1309(d)][/us/pl/104/201/s1309/d], Sept. 23, 1996, [110 Stat. 2710][/us/stat/110/2710]; [Pub. L. 106–65, div. A, title XV, § 1504(c)][/us/pl/106/65/s1504/c], Oct. 5, 1999, [113 Stat. 808][/us/stat/113/808]; [Pub. L. 107–314, div. A, title XII, § 1208(b)][/us/pl/107/314/s1208/b], (c), Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668]; [Pub. L. 110–181, div. A, title XII, § 1256(d)][/us/pl/110/181/s1256/d], Jan. 28, 2008, [122 Stat. 404][/us/stat/122/404], provided that:
+[Pub. L. 103–337, div. A, title XV][/us/pl/103/337/dA/tXV], § 1503, Oct. 5, 1994, [108 Stat. 2916][/us/stat/108/2916]; [Pub. L. 104–201, div. A, title XIII][/us/pl/104/201/dA/tXIII], § 1309(d), Sept. 23, 1996, [110 Stat. 2710][/us/stat/110/2710]; [Pub. L. 106–65, div. A, title XV][/us/pl/106/65/dA/tXV], § 1504(c), Oct. 5, 1999, [113 Stat. 808][/us/stat/113/808]; [Pub. L. 107–314, div. A, title XII][/us/pl/107/314/dA/tXII], § 1208(b), (c), Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1256(d), Jan. 28, 2008, [122 Stat. 404][/us/stat/122/404], provided that:
 
 >     “(a)  __Biennial Report Required__  __.—__ 
 
@@ -539,7 +545,7 @@
 
  __Arab League Boycott of Israel__ 
 
-[Pub. L. 103–236, title V, § 564][/us/pl/103/236/s564], Apr. 30, 1994, [108 Stat. 484][/us/stat/108/484], as amended by [Pub. L. 103–415, § 1][/us/pl/103/415/s1](l), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that:
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 564, Apr. 30, 1994, [108 Stat. 484][/us/stat/108/484], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(l), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -585,7 +591,7 @@
 
  __Counterproliferation Policy and Programs of United States__ 
 
-[Pub. L. 103–160, div. A, title XVI][/us/pl/103/160], §§ 1603, 1605, 1607, Nov. 30, 1993, [107 Stat. 1843][/us/stat/107/1843], 1845, 1847, as amended by [Pub. L. 103–337, div. A, title XV][/us/pl/103/337], §§ 1502, 1505(a), (b), Oct. 5, 1994, [108 Stat. 2914][/us/stat/108/2914], 2919; [Pub. L. 104–106, div. A, title XV, § 1504(b)][/us/pl/104/106/s1504/b], Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513]; [Pub. L. 104–201, div. A, title XIII, § 1309(a)][/us/pl/104/201/s1309/a]–(c), Sept. 23, 1996, [110 Stat. 2710][/us/stat/110/2710]; [Pub. L. 106–65, div. A, title XV, § 1504(a)][/us/pl/106/65/s1504/a], (b), Oct. 5, 1999, [113 Stat. 808][/us/stat/113/808]; [Pub. L. 107–314, div. A, title XII, § 1208(a)][/us/pl/107/314/s1208/a], (d), Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668]; [Pub. L. 109–163, div. A, title X, § 1056(f)][/us/pl/109/163/s1056/f], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 110–181, div. A, title XII, § 1256(a)][/us/pl/110/181/s1256/a]–(c), Jan. 28, 2008, [122 Stat. 403][/us/stat/122/403]; [Pub. L. 112–239, div. A, title X, § 1076(c)(1)][/us/pl/112/239/s1076/c/1], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that:
+[Pub. L. 103–160, div. A, title XVI][/us/pl/103/160/dA/tXVI], §§ 1603, 1605, 1607, Nov. 30, 1993, [107 Stat. 1843][/us/stat/107/1843], 1845, 1847, as amended by [Pub. L. 103–337, div. A, title XV][/us/pl/103/337/dA/tXV], §§ 1502, 1505(a), (b), Oct. 5, 1994, [108 Stat. 2914][/us/stat/108/2914], 2919; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1504(b), Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513]; [Pub. L. 104–201, div. A, title XIII][/us/pl/104/201/dA/tXIII], § 1309(a)–(c), Sept. 23, 1996, [110 Stat. 2710][/us/stat/110/2710]; [Pub. L. 106–65, div. A, title XV][/us/pl/106/65/dA/tXV], § 1504(a), (b), Oct. 5, 1999, [113 Stat. 808][/us/stat/113/808]; [Pub. L. 107–314, div. A, title XII][/us/pl/107/314/dA/tXII], § 1208(a), (d), Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(f), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1256(a)–(c), Jan. 28, 2008, [122 Stat. 403][/us/stat/122/403]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(1), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that:
 
 > “SEC. 1603. __STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.__ 
 
@@ -727,7 +733,7 @@
 
  __Restriction on Arms Sales to Saudi Arabia and Kuwait__ 
 
-[Pub. L. 102–229, title I, § 104][/us/pl/102/229/s104], Dec. 12, 1991, [105 Stat. 1707][/us/stat/105/1707], provided that:
+[Pub. L. 102–229, title I][/us/pl/102/229/tI], § 104, Dec. 12, 1991, [105 Stat. 1707][/us/stat/105/1707], provided that:
 
 >     “(a)
 
@@ -745,75 +751,75 @@
 
  __Annual Report on Proliferation of Missiles and Essential Components of Nuclear, Biological, and Chemical Weapons__ 
 
-    [Pub. L. 102–190, div. A, title X, § 1097][/us/pl/102/190/s1097], Dec. 5, 1991, [105 Stat. 1489][/us/stat/105/1489], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(c)(3), 1504(d), Feb. 10, 1996, [110 Stat. 507][/us/stat/110/507], 514; [Pub. L. 106–65, div. A, title X, § 1067(9)][/us/pl/106/65/s1067/9], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], required the President to submit to Congress annual reports on transfers by any country of weapons, technology, or materials that can be used to deliver, manufacture, or weaponize nuclear, biological, or chemical weapons to any country (other than certain specified countries) seeking to acquire such weapons, technology, or materials, and specified time, coverage, contents and classification of such reports, prior to repeal by [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(A)][/us/pl/107/228/s1308/g/1/A], Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441].
+    [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1097, Dec. 5, 1991, [105 Stat. 1489][/us/stat/105/1489], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], §§ 1502(c)(3), 1504(d), Feb. 10, 1996, [110 Stat. 507][/us/stat/110/507], 514; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(9), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], required the President to submit to Congress annual reports on transfers by any country of weapons, technology, or materials that can be used to deliver, manufacture, or weaponize nuclear, biological, or chemical weapons to any country (other than certain specified countries) seeking to acquire such weapons, technology, or materials, and specified time, coverage, contents and classification of such reports, prior to repeal by [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1308(g)(1)(A), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441].
 
  __Conventional Arms Transfers__ 
 
-    [Pub. L. 99–83, title I, § 129][/us/pl/99/83/s129], Aug. 8, 1985, [99 Stat. 206][/us/stat/99/206], directed President, at the earliest possible date, in consultation with United States allies, to initiate discussions with the Soviet Union and France aimed at beginning multilateral negotiations to limit and control the transfer of conventional arms to less developed countries, and, within one year after Aug. 8, 1985, submit to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate a report which specifies steps being taken to fulfill such requirements and which examines and analyzes, among specified matters, United States policies concerning the export of conventional arms, especially sophisticated weapons, and possible approaches to developing multilateral limitations on conventional arms sales.
+    [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 129, Aug. 8, 1985, [99 Stat. 206][/us/stat/99/206], directed President, at the earliest possible date, in consultation with United States allies, to initiate discussions with the Soviet Union and France aimed at beginning multilateral negotiations to limit and control the transfer of conventional arms to less developed countries, and, within one year after Aug. 8, 1985, submit to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate a report which specifies steps being taken to fulfill such requirements and which examines and analyzes, among specified matters, United States policies concerning the export of conventional arms, especially sophisticated weapons, and possible approaches to developing multilateral limitations on conventional arms sales.
 
  __Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law__ 
 
-[Pub. L. 97–113, title VII, § 734(c)][/us/pl/97/113/s734/c], Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561], provided that: 
+[Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(c), Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561], provided that: 
 
 > “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
  __Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy__ 
 
-    [Pub. L. 95–384, § 15(b)][/us/pl/95/384/s15/b], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740], directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by [section 15(a) of Pub. L. 95–384][/us/pl/95/384/s15/a], relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by [Pub. L. 97–113, title VII, § 734(a)(12)][/us/pl/97/113/s734/a/12], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 95–384][/us/pl/95/384], § 15(b), Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740], directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by [section 15(a) of Pub. L. 95–384][/us/pl/95/384/s15/a], relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(12), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
  __Report by President on Review of Arms Sales Controls on Non-Lethal Items__ 
 
-    [Pub. L. 95–384, § 25][/us/pl/95/384/s25], Sept. 26, 1978, [92 Stat. 746][/us/stat/92/746], directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to [Pub. L. 95–92, § 27][/us/pl/95/92/s27], Aug. 4, 1977, [91 Stat. 626][/us/stat/91/626], set out below, prior to repeal by [Pub. L. 97–113, title VII, § 734(a)(12)][/us/pl/97/113/s734/a/12], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 95–384][/us/pl/95/384], § 25, Sept. 26, 1978, [92 Stat. 746][/us/stat/92/746], directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to [Pub. L. 95–92][/us/pl/95/92], § 27, Aug. 4, 1977, [91 Stat. 626][/us/stat/91/626], set out below, prior to repeal by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(12), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
  __Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States__ 
 
-    [Pub. L. 95–92, § 23][/us/pl/95/92/s23], Aug. 4, 1977, [91 Stat. 624][/us/stat/91/624], set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by [Pub. L. 95–384, § 29(c)(2)(B)][/us/pl/95/384/s29/c/2/B], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
+    [Pub. L. 95–92][/us/pl/95/92], § 23, Aug. 4, 1977, [91 Stat. 624][/us/stat/91/624], set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by [Pub. L. 95–384][/us/pl/95/384], § 29(c)(2)(B), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
 
  __Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies__ 
 
-    [Pub. L. 95–92, § 24][/us/pl/95/92/s24], Aug. 4, 1977, [91 Stat. 624][/us/stat/91/624], as amended by [Pub. L. 97–113, title VII, § 734(a)(13)][/us/pl/97/113/s734/a/13], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
+    [Pub. L. 95–92][/us/pl/95/92], § 24, Aug. 4, 1977, [91 Stat. 624][/us/stat/91/624], as amended by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(13), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
 
  __Statement of Policy Regarding United States Arms Sales to Israel__ 
 
-[Pub. L. 95–92, § 26][/us/pl/95/92/s26], Aug. 4, 1977, [91 Stat. 625][/us/stat/91/625], provided that: 
+[Pub. L. 95–92][/us/pl/95/92], § 26, Aug. 4, 1977, [91 Stat. 625][/us/stat/91/625], provided that: 
 
 > “In accordance with the historic special relationship between the United States and Israel and previous agreements and continuing understandings, the Congress joins with the President in reaffirming that a policy of restraint in United States arms transfers, including arms sales ceilings, shall not impair Israel’s deterrent strength or undermine the military balance in the Middle East.”
 
  __Review by President of Categories and Arms Sales Controls on Lethal and Non-Lethal Items__ 
 
-    [Pub. L. 95–92, § 27][/us/pl/95/92/s27], Aug. 4, 1977, [91 Stat. 626][/us/stat/91/626], directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
+    [Pub. L. 95–92][/us/pl/95/92], § 27, Aug. 4, 1977, [91 Stat. 626][/us/stat/91/626], directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
 
  __Study of United States Arms Sales Policies and Practices by President; Report to Congress__ 
 
-    [Pub. L. 94–329, title II, § 202(b)][/us/pl/94/329/s202/b], June 30, 1976, [90 Stat. 735][/us/stat/90/735], set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by [Pub. L. 95–384, § 29(c)(1)(A)][/us/pl/95/384/s29/c/1/A], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
+    [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 202(b), June 30, 1976, [90 Stat. 735][/us/stat/90/735], set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by [Pub. L. 95–384][/us/pl/95/384], § 29(c)(1)(A), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
 
  __Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations__ 
 
-    [Pub. L. 94–329, title II, § 217][/us/pl/94/329/s217], June 30, 1976, [90 Stat. 747][/us/stat/90/747], set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by [Pub. L. 95–384, § 29(c)(1)(B)][/us/pl/95/384/s29/c/1/B], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
+    [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 217, June 30, 1976, [90 Stat. 747][/us/stat/90/747], set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by [Pub. L. 95–384][/us/pl/95/384], § 29(c)(1)(B), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
 
  __Study by Secretaries of State and Defense on Consequences of Enactment of Arms Export Control Provisions__ 
 
-    [Pub. L. 94–329, title II, § 218][/us/pl/94/329/s218], June 30, 1976, [90 Stat. 748][/us/stat/90/748], set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of [Pub. L. 94–329][/us/pl/94/329], prior to repeal by [Pub. L. 95–384, § 29(c)(1)(C)][/us/pl/95/384/s29/c/1/C], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
+    [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 218, June 30, 1976, [90 Stat. 748][/us/stat/90/748], set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of [Pub. L. 94–329][/us/pl/94/329], prior to repeal by [Pub. L. 95–384][/us/pl/95/384], § 29(c)(1)(C), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747].
 
  __Total Number of Credits To Be Extended Between__  __July 1, 1976__  __, and__  __September 30, 1976__ 
 
-    [Pub. L. 94–329, title V, § 506(b)][/us/pl/94/329/s506/b], June 30, 1976, [90 Stat. 764][/us/stat/90/764], provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
+    [Pub. L. 94–329, title V][/us/pl/94/329/tV], § 506(b), June 30, 1976, [90 Stat. 764][/us/stat/90/764], provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
 
  __Additional Military and Civilian Personnel for Department of Defense__ 
 
-[Pub. L. 94–329, title VI, § 605(a)][/us/pl/94/329/s605/a], June 30, 1976, [90 Stat. 768][/us/stat/90/768], provided that: 
+[Pub. L. 94–329, title VI][/us/pl/94/329/tVI], § 605(a), June 30, 1976, [90 Stat. 768][/us/stat/90/768], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1976 Amendment note set out under section 2151 of the title\] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 \[section 2151 et seq. of this title\], or the Arms Export Control Act \[this chapter\]. Personnel levels authorized in statutes authorizing appropriations for military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961.”
 
  __Sales to the Middle East; Requests for Additional Appropriations__ 
 
-[Pub. L. 91–672, § 5][/us/pl/91/672/s5], Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053], provided that: 
+[Pub. L. 91–672][/us/pl/91/672], § 5, Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053], provided that: 
 
 > “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
 
  __Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade__ 
 
-[Pub. L. 91–672, § 6][/us/pl/91/672/s6], Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053], provided that: 
+[Pub. L. 91–672][/us/pl/91/672], § 6, Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053], provided that: 
 
 > “It is the sense of the Congress that—
 
@@ -928,15 +934,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
-[/us/pl/91/672/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs4
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2053
-[/us/pl/93/189/s25/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F1
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F729
-[/us/pl/94/329/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs202
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F734
 [/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F739
-[/us/pl/97/113/s734/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F10
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297
 [/us/stat/75/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F631
@@ -946,51 +952,54 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/94/329/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs201%2Fb
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F734
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1327
 [/us/usc/t22/s2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2793
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
-[/us/pl/95/384/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs15%2Fa
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1326
 [/us/usc/t22/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2341
-[/us/pl/111/266/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs1
+[/us/pl/114/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F123
+[/us/stat/130/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F117
+[/us/usc/t22/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/stat/124/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2797
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/111/266/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs101
+[/us/pl/111/266/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtI
 [/us/stat/124/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2797
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/194/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs1
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
 [/us/stat/112/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F627
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931
-[/us/pl/102/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs1
+[/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/stat/105/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1691
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/90/629/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs1
+[/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
-[/us/pl/94/329/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs201%2Fa
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F734
 [/us/usc/t22/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2341
-[/us/pl/111/84/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1225
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2523
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403%2Fd
 [/us/usc/t22/s2403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403%2Ff
-[/us/pl/110/181/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1228
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F377
 [/us/usc/t22/s2394–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931%2Fa
 [/us/usc/t22/s2403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403%2Fd
-[/us/pl/109/472/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs12
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3558
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
@@ -999,121 +1008,121 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2794/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F3
 [/us/usc/t22/s2794/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F4
 [/us/usc/t22/s2794/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F8
-[/us/pl/108/458/s4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4026
+[/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3724
 [/us/pl/108/458/s4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4026
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/108/375/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1225
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2091
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/104/164/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs154
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1440
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/103/337/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1503
+[/us/pl/103/337/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXV
 [/us/stat/108/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2916
-[/us/pl/104/201/s1309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1309%2Fd
+[/us/pl/104/201/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIII
 [/us/stat/110/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2710
-[/us/pl/106/65/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1504%2Fc
+[/us/pl/106/65/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXV
 [/us/stat/113/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F808
-[/us/pl/107/314/s1208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1208%2Fb
+[/us/pl/107/314/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXII
 [/us/stat/116/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2668
-[/us/pl/110/181/s1256/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1256%2Fd
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F404
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/103/236/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs564
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F484
-[/us/pl/103/415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4301
 [/us/usc/t22/s2794/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F3
 [/us/pl/103/236/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs564
 [/us/pl/103/236/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs564
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXVI
 [/us/stat/107/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1843
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXV
 [/us/stat/108/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2914
-[/us/pl/104/106/s1504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fb
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F513
-[/us/pl/104/201/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1309%2Fa
+[/us/pl/104/201/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIII
 [/us/stat/110/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2710
-[/us/pl/106/65/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1504%2Fa
+[/us/pl/106/65/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXV
 [/us/stat/113/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F808
-[/us/pl/107/314/s1208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1208%2Fa
+[/us/pl/107/314/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXII
 [/us/stat/116/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2668
-[/us/pl/109/163/s1056/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Ff
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/pl/110/181/s1256/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1256%2Fa
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F403
-[/us/pl/112/239/s1076/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t22/s5859a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5859a
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/102/229/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs104
+[/us/pl/102/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2FtI
 [/us/stat/105/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1707
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/101/513/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs523
 [/us/stat/104/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2007
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
-[/us/pl/102/190/s1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1097
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1489
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F507
-[/us/pl/106/65/s1067/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F9
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/107/228/s1308/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308%2Fg%2F1%2FA
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1441
-[/us/pl/99/83/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs129
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F206
-[/us/pl/97/113/s734/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fc
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1561
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/384/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs15%2Fb
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F740
 [/us/pl/95/384/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs15%2Fa
-[/us/pl/97/113/s734/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F12
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/384/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs25
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F746
-[/us/pl/95/92/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs27
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F626
-[/us/pl/97/113/s734/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F12
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/92/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs23
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F624
-[/us/pl/95/384/s29/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fc%2F2%2FB
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
-[/us/pl/95/92/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs24
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F624
-[/us/pl/97/113/s734/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F13
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/92/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs26
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F625
-[/us/pl/95/92/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs27
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F626
-[/us/pl/94/329/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs202%2Fb
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F735
-[/us/pl/95/384/s29/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fc%2F1%2FA
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
-[/us/pl/94/329/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs217
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F747
-[/us/pl/95/384/s29/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fc%2F1%2FB
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
-[/us/pl/94/329/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs218
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F748
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
-[/us/pl/95/384/s29/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fc%2F1%2FC
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
-[/us/pl/94/329/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs506%2Fb
+[/us/pl/94/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtV
 [/us/stat/90/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F764
-[/us/pl/94/329/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs605%2Fa
+[/us/pl/94/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtVI
 [/us/stat/90/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F768
-[/us/pl/91/672/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs5
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2053
-[/us/pl/91/672/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs6
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2053
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

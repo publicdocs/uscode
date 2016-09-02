@@ -59,17 +59,17 @@
 
         (3) Only amounts transferred or credited to the working capital fund established by [section 2684 of this title][/us/usc/t22/s2684] may be used in carrying out the functions of the Secretary or the Director under this chapter.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 208, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 288][/us/stat/96/288]; amended [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(6), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 208, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 288][/us/stat/96/288]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(o)(6), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410].)
 
  __Amendments__ 
 
-    1994—Subsec. (c)(1). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
+    1994—Subsec. (c)(1). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
 
-    Subsec. (d). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
+    Subsec. (d). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
 
-    Subsecs. (e), (f). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
+    Subsecs. (e), (f). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
 
-    Subsec. (h)(2). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(6)(C), struck out “Director or the” after “received by the”.
+    Subsec. (h)(2). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(6)(C), struck out “Director or the” after “received by the”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -87,14 +87,14 @@
 [/us/usc/t22/s2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2684
 [/us/usc/t22/s2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2684
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F288
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F410
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb

@@ -41,7 +41,7 @@
 
     (6) At the close of each fiscal year the Coordinator shall submit a report to the Committees on Appropriations detailing the financial activities of the HIV/AIDS Fund, including sources of income and information regarding disbursements.
 
-([Pub. L. 108–447, div. D, title V, § 525(b)][/us/pl/108/447/s525/b], Dec. 8, 2004, [118 Stat. 3000][/us/stat/118/3000].)
+([Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 525(b), Dec. 8, 2004, [118 Stat. 3000][/us/stat/118/3000].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
-[/us/pl/108/447/s525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs525%2Fb
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3000
 
 

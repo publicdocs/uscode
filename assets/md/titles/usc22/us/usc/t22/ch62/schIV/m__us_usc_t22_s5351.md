@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Financial Reports Act of 1988”.
 
-([Pub. L. 100–418, title III, § 3601][/us/pl/100/418/s3601], Aug. 23, 1988, [102 Stat. 1387][/us/stat/102/1387].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3601, Aug. 23, 1988, [102 Stat. 1387][/us/stat/102/1387].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3601
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1387
 
 

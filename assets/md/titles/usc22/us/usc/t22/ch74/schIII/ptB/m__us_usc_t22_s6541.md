@@ -25,7 +25,7 @@
 
     (4) international broadcasting is, and should remain, an essential instrument of United States foreign policy.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1321, Oct. 21, 1998, [112 Stat. 2681–777][/us/stat/112/2681-777].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1321, Oct. 21, 1998, [112 Stat. 2681–777][/us/stat/112/2681-777].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-777
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-777

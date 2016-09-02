@@ -17,7 +17,7 @@
 
     Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate guidelines for appropriate ceremonies or other official expressions of respect and support for the families of United States citizens who are killed through acts of terrorism abroad.
 
-([Pub. L. 101–604, title II, § 210][/us/pl/101/604/s210], Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 210, Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs210
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3085
 
 

@@ -37,7 +37,7 @@
 
         Amounts appropriated to carry out the purposes of this subchapter are authorized to be available until expended.
 
-([Pub. L. 101–246, title II, § 247][/us/pl/101/246/s247], Feb. 16, 1990, [104 Stat. 62][/us/stat/104/62]; [Pub. L. 102–138, title II, § 232][/us/pl/102/138/s232], Oct. 28, 1991, [105 Stat. 703][/us/stat/105/703].)
+([Pub. L. 101–246, title II][/us/pl/101/246/tII], § 247, Feb. 16, 1990, [104 Stat. 62][/us/stat/104/62]; [Pub. L. 102–138, title II][/us/pl/102/138/tII], § 232, Oct. 28, 1991, [105 Stat. 703][/us/stat/105/703].)
 
  __Repeal of Section__ 
 
@@ -65,7 +65,7 @@
 
     Determination of President of the United States, No. 90–35, Aug. 26, 1990, 55 F.R. 38659, provided:
 
-    Pursuant to the authority vested in me by section 247 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 ([Public Law 101–246][/us/pl/101/246]) (the Act) \[this section\], I hereby determine that the test of television broadcasting to Cuba (as authorized by title V of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1989 ([Public Law 100–459][/us/pl/100/459]) \[[Pub. L. 100–459, title V][/us/pl/100/459], Oct. 1, 1988, [102 Stat. 2213][/us/stat/102/2213]\]), has demonstrated television broadcasting to Cuba is feasible and will not cause objectionable interference with the broadcasts of incumbent domestic licensees.
+    Pursuant to the authority vested in me by section 247 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 ([Public Law 101–246][/us/pl/101/246]) (the Act) \[this section\], I hereby determine that the test of television broadcasting to Cuba (as authorized by title V of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1989 ([Public Law 100–459][/us/pl/100/459]) \[[Pub. L. 100–459, title V][/us/pl/100/459/tV], Oct. 1, 1988, [102 Stat. 2213][/us/stat/102/2213]\]), has demonstrated television broadcasting to Cuba is feasible and will not cause objectionable interference with the broadcasts of incumbent domestic licensees.
 
     You are authorized and directed to transmit this determination to the appropriate committees of Congress (as defined in section 248 of the Act \[[22 U.S.C. 1465ff][/us/usc/t22/s1465ff]\]) and to arrange for its publication in the Federal Register.
 
@@ -79,9 +79,9 @@
 ----------
 
 [/us/pl/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459
-[/us/pl/101/246/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs247
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F62
-[/us/pl/102/138/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs232
+[/us/pl/102/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtII
 [/us/stat/105/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F703
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
@@ -93,7 +93,7 @@
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/pl/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459
-[/us/pl/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459
+[/us/pl/100/459/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtV
 [/us/stat/102/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2213
 [/us/usc/t22/s1465ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465ff
 

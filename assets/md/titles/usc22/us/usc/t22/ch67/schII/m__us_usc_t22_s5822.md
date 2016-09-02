@@ -31,7 +31,7 @@
 
         Upon request of the Chair of the Council, the head of any United States Government agency may detail, on a nonreimbursable basis, any of the personnel of such agency to the Council to assist the Council.
 
-([Pub. L. 102–511, title III, § 302][/us/pl/102/511/s302], Oct. 24, 1992, [106 Stat. 3333][/us/stat/106/3333].)
+([Pub. L. 102–511, title III][/us/pl/102/511/tIII], § 302, Oct. 24, 1992, [106 Stat. 3333][/us/stat/106/3333].)
 
  __Termination of Advisory Councils__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs302
+[/us/pl/102/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIII
 [/us/stat/106/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3333
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

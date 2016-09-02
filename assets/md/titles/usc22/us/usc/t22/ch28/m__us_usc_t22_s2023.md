@@ -17,7 +17,7 @@
 
     The representatives provided for in [section 2021 of this title][/us/usc/t22/s2021], when representing the United States in the organs of the Agency, shall, at all times, act in accordance with the instructions of the President, and such representatives shall, in accordance with such instructions, cast any and all votes under the Statute of the International Atomic Energy Agency.
 
-([Pub. L. 85–177, § 4][/us/pl/85/177/s4], Aug. 28, 1957, [71 Stat. 454][/us/stat/71/454].)
+([Pub. L. 85–177][/us/pl/85/177], § 4, Aug. 28, 1957, [71 Stat. 454][/us/stat/71/454].)
 
  __Termination of Authority Under This Section__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2021
-[/us/pl/85/177/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177%2Fs4
+[/us/pl/85/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177
 [/us/stat/71/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F454
 [/us/usc/t22/s2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2026
 

@@ -31,7 +31,7 @@
 
         The Board may, upon issuance of a complaint as provided in [section 4116 of this title][/us/usc/t22/s4116] charging that any person has engaged in or is engaging in an unfair labor practice, petition the United States District Court for the District of Columbia, for appropriate temporary relief (including a restraining order). Upon the filing of the petition, the court shall cause notice thereof to be served upon the person, and thereupon shall have jurisdiction to grant any temporary relief (including a temporary restraining order) it considers just and proper. A court shall not grant any temporary relief under this section if it would interfere with the ability of the Department to carry out its essential functions or if the Board fails to establish probable cause that an unfair labor practice is being committed.
 
-([Pub. L. 96–465, title I, § 1009][/us/pl/96/465/s1009], Oct. 17, 1980, [94 Stat. 2133][/us/stat/94/2133].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1009, Oct. 17, 1980, [94 Stat. 2133][/us/stat/94/2133].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t22/s4114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4114%2Fd
 [/us/usc/t5/s7123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7123
 [/us/usc/t22/s4116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4116
-[/us/pl/96/465/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1009
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2133
 
 

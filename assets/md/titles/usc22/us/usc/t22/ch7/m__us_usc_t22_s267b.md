@@ -17,7 +17,7 @@
 
     The President of the United States is requested to invite the Government of Great Britain to join in the formation of an international commission, to be composed of three members from the United States and three who shall represent the interests of the Dominion of Canada, whose duty it shall be to investigate and report upon the conditions and uses of the waters adjacent to the boundary lines between the United States and Canada, including all of the waters of the lakes and rivers whose natural outlet is by the River Saint Lawrence to the Atlantic Ocean; also upon the maintenance and regulation of suitable levels; and also upon the effect upon the shores of these waters and the structures thereon, and upon the interests of navigation, by reason of the diversion of these waters from or change in their natural flow; and, further, to report upon the necessary measures to regulate such diversion, and to make such recommendations for improvements and regulations as shall best subserve the interests of navigation in said waters. The said commissioners shall report upon the advisability of locating a dam at the outlet of Lake Erie, with a view to determining whether such dam will benefit navigation, and if such structure is deemed advisable, shall make recommendations to their respective Governments looking to an agreement or treaty which shall provide for the construction of the same, and they shall make an estimate of the probable cost thereof. The President, in selecting the three members of said Commission who shall represent the United States, is authorized to appoint one officer of the Corps of Engineers of the United States Army, one civil engineer well versed in the hydraulics of the Great Lakes, and one lawyer of experience in questions of international and riparian law, and said Commission shall be authorized to employ such persons as it may deem needful in the performance of the duties hereby imposed.
 
-([June 13, 1902, ch. 1079, § 4][/us/act/1902-06-13/ch1079/s4], [32 Stat. 373][/us/stat/32/373].)
+([June 13, 1902, ch. 1079][/us/act/1902-06-13/ch1079], § 4, [32 Stat. 373][/us/stat/32/373].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1902-06-13/ch1079/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079%2Fs4
+[/us/act/1902-06-13/ch1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-13%2Fch1079
 [/us/stat/32/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F373
 [/us/usc/t22/s268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs268
 [/us/stat/36/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F2448

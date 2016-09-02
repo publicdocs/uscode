@@ -23,7 +23,7 @@
 
     (3) there is a government agency or a local nongovernmental organization, or combination thereof, in the host country with the capability, commitment, and record of environmental concern to oversee the long-term viability of the program or project that is to be undertaken through the debt-for-nature exchange.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 464 \[474\], as added [Pub. L. 101–240, title VII, § 711][/us/pl/101/240/s711], Dec. 19, 1989, [103 Stat. 2522][/us/stat/103/2522].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 464 \[474\], as added [Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 711, Dec. 19, 1989, [103 Stat. 2522][/us/stat/103/2522].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/240/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs711
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
 [/us/stat/103/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2522
 [/us/pl/87/195/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs464
 [/us/usc/t22/s2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2274

@@ -29,7 +29,7 @@
 
             Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-([Pub. L. 108–333, title I, § 102][/us/pl/108/333/s102], Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290]; [Pub. L. 110–346, § 5][/us/pl/110/346/s5], Oct. 7, 2008, [122 Stat. 3941][/us/stat/122/3941]; [Pub. L. 112–172, § 4][/us/pl/112/172/s4], Aug. 16, 2012, [126 Stat. 1308][/us/stat/126/1308].)
+([Pub. L. 108–333, title I][/us/pl/108/333/tI], § 102, Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290]; [Pub. L. 110–346][/us/pl/110/346], § 5, Oct. 7, 2008, [122 Stat. 3941][/us/stat/122/3941]; [Pub. L. 112–172][/us/pl/112/172], § 4, Aug. 16, 2012, [126 Stat. 1308][/us/stat/126/1308].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/108/333/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs102
+[/us/pl/108/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtI
 [/us/stat/118/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1290
-[/us/pl/110/346/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs5
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3941
-[/us/pl/112/172/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172%2Fs4
+[/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/stat/126/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1308
 [/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346

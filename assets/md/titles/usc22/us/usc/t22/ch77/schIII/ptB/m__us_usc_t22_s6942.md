@@ -17,7 +17,7 @@
 
     The purpose of this part is to authorize additional resources for the agencies and departments engaged in monitoring and enforcement of United States trade agreements and trade laws with respect to the People’s Republic of China.
 
-([Pub. L. 106–286, div. B, title IV, § 412][/us/pl/106/286/s412], Oct. 10, 2000, [114 Stat. 901][/us/stat/114/901].)
+([Pub. L. 106–286, div. B, title IV][/us/pl/106/286/dB/tIV], § 412, Oct. 10, 2000, [114 Stat. 901][/us/stat/114/901].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs412
+[/us/pl/106/286/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIV
 [/us/stat/114/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F901
 
 

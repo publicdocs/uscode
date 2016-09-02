@@ -17,7 +17,7 @@
 
     The Attorney General may at any time make, prescribe, amend, and rescind such rules, regulations, and forms as he may deem necessary to carry out the provisions of this subchapter.
 
-([June 8, 1938, ch. 327, § 10][/us/act/1938-06-08/ch327/s10], as added [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 257][/us/stat/56/257].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 10, as added [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 257][/us/stat/56/257].)
 
  __Prior Provisions__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-08/ch327/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs10
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F257
 [/us/usc/t22/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs616
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611

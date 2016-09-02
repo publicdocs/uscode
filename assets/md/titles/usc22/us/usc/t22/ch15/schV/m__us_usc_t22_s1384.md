@@ -17,7 +17,7 @@
 
     Immediately upon passage of this subchapter the Alien Property Custodian of the United States shall enter into an agreement with the President of the Philippines to transfer to the Philippine Government for a nominal cash consideration all shares now vested or hereafter vested by the Alien Property Custodian of corporations owning in fee, leasing, or otherwise operating or controlling agricultural lands in the Philippines, other agricultural lands in the Philippines, vested or hereafter vested by the Alien Property Custodian not included in the foregoing, and improved property in Manila vested or hereafter vested by the Alien Property Custodian which in his judgment is urgently needed for the operation of an administrative agency of the Philippine Government: Provided, That in respect to property transferred under this section to the Philippine Government, it shall be made a part of the agreement that the Philippine Government shall fully indemnify the United States for all claims payable under the Trading With the Enemy Act, as amended \[[50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], and for all such costs and expenses of administration as may by law be charged against such property or proceeds thereof.
 
-([July 3, 1946, ch. 536, § 5][/us/act/1946-07-03/ch536/s5], [60 Stat. 419][/us/stat/60/419].)
+([July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], § 5, [60 Stat. 419][/us/stat/60/419].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/act/1946-07-03/ch536/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536%2Fs5
+[/us/act/1946-07-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536
 [/us/stat/60/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F419
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

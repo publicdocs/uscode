@@ -71,7 +71,7 @@
 
         (24) Trafficking in persons is a transnational crime with national implications. To deter international trafficking and bring its perpetrators to justice, nations including the United States must recognize that trafficking is a serious offense. This is done by prescribing appropriate punishment, giving priority to the prosecution of trafficking offenses, and protecting rather than punishing the victims of such offenses. The United States must work bilaterally and multilaterally to abolish the trafficking industry by taking steps to promote cooperation among countries linked together by international trafficking routes. The United States must also urge the international community to take strong action in multilateral fora to engage recalcitrant countries in serious and sustained efforts to eliminate trafficking and protect trafficking victims.
 
-([Pub. L. 106–386, div. A, § 102][/us/pl/106/386/s102], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 102, Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466].)
 
  __References in Text__ 
 
@@ -79,35 +79,35 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–457, § 1(a)][/us/pl/110/457/s1/a], Dec. 23, 2008, [122 Stat. 5044][/us/stat/122/5044], provided that: 
+[Pub. L. 110–457][/us/pl/110/457], § 1(a), Dec. 23, 2008, [122 Stat. 5044][/us/stat/122/5044], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–164, § 1(a)][/us/pl/109/164/s1/a], Jan. 10, 2006, [119 Stat. 3558][/us/stat/119/3558], provided that: 
+[Pub. L. 109–164][/us/pl/109/164], § 1(a), Jan. 10, 2006, [119 Stat. 3558][/us/stat/119/3558], provided that: 
 
 > “This Act \[enacting sections 7111 and 7112 of this title, sections 2428, 3271, and 3272 of Title 18, Crimes and Criminal Procedure, and sections 14044 to 14044e of Title 42, The Public Health and Welfare, amending sections 4028, 7103 to 7107, 7109a, and 7110 of this title and sections 1956 and 1961 of Title 18, and enacting provisions set out as notes under this section and sections 7105 and 7106 of this title\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2005’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–193, § 1][/us/pl/108/193/s1], Dec. 19, 2003, [117 Stat. 2875][/us/stat/117/2875], provided that: 
+[Pub. L. 108–193][/us/pl/108/193], § 1, Dec. 19, 2003, [117 Stat. 2875][/us/stat/117/2875], provided that: 
 
 > “This Act \[enacting [section 7109a of this title][/us/usc/t22/s7109a] and [section 1595 of Title 18][/us/usc/t18/s1595], Crimes and Criminal Procedure, amending sections 2152d, 7102 to 7107, and 7110 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1591 and 1961 of Title 18, enacting provisions set out as notes under this section and [section 7103 of this title][/us/usc/t22/s7103], and repealing provisions set out as a note under [section 7103 of this title][/us/usc/t22/s7103]\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2003’.”
 
  __Short Title__ 
 
-[Pub. L. 106–386, § 1][/us/pl/106/386/s1], Oct. 28, 2000, [114 Stat. 1464][/us/stat/114/1464], provided that: 
+[Pub. L. 106–386][/us/pl/106/386], § 1, Oct. 28, 2000, [114 Stat. 1464][/us/stat/114/1464], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
 
-[Pub. L. 106–386, div. A, § 101][/us/pl/106/386/s101], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], provided that: 
+[Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 101, Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], provided that: 
 
 > “This division \[enacting this chapter, [section 2152d of this title][/us/usc/t22/s2152d], and sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18\] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
 
  __Promoting Effective State Enforcement__ 
 
-[Pub. L. 110–457, title II, § 225][/us/pl/110/457/s225], Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072], as amended by [Pub. L. 113–4, title XII, § 1243][/us/pl/113/4/s1243], Mar. 7, 2013, [127 Stat. 154][/us/stat/127/154], provided that:
+[Pub. L. 110–457, title II][/us/pl/110/457/tII], § 225, Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072], as amended by [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1243, Mar. 7, 2013, [127 Stat. 154][/us/stat/127/154], provided that:
 
 >     “(a)  __Relationship Among Federal and State Law__  __.—__ 
 
@@ -149,7 +149,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 109–164, § 2][/us/pl/109/164/s2], Jan. 10, 2006, [119 Stat. 3558][/us/stat/119/3558], provided that: 
+[Pub. L. 109–164][/us/pl/109/164], § 2, Jan. 10, 2006, [119 Stat. 3558][/us/stat/119/3558], provided that: 
 
 > “Congress finds the following:
 
@@ -175,7 +175,7 @@
 
 >     “(11) Further measures are needed to ensure that United States Government personnel and contractors are held accountable for involvement with acts of trafficking in persons, including by expanding United States criminal jurisdiction to all United States Government contractors abroad.”
 
-[Pub. L. 108–193, § 2][/us/pl/108/193/s2], Dec. 19, 2003, [117 Stat. 2875][/us/stat/117/2875], provided that: 
+[Pub. L. 108–193][/us/pl/108/193], § 2, Dec. 19, 2003, [117 Stat. 2875][/us/stat/117/2875], provided that: 
 
 > “Congress finds the following:
 
@@ -199,38 +199,38 @@
 ----------
 
 [/us/usc/t18/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1584
-[/us/pl/106/386/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs102
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
-[/us/pl/110/457/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs1%2Fa
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/stat/122/5044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5044
-[/us/pl/109/164/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs1%2Fa
+[/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
 [/us/stat/119/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3558
-[/us/pl/108/193/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs1
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2875
 [/us/usc/t22/s7109a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7109a
 [/us/usc/t18/s1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1595
 [/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103
 [/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103
-[/us/pl/106/386/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1464
-[/us/pl/106/386/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs101
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/usc/t22/s2152d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152d
-[/us/pl/110/457/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs225
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5072
-[/us/pl/113/4/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1243
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F154
 [/us/stat/49/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F651
 [/us/pl/113/4/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1243
 [/us/pl/110/457/s225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs225%2Fb
-[/us/pl/109/164/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs2
+[/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
 [/us/stat/119/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3558
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
 [/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
-[/us/pl/108/193/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs2
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2875
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t8/s1101/a/15/T/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FT%2Fi

@@ -27,7 +27,7 @@
 
     (5) For these opportunities to be fully realized, the United States Government must effectively monitor and enforce its rights under the agreements on the accession of the People’s Republic of China to the WTO.
 
-([Pub. L. 106–286, div. B, title IV, § 411][/us/pl/106/286/s411], Oct. 10, 2000, [114 Stat. 901][/us/stat/114/901].)
+([Pub. L. 106–286, div. B, title IV][/us/pl/106/286/dB/tIV], § 411, Oct. 10, 2000, [114 Stat. 901][/us/stat/114/901].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs411
+[/us/pl/106/286/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIV
 [/us/stat/114/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F901
 
 

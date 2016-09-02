@@ -83,11 +83,11 @@
 
         The United States Government may provide assistance, through appropriate nongovernmental organizations, for the support of individuals and organizations to promote nonviolent democratic change in Cuba.
 
-([Pub. L. 102–484, div. A, title XVII, § 1705][/us/pl/102/484/s1705], Oct. 23, 1992, [106 Stat. 2577][/us/stat/106/2577]; [Pub. L. 104–114, title I, § 102(g)][/us/pl/104/114/s102/g], Mar. 12, 1996, [110 Stat. 793][/us/stat/110/793].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1705, Oct. 23, 1992, [106 Stat. 2577][/us/stat/106/2577]; [Pub. L. 104–114, title I][/us/pl/104/114/tI], § 102(g), Mar. 12, 1996, [110 Stat. 793][/us/stat/110/793].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 104–114, title II, § 204(d)(3)][/us/pl/104/114/s204/d/3], Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810], provided that on date on which President submits determination under [section 6063(c) of this title][/us/usc/t22/s6063/c] that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).
+    [Pub. L. 104–114, title II][/us/pl/104/114/tII], § 204(d)(3), Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810], provided that on date on which President submits determination under [section 6063(c) of this title][/us/usc/t22/s6063/c] that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Amendments__ 
 
-    1996—Subsec. (e)(5), (6). [Pub. L. 104–114, § 102(g)][/us/pl/104/114/s102/g], added pars. (5) and (6).
+    1996—Subsec. (e)(5), (6). [Pub. L. 104–114][/us/pl/104/114], § 102(g), added pars. (5) and (6).
 
  __Delegation of Functions__ 
 
@@ -116,11 +116,11 @@
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702%2Fb%2F2
 [/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
-[/us/pl/102/484/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1705
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2577
-[/us/pl/104/114/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fg
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F793
-[/us/pl/104/114/s204/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs204%2Fd%2F3
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F810
 [/us/usc/t22/s6063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
@@ -128,7 +128,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/pl/104/114/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fg
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 
 

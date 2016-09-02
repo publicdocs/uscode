@@ -51,7 +51,7 @@
 
         The President may rescind any suspension made under subsection (b) or (c) upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
 
-([Pub. L. 104–114, title III, § 306][/us/pl/104/114/s306], Mar. 12, 1996, [110 Stat. 821][/us/stat/110/821].)
+([Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 306, Mar. 12, 1996, [110 Stat. 821][/us/stat/110/821].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs306
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F821
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F814

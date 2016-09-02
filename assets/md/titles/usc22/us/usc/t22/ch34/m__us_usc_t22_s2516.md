@@ -17,7 +17,7 @@
 
     Whenever possible, expenditures incurred in carrying out functions under this chapter shall be paid for in such currency of the country or area where the expense is incurred as may be available to the United States.
 
-([Pub. L. 87–293, title I, § 17][/us/pl/87/293/s17], Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 17, Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/293/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs17
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F623
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

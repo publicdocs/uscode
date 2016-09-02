@@ -17,7 +17,7 @@
 
     The following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title][/us/usc/t22/s1623]; and subsections (c), (d), (e), and (f) of [section 1626 of this title][/us/usc/t22/s1626].
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 318, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 575][/us/stat/69/575].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 318, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 575][/us/stat/69/575].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t22/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1623
 [/us/usc/t22/s1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1626
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F575
 
 

@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated $14,000,000 for each of fiscal years 2008 and 2009 to the Secretary for a United States contribution to the United Nations Democracy Fund.
 
-([Pub. L. 110–53, title XXI, § 2161][/us/pl/110/53/s2161], Aug. 3, 2007, [121 Stat. 536][/us/stat/121/536].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2161, Aug. 3, 2007, [121 Stat. 536][/us/stat/121/536].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2161
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F536
 
 

@@ -61,7 +61,7 @@
 
     (11) The Center shall provide a report of the audit to the Director of the United States Information Agency no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor’s opinion of those statements, as are necessary to present fairly the Center’s assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Center’s income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The report shall be produced in sufficient copies for the public.
 
-([Pub. L. 103–236, title II, § 253][/us/pl/103/236/s253], Apr. 30, 1994, [108 Stat. 428][/us/stat/108/428].)
+([Pub. L. 103–236, title II][/us/pl/103/236/tII], § 253, Apr. 30, 1994, [108 Stat. 428][/us/stat/108/428].)
 
  __Transfer of Functions__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs253
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F428
 
 

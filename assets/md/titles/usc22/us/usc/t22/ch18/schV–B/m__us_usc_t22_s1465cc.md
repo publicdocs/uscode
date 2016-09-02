@@ -27,7 +27,7 @@
 
         The Board may carry out the purposes of this subchapter by means of grants, leases, or contracts (subject to the availability of appropriations), or such other means as the Board determines will be most effective.
 
-([Pub. L. 101–246, title II, § 244][/us/pl/101/246/s244], Feb. 16, 1990, [104 Stat. 61][/us/stat/104/61]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1325(3), (4), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
+([Pub. L. 101–246, title II][/us/pl/101/246/tII], § 244, Feb. 16, 1990, [104 Stat. 61][/us/stat/104/61]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1325(3), (4), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
 
  __Repeal of Section__ 
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–277, § 1325(4)(A)][/us/pl/105/277/s1325/4/A], struck out “of the United States Information Agency” after “Service” in section catchline.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 1325(4)(A), struck out “of the United States Information Agency” after “Service” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–277, § 1325(4)(B)(ii)][/us/pl/105/277/s1325/4/B/ii], which directed amendment of subsec. (a) in second sentence by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “the International Broadcasting Bureau” for “the Director of the Voice of America”, was executed by making the substitutions in third sentence, to reflect the probable intent of Congress.
+    Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1325(4)(B)(ii), which directed amendment of subsec. (a) in second sentence by substituting “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “the International Broadcasting Bureau” for “the Director of the Voice of America”, was executed by making the substitutions in third sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 105–277, § 1325(4)(B)(i)][/us/pl/105/277/s1325/4/B/i], substituted “There is” for “The Director of the United States Information Agency shall establish” in first sentence.
+    [Pub. L. 105–277][/us/pl/105/277], § 1325(4)(B)(i), substituted “There is” for “The Director of the United States Information Agency shall establish” in first sentence.
 
-    Subsec. (b). [Pub. L. 105–277, § 1325(4)(C)][/us/pl/105/277/s1325/4/C], substituted “Board facilities” for “Agency facilities” and “International” for “Information Agency”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1325(4)(C), substituted “Board facilities” for “Agency facilities” and “International” for “Information Agency”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1325(3)][/us/pl/105/277/s1325/3], (4)(D), in heading struck out “USIA” before “Authority”, and in text substituted “Board” for “Agency” in two places.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1325(3), (4)(D), in heading struck out “USIA” before “Authority”, and in text substituted “Board” for “Agency” in two places.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -60,17 +60,17 @@
 ----------
 ----------
 
-[/us/pl/101/246/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs244
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F61
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-781
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
-[/us/pl/105/277/s1325/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F4%2FA
-[/us/pl/105/277/s1325/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F4%2FB%2Fii
-[/us/pl/105/277/s1325/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F4%2FB%2Fi
-[/us/pl/105/277/s1325/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F4%2FC
-[/us/pl/105/277/s1325/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F3
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

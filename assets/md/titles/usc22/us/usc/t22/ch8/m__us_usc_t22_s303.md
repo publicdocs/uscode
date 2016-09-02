@@ -17,7 +17,7 @@
 
     Not later than March 1 of each year, the Secretary of State shall submit to Congress a report listing overseas United States surplus properties that are administered under this chapter and that have been identified for sale.
 
-([May 7, 1926, ch. 250, § 12][/us/act/1926-05-07/ch250/s12], as added [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2215, Oct. 21, 1998, [112 Stat. 2681–814][/us/stat/112/2681-814].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 12, as added [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2215, Oct. 21, 1998, [112 Stat. 2681–814][/us/stat/112/2681-814].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1926-05-07/ch250/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs12
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-814
 
 

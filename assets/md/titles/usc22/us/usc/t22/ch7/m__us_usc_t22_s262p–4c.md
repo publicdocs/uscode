@@ -47,7 +47,7 @@
 
                 (iii) debt owed by institutions in the country governed by such foreign government, which are owned, in part, by private persons and, in part, by public institutions.
 
-([Pub. L. 95–118, title XVI, § 1608][/us/pl/95/118/s1608], as added [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1608, as added [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
 
  __Codification__ 
 
@@ -66,8 +66,8 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/95/118/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1608
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/pl/95/118/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1608
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461

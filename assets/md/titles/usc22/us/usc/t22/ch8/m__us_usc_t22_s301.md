@@ -23,7 +23,7 @@
 
         The Secretary may, subject to the availability of appropriations, make advance payments for long-term leases and lease-purchase agreements, if the Secretary or his designee determines, in each case, that such payments are in the interest of the United States Government in carrying out the purposes of this chapter.
 
-([May 7, 1926, ch. 250, § 10][/us/act/1926-05-07/ch250/s10], as added [Pub. L. 89–636, § 4][/us/pl/89/636/s4], Oct. 10, 1966, [80 Stat. 882][/us/stat/80/882]; amended [Pub. L. 102–138, title I, § 115(a)][/us/pl/102/138/s115/a], (b), Oct. 28, 1991, [105 Stat. 655][/us/stat/105/655].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 10, as added [Pub. L. 89–636][/us/pl/89/636], § 4, Oct. 10, 1966, [80 Stat. 882][/us/stat/80/882]; amended [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 115(a), (b), Oct. 28, 1991, [105 Stat. 655][/us/stat/105/655].)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/act/1926-05-07/ch250/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs10
-[/us/pl/89/636/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs4
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
 [/us/stat/80/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F882
-[/us/pl/102/138/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs115%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F655
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a

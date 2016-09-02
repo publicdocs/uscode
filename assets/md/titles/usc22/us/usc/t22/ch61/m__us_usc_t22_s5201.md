@@ -37,11 +37,11 @@
 
         Therefore, the Congress determines that the PLO and its affiliates are a terrorist organization and a threat to the interests of the United States, its allies, and to international law and should not benefit from operating in the United States.
 
-([Pub. L. 100–204, title X, § 1002][/us/pl/100/204/s1002], Dec. 22, 1987, [101 Stat. 1406][/us/stat/101/1406].)
+([Pub. L. 100–204, title X][/us/pl/100/204/tX], § 1002, Dec. 22, 1987, [101 Stat. 1406][/us/stat/101/1406].)
 
  __Effective Date and Termination__ 
 
-[Pub. L. 100–204, title X, § 1005][/us/pl/100/204/s1005], Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407], provided that:
+[Pub. L. 100–204, title X][/us/pl/100/204/tX], § 1005, Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -53,7 +53,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–204, title X, § 1001][/us/pl/100/204/s1001], Dec. 22, 1987, [101 Stat. 1406][/us/stat/101/1406], provided that: 
+[Pub. L. 100–204, title X][/us/pl/100/204/tX], § 1001, Dec. 22, 1987, [101 Stat. 1406][/us/stat/101/1406], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Anti-Terrorism Act of 1987’.”
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/100/204/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs1002
+[/us/pl/100/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtX
 [/us/stat/101/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1406
-[/us/pl/100/204/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs1005
+[/us/pl/100/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtX
 [/us/stat/101/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1407
-[/us/pl/100/204/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs1001
+[/us/pl/100/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtX
 [/us/stat/101/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1406
 
 

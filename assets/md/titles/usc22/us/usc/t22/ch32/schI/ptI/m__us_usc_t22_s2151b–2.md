@@ -655,7 +655,7 @@
 
             The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, the Department of Health and Human Services (including its agencies and offices), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this chapter.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 104A, as added [Pub. L. 108–25, title III, § 301(a)(2)][/us/pl/108/25/s301/a/2], May 27, 2003, [117 Stat. 728][/us/stat/117/728]; amended [Pub. L. 110–293, title III, § 301(a)][/us/pl/110/293/s301/a]–(e), July 30, 2008, [122 Stat. 2945–2953][/us/stat/122/2945-2953]; [Pub. L. 113–56, § 5][/us/pl/113/56/s5], Dec. 2, 2013, [127 Stat. 650][/us/stat/127/650].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 104A, as added [Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 301(a)(2), May 27, 2003, [117 Stat. 728][/us/stat/117/728]; amended [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 301(a)–(e), July 30, 2008, [122 Stat. 2945–2953][/us/stat/122/2945-2953]; [Pub. L. 113–56][/us/pl/113/56], § 5, Dec. 2, 2013, [127 Stat. 650][/us/stat/127/650].)
 
  __References in Text__ 
 
@@ -669,43 +669,43 @@
 
     2013—Subsec. (f). [Pub. L. 113–56][/us/pl/113/56] amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual reports on the implementation of this section.
 
-    2008—Subsec. (a). [Pub. L. 110–293, § 301(a)(1)][/us/pl/110/293/s301/a/1], inserted “Central Asia, Eastern Europe, Latin America” after “Caribbean,”.
+    2008—Subsec. (a). [Pub. L. 110–293][/us/pl/110/293], § 301(a)(1), inserted “Central Asia, Eastern Europe, Latin America” after “Caribbean,”.
 
-    Subsec. (b). [Pub. L. 110–293, § 301(a)(2)][/us/pl/110/293/s301/a/2], amended subsec. (b) generally. Prior to amendment, text read as follows: “It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, treatment, and control of HIV/AIDS. The United States and other developed countries should provide assistance to countries in sub-Saharan Africa, the Caribbean, and other countries and areas to control this crisis through HIV/AIDS prevention, treatment, monitoring, and related activities, particularly activities focused on women and youth, including strategies to protect women and prevent mother-to-child transmission of the HIV infection.”
+    Subsec. (b). [Pub. L. 110–293][/us/pl/110/293], § 301(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, treatment, and control of HIV/AIDS. The United States and other developed countries should provide assistance to countries in sub-Saharan Africa, the Caribbean, and other countries and areas to control this crisis through HIV/AIDS prevention, treatment, monitoring, and related activities, particularly activities focused on women and youth, including strategies to protect women and prevent mother-to-child transmission of the HIV infection.”
 
-    Subsec. (c)(1). [Pub. L. 110–293, § 301(b)(1)][/us/pl/110/293/s301/b/1], substituted “Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates” for “and other countries and areas”.
+    Subsec. (c)(1). [Pub. L. 110–293][/us/pl/110/293], § 301(b)(1), substituted “Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates” for “and other countries and areas”.
 
-    Subsec. (c)(2). [Pub. L. 110–293, § 301(b)(2)][/us/pl/110/293/s301/b/2], substituted “Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates.” for “and other countries and areas affected by the HIV/AIDS pandemic”.
+    Subsec. (c)(2). [Pub. L. 110–293][/us/pl/110/293], § 301(b)(2), substituted “Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates.” for “and other countries and areas affected by the HIV/AIDS pandemic”.
 
-    Subsec. (c)(3). [Pub. L. 110–293, § 301(b)(3)][/us/pl/110/293/s301/b/3], substituted “partner countries, other international actors,” for “foreign countries” and inserted “within the framework of the principles of the Three Ones” before the period at end.
+    Subsec. (c)(3). [Pub. L. 110–293][/us/pl/110/293], § 301(b)(3), substituted “partner countries, other international actors,” for “foreign countries” and inserted “within the framework of the principles of the Three Ones” before the period at end.
 
-    Subsec. (d)(1)(A). [Pub. L. 110–293, § 301(c)(1)(A)][/us/pl/110/293/s301/c/1/A], inserted “and multiple concurrent sexual partnering,” after “casual sexual partnering” and substituted “male and female condoms” for “condoms”.
+    Subsec. (d)(1)(A). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(1)(A), inserted “and multiple concurrent sexual partnering,” after “casual sexual partnering” and substituted “male and female condoms” for “condoms”.
 
-    Subsec. (d)(1)(B). [Pub. L. 110–293, § 301(c)(1)(B)][/us/pl/110/293/s301/c/1/B], substituted “programs that are designed with local input and” for “programs that” and “those locally based organizations” for “those organizations”.
+    Subsec. (d)(1)(B). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(1)(B), substituted “programs that are designed with local input and” for “programs that” and “those locally based organizations” for “those organizations”.
 
-    Subsec. (d)(1)(D). [Pub. L. 110–293, § 301(c)(1)(C)][/us/pl/110/293/s301/c/1/C], inserted “and promoting the use of provider-initiated or ‘opt-out’ voluntary testing in accordance with World Health Organization guidelines” before the semicolon at end.
+    Subsec. (d)(1)(D). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(1)(C), inserted “and promoting the use of provider-initiated or ‘opt-out’ voluntary testing in accordance with World Health Organization guidelines” before the semicolon at end.
 
-    Subsec. (d)(1)(F) to (K). [Pub. L. 110–293, § 301(c)(1)(D)][/us/pl/110/293/s301/c/1/D]–(G), added subpars. (F), (G), and (K) and redesignated former subpars. (F) to (H) as (H) to (J), respectively.
+    Subsec. (d)(1)(F) to (K). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(1)(D)–(G), added subpars. (F), (G), and (K) and redesignated former subpars. (F) to (H) as (H) to (J), respectively.
 
-    Subsec. (d)(2)(C) to (E). [Pub. L. 110–293, § 301(c)(2)][/us/pl/110/293/s301/c/2], inserted “pain management,” after “opportunistic infections,” in subpar. (C) and added subpars. (D) and (E).
+    Subsec. (d)(2)(C) to (E). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(2), inserted “pain management,” after “opportunistic infections,” in subpar. (C) and added subpars. (D) and (E).
 
-    Subsec. (d)(4)(E), (F). [Pub. L. 110–293, § 301(c)(3)][/us/pl/110/293/s301/c/3], added subpars. (E) and (F).
+    Subsec. (d)(4)(E), (F). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(3), added subpars. (E) and (F).
 
-    Subsec. (d)(5)(C), (D). [Pub. L. 110–293, § 301(c)(4)][/us/pl/110/293/s301/c/4], added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (d)(5)(C), (D). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(4), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (d)(6). [Pub. L. 110–293, § 301(c)(5)(A)][/us/pl/110/293/s301/c/5/A], substituted “Related and coordinated activities” for “Related activities” in heading.
+    Subsec. (d)(6). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(5)(A), substituted “Related and coordinated activities” for “Related activities” in heading.
 
-    Subsec. (d)(6)(D) to (G). [Pub. L. 110–293, § 301(c)(5)(B)][/us/pl/110/293/s301/c/5/B]–(D), added subpars. (D) to (G).
+    Subsec. (d)(6)(D) to (G). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(5)(B)–(D), added subpars. (D) to (G).
 
-    Subsec. (d)(8). [Pub. L. 110–293, § 301(c)(6)][/us/pl/110/293/s301/c/6], added par. (8).
+    Subsec. (d)(8). [Pub. L. 110–293][/us/pl/110/293], § 301(c)(6), added par. (8).
 
-    Subsecs. (e), (f). [Pub. L. 110–293, § 301(d)][/us/pl/110/293/s301/d], added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 110–293][/us/pl/110/293], § 301(d), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(1). [Pub. L. 110–293, § 301(e)(1)][/us/pl/110/293/s301/e/1], substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+    Subsec. (f)(1). [Pub. L. 110–293][/us/pl/110/293], § 301(e)(1), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
-    Subsec. (f)(2)(C), (D). [Pub. L. 110–293, § 301(e)(2)][/us/pl/110/293/s301/e/2], added subpars. (C) and (D) and struck out former subpar. (C) which required a detailed assessment of the impact of programs established under this section and sections 2151b–3 and 2151b–4 of this title.
+    Subsec. (f)(2)(C), (D). [Pub. L. 110–293][/us/pl/110/293], § 301(e)(2), added subpars. (C) and (D) and struck out former subpar. (C) which required a detailed assessment of the impact of programs established under this section and sections 2151b–3 and 2151b–4 of this title.
 
-    Subsecs. (g), (h). [Pub. L. 110–293, § 301(d)(1)][/us/pl/110/293/s301/d/1], redesignated subsecs. (f) and (g) as (g) and (h), respectively.
+    Subsecs. (g), (h). [Pub. L. 110–293][/us/pl/110/293], § 301(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
  __Delegation of Functions__ 
 
@@ -713,7 +713,7 @@
 
  __Submission of Annual Report__ 
 
-[Pub. L. 113–76, div. K, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 477][/us/stat/128/477], provided in part: 
+[Pub. L. 113–76, div. K, title III][/us/pl/113/76/dK/tIII], Jan. 17, 2014, [128 Stat. 477][/us/stat/128/477], provided in part: 
 
 > “That the annual report required by section 104(A)(f) \[probably should be “104A(f)”\] of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151b–2(f)][/us/usc/t22/s2151b–2/f]\] shall also be submitted hereafter to the Committees on Appropriations”.
 
@@ -732,11 +732,11 @@
 [/us/usc/t22/s2151b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%933
 [/us/usc/t22/s2151b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%934
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/25/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs301%2Fa%2F2
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F728
-[/us/pl/110/293/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fa
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2945-2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2945-2953
-[/us/pl/113/56/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs5
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/stat/127/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F650
 [/us/usc/t22/s7672/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7672%2Fa%2F3
 [/us/usc/t22/s7673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7673%2Fd
@@ -748,27 +748,27 @@
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
-[/us/pl/110/293/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fa%2F1
-[/us/pl/110/293/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fa%2F2
-[/us/pl/110/293/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fb%2F1
-[/us/pl/110/293/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fb%2F2
-[/us/pl/110/293/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fb%2F3
-[/us/pl/110/293/s301/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F1%2FA
-[/us/pl/110/293/s301/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F1%2FB
-[/us/pl/110/293/s301/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F1%2FC
-[/us/pl/110/293/s301/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F1%2FD
-[/us/pl/110/293/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F2
-[/us/pl/110/293/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F3
-[/us/pl/110/293/s301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F4
-[/us/pl/110/293/s301/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F5%2FA
-[/us/pl/110/293/s301/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F5%2FB
-[/us/pl/110/293/s301/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fc%2F6
-[/us/pl/110/293/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fd
-[/us/pl/110/293/s301/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fe%2F1
-[/us/pl/110/293/s301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fe%2F2
-[/us/pl/110/293/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fd%2F1
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtIII
 [/us/stat/128/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F477
 [/us/usc/t22/s2151b–2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Ff
 

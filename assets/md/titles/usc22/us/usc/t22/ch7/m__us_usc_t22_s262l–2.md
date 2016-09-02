@@ -49,11 +49,11 @@
 
         (4) take steps to implement recommendations set forth by a report of the Committee on Health and Environment on opportunities for the Agency to assist developing countries in the proper use of agricultural and industrial chemicals.
 
-([Pub. L. 100–461, title V, § 535][/us/pl/100/461/s535], Oct. 1, 1988, [102 Stat. 2268–28][/us/stat/102/2268-28].)
+([Pub. L. 100–461, title V][/us/pl/100/461/tV], § 535, Oct. 1, 1988, [102 Stat. 2268–28][/us/stat/102/2268-28].)
 
  __References in Text__ 
 
-    The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, referred to in subsec. (c)(1), is [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131]. The “early warning system” reports refer to the reports required by section 537(h)(1) of the Act ([Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 537(h)(1)\]), which is classified to section 262l–1(h)(1) of this title. For complete classification of this Act to the Code, see Tables.
+    The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, referred to in subsec. (c)(1), is [Pub. L. 100–202][/us/pl/100/202], § 101(e), Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131]. The “early warning system” reports refer to the reports required by section 537(h)(1) of the Act ([Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 537(h)(1)\]), which is classified to section 262l–1(h)(1) of this title. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -68,10 +68,10 @@
 ----------
 ----------
 
-[/us/pl/100/461/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs535
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-28
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 
 

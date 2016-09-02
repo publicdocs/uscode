@@ -41,7 +41,7 @@
 
         For purposes of this section, the term “international financial institution” means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guaranty Agency, and the Inter-American Development Bank.
 
-([Pub. L. 104–114, title I, § 104][/us/pl/104/114/s104], Mar. 12, 1996, [110 Stat. 794][/us/stat/110/794].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 104, Mar. 12, 1996, [110 Stat. 794][/us/stat/110/794].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6063/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F1
-[/us/pl/104/114/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs104
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F794
 
 

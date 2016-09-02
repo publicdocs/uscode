@@ -29,11 +29,11 @@
 
         The term “greenhouse gas intensity” means the ratio of greenhouse gas emissions to economic output.
 
-([Pub. L. 101–240, title VII, § 731][/us/pl/101/240/s731], as added [Pub. L. 109–58, title XVI, § 1611][/us/pl/109/58/s1611], Aug. 8, 2005, [119 Stat. 1113][/us/stat/119/1113].)
+([Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 731, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1611, Aug. 8, 2005, [119 Stat. 1113][/us/stat/119/1113].)
 
  __Effective Date__ 
 
-[Pub. L. 101–240, title VII, § 739][/us/pl/101/240/s739], as added [Pub. L. 109–58, title XVI, § 1611][/us/pl/109/58/s1611], Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117], provided that: 
+[Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 739, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1611, Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117], provided that: 
 
 > “Except as otherwise provided in this part \[part C (§§ 731–739) of title VII of [Pub. L. 101–240][/us/pl/101/240], enacting this chapter\], this part takes effect on October 1, 2005.”
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/101/240/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs731
-[/us/pl/109/58/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1611
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1113
-[/us/pl/101/240/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs739
-[/us/pl/109/58/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1611
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1117
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 

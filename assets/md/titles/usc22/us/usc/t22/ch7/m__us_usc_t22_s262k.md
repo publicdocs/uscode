@@ -41,7 +41,7 @@
 
         The international financial institutions referred to in subsections (a) and (b) of this section are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank.
 
-([Pub. L. 99–88, title I, § 502][/us/pl/99/88/s502], Aug. 15, 1985, [99 Stat. 330][/us/stat/99/330]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 99–88, title I][/us/pl/99/88/tI], § 502, Aug. 15, 1985, [99 Stat. 330][/us/stat/99/330]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Change of Name__ 
 
@@ -49,7 +49,7 @@
 
  __Copper Mining, Smelting, and Refining__ 
 
-[Pub. L. 99–88, title I, § 501][/us/pl/99/88/s501], Aug. 15, 1985, [99 Stat. 329][/us/stat/99/329], provided that: 
+[Pub. L. 99–88, title I][/us/pl/99/88/tI], § 501, Aug. 15, 1985, [99 Stat. 329][/us/stat/99/329], provided that: 
 
 > “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to this Act or any other Act, for the production of any copper commodity for export or for the financing of the expansion, improvement, or modernization of copper mining, smelting, and refining capacity.”
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/99/88/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs502
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F330
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
-[/us/pl/99/88/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs501
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F329
 
 

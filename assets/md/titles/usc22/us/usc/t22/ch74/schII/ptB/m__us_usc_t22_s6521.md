@@ -21,7 +21,7 @@
 
     (2) the United States Arms Control and Disarmament Agency or the Arms Control and Disarmament Agency shall be deemed to refer to the Department of State.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1221, Oct. 21, 1998, [112 Stat. 2681–768][/us/stat/112/2681-768].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1221, Oct. 21, 1998, [112 Stat. 2681–768][/us/stat/112/2681-768].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-768
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

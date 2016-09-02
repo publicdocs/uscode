@@ -103,7 +103,7 @@
 
             In this subsection, the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-([Pub. L. 108–458, title VII, § 7114][/us/pl/108/458/s7114], Dec. 17, 2004, [118 Stat. 3798][/us/stat/118/3798]; [Pub. L. 110–53, title XX, § 2012][/us/pl/110/53/s2012], Aug. 3, 2007, [121 Stat. 509][/us/stat/121/509].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7114, Dec. 17, 2004, [118 Stat. 3798][/us/stat/118/3798]; [Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2012, Aug. 3, 2007, [121 Stat. 509][/us/stat/121/509].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@
 
  __Findings; Policy__ 
 
-[Pub. L. 110–53, title XX, § 2011][/us/pl/110/53/s2011], Aug. 3, 2007, [121 Stat. 509][/us/stat/121/509], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2011, Aug. 3, 2007, [121 Stat. 509][/us/stat/121/509], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -171,16 +171,16 @@
 ----------
 
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
-[/us/pl/108/458/s7114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7114
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3798
-[/us/pl/110/53/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2012
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F509
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/110/53/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2011
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F509
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t22/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2228

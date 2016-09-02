@@ -55,7 +55,7 @@
 
         The Trust Fund should not make grants for the purpose of project development associated with bilateral or multilateral bank loans.
 
-([Pub. L. 106–264, title I, § 122][/us/pl/106/264/s122], Aug. 19, 2000, [114 Stat. 755][/us/stat/114/755].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 122, Aug. 19, 2000, [114 Stat. 755][/us/stat/114/755].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t22/s6821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6821%2Fb
-[/us/pl/106/264/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs122
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F755
 
 

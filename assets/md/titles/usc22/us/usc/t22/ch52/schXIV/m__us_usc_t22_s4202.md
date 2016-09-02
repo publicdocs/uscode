@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1716 derived from [act Mar. 3, 1869, ch. 125, § 3][/us/act/1869-03-03/ch125/s3], [15 Stat. 321][/us/stat/15/321].
+    R.S. § 1716 derived from [act Mar. 3, 1869, ch. 125][/us/act/1869-03-03/ch125], § 3, [15 Stat. 321][/us/stat/15/321].
 
     Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1869-03-03/ch125/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch125%2Fs3
+[/us/act/1869-03-03/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1869-03-03%2Fch125
 [/us/stat/15/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F321
 [/us/usc/t22/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1182
 [/us/usc/t22/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs85

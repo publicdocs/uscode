@@ -19,7 +19,7 @@
 
     (b) Notwithstanding subsection (a), in special circumstances set forth by regulation, the Secretary may remove the name of an individual from the rank order list submitted by a selection board or delay the promotion of an individual named in such a list.
 
-([Pub. L. 96–465, title I, § 605][/us/pl/96/465/s605], Oct. 17, 1980, [94 Stat. 2096][/us/stat/94/2096].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 605, Oct. 17, 1980, [94 Stat. 2096][/us/stat/94/2096].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs605
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2096
 
 

@@ -29,7 +29,7 @@
 
     (6) any anticompetitive issues raised during the course of negotiations, as observed pursuant to [section 5872(b) of this title][/us/usc/t22/s5872/b].
 
-([Pub. L. 102–511, title VI, § 603][/us/pl/102/511/s603], Oct. 24, 1992, [106 Stat. 3347][/us/stat/106/3347].)
+([Pub. L. 102–511, title VI][/us/pl/102/511/tVI], § 603, Oct. 24, 1992, [106 Stat. 3347][/us/stat/106/3347].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t22/s5871/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5871%2Fc
 [/us/usc/t22/s5872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5872%2Fa
 [/us/usc/t22/s5872/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5872%2Fb
-[/us/pl/102/511/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs603
+[/us/pl/102/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVI
 [/us/stat/106/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3347
 
 

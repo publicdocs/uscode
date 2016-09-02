@@ -27,7 +27,7 @@
 
         In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communiqué entitled “Conclusions on Development”, done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
-([Pub. L. 94–302, title II, § 222][/us/pl/94/302/s222], as added [Pub. L. 112–74, div. I, title VII, § 7083(b)][/us/pl/112/74/s7083/b], Dec. 23, 2011, [125 Stat. 1263][/us/stat/125/1263].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 222, as added [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7083(b), Dec. 23, 2011, [125 Stat. 1263][/us/stat/125/1263].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs222
-[/us/pl/112/74/s7083/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7083%2Fb
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1263
 
 

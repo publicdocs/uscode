@@ -35,7 +35,7 @@
 
         Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
-([Pub. L. 112–239, div. A, title XII, § 1252][/us/pl/112/239/s1252], Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1252, Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017].)
 
  __Delegation of Functions__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1252
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2017
 [/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 

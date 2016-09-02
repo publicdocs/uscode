@@ -61,7 +61,7 @@
 
         (5) If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).
 
-([Pub. L. 96–465, title I, § 601][/us/pl/96/465/s601], Oct. 17, 1980, [94 Stat. 2094][/us/stat/94/2094]; [Pub. L. 100–204, title I, § 185(b)][/us/pl/100/204/s185/b], Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366]; [Pub. L. 103–236, title I, § 180(a)(6)][/us/pl/103/236/s180/a/6], Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 326\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–437.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 601, Oct. 17, 1980, [94 Stat. 2094][/us/stat/94/2094]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 185(b), Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 180(a)(6), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 326\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–437.)
 
  __Amendments__ 
 
@@ -73,17 +73,17 @@
 
  __Reports Eliminated__ 
 
-    [Pub. L. 104–66, title II, § 2241][/us/pl/104/66/s2241], Dec. 21, 1995, [109 Stat. 733][/us/stat/109/733], which provided that reports required under [section 4001(c)(4) of this title][/us/usc/t22/s4001/c/4] would not cover activities of the United States Information Agency, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(5), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
+    [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2241, Dec. 21, 1995, [109 Stat. 733][/us/stat/109/733], which provided that reports required under [section 4001(c)(4) of this title][/us/usc/t22/s4001/c/4] would not cover activities of the United States Information Agency, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(5), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
 
  __Language Training in Foreign Service__ 
 
-[Pub. L. 102–138, title I, § 155][/us/pl/102/138/s155], Oct. 28, 1991, [105 Stat. 675][/us/stat/105/675], as amended by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(q), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], provided that: 
+[Pub. L. 102–138, title I][/us/pl/102/138/tI], § 155, Oct. 28, 1991, [105 Stat. 675][/us/stat/105/675], as amended by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(q), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], provided that: 
 
 > “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
 
  __Foreign Service Promotion Panels__ 
 
-[Pub. L. 101–246, title I, § 163][/us/pl/101/246/s163], Feb. 16, 1990, [104 Stat. 47][/us/stat/104/47], as amended by [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412], provided that: 
+[Pub. L. 101–246, title I][/us/pl/101/246/tI], § 163, Feb. 16, 1990, [104 Stat. 47][/us/stat/104/47], as amended by [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412], provided that: 
 
 > “It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
 
@@ -95,7 +95,7 @@
 
  __Language Proficiency in Employee Evaluation Report__ 
 
-    [Pub. L. 101–246, title I, § 164][/us/pl/101/246/s164], Feb. 16, 1990, [104 Stat. 47][/us/stat/104/47], required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee’s effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by [Pub. L. 103–236, title I, § 191(b)][/us/pl/103/236/s191/b], Apr. 30, 1994, [108 Stat. 418][/us/stat/108/418]. See [section 191(a) of Pub. L. 103–236][/us/pl/103/236/s191/a], set out as a note under [section 3926 of this title][/us/usc/t22/s3926].
+    [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 164, Feb. 16, 1990, [104 Stat. 47][/us/stat/104/47], required revision of employee and officer evaluation reports for Foreign Service officers of Department of State and Agency for International Development to include separate assessment of employee’s effectiveness in using foreign language and required that precedence in promotion be given to officers achieving certain levels of proficiency in foreign language, prior to repeal by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 191(b), Apr. 30, 1994, [108 Stat. 418][/us/stat/108/418]. See [section 191(a) of Pub. L. 103–236][/us/pl/103/236/s191/a], set out as a note under [section 3926 of this title][/us/usc/t22/s3926].
 
 ----------
 
@@ -113,33 +113,33 @@
 [/us/usc/t22/s4007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4007%2Fa
 [/us/usc/t22/s3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3923
 [/us/usc/t22/s3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3924
-[/us/pl/96/465/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs601
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2094
-[/us/pl/100/204/s185/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs185%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1366
-[/us/pl/103/236/s180/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs180%2Fa%2F6
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F416
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/104/66/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2241
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F733
 [/us/usc/t22/s4001/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4001%2Fc%2F4
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/102/138/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs155
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F675
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
-[/us/pl/101/246/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs163
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F47
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
-[/us/pl/101/246/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs164
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F47
-[/us/pl/103/236/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs191%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F418
 [/us/pl/103/236/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs191%2Fa
 [/us/usc/t22/s3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3926

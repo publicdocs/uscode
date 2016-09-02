@@ -15,7 +15,7 @@
 
 ## § 1281a. Repealed. [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 403(a)(35), [666 Stat. 279][/us/stat/666/279]
 
-    Section, [act Mar. 24, 1934, ch. 84, § 14][/us/act/1934-03-24/ch84/s14], [48 Stat. 464][/us/stat/48/464], related to immigration after independence. See section 1151 et seq. of Title 8, Aliens and Nationality.
+    Section, [act Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 14, [48 Stat. 464][/us/stat/48/464], related to immigration after independence. See section 1151 et seq. of Title 8, Aliens and Nationality.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/666/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F666%2F279
-[/us/act/1934-03-24/ch84/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs14
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F464
 
 

@@ -33,7 +33,7 @@
 
         will be considered an act of aggression which will be met with an appropriate response in order to maintain the security of the national borders of the United States and the health and safety of the American people.
 
-([Pub. L. 104–114, title I, § 101][/us/pl/104/114/s101], Mar. 12, 1996, [110 Stat. 791][/us/stat/110/791].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 101, Mar. 12, 1996, [110 Stat. 791][/us/stat/110/791].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs101
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F791
 
 

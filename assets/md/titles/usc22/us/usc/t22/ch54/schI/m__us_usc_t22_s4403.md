@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary of State $15,000,000 for the fiscal year 2003 for grants to The Asia Foundation pursuant to this subchapter.
 
-([Pub. L. 98–164, title IV, § 404][/us/pl/98/164/s404], Nov. 22, 1983, [97 Stat. 1039][/us/stat/97/1039]; [Pub. L. 99–93, title IV, § 401][/us/pl/99/93/s401], Aug. 16, 1985, [99 Stat. 437][/us/stat/99/437]; [Pub. L. 100–204, title VI, § 601][/us/pl/100/204/s601], Dec. 22, 1987, [101 Stat. 1383][/us/stat/101/1383]; [Pub. L. 101–246, title V, § 501][/us/pl/101/246/s501], Feb. 16, 1990, [104 Stat. 73][/us/stat/104/73]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXI, § 2103, Oct. 21, 1998, [112 Stat. 2681–803][/us/stat/112/2681-803]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title I, § 105\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–414; [Pub. L. 107–228, div. A, title I, § 116][/us/pl/107/228/s116], Sept. 30, 2002, [116 Stat. 1360][/us/stat/116/1360].)
+([Pub. L. 98–164, title IV][/us/pl/98/164/tIV], § 404, Nov. 22, 1983, [97 Stat. 1039][/us/stat/97/1039]; [Pub. L. 99–93, title IV][/us/pl/99/93/tIV], § 401, Aug. 16, 1985, [99 Stat. 437][/us/stat/99/437]; [Pub. L. 100–204, title VI][/us/pl/100/204/tVI], § 601, Dec. 22, 1987, [101 Stat. 1383][/us/stat/101/1383]; [Pub. L. 101–246, title V][/us/pl/101/246/tV], § 501, Feb. 16, 1990, [104 Stat. 73][/us/stat/104/73]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXI, § 2103, Oct. 21, 1998, [112 Stat. 2681–803][/us/stat/112/2681-803]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title I, § 105\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–414; [Pub. L. 107–228, div. A, title I][/us/pl/107/228/dA/tI], § 116, Sept. 30, 2002, [116 Stat. 1360][/us/stat/116/1360].)
 
  __Amendments__ 
 
@@ -44,19 +44,19 @@
 ----------
 ----------
 
-[/us/pl/98/164/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs404
+[/us/pl/98/164/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtIV
 [/us/stat/97/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1039
-[/us/pl/99/93/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs401
+[/us/pl/99/93/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtIV
 [/us/stat/99/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F437
-[/us/pl/100/204/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs601
+[/us/pl/100/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVI
 [/us/stat/101/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1383
-[/us/pl/101/246/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs501
+[/us/pl/101/246/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtV
 [/us/stat/104/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F73
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-803
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs116
+[/us/pl/107/228/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtI
 [/us/stat/116/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1360
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

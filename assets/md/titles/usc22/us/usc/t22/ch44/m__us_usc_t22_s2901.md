@@ -27,11 +27,11 @@
 
     (b) It is therefore the purpose of this chapter to provide for the use of an amount equal to a part of the total sum payable by Japan to the United States in connection with the reversion of Okinawa to Japanese administration and the remaining funds of the amount set aside in 1962 for educational and cultural exchange with Japan (known as the G.A.R.I.O.A. Account) to aid education and culture at the highest level in order to enhance reciprocal people-to-people understanding and to support the close friendship and mutuality of interests between the United States and Japan.
 
-([Pub. L. 94–118, § 2][/us/pl/94/118/s2], Oct. 20, 1975, [89 Stat. 603][/us/stat/89/603].)
+([Pub. L. 94–118][/us/pl/94/118], § 2, Oct. 20, 1975, [89 Stat. 603][/us/stat/89/603].)
 
  __Short Title__ 
 
-[Pub. L. 94–118, § 1][/us/pl/94/118/s1], Oct. 20, 1975, [89 Stat. 603][/us/stat/89/603], provided: 
+[Pub. L. 94–118][/us/pl/94/118], § 1, Oct. 20, 1975, [89 Stat. 603][/us/stat/89/603], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Japan-United States Friendship Act’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/94/118/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs2
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F603
-[/us/pl/94/118/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs1
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F603
 
 

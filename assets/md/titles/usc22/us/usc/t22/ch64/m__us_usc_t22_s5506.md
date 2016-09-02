@@ -31,7 +31,7 @@
 
         Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate procedures for the deployment of a “crisis team”, which may include public affairs, forensic, and bereavement experts, to the site of any international disaster involving United States citizens abroad to augment in-country Embassy and consulate staff. The Secretary of State shall promptly issue such rules and guidelines as are necessary to implement procedures developed pursuant to this subsection.
 
-([Pub. L. 101–604, title II, § 207][/us/pl/101/604/s207], Nov. 16, 1990, [104 Stat. 3084][/us/stat/104/3084].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 207, Nov. 16, 1990, [104 Stat. 3084][/us/stat/104/3084].)
 
  __Authority of Secretary of State__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs207
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3084
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

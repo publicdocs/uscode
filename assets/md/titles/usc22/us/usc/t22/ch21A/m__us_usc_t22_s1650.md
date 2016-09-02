@@ -17,7 +17,7 @@
 
     The President may make such appointments of representatives and panel members as may be provided for under the convention.
 
-([Pub. L. 89–532, § 2][/us/pl/89/532/s2], Aug. 11, 1966, [80 Stat. 344][/us/stat/80/344].)
+([Pub. L. 89–532][/us/pl/89/532], § 2, Aug. 11, 1966, [80 Stat. 344][/us/stat/80/344].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 89–532, § 1][/us/pl/89/532/s1], Aug. 11, 1966, [80 Stat. 344][/us/stat/80/344], provided: 
+[Pub. L. 89–532][/us/pl/89/532], § 1, Aug. 11, 1966, [80 Stat. 344][/us/stat/80/344], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Convention on the Settlement of Investment Disputes Act of 1966’.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/89/532/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F532%2Fs2
+[/us/pl/89/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F532
 [/us/stat/80/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F344
-[/us/pl/89/532/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F532%2Fs1
+[/us/pl/89/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F532
 [/us/stat/80/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F344
 
 

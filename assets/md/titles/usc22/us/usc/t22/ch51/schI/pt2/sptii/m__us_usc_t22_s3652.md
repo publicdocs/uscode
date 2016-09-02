@@ -41,7 +41,7 @@
 
         The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4).
 
-([Pub. L. 96–70, title I, § 1212][/us/pl/96/70/s1212], Sept. 27, 1979, [93 Stat. 464][/us/stat/93/464]; [Pub. L. 104–201, div. C, title XXXV, § 3530(a)][/us/pl/104/201/s3530/a], Sept. 23, 1996, [110 Stat. 2862][/us/stat/110/2862]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85], §§ 3523(d), 3550(d)(5), Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065], 2074; [Pub. L. 105–261, div. A, title XXXV][/us/pl/105/261], §§ 3507(c), 3512(a)(2), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], 2271.)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1212, Sept. 27, 1979, [93 Stat. 464][/us/stat/93/464]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3530(a), Sept. 23, 1996, [110 Stat. 2862][/us/stat/110/2862]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], §§ 3523(d), 3550(d)(5), Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065], 2074; [Pub. L. 105–261, div. A, title XXXV][/us/pl/105/261/dA/tXXXV], §§ 3507(c), 3512(a)(2), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], 2271.)
 
  __References in Text__ 
 
@@ -55,19 +55,19 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b)(3). [Pub. L. 105–261, § 3512(a)(2)][/us/pl/105/261/s3512/a/2], inserted “the” after “by the head of”.
+    1998—Subsec. (b)(3). [Pub. L. 105–261][/us/pl/105/261], § 3512(a)(2), inserted “the” after “by the head of”.
 
-    [Pub. L. 105–261, § 3507(c)][/us/pl/105/261/s3507/c], substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of [Public Law 105–85][/us/pl/105/85]; [110 Stat. 2062][/us/stat/110/2062]), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
+    [Pub. L. 105–261][/us/pl/105/261], § 3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of [Public Law 105–85][/us/pl/105/85]; [110 Stat. 2062][/us/stat/110/2062]), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
 
-    1997—Subsec. (b)(3). [Pub. L. 105–85, § 3550(d)(5)][/us/pl/105/85/s3550/d/5], substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
+    1997—Subsec. (b)(3). [Pub. L. 105–85][/us/pl/105/85], § 3550(d)(5), substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
 
-    [Pub. L. 105–85, § 3523(d)][/us/pl/105/85/s3523/d], substituted “, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of [Public Law 104–201][/us/pl/104/201]; [110 Stat. 2860][/us/stat/110/2860]), or the Panama Canal Transition Facilitation Act of 1997” for “or the Panama Canal Act Amendments of 1996”.
+    [Pub. L. 105–85][/us/pl/105/85], § 3523(d), substituted “, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of [Public Law 104–201][/us/pl/104/201]; [110 Stat. 2860][/us/stat/110/2860]), or the Panama Canal Transition Facilitation Act of 1997” for “or the Panama Canal Act Amendments of 1996”.
 
     1996—[Pub. L. 104–201][/us/pl/104/201] amended section generally, substituting subsecs. (a) to (c) requiring the Commission to establish a Panama Canal Employment System for former subsecs. (a) to (d) requiring the President to establish such a System.
 
  __Savings Provision__ 
 
-[Pub. L. 104–201, div. C, title XXXV, § 3530(b)][/us/pl/104/201/s3530/b], Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863], provided that: 
+[Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3530(b), Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863], provided that: 
 
 > “The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) \[amending this section\] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 \[this section\], as amended by subsection (a).”
 
@@ -85,13 +85,13 @@
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2860
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/96/70/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1212
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F464
-[/us/pl/104/201/s3530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3530%2Fa
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2862
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2065
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
@@ -105,16 +105,16 @@
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/112/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2267
 [/us/usc/t22/s3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3657
-[/us/pl/105/261/s3512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3512%2Fa%2F2
-[/us/pl/105/261/s3507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fc
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/stat/110/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2062
-[/us/pl/105/85/s3550/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F5
-[/us/pl/105/85/s3523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3523%2Fd
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2860
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/201/s3530/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3530%2Fb
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2863
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 

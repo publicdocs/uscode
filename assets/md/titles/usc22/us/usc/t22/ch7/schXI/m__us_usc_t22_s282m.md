@@ -17,7 +17,7 @@
 
     The United States Governor of the Corporation may vote in favor of any increase in the capital stock of the Corporation that may be needed to accommodate the requirements of the independent states of the former Soviet Union (as defined in [section 5801 of this title][/us/usc/t22/s5801]).
 
-([Aug. 11, 1955, ch. 788, § 15][/us/act/1955-08-11/ch788/s15], as added [Pub. L. 102–511, title X, § 1005][/us/pl/102/511/s1005], Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 15, as added [Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1005, Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
-[/us/act/1955-08-11/ch788/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs15
-[/us/pl/102/511/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1005
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/102/511/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtX
 [/us/stat/106/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3361
 
 

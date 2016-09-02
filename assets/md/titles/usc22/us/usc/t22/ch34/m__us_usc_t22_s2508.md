@@ -17,7 +17,7 @@
 
     In order to provide for assistance by foreign nationals in the training of volunteers, and to permit effective implementation of Peace Corps projects with due regard for the desirability of cost-sharing arrangements, where appropriate, the President may make provision for transportation, housing, subsistence, or per diem in lieu thereof, and health care or health and accident insurance for foreign nationals engaged in activities authorized by this chapter while they are away from their homes, without regard to the provisions of any other law: Provided, however, That per diem in lieu of subsistence furnished to such persons shall not be at rates higher than those prescribed by the Secretary of State pursuant to [section 2679 of title 22][/us/usc/t22/s2679]. Such persons, and persons coming to the United States under contract pursuant to [section 2509(a)(5) of this title][/us/usc/t22/s2509/a/5], may be admitted to the United States, if otherwise qualified, as nonimmigrants under [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15] for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General. A person admitted under this section who fails to maintain the status under which he was admitted or who fails to depart from the United States at the expiration of the time for which he was admitted, or who engages in activities of a political nature detrimental to the interests of the United States, or in activities not consistent with the security of the United States, shall, upon the warrant of the Attorney General, be taken into custody and promptly removed pursuant to chapter 4 of title II of the Immigration and Nationality Act \[[8 U.S.C. 1221][/us/usc/t8/s1221] et seq.\]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period and “Removal”. </sup></sup>  proceedings under this section shall be summary and the findings of the Attorney General as to matters of fact shall be conclusive.
 
-([Pub. L. 87–293, title I, § 9][/us/pl/87/293/s9], Sept. 22, 1961, [75 Stat. 617][/us/stat/75/617]; [Pub. L. 97–113, title VI, § 605(a)][/us/pl/97/113/s605/a], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]; [Pub. L. 104–208, div. C, title III, § 308(e)(18)][/us/pl/104/208/s308/e/18], Sept. 30, 1996, [110 Stat. 3009–621][/us/stat/110/3009-621].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 9, Sept. 22, 1961, [75 Stat. 617][/us/stat/75/617]; [Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 605(a), Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(e)(18), Sept. 30, 1996, [110 Stat. 3009–621][/us/stat/110/3009-621].)
 
  __References in Text__ 
 
@@ -54,11 +54,11 @@
 [/us/usc/t22/s2509/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2509%2Fa%2F5
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
-[/us/pl/87/293/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs9
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F617
-[/us/pl/97/113/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs605%2Fa
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1543
-[/us/pl/104/208/s308/e/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F18
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-621
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

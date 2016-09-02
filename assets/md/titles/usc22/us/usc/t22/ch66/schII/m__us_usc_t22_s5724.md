@@ -17,7 +17,7 @@
 
     In carrying out this subchapter, the President shall consult appropriately with the Congress.
 
-([Pub. L. 102–383, title II, § 204][/us/pl/102/383/s204], Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
+([Pub. L. 102–383, title II][/us/pl/102/383/tII], § 204, Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/383/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs204
+[/us/pl/102/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtII
 [/us/stat/106/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1453
 
 

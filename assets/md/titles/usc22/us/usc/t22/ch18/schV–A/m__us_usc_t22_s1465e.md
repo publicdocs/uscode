@@ -43,7 +43,7 @@
 
         This section shall enter into effect on October 1, 1984.
 
-([Pub. L. 98–111, § 7][/us/pl/98/111/s7], Oct. 4, 1983, [97 Stat. 752][/us/stat/97/752]; [Pub. L. 98–411, title V, § 512][/us/pl/98/411/s512], Aug. 30, 1984, [98 Stat. 1574][/us/stat/98/1574]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1324(2), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
+([Pub. L. 98–111][/us/pl/98/111], § 7, Oct. 4, 1983, [97 Stat. 752][/us/stat/97/752]; [Pub. L. 98–411, title V][/us/pl/98/411/tV], § 512, Aug. 30, 1984, [98 Stat. 1574][/us/stat/98/1574]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1324(2), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
 
  __Repeal of Section__ 
 
@@ -70,11 +70,11 @@
 ----------
 ----------
 
-[/us/pl/98/111/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs7
+[/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F752
-[/us/pl/98/411/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs512
+[/us/pl/98/411/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2FtV
 [/us/stat/98/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1574
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-781
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc

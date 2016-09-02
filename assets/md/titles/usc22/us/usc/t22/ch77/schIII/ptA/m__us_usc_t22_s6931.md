@@ -17,7 +17,7 @@
 
     It shall be the objective of the United States to obtain as part of the Protocol of Accession of the People’s Republic of China to the WTO, an annual review within the WTO of the compliance by the People’s Republic of China with its terms of accession to the WTO.
 
-([Pub. L. 106–286, div. B, title IV, § 401][/us/pl/106/286/s401], Oct. 10, 2000, [114 Stat. 900][/us/stat/114/900].)
+([Pub. L. 106–286, div. B, title IV][/us/pl/106/286/dB/tIV], § 401, Oct. 10, 2000, [114 Stat. 900][/us/stat/114/900].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs401
+[/us/pl/106/286/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIV
 [/us/stat/114/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F900
 
 

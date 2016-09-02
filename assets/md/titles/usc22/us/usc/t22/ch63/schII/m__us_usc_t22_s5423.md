@@ -47,7 +47,7 @@
 
         Any activities carried out pursuant to this chapter through the Farmer-to-Farmer Program under section 1736(a)(1) and (2) of title 7 shall be funded with funds authorized to be appropriated by this chapter and local currencies made available under [section 5425 of this title][/us/usc/t22/s5425], and shall not be funded with funds made available pursuant to section 1107 of the Food Security Act of 1985 ([7 U.S.C. 1736][/us/usc/t7/s1736] note) or a similar, subsequent provision of law.
 
-([Pub. L. 101–179, title II, § 203][/us/pl/101/179/s203], Nov. 28, 1989, [103 Stat. 1309][/us/stat/103/1309]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(U), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
+([Pub. L. 101–179, title II][/us/pl/101/179/tII], § 203, Nov. 28, 1989, [103 Stat. 1309][/us/stat/103/1309]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(U), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s5425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5425
 [/us/usc/t7/s1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736
-[/us/pl/101/179/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs203
+[/us/pl/101/179/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtII
 [/us/stat/103/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1309
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

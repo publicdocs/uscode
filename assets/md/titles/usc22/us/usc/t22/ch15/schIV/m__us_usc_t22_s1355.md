@@ -25,7 +25,7 @@
 
  __References in Text__ 
 
-    Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a reference to section 2470(a)(2) of the Internal Revenue Code of 1939. Section 2470 was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and was reenacted as sections 4511 and 4513 of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. Sections 4511 and 4513 of Title 26 were repealed by [Pub. L. 87–456, title III, § 302(d)][/us/pl/87/456/s302/d], May 24, 1962, [76 Stat. 77][/us/stat/76/77], effective Aug. 31, 1963.
+    Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a reference to section 2470(a)(2) of the Internal Revenue Code of 1939. Section 2470 was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and was reenacted as sections 4511 and 4513 of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. Sections 4511 and 4513 of Title 26 were repealed by [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 302(d), May 24, 1962, [76 Stat. 77][/us/stat/76/77], effective Aug. 31, 1963.
 
  __Termination of Suspension of Additional Rate on Coconut Oil__ 
 
@@ -45,9 +45,9 @@
 [/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
 [/us/stat/60/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F157
 [/us/usc/t22/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1373
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/87/456/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs302%2Fd
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F77
 [/us/stat/63/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1279
 [/us/stat/60/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1349

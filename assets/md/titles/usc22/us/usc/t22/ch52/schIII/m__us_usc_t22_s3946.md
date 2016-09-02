@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed to limit the authority of the Secretary or the Foreign Service Grievance Board under [section 4137 of this title][/us/usc/t22/s4137].
 
-([Pub. L. 96–465, title I, § 306][/us/pl/96/465/s306], Oct. 17, 1980, [94 Stat. 2086][/us/stat/94/2086]; [Pub. L. 100–204, title I, § 181(c)][/us/pl/100/204/s181/c], Dec. 22, 1987, [101 Stat. 1363][/us/stat/101/1363].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 306, Oct. 17, 1980, [94 Stat. 2086][/us/stat/94/2086]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 181(c), Dec. 22, 1987, [101 Stat. 1363][/us/stat/101/1363].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–204, title I, § 181(e)][/us/pl/100/204/s181/e], Dec. 22, 1987, [101 Stat. 1364][/us/stat/101/1364], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 181(e), Dec. 22, 1987, [101 Stat. 1364][/us/stat/101/1364], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 4010 and 4137 of this title\] shall not apply with respect to any grievance in which the Board has issued a final decision pursuant to section 1107 of the Foreign Service Act of 1980 ([22 U.S.C. 4137][/us/usc/t22/s4137]) before the date of enactment of this Act \[Dec. 22, 1987\].”
 
@@ -53,12 +53,12 @@
 [/us/usc/t22/s3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3943
 [/us/usc/t22/s3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942
 [/us/usc/t22/s4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4137
-[/us/pl/96/465/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs306
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2086
-[/us/pl/100/204/s181/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs181%2Fc
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1363
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/100/204/s181/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs181%2Fe
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1364
 [/us/usc/t22/s4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4137
 

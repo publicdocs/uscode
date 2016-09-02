@@ -31,7 +31,7 @@
 
         For purposes of this section, the terms “program of education” and “educational institution” have the meanings given the terms in [section 3501 of title 38][/us/usc/t38/s3501].
 
-([Pub. L. 96–465, title I, § 416][/us/pl/96/465/s416], as added [Pub. L. 113–76, div. K, title VII, § 7082(b)(1)][/us/pl/113/76/s7082/b/1], Jan. 17, 2014, [128 Stat. 566][/us/stat/128/566].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 416, as added [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7082(b)(1), Jan. 17, 2014, [128 Stat. 566][/us/stat/128/566].)
 
  __References in Text__ 
 
@@ -56,8 +56,8 @@
 [/us/usc/t38/s3532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3532
 [/us/usc/t38/s3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3564
 [/us/usc/t38/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3501
-[/us/pl/96/465/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs416
-[/us/pl/113/76/s7082/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7082%2Fb%2F1
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F566
 [/us/usc/t22/s2656f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927

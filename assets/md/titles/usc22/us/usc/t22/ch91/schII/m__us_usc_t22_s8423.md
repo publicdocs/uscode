@@ -75,7 +75,7 @@
 
         (2) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate.
 
-([Pub. L. 111–73, title II, § 203][/us/pl/111/73/s203], Oct. 15, 2009, [123 Stat. 2071][/us/stat/123/2071].)
+([Pub. L. 111–73, title II][/us/pl/111/73/tII], § 203, Oct. 15, 2009, [123 Stat. 2071][/us/stat/123/2071].)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s8421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8421
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
-[/us/pl/111/73/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs203
+[/us/pl/111/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtII
 [/us/stat/123/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2071
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320

@@ -27,7 +27,7 @@
 
         Whenever any proclamation issued under the authority of [section 441(a) of this title][/us/usc/t22/s441/a] shall have been revoked with respect to any state the provisions of this section shall thereupon cease to apply with respect to such state, except as to offenses committed prior to such revocation.
 
-([Nov. 4, 1939, ch. 2, § 8][/us/act/1939-11-04/ch2/s8], [54 Stat. 8][/us/stat/54/8].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 8, [54 Stat. 8][/us/stat/54/8].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t22/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441%2Fa
 [/us/usc/t22/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441%2Fa
-[/us/act/1939-11-04/ch2/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs8
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F8
 
 

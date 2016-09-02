@@ -29,7 +29,7 @@
 
     (c) The Secretary of State, with the assistance of other relevant officials, shall establish as part of the standard training provided for chiefs of mission, deputy chiefs of mission, and other officers of the Service who are or will be involved in the assessment of child soldier use or the drafting of the annual Human Rights Report instruction on matters related to child soldiers, and the substance of the Child Soldiers Prevention Act of 2008.
 
-([Pub. L. 96–465, title I, § 708][/us/pl/96/465/s708], as added and amended [Pub. L. 105–292, title I, § 104][/us/pl/105/292/s104], title VI, § 602(b), Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795], 2812; [Pub. L. 107–132, § 2(b)][/us/pl/107/132/s2/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412]; [Pub. L. 109–164, title I, § 104(d)][/us/pl/109/164/s104/d], Jan. 10, 2006, [119 Stat. 3565][/us/stat/119/3565]; [Pub. L. 110–457, title IV, § 406][/us/pl/110/457/s406], Dec. 23, 2008, [122 Stat. 5091][/us/stat/122/5091].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 708, as added and amended [Pub. L. 105–292, title I][/us/pl/105/292/tI], § 104, title VI, § 602(b), Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795], 2812; [Pub. L. 107–132][/us/pl/107/132], § 2(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412]; [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 104(d), Jan. 10, 2006, [119 Stat. 3565][/us/stat/119/3565]; [Pub. L. 110–457, title IV][/us/pl/110/457/tIV], § 406, Dec. 23, 2008, [122 Stat. 5091][/us/stat/122/5091].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
     2002—Subsec. (a). [Pub. L. 107–132][/us/pl/107/132] inserted “George P. Shultz” after “director of the” in introductory provisions.
 
-    1998—[Pub. L. 105–292, § 602(b)][/us/pl/105/292/s602/b], designated existing provisions as subsec. (a) and added subsec. (b).
+    1998—[Pub. L. 105–292][/us/pl/105/292], § 602(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -61,14 +61,14 @@
 [/us/usc/t22/s6411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6411%2Fb
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
-[/us/pl/96/465/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs708
-[/us/pl/105/292/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs104
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2795
-[/us/pl/107/132/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs2%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
-[/us/pl/109/164/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fd
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3565
-[/us/pl/110/457/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs406
+[/us/pl/110/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIV
 [/us/stat/122/5091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5091
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
@@ -80,7 +80,7 @@
 [/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
 [/us/usc/t22/s6411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6411%2Fb
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
-[/us/pl/105/292/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs602%2Fb
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/pl/110/457/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs407
 [/us/usc/t22/s2370c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370c

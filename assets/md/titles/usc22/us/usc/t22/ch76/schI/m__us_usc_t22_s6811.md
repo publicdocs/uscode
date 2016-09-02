@@ -27,7 +27,7 @@
 
         In this section, the term “HIV/AIDS” means, with respect to an individual, an individual who is infected with the human immunodeficiency virus (HIV), the pathogen that causes the acquired immune deficiency virus (AIDS), or living with AIDS.
 
-([Pub. L. 106–264, title I, § 113][/us/pl/106/264/s113], Aug. 19, 2000, [114 Stat. 753][/us/stat/114/753].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 113, Aug. 19, 2000, [114 Stat. 753][/us/stat/114/753].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/264/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs113
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F753
 
 

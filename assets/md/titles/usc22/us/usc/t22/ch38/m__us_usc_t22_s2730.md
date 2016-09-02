@@ -45,7 +45,7 @@
 
             The term “to effect the involuntary return” means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person’s will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 58, as added [Pub. L. 107–228, div. A, title II, § 241][/us/pl/107/228/s241], Sept. 30, 2002, [116 Stat. 1373][/us/stat/116/1373].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 58, as added [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 241, Sept. 30, 2002, [116 Stat. 1373][/us/stat/116/1373].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t22/s2601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2601%2Fc
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/107/228/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs241
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1373
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

@@ -29,7 +29,7 @@
 
         The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a), an additional salary increase to any higher step in the salary class in which the member is serving.
 
-([Pub. L. 96–465, title I, § 406][/us/pl/96/465/s406], Oct. 17, 1980, [94 Stat. 2089][/us/stat/94/2089].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 406, Oct. 17, 1980, [94 Stat. 2089][/us/stat/94/2089].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4002
-[/us/pl/96/465/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs406
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2089
 
 

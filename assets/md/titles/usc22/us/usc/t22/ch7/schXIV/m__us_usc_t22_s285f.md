@@ -17,7 +17,7 @@
 
     For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the agreement, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office or agency in the United States is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in [section 460 of title 28][/us/usc/t28/s460], shall have original jurisdiction of any such action. When the Bank is a defendant in any action in a State court, it may, at any time before the trial thereof, remove such action into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
-([Pub. L. 89–369, § 8][/us/pl/89/369/s8], Mar. 16, 1966, [80 Stat. 72][/us/stat/80/72].)
+([Pub. L. 89–369][/us/pl/89/369], § 8, Mar. 16, 1966, [80 Stat. 72][/us/stat/80/72].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
-[/us/pl/89/369/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs8
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/stat/80/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F72
 
 

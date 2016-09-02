@@ -31,7 +31,7 @@
 
     (7) except as specially set forth in this subpart, any other cause.
 
-([Pub. L. 96–70, title I, § 1414][/us/pl/96/70/s1414], Sept. 27, 1979, [93 Stat. 486][/us/stat/93/486]; [Pub. L. 99–209, § 3][/us/pl/99/209/s3], Dec. 23, 1985, [99 Stat. 1717][/us/stat/99/1717].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1414, Sept. 27, 1979, [93 Stat. 486][/us/stat/93/486]; [Pub. L. 99–209][/us/pl/99/209], § 3, Dec. 23, 1985, [99 Stat. 1717][/us/stat/99/1717].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1414
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F486
-[/us/pl/99/209/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209%2Fs3
+[/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209
 [/us/stat/99/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1717
 [/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209
 [/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209

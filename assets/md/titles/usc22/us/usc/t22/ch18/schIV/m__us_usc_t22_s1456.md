@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    [Section 1439 of this title][/us/usc/t22/s1439], referred to in text, was repealed by [Pub. L. 96–470, title I, § 117][/us/pl/96/470/s117], Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240].
+    [Section 1439 of this title][/us/usc/t22/s1439], referred to in text, was repealed by [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 117, Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240].
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F8
 [/us/usc/t22/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1439
-[/us/pl/96/470/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs117
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2240
 
 

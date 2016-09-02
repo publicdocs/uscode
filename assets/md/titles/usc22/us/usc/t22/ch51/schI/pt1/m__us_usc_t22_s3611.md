@@ -19,7 +19,7 @@
 
     (b) The principal office of the Commission shall be located in the Republic of Panama in one of the areas made available for use of the United States under the Panama Canal Treaty of 1977 and related agreements, but the Commission may establish branch offices in such other places as it considers necessary or appropriate for the conduct of its business. Within the meaning of the laws of the United States relating to venue in civil actions, the Commission is an inhabitant and resident of the District of Columbia and the eastern judicial district of Louisiana.
 
-([Pub. L. 96–70, title I, § 1101][/us/pl/96/70/s1101], Sept. 27, 1979, [93 Stat. 456][/us/stat/93/456]; [Pub. L. 104–106, div. C, title XXXV, § 3522(a)][/us/pl/104/106/s3522/a], Feb. 10, 1996, [110 Stat. 638][/us/stat/110/638].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1101, Sept. 27, 1979, [93 Stat. 456][/us/stat/93/456]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3522(a), Feb. 10, 1996, [110 Stat. 638][/us/stat/110/638].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Recommendations by President on Changes to Panama Canal Commission Structure__ 
 
-[Pub. L. 102–484, div. C, title XXXV, § 3522][/us/pl/102/484/s3522], Oct. 23, 1992, [106 Stat. 2657][/us/stat/106/2657], provided that:
+[Pub. L. 102–484, div. C, title XXXV][/us/pl/102/484/dC/tXXXV], § 3522, Oct. 23, 1992, [106 Stat. 2657][/us/stat/106/2657], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Report by Comptroller General on Changes to Panama Canal Commission Structure__ 
 
-[Pub. L. 102–484, div. C, title XXXV, § 3523][/us/pl/102/484/s3523], Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that:
+[Pub. L. 102–484, div. C, title XXXV][/us/pl/102/484/dC/tXXXV], § 3523, Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -92,18 +92,18 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1101
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F456
-[/us/pl/104/106/s3522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3522%2Fa
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F638
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t22/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612
-[/us/pl/102/484/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3522
+[/us/pl/102/484/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXV
 [/us/stat/106/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2657
-[/us/pl/102/484/s3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3523
+[/us/pl/102/484/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXV
 [/us/stat/106/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2658
 
 

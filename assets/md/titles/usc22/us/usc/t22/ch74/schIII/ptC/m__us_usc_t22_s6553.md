@@ -17,7 +17,7 @@
 
     The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title][/us/usc/t22/s1469] and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2015.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1334, Oct. 21, 1998, [112 Stat. 2681–786][/us/stat/112/2681-786]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 404(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–446; [Pub. L. 107–77, title IV, § 407(a)][/us/pl/107/77/s407/a], Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790]; [Pub. L. 109–108, title IV, § 410][/us/pl/109/108/s410], Nov. 22, 2005, [119 Stat. 2327][/us/stat/119/2327]; [Pub. L. 110–21, § 1][/us/pl/110/21/s1], May 2, 2007, [121 Stat. 87][/us/stat/121/87]; [Pub. L. 111–70, § 1][/us/pl/111/70/s1], Oct. 9, 2009, [123 Stat. 2057][/us/stat/123/2057]; [Pub. L. 112–239, div. A, title XII, § 1280(d)(1)][/us/pl/112/239/s1280/d/1], Jan. 2, 2013, [126 Stat. 2033][/us/stat/126/2033].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1334, Oct. 21, 1998, [112 Stat. 2681–786][/us/stat/112/2681-786]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title IV, § 404(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–446; [Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 407(a), Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790]; [Pub. L. 109–108, title IV][/us/pl/109/108/tIV], § 410, Nov. 22, 2005, [119 Stat. 2327][/us/stat/119/2327]; [Pub. L. 110–21][/us/pl/110/21], § 1, May 2, 2007, [121 Stat. 87][/us/stat/121/87]; [Pub. L. 111–70][/us/pl/111/70], § 1, Oct. 9, 2009, [123 Stat. 2057][/us/stat/123/2057]; [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1280(d)(1), Jan. 2, 2013, [126 Stat. 2033][/us/stat/126/2033].)
 
  __References in Text__ 
 
@@ -39,25 +39,25 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1280(d)(2)][/us/pl/112/239/s1280/d/2], Jan. 2, 2013, [126 Stat. 2033][/us/stat/126/2033], provided that: 
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1280(d)(2), Jan. 2, 2013, [126 Stat. 2033][/us/stat/126/2033], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2010.”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–77, title IV, § 407(b)][/us/pl/107/77/s407/b], Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790], provided that: 
+[Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 407(b), Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 \[H.R. 3427, as enacted by Pub. L. 106-113, div. B, § 1000(a)(7)\].”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 404(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–447, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title IV, § 404(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–447, provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Foreign Affairs Reform and Restructuring Act of 1998 \[[Pub. L. 105–277, div. G][/us/pl/105/277], see Short Title note set out under [section 6501 of this title][/us/usc/t22/s6501]\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Foreign Affairs Reform and Restructuring Act of 1998 \[[Pub. L. 105–277, div. G][/us/pl/105/277/dG], see Short Title note set out under [section 6501 of this title][/us/usc/t22/s6501]\].”
 
  __Continuation of United States Advisory Commission on Public Diplomacy__ 
 
-[Pub. L. 114–113, div. K, title VII, § 7034(k)(12)][/us/pl/114/113/s7034/k/12], Dec. 18, 2015, [129 Stat. 2766][/us/stat/129/2766], provided that: 
+[Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7034(k)(12), Dec. 18, 2015, [129 Stat. 2766][/us/stat/129/2766], provided that: 
 
 > “Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 ([22 U.S.C. 6553][/us/usc/t22/s6553]) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2015’.”
 
@@ -69,19 +69,19 @@
 ----------
 
 [/us/usc/t22/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-786
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/77/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs407%2Fa
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
-[/us/pl/109/108/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs410
+[/us/pl/109/108/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtIV
 [/us/stat/119/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2327
-[/us/pl/110/21/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F21%2Fs1
+[/us/pl/110/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F21
 [/us/stat/121/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F87
-[/us/pl/111/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F70%2Fs1
+[/us/pl/111/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F70
 [/us/stat/123/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2057
-[/us/pl/112/239/s1280/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1280%2Fd%2F1
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2033
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
@@ -91,15 +91,15 @@
 [/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1469
-[/us/pl/112/239/s1280/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1280%2Fd%2F2
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2033
-[/us/pl/107/77/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs407%2Fb
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/usc/t22/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6501
-[/us/pl/114/113/s7034/k/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fk%2F12
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2766
 [/us/usc/t22/s6553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6553
 

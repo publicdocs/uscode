@@ -43,7 +43,7 @@
 
         Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 703, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664].)
+([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 703, as added [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(a), Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664].)
 
  __Prior Provisions__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fa
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3664
 [/us/pl/87/195/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs703
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463

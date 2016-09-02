@@ -127,7 +127,7 @@
 
         (C) transferred directly to a position which is supervisory or administrative in nature after performing duties described in subparagraph (A) for at least 3 years.
 
-([Pub. L. 96–465, title I, § 804][/us/pl/96/465/s804], Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV][/us/pl/99/335], §§ 402(a)(2), (3), 403, 404(a), June 6, 1986, [100 Stat. 609][/us/stat/100/609], 610; [Pub. L. 100–238, title II, § 211][/us/pl/100/238/s211], Jan. 8, 1988, [101 Stat. 1773][/us/stat/101/1773]; [Pub. L. 105–382, § 2(a)(1)][/us/pl/105/382/s2/a/1], Nov. 13, 1998, [112 Stat. 3406][/us/stat/112/3406].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 804, Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], §§ 402(a)(2), (3), 403, 404(a), June 6, 1986, [100 Stat. 609][/us/stat/100/609], 610; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 211, Jan. 8, 1988, [101 Stat. 1773][/us/stat/101/1773]; [Pub. L. 105–382][/us/pl/105/382], § 2(a)(1), Nov. 13, 1998, [112 Stat. 3406][/us/stat/112/3406].)
 
  __References in Text__ 
 
@@ -137,25 +137,25 @@
 
     1998—Par. (15). [Pub. L. 105–382][/us/pl/105/382] added par. (15).
 
-    1988—Par. (13). [Pub. L. 100–238, § 211(1)][/us/pl/100/238/s211/1], which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
+    1988—Par. (13). [Pub. L. 100–238][/us/pl/100/238], § 211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
 
-    [Pub. L. 100–238, § 211(2)][/us/pl/100/238/s211/2], (3), substituted “9 months” for “one year” and inserted before semicolon at end “, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
+    [Pub. L. 100–238][/us/pl/100/238], § 211(2), (3), substituted “9 months” for “one year” and inserted before semicolon at end “, except that the requirement for at least 9 months of marriage shall be deemed satisfied in any case in which the participant or annuitant dies within the applicable 9-month period, if—
 
     “(A) the death of such participant or annuitant was accidental; or
 
     “(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months”.
 
-    1986—[Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter” in provision preceding par. (1).
+    1986—[Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter” in provision preceding par. (1).
 
-    Par. (3). [Pub. L. 99–335, § 403][/us/pl/99/335/s403], substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in [section 1301(3) of title 25][/us/usc/t25/s1301/3]” for “or of the District of Columbia”.
+    Par. (3). [Pub. L. 99–335][/us/pl/99/335], § 403, substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in [section 1301(3) of title 25][/us/usc/t25/s1301/3]” for “or of the District of Columbia”.
 
-    Par. (10). [Pub. L. 99–335, § 404(a)][/us/pl/99/335/s404/a], inserted “(creditable under part I or II)” after “creditable service” in two places.
+    Par. (10). [Pub. L. 99–335][/us/pl/99/335], § 404(a), inserted “(creditable under part I or II)” after “creditable service” in two places.
 
-    Par. (14). [Pub. L. 99–335, § 402(a)(3)][/us/pl/99/335/s402/a/3], inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
+    Par. (14). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–382, § 4][/us/pl/105/382/s4], Nov. 13, 1998, [112 Stat. 3409][/us/stat/112/3409], as amended by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 145(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–250, provided that:
+[Pub. L. 105–382][/us/pl/105/382], § 4, Nov. 13, 1998, [112 Stat. 3409][/us/stat/112/3409], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 145(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–250, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -215,7 +215,7 @@
 
 >     For purposes of this section, the term ‘special agent’ has the meaning given such term under section 804(15) of the Foreign Service Act of 1980 ([22 U.S.C. 4044(15)][/us/usc/t22/s4044/15]), as amended by section 2(a).”
 
-\[[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 145(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–250, provided that: 
+\[[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 145(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–250, provided that: 
 
 > “The amendment made by this section \[amending [section 4 of Pub. L. 105–382][/us/pl/105/382/s4], set out above\] shall take effect on January 1, 2001.”
 
@@ -241,35 +241,35 @@
 [/us/usc/t22/s4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4061
 [/us/usc/t22/s2709/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2709%2Fa%2F3
 [/us/usc/t22/s4823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4823
-[/us/pl/96/465/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs804
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2102
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/100/238/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs211
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1773
-[/us/pl/105/382/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs2%2Fa%2F1
+[/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
 [/us/stat/112/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3406
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
-[/us/pl/100/238/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs211%2F1
-[/us/pl/100/238/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs211%2F2
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
-[/us/pl/99/335/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs403
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/usc/t25/s1301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1301%2F3
-[/us/pl/99/335/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs404%2Fa
-[/us/pl/99/335/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F3
-[/us/pl/105/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs4
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
 [/us/stat/112/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3409
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s4046/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fa%2F6
 [/us/usc/t22/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4041
 [/us/usc/t22/s4045/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fd
 [/us/usc/t22/s4044/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4044%2F15
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs4
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238

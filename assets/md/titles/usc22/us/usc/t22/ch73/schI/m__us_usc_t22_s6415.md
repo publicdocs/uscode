@@ -21,7 +21,7 @@
 
     (2) in allocating or recommending the allocation of funds or the recommendation of candidates for programs and grants funded by the United States Government, United States diplomatic missions should give particular consideration to those programs and candidates deemed to assist in the promotion of the right to religious freedom.
 
-([Pub. L. 105–292, title I, § 106][/us/pl/105/292/s106], Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 106, Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs106
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2796
 
 

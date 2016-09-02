@@ -17,7 +17,7 @@
 
     The Congress recognizes that shelter, including essential urban development services, is among the most fundamental of human needs. Shelter for most people in the developing countries consists largely of domestic materials assembled by local labor. While recognizing that most financing for such shelter must come from domestic resources, the Congress finds that carefully designed programs involving United States capital and expertise can increase the availability of domestic financing for improved shelter and related services for low-income people by demonstrating to local entrepreneurs and institutions that providing low-cost shelter can be financially viable. The Congress reaffirms, therefore, that the United States should continue to assist developing countries in marshalling resources for low-cost shelter. Particular attention should be given to programs which will support pilot projects for low-cost shelter or which will have a maximum demonstration impact on local institutions and national policy. The Congress declares that the long run goal of all such programs should be to develop domestic construction capabilities and to stimulate local credit institutions to make available domestic capital and other management and technological resources required for effective low-cost shelter programs and policies.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 221, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 807][/us/stat/83/807]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 103(a), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 93–189, § 5(1)][/us/pl/93/189/s5/1], Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–559, § 7(1)][/us/pl/93/559/s7/1], Dec. 30, 1974, [88 Stat. 1796][/us/stat/88/1796]; [Pub. L. 94–161, title III, § 311(3)][/us/pl/94/161/s311/3], Dec. 20, 1975, [89 Stat. 861][/us/stat/89/861]; [Pub. L. 95–88, title I, § 117(a)(1)][/us/pl/95/88/s117/a/1], Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I, § 115(a)][/us/pl/95/424/s115/a], Oct. 6, 1978, [92 Stat. 950][/us/stat/92/950]; [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 221, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 807][/us/stat/83/807]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 103(a), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 93–189][/us/pl/93/189], § 5(1), Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–559][/us/pl/93/559], § 7(1), Dec. 30, 1974, [88 Stat. 1796][/us/stat/88/1796]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 311(3), Dec. 20, 1975, [89 Stat. 861][/us/stat/89/861]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 117(a)(1), Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 115(a), Oct. 6, 1978, [92 Stat. 950][/us/stat/92/950]; [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903.)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Use of Funds From Sale of Notes for Discharge of Liabilities Under Guaranties; Transfer of Funds and Cancellation of Notes and Interest__ 
 
-[Pub. L. 90–249, title I, § 120][/us/pl/90/249/s120], Jan. 2, 1968, [81 Stat. 941][/us/stat/81/941], provided that: 
+[Pub. L. 90–249, title I][/us/pl/90/249/tI], § 120, Jan. 2, 1968, [81 Stat. 941][/us/stat/81/941], provided that: 
 
 > “Hereafter, none of the funds obtained or authorized to be obtained from the sale of notes under authority of paragraph 111(c)(2) of the Economic Cooperation Act of 1948 \[[section 1509(c)(2) of this title][/us/usc/t22/s1509/c/2]\] or paragraph 413(b)(4)(F) of the Mutual Security Act of 1954 \[[section 1933(b)(4)(F) of this title][/us/usc/t22/s1933/b/4/F]\] may be used for the purposes of discharging liabilities under any guaranties (exclusive of informational media guaranties) issued under sections 221(b) and 224 of the Foreign Assistance Act of 1961 \[subsec. (b) of this section and [section 2184 of this title][/us/usc/t22/s2184]\], sections 202(b) and 413(b)(4) of the Mutual Security Act of 1954 \[sections 1872(b) and 1933(b)(4) of this title\] and section 111(b)(3) of the Economic Cooperation Act of 1948 \[[section 1509(b)(3) of this title][/us/usc/t22/s1509/b/3]\]. Any portion of the funds in the reserve established pursuant to section 222(e) of the Foreign Assistance Act of 1961 \[[section 2182(e) of this title][/us/usc/t22/s2182/e]\] which are attributable to the funds realized from the sale of notes specified in the preceding sentence shall be transferred to the general fund of the Treasury. The Secretary of the Treasury shall cancel all such notes and sums owing and unpaid thereon, including interest to date of cancellation.”
 
@@ -65,17 +65,17 @@
 [/us/stat/83/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F807
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F22
-[/us/pl/93/189/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs5%2F1
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F717
-[/us/pl/93/559/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs7%2F1
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1796
-[/us/pl/94/161/s311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F3
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F861
-[/us/pl/95/88/s117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs117%2Fa%2F1
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F540
-[/us/pl/95/424/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fa
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F950
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
@@ -108,7 +108,7 @@
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/90/249/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2Fs120
+[/us/pl/90/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2FtI
 [/us/stat/81/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F941
 [/us/usc/t22/s1509/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1509%2Fc%2F2
 [/us/usc/t22/s1933/b/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1933%2Fb%2F4%2FF

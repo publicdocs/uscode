@@ -17,7 +17,7 @@
 
     The President shall designate, within the Department of State, a SEED Program coordinator who shall be directly responsible for overseeing and coordinating all programs described in this chapter and all other activities that the United States Government conducts in furtherance of the purposes of this chapter.
 
-([Pub. L. 101–179, title VI, § 601][/us/pl/101/179/s601], Nov. 28, 1989, [103 Stat. 1319][/us/stat/103/1319].)
+([Pub. L. 101–179, title VI][/us/pl/101/179/tVI], § 601, Nov. 28, 1989, [103 Stat. 1319][/us/stat/103/1319].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs601
+[/us/pl/101/179/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVI
 [/us/stat/103/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1319
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298

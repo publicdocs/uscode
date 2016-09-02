@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263a.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s264 _us_usc_t22_s265.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
 
 ## § 266. International commission of congresses of navigation; authorization of appropriation for expenses
 
@@ -19,34 +19,34 @@
 
     The national delegates aforesaid from the United States shall serve without compensation, but shall be reimbursed for their actual expenses incurred while traveling to and from the meetings, and while in attendance thereon, from the funds appropriated in this section and authorized to be expended.
 
-([June 28, 1902, ch. 1306][/us/act/1902-06-28/ch1306], [32 Stat. 485][/us/stat/32/485]; [June 26, 1934, ch. 756, § 2][/us/act/1934-06-26/ch756/s2], [48 Stat. 1225][/us/stat/48/1225]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([June 28, 1902, ch. 1306][/us/act/1902-06-28/ch1306], [32 Stat. 485][/us/stat/32/485]; [June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 2, [48 Stat. 1225][/us/stat/48/1225]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Appropriations__ 
 
-    [Act June 26, 1934, ch. 756, § 2][/us/act/1934-06-26/ch756/s2], [48 Stat. 1225][/us/stat/48/1225], which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Permanent International Commission of Congress of Navigation (fiscal year) (8–887)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+    [Act June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 2, [48 Stat. 1225][/us/stat/48/1225], which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Permanent International Commission of Congress of Navigation (fiscal year) (8–887)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263a.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s264 _us_usc_t22_s265.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs266)
 
 ----------
 ----------
 
 [/us/act/1902-06-28/ch1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-28%2Fch1306
 [/us/stat/32/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F485
-[/us/act/1934-06-26/ch756/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs2
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1225
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/act/1934-06-26/ch756/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs2
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1225
 
 

@@ -27,7 +27,7 @@
 
         At the request of any person who is a left-behind parent, including a left-behind parent who previously reported an abduction to the Central Authority of the United States before August 8, 2014, the notification required under subsection (a) shall be provided as soon as is practicable.
 
-([Pub. L. 113–150, title I, § 104][/us/pl/113/150/s104], Aug. 8, 2014, [128 Stat. 1816][/us/stat/128/1816].)
+([Pub. L. 113–150, title I][/us/pl/113/150/tI], § 104, Aug. 8, 2014, [128 Stat. 1816][/us/stat/128/1816].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/113/150/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs104
+[/us/pl/113/150/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtI
 [/us/stat/128/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1816
 
 

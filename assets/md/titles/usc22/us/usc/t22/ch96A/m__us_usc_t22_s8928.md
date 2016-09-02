@@ -43,7 +43,7 @@
 
         Any assistance provided pursuant to this section shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this section. The President shall provide a briefing on the activities funded by this section at the request of the committees specified in subsection (c).
 
-([Pub. L. 113–272, § 9][/us/pl/113/272/s9], Dec. 18, 2014, [128 Stat. 2964][/us/stat/128/2964].)
+([Pub. L. 113–272][/us/pl/113/272], § 9, Dec. 18, 2014, [128 Stat. 2964][/us/stat/128/2964].)
 
  __Delegation of Functions__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/113/272/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs9
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2964
 [/us/usc/t22/s8925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8925
 

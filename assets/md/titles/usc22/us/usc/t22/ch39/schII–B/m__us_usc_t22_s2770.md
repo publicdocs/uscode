@@ -27,7 +27,7 @@
 
         For the purpose of this section, the terms “defense articles” and “defense services” mean defense articles and defense services as defined in section 2794(3) and (4) of this title.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2B, § 30, as added [Pub. L. 97–392, § 1][/us/pl/97/392/s1], Dec. 29, 1982, [96 Stat. 1962][/us/stat/96/1962]; amended [Pub. L. 101–165, title IX, § 9097][/us/pl/101/165/s9097], Nov. 21, 1989, [103 Stat. 1150][/us/stat/103/1150].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2B, § 30, as added [Pub. L. 97–392][/us/pl/97/392], § 1, Dec. 29, 1982, [96 Stat. 1962][/us/stat/96/1962]; amended [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9097, Nov. 21, 1989, [103 Stat. 1150][/us/stat/103/1150].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/97/392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F392%2Fs1
+[/us/pl/97/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F392
 [/us/stat/96/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1962
-[/us/pl/101/165/s9097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9097
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1150
 [/us/pl/101/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778

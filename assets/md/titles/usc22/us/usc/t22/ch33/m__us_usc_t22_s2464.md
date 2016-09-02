@@ -27,7 +27,7 @@
 
         For purposes of subsection (a), the phrase “activities related to ethical issues in human subject research” includes courses of study, conferences, and fora on development of and compliance with international ethical standards for clinical trials involving human subjects, particularly with respect to responsibilities of researchers to individuals and local communities participating in such trials, and on management and monitoring of such trials based on such international ethical standards.
 
-([Pub. L. 107–228, div. A, title II, § 228][/us/pl/107/228/s228], Sept. 30, 2002, [116 Stat. 1371][/us/stat/116/1371].)
+([Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 228, Sept. 30, 2002, [116 Stat. 1371][/us/stat/116/1371].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/228/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs228
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1371
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651

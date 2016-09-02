@@ -41,7 +41,7 @@
 
         Not later than 1 year after June 24, 2009, and annually thereafter, the Secretary of the Treasury shall submit a report on the status of efforts to implement this section to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 95–118, title XIII, § 1308][/us/pl/95/118/s1308], as added [Pub. L. 111–32, title XI, § 1111][/us/pl/111/32/s1111], June 24, 2009, [123 Stat. 1903][/us/stat/123/1903].)
+([Pub. L. 95–118, title XIII][/us/pl/95/118/tXIII], § 1308, as added [Pub. L. 111–32, title XI][/us/pl/111/32/tXI], § 1111, June 24, 2009, [123 Stat. 1903][/us/stat/123/1903].)
 
  __Prior Provisions__ 
 
@@ -56,8 +56,8 @@
 
 [/us/usc/t22/s262r/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F4
 [/us/usc/t22/s262r/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F4
-[/us/pl/95/118/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1308
-[/us/pl/111/32/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1111
+[/us/pl/95/118/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIII
+[/us/pl/111/32/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXI
 [/us/stat/123/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1903
 [/us/pl/95/118/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1308
 [/us/usc/t22/s262m–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%937

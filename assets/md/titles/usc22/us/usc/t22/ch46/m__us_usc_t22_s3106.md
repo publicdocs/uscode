@@ -23,11 +23,11 @@
 
         Any official designated by the President to carry out this chapter may use, on a reimbursable basis when appropriate (as determined by the President), the available services, equipment, personnel, and facilities of any agency or instrumentality of the United States Government.
 
-([Pub. L. 94–472, § 7][/us/pl/94/472/s7], Oct. 11, 1976, [90 Stat. 2064][/us/stat/90/2064].)
+([Pub. L. 94–472][/us/pl/94/472], § 7, Oct. 11, 1976, [90 Stat. 2064][/us/stat/90/2064].)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (a), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (a), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
 ----------
 
@@ -37,10 +37,10 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/94/472/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs7
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2064
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 
 

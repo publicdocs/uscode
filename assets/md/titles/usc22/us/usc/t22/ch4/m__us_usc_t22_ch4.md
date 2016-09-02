@@ -57,6 +57,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs212b" data-uslm-ref="/us/usc/t22/s212b">212b.</a>  </td>
+
+    <td> Unique passport identifiers for covered sex offenders.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs213" data-uslm-ref="/us/usc/t22/s213">213.</a>  </td>
 
     <td> Application for passport; verification by oath of initial passport.  </td>

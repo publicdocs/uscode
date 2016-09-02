@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, with the approval of the National Endowment for Democracy, grant funds made available by the National Endowment for Democracy may be deposited in interest-bearing accounts pending disbursement, and any interest which accrues may be retained by the grantee without returning such interest to the Treasury of the United States and interest earned may be obligated and expended for the purposes for which the grant was made without further appropriation.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIV, § 2411, Oct. 21, 1998, [112 Stat. 2681–831][/us/stat/112/2681-831].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIV, § 2411, Oct. 21, 1998, [112 Stat. 2681–831][/us/stat/112/2681-831].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-831
 
 

@@ -53,7 +53,7 @@
 
         (C) urgent and ongoing evaluation of Iran’s energy, national security, financial, and telecommunications sectors, to gauge the effects of, and possible defects in, particular sanctions, with prompt efforts to correct any gaps in the existing sanctions regime with respect to Iran.
 
-([Pub. L. 112–158, title I, § 101][/us/pl/112/158/s101], Aug. 10, 2012, [126 Stat. 1216][/us/stat/126/1216].)
+([Pub. L. 112–158, title I][/us/pl/112/158/tI], § 101, Aug. 10, 2012, [126 Stat. 1216][/us/stat/126/1216].)
 
  __Termination of Section__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/158/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs101
+[/us/pl/112/158/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtI
 [/us/stat/126/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1216
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158

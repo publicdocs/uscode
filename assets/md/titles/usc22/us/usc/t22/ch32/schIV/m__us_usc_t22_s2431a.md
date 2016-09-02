@@ -65,7 +65,7 @@
 
         The term “Tropical Forest Fund” or “Fund” means a Tropical Forest Fund provided for in [section 2431h of this title][/us/usc/t22/s2431h].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 803, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 886][/us/stat/112/886].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 803, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 886][/us/stat/112/886].)
 
  __Prior Provisions__ 
 
@@ -92,7 +92,7 @@
 [/us/usc/t22/s2431b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431b
 [/us/usc/t22/s2431h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431h
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F886
 [/us/pl/87/195/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs803
 [/us/usc/t22/s2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2433

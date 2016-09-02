@@ -17,7 +17,7 @@
 
     Any reference to sales of defense articles under this chapter in any provision of law restricting the countries or organizations to which such sales may be made shall be deemed to include a reference to leases of defense articles under this subchapter.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 64, as added [Pub. L. 97–113, title I, § 109(a)][/us/pl/97/113/s109/a], Dec. 29, 1981, [95 Stat. 1526][/us/stat/95/1526].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 64, as added [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 109(a), Dec. 29, 1981, [95 Stat. 1526][/us/stat/95/1526].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/97/113/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs109%2Fa
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1526
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321

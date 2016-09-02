@@ -19,7 +19,7 @@
 
     (b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated without fiscal year limitation $361,904,726 for payment by the Secretary of the Treasury.
 
-([Pub. L. 89–369, § 20][/us/pl/89/369/s20], as added [Pub. L. 93–537][/us/pl/93/537], Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735].)
+([Pub. L. 89–369][/us/pl/89/369], § 20, as added [Pub. L. 93–537][/us/pl/93/537], Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/89/369/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs20
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/pl/93/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F537
 [/us/stat/88/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1735
 

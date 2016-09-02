@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    [Section 1605 of this title][/us/usc/t22/s1605], referred to in text, means [section 1605 of title XVI of Pub. L. 110–417][/us/pl/110/417/s1605].
+    [Section 1605 of this title][/us/usc/t22/s1605], referred to in text, means [section 1605 of title XVI of Pub. L. 110–417][/us/pl/110/417/tXVI/s1605].
 
     This title, the first time appearing in subsec. (b), means title XVI of [Pub. L. 110–417][/us/pl/110/417], \[div. A\], Oct. 14, 2008, [122 Stat. 4652][/us/stat/122/4652], known as the Reconstruction and Stabilization Civilian Management Act of 2008, which enacted this section, sections 2368 and 2734 of this title, and provisions set out as notes under this section and sections 2151 and 2368 of this title. For complete classification of this title to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
@@ -73,7 +73,7 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4656
 [/us/usc/t22/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1605
-[/us/pl/110/417/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1605
+[/us/pl/110/417/tXVI/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FtXVI%2Fs1605
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4652
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

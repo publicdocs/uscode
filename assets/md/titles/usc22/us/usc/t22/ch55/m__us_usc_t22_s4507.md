@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter may be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction or research, administration, or personnel of any educational institution.
 
-([Pub. L. 98–164, title VIII, § 808][/us/pl/98/164/s808], Nov. 22, 1983, [97 Stat. 1050][/us/stat/97/1050].)
+([Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 808, Nov. 22, 1983, [97 Stat. 1050][/us/stat/97/1050].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/164/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs808
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1050
 
 

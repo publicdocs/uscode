@@ -37,7 +37,7 @@
 
         (2) Notwithstanding any other provision of this chapter, the Institute may use “United States” or “U.S.” or any other reference to the United States Government or Nation in its title or in its corporate seal, emblem, badge, or other mark of recognition or colorable simulation thereof in any fiscal year only if there is an authorization of appropriations for the Institute for such fiscal year provided by law.
 
-([Pub. L. 98–525, title XVII, § 1704][/us/pl/98/525/s1704], Oct. 19, 1984, [98 Stat. 2651][/us/stat/98/2651]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–520, title III, § 319(b)][/us/pl/101/520/s319/b], Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1704, Oct. 19, 1984, [98 Stat. 2651][/us/stat/98/2651]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 319(b), Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t26/s170/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fc%2F2%2FB
-[/us/pl/98/525/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1704
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2651
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/520/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs319%2Fb
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2285
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

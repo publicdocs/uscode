@@ -49,7 +49,7 @@
 
     (7) The term “profit” means any proceeds (including cash and other valuable consideration but not including amounts of such proceeds given as charitable contributions) for the sale, disposition, or assignment of personal property in excess of the basis for such property. For purposes of this chapter, basis shall include initial price, inland and overseas transportation costs (if not reimbursed by the United States Government), shipping insurance, taxes, customs fees, duties or other charges, and capital improvements, but shall not include insurance on an item while in use, or maintenance and related costs. For purposes of computing profit, proceeds and costs shall be valued in United States dollars at the time of receipt or payment, at a rate of exchange as determined by regulation or policy issued pursuant to [section 4343 of this title][/us/usc/t22/s4343].
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title III, § 301, as added [Pub. L. 100–204, title I, § 186(a)][/us/pl/100/204/s186/a], Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366]; amended [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title III, § 301, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 186(a), Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366]; amended [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–204, title I, § 186(b)][/us/pl/100/204/s186/b], Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 186(b), Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368], provided that: 
 
 > “This section \[enacting this chapter\] shall take effect 180 days after the date of enactment of this Act \[Dec. 22, 1987\].”
 
@@ -84,12 +84,12 @@
 [/us/usc/t22/s4343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4343
 [/us/usc/t22/s4343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4343
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/204/s186/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs186%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1366
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
-[/us/pl/100/204/s186/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs186%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1368
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

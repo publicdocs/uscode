@@ -57,7 +57,7 @@
 
         In this section, the term “multilateral development institution” shall have the meaning given in [section 262r(c)(3) of this title][/us/usc/t22/s262r/c/3].
 
-([Pub. L. 95–118, title XV, § 1504][/us/pl/95/118/s1504], as added [Pub. L. 108–199, div. D, title V, § 581][/us/pl/108/199/s581], Jan. 23, 2004, [118 Stat. 202][/us/stat/118/202].)
+([Pub. L. 95–118, title XV][/us/pl/95/118/tXV], § 1504, as added [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 581, Jan. 23, 2004, [118 Stat. 202][/us/stat/118/202].)
 
  __Definitions__ 
 
@@ -71,8 +71,8 @@
 ----------
 
 [/us/usc/t22/s262r/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F3
-[/us/pl/95/118/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1504
-[/us/pl/108/199/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs581
+[/us/pl/95/118/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXV
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F202
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 

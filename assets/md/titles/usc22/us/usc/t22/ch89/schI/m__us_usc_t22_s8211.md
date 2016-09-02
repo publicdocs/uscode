@@ -93,7 +93,7 @@
 
         There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-([Pub. L. 110–53, title XXI, § 2111][/us/pl/110/53/s2111], Aug. 3, 2007, [121 Stat. 529][/us/stat/121/529].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2111, Aug. 3, 2007, [121 Stat. 529][/us/stat/121/529].)
 
 ----------
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2111
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F529
 
 

@@ -29,7 +29,7 @@
 
             The report required under paragraph (1) may be included in any separate report on democracy and human rights policy submitted in accordance with section 665(c) of the Foreign Relations Authorization Act, Fiscal Year 2003.
 
-([Pub. L. 110–53, title XXI, § 2122][/us/pl/110/53/s2122], Aug. 3, 2007, [121 Stat. 532][/us/stat/121/532].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2122, Aug. 3, 2007, [121 Stat. 532][/us/stat/121/532].)
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/usc/t22/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2151n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n
-[/us/pl/110/53/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2122
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F532
 
 

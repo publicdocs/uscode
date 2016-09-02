@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s406.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s402...405.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
 
 ## § 401. Illegal exportation of war materials
 
@@ -27,7 +27,7 @@
 
         Arms and munitions of war forfeited under subsection (b) of this section shall be delivered to the Secretary of Defense for such use or disposition as he may deem in the public interest, or, in the event that the Secretary of Defense refuses to accept such arms and munitions of war, they shall be sold or otherwise disposed of as prescribed under existing law in the case of forfeitures for violation of the customs laws.
 
-([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 1, [40 Stat. 223][/us/stat/40/223]; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 523, [46 Stat. 740][/us/stat/46/740]; [Aug. 13, 1953, ch. 434, § 1][/us/act/1953-08-13/ch434/s1], [67 Stat. 577][/us/stat/67/577]; [Pub. L. 105–119, title II, § 211(a)][/us/pl/105/119/s211/a], Nov. 26, 1997, [111 Stat. 2487][/us/stat/111/2487].)
+([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 1, [40 Stat. 223][/us/stat/40/223]; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 523, [46 Stat. 740][/us/stat/46/740]; [Aug. 13, 1953, ch. 434][/us/act/1953-08-13/ch434], § 1, [67 Stat. 577][/us/stat/67/577]; [Pub. L. 105–119, title II][/us/pl/105/119/tII], § 211(a), Nov. 26, 1997, [111 Stat. 2487][/us/stat/111/2487].)
 
  __Amendments__ 
 
@@ -43,29 +43,17 @@
 
     Ex. Ord. No. 10863, Feb. 18, 1960, 25 F.R. 1507, provided:
 
-By virtue of the authority vested in me by [section 1 of Title VI of the act of June 15, 1917][/us/act/1917-06-15/s1], [40 Stat. 223][/us/stat/40/223], as amended by [section 1 of the act of August 13, 1953][/us/act/1953-08-13/s1], [67 Stat. 577][/us/stat/67/577] ([22 U.S.C. 401][/us/usc/t22/s401]), it is ordered as follows:
+By virtue of the authority vested in me by [section 1 of Title VI of the act of June 15, 1917][/us/act/1917-06-15/tVI/s1], [40 Stat. 223][/us/stat/40/223], as amended by [section 1 of the act of August 13, 1953][/us/act/1953-08-13/s1], [67 Stat. 577][/us/stat/67/577] ([22 U.S.C. 401][/us/usc/t22/s401]), it is ordered as follows:
 
-    Section 1. The Attorney General is hereby designated under [section 1 of Title VI of the act of June 15, 1917][/us/act/1917-06-15/s1], as amended by [section 1 of the act of August 13, 1953][/us/act/1953-08-13/s1] \[this section\], as a person duly authorized to seize and detain arms or munitions of war or other articles, and to seize and detain any vessel, vehicle, or aircraft containing such items or which has been, or is being, used in exporting or attempting to export such arms or munitions of war or other articles, whenever an attempt is made to export or ship from or take out of the United States such arms or munitions of war or other articles in violation of law, or whenever it is known, or there is probable cause to believe, that such arms or munitions of war or other articles are intended to be, or are being or have been, exported or removed from the United States in violation of law.
+    Section 1. The Attorney General is hereby designated under [section 1 of Title VI of the act of June 15, 1917][/us/act/1917-06-15/tVI/s1], as amended by [section 1 of the act of August 13, 1953][/us/act/1953-08-13/s1] \[this section\], as a person duly authorized to seize and detain arms or munitions of war or other articles, and to seize and detain any vessel, vehicle, or aircraft containing such items or which has been, or is being, used in exporting or attempting to export such arms or munitions of war or other articles, whenever an attempt is made to export or ship from or take out of the United States such arms or munitions of war or other articles in violation of law, or whenever it is known, or there is probable cause to believe, that such arms or munitions of war or other articles are intended to be, or are being or have been, exported or removed from the United States in violation of law.
 
     Sec. 2. The authority conferred upon the Attorney General by section 1 of this order may be exercised by any officer of the Department of Justice designated for such purpose by the Attorney General.
 
                               Dwight D. Eisenhower.
 
-§§ 402 to 405. __Repealed.__  __[__  __Aug. 13, 1953, ch. 434, § 2__  __][/us/act/1953-08-13/ch434/s2]__  __,__  __[__  __67 Stat. 577__  __][/us/stat/67/577]__ 
-
-    Section 402, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 2, [40 Stat. 224][/us/stat/40/224], related to issuance of warrant for detention of seized property.
-
-    Section 403, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 3, [40 Stat. 224][/us/stat/40/224], related to filing petition for restoration of seized property.
-
-    Section 404, acts [June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 4, [40 Stat. 224][/us/stat/40/224]; [Mar. 1, 1929, ch. 420][/us/act/1929-03-01/ch420], [45 Stat. 1423][/us/stat/45/1423], related to institution of libel proceedings and sale of seized property.
-
-    Section 405, [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, § 5, [40 Stat. 224][/us/stat/40/224], related to method of trial and bond for redelivery.
-
-    For subject matter of sections 402 to 405 of this title, see [section 401 of this title][/us/usc/t22/s401].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s406.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_ch9_schI.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s402...405.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401)
 
 ----------
 ----------
@@ -74,9 +62,9 @@ By virtue of the authority vested in me by [section 1 of Title VI of the act of 
 [/us/stat/40/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F223
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F740
-[/us/act/1953-08-13/ch434/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fch434%2Fs1
+[/us/act/1953-08-13/ch434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fch434
 [/us/stat/67/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F577
-[/us/pl/105/119/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs211%2Fa
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2487
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
@@ -84,25 +72,12 @@ By virtue of the authority vested in me by [section 1 of Title VI of the act of 
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
-[/us/act/1917-06-15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fs1
+[/us/act/1917-06-15/tVI/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2FtVI%2Fs1
 [/us/stat/40/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F223
 [/us/act/1953-08-13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fs1
 [/us/stat/67/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F577
 [/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
-[/us/act/1917-06-15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fs1
+[/us/act/1917-06-15/tVI/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2FtVI%2Fs1
 [/us/act/1953-08-13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fs1
-[/us/act/1953-08-13/ch434/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-13%2Fch434%2Fs2
-[/us/stat/67/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F577
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
-[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
-[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
-[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
-[/us/act/1929-03-01/ch420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch420
-[/us/stat/45/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1423
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
-[/us/stat/40/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F224
-[/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
 
 

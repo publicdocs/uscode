@@ -17,7 +17,7 @@
 
     Not later than 60 days before submitting to the IAEA any revisions to the United States declaration submitted under the Additional Protocol, the President shall submit to Congress a list of any sites, locations, facilities, or activities in the United States that the President intends to add to or remove from the declaration, and a report thereon.
 
-([Pub. L. 109–401, title II, § 272][/us/pl/109/401/s272], Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 272, Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs272
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2752
 
 

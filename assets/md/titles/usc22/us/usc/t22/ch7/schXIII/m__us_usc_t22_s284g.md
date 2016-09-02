@@ -17,7 +17,7 @@
 
     The provisions of article VII, section 5(d), and article VIII sections 2 to 9, both inclusive, of the articles shall have full force and effect in the United States, its possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in, and the establishment of, the Association.
 
-([Pub. L. 86–565, § 9][/us/pl/86/565/s9], June 30, 1960, [74 Stat. 295][/us/stat/74/295].)
+([Pub. L. 86–565][/us/pl/86/565], § 9, June 30, 1960, [74 Stat. 295][/us/stat/74/295].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/565/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs9
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
 [/us/stat/74/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F295
 
 

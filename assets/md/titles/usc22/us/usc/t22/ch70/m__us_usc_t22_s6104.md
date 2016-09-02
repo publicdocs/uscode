@@ -41,7 +41,7 @@
 
         A fellow detailed under subsection (a) may be paid by the Center for allowances and benefits listed in [section 6102(4)(B) of this title][/us/usc/t22/s6102/4/B].
 
-([Pub. L. 103–236, title II, § 255][/us/pl/103/236/s255], Apr. 30, 1994, [108 Stat. 431][/us/stat/108/431].)
+([Pub. L. 103–236, title II][/us/pl/103/236/tII], § 255, Apr. 30, 1994, [108 Stat. 431][/us/stat/108/431].)
 
  __Transfer of Functions__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
 [/us/usc/t22/s6102/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6102%2F4%2FB
-[/us/pl/103/236/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs255
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F431
 
 

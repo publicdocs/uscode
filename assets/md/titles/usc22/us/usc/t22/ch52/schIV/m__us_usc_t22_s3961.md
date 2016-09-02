@@ -19,7 +19,7 @@
 
     (b) The salary of a chief of mission shall commence upon the effective date of appointment to that position. The official services of a chief of mission are not terminated by the appointment of a successor, but shall continue for such additional period, not to exceed 50 days after relinquishment of charge of the mission, as the Secretary of State may determine. During that period, the Secretary of State may require the chief of mission to perform such functions as the Secretary of State deems necessary in the interest of the Government.
 
-([Pub. L. 96–465, title I, § 401][/us/pl/96/465/s401], Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087]; [Pub. L. 100–204, title I, § 177(a)][/us/pl/100/204/s177/a], Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362]; [Pub. L. 102–138, title I, § 142(b)][/us/pl/102/138/s142/b], Oct. 28, 1991, [105 Stat. 668][/us/stat/105/668]; [Pub. L. 108–447, div. B, title IV, § 412(c)][/us/pl/108/447/s412/c], Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 401, Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 177(a), Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 142(b), Oct. 28, 1991, [105 Stat. 668][/us/stat/105/668]; [Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], § 412(c), Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 [/us/usc/t22/s3942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fb
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307
 [/us/usc/t22/s3962/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3962%2Fa%2F3
-[/us/pl/96/465/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs401
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2087
-[/us/pl/100/204/s177/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs177%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1362
-[/us/pl/102/138/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs142%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F668
-[/us/pl/108/447/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs412%2Fc
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2905
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307

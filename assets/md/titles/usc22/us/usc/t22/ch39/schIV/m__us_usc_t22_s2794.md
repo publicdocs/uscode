@@ -63,35 +63,35 @@
 
     (11) “Sales territory” means a country or group of countries to which a defense article or defense service is authorized to be reexported.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 4, § 47, as added [Pub. L. 93–189, § 25(12)][/us/pl/93/189/s25/12], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; amended [Pub. L. 94–329, title II, § 215][/us/pl/94/329/s215], June 30, 1976, [90 Stat. 746][/us/stat/90/746]; [Pub. L. 96–92, § 22][/us/pl/96/92/s22], Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710]; [Pub. L. 96–533, title I, § 105(f)][/us/pl/96/533/s105/f], Dec. 16, 1980, [94 Stat. 3135][/us/stat/94/3135]; [Pub. L. 99–83, title I, § 107(b)][/us/pl/99/83/s107/b], title XII, § 1211(b)(3), Aug. 8, 1985, [99 Stat. 197][/us/stat/99/197], 279; [Pub. L. 104–164, title I, § 144][/us/pl/104/164/s144], July 21, 1996, [110 Stat. 1434][/us/stat/110/1434]; [Pub. L. 107–228, div. B, title XII, § 1202(b)][/us/pl/107/228/s1202/b], title XIV, § 1405(a)(4), Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427], 1458; [Pub. L. 113–276, title II][/us/pl/113/276], §§ 207, 208(b)(1)(B), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992], 2993.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 4, § 47, as added [Pub. L. 93–189][/us/pl/93/189], § 25(12), Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; amended [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 215, June 30, 1976, [90 Stat. 746][/us/stat/90/746]; [Pub. L. 96–92][/us/pl/96/92], § 22, Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 105(f), Dec. 16, 1980, [94 Stat. 3135][/us/stat/94/3135]; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 107(b), title XII, § 1211(b)(3), Aug. 8, 1985, [99 Stat. 197][/us/stat/99/197], 279; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 144, July 21, 1996, [110 Stat. 1434][/us/stat/110/1434]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1202(b), title XIV, § 1405(a)(4), Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427], 1458; [Pub. L. 113–276, title II][/us/pl/113/276/tII], §§ 207, 208(b)(1)(B), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992], 2993.)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
-    The Atomic Energy Act of 1954, as amended, referred to in par. (3), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, as amended, referred to in par. (3), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
  __Amendments__ 
 
-    2014—Par. (2). [Pub. L. 113–276, § 208(b)(1)(B)][/us/pl/113/276/s208/b/1/B], substituted “2761(a) of this title,” for “2761(a) of this title,,” in introductory provisions.
+    2014—Par. (2). [Pub. L. 113–276][/us/pl/113/276], § 208(b)(1)(B), substituted “2761(a) of this title,” for “2761(a) of this title,,” in introductory provisions.
 
-    Par. (3). [Pub. L. 113–276, § 207(1)][/us/pl/113/276/s207/1], in introductory provisions, substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States—” for “includes—”.
+    Par. (3). [Pub. L. 113–276][/us/pl/113/276], § 207(1), in introductory provisions, substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States—” for “includes—”.
 
-    Par. (4). [Pub. L. 113–276, § 207(2)][/us/pl/113/276/s207/2], substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States,” for “includes”.
+    Par. (4). [Pub. L. 113–276][/us/pl/113/276], § 207(2), substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States,” for “includes”.
 
-    2002—Par. (10). [Pub. L. 107–228, § 1202(b)][/us/pl/107/228/s1202/b], added par. (10).
+    2002—Par. (10). [Pub. L. 107–228][/us/pl/107/228], § 1202(b), added par. (10).
 
-    Par. (11). [Pub. L. 107–228, § 1405(a)(4)][/us/pl/107/228/s1405/a/4], added par. (11).
+    Par. (11). [Pub. L. 107–228][/us/pl/107/228], § 1405(a)(4), added par. (11).
 
     1996—Par. (9). [Pub. L. 104–164][/us/pl/104/164] added par. (9).
 
-    1985—Par. (2). [Pub. L. 99–83, § 107(b)][/us/pl/99/83/s107/b], inserted “, except as otherwise provided in [section 2761(a) of this title][/us/usc/t22/s2761/a],”.
+    1985—Par. (2). [Pub. L. 99–83][/us/pl/99/83], § 107(b), inserted “, except as otherwise provided in [section 2761(a) of this title][/us/usc/t22/s2761/a],”.
 
-    Par. (6). [Pub. L. 99–83, § 1211(b)(3)][/us/pl/99/83/s1211/b/3], substituted “military” for “combat”.
+    Par. (6). [Pub. L. 99–83][/us/pl/99/83], § 1211(b)(3), substituted “military” for “combat”.
 
-    1980—Par. (4). [Pub. L. 96–533, § 105(f)(1)][/us/pl/96/533/s105/f/1], excluded from term “defense service” design and construction services under [section 2769 of this title][/us/usc/t22/s2769].
+    1980—Par. (4). [Pub. L. 96–533][/us/pl/96/533], § 105(f)(1), excluded from term “defense service” design and construction services under [section 2769 of this title][/us/usc/t22/s2769].
 
-    Par. (8). [Pub. L. 96–533, § 105(f)(2)][/us/pl/96/533/s105/f/2]–(4), added par. (8).
+    Par. (8). [Pub. L. 96–533][/us/pl/96/533], § 105(f)(2)–(4), added par. (8).
 
     1979—Par. (3). [Pub. L. 96–92][/us/pl/96/92] defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
@@ -117,41 +117,41 @@
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
 [/us/usc/t50/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302%2F1
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/93/189/s25/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F12
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F731
-[/us/pl/94/329/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs215
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F746
-[/us/pl/96/92/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs22
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F710
-[/us/pl/96/533/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Ff
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3135
-[/us/pl/99/83/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs107%2Fb
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F197
-[/us/pl/104/164/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs144
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1434
-[/us/pl/107/228/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1202%2Fb
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1427
-[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/113/276/s208/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fb%2F1%2FB
-[/us/pl/113/276/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs207%2F1
-[/us/pl/113/276/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs207%2F2
-[/us/pl/107/228/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1202%2Fb
-[/us/pl/107/228/s1405/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1405%2Fa%2F4
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
+[/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
-[/us/pl/99/83/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs107%2Fb
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/usc/t22/s2761/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fa
-[/us/pl/99/83/s1211/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1211%2Fb%2F3
-[/us/pl/96/533/s105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Ff%2F1
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
-[/us/pl/96/533/s105/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Ff%2F2
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83

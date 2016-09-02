@@ -39,7 +39,7 @@
 
         In addition, the Secretary of the Treasury should instruct the United States Executive Director of the International Bank for Reconstruction and Development and the United States Executive Director of the Inter-American Development Bank to encourage such institutions to provide coordination among other multilateral and bilateral assistance programs designed to reduce the economic dependence of regions of borrowing countries known to be areas in which illicit narcotics are produced or trafficked, on such production and trafficking.
 
-([Pub. L. 95–118, title XVI, § 1606][/us/pl/95/118/s1606], as added [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1606, as added [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
 
  __Codification__ 
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1606
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/pl/95/118/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1606
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461

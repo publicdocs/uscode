@@ -33,7 +33,7 @@
 
         Funds appropriated pursuant to this chapter shall not be expended by the United States Government for the acquisition of any drug product or pharmaceutical product manufactured outside the United States if the manufacture of such drug product or pharmaceutical product in the United States would involve the use of, or be covered by, an unexpired patent of the United States which has not previously been held invalid by an unappealed or un­appealable judgment or decree of a court of competent jurisdiction, unless such manufacture is expressly authorized by the owner of such patent.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 606, Sept. 4, 1961, [75 Stat. 440][/us/stat/75/440]; [Pub. L. 97–164, title I, § 160(a)(6)][/us/pl/97/164/s160/a/6], Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 606, Sept. 4, 1961, [75 Stat. 440][/us/stat/75/440]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(6), Apr. 2, 1982, [96 Stat. 48][/us/stat/96/48]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 [/us/usc/t28/s1498/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1498%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F440
-[/us/pl/97/164/s160/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F6
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

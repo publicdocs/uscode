@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s441.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s445.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs444)
+[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s442 _us_usc_t22_s443.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s445.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs444)
 
 ## § 444. American Red Cross vessels
 
@@ -23,11 +23,11 @@
 
         The provisions of sections 442(a) and 443 1 of this title shall not prohibit a vessel, in ballast, unarmed, and not under convoy, and transporting refugee children, under sixteen years of age, from war zones, or combat areas, and shall not prohibit such vessel entering into such war zones or combat areas for this purpose, together with such necessary American citizen adult personnel in charge as may be approved by the Secretary of State, subject to the provisions of the immigration laws, if such vessel is proceeding under safe conduct granted by all of the States named in the proclamations issued under the authority of [section 441(a) of this title][/us/usc/t22/s441/a], and if such vessel has painted on a large scale prominently, distinctly, and unmistakably on each side thereof and upon the superstructure thereof plainly visible from the air an American flag and a statement to the effect that such vessel is a refugee-child rescue ship of the United States or under United States registry: Provided, That every such child so brought into the United States shall, previous to departure from the port of embarkation, have been so sponsored by some responsible American person, natural or corporate, that he will not become a public charge.
 
-([Nov. 4, 1939, ch. 2, § 4][/us/act/1939-11-04/ch2/s4], [54 Stat. 7][/us/stat/54/7]; [June 26, 1940, ch. 431][/us/act/1940-06-26/ch431], [54 Stat. 611][/us/stat/54/611]; [Aug. 27, 1940, ch. 695][/us/act/1940-08-27/ch695], [54 Stat. 866][/us/stat/54/866].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 4, [54 Stat. 7][/us/stat/54/7]; [June 26, 1940, ch. 431][/us/act/1940-06-26/ch431], [54 Stat. 611][/us/stat/54/611]; [Aug. 27, 1940, ch. 695][/us/act/1940-08-27/ch695], [54 Stat. 866][/us/stat/54/866].)
 
  __References in Text__ 
 
-    Sections 442(a) and 443 of this title, referred to in subsecs. (a) and (b), were repealed by [act Nov. 17, 1941, ch. 473, § 1][/us/act/1941-11-17/ch473/s1], [55 Stat. 764][/us/stat/55/764].
+    Sections 442(a) and 443 of this title, referred to in subsecs. (a) and (b), were repealed by [act Nov. 17, 1941, ch. 473][/us/act/1941-11-17/ch473], § 1, [55 Stat. 764][/us/stat/55/764].
 
  __Amendments__ 
 
@@ -37,19 +37,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s441.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s445.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs444)
+[Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s442 _us_usc_t22_s443.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s445.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs444)
 
 ----------
 ----------
 
 [/us/usc/t22/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441%2Fa
-[/us/act/1939-11-04/ch2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs4
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F7
 [/us/act/1940-06-26/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch431
 [/us/stat/54/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F611
 [/us/act/1940-08-27/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-27%2Fch695
 [/us/stat/54/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F866
-[/us/act/1941-11-17/ch473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-17%2Fch473%2Fs1
+[/us/act/1941-11-17/ch473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-17%2Fch473
 [/us/stat/55/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F764
 [/us/usc/t22/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441%2Fa
 

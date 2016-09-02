@@ -43,7 +43,7 @@
 
         Nothing in this subchapter shall preclude the Endowment from making grants to independent labor unions.
 
-([Pub. L. 98–164, title V, § 503][/us/pl/98/164/s503], Nov. 22, 1983, [97 Stat. 1040][/us/stat/97/1040]; [Pub. L. 100–204, title II, § 212][/us/pl/100/204/s212], Dec. 22, 1987, [101 Stat. 1376][/us/stat/101/1376].)
+([Pub. L. 98–164, title V][/us/pl/98/164/tV], § 503, Nov. 22, 1983, [97 Stat. 1040][/us/stat/97/1040]; [Pub. L. 100–204, title II][/us/pl/100/204/tII], § 212, Dec. 22, 1987, [101 Stat. 1376][/us/stat/101/1376].)
 
  __References in Text__ 
 
@@ -67,9 +67,9 @@
 [/us/usc/t22/s4411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4411%2Fb
 [/us/usc/t22/s4411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4411%2Fb
 [/us/usc/t22/s4411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4411%2Fb
-[/us/pl/98/164/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs503
+[/us/pl/98/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtV
 [/us/stat/97/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1040
-[/us/pl/100/204/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs212
+[/us/pl/100/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtII
 [/us/stat/101/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1376
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/stat/97/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1017

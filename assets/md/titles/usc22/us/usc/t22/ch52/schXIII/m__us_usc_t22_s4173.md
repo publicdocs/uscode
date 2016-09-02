@@ -15,13 +15,13 @@
 
 ## § 4173. Congressional oversight of implementation
 
-    (a) __, (b) Repealed.__  __[__  __Pub. L. 100–204, title I, § 185(c)(2)__  __][/us/pl/100/204/s185/c/2]__  __,__  __Dec. 22, 1987__  __,__  __[__  __101 Stat. 1366__  __][/us/stat/101/1366]__ 
+    (a) __, (b) Repealed.__  __[__  __Pub. L. 100–204, title I__  __][/us/pl/100/204/tI]__  __, § 185(c)(2),__  __Dec. 22, 1987__  __,__  __[__  __101 Stat. 1366__  __][/us/stat/101/1366]__ 
 
     (c) __Consultation with agency representatives__ 
 
         The Secretary shall consult, in accordance with the procedures set out in [section 4113(g) of this title][/us/usc/t22/s4113/g], with the exclusive representative (if any) of members of the Foreign Service in each agency specified in [section 4103(a) of this title][/us/usc/t22/s4103/a] with respect to steps to be taken in implementing this chapter and reported under [section 4001(c)(4) of this title][/us/usc/t22/s4001/c/4]. To that end, each such exclusive representative will have timely access to all relevant information at each stage. Each such report shall include the views of each such exclusive representative on any and all aspects of the report and the information contained in such report.
 
-([Pub. L. 96–465, title II, § 2402][/us/pl/96/465/s2402], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 100–204, title I, § 185(c)(2)][/us/pl/100/204/s185/c/2], Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2402, Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 185(c)(2), Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366].)
 
  __Amendments__ 
 
@@ -36,14 +36,14 @@
 ----------
 ----------
 
-[/us/pl/100/204/s185/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs185%2Fc%2F2
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1366
 [/us/usc/t22/s4113/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4113%2Fg
 [/us/usc/t22/s4103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4103%2Fa
 [/us/usc/t22/s4001/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4001%2Fc%2F4
-[/us/pl/96/465/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2402
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2168
-[/us/pl/100/204/s185/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs185%2Fc%2F2
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1366
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204

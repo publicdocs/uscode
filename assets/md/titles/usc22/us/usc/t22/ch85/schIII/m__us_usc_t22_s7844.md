@@ -39,7 +39,7 @@
 
         (2) because access to refugees is essential to the UNHCR mandate and to the purpose of a UNHCR branch office, a failure to assert those arbitration rights in present circumstances would constitute a significant abdication by the UNHCR of one of its core responsibilities.
 
-([Pub. L. 108–333, title III, § 304][/us/pl/108/333/s304], Oct. 18, 2004, [118 Stat. 1296][/us/stat/118/1296].)
+([Pub. L. 108–333, title III][/us/pl/108/333/tIII], § 304, Oct. 18, 2004, [118 Stat. 1296][/us/stat/118/1296].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs304
+[/us/pl/108/333/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtIII
 [/us/stat/118/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1296
 
 

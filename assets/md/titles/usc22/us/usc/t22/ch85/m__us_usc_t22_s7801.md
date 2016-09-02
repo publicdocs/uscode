@@ -67,35 +67,35 @@
 
     (25) In addition to infringing the rights of its own citizens, the Government of North Korea has been responsible in years past for the abduction of numerous citizens of South Korea and Japan, whose condition and whereabouts remain unknown.
 
-([Pub. L. 108–333, § 3][/us/pl/108/333/s3], Oct. 18, 2004, [118 Stat. 1287][/us/stat/118/1287].)
+([Pub. L. 108–333][/us/pl/108/333], § 3, Oct. 18, 2004, [118 Stat. 1287][/us/stat/118/1287].)
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 112–264, § 1][/us/pl/112/264/s1], Jan. 14, 2013, [126 Stat. 2432][/us/stat/126/2432], provided that: 
+[Pub. L. 112–264][/us/pl/112/264], § 1, Jan. 14, 2013, [126 Stat. 2432][/us/stat/126/2432], provided that: 
 
 > “This Act \[enacting [section 7834 of this title][/us/usc/t22/s7834] and provisions set out as a note under [section 7834 of this title][/us/usc/t22/s7834]\] may be cited as the ‘North Korean Child Welfare Act of 2012’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–172, § 1][/us/pl/112/172/s1], Aug. 16, 2012, [126 Stat. 1307][/us/stat/126/1307], provided that: 
+[Pub. L. 112–172][/us/pl/112/172], § 1, Aug. 16, 2012, [126 Stat. 1307][/us/stat/126/1307], provided that: 
 
 > “This Act \[amending sections 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–346, § 1][/us/pl/110/346/s1], Oct. 7, 2008, [122 Stat. 3939][/us/stat/122/3939], provided that: 
+[Pub. L. 110–346][/us/pl/110/346], § 1, Oct. 7, 2008, [122 Stat. 3939][/us/stat/122/3939], provided that: 
 
 > “This Act \[amending sections 7803, 7812, 7814, 7817, 7831, 7833, and 7845 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘North Korean Human Rights Reauthorization Act of 2008’.”
 
  __Short Title__ 
 
-[Pub. L. 108–333, § 1][/us/pl/108/333/s1], Oct. 18, 2004, [118 Stat. 1287][/us/stat/118/1287], provided that: 
+[Pub. L. 108–333][/us/pl/108/333], § 1, Oct. 18, 2004, [118 Stat. 1287][/us/stat/118/1287], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘North Korean Human Rights Act of 2004’.”
 
  __Findings__ 
 
-[Pub. L. 112–172, § 2][/us/pl/112/172/s2], Aug. 16, 2012, [126 Stat. 1307][/us/stat/126/1307], provided that: 
+[Pub. L. 112–172][/us/pl/112/172], § 2, Aug. 16, 2012, [126 Stat. 1307][/us/stat/126/1307], provided that: 
 
 > “Congress finds the following:
 
@@ -115,7 +115,7 @@
 
 >     “(8) Following his 18 years of service in the House of Representatives, including as Chairman of the Foreign Affairs Subcommittee on East Asian and Pacific Affairs, Stephen J. Solarz committed himself to, in his words, highlighting ‘the plight of ordinary North Koreans who are denied even the most basic human rights, and the dramatic and heart-rending stories of those who risk their lives in the struggle to escape what is certainly the world’s worst nightmare’, and served as co-chairman of the Committee for Human Rights in North Korea until his death in 2010.”
 
-[Pub. L. 110–346, § 2][/us/pl/110/346/s2], Oct. 7, 2008, [122 Stat. 3939][/us/stat/122/3939], provided that: 
+[Pub. L. 110–346][/us/pl/110/346], § 2, Oct. 7, 2008, [122 Stat. 3939][/us/stat/122/3939], provided that: 
 
 > “Congress finds the following:
 
@@ -145,7 +145,7 @@
 
  __Sense of Congress__ 
 
-[Pub. L. 110–346, § 3][/us/pl/110/346/s3], Oct. 7, 2008, [122 Stat. 3940][/us/stat/122/3940], provided that: 
+[Pub. L. 110–346][/us/pl/110/346], § 3, Oct. 7, 2008, [122 Stat. 3940][/us/stat/122/3940], provided that: 
 
 > “It is the sense of Congress that—
 
@@ -174,29 +174,29 @@
 ----------
 ----------
 
-[/us/pl/108/333/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs3
+[/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/stat/118/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1287
-[/us/pl/112/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F264%2Fs1
+[/us/pl/112/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F264
 [/us/stat/126/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2432
 [/us/usc/t22/s7834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7834
 [/us/usc/t22/s7834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7834
-[/us/pl/112/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172%2Fs1
+[/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/stat/126/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1307
-[/us/pl/110/346/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs1
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3939
-[/us/pl/108/333/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs1
+[/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/stat/118/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1287
-[/us/pl/112/172/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172%2Fs2
+[/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/stat/126/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1307
 [/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/usc/t22/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7801
 [/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
-[/us/pl/110/346/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs2
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3939
 [/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/usc/t22/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7801
 [/us/usc/t22/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7801
-[/us/pl/110/346/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs3
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3940
 [/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/usc/t22/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7801

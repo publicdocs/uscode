@@ -17,7 +17,7 @@
 
     Subject to [section 3779(b) of this title][/us/usc/t22/s3779/b], the Commission shall promptly adjust and pay damages for injuries to vessels, or to the cargo, crew, or passengers of vessels which may arise by reason of their presence in the Panama Canal, or waters adjacent thereto, other than the locks, when the injury was proximately caused by negligence or fault on the part of an officer or employee of the United States acting within the scope of his employment and in the line of his duties in connection with the operation of the Canal. If the negligence or fault of the vessel, master, crew, or passengers proximately contributed to the injury, the award of damages shall be diminished in proportion to the negligence or fault attributable to the vessel, master, crew, or passengers. In the case of a vessel which is required by or pursuant to regulations prescribed pursuant to [section 3811 of this title][/us/usc/t22/s3811] to have a Panama Canal pilot on duty aboard, damages may not be adjusted and paid for injuries to the vessel, or its cargo, crew, or passengers, incurred while the vessel was underway and in motion, unless at the time the injuries were incurred the navigation or movement of the vessel was under the control of a Panama Canal pilot. No payment for damages on a claim may be made under this section unless the claim is filed with the Commission within one year after the date of the injury or by November 18, 1998, whichever is later.
 
-([Pub. L. 96–70, title I, § 1412][/us/pl/96/70/s1412], Sept. 27, 1979, [93 Stat. 485][/us/stat/93/485]; [Pub. L. 99–209, § 2(c)][/us/pl/99/209/s2/c], Dec. 23, 1985, [99 Stat. 1716][/us/stat/99/1716]; [Pub. L. 105–85, div. C, title XXXV, § 3543(a)][/us/pl/105/85/s3543/a], Nov. 18, 1997, [111 Stat. 2072][/us/stat/111/2072]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261], §§ 3509(a)(2), 3512(a)(4), Oct. 17, 1998, [112 Stat. 2270][/us/stat/112/2270], 2271.)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1412, Sept. 27, 1979, [93 Stat. 485][/us/stat/93/485]; [Pub. L. 99–209][/us/pl/99/209], § 2(c), Dec. 23, 1985, [99 Stat. 1716][/us/stat/99/1716]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3543(a), Nov. 18, 1997, [111 Stat. 2072][/us/stat/111/2072]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], §§ 3509(a)(2), 3512(a)(4), Oct. 17, 1998, [112 Stat. 2270][/us/stat/112/2270], 2271.)
 
  __Amendments__ 
 
@@ -40,13 +40,13 @@
 
 [/us/usc/t22/s3779/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3779%2Fb
 [/us/usc/t22/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3811
-[/us/pl/96/70/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1412
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F485
-[/us/pl/99/209/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209%2Fs2%2Fc
+[/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209
 [/us/stat/99/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1716
-[/us/pl/105/85/s3543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3543%2Fa
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2072
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2270
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t22/s3779/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3779%2Fb

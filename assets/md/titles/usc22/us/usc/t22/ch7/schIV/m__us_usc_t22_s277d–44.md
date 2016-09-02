@@ -95,39 +95,39 @@
 
             The Inspector General shall transmit to Congress a report containing the evaluation under paragraph (1) not later than 2 years after the execution of any contract with the owner of the Mexican facility under this section, 3 years thereafter, and periodically after the second report under this paragraph.
 
-([Pub. L. 106–457, title VIII, § 804][/us/pl/106/457/s804], Nov. 7, 2000, [114 Stat. 1978][/us/stat/114/1978]; [Pub. L. 108–425, § 1][/us/pl/108/425/s1], Nov. 30, 2004, [118 Stat. 2420][/us/stat/118/2420].)
+([Pub. L. 106–457, title VIII][/us/pl/106/457/tVIII], § 804, Nov. 7, 2000, [114 Stat. 1978][/us/stat/114/1978]; [Pub. L. 108–425][/us/pl/108/425], § 1, Nov. 30, 2004, [118 Stat. 2420][/us/stat/118/2420].)
 
  __References in Text__ 
 
     Section 510(b)(2) of the Water Quality Act of 1987, referred to in subsec. (a)(1), is [section 510(b)(2) of Pub. L. 100–4][/us/pl/100/4/s510/b/2], title V, Feb. 4, 1987, [101 Stat. 81][/us/stat/101/81], which is not classified to the Code.
 
-    Subparagraph (N) of subsec. (c)(2) of this section, referred to in subsec. (c)(2)(Q), was redesignated as subparagraph (P) by [Pub. L. 108–425, § 1(b)(3)][/us/pl/108/425/s1/b/3], Nov. 30, 2004, [118 Stat. 2420][/us/stat/118/2420].
+    Subparagraph (N) of subsec. (c)(2) of this section, referred to in subsec. (c)(2)(Q), was redesignated as subparagraph (P) by [Pub. L. 108–425][/us/pl/108/425], § 1(b)(3), Nov. 30, 2004, [118 Stat. 2420][/us/stat/118/2420].
 
  __Codification__ 
 
-    In subsec. (c)(2)(N), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c)(2)(N), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–425, § 1(a)][/us/pl/108/425/s1/a], substituted “Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944,” for “Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,”.
+    2004—Subsec. (a)(1). [Pub. L. 108–425][/us/pl/108/425], § 1(a), substituted “Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944,” for “Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,”.
 
-    Subsec. (c)(1). [Pub. L. 108–425, § 1(b)(1)][/us/pl/108/425/s1/b/1], added par. (1) and struck out former par. (1) which read as follows: “Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract.”
+    Subsec. (c)(1). [Pub. L. 108–425][/us/pl/108/425], § 1(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract.”
 
-    Subsec. (c)(2)(I). [Pub. L. 108–425, § 1(b)(2)][/us/pl/108/425/s1/b/2], substituted “, including costs associated with the purchase of any insurance or other financial instrument under subparagraph (K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract.” for “, with such annual payment to maintain the owner’s 20 percent equity position throughout the term of the contract.”
+    Subsec. (c)(2)(I). [Pub. L. 108–425][/us/pl/108/425], § 1(b)(2), substituted “, including costs associated with the purchase of any insurance or other financial instrument under subparagraph (K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract.” for “, with such annual payment to maintain the owner’s 20 percent equity position throughout the term of the contract.”
 
-    Subsec. (c)(2)(J), (K). [Pub. L. 108–425, § 1(b)(3)][/us/pl/108/425/s1/b/3], added subpars. (J) and (K). Former subpars. (J) and (K) redesignated (L) and (M), respectively.
+    Subsec. (c)(2)(J), (K). [Pub. L. 108–425][/us/pl/108/425], § 1(b)(3), added subpars. (J) and (K). Former subpars. (J) and (K) redesignated (L) and (M), respectively.
 
-    Subsec. (c)(2)(L), (M). [Pub. L. 108–425, § 1(b)(4)][/us/pl/108/425/s1/b/4], added subpars. (L) and (M) and struck out former subpars. (L) and (M) which read as follows:
+    Subsec. (c)(2)(L), (M). [Pub. L. 108–425][/us/pl/108/425], § 1(b)(4), added subpars. (L) and (M) and struck out former subpars. (L) and (M) which read as follows:
 
     “(L) Provision for the transfer of ownership of the Mexican facility to the United States, and provision for a cancellation fee by the United States to the owner of the Mexican facility, if the Commission fails to perform its obligations under the contract. The cancellation fee shall be in amounts declining over the term of the contract anticipated to be sufficient to repay construction debt and other amounts due to the owner that remain unamortized due to early termination of the contract.
 
     “(M) Provision for the transfer of ownership of the Mexican facility to the United States, without a cancellation fee, if the owner of the Mexican facility fails to perform the obligations of the owner under the contract.”
 
-    [Pub. L. 108–425, § 1(b)(3)][/us/pl/108/425/s1/b/3], redesignated subpars. (J) and (K) as (L) and (M), respectively. Former subpars. (L) and (M) redesignated (N) and (O), respectively.
+    [Pub. L. 108–425][/us/pl/108/425], § 1(b)(3), redesignated subpars. (J) and (K) as (L) and (M), respectively. Former subpars. (L) and (M) redesignated (N) and (O), respectively.
 
-    Subsec. (c)(2)(N). [Pub. L. 108–425, § 1(b)(3)][/us/pl/108/425/s1/b/3], (5), redesignated subpar. (L) as (N) and inserted “under applicable law” after “competitive procedures”. Former subpar. (N) redesignated (P).
+    Subsec. (c)(2)(N). [Pub. L. 108–425][/us/pl/108/425], § 1(b)(3), (5), redesignated subpar. (L) as (N) and inserted “under applicable law” after “competitive procedures”. Former subpar. (N) redesignated (P).
 
-    Subsec. (c)(2)(O) to (R). [Pub. L. 108–425, § 1(b)(3)][/us/pl/108/425/s1/b/3], redesignated subpars. (M) to (P) as (O) to (R), respectively.
+    Subsec. (c)(2)(O) to (R). [Pub. L. 108–425][/us/pl/108/425], § 1(b)(3), redesignated subpars. (M) to (P) as (O) to (R), respectively.
 
 ----------
 
@@ -137,24 +137,24 @@
 ----------
 
 [/us/stat/101/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F81
-[/us/pl/106/457/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs804
+[/us/pl/106/457/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtVIII
 [/us/stat/114/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1978
-[/us/pl/108/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 [/us/stat/118/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2420
 [/us/pl/100/4/s510/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F4%2Fs510%2Fb%2F2
 [/us/stat/101/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F81
-[/us/pl/108/425/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F3
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 [/us/stat/118/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2420
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/108/425/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fa
-[/us/pl/108/425/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F1
-[/us/pl/108/425/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F2
-[/us/pl/108/425/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F3
-[/us/pl/108/425/s1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F4
-[/us/pl/108/425/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F3
-[/us/pl/108/425/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F3
-[/us/pl/108/425/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs1%2Fb%2F3
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 
 

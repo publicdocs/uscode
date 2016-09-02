@@ -41,7 +41,7 @@
 
     (12) “United States”, when used in a geographic sense, means the several States and the District of Columbia.
 
-([Pub. L. 96–465, title I, § 102][/us/pl/96/465/s102], Oct. 17, 1980, [94 Stat. 2075][/us/stat/94/2075]; [Pub. L. 98–164, title I, § 130(a)][/us/pl/98/164/s130/a], Nov. 22, 1983, [97 Stat. 1027][/us/stat/97/1027].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 102, Oct. 17, 1980, [94 Stat. 2075][/us/stat/94/2075]; [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 130(a), Nov. 22, 1983, [97 Stat. 1027][/us/stat/97/1027].)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t22/s4102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4102%2F8
 [/us/usc/t5/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301%2Fb
 [/us/usc/t22/s3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3921
-[/us/pl/96/465/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs102
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2075
-[/us/pl/98/164/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs130%2Fa
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1027
 [/us/usc/t5/s552/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fe
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff

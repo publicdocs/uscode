@@ -31,7 +31,7 @@
 
         (2) [section 4064 of this title][/us/usc/t22/s4064] shall apply to the recall service as if such service were reemployment.
 
-([Pub. L. 96–465, title I, § 823][/us/pl/96/465/s823], Oct. 17, 1980, [94 Stat. 2122][/us/stat/94/2122]; [Pub. L. 99–335, title IV, § 409][/us/pl/99/335/s409], June 6, 1986, [100 Stat. 612][/us/stat/100/612].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 823, Oct. 17, 1980, [94 Stat. 2122][/us/stat/94/2122]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 409, June 6, 1986, [100 Stat. 612][/us/stat/100/612].)
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 [/us/usc/t22/s3948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3948
 [/us/usc/t22/s4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4056
 [/us/usc/t22/s4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4064
-[/us/pl/96/465/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs823
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2122
-[/us/pl/99/335/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs409
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F612
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

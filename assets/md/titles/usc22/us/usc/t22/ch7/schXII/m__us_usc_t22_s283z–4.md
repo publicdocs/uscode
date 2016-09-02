@@ -17,7 +17,7 @@
 
     The United States Governor of the Inter-American Development Bank is hereby authorized to agree to and to accept the amendments to the Articles of Agreement in the proposed resolution entitled “Merger of Inter-regional and Ordinary Capital Resources”.
 
-([Pub. L. 86–147, § 32][/us/pl/86/147/s32], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
+([Pub. L. 86–147][/us/pl/86/147], § 32, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs32
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/86/147/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs32
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

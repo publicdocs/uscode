@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary for the United States to fund its share of the cost of the plans, construction, operation, and maintenance of the facilities recommended in agreements concluded pursuant to [section 277g of this title][/us/usc/t22/s277g] and approved by the Governments of the United States and Mexico.
 
-([Pub. L. 100–465, § 5][/us/pl/100/465/s5], Oct. 3, 1988, [102 Stat. 2273][/us/stat/102/2273].)
+([Pub. L. 100–465][/us/pl/100/465], § 5, Oct. 3, 1988, [102 Stat. 2273][/us/stat/102/2273].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s277g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277g
-[/us/pl/100/465/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465%2Fs5
+[/us/pl/100/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465
 [/us/stat/102/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2273
 
 

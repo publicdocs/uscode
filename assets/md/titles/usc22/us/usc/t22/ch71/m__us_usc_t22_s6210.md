@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that the Director of the United States Information Agency and the Chairman of the Board for International Broadcasting should, in developing the plan for consolidation and reorganization of overseas international broadcasting services, limit, to the maximum extent feasible, consistent with the purposes of the consolidation, elimination of any United States-based positions and should affirmatively seek to transfer as many positions as possible to the United States.
 
-([Pub. L. 103–236, title III, § 311][/us/pl/103/236/s311], Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 311, Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs311
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F444
 
 

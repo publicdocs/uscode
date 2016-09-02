@@ -23,7 +23,7 @@
 
         (2) Such consultations shall include an explanation of the consistency of such proposal to allocate with the requirements of the Articles of Agreement of the Fund, in particular the requirement that in all its decisions with respect to allocation of Special Drawing Rights, the Fund shall “seek to meet the long-term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world”.
 
-([Pub. L. 90–349, § 6][/us/pl/90/349/s6], June 19, 1968, [82 Stat. 189][/us/stat/82/189]; [Pub. L. 91–599][/us/pl/91/599], ch. 1, § 2, Dec. 30, 1970, [84 Stat. 1657][/us/stat/84/1657]; [Pub. L. 94–564, § 5(3)][/us/pl/94/564/s5/3], Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 803\], Nov. 30, 1983, [97 Stat. 1270][/us/stat/97/1270].)
+([Pub. L. 90–349][/us/pl/90/349], § 6, June 19, 1968, [82 Stat. 189][/us/stat/82/189]; [Pub. L. 91–599][/us/pl/91/599], ch. 1, § 2, Dec. 30, 1970, [84 Stat. 1657][/us/stat/84/1657]; [Pub. L. 94–564][/us/pl/94/564], § 5(3), Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 803\], Nov. 30, 1983, [97 Stat. 1270][/us/stat/97/1270].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 ----------
 
 [/us/usc/t22/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286
-[/us/pl/90/349/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349%2Fs6
+[/us/pl/90/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349
 [/us/stat/82/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F189
 [/us/pl/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F599
 [/us/stat/84/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1657
-[/us/pl/94/564/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs5%2F3
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2661
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1270
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512

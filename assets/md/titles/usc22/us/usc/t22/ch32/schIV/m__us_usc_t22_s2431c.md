@@ -33,11 +33,11 @@
 
             The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 805, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 887][/us/stat/112/887]; amended [Pub. L. 107–26, § 1][/us/pl/107/26/s1], Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 805, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 887][/us/stat/112/887]; amended [Pub. L. 107–26][/us/pl/107/26], § 1, Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206].)
 
  __Prior Provisions__ 
 
-    A prior [section 805 of Pub. L. 87–195][/us/pl/87/195/s805], pt. V, enacted a provision set out as a note under former [section 2431 of this title][/us/usc/t22/s2431] prior to repeal by [Pub. L. 94–329, title IV, § 413(a)][/us/pl/94/329/s413/a], June 30, 1976, [90 Stat. 761][/us/stat/90/761].
+    A prior [section 805 of Pub. L. 87–195][/us/pl/87/195/s805], pt. V, enacted a provision set out as a note under former [section 2431 of this title][/us/usc/t22/s2431] prior to repeal by [Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 413(a), June 30, 1976, [90 Stat. 761][/us/stat/90/761].
 
  __Amendments__ 
 
@@ -58,13 +58,13 @@
 
 [/us/usc/t22/s2430b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2430b%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F887
-[/us/pl/107/26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26%2Fs1
+[/us/pl/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26
 [/us/stat/115/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F206
 [/us/pl/87/195/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs805
 [/us/usc/t22/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431
-[/us/pl/94/329/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs413%2Fa
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F761
 [/us/pl/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

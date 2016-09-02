@@ -17,7 +17,7 @@
 
     The President shall consult with the appropriate congressional committees on a periodic basis to review the operation of the Facility under this subchapter and the eligibility of countries for benefits from the Facility under this subchapter.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 812, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 893][/us/stat/112/893].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 812, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 893][/us/stat/112/893].)
 
  __Delegation of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F893
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t7/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738

@@ -27,7 +27,7 @@
 
     (b) The Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate by the end of each fiscal year a report on the extent to which each borrowing country guarantees internationally recognized worker rights to its labor force and on progress toward achieving each of the goals described in subsection (a) of this section.
 
-([Pub. L. 95–118, title XVI, § 1621][/us/pl/95/118/s1621], as added [Pub. L. 103–306, title V, § 526(e)][/us/pl/103/306/s526/e], Aug. 23, 1994, [108 Stat. 1634][/us/stat/108/1634]; amended [Pub. L. 104–188, title I, § 1954(b)(4)][/us/pl/104/188/s1954/b/4], Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1621, as added [Pub. L. 103–306, title V][/us/pl/103/306/tV], § 526(e), Aug. 23, 1994, [108 Stat. 1634][/us/stat/108/1634]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(b)(4), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928].)
 
  __Codification__ 
 
@@ -58,10 +58,10 @@
 
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
 [/us/usc/t19/s2467/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F4
-[/us/pl/95/118/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1621
-[/us/pl/103/306/s526/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs526%2Fe
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1634
-[/us/pl/104/188/s1954/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fb%2F4
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928
 [/us/pl/95/118/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1621
 [/us/usc/t22/s262p–4q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934q

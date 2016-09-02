@@ -33,13 +33,13 @@
 
         (3) pursuant to a voluntary demotion.
 
-([Pub. L. 96–70, title I, § 1202][/us/pl/96/70/s1202], Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461]; [Pub. L. 104–201, div. C, title XXXV, § 3526][/us/pl/104/201/s3526], Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861]; [Pub. L. 105–85, div. C, title XXXV, § 3523(b)][/us/pl/105/85/s3523/b], Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065]; [Pub. L. 105–261, div. C, title XXXV, § 3512(a)(1)][/us/pl/105/261/s3512/a/1], Oct. 17, 1998, [112 Stat. 2271][/us/stat/112/2271].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1202, Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3526, Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3523(b), Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3512(a)(1), Oct. 17, 1998, [112 Stat. 2271][/us/stat/112/2271].)
 
  __Amendments__ 
 
-    1998—Subsec. (c). [Pub. L. 105–261, § 3512(a)(1)(C)][/us/pl/105/261/s3512/a/1/C], which directed substitution of “that date” for “the day before the date of enactment”, was executed by making the substitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
+    1998—Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 3512(a)(1)(C), which directed substitution of “that date” for “the day before the date of enactment”, was executed by making the substitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
 
-    [Pub. L. 105–261, § 3512(a)(1)(A)][/us/pl/105/261/s3512/a/1/A], (B), in introductory provisions, substituted “November 17, 1997,” for “the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997” and struck out “on or after that date” after “pay for that officer or employee”.
+    [Pub. L. 105–261][/us/pl/105/261], § 3512(a)(1)(A), (B), in introductory provisions, substituted “November 17, 1997,” for “the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997” and struck out “on or after that date” after “pay for that officer or employee”.
 
     1997—Subsec. (c). [Pub. L. 105–85][/us/pl/105/85] added subsec. (c).
 
@@ -57,16 +57,16 @@
 ----------
 
 [/us/usc/t22/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3614
-[/us/pl/96/70/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1202
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F461
-[/us/pl/104/201/s3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3526
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2861
-[/us/pl/105/85/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3523%2Fb
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2065
-[/us/pl/105/261/s3512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3512%2Fa%2F1
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2271
-[/us/pl/105/261/s3512/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3512%2Fa%2F1%2FC
-[/us/pl/105/261/s3512/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3512%2Fa%2F1%2FA
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 

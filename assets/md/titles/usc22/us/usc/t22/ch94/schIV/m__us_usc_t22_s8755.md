@@ -25,7 +25,7 @@
 
     (4) to publicly call for the release of Iranian dissidents by name and raise awareness with respect to individual cases of Iranian dissidents and prisoners of conscience, as appropriate and if requested by the dissidents or prisoners themselves or their families.
 
-([Pub. L. 112–158, title IV, § 415][/us/pl/112/158/s415], Aug. 10, 2012, [126 Stat. 1257][/us/stat/126/1257].)
+([Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 415, Aug. 10, 2012, [126 Stat. 1257][/us/stat/126/1257].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs415
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1257
 
 

@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the United States in the South Pacific Commission, created by the Agreement Establishing the South Pacific Commission, signed on February 6, 1947, at Canberra, Australia, by delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
 
-([Jan. 28, 1948, ch. 38, § 1][/us/act/1948-01-28/ch38/s1], [62 Stat. 15][/us/stat/62/15].)
+([Jan. 28, 1948, ch. 38][/us/act/1948-01-28/ch38], § 1, [62 Stat. 15][/us/stat/62/15].)
 
  __Purpose of Commission__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1948-01-28/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-28%2Fch38%2Fs1
+[/us/act/1948-01-28/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-28%2Fch38
 [/us/stat/62/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F15
 [/us/act/1948-01-28/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-28%2Fch38
 [/us/stat/62/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F15

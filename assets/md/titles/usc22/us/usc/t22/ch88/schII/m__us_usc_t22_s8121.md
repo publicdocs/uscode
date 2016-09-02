@@ -35,7 +35,7 @@
 
                 The number of designated United States representatives accompanying IAEA inspectors shall be kept to the minimum necessary.
 
-([Pub. L. 109–401, title II, § 221][/us/pl/109/401/s221], Dec. 18, 2006, [120 Stat. 2744][/us/stat/120/2744].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 221, Dec. 18, 2006, [120 Stat. 2744][/us/stat/120/2744].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs221
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2744
 
 

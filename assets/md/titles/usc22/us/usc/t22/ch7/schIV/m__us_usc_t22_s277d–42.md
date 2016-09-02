@@ -17,7 +17,7 @@
 
     If an agreement is concluded pursuant to [section 277d–41 of this title][/us/usc/t22/s277d–41], the Commissioner is authorized to construct, operate, and maintain flood control works located in the United States having substantially the characteristics described in “Report on the Flood Control Project Rio Grande, Presidio Valley, Texas”, prepared by the United States section, International Boundary and Water Commission, United States and Mexico; and there are hereby authorized to be appropriated to the Department of State for the use of the United States section of the Commission such sums as may be necessary to carry out the provisions of title II of this Act. No part of any appropriation under this section shall be expended for flood control works on any land, site, or easement unless such land, site, or easement has been acquired under the treaty for other purposes or by donation and, in the case of a donation, the title thereto has been approved in accordance with existing rules and regulations of the Attorney General of the United States.
 
-([Pub. L. 92–549, title II, § 202][/us/pl/92/549/s202], Oct. 25, 1972, [86 Stat. 1163][/us/stat/86/1163].)
+([Pub. L. 92–549, title II][/us/pl/92/549/tII], § 202, Oct. 25, 1972, [86 Stat. 1163][/us/stat/86/1163].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s277d–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9341
-[/us/pl/92/549/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs202
+[/us/pl/92/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtII
 [/us/stat/86/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1163
 [/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161

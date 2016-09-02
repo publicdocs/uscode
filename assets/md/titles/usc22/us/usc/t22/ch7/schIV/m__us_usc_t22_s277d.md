@@ -17,7 +17,7 @@
 
     Any moneys contributed by or received from the United Mexican States, the North American Development Bank, or the Border Environment Cooperation Commission for the purpose of cooperating or assisting in carrying out the provisions of sections 277 to 277d of this title shall be available for expenditure in connection with any appropriation which may be made for the purposes of such sections.
 
-([May 13, 1924, ch. 153, § 5][/us/act/1924-05-13/ch153/s5], as added [Aug. 19, 1935, ch. 561][/us/act/1935-08-19/ch561], [49 Stat. 660][/us/stat/49/660]; amended [Pub. L. 107–228, div. A, title II, § 210][/us/pl/107/228/s210], Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365].)
+([May 13, 1924, ch. 153][/us/act/1924-05-13/ch153], § 5, as added [Aug. 19, 1935, ch. 561][/us/act/1935-08-19/ch561], [49 Stat. 660][/us/stat/49/660]; amended [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 210, Sept. 30, 2002, [116 Stat. 1365][/us/stat/116/1365].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1924-05-13/ch153/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-13%2Fch153%2Fs5
+[/us/act/1924-05-13/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-13%2Fch153
 [/us/act/1935-08-19/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-19%2Fch561
 [/us/stat/49/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F660
-[/us/pl/107/228/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs210
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1365
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 

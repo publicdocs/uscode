@@ -17,7 +17,7 @@
 
     All information contained in any report transmitted under this chapter shall be public information. However, in the case of any item of information to be included in any such report that the President, on an extraordinary basis, determines is clearly detrimental to the security of the United States, he shall explain in a supplemental report why publication of each specific item would be detrimental to the security of the United States. A supplemental report shall be transmitted to the Congress at the time the report is transmitted.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 634B, as added [Pub. L. 95–424, title V, § 502(c)][/us/pl/95/424/s502/c], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 634B, as added [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(c), Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/424/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fc
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

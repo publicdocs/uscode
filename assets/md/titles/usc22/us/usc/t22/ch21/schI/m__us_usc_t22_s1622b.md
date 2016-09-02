@@ -17,7 +17,7 @@
 
     All functions, powers, and duties of the Foreign Claims Settlement Commission established by Reorganization Plan Numbered 1 of 1954 are hereby transferred with the Commission, together with personnel, assets, liabilities, unexpended balances of appropriations, authorizations, allocations, and other funds held, used, available, or to be made available in connection with the statutory functions of the Commission. The Commission shall continue to perform its functions as provided by the War Claims Act of 1948, as amended \[[50 U.S.C. 4101][/us/usc/t50/s4101] et seq.\], the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621][/us/usc/t22/s1621] et seq.\], and Reorganization Plan Numbered 1 of 1954.
 
-([Pub. L. 96–209, title I, § 102][/us/pl/96/209/s102], Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96].)
+([Pub. L. 96–209, title I][/us/pl/96/209/tI], § 102, Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
 [/us/usc/t22/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621
-[/us/pl/96/209/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2Fs102
+[/us/pl/96/209/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2FtI
 [/us/stat/94/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F96
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622

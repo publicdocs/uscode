@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the amendments made by this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter, the amendments made by this chapter, or the application thereof to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
 
-([Pub. L. 104–114, § 5][/us/pl/104/114/s5], Mar. 12, 1996, [110 Stat. 791][/us/stat/110/791].)
+([Pub. L. 104–114][/us/pl/104/114], § 5, Mar. 12, 1996, [110 Stat. 791][/us/stat/110/791].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs5
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F791
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785

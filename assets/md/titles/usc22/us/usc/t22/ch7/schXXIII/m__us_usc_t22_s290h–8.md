@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter, in addition to amounts otherwise available for that purpose, $3,872,000 for fiscal year 1986 and $3,872,000 for fiscal year 1987. Funds appropriated under this section are authorized to remain available until expended.
 
-([Pub. L. 96–533, title V, § 510][/us/pl/96/533/s510], Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155]; [Pub. L. 97–113, title III, § 313][/us/pl/97/113/s313], Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536]; [Pub. L. 99–83, title VIII, § 810(a)][/us/pl/99/83/s810/a], Aug. 8, 1985, [99 Stat. 264][/us/stat/99/264].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 510, Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 313, Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536]; [Pub. L. 99–83, title VIII][/us/pl/99/83/tVIII], § 810(a), Aug. 8, 1985, [99 Stat. 264][/us/stat/99/264].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/96/533/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs510
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3155
-[/us/pl/97/113/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs313
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1536
-[/us/pl/99/83/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs810%2Fa
+[/us/pl/99/83/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVIII
 [/us/stat/99/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F264
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113

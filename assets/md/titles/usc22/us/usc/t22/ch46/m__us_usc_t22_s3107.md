@@ -17,7 +17,7 @@
 
     Officials performing functions pursuant to this chapter shall secure balanced, diverse, and responsible views from qualified persons representing business, organized labor, and the academic community and may, where appropriate, create such independent public advisory committees as are necessary to carry out the purposes of this chapter.
 
-([Pub. L. 94–472, § 8][/us/pl/94/472/s8], Oct. 11, 1976, [90 Stat. 2064][/us/stat/90/2064]; [Pub. L. 95–381, § 3][/us/pl/95/381/s3], Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726]; [Pub. L. 97–33, § 4][/us/pl/97/33/s4], Aug. 7, 1981, [95 Stat. 171][/us/stat/95/171].)
+([Pub. L. 94–472][/us/pl/94/472], § 8, Oct. 11, 1976, [90 Stat. 2064][/us/stat/90/2064]; [Pub. L. 95–381][/us/pl/95/381], § 3, Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726]; [Pub. L. 97–33][/us/pl/97/33], § 4, Aug. 7, 1981, [95 Stat. 171][/us/stat/95/171].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/94/472/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs8
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2064
-[/us/pl/95/381/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381%2Fs3
+[/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381
 [/us/stat/92/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F726
-[/us/pl/97/33/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33%2Fs4
+[/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
 [/us/stat/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F171
 [/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
 [/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381

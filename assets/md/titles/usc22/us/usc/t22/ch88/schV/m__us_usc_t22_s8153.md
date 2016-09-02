@@ -29,7 +29,7 @@
 
         (B) has requested under Article 8 of the Additional Protocol that the IAEA engage in complementary access in the United States that involves the use of location-specific environmental sampling.
 
-([Pub. L. 109–401, title II, § 253][/us/pl/109/401/s253], Dec. 18, 2006, [120 Stat. 2750][/us/stat/120/2750].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 253, Dec. 18, 2006, [120 Stat. 2750][/us/stat/120/2750].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs253
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2750
 
 

@@ -27,13 +27,13 @@
 
         Notwithstanding the provisions of subsection (b), to the extent that any of the funds constituting the reserve under [section 2764(c) of this title][/us/usc/t22/s2764/c] are paid out for a claim arising out of a loan guaranteed under [section 2764 of this title][/us/usc/t22/s2764], amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 37, Oct. 22, 1968, [82 Stat. 1326][/us/stat/82/1326]; [Pub. L. 93–189, § 25(11)][/us/pl/93/189/s25/11], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 104(b), 105(e)(1), Dec. 16, 1980, [94 Stat. 3133][/us/stat/94/3133], 3135.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 37, Oct. 22, 1968, [82 Stat. 1326][/us/stat/82/1326]; [Pub. L. 93–189][/us/pl/93/189], § 25(11), Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], §§ 104(b), 105(e)(1), Dec. 16, 1980, [94 Stat. 3133][/us/stat/94/3133], 3135.)
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–533, § 105(e)(1)][/us/pl/96/533/s105/e/1], inserted reference to [section 2769 of this title][/us/usc/t22/s2769].
+    1980—Subsec. (a). [Pub. L. 96–533][/us/pl/96/533], § 105(e)(1), inserted reference to [section 2769 of this title][/us/usc/t22/s2769].
 
-    Subsec. (c). [Pub. L. 96–533, § 104(b)][/us/pl/96/533/s104/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–533][/us/pl/96/533], § 104(b), added subsec. (c).
 
     1973—Subsec. (b). [Pub. L. 93–189][/us/pl/93/189] inserted provisions relating to indebtedness under [section 2764(b) of this title][/us/usc/t22/s2764/b] and exclusions of portions of the sales proceeds required at the time of disposition as a reserve for payment of claims under guaranties issued under [section 2764(b) of this title][/us/usc/t22/s2764/b].
 
@@ -52,13 +52,13 @@
 [/us/usc/t22/s2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2764
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1326
-[/us/pl/93/189/s25/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F11
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F731
-[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3133
-[/us/pl/96/533/s105/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Fe%2F1
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
-[/us/pl/96/533/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs104%2Fb
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/usc/t22/s2764/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2764%2Fb
 [/us/usc/t22/s2764/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2764%2Fb

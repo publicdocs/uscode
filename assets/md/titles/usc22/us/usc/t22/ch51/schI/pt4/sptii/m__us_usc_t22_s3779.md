@@ -25,7 +25,7 @@
 
         (3) In regulations under this subsection, the Commission may prohibit consideration or payment by it of claims presented by or on behalf of an insurer or subrogee of a claimant in a case for which the Commission has required insurance under this subsection.
 
-([Pub. L. 96–70, title I, § 1419][/us/pl/96/70/s1419], as added [Pub. L. 99–209, § 6(a)][/us/pl/99/209/s6/a], Dec. 23, 1985, [99 Stat. 1717][/us/stat/99/1717]; amended [Pub. L. 100–203, title V, § 5414][/us/pl/100/203/s5414], Dec. 22, 1987, [101 Stat. 1330–270][/us/stat/101/1330-270]; [Pub. L. 105–261, div. C, title XXXV, § 3509(b)][/us/pl/105/261/s3509/b], Oct. 17, 1998, [112 Stat. 2270][/us/stat/112/2270].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1419, as added [Pub. L. 99–209][/us/pl/99/209], § 6(a), Dec. 23, 1985, [99 Stat. 1717][/us/stat/99/1717]; amended [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5414, Dec. 22, 1987, [101 Stat. 1330–270][/us/stat/101/1330-270]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3509(b), Oct. 17, 1998, [112 Stat. 2270][/us/stat/112/2270].)
 
  __Amendments__ 
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1419
-[/us/pl/99/209/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209%2Fs6%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209
 [/us/stat/99/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1717
-[/us/pl/100/203/s5414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5414
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-270
-[/us/pl/105/261/s3509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3509%2Fb
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2270
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

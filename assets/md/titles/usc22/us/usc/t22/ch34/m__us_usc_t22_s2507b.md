@@ -59,7 +59,7 @@
 
         The President shall train all staff outside the United States regarding the sexual assault policy developed under subsection (a).
 
-([Pub. L. 87–293, title I, § 8B][/us/pl/87/293/s8B], as added [Pub. L. 112–57, § 2][/us/pl/112/57/s2], Nov. 21, 2011, [125 Stat. 738][/us/stat/125/738].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8B, as added [Pub. L. 112–57][/us/pl/112/57], § 2, Nov. 21, 2011, [125 Stat. 738][/us/stat/125/738].)
 
 ----------
 
@@ -68,8 +68,8 @@
 ----------
 ----------
 
-[/us/pl/87/293/s8B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8B
-[/us/pl/112/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F738
 
 

@@ -35,7 +35,7 @@
 
         (3) An appointment as a Foreign Service officer is a career appointment. Foreign Service employees serving as career candidates or career members of the Service shall not represent to the income tax authorities of the District of Columbia or any other State or locality that they are exempt from income taxation on the basis of holding a Presidential appointment subject to Senate confirmation or that they are exempt on the basis of serving in an appointment whose tenure is at the pleasure of the President.
 
-([Pub. L. 96–465, title I, § 301][/us/pl/96/465/s301], Oct. 17, 1980, [94 Stat. 2083][/us/stat/94/2083]; [Pub. L. 100–204, title I, § 179(a)][/us/pl/100/204/s179/a], Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 301, Oct. 17, 1980, [94 Stat. 2083][/us/stat/94/2083]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 179(a), Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–204, title I, § 179(b)][/us/pl/100/204/s179/b], Dec. 22, 1987, [101 Stat. 1363][/us/stat/101/1363], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 179(b), Dec. 22, 1987, [101 Stat. 1363][/us/stat/101/1363], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to tax years beginning after December 31, 1987.”
 
  __Study of Foreign Service Examination__ 
 
-[Pub. L. 101–246, title I, § 153(g)][/us/pl/101/246/s153/g], Feb. 16, 1990, [104 Stat. 44][/us/stat/104/44], provided that: 
+[Pub. L. 101–246, title I][/us/pl/101/246/tI], § 153(g), Feb. 16, 1990, [104 Stat. 44][/us/stat/104/44], provided that: 
 
 > “The Secretary of State shall enter into a contract with a private organization for a comprehensive review and evaluation of the Foreign Service examination. Such review and evaluation shall—
 
@@ -73,14 +73,14 @@
 ----------
 
 [/us/usc/t5/s2108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3
-[/us/pl/96/465/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs301
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2083
-[/us/pl/100/204/s179/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs179%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1362
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/100/204/s179/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs179%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1363
-[/us/pl/101/246/s153/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs153%2Fg
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F44
 
 

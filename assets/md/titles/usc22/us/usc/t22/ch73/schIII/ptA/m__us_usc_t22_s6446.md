@@ -29,7 +29,7 @@
 
     (2) to products or services provided under contracts entered into before the date on which the President publishes his intention to take the Presidential action.
 
-([Pub. L. 105–292, title IV, § 406][/us/pl/105/292/s406], Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 406, Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs406
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2808
 
 

@@ -21,7 +21,7 @@
 
     (2) has taken substantial and verifiable steps to correct such country’s persistent pattern of noncompliance that gave rise to such specific action, as applicable.
 
-([Pub. L. 113–150, title II, § 205][/us/pl/113/150/s205], Aug. 8, 2014, [128 Stat. 1821][/us/stat/128/1821].)
+([Pub. L. 113–150, title II][/us/pl/113/150/tII], § 205, Aug. 8, 2014, [128 Stat. 1821][/us/stat/128/1821].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/150/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs205
+[/us/pl/113/150/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtII
 [/us/stat/128/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1821
 [/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 [/us/stat/126/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1807

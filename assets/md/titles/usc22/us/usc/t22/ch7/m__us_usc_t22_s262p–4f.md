@@ -35,7 +35,7 @@
 
         The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development and the International Development Association to advocate and support, as an immediate priority, assistance by such institutions to borrowing country governments to develop appropriate statistical measures for assessing the physical well-being of the poor, by sex and age, by using such indicators as mortality, health, education, and nutrition, as well as wealth and income, and maintain and publish such indicators on an ongoing basis.
 
-([Pub. L. 95–118, title XVI, § 1611][/us/pl/95/118/s1611], as added [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1611, as added [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
 
  __Codification__ 
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1611
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/pl/95/118/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1611
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461

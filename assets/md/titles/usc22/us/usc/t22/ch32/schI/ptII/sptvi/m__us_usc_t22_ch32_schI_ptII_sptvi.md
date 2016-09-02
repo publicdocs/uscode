@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subpart VI, consisting of sections 2211 to 2213, related to Alliance for Progress, prior to repeal by [Pub. L. 95–424, title I, § 102(g)(1)(A)][/us/pl/95/424/s102/g/1/A], title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
+    A prior subpart VI, consisting of sections 2211 to 2213, related to Alliance for Progress, prior to repeal by [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(1)(A), title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
 
 

@@ -41,7 +41,7 @@
 
         (2) Access by an agency of the United States Government to records maintained under this section shall be on the same terms and conditions which govern the access by such agency to the books and records of the person concerned.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 39, as added [Pub. L. 94–329, title VI, § 604(b)][/us/pl/94/329/s604/b], June 30, 1976, [90 Stat. 767][/us/stat/90/767]; amended [Pub. L. 96–533, title I, § 105(e)(2)][/us/pl/96/533/s105/e/2], Dec. 16, 1980, [94 Stat. 3135][/us/stat/94/3135]; [Pub. L. 111–266, title I, § 104(e)][/us/pl/111/266/s104/e], Oct. 8, 2010, [124 Stat. 2800][/us/stat/124/2800].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 39, as added [Pub. L. 94–329, title VI][/us/pl/94/329/tVI], § 604(b), June 30, 1976, [90 Stat. 767][/us/stat/90/767]; amended [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 105(e)(2), Dec. 16, 1980, [94 Stat. 3135][/us/stat/94/3135]; [Pub. L. 111–266, title I][/us/pl/111/266/tI], § 104(e), Oct. 8, 2010, [124 Stat. 2800][/us/stat/124/2800].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
     2010—Subsec. (a)(3). [Pub. L. 111–266][/us/pl/111/266], which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
 
-    1980—Subsec. (a)(1). [Pub. L. 96–533, § 105(e)(2)(A)][/us/pl/96/533/s105/e/2/A], inserted reference to sales of design and construction services under [section 2769 of this title][/us/usc/t22/s2769].
+    1980—Subsec. (a)(1). [Pub. L. 96–533][/us/pl/96/533], § 105(e)(2)(A), inserted reference to sales of design and construction services under [section 2769 of this title][/us/usc/t22/s2769].
 
-    Subsec. (c). [Pub. L. 96–533, § 105(e)(2)(B)][/us/pl/96/533/s105/e/2/B], inserted reference to [section 2769 of this title][/us/usc/t22/s2769].
+    Subsec. (c). [Pub. L. 96–533][/us/pl/96/533], § 105(e)(2)(B), inserted reference to [section 2769 of this title][/us/usc/t22/s2769].
 
  __Effective Date__ 
 
@@ -76,19 +76,19 @@
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/94/329/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs604%2Fb
+[/us/pl/94/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtVI
 [/us/stat/90/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F767
-[/us/pl/96/533/s105/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Fe%2F2
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3135
-[/us/pl/111/266/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fe
+[/us/pl/111/266/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtI
 [/us/stat/124/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2800
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
-[/us/pl/96/533/s105/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Fe%2F2%2FA
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
-[/us/pl/96/533/s105/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Fe%2F2%2FB
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
 [/us/pl/94/329/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs604%2Fc
 [/us/usc/t22/s2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776

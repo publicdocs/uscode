@@ -19,11 +19,11 @@
 
     (b) The Secretary may delegate functions under this chapter which are vested in the Secretary to any employee of the Department or any member of the Service.
 
-([Pub. L. 96–465, title I, § 206][/us/pl/96/465/s206], Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 206, Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079].)
 
  __Regulations Regarding Foreign Language Competence Within Foreign Service__ 
 
-[Pub. L. 103–236, title I, § 191(a)][/us/pl/103/236/s191/a], Apr. 30, 1994, [108 Stat. 418][/us/stat/108/418], as amended by [Pub. L. 103–415, § 1(u)][/us/pl/103/415/s1/u], Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 191(a), Apr. 30, 1994, [108 Stat. 418][/us/stat/108/418], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(u), Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State shall promulgate regulations—
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/96/465/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs206
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2079
-[/us/pl/103/236/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs191%2Fa
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F418
-[/us/pl/103/415/s1/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fu
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4302
 
 

@@ -75,9 +75,9 @@
 
     Subchapters I to IV of this chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], [60 Stat. 141][/us/stat/60/141], known as the Philippine Trade Act of 1946, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter, which include sections 1271 and 1311 of this title, referred to in subsec. (b), were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 1354 of this title][/us/usc/t22/s1354] and Tables.
 
-    Sections 2470 and 2491(c) of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), are references to sections 2470 and 2491(c) of the Internal Revenue Code of 1939, which were repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. Section 2470 was reenacted as sections 4511 and 4513 of Title 26, and section 2491 was reenacted as part of sections 4581 and 4582 of Title 26. Sections 4511, 4513, 4581, and 4582 of Title 26 were repealed by [Pub. L. 87–456, title III, § 302(d)][/us/pl/87/456/s302/d], May 24, 1962, [76 Stat. 77][/us/stat/76/77], effective Aug. 31, 1963.
+    Sections 2470 and 2491(c) of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), are references to sections 2470 and 2491(c) of the Internal Revenue Code of 1939, which were repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. Section 2470 was reenacted as sections 4511 and 4513 of Title 26, and section 2491 was reenacted as part of sections 4581 and 4582 of Title 26. Sections 4511, 4513, 4581, and 4582 of Title 26 were repealed by [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 302(d), May 24, 1962, [76 Stat. 77][/us/stat/76/77], effective Aug. 31, 1963.
 
-    Section 3500 of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), is reference to section 3500 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. See [section 4501 of Title 26][/us/usc/t26/s4501], Internal Revenue Code.
+    Section 3500 of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), is reference to section 3500 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. See [section 4501 of Title 26][/us/usc/t26/s4501], Internal Revenue Code.
 
  __Admission of Alaska and Hawaii to Statehood__ 
 
@@ -96,11 +96,11 @@
 [/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
 [/us/stat/60/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F141
 [/us/usc/t22/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/87/456/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs302%2Fd
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F77
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4501
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

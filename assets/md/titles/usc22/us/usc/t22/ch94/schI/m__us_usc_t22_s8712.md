@@ -71,7 +71,7 @@
 
         (6) the disposition of any decision with respect to sanctions imposed with respect to Iran by the World Trade Organization or its predecessor organization.
 
-([Pub. L. 112–158, title I, § 102][/us/pl/112/158/s102], Aug. 10, 2012, [126 Stat. 1218][/us/stat/126/1218].)
+([Pub. L. 112–158, title I][/us/pl/112/158/tI], § 102, Aug. 10, 2012, [126 Stat. 1218][/us/stat/126/1218].)
 
  __Termination of Section__ 
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/usc/t22/s8513a/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513a%2Fd%2F4%2FD
-[/us/pl/112/158/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs102
+[/us/pl/112/158/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtI
 [/us/stat/126/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1218
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/usc/t22/s8513a/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513a%2Fd%2F4%2FD

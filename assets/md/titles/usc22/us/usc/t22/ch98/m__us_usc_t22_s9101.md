@@ -197,7 +197,7 @@
 
             (vi) the child or left-behind parent is deceased.
 
-([Pub. L. 113–150, § 3][/us/pl/113/150/s3], Aug. 8, 2014, [128 Stat. 1809][/us/stat/128/1809].)
+([Pub. L. 113–150][/us/pl/113/150], § 3, Aug. 8, 2014, [128 Stat. 1809][/us/stat/128/1809].)
 
  __References in Text__ 
 
@@ -205,13 +205,13 @@
 
  __Short Title__ 
 
-[Pub. L. 113–150, § 1(a)][/us/pl/113/150/s1/a], Aug. 8, 2014, [128 Stat. 1807][/us/stat/128/1807], provided that: 
+[Pub. L. 113–150][/us/pl/113/150], § 1(a), Aug. 8, 2014, [128 Stat. 1807][/us/stat/128/1807], provided that: 
 
 > “This Act \[enacting this chapter and [section 241 of Title 6][/us/usc/t6/s241], Domestic Security, repealing [section 11611 of Title 42][/us/usc/t42/s11611], The Public Health and Welfare, and enacting provisions set out as a note under this section\] may be cited as the ‘Sean and David Goldman International Child Abduction Prevention and Return Act of 2014’.”
 
  __Findings; Sense of Congress; Purposes__ 
 
-[Pub. L. 113–150, § 2][/us/pl/113/150/s2], Aug. 8, 2014, [128 Stat. 1807][/us/stat/128/1807], provided that:
+[Pub. L. 113–150][/us/pl/113/150], § 2, Aug. 8, 2014, [128 Stat. 1807][/us/stat/128/1807], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -292,15 +292,15 @@
 
 [/us/usc/t22/s9111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9111
 [/us/usc/t22/s9113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9113%2Fb%2F1
-[/us/pl/113/150/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs3
+[/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 [/us/stat/128/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1809
 [/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 [/us/stat/126/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1807
-[/us/pl/113/150/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs1%2Fa
+[/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 [/us/stat/128/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1807
 [/us/usc/t6/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs241
 [/us/usc/t42/s11611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11611
-[/us/pl/113/150/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs2
+[/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 [/us/stat/128/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1807
 
 

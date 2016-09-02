@@ -37,7 +37,7 @@
 
         An employee against whom action is taken under this section may elect either to file a grievance under subchapter XI or to appeal to the Merit Systems Protection Board under procedures prescribed by the Board. Grievances under subchapter XI shall be limited to cases of reprisal, interference in the conduct of an employee’s official duties, or similarly inappropriate use of the authority of this section.
 
-([Pub. L. 96–465, title I, § 611][/us/pl/96/465/s611], as added [Pub. L. 103–236, title I, § 181(a)(2)][/us/pl/103/236/s181/a/2], Apr. 30, 1994, [108 Stat. 417][/us/stat/108/417]; amended [Pub. L. 103–415, § 1(ii)][/us/pl/103/415/s1/ii], Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 611, as added [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 181(a)(2), Apr. 30, 1994, [108 Stat. 417][/us/stat/108/417]; amended [Pub. L. 103–415][/us/pl/103/415], § 1(ii), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
 
  __Prior Provisions__ 
 
@@ -49,7 +49,7 @@
 
  __Employment Assistance Referral System for Certain Members of Foreign Service__ 
 
-[Pub. L. 103–236, title I, § 179][/us/pl/103/236/s179], Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415], as amended by [Pub. L. 103–415, § 1(g)][/us/pl/103/415/s1/g], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], provided that:
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 179, Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(g), Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], provided that:
 
 >     “(a)  __Referral System__  __.—__ 
 
@@ -61,7 +61,7 @@
 
  __Consultation With Director of Office of Personnel Management Prior to Prescribing Regulations for Reductions in Force__ 
 
-[Pub. L. 103–236, title I, § 181(c)][/us/pl/103/236/s181/c], Apr. 30, 1994, [108 Stat. 418][/us/stat/108/418], as amended by [Pub. L. 103–415, § 1(i)][/us/pl/103/415/s1/i], Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 181(c), Apr. 30, 1994, [108 Stat. 418][/us/stat/108/418], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(i), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that: 
 
 > “The Secretary of State (or in the case of any other agency authorized by law to utilize the Foreign Service personnel system, the head of that agency) shall consult with the Director of the Office of Personnel Management before prescribing regulations for reductions in force under section 611 of the Foreign Service Act of 1980 \[[22 U.S.C. 4010a][/us/usc/t22/s4010a]\] (as added by subsection (a) of this section), and shall publish such regulations.”
 
@@ -74,22 +74,22 @@
 
 [/us/usc/t5/s3501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3501%2Fa%2F3
 [/us/usc/t22/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4009
-[/us/pl/96/465/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs611
-[/us/pl/103/236/s181/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fa%2F2
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F417
-[/us/pl/103/415/s1/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fii
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
 [/us/pl/96/465/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs611
 [/us/usc/t22/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4011
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
-[/us/pl/103/236/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs179
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F415
-[/us/pl/103/415/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fg
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4300
 [/us/usc/t22/s3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3941
-[/us/pl/103/236/s181/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fc
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F418
-[/us/pl/103/415/s1/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fi
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4301
 [/us/usc/t22/s4010a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010a
 

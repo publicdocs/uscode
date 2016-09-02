@@ -27,7 +27,7 @@
 
         Any report or other matter that is required to be submitted to Congress (including a committee of Congress) by this chapter may contain a classified annex.
 
-([Pub. L. 107–327, title III, § 304][/us/pl/107/327/s304], as added [Pub. L. 108–106, title II, § 2215(c)][/us/pl/108/106/s2215/c], Nov. 6, 2003, [117 Stat. 1233][/us/stat/117/1233]; amended [Pub. L. 108–458, title VII, § 7104(e)(3)][/us/pl/108/458/s7104/e/3], Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782].)
+([Pub. L. 107–327, title III][/us/pl/107/327/tIII], § 304, as added [Pub. L. 108–106, title II][/us/pl/108/106/tII], § 2215(c), Nov. 6, 2003, [117 Stat. 1233][/us/stat/117/1233]; amended [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(e)(3), Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782].)
 
  __Amendments__ 
 
@@ -46,10 +46,10 @@
 
 [/us/usc/t22/s7512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7512
 [/us/usc/t22/s7553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7553
-[/us/pl/107/327/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs304
-[/us/pl/108/106/s2215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs2215%2Fc
+[/us/pl/107/327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtIII
+[/us/pl/108/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2FtII
 [/us/stat/117/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1233
-[/us/pl/108/458/s7104/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fe%2F3
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3782
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch18/schV–A/m__us_usc_t22_s1465f.md) | [Next](./../../../../..//us/usc/t22/ch18/schV–B/m__us_usc_t22_ch18_schV–B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465g)
 
-## § 1465g. Repealed. [Pub. L. 103–236, title I, § 139(9)][/us/pl/103/236/s139/9], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]
+## § 1465g. Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(9), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]
 
-    Section, [Pub. L. 98–111, § 9][/us/pl/98/111/s9], Oct. 4, 1983, [97 Stat. 753][/us/stat/97/753], directed United States Information Agency to arrange for independent evaluations of Cuba Service programing for submission to Congress.
+    Section, [Pub. L. 98–111][/us/pl/98/111], § 9, Oct. 4, 1983, [97 Stat. 753][/us/stat/97/753], directed United States Information Agency to arrange for independent evaluations of Cuba Service programing for submission to Congress.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/103/236/s139/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F9
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/98/111/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs9
+[/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F753
 
 

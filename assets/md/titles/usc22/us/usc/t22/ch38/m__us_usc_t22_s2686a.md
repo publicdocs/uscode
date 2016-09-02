@@ -29,7 +29,7 @@
 
         The individual designated under subsection (a) may carry out the functions of subsection (a) in addition to other assigned responsibilities.
 
-([Pub. L. 102–138, title I, § 180][/us/pl/102/138/s180], Oct. 28, 1991, [105 Stat. 682][/us/stat/105/682].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 180, Oct. 28, 1991, [105 Stat. 682][/us/stat/105/682].)
 
  __Authority of Secretary of State__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs180
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F682
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

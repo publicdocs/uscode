@@ -57,9 +57,9 @@
 
         (1) The Congress finds that significantly greater effort must be made in carrying out programs under subchapter I of this chapter to award contracts on the basis of competitive selection procedures. All such contracts should be let on the basis of competitive selection procedures except in those limited cases in which the procurement regulations governing the agency primarily responsible for administering subchapter I of this chapter allow noncompetitive procedures to be used.
 
-        (2) Repealed. [Pub. L. 97–113, title VII, § 734(a)(1)][/us/pl/97/113/s734/a/1], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+        (2) Repealed. [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(1), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 601, Sept. 4, 1961, [75 Stat. 438][/us/stat/75/438]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 301(a), (b), Dec. 16, 1963, [77 Stat. 385][/us/stat/77/385]; [Pub. L. 88–633][/us/pl/88/633], pt. III, § 301(a), (b), Oct. 7, 1964, [78 Stat. 1012][/us/stat/78/1012]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(a), Sept. 19, 1966, [80 Stat. 803][/us/stat/80/803]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(a), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 95–424, title I, § 102(g)(2)(B)][/us/pl/95/424/s102/g/2/B], title V, § 501, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 956; [Pub. L. 97–113, title VII, § 734(a)(1)][/us/pl/97/113/s734/a/1], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 601, Sept. 4, 1961, [75 Stat. 438][/us/stat/75/438]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 301(a), (b), Dec. 16, 1963, [77 Stat. 385][/us/stat/77/385]; [Pub. L. 88–633][/us/pl/88/633], pt. III, § 301(a), (b), Oct. 7, 1964, [78 Stat. 1012][/us/stat/78/1012]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(a), Sept. 19, 1966, [80 Stat. 803][/us/stat/80/803]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(a), Nov. 14, 1967, [81 Stat. 458][/us/stat/81/458]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(2)(B), title V, § 501, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 956; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(1), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References in Text__ 
 
@@ -79,17 +79,17 @@
 
     1967—Subsec. (c)(3). [Pub. L. 90–137][/us/pl/90/137] substituted reference to section 5703 for former [section 73b–2 of title 5][/us/usc/t5/s73b–2].
 
-    1966—Subsec. (b)(2) to (8). [Pub. L. 89–583, § 301(a)(1)][/us/pl/89/583/s301/a/1]–(3), added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and added par. (8).
+    1966—Subsec. (b)(2) to (8). [Pub. L. 89–583][/us/pl/89/583], § 301(a)(1)–(3), added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and added par. (8).
 
-    Subsec. (c). [Pub. L. 89–583, § 301(a)(4)][/us/pl/89/583/s301/a/4], substituted provisions relating to International Private Investment Advisory Council on Foreign Aid for former provisions relating to Advisory Committee on Private Enterprise in Foreign Aid.
+    Subsec. (c). [Pub. L. 89–583][/us/pl/89/583], § 301(a)(4), substituted provisions relating to International Private Investment Advisory Council on Foreign Aid for former provisions relating to Advisory Committee on Private Enterprise in Foreign Aid.
 
-    1964—Subsec. (c)(4). [Pub. L. 88–633, § 301(a)][/us/pl/88/633/s301/a], substituted “June 30, 1965” for “December 31, 1964”.
+    1964—Subsec. (c)(4). [Pub. L. 88–633][/us/pl/88/633], § 301(a), substituted “June 30, 1965” for “December 31, 1964”.
 
-    Subsec. (d). [Pub. L. 88–633, § 301(b)][/us/pl/88/633/s301/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 88–633][/us/pl/88/633], § 301(b), added subsec. (d).
 
-    1963—Subsec. (b). [Pub. L. 88–205, § 301(a)][/us/pl/88/205/s301/a], substituted “to the maximum extent practicable” for “wherever appropriate” in par. (4), and added pars. (5) and (6).
+    1963—Subsec. (b). [Pub. L. 88–205][/us/pl/88/205], § 301(a), substituted “to the maximum extent practicable” for “wherever appropriate” in par. (4), and added pars. (5) and (6).
 
-    Subsec. (c). [Pub. L. 88–205, § 301(b)][/us/pl/88/205/s301/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 88–205][/us/pl/88/205], § 301(b), added subsec. (c).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -112,7 +112,7 @@
 
 [/us/usc/t22/s2151t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151t
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F438
@@ -124,9 +124,9 @@
 [/us/stat/80/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F803
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F458
-[/us/pl/95/424/s102/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FB
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -139,12 +139,12 @@
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
-[/us/pl/89/583/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs301%2Fa%2F1
-[/us/pl/89/583/s301/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs301%2Fa%2F4
-[/us/pl/88/633/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633%2Fs301%2Fa
-[/us/pl/88/633/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633%2Fs301%2Fb
-[/us/pl/88/205/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205%2Fs301%2Fa
-[/us/pl/88/205/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205%2Fs301%2Fb
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
+[/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
+[/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
+[/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

@@ -17,7 +17,7 @@
 
     Notwithstanding section 210 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490][/us/usc/t40/s490]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Commission is authorized to negotiate directly and enter into contracts for the lease of, and for improvements to, real property in the United States for use by the Commission as office space, on such terms as the Commission considers to be in the interest of the United States, and to make direct payments therefor.
 
-([Pub. L. 100–203, title V, § 5415][/us/pl/100/203/s5415], Dec. 22, 1987, [101 Stat. 1330–270][/us/stat/101/1330-270].)
+([Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5415, Dec. 22, 1987, [101 Stat. 1330–270][/us/stat/101/1330-270].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t40/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490
-[/us/pl/100/203/s5415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5415
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-270
 [/us/usc/t40/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288

@@ -37,17 +37,17 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 102–484, div. A, title XIV, § 1421][/us/pl/102/484/s1421], Oct. 23, 1992, [106 Stat. 2564][/us/stat/106/2564].)
+([Pub. L. 102–484, div. A, title XIV][/us/pl/102/484/dA/tXIV], § 1421, Oct. 23, 1992, [106 Stat. 2564][/us/stat/106/2564].)
 
  __References in Text__ 
 
     Sections 108 and 109 of [Public Law 102–229][/us/pl/102/229] ([105 Stat. 1708][/us/stat/105/1708]), referred to in subsec. (a)(1), are not classified to the Code.
 
-    Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by [Pub. L. 104–106, div. A, title X, § 1061(a)(1)][/us/pl/104/106/s1061/a/1], Feb. 10, 1996, [110 Stat. 442][/us/stat/110/442].
+    Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(a)(1), Feb. 10, 1996, [110 Stat. 442][/us/stat/110/442].
 
  __Codification__ 
 
-    Section is comprised of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421]. Subsec. (a)(2) and (3) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551] and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606]. Subsec. (b) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229], which are not classified to the Code.
+    Section is comprised of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421]. Subsec. (a)(2) and (3) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended [section 221 of Pub. L. 102–228][/us/pl/102/228/s221], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551] and was repealed by [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(1), Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606]. Subsec. (b) of [section 1421 of Pub. L. 102–484][/us/pl/102/484/s1421] amended sections 108 and 109 of [Pub. L. 102–229][/us/pl/102/229], which are not classified to the Code.
 
 ----------
 
@@ -62,17 +62,17 @@
 [/us/usc/t22/s5902/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5902%2Fb%2F4
 [/us/usc/t22/s5902/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5902%2Fb%2F6
 [/us/usc/t22/s5931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5931
-[/us/pl/102/484/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421
+[/us/pl/102/484/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIV
 [/us/stat/106/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2564
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
 [/us/stat/105/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1708
-[/us/pl/104/106/s1061/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fa%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F442
 [/us/pl/102/484/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421
 [/us/pl/102/484/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421
 [/us/pl/102/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs221
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/484/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229

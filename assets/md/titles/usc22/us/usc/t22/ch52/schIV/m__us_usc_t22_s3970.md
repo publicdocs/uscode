@@ -39,7 +39,7 @@
 
         The Secretary of State may prescribe regulations governing payments under this section by all agencies and other Government establishments.
 
-([Pub. L. 96–465, title I, § 410][/us/pl/96/465/s410], Oct. 17, 1980, [94 Stat. 2091][/us/stat/94/2091].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 410, Oct. 17, 1980, [94 Stat. 2091][/us/stat/94/2091].)
 
  __Change of Name__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs410
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2091
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

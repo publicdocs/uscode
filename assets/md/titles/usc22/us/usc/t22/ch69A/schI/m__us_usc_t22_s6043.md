@@ -17,7 +17,7 @@
 
     The President shall instruct all United States Government officials who engage in official contacts with the Cuban Government to raise on a regular basis the extradition of or rendering to the United States all persons residing in Cuba who are sought by the United States Department of Justice for crimes committed in the United States.
 
-([Pub. L. 104–114, title I, § 113][/us/pl/104/114/s113], Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 113, Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs113
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F803
 
 

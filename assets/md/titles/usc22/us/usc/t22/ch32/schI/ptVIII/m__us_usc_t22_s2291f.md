@@ -31,7 +31,7 @@
 
         Regulations issued pursuant to subsection (b) shall be submitted to the Congress before they take effect.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 487, as added [Pub. L. 100–690, title IV, § 4503][/us/pl/100/690/s4503], Nov. 18, 1988, [102 Stat. 4285][/us/stat/102/4285]; amended [Pub. L. 102–583, § 6(b)(6)][/us/pl/102/583/s6/b/6], Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]; [Pub. L. 103–447, title I, § 101(e)][/us/pl/103/447/s101/e], Nov. 2, 1994, [108 Stat. 4692][/us/stat/108/4692].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 487, as added [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4503, Nov. 18, 1988, [102 Stat. 4285][/us/stat/102/4285]; amended [Pub. L. 102–583][/us/pl/102/583], § 6(b)(6), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]; [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 101(e), Nov. 2, 1994, [108 Stat. 4692][/us/stat/108/4692].)
 
  __References in Text__ 
 
@@ -58,11 +58,11 @@
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/100/690/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4503
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4285
-[/us/pl/102/583/s6/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F6
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
-[/us/pl/103/447/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fe
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4692
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

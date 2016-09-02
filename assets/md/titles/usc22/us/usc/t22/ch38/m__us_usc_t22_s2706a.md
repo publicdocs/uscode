@@ -17,7 +17,7 @@
 
     The Secretary may transfer to and merge with “Emergencies in the Diplomatic and Consular Service” for rewards payments unobligated balances of funds appropriated under “Diplomatic and Consular Programs” for this fiscal year and for each fiscal year on and after December 26, 2007, at no later than the end of the fifth fiscal year after the fiscal year for which any such funds were appropriated or otherwise made available.
 
-([Pub. L. 110–161, div. J, title I][/us/pl/110/161] (part), Dec. 26, 2007, [121 Stat. 2278][/us/stat/121/2278].)
+([Pub. L. 110–161, div. J, title I][/us/pl/110/161/dJ/tI] (part), Dec. 26, 2007, [121 Stat. 2278][/us/stat/121/2278].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtI
 [/us/stat/121/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2278
 
 

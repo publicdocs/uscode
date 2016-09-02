@@ -31,7 +31,7 @@
 
         A participant who is retired under subsection (a)(2) and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.
 
-([Pub. L. 96–465, title I, § 813][/us/pl/96/465/s813], Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 102–138, title I, § 149][/us/pl/102/138/s149], Oct. 28, 1991, [105 Stat. 670][/us/stat/105/670]; [Pub. L. 103–236, title I, § 174][/us/pl/103/236/s174], Apr. 30, 1994, [108 Stat. 413][/us/stat/108/413].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 813, Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 149, Oct. 28, 1991, [105 Stat. 670][/us/stat/105/670]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 174, Apr. 30, 1994, [108 Stat. 413][/us/stat/108/413].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 [/us/usc/t22/s3942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fb
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
 [/us/usc/t22/s4071d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071d
-[/us/pl/96/465/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs813
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2113
-[/us/pl/102/138/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs149
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F670
-[/us/pl/103/236/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs174
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F413
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s3942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fb

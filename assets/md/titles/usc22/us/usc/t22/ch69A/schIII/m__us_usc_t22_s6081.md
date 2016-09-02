@@ -59,7 +59,7 @@
 
     (11) To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations should be endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro’s wrongful seizures.
 
-([Pub. L. 104–114, title III, § 301][/us/pl/104/114/s301], Mar. 12, 1996, [110 Stat. 814][/us/stat/110/814].)
+([Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 301, Mar. 12, 1996, [110 Stat. 814][/us/stat/110/814].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs301
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F814
 
 

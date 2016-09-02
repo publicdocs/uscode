@@ -69,7 +69,7 @@
 
         The term “support” means assistance of any kind, including financial support, transfer of property or other material support, services, intelligence sharing, law enforcement cooperation, the training or detail of personnel, and the arrest or detention of individuals.
 
-([Pub. L. 107–206, title II, § 2013][/us/pl/107/206/s2013], Aug. 2, 2002, [116 Stat. 907][/us/stat/116/907]; [Pub. L. 109–364, div. A, title XII, § 1222][/us/pl/109/364/s1222], Oct. 17, 2006, [120 Stat. 2423][/us/stat/120/2423]; [Pub. L. 110–181, div. A, title XII, § 1212(b)(2)][/us/pl/110/181/s1212/b/2], Jan. 28, 2008, [122 Stat. 371][/us/stat/122/371].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2013, Aug. 2, 2002, [116 Stat. 907][/us/stat/116/907]; [Pub. L. 109–364, div. A, title XII][/us/pl/109/364/dA/tXII], § 1222, Oct. 17, 2006, [120 Stat. 2423][/us/stat/120/2423]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1212(b)(2), Jan. 28, 2008, [122 Stat. 371][/us/stat/122/371].)
 
  __References in Text__ 
 
@@ -94,11 +94,11 @@
 
 [/us/usc/t22/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7402
 [/us/usc/t22/s2321k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k
-[/us/pl/107/206/s2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2013
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F907
-[/us/pl/109/364/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1222
+[/us/pl/109/364/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtXII
 [/us/stat/120/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2423
-[/us/pl/110/181/s1212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1212%2Fb%2F2
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F371
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

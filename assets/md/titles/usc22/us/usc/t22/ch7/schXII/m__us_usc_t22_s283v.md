@@ -17,7 +17,7 @@
 
     The United States Governor of the Bank is authorized to agree to the amendments to article III, sections 1, 4, and 6(b) of the Agreement Establishing the Bank, as proposed by the Board of Executive Directors, to provide for lending to the Caribbean Development Bank.
 
-([Pub. L. 86–147, § 25][/us/pl/86/147/s25], as added [Pub. L. 94–302, title I, § 103(a)(1)][/us/pl/94/302/s103/a/1], May 31, 1976, [90 Stat. 592][/us/stat/90/592].)
+([Pub. L. 86–147][/us/pl/86/147], § 25, as added [Pub. L. 94–302, title I][/us/pl/94/302/tI], § 103(a)(1), May 31, 1976, [90 Stat. 592][/us/stat/90/592].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs25
-[/us/pl/94/302/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs103%2Fa%2F1
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/94/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtI
 [/us/stat/90/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F592
 
 

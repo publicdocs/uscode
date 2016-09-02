@@ -59,7 +59,7 @@
 
             (C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 5, as added [Pub. L. 94–329, title III, § 302(b)][/us/pl/94/329/s302/b], June 30, 1976, [90 Stat. 752][/us/stat/90/752]; amended [Pub. L. 95–105, title I, § 109(a)(5)][/us/pl/95/105/s109/a/5], Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–236, title I, § 162(f)][/us/pl/103/236/s162/f], Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437, § 9(a)(7)][/us/pl/103/437/s9/a/7], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 111–266, title I, § 104(b)][/us/pl/111/266/s104/b], Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799]; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 5, as added [Pub. L. 94–329, title III][/us/pl/94/329/tIII], § 302(b), June 30, 1976, [90 Stat. 752][/us/stat/90/752]; amended [Pub. L. 95–105, title I][/us/pl/95/105/tI], § 109(a)(5), Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(f), Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437][/us/pl/103/437], § 9(a)(7), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 111–266, title I][/us/pl/111/266/tI], § 104(b), Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799]; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(1), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -100,19 +100,19 @@
 [/us/usc/t26/s7701/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701%2Fa%2F30
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/94/329/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs302%2Fb
+[/us/pl/94/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIII
 [/us/stat/90/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F752
-[/us/pl/95/105/s109/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs109%2Fa%2F5
+[/us/pl/95/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtI
 [/us/stat/91/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F846
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/236/s162/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Ff
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F405
-[/us/pl/103/437/s9/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs9%2Fa%2F7
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
-[/us/pl/111/266/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fb
+[/us/pl/111/266/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtI
 [/us/stat/124/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2799
-[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321

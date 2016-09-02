@@ -23,7 +23,7 @@
 
         No court exercising jurisdiction of an action brought under [section 9003(b) of this title][/us/usc/t22/s9003/b] may, under subsection (a) of this section, order a child removed from a person having physical control of the child unless the applicable requirements of State law are satisfied.
 
-([Pub. L. 100–300, § 5][/us/pl/100/300/s5], Apr. 29, 1988, [102 Stat. 439][/us/stat/102/439].)
+([Pub. L. 100–300][/us/pl/100/300], § 5, Apr. 29, 1988, [102 Stat. 439][/us/stat/102/439].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t22/s9003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9003%2Fb
 [/us/usc/t22/s9003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9003%2Fb
-[/us/pl/100/300/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs5
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F439
 [/us/usc/t42/s11604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11604
 

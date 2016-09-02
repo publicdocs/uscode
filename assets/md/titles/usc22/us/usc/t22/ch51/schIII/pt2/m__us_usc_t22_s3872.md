@@ -23,7 +23,7 @@
 
     (3) the initiation of any major capital acquisition or construction project exceeding $10,000,000 unless the proposed acquisition or project was included in the budget estimates submitted to Congress for the fiscal year in which the acquisition or project is to be undertaken.
 
-([Pub. L. 101–189, div. C, title XXXV, § 3503][/us/pl/101/189/s3503], Nov. 29, 1989, [103 Stat. 1689][/us/stat/103/1689].)
+([Pub. L. 101–189, div. C, title XXXV][/us/pl/101/189/dC/tXXXV], § 3503, Nov. 29, 1989, [103 Stat. 1689][/us/stat/103/1689].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3751
-[/us/pl/101/189/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3503
+[/us/pl/101/189/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXV
 [/us/stat/103/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1689
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

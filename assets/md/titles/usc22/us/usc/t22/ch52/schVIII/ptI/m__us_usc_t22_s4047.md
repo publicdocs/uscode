@@ -87,15 +87,15 @@
 
         (6) Notwithstanding any other provision of law, any lump-sum credit provided pursuant to an election under this subsection shall not preclude an individual from receiving any other benefits under this subsection.
 
-([Pub. L. 96–465, title I, § 807][/us/pl/96/465/s807], Oct. 17, 1980, [94 Stat. 2109][/us/stat/94/2109]; Ex. Ord. No. 12446, § 3(a), Oct. 17, 1983, 48 F.R. 48443; [Pub. L. 99–335, title IV][/us/pl/99/335], §§ 402(a)(2), 408, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 612; [Pub. L. 103–66, title XI, § 11002(b)][/us/pl/103/66/s11002/b], Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 807, Oct. 17, 1980, [94 Stat. 2109][/us/stat/94/2109]; Ex. Ord. No. 12446, § 3(a), Oct. 17, 1983, 48 F.R. 48443; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], §§ 402(a)(2), 408, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 612; [Pub. L. 103–66, title XI][/us/pl/103/66/tXI], § 11002(b), Aug. 10, 1993, [107 Stat. 409][/us/stat/107/409].)
 
  __Amendments__ 
 
     1993—Subsec. (e)(1). [Pub. L. 103–66][/us/pl/103/66] substituted “any participant who has a life-threatening affliction or other critical medical condition” for “a participant”.
 
-    1986—Subsec. (d). [Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter”.
+    1986—Subsec. (d). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter”.
 
-    Subsec. (e). [Pub. L. 99–335, § 408][/us/pl/99/335/s408], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–335][/us/pl/99/335], § 408, added subsec. (e).
 
     1983—Subsec. (a). Ex. Ord. No. 12446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as otherwise provided, the annuity of a former participant who has met the eligibility requirements for an annuity shall commence on the day after separation from the Service or on the day after pay ceases. The annuity of a former participant who is entitled to a deferred annuity under this chapter shall become effective on the day he or she attains age 60.”
 
@@ -126,15 +126,15 @@
 [/us/usc/t22/s4046/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fb%2F1%2FB
 [/us/usc/t22/s4046/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fb%2F1%2FC
 [/us/usc/t22/s4046/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fn
-[/us/pl/96/465/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs807
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2109
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/103/66/s11002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11002%2Fb
+[/us/pl/103/66/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXI
 [/us/stat/107/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F409
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
-[/us/pl/99/335/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs408
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s11002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11002%2Fd
 [/us/usc/t5/s8343a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8343a

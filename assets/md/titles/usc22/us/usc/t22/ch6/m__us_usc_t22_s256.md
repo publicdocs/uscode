@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255a _us_usc_t22_s255b.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
 
 ## § 256. Jurisdiction of consular officers in disputes between seamen
 
@@ -21,16 +21,16 @@
 
  __Codification__ 
 
-    R.S. § 4079 derived from [act June 11, 1864, ch. 116, § 1][/us/act/1864-06-11/ch116/s1], [13 Stat. 121][/us/stat/13/121].
+    R.S. § 4079 derived from [act June 11, 1864, ch. 116][/us/act/1864-06-11/ch116], § 1, [13 Stat. 121][/us/stat/13/121].
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s255a _us_usc_t22_s255b.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s257.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs256)
 
 ----------
 ----------
 
-[/us/act/1864-06-11/ch116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-11%2Fch116%2Fs1
+[/us/act/1864-06-11/ch116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-11%2Fch116
 [/us/stat/13/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F121
 
 

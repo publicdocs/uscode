@@ -17,7 +17,7 @@
 
     Under such terms and conditions as the President shall determine, the President is authorized to extend, or to enter into an agreement to extend, to the Permanent Observer Mission of the Holy See to the United Nations in New York, and to its members, the privileges and immunities enjoyed by the diplomatic missions of member states to the United Nations, and their members, subject to corresponding conditions and obligations.
 
-([Pub. L. 109–472, § 7(b)][/us/pl/109/472/s7/b], Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556].)
+([Pub. L. 109–472][/us/pl/109/472], § 7(b), Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/472/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs7%2Fb
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3556
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 

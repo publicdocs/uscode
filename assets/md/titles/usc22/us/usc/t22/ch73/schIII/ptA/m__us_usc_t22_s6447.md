@@ -29,7 +29,7 @@
 
         Not later than the date of the exercise of a waiver under subsection (a), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
 
-([Pub. L. 105–292, title IV, § 407][/us/pl/105/292/s407], Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 407, Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s6445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fa
-[/us/pl/105/292/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs407
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2808
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787

@@ -35,7 +35,7 @@
 
         The Panama Canal, and such other property referred to in paragraph 2(d) of Article XIII of the Panama Canal Treaty of 1977 that has not been previously transferred in accordance with paragraphs 2(a), 2(b), and 2(c) of such Article, shall not be transferred to the Republic of Panama prior to December 31, 1999.
 
-([Pub. L. 96–70, title I, § 1504][/us/pl/96/70/s1504], Sept. 27, 1979, [93 Stat. 488][/us/stat/93/488]; [Pub. L. 99–223, § 7][/us/pl/99/223/s7], Dec. 28, 1985, [99 Stat. 1740][/us/stat/99/1740].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1504, Sept. 27, 1979, [93 Stat. 488][/us/stat/93/488]; [Pub. L. 99–223][/us/pl/99/223], § 7, Dec. 28, 1985, [99 Stat. 1740][/us/stat/99/1740].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1504
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F488
-[/us/pl/99/223/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223%2Fs7
+[/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
 [/us/stat/99/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1740
 [/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601

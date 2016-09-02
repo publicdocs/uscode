@@ -17,7 +17,7 @@
 
     Assistance provided under this chapter shall be subject to the same provisions as are applicable to assistance under the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] and the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\] under section 487 of the Foreign Assistance Act of 1961 (relating to the prohibition on assistance to drug traffickers; [22 U.S.C. 2291f][/us/usc/t22/s2291f]), and the applicable regulations issued under that section.
 
-([Pub. L. 107–327, title III, § 301][/us/pl/107/327/s301], Dec. 4, 2002, [116 Stat. 2812][/us/stat/116/2812].)
+([Pub. L. 107–327, title III][/us/pl/107/327/tIII], § 301, Dec. 4, 2002, [116 Stat. 2812][/us/stat/116/2812].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2291f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291f
-[/us/pl/107/327/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs301
+[/us/pl/107/327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtIII
 [/us/stat/116/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2812
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

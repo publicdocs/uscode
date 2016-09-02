@@ -33,7 +33,7 @@
 
         (B) access to research and development opportunities and facilities, and the flow of scientific and technological information, are, to the maximum extent practicable, equitable and reciprocal.
 
-([Pub. L. 95–426, title V, § 502][/us/pl/95/426/s502], Oct. 7, 1978, [92 Stat. 982][/us/stat/92/982]; [Pub. L. 100–418, title V, § 5171(a)][/us/pl/100/418/s5171/a], Aug. 23, 1988, [102 Stat. 1452][/us/stat/102/1452].)
+([Pub. L. 95–426, title V][/us/pl/95/426/tV], § 502, Oct. 7, 1978, [92 Stat. 982][/us/stat/92/982]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5171(a), Aug. 23, 1988, [102 Stat. 1452][/us/stat/102/1452].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/95/426/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs502
+[/us/pl/95/426/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtV
 [/us/stat/92/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F982
-[/us/pl/100/418/s5171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5171%2Fa
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1452
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

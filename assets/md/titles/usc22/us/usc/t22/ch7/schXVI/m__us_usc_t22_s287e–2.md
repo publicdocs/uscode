@@ -105,7 +105,7 @@
 
         In this section, the term “assistance” includes personnel, services, supplies, equipment, facilities, and other assistance if such assistance is provided by the Department of Defense or any other United States Government agency.
 
-([Dec. 20, 1945, ch. 583, § 10][/us/act/1945-12-20/ch583/s10], as added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 723\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–463.)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 10, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 723\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–463.)
 
  __References in Text__ 
 
@@ -124,8 +124,8 @@
 
 [/us/usc/t22/s2348d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2348d
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
-[/us/act/1945-12-20/ch583/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs10
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F765

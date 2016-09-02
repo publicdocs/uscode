@@ -31,7 +31,7 @@
 
         As used in this section, the term “security assistance surveys” means any survey or study conducted in a foreign country by United States Government personnel for the purpose of assessing the needs of that country for security assistance, and includes defense requirement surveys, site surveys, general surveys or studies, and engineering assessment surveys.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 26, as added [Pub. L. 95–384, § 19][/us/pl/95/384/s19], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; amended [Pub. L. 99–83, title I, § 114][/us/pl/99/83/s114], Aug. 8, 1985, [99 Stat. 198][/us/stat/99/198]; [Pub. L. 103–437, § 9(a)(7)][/us/pl/103/437/s9/a/7], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 26, as added [Pub. L. 95–384][/us/pl/95/384], § 19, Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; amended [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 114, Aug. 8, 1985, [99 Stat. 198][/us/stat/99/198]; [Pub. L. 103–437][/us/pl/103/437], § 9(a)(7), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 
     1994—Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Foreign Affairs” for “International Relations”.
 
-    1985—[Pub. L. 99–83, § 114(a)(1)][/us/pl/99/83/s114/a/1], substituted “Security assistance” for “Defense requirement” in section catchline.
+    1985—[Pub. L. 99–83][/us/pl/99/83], § 114(a)(1), substituted “Security assistance” for “Defense requirement” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 99–83, § 114(a)(2)][/us/pl/99/83/s114/a/2], substituted “security assistance” for “defense requirement” wherever appearing.
+    Subsecs. (a), (b). [Pub. L. 99–83][/us/pl/99/83], § 114(a)(2), substituted “security assistance” for “defense requirement” wherever appearing.
 
-    Subsec. (c). [Pub. L. 99–83, § 114(a)(2)][/us/pl/99/83/s114/a/2], (b), substituted “submit to that committee copies of security assistance surveys” for “grant that committee access to defense requirement surveys”.
+    Subsec. (c). [Pub. L. 99–83][/us/pl/99/83], § 114(a)(2), (b), substituted “submit to that committee copies of security assistance surveys” for “grant that committee access to defense requirement surveys”.
 
-    Subsec. (d). [Pub. L. 99–83, § 114(a)(3)][/us/pl/99/83/s114/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–83][/us/pl/99/83], § 114(a)(3), added subsec. (d).
 
  __Effective Date of 1985 Amendment__ 
 
@@ -62,20 +62,20 @@
 
 [/us/usc/t22/s2776/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fa
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/95/384/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs19
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F740
-[/us/pl/99/83/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs114
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F198
-[/us/pl/103/437/s9/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs9%2Fa%2F7
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/99/83/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs114%2Fa%2F1
-[/us/pl/99/83/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs114%2Fa%2F2
-[/us/pl/99/83/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs114%2Fa%2F2
-[/us/pl/99/83/s114/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs114%2Fa%2F3
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

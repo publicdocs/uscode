@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch43/m__us_usc_t22_s2877a.md) | [Next](./../../../..//us/usc/t22/ch44/m__us_usc_t22_s2901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch44)
+[Previous](./../../../..//us/usc/t22/ch43/m__us_usc_t22_s2878...2883.md) | [Next](./../../../..//us/usc/t22/ch44/m__us_usc_t22_s2901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch44)
 
 ## CHAPTER 44—JAPAN-UNITED STATES FRIENDSHIP
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch43/m__us_usc_t22_s2877a.md) | [Next](./../../../..//us/usc/t22/ch44/m__us_usc_t22_s2901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch44)
+[Previous](./../../../..//us/usc/t22/ch43/m__us_usc_t22_s2878...2883.md) | [Next](./../../../..//us/usc/t22/ch44/m__us_usc_t22_s2901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch44)
 
 ----------
 ----------

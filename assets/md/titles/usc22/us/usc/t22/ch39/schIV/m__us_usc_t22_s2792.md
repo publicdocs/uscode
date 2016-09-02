@@ -33,7 +33,7 @@
 
         Not more than $86,500 of the funds derived from charges for administrative services pursuant to [section 2761(e)(1)(A) of this title][/us/usc/t22/s2761/e/1/A] may be used each fiscal year for official reception and representation expenses.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 4, § 43, Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 94–329, title II, § 214][/us/pl/94/329/s214], June 30, 1976, [90 Stat. 746][/us/stat/90/746]; [Pub. L. 95–92, § 7(d)][/us/pl/95/92/s7/d], Aug. 4, 1977, [91 Stat. 617][/us/stat/91/617]; [Pub. L. 96–92, § 19(b)][/us/pl/96/92/s19/b], Oct. 29, 1979, [93 Stat. 709][/us/stat/93/709]; [Pub. L. 97–113, title VII, § 734(a)(10)][/us/pl/97/113/s734/a/10], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560]; [Pub. L. 99–83, title I, § 120][/us/pl/99/83/s120], Aug. 8, 1985, [99 Stat. 204][/us/stat/99/204]; [Pub. L. 101–165, title IX, § 9104(b)(1)][/us/pl/101/165/s9104/b/1], Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152]; [Pub. L. 107–228, div. B, title XII, § 1203][/us/pl/107/228/s1203], Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 4, § 43, Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 214, June 30, 1976, [90 Stat. 746][/us/stat/90/746]; [Pub. L. 95–92][/us/pl/95/92], § 7(d), Aug. 4, 1977, [91 Stat. 617][/us/stat/91/617]; [Pub. L. 96–92][/us/pl/96/92], § 19(b), Oct. 29, 1979, [93 Stat. 709][/us/stat/93/709]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(10), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560]; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 120, Aug. 8, 1985, [99 Stat. 204][/us/stat/99/204]; [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9104(b)(1), Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1203, Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
     1989—Subsec. (b)(3). [Pub. L. 101–165][/us/pl/101/165] added par. (3).
 
-    1985—Subsec. (b). [Pub. L. 99–83, § 120(1)][/us/pl/99/83/s120/1], inserted “and official reception and representation expenses”.
+    1985—Subsec. (b). [Pub. L. 99–83][/us/pl/99/83], § 120(1), inserted “and official reception and representation expenses”.
 
-    Subsec. (c). [Pub. L. 99–83, § 120(2)][/us/pl/99/83/s120/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–83][/us/pl/99/83], § 120(2), added subsec. (c).
 
     1981—Subsec. (c). [Pub. L. 97–113][/us/pl/97/113] struck out subsec. (c) which required a Presidential report to Congress no later than Jan. 15 of each year containing analysis and description of Federal personnel arms export control services performed previous fiscal year. See [section 2765(a)(6) of this title][/us/usc/t22/s2765/a/6].
 
@@ -73,27 +73,27 @@
 [/us/usc/t22/s2761/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fe%2F1%2FA
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1327
-[/us/pl/94/329/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs214
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F746
-[/us/pl/95/92/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs7%2Fd
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F617
-[/us/pl/96/92/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs19%2Fb
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F709
-[/us/pl/97/113/s734/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F10
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/99/83/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs120
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F204
-[/us/pl/101/165/s9104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9104%2Fb%2F1
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1152
-[/us/pl/107/228/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1203
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1427
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/101/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165
-[/us/pl/99/83/s120/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs120%2F1
-[/us/pl/99/83/s120/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs120%2F2
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2765/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2765%2Fa%2F6
 [/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92

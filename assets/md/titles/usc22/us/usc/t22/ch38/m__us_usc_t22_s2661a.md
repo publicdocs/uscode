@@ -23,7 +23,7 @@
 
     on account of the race, religion, national origin, or sex of such person in the case of an individual or, in the case of a partnership, corporation, association, or other entity, any officer, employee, agent, director, or owner thereof.
 
-([Pub. L. 94–350, title I, § 121][/us/pl/94/350/s121], July 12, 1976, [90 Stat. 829][/us/stat/90/829]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 94–350, title I][/us/pl/94/350/tI], § 121, July 12, 1976, [90 Stat. 829][/us/stat/90/829]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t26/s7701/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701%2Fa%2F30
-[/us/pl/94/350/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs121
+[/us/pl/94/350/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtI
 [/us/stat/90/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F829
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 

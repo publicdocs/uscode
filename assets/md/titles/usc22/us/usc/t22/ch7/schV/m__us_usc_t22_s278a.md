@@ -17,7 +17,7 @@
 
     The Gorgas Memorial Institute shall make to Congress, on April 1 of each year, a full report of the operation and work of the Gorgas Memorial Laboratory during the fiscal year ending the preceding September 30, and shall include therewith a complete statement of the receipts and expenditures of said laboratory for such fiscal year. The books and accounts of the Gorgas Memorial Laboratory shall at all times be open to examination by the Comptroller General of the United States.
 
-([May 7, 1928, ch. 505, § 3][/us/act/1928-05-07/ch505/s3], [45 Stat. 491][/us/stat/45/491]; [Pub. L. 95–426, title VII, § 701(a)][/us/pl/95/426/s701/a], Oct. 7, 1978, [92 Stat. 991][/us/stat/92/991].)
+([May 7, 1928, ch. 505][/us/act/1928-05-07/ch505], § 3, [45 Stat. 491][/us/stat/45/491]; [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 701(a), Oct. 7, 1978, [92 Stat. 991][/us/stat/92/991].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1928-05-07/ch505/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch505%2Fs3
+[/us/act/1928-05-07/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch505
 [/us/stat/45/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F491
-[/us/pl/95/426/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs701%2Fa
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F991
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

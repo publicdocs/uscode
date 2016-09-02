@@ -35,7 +35,7 @@
 
     The Renegotiation Act of 1951, as amended, referred to in subsec. (a), is [act Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7], which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
-    Sections 3544 and 8544 of title 10, referred to in subsec. (c), were repealed by [Pub. L. 90–235, § 4(a)(6)][/us/pl/90/235/s4/a/6], Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759].
+    Sections 3544 and 8544 of title 10, referred to in subsec. (c), were repealed by [Pub. L. 90–235][/us/pl/90/235], § 4(a)(6), Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759].
 
  __References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II__ 
 
@@ -71,7 +71,7 @@ By virtue of the authority vested in me by Section 633 of the Foreign Assistance
 
     (5) Section 3710 of the Revised Statutes ([41 U.S.C. 8][/us/usc/t41/s8]).
 
-    (6) [Section 2 of title III of the Act of March 3, 1933][/us/act/1933-03-03/s2], [47 Stat. 1520][/us/stat/47/1520] ([41 U.S.C. 10a][/us/usc/t41/s10a]).
+    (6) [Section 2 of title III of the Act of March 3, 1933][/us/act/1933-03-03/tIII/s2], [47 Stat. 1520][/us/stat/47/1520] ([41 U.S.C. 10a][/us/usc/t41/s10a]).
 
     (7) Section 3735 of the Revised Statutes ([41 U.S.C. 13][/us/usc/t41/s13]).
 
@@ -135,7 +135,7 @@ Sec. 6. I determine it to be in furtherance of the purposes of the Foreign Assis
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/act/1951-03-23/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-23%2Fch15
 [/us/stat/65/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F7
-[/us/pl/90/235/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs4%2Fa%2F6
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F759
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -153,7 +153,7 @@ Sec. 6. I determine it to be in furtherance of the purposes of the Foreign Assis
 [/us/usc/t41/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs255
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8
-[/us/act/1933-03-03/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs2
+[/us/act/1933-03-03/tIII/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2FtIII%2Fs2
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 [/us/usc/t41/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs13

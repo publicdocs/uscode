@@ -21,7 +21,7 @@
 
     (B) an analysis of the effectiveness of each of the measures referred to in subparagraph (A).
 
-([Pub. L. 109–164, title I, § 104(e)(2)][/us/pl/109/164/s104/e/2], Jan. 10, 2006, [119 Stat. 3566][/us/stat/119/3566]; [Pub. L. 110–457, title III, § 304(b)][/us/pl/110/457/s304/b], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087].)
+([Pub. L. 109–164, title I][/us/pl/109/164/tI], § 104(e)(2), Jan. 10, 2006, [119 Stat. 3566][/us/stat/119/3566]; [Pub. L. 110–457, title III][/us/pl/110/457/tIII], § 304(b), Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/109/164/s104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fe%2F2
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3566
-[/us/pl/110/457/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs304%2Fb
+[/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 

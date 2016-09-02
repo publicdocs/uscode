@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as an authorization for the use of military force.
 
-([Pub. L. 113–272, § 11][/us/pl/113/272/s11], Dec. 18, 2014, [128 Stat. 2966][/us/stat/128/2966].)
+([Pub. L. 113–272][/us/pl/113/272], § 11, Dec. 18, 2014, [128 Stat. 2966][/us/stat/128/2966].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/272/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs11
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2966
 [/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2952

@@ -151,11 +151,11 @@
 
         (8) the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 481, as added [Pub. L. 92–352, title V, § 503][/us/pl/92/352/s503], July 13, 1972, [86 Stat. 496][/us/stat/86/496]; amended [Pub. L. 93–189, § 11(a)][/us/pl/93/189/s11/a], Dec. 17, 1973, [87 Stat. 719][/us/stat/87/719]; [Pub. L. 94–329, title V, § 504(b)][/us/pl/94/329/s504/b], June 30, 1976, [90 Stat. 764][/us/stat/90/764]; [Pub. L. 95–384][/us/pl/95/384], §§ 3, 4, Sept. 26, 1978, [92 Stat. 730][/us/stat/92/730]; [Pub. L. 96–92, § 3(b)][/us/pl/96/92/s3/b], Oct. 29, 1979, [93 Stat. 702][/us/stat/93/702]; [Pub. L. 97–113, title V, § 502(a)(1)][/us/pl/97/113/s502/a/1], (b), title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1538][/us/stat/95/1538], 1539, 1560; [Pub. L. 98–164, title X, § 1003][/us/pl/98/164/s1003], Nov. 22, 1983, [97 Stat. 1053][/us/stat/97/1053]; [Pub. L. 99–83, title VI][/us/pl/99/83], §§ 604–606, 618, Aug. 8, 1985, [99 Stat. 228][/us/stat/99/228], 229, 233; [Pub. L. 99–570, title II][/us/pl/99/570], §§ 2005, 2008, 2009, 2017, Oct. 27, 1986, [100 Stat. 3207–61][/us/stat/100/3207-61], 3207–64, 3207–68; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 585(a)\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–184; [Pub. L. 100–204, title VIII, § 805][/us/pl/100/204/s805], Dec. 22, 1987, [101 Stat. 1397][/us/stat/101/1397]; [Pub. L. 100–461, title V, § 578(e)(2)][/us/pl/100/461/s578/e/2], (g)(1), (3), (h), (i), Oct. 1, 1988, [102 Stat. 2268–47][/us/stat/102/2268-47], 2268–48; [Pub. L. 100–690, title IV, § 4202(b)][/us/pl/100/690/s4202/b], 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, [102 Stat. 4267][/us/stat/102/4267], 4275–4277, 4281, 4285, 4294; [Pub. L. 101–231][/us/pl/101/231], §§ 15, 17(a)–(f), Dec. 13, 1989, [103 Stat. 1963–1965][/us/stat/103/1963-1965]; [Pub. L. 102–550, title XV, § 1519][/us/pl/102/550/s1519], Oct. 28, 1992, [106 Stat. 4060][/us/stat/106/4060]; [Pub. L. 102–583][/us/pl/102/583], §§ 4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, [106 Stat. 4914][/us/stat/106/4914], 4915, 4931, 4932, 4934; [Pub. L. 103–447, title I, § 101(a)][/us/pl/103/447/s101/a], (b), Nov. 2, 1994, [108 Stat. 4691][/us/stat/108/4691]; [Pub. L. 104–164, title I, § 131(a)][/us/pl/104/164/s131/a], July 21, 1996, [110 Stat. 1429][/us/stat/110/1429]; [Pub. L. 105–20, § 2(b)][/us/pl/105/20/s2/b], June 27, 1997, [111 Stat. 234][/us/stat/111/234]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 481, as added [Pub. L. 92–352, title V][/us/pl/92/352/tV], § 503, July 13, 1972, [86 Stat. 496][/us/stat/86/496]; amended [Pub. L. 93–189][/us/pl/93/189], § 11(a), Dec. 17, 1973, [87 Stat. 719][/us/stat/87/719]; [Pub. L. 94–329, title V][/us/pl/94/329/tV], § 504(b), June 30, 1976, [90 Stat. 764][/us/stat/90/764]; [Pub. L. 95–384][/us/pl/95/384], §§ 3, 4, Sept. 26, 1978, [92 Stat. 730][/us/stat/92/730]; [Pub. L. 96–92][/us/pl/96/92], § 3(b), Oct. 29, 1979, [93 Stat. 702][/us/stat/93/702]; [Pub. L. 97–113, title V][/us/pl/97/113/tV], § 502(a)(1), (b), title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1538][/us/stat/95/1538], 1539, 1560; [Pub. L. 98–164, title X][/us/pl/98/164/tX], § 1003, Nov. 22, 1983, [97 Stat. 1053][/us/stat/97/1053]; [Pub. L. 99–83, title VI][/us/pl/99/83/tVI], §§ 604–606, 618, Aug. 8, 1985, [99 Stat. 228][/us/stat/99/228], 229, 233; [Pub. L. 99–570, title II][/us/pl/99/570/tII], §§ 2005, 2008, 2009, 2017, Oct. 27, 1986, [100 Stat. 3207–61][/us/stat/100/3207-61], 3207–64, 3207–68; [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 585(a)\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–184; [Pub. L. 100–204, title VIII][/us/pl/100/204/tVIII], § 805, Dec. 22, 1987, [101 Stat. 1397][/us/stat/101/1397]; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, [102 Stat. 2268–47][/us/stat/102/2268-47], 2268–48; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, [102 Stat. 4267][/us/stat/102/4267], 4275–4277, 4281, 4285, 4294; [Pub. L. 101–231][/us/pl/101/231], §§ 15, 17(a)–(f), Dec. 13, 1989, [103 Stat. 1963–1965][/us/stat/103/1963-1965]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1519, Oct. 28, 1992, [106 Stat. 4060][/us/stat/106/4060]; [Pub. L. 102–583][/us/pl/102/583], §§ 4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, [106 Stat. 4914][/us/stat/106/4914], 4915, 4931, 4932, 4934; [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 101(a), (b), Nov. 2, 1994, [108 Stat. 4691][/us/stat/108/4691]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 131(a), July 21, 1996, [110 Stat. 1429][/us/stat/110/1429]; [Pub. L. 105–20][/us/pl/105/20], § 2(b), June 27, 1997, [111 Stat. 234][/us/stat/111/234]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
-    The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of [Pub. L. 100–690][/us/pl/100/690], Nov. 18, 1988, [102 Stat. 4181][/us/stat/102/4181], as amended. Chapter 1 of the Act was classified principally to subchapter I (§ 1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by [Pub. L. 100–690, title I, § 1009][/us/pl/100/690/s1009], Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188]. For complete classification of this Act to the Code, see Tables.
+    The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of [Pub. L. 100–690][/us/pl/100/690], Nov. 18, 1988, [102 Stat. 4181][/us/stat/102/4181], as amended. Chapter 1 of the Act was classified principally to subchapter I (§ 1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by [Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1009, Nov. 18, 1988, [102 Stat. 4188][/us/stat/102/4188]. For complete classification of this Act to the Code, see Tables.
 
     Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.
 
@@ -177,21 +177,21 @@
 
     1997—Subsec. (b)(1). [Pub. L. 105–20][/us/pl/105/20] substituted reference to chapter 1 of the National Narcotics Leadership Act of 1988 for reference to subtitle A of title I of the Anti-Drug Abuse Act of 1988.
 
-    1996—Subsec. (a)(1)(D) to (G). [Pub. L. 104–164, § 131(a)(1)][/us/pl/104/164/s131/a/1], added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+    1996—Subsec. (a)(1)(D) to (G). [Pub. L. 104–164][/us/pl/104/164], § 131(a)(1), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-    Subsec. (a)(4). [Pub. L. 104–164, § 131(a)(2)][/us/pl/104/164/s131/a/2], inserted “, or for other anticrime purposes” before period at end.
+    Subsec. (a)(4). [Pub. L. 104–164][/us/pl/104/164], § 131(a)(2), inserted “, or for other anticrime purposes” before period at end.
 
-    1994—Subsec. (d)(2) to (4). [Pub. L. 103–447, § 101(a)][/us/pl/103/447/s101/a], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
+    1994—Subsec. (d)(2) to (4). [Pub. L. 103–447][/us/pl/103/447], § 101(a), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
 
-    Subsec. (e). [Pub. L. 103–447, § 101(b)(1)][/us/pl/103/447/s101/b/1], substituted “For” for “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for”.
+    Subsec. (e). [Pub. L. 103–447][/us/pl/103/447], § 101(b)(1), substituted “For” for “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for”.
 
-    Subsec. (e)(2). [Pub. L. 103–447, § 101(b)(2)][/us/pl/103/447/s101/b/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country that illicitly produces during a fiscal year 5 metric tons or more of opium or opium derivative, 500 metric tons or more of coca, or 500 metric tons or more of marijuana;”.
+    Subsec. (e)(2). [Pub. L. 103–447][/us/pl/103/447], § 101(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country that illicitly produces during a fiscal year 5 metric tons or more of opium or opium derivative, 500 metric tons or more of coca, or 500 metric tons or more of marijuana;”.
 
-    Subsec. (e)(6) to (8). [Pub. L. 103–447, § 101(b)(3)][/us/pl/103/447/s101/b/3]–(5), added pars. (6) and (7) and redesignated former par. (6) as (8).
+    Subsec. (e)(6) to (8). [Pub. L. 103–447][/us/pl/103/447], § 101(b)(3)–(5), added pars. (6) and (7) and redesignated former par. (6) as (8).
 
-    1992—[Pub. L. 102–583, § 4(a)][/us/pl/102/583/s4/a], added section catchline and struck out former catchline which read as follows: “International narcotics control”.
+    1992—[Pub. L. 102–583][/us/pl/102/583], § 4(a), added section catchline and struck out former catchline which read as follows: “International narcotics control”.
 
-    Subsec. (a)(1). [Pub. L. 102–583, § 4(a)][/us/pl/102/583/s4/a], added par. (1) and struck out former par. (1) which read as follows: “It is the sense of the Congress that—
+    Subsec. (a)(1). [Pub. L. 102–583][/us/pl/102/583], § 4(a), added par. (1) and struck out former par. (1) which read as follows: “It is the sense of the Congress that—
 
     “(A) under the Single Convention on Narcotic Drugs, 1961, each signatory country has the responsibility of limiting to licit purposes the cultivation, production, manufacture, sale, and other distribution of scheduled drugs;
 
@@ -205,19 +205,19 @@
 
     “(F) effective international cooperation is necessary to control the illicit cultivation, production, and smuggling of, trafficking in, and abuse of narcotic and psychotropic drugs.”
 
-    Subsec. (a)(1)(D) to (F). [Pub. L. 102–550, § 1519(a)][/us/pl/102/550/s1519/a], struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
+    Subsec. (a)(1)(D) to (F). [Pub. L. 102–550][/us/pl/102/550], § 1519(a), struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
-    Subsec. (a)(2). [Pub. L. 102–583, § 4(b)][/us/pl/102/583/s4/b], inserted “, including reciprocal maritime agreements,” after “agreements”.
+    Subsec. (a)(2). [Pub. L. 102–583][/us/pl/102/583], § 4(b), inserted “, including reciprocal maritime agreements,” after “agreements”.
 
-    Subsec. (b). [Pub. L. 102–583, § 4(c)][/us/pl/102/583/s4/c], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than September 1 of each year, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a complete and detailed midyear report on the activities and operations carried out under this part prior to such date. Such midyear report shall include, but not be limited to, the status of each agreement concluded prior to such date with other countries to carry out the purposes of this part.”
+    Subsec. (b). [Pub. L. 102–583][/us/pl/102/583], § 4(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than September 1 of each year, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a complete and detailed midyear report on the activities and operations carried out under this part prior to such date. Such midyear report shall include, but not be limited to, the status of each agreement concluded prior to such date with other countries to carry out the purposes of this part.”
 
-    Subsec. (c)(4). [Pub. L. 102–583, § 4(d)][/us/pl/102/583/s4/d], inserted “or archipelagic waters” after “sea”.
+    Subsec. (c)(4). [Pub. L. 102–583][/us/pl/102/583], § 4(d), inserted “or archipelagic waters” after “sea”.
 
-    Subsec. (d)(3). [Pub. L. 102–583, § 6(b)(1)][/us/pl/102/583/s6/b/1], substituted “[section 2291h(a) of this title][/us/usc/t22/s2291h/a]” for “subsection (e) of this section”.
+    Subsec. (d)(3). [Pub. L. 102–583][/us/pl/102/583], § 6(b)(1), substituted “[section 2291h(a) of this title][/us/usc/t22/s2291h/a]” for “subsection (e) of this section”.
 
     Subsec. (e). [Pub. L. 102–583][/us/pl/102/583], §§ 6(b)(2), (3), 11(a), redesignated subsec. (i) as (e), substituted “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for purposes of this part and other provisions of this chapter relating specifically to international narcotics matters” for “As used in this section” in introductory provisions, substituted “; and” for period at end of par. (5), added par. (6), and struck out former subsec. (e) which directed President to make annual reports to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate related to United States policy to promote an international strategy against the cultivation, and manufacture of and traffic in controlled substances, and described contents of those reports.
 
-    [Pub. L. 102–550, § 1519(b)][/us/pl/102/550/s1519/b], added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. As added, par. (7) read as follows:
+    [Pub. L. 102–550][/us/pl/102/550], § 1519(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. As added, par. (7) read as follows:
 
     “(A) Each report pursuant to this subsection shall include a report on major money laundering countries. This report shall specify—
 
@@ -265,103 +265,103 @@
 
     “(E) As used in this paragraph, the term ‘major money laundering country’ means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking.”
 
-    Subsecs. (f) to (h). [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], struck out subsec. (f) relating to consultation with members of Congress, subsec. (g) relating to congressional committee hearings, and subsec. (h) relating to annual certification procedures.
+    Subsecs. (f) to (h). [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), struck out subsec. (f) relating to consultation with members of Congress, subsec. (g) relating to congressional committee hearings, and subsec. (h) relating to annual certification procedures.
 
-    Subsec. (i). [Pub. L. 102–583, § 6(b)(3)][/us/pl/102/583/s6/b/3], redesignated subsec. (i) as (e).
+    Subsec. (i). [Pub. L. 102–583][/us/pl/102/583], § 6(b)(3), redesignated subsec. (i) as (e).
 
-    Subsec. (i)(4). [Pub. L. 102–583, § 5(b)][/us/pl/102/583/s5/b], amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
+    Subsec. (i)(4). [Pub. L. 102–583][/us/pl/102/583], § 5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
 
-    Subsec. (i)(5). [Pub. L. 102–550, § 1519(c)][/us/pl/102/550/s1519/c], inserted “or” at end of subpar. (A), substituted a period for “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government.”
+    Subsec. (i)(5). [Pub. L. 102–550][/us/pl/102/550], § 1519(c), inserted “or” at end of subpar. (A), substituted a period for “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government.”
 
-    Subsecs. (j), (k). [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], struck out subsec. (j) relating to actions by international bodies and subsec. (k) relating to procedures for determining major drug-transit countries.
+    Subsecs. (j), (k). [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), struck out subsec. (j) relating to actions by international bodies and subsec. (k) relating to procedures for determining major drug-transit countries.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–231, § 17(a)][/us/pl/101/231/s17/a], struck out at end “This cooperation should include the development and transmittal of plans by each signatory country to the Single Convention on Narcotic Drugs, 1961, in which illicit narcotics and psychotropic crop cultivation exists, which would advise the International Narcotics Control Board, the United Nations Commission on Narcotic Drugs, and the international community of the strategy, programs, and timetable such country has established for the progressive elimination of that cultivation.”
+    1989—Subsec. (a)(1). [Pub. L. 101–231][/us/pl/101/231], § 17(a), struck out at end “This cooperation should include the development and transmittal of plans by each signatory country to the Single Convention on Narcotic Drugs, 1961, in which illicit narcotics and psychotropic crop cultivation exists, which would advise the International Narcotics Control Board, the United Nations Commission on Narcotic Drugs, and the international community of the strategy, programs, and timetable such country has established for the progressive elimination of that cultivation.”
 
-    Subsec. (b). [Pub. L. 101–231, § 17(b)][/us/pl/101/231/s17/b], inserted “Mid-year report” as heading, struck out par. (1) which required quarterly reports on the programming and obligation of funds under this part, redesignated former par. (2) as subsec. (b), and substituted “Not later than September” for “Not later than August”.
+    Subsec. (b). [Pub. L. 101–231][/us/pl/101/231], § 17(b), inserted “Mid-year report” as heading, struck out par. (1) which required quarterly reports on the programming and obligation of funds under this part, redesignated former par. (2) as subsec. (b), and substituted “Not later than September” for “Not later than August”.
 
-    Subsec. (c). [Pub. L. 101–231, § 15][/us/pl/101/231/s15], inserted “Participation in foreign police actions” as heading and amended text generally, inserting par. headings, redesignating provisions comprising former par. (1) as pars. (1) and (2) and, in par. (2), inserting provision not prohibiting presence of officers and employees when foreign officers are effecting an arrest, and striking out former par. (2) which prohibited officers or employees from engaging or participating in direct police action in a foreign country with respect to narcotics control efforts.
+    Subsec. (c). [Pub. L. 101–231][/us/pl/101/231], § 15, inserted “Participation in foreign police actions” as heading and amended text generally, inserting par. headings, redesignating provisions comprising former par. (1) as pars. (1) and (2) and, in par. (2), inserting provision not prohibiting presence of officers and employees when foreign officers are effecting an arrest, and striking out former par. (2) which prohibited officers or employees from engaging or participating in direct police action in a foreign country with respect to narcotics control efforts.
 
-    Subsec. (d). [Pub. L. 101–231, § 17(c)][/us/pl/101/231/s17/c], inserted “Use of herbicides for aerial eradication” as heading and amended text generally, substituting pars. (1) to (4) for former pars. (1) to (5).
+    Subsec. (d). [Pub. L. 101–231][/us/pl/101/231], § 17(c), inserted “Use of herbicides for aerial eradication” as heading and amended text generally, substituting pars. (1) to (4) for former pars. (1) to (5).
 
-    Subsec. (h)(2)(A)(i)(IV). [Pub. L. 101–231, § 17(d)(1)][/us/pl/101/231/s17/d/1], substituted “illicit production” for “production”.
+    Subsec. (h)(2)(A)(i)(IV). [Pub. L. 101–231][/us/pl/101/231], § 17(d)(1), substituted “illicit production” for “production”.
 
-    Subsec. (h)(2)(B)(iii). [Pub. L. 101–231, § 17(d)(2)][/us/pl/101/231/s17/d/2], substituted “education and treatment programs” for “treatment”.
+    Subsec. (h)(2)(B)(iii). [Pub. L. 101–231][/us/pl/101/231], § 17(d)(2), substituted “education and treatment programs” for “treatment”.
 
-    Subsec. (h)(2)(B)(v). [Pub. L. 101–231, § 17(d)(3)][/us/pl/101/231/s17/d/3], substituted “essential precursor chemicals” for “precursor chemicals”.
+    Subsec. (h)(2)(B)(v). [Pub. L. 101–231][/us/pl/101/231], § 17(d)(3), substituted “essential precursor chemicals” for “precursor chemicals”.
 
-    Subsec. (h)(3)(D). [Pub. L. 101–231, § 17(d)(4)][/us/pl/101/231/s17/d/4], substituted “illicit production” for “production”.
+    Subsec. (h)(3)(D). [Pub. L. 101–231][/us/pl/101/231], § 17(d)(4), substituted “illicit production” for “production”.
 
-    Subsec. (i)(2). [Pub. L. 101–231, § 17(e)][/us/pl/101/231/s17/e], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
+    Subsec. (i)(2). [Pub. L. 101–231][/us/pl/101/231], § 17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
-    Subsec. (k)(4). [Pub. L. 101–231, § 17(f)][/us/pl/101/231/s17/f], struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
+    Subsec. (k)(4). [Pub. L. 101–231][/us/pl/101/231], § 17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
-    1988—Subsec. (a)(1)(B) to (E). [Pub. L. 100–690, § 4502][/us/pl/100/690/s4502], added subpar. (B), and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+    1988—Subsec. (a)(1)(B) to (E). [Pub. L. 100–690][/us/pl/100/690], § 4502, added subpar. (B), and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-    Subsec. (d)(5). [Pub. L. 100–690, § 4202(b)][/us/pl/100/690/s4202/b], added par. (5).
+    Subsec. (d)(5). [Pub. L. 100–690][/us/pl/100/690], § 4202(b), added par. (5).
 
-    Subsec. (e)(4). [Pub. L. 100–690, § 4401][/us/pl/100/690/s4401], inserted provisions after first sentence requiring each determination of President to be expressed in numerical terms.
+    Subsec. (e)(4). [Pub. L. 100–690][/us/pl/100/690], § 4401, inserted provisions after first sentence requiring each determination of President to be expressed in numerical terms.
 
-    Subsec. (e)(8). [Pub. L. 100–690, § 4402][/us/pl/100/690/s4402], added par. (8).
+    Subsec. (e)(8). [Pub. L. 100–690][/us/pl/100/690], § 4402, added par. (8).
 
-    Subsec. (h)(1). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], added par. (1) and struck out former par. (1) which related to withholding of assistance to major illicit drug producing countries or major drug-transit countries.
+    Subsec. (h)(1). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), added par. (1) and struck out former par. (1) which related to withholding of assistance to major illicit drug producing countries or major drug-transit countries.
 
-    [Pub. L. 100–461, § 578(h)][/us/pl/100/461/s578/h], inserted before “Subject” the following: “Not later than October 1 of each year, the Secretary of State shall submit a report to the Congress of those countries identified by the Secretary as being major drug producing or major drug transit countries (including the definition used to determine such drug transit countries) for purposes of the withholding requirements contained in subparagraph (A) of this paragraph and the certification requirements contained in paragraph (2) of this subsection.”
+    [Pub. L. 100–461][/us/pl/100/461], § 578(h), inserted before “Subject” the following: “Not later than October 1 of each year, the Secretary of State shall submit a report to the Congress of those countries identified by the Secretary as being major drug producing or major drug transit countries (including the definition used to determine such drug transit countries) for purposes of the withholding requirements contained in subparagraph (A) of this paragraph and the certification requirements contained in paragraph (2) of this subsection.”
 
-    Subsec. (h)(2). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], added par. (2) and struck out former par. (2) which related to removal of restrictions imposed under par. (1).
+    Subsec. (h)(2). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), added par. (2) and struck out former par. (2) which related to removal of restrictions imposed under par. (1).
 
-    Subsec. (h)(2)(A)(i)(I). [Pub. L. 100–461, § 578(g)(3)][/us/pl/100/461/s578/g/3], inserted “or multilateral agreement which achieves the objectives of this subsection,” after “(ii)”.
+    Subsec. (h)(2)(A)(i)(I). [Pub. L. 100–461][/us/pl/100/461], § 578(g)(3), inserted “or multilateral agreement which achieves the objectives of this subsection,” after “(ii)”.
 
-    Subsec. (h)(2)(A)(ii). [Pub. L. 100–461, § 578(g)(1)][/us/pl/100/461/s578/g/1], amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to take specific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
+    Subsec. (h)(2)(A)(ii). [Pub. L. 100–461][/us/pl/100/461], § 578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to take specific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
 
-    Subsec. (h)(2)(B). [Pub. L. 100–461, § 578(i)][/us/pl/100/461/s578/i], substituted “subparagraph (A)(i)(II)” for “clause (A)(ii)”.
+    Subsec. (h)(2)(B). [Pub. L. 100–461][/us/pl/100/461], § 578(i), substituted “subparagraph (A)(i)(II)” for “clause (A)(ii)”.
 
-    Subsec. (h)(3). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], added par. (3) and struck out former par. (3) which related to certification by President.
+    Subsec. (h)(3). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), added par. (3) and struck out former par. (3) which related to certification by President.
 
-    Subsec. (h)(4). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], added par. (4). Subpar. (A) of former par. (4), which related to Congressional disapproval of certification, was struck out and subpar. (B) of former par. (4) redesignated par. (6)(B).
+    Subsec. (h)(4). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), added par. (4). Subpar. (A) of former par. (4), which related to Congressional disapproval of certification, was struck out and subpar. (B) of former par. (4) redesignated par. (6)(B).
 
-    Subsec. (h)(5). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], (b)(1)(A), added par. (5) and struck out former par. (5) which related to prohibition of assistance or financing to any country for which President has not made certification under par. (2) or with respect to which Congress has enacted a joint resolution disapproving such certification unless President makes certification or Congress enacts joint resolution approving certification.
+    Subsec. (h)(5). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), (b)(1)(A), added par. (5) and struck out former par. (5) which related to prohibition of assistance or financing to any country for which President has not made certification under par. (2) or with respect to which Congress has enacted a joint resolution disapproving such certification unless President makes certification or Congress enacts joint resolution approving certification.
 
-    Subsec. (h)(6)(A). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], added subpar. (A).
+    Subsec. (h)(6)(A). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), added subpar. (A).
 
-    Subsec. (h)(6)(B). [Pub. L. 100–690, § 4407(a)][/us/pl/100/690/s4407/a], (b)(1)(B)(i), (ii), redesignated par. (4)(B) as (6)(B) and substituted “Any joint resolution under this subsection” for “Any such joint resolution” in cl. (i).
+    Subsec. (h)(6)(B). [Pub. L. 100–690][/us/pl/100/690], § 4407(a), (b)(1)(B)(i), (ii), redesignated par. (4)(B) as (6)(B) and substituted “Any joint resolution under this subsection” for “Any such joint resolution” in cl. (i).
 
-    Subsec. (h)(6)(B)(ii). [Pub. L. 100–690, § 4407(b)(1)(B)(iii)][/us/pl/100/690/s4407/b/1/B/iii], which directed substitution of “resolutions” for “resolution” was executed by making the substitution the first place it appears, thus correcting grammatical error, as the probable intent of Congress.
+    Subsec. (h)(6)(B)(ii). [Pub. L. 100–690][/us/pl/100/690], § 4407(b)(1)(B)(iii), which directed substitution of “resolutions” for “resolution” was executed by making the substitution the first place it appears, thus correcting grammatical error, as the probable intent of Congress.
 
-    Subsec. (i)(4)(vi). [Pub. L. 100–690, § 4802(b)][/us/pl/100/690/s4802/b], made technical amendment to reference to [section 2151b(c)(2) of this title][/us/usc/t22/s2151b/c/2] to correct reference to corresponding section of original act.
+    Subsec. (i)(4)(vi). [Pub. L. 100–690][/us/pl/100/690], § 4802(b), made technical amendment to reference to [section 2151b(c)(2) of this title][/us/usc/t22/s2151b/c/2] to correct reference to corresponding section of original act.
 
-    Subsec. (i)(4)(vii). [Pub. L. 100–690, § 4403][/us/pl/100/690/s4403], substituted “2151x(b)(2) of this title (but any such assistance shall be subject to the prior notification procedures applicable to reprogrammings pursuant to [section 2394–1 of this title][/us/usc/t22/s2394–1]),” for “2151x of this title;”.
+    Subsec. (i)(4)(vii). [Pub. L. 100–690][/us/pl/100/690], § 4403, substituted “2151x(b)(2) of this title (but any such assistance shall be subject to the prior notification procedures applicable to reprogrammings pursuant to [section 2394–1 of this title][/us/usc/t22/s2394–1]),” for “2151x of this title;”.
 
-    [Pub. L. 100–461, § 578(e)(2)(A)][/us/pl/100/461/s578/e/2/A], added cl. (vii). Former cl. (vii) redesignated cl. (viii).
+    [Pub. L. 100–461][/us/pl/100/461], § 578(e)(2)(A), added cl. (vii). Former cl. (vii) redesignated cl. (viii).
 
-    Subsec. (i)(4)(viii). [Pub. L. 100–461, § 578(e)(2)(B)][/us/pl/100/461/s578/e/2/B], redesignated cl. (vii) as (viii).
+    Subsec. (i)(4)(viii). [Pub. L. 100–461][/us/pl/100/461], § 578(e)(2)(B), redesignated cl. (vii) as (viii).
 
-    Subsec. (k). [Pub. L. 100–690, § 4405(a)][/us/pl/100/690/s4405/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 100–690][/us/pl/100/690], § 4405(a), added subsec. (k).
 
-    1987—Subsec. (e)(7). [Pub. L. 100–204, § 805(a)][/us/pl/100/204/s805/a], added par. (7).
+    1987—Subsec. (e)(7). [Pub. L. 100–204][/us/pl/100/204], § 805(a), added par. (7).
 
     Subsec. (h)(2)(A). [Pub. L. 100–202][/us/pl/100/202] designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
 
-    Subsec. (h)(4)(A). [Pub. L. 100–204, § 805(b)][/us/pl/100/204/s805/b], which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
+    Subsec. (h)(4)(A). [Pub. L. 100–204][/us/pl/100/204], § 805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
-    1986—Subsec. (a)(3), (4). [Pub. L. 99–570, § 2017][/us/pl/99/570/s2017], added par. (3) and redesignated former par. (3) as (4).
+    1986—Subsec. (a)(3), (4). [Pub. L. 99–570][/us/pl/99/570], § 2017, added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (c). [Pub. L. 99–570, § 2009][/us/pl/99/570/s2009], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 99–570][/us/pl/99/570], § 2009, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
     “(1) Notwithstanding any other provision of law, no officer or employee of the United States may engage or participate in any direct police arrest action in any foreign country with respect to narcotics control efforts. No such officer or employee may interrogate or be present during the interrogation of any United States person arrested in any foreign country with respect to narcotics control efforts without the written consent of such person. The provisions of this paragraph shall not apply to the activities of the United States Armed Forces in carrying out their responsibilities under applicable Status of Forces arrangements.
 
     “(2) Paragraph (1) of this subsection shall not prohibit officers and employees of the United States from being present during direct police arrest actions with respect to narcotic control efforts in a foreign country to the extent that the Secretary of State and the government of that country agree to such an exemption. The Secretary of State shall report any such agreement to the Congress before the agreement takes effect.”
 
-    Subsec. (e)(1). [Pub. L. 99–570, § 2005(b)][/us/pl/99/570/s2005/b], substituted “March” for “February”.
+    Subsec. (e)(1). [Pub. L. 99–570][/us/pl/99/570], § 2005(b), substituted “March” for “February”.
 
-    Subsec. (e)(3)(D). [Pub. L. 99–570, § 2008][/us/pl/99/570/s2008], added subpar. (D).
+    Subsec. (e)(3)(D). [Pub. L. 99–570][/us/pl/99/570], § 2008, added subpar. (D).
 
-    Subsec. (h). [Pub. L. 99–570, § 2005(a)][/us/pl/99/570/s2005/a], amended subsec. (h) generally, revising and restating as pars. (1) to (5) provisions of former pars. (1) to (4).
+    Subsec. (h). [Pub. L. 99–570][/us/pl/99/570], § 2005(a), amended subsec. (h) generally, revising and restating as pars. (1) to (5) provisions of former pars. (1) to (4).
 
-    Subsec. (i)(4). [Pub. L. 99–570, § 2005(d)][/us/pl/99/570/s2005/d], in concluding provisions, added cl. (vi), and redesignated former cl. (vi) as (vii).
+    Subsec. (i)(4). [Pub. L. 99–570][/us/pl/99/570], § 2005(d), in concluding provisions, added cl. (vi), and redesignated former cl. (vi) as (vii).
 
-    Subsec. (i)(5). [Pub. L. 99–570, § 2005(c)][/us/pl/99/570/s2005/c], added par. (5).
+    Subsec. (i)(5). [Pub. L. 99–570][/us/pl/99/570], § 2005(c), added par. (5).
 
-    1985—Subsec. (b). [Pub. L. 99–83, § 604][/us/pl/99/83/s604], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    1985—Subsec. (b). [Pub. L. 99–83][/us/pl/99/83], § 604, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) Not later than forty-five days after the date on which each calendar quarter of each year ends, the President shall transmit to the Speaker of the House of Representatives, and to the Committee on Foreign Relations of the Senate, a report on the programing and obligation, on a calendar quarter basis, of funds under this part prior to such date.
 
@@ -377,29 +377,29 @@
 
     “(iii) for administrative support services within the United States to carry out the purposes of this part, including the cost of United States personnel engaged in carrying out such purposes in the United States.”
 
-    Subsec. (c)(2). [Pub. L. 99–83, § 605][/us/pl/99/83/s605], added par. (2).
+    Subsec. (c)(2). [Pub. L. 99–83][/us/pl/99/83], § 605, added par. (2).
 
-    Subsec. (e)(6). [Pub. L. 99–83, § 606][/us/pl/99/83/s606], added par. (6).
+    Subsec. (e)(6). [Pub. L. 99–83][/us/pl/99/83], § 606, added par. (6).
 
-    Subsec. (h)(4). [Pub. L. 99–83, § 618][/us/pl/99/83/s618], added par. (4).
+    Subsec. (h)(4). [Pub. L. 99–83][/us/pl/99/83], § 618, added par. (4).
 
-    1983—Subsec. (a). [Pub. L. 98–164, § 1003(a)][/us/pl/98/164/s1003/a], amended subsec. (a) generally, substituting provisions relating to applicability and implementation of Single Convention on Narcotic Drugs, 1961, and development, promotion and assistance respecting international narcotics control, for provisions relating to agreements, assistance, sanctions, etc., to facilitate international narcotics control.
+    1983—Subsec. (a). [Pub. L. 98–164][/us/pl/98/164], § 1003(a), amended subsec. (a) generally, substituting provisions relating to applicability and implementation of Single Convention on Narcotic Drugs, 1961, and development, promotion and assistance respecting international narcotics control, for provisions relating to agreements, assistance, sanctions, etc., to facilitate international narcotics control.
 
-    Subsec. (e). [Pub. L. 98–164, § 1003(b)][/us/pl/98/164/s1003/b], amended subsec. (e) generally, substituting requirements for annual reports on cultivation and manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances and the specific contents of the reports for requirements for annual reports on the status of United States policy regarding production, interdiction, and interception of trafficking in narcotics.
+    Subsec. (e). [Pub. L. 98–164][/us/pl/98/164], § 1003(b), amended subsec. (e) generally, substituting requirements for annual reports on cultivation and manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances and the specific contents of the reports for requirements for annual reports on the status of United States policy regarding production, interdiction, and interception of trafficking in narcotics.
 
-    Subsecs. (f) to (j). [Pub. L. 98–164, § 1003(b)][/us/pl/98/164/s1003/b], added subsecs. (f) to (j).
+    Subsecs. (f) to (j). [Pub. L. 98–164][/us/pl/98/164], § 1003(b), added subsecs. (f) to (j).
 
-    1981—Subsec. (c)(2). [Pub. L. 97–113, § 734(a)(1)][/us/pl/97/113/s734/a/1], struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
+    1981—Subsec. (c)(2). [Pub. L. 97–113][/us/pl/97/113], § 734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
 
-    Subsec. (d). [Pub. L. 97–113, § 502(a)(1)][/us/pl/97/113/s502/a/1], substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
+    Subsec. (d). [Pub. L. 97–113][/us/pl/97/113], § 502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
 
-    Subsec. (e). [Pub. L. 97–113, § 502(b)][/us/pl/97/113/s502/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 97–113][/us/pl/97/113], § 502(b), added subsec. (e).
 
     1979—Subsec. (d)(1). [Pub. L. 96–92][/us/pl/96/92] substituted “for the purpose of” for “or used for any program involving”.
 
-    1978—Subsec. (c)(1). [Pub. L. 95–384, § 3][/us/pl/95/384/s3], inserted provisions prohibiting any agent or employee of the United States Government from interrogating, or from being present at the interrogation of, any United States person arrested in any foreign country in the absence of the written consent of the person arrested and provisions relating to the applicability of this paragraph to the activities of the United States Armed Forces.
+    1978—Subsec. (c)(1). [Pub. L. 95–384][/us/pl/95/384], § 3, inserted provisions prohibiting any agent or employee of the United States Government from interrogating, or from being present at the interrogation of, any United States person arrested in any foreign country in the absence of the written consent of the person arrested and provisions relating to the applicability of this paragraph to the activities of the United States Armed Forces.
 
-    Subsec. (d). [Pub. L. 95–384, § 4][/us/pl/95/384/s4], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–384][/us/pl/95/384], § 4, added subsec. (d).
 
     1976—Subsec. (c). [Pub. L. 94–329][/us/pl/94/329] added subsec. (c).
 
@@ -411,7 +411,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 585(b)\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 585(b)\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, provided that: 
 
 > “The amendments made by paragraph (1) \[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2291(h)(2)(A)][/us/usc/t22/s2291/h/2/A]\] made on or after March 1, 1989.”
 
@@ -425,7 +425,7 @@
 
  __Prevention of Smuggling of Methamphetamine Into the United States From Mexico__ 
 
-[Pub. L. 109–177, title VII, § 723][/us/pl/109/177/s723], Mar. 9, 2006, [120 Stat. 269][/us/stat/120/269], provided that:
+[Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 723, Mar. 9, 2006, [120 Stat. 269][/us/stat/120/269], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -451,11 +451,11 @@
 
  __Reports on Activities in Colombia__ 
 
-    [Pub. L. 107–228, div. A, title VI, § 694][/us/pl/107/228/s694], Sept. 30, 2002, [116 Stat. 1415][/us/stat/116/1415], which required annual reports on activities in Colombia, was repealed by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].
+    [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 694, Sept. 30, 2002, [116 Stat. 1415][/us/stat/116/1415], which required annual reports on activities in Colombia, was repealed by [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].
 
  __Limitation on Counternarcotics Assistance to Colombia__ 
 
-[Pub. L. 105–277, div. C, title VIII, § 821(b)][/us/pl/105/277/s821/b], Oct. 21, 1998, [112 Stat. 2681–700][/us/stat/112/2681-700], provided that:
+[Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 821(b), Oct. 21, 1998, [112 Stat. 2681–700][/us/stat/112/2681-700], provided that:
 
 >     “(1)  __Limitation on provision of assistance__  __.—__ 
 
@@ -473,11 +473,11 @@
 
  __Report on Armed Forces Stationed in Andean Countries__ 
 
-    [Pub. L. 101–623, § 8][/us/pl/101/623/s8], Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355], which required the President to submit to Congress a monthly report listing the number of members of United States Armed Forces assigned or detailed to, or otherwise performing functions in, each Andean country, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 18 of House Document No. 103–7.
+    [Pub. L. 101–623][/us/pl/101/623], § 8, Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355], which required the President to submit to Congress a monthly report listing the number of members of United States Armed Forces assigned or detailed to, or otherwise performing functions in, each Andean country, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 18 of House Document No. 103–7.
 
  __Precursor Chemicals__ 
 
-[Pub. L. 101–513, title V, § 599H][/us/pl/101/513/s599H], Nov. 5, 1990, [104 Stat. 2068][/us/stat/104/2068], provided that:
+[Pub. L. 101–513, title V][/us/pl/101/513/tV], § 599H, Nov. 5, 1990, [104 Stat. 2068][/us/stat/104/2068], provided that:
 
 >     “(a)  __Negotiations__  __.—__ 
 
@@ -501,7 +501,7 @@
 
  __Linkage of Debt Reduction Loans to Reduction in Drug Trafficking; Report to Congress__ 
 
-[Pub. L. 101–240, title IV, § 407][/us/pl/101/240/s407], Dec. 19, 1989, [103 Stat. 2504][/us/stat/103/2504], provided that:
+[Pub. L. 101–240, title IV][/us/pl/101/240/tIV], § 407, Dec. 19, 1989, [103 Stat. 2504][/us/stat/103/2504], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -531,7 +531,7 @@
 
  __Debt-for-Drugs Exchanges__ 
 
-[Pub. L. 101–231, § 10][/us/pl/101/231/s10], Dec. 13, 1989, [103 Stat. 1961][/us/stat/103/1961], provided that:
+[Pub. L. 101–231][/us/pl/101/231], § 10, Dec. 13, 1989, [103 Stat. 1961][/us/stat/103/1961], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -547,7 +547,7 @@
 
  __Additional Assistance to Countries Meeting Drug Eradication Targets or Taking Significant Steps Against Drug Production or Trafficking__ 
 
-[Pub. L. 101–167, title V, § 569(d)][/us/pl/101/167/s569/d], Nov. 21, 1989, [103 Stat. 1244][/us/stat/103/1244], provided that:
+[Pub. L. 101–167, title V][/us/pl/101/167/tV], § 569(d), Nov. 21, 1989, [103 Stat. 1244][/us/stat/103/1244], provided that:
 
 >     “(1)
 
@@ -561,27 +561,27 @@
 
  __Definition of Terms Used in International Narcotics Control Act of 1988__ 
 
-    [Pub. L. 100–690, title IV, § 4003][/us/pl/100/690/s4003], Nov. 18, 1988, [102 Stat. 4263][/us/stat/102/4263], defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of [Pub. L. 100–690][/us/pl/100/690], prior to repeal by [Pub. L. 102–583, § 6(e)(1)][/us/pl/102/583/s6/e/1], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4003, Nov. 18, 1988, [102 Stat. 4263][/us/stat/102/4263], defined terms “drug” and “narcotic” to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of [Pub. L. 100–690][/us/pl/100/690], prior to repeal by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(1), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
  __Regional Anti-Narcotics Forces__ 
 
-    [Pub. L. 100–690, title IV, § 4101][/us/pl/100/690/s4101], Nov. 18, 1988, [102 Stat. 4263][/us/stat/102/4263], stated need for anti-narcotics multinational force in Western Hemisphere and authorized diplomatic efforts toward creation of such a force, prior to repeal by [Pub. L. 102–583, § 6(e)(1)][/us/pl/102/583/s6/e/1], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4101, Nov. 18, 1988, [102 Stat. 4263][/us/stat/102/4263], stated need for anti-narcotics multinational force in Western Hemisphere and authorized diplomatic efforts toward creation of such a force, prior to repeal by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(1), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
  __Determining Major Drug-Transit Countries With Respect to Fiscal Year 1989__ 
 
-    [Pub. L. 100–690, title IV, § 4405(b)][/us/pl/100/690/s4405/b], Nov. 18, 1988, [102 Stat. 4276][/us/stat/102/4276], directed Secretary of State to make determination of major drug-transit countries with respect to fiscal year 1989, prior to repeal by [Pub. L. 102–583, § 6(e)(1)][/us/pl/102/583/s6/e/1], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4405(b), Nov. 18, 1988, [102 Stat. 4276][/us/stat/102/4276], directed Secretary of State to make determination of major drug-transit countries with respect to fiscal year 1989, prior to repeal by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(1), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
  __Bilateral Narcotics Agreements Required for Certifications for Fiscal Year 1989 and Thereafter__ 
 
-    [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 585(c)\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, as amended by [Pub. L. 100–461, title V, § 578(g)(2)][/us/pl/100/461/s578/g/2], Oct. 1, 1988, [102 Stat. 2268–47][/us/stat/102/2268-47], provided that beginning with certifications with respect to fiscal year 1989 and each subsequent year, a country which in the previous year had been designated a major drug producing or drug transit country would not be deemed as cooperating fully unless it had in place a bilateral narcotics agreement with the United States, or a multilateral agreement which achieves the objectives of this section, prior to repeal by [Pub. L. 100–690, title IV, § 4407(b)(2)][/us/pl/100/690/s4407/b/2], Nov. 18, 1988, [102 Stat. 4281][/us/stat/102/4281].
+    [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 585(c)\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, as amended by [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 578(g)(2), Oct. 1, 1988, [102 Stat. 2268–47][/us/stat/102/2268-47], provided that beginning with certifications with respect to fiscal year 1989 and each subsequent year, a country which in the previous year had been designated a major drug producing or drug transit country would not be deemed as cooperating fully unless it had in place a bilateral narcotics agreement with the United States, or a multilateral agreement which achieves the objectives of this section, prior to repeal by [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4407(b)(2), Nov. 18, 1988, [102 Stat. 4281][/us/stat/102/4281].
 
  __Review of Effectiveness of International Narcotics Control Assistance Program__ 
 
-    [Pub. L. 99–570, title II, § 2007][/us/pl/99/570/s2007], Oct. 27, 1986, [100 Stat. 3207–64][/us/stat/100/3207-64], directed Comptroller General to review effectiveness of assistance provided under this part, prior to repeal by [Pub. L. 102–583, § 6(e)(2)][/us/pl/102/583/s6/e/2], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 99–570, title II][/us/pl/99/570/tII], § 2007, Oct. 27, 1986, [100 Stat. 3207–64][/us/stat/100/3207-64], directed Comptroller General to review effectiveness of assistance provided under this part, prior to repeal by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(2), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
  __Multilateral Development Bank Assistance for Drug Eradication and Crop Substitution Programs__ 
 
-[Pub. L. 99–570, title II, § 2018][/us/pl/99/570/s2018], Oct. 27, 1986, [100 Stat. 3207–68][/us/stat/100/3207-68], provided that:
+[Pub. L. 99–570, title II][/us/pl/99/570/tII], § 2018, Oct. 27, 1986, [100 Stat. 3207–68][/us/stat/100/3207-68], provided that:
 
 >     “(a)  __MDB Assistance for Development and Implementation of Drug Eradication Program__  __.—__ 
 
@@ -613,17 +613,17 @@
 
  __Reports to Congress on Drug Education Programs Abroad__ 
 
-    [Pub. L. 99–570, title II, § 2029][/us/pl/99/570/s2029], Oct. 27, 1986, [100 Stat. 3207–72][/us/stat/100/3207-72], directed Director of United States Information Agency and Administrator of Agency for International Development to include in their annual reports to Congress a description of drug education programs carried out by their respective agencies, prior to repeal by [Pub. L. 103–447, title I, § 103(c)][/us/pl/103/447/s103/c], Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694].
+    [Pub. L. 99–570, title II][/us/pl/99/570/tII], § 2029, Oct. 27, 1986, [100 Stat. 3207–72][/us/stat/100/3207-72], directed Director of United States Information Agency and Administrator of Agency for International Development to include in their annual reports to Congress a description of drug education programs carried out by their respective agencies, prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(c), Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694].
 
  __United States Senate Caucus on International Narcotics Control__ 
 
-[Pub. L. 107–68, title I, § 103][/us/pl/107/68/s103], Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568], provided that:
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 103, Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568], provided that:
 
 >     “(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Expenses of the United States Senate Caucus on International Narcotics Control’ under the heading ‘Congressional Operations’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
 >     “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
-[Pub. L. 99–93, title VIII, § 814][/us/pl/99/93/s814], Aug. 16, 1985, [99 Stat. 455][/us/stat/99/455], as amended by [Pub. L. 99–151, title III, § 306][/us/pl/99/151/s306], Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 5\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294; [Pub. L. 102–392, title III, § 323][/us/pl/102/392/s323], Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726]; [Pub. L. 105–119, title VI, § 625][/us/pl/105/119/s625], Nov. 26, 1997, [111 Stat. 2522][/us/stat/111/2522]; [Pub. L. 106–57, title I, § 7][/us/pl/106/57/s7], Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412]; [Pub. L. 107–228, div. A, title VI, § 684][/us/pl/107/228/s684], Sept. 30, 2002, [116 Stat. 1411][/us/stat/116/1411], provided that:
+[Pub. L. 99–93, title VIII][/us/pl/99/93/tVIII], § 814, Aug. 16, 1985, [99 Stat. 455][/us/stat/99/455], as amended by [Pub. L. 99–151, title III][/us/pl/99/151/tIII], § 306, Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808]; [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title I, § 5\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294; [Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 323, Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726]; [Pub. L. 105–119, title VI][/us/pl/105/119/tVI], § 625, Nov. 26, 1997, [111 Stat. 2522][/us/stat/111/2522]; [Pub. L. 106–57, title I][/us/pl/106/57/tI], § 7, Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 684, Sept. 30, 2002, [116 Stat. 1411][/us/stat/116/1411], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -675,7 +675,7 @@
 
 >     The Caucus shall cease to exist on September 30, 2005.”
 
-[Pub. L. 99–151, title III, § 306][/us/pl/99/151/s306], Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808], provided that:
+[Pub. L. 99–151, title III][/us/pl/99/151/tIII], § 306, Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808], provided that:
 
 >     “(a) Notwithstanding the provisions of this or any other Act, the United States International Narcotics Control Commission, established by section 814 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[[section 814 of Pub. L. 99–93][/us/pl/99/93/s814], set out as a note above\], is hereby redesignated and shall hereafter be known as the United States Senate Caucus on International Narcotics Control.
 
@@ -683,7 +683,7 @@
 
  __Drug Trafficking and Problem of Total Confidentiality of Certain Foreign Bank Accounts__ 
 
-[Pub. L. 99–83, title VI, § 619][/us/pl/99/83/s619], Aug. 8, 1985, [99 Stat. 233][/us/stat/99/233], provided that:
+[Pub. L. 99–83, title VI][/us/pl/99/83/tVI], § 619, Aug. 8, 1985, [99 Stat. 233][/us/stat/99/233], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -707,7 +707,7 @@
 
  __Use of Funds Appropriated Prior to__  __December 29, 1981__  __, for Herbicide Eradication of Marihuana and Colombian Anti-Narcotics Enforcement Program__ 
 
-[Pub. L. 97–113, title V, § 502(a)(2)][/us/pl/97/113/s502/a/2]–(4), Dec. 29, 1981, [95 Stat. 1539][/us/stat/95/1539], provided that:
+[Pub. L. 97–113, title V][/us/pl/97/113/tV], § 502(a)(2)–(4), Dec. 29, 1981, [95 Stat. 1539][/us/stat/95/1539], provided that:
 
 >     “(2) Assistance provided from funds appropriated, before the enactment of this Act \[Dec. 29, 1981\], to carry out section 481 of the Foreign Assistance Act of 1961 \[this section\] may be made available for purposes prohibited by subsection (d) of such section as in effect immediately before the enactment of this subsection \[Dec. 29, 1981\].
 
@@ -717,7 +717,7 @@
 
  __United States Citizens Imprisoned in Mexico__ 
 
-[Pub. L. 94–329, title IV, § 408][/us/pl/94/329/s408], June 30, 1976, [90 Stat. 759][/us/stat/90/759], as amended by [Pub. L. 95–384, § 29(b)][/us/pl/95/384/s29/b], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747], provided that:
+[Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 408, June 30, 1976, [90 Stat. 759][/us/stat/90/759], as amended by [Pub. L. 95–384][/us/pl/95/384], § 29(b), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747], provided that:
 
 >     “(a) The Congress, while sharing the concern of the President over the urgent need for international cooperation to restrict traffic in dangerous drugs, is convinced that such efforts must be consistent with respect for fundamental human rights. The Congress, therefore, calls upon the President to take steps to insure that United States efforts to secure stringent international law enforcement measures are combined with efforts to secure fair and humane treatment for citizens of all countries.
 
@@ -758,49 +758,49 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/92/352/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs503
+[/us/pl/92/352/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2FtV
 [/us/stat/86/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F496
-[/us/pl/93/189/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs11%2Fa
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F719
-[/us/pl/94/329/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs504%2Fb
+[/us/pl/94/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtV
 [/us/stat/90/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F764
 [/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F730
-[/us/pl/96/92/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs3%2Fb
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F702
-[/us/pl/97/113/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs502%2Fa%2F1
+[/us/pl/97/113/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtV
 [/us/stat/95/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1538
-[/us/pl/98/164/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1003
+[/us/pl/98/164/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtX
 [/us/stat/97/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1053
-[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVI
 [/us/stat/99/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F228
-[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtII
 [/us/stat/100/3207-61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-61
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/100/204/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs805
+[/us/pl/100/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVIII
 [/us/stat/101/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1397
-[/us/pl/100/461/s578/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fe%2F2
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-47
-[/us/pl/100/690/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4202%2Fb
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4267
 [/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1963-1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1963-1965
-[/us/pl/102/550/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1519
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4060
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4914
-[/us/pl/103/447/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fa
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4691
-[/us/pl/104/164/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs131%2Fa
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1429
-[/us/pl/105/20/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20%2Fs2%2Fb
+[/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
 [/us/stat/111/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F234
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/stat/102/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4181
-[/us/pl/100/690/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs1009
+[/us/pl/100/690/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtI
 [/us/stat/102/4188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4188
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -821,186 +821,186 @@ By virtue of the authority vested in me by the Constitution and the laws of the 
 [/us/pl/92/352/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs503
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/105/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F20
-[/us/pl/104/164/s131/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs131%2Fa%2F1
-[/us/pl/104/164/s131/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs131%2Fa%2F2
-[/us/pl/103/447/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fa
-[/us/pl/103/447/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fb%2F1
-[/us/pl/103/447/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fb%2F2
-[/us/pl/103/447/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fb%2F3
-[/us/pl/102/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Fa
-[/us/pl/102/583/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Fa
-[/us/pl/102/550/s1519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1519%2Fa
-[/us/pl/102/583/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Fb
-[/us/pl/102/583/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Fc
-[/us/pl/102/583/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Fd
-[/us/pl/102/583/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F1
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/usc/t22/s2291h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
-[/us/pl/102/550/s1519/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1519%2Fb
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
-[/us/pl/102/583/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F3
-[/us/pl/102/583/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs5%2Fb
-[/us/pl/102/550/s1519/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1519%2Fc
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
-[/us/pl/101/231/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fa
-[/us/pl/101/231/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fb
-[/us/pl/101/231/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs15
-[/us/pl/101/231/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fc
-[/us/pl/101/231/s17/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fd%2F1
-[/us/pl/101/231/s17/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fd%2F2
-[/us/pl/101/231/s17/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fd%2F3
-[/us/pl/101/231/s17/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fd%2F4
-[/us/pl/101/231/s17/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Fe
-[/us/pl/101/231/s17/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs17%2Ff
-[/us/pl/100/690/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4502
-[/us/pl/100/690/s4202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4202%2Fb
-[/us/pl/100/690/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4401
-[/us/pl/100/690/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4402
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/461/s578/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fh
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/461/s578/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fg%2F3
-[/us/pl/100/461/s578/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fg%2F1
-[/us/pl/100/461/s578/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fi
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/690/s4407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fa
-[/us/pl/100/690/s4407/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fb%2F1%2FB%2Fiii
-[/us/pl/100/690/s4802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4802%2Fb
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t22/s2151b/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc%2F2
-[/us/pl/100/690/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4403
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
-[/us/pl/100/461/s578/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fe%2F2%2FA
-[/us/pl/100/461/s578/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fe%2F2%2FB
-[/us/pl/100/690/s4405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4405%2Fa
-[/us/pl/100/204/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs805%2Fa
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/204/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs805%2Fb
-[/us/pl/99/570/s2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2017
-[/us/pl/99/570/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2009
-[/us/pl/99/570/s2005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2005%2Fb
-[/us/pl/99/570/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2008
-[/us/pl/99/570/s2005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2005%2Fa
-[/us/pl/99/570/s2005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2005%2Fd
-[/us/pl/99/570/s2005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2005%2Fc
-[/us/pl/99/83/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs604
-[/us/pl/99/83/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs605
-[/us/pl/99/83/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs606
-[/us/pl/99/83/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs618
-[/us/pl/98/164/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1003%2Fa
-[/us/pl/98/164/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1003%2Fb
-[/us/pl/98/164/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1003%2Fb
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
-[/us/pl/97/113/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs502%2Fa%2F1
-[/us/pl/97/113/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs502%2Fb
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
-[/us/pl/95/384/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs3
-[/us/pl/95/384/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs4
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/usc/t22/s2291/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fh%2F2%2FA
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/109/177/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs723
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F269
-[/us/pl/107/228/s694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs694
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1415
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
-[/us/pl/105/277/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs821%2Fb
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-700
 [/us/pl/105/277/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs821%2Fb
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/101/623/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs8
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3355
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/513/s599H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs599H
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2068
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/101/240/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs407
+[/us/pl/101/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtIV
 [/us/stat/103/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2504
 [/us/usc/t22/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191
 [/us/pl/99/570/s2018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2018%2Fc
 [/us/usc/t22/s2291/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi%2F3
-[/us/pl/101/231/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs10
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1961
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
-[/us/pl/101/167/s569/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs569%2Fd
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1244
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
 [/us/usc/t22/s2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2360
-[/us/pl/100/690/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4003
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4263
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/102/583/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/100/690/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4101
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4263
-[/us/pl/102/583/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/100/690/s4405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4405%2Fb
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4276
-[/us/pl/102/583/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/100/461/s578/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs578%2Fg%2F2
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-47
-[/us/pl/100/690/s4407/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4407%2Fb%2F2
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4281
-[/us/pl/99/570/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2007
+[/us/pl/99/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtII
 [/us/stat/100/3207-64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-64
-[/us/pl/102/583/s6/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F2
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/99/570/s2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2018
+[/us/pl/99/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtII
 [/us/stat/100/3207-68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-68
 [/us/usc/t22/s2291/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi%2F2
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/99/570/s2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2029
+[/us/pl/99/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtII
 [/us/stat/100/3207-72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-72
-[/us/pl/103/447/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fc
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4694
-[/us/pl/107/68/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs103
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F568
-[/us/pl/99/93/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs814
+[/us/pl/99/93/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVIII
 [/us/stat/99/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F455
-[/us/pl/99/151/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2Fs306
+[/us/pl/99/151/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2FtIII
 [/us/stat/99/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F808
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
-[/us/pl/102/392/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs323
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1726
-[/us/pl/105/119/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs625
+[/us/pl/105/119/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtVI
 [/us/stat/111/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2522
-[/us/pl/106/57/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs7
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F412
-[/us/pl/107/228/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs684
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1411
 [/us/usc/t22/s2991/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2991%2Fe
 [/us/usc/t22/s2291/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fe
 [/us/usc/t22/s1754/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1754%2Fb
-[/us/pl/99/151/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2Fs306
+[/us/pl/99/151/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2FtIII
 [/us/stat/99/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F808
 [/us/pl/99/93/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs814
-[/us/pl/99/83/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs619
+[/us/pl/99/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVI
 [/us/stat/99/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F233
-[/us/pl/97/113/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs502%2Fa%2F2
+[/us/pl/97/113/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtV
 [/us/stat/95/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1539
 [/us/usc/t22/s2291a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291a
-[/us/pl/94/329/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs408
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F759
-[/us/pl/95/384/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fb
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
 [/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

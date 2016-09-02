@@ -17,7 +17,7 @@
 
     [Section 286b of this title][/us/usc/t22/s286b] shall apply to the Bank in the same manner in which such section applies to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
-([Pub. L. 101–513, title V, § 562(c)(4)][/us/pl/101/513/s562/c/4], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(4), Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b
-[/us/pl/101/513/s562/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F4
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2034
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512

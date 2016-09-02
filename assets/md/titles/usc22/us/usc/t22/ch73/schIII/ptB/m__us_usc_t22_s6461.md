@@ -23,7 +23,7 @@
 
         The prohibition on the issuance of a license for export of crime control and detection instruments or equipment under [section 2304(a)(2) of this title][/us/usc/t22/s2304/a/2] shall apply to the export and reexport of any item included pursuant to subsection (a) on the list of crime control instruments.
 
-([Pub. L. 105–292, title IV, § 423][/us/pl/105/292/s423], Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 423, Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t50/s4605/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fn
 [/us/usc/t22/s2304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2304%2Fa%2F2
-[/us/pl/105/292/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs423
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2810
 
 

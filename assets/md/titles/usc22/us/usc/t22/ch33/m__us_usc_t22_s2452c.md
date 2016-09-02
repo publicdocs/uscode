@@ -59,7 +59,7 @@
 
         There are authorized to be appropriated to the Secretary of State for each of the fiscal years 2007 and 2008, unless otherwise authorized by Congress, such sums as necessary to implement the program under this section.
 
-([Pub. L. 108–458, title VII, § 7113][/us/pl/108/458/s7113], Dec. 17, 2004, [118 Stat. 3797][/us/stat/118/3797]; [Pub. L. 110–53, title XX, § 2014(b)(1)][/us/pl/110/53/s2014/b/1], Aug. 3, 2007, [121 Stat. 512][/us/stat/121/512].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7113, Dec. 17, 2004, [118 Stat. 3797][/us/stat/118/3797]; [Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2014(b)(1), Aug. 3, 2007, [121 Stat. 512][/us/stat/121/512].)
 
  __Codification__ 
 
@@ -69,15 +69,15 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–53, § 2014(b)(1)(A)][/us/pl/110/53/s2014/b/1/A], struck out “Pilot” before “Program” in section catchline.
+    2007—[Pub. L. 110–53][/us/pl/110/53], § 2014(b)(1)(A), struck out “Pilot” before “Program” in section catchline.
 
-    Subsec. (c). [Pub. L. 110–53, § 2014(b)(1)(B)][/us/pl/110/53/s2014/b/1/B], struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
+    Subsec. (c). [Pub. L. 110–53][/us/pl/110/53], § 2014(b)(1)(B), struck out “Pilot” before “Program” in heading and “pilot” before “program” in text.
 
-    Subsecs. (d), (f). [Pub. L. 110–53, § 2014(b)(1)(C)][/us/pl/110/53/s2014/b/1/C], (D), struck out “pilot” before “program” wherever appearing.
+    Subsecs. (d), (f). [Pub. L. 110–53][/us/pl/110/53], § 2014(b)(1)(C), (D), struck out “pilot” before “program” wherever appearing.
 
-    Subsec. (g). [Pub. L. 110–53, § 2014(b)(1)(E)][/us/pl/110/53/s2014/b/1/E], inserted “and April 15, 2008,” before “the Secretary” and struck out “pilot” before “program”.
+    Subsec. (g). [Pub. L. 110–53][/us/pl/110/53], § 2014(b)(1)(E), inserted “and April 15, 2008,” before “the Secretary” and struck out “pilot” before “program”.
 
-    Subsec. (h). [Pub. L. 110–53, § 2014(b)(1)(F)][/us/pl/110/53/s2014/b/1/F], substituted “2007 and 2008” for “2005 and 2006” and struck out “pilot” before “program”.
+    Subsec. (h). [Pub. L. 110–53][/us/pl/110/53], § 2014(b)(1)(F), substituted “2007 and 2008” for “2005 and 2006” and struck out “pilot” before “program”.
 
  __Change of Name__ 
 
@@ -85,7 +85,7 @@
 
  __Findings__ 
 
-[Pub. L. 110–53, title XX, § 2014(a)][/us/pl/110/53/s2014/a], Aug. 3, 2007, [121 Stat. 512][/us/stat/121/512], provided that: 
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2014(a), Aug. 3, 2007, [121 Stat. 512][/us/stat/121/512], provided that: 
 
 > “Congress finds the following:
 
@@ -100,17 +100,17 @@
 ----------
 ----------
 
-[/us/pl/108/458/s7113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7113
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3797
-[/us/pl/110/53/s2014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fb%2F1
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F512
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/110/53/s2014/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fb%2F1%2FA
-[/us/pl/110/53/s2014/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fb%2F1%2FB
-[/us/pl/110/53/s2014/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fb%2F1%2FC
-[/us/pl/110/53/s2014/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fb%2F1%2FE
-[/us/pl/110/53/s2014/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fb%2F1%2FF
-[/us/pl/110/53/s2014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2014%2Fa
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F512
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452

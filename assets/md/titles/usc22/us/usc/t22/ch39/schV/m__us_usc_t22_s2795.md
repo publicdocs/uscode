@@ -43,7 +43,7 @@
 
         (2) Amounts in the Fund shall be available for obligation in any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 5, § 51, as added [Pub. L. 97–113, title I, § 108(a)][/us/pl/97/113/s108/a], Dec. 29, 1981, [95 Stat. 1522][/us/stat/95/1522]; amended [Pub. L. 99–83, title I, § 121][/us/pl/99/83/s121], Aug. 8, 1985, [99 Stat. 204][/us/stat/99/204]; [Pub. L. 99–139, § 1(a)][/us/pl/99/139/s1/a], Oct. 30, 1985, [99 Stat. 562][/us/stat/99/562]; [Pub. L. 99–433, title I, § 110(h)(1)][/us/pl/99/433/s110/h/1], Oct. 1, 1986, [100 Stat. 1004][/us/stat/100/1004]; [Pub. L. 101–231, § 4][/us/pl/101/231/s4], Dec. 13, 1989, [103 Stat. 1957][/us/stat/103/1957]; [Pub. L. 104–164, title I, § 145(b)][/us/pl/104/164/s145/b], July 21, 1996, [110 Stat. 1434][/us/stat/110/1434].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 5, § 51, as added [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 108(a), Dec. 29, 1981, [95 Stat. 1522][/us/stat/95/1522]; amended [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 121, Aug. 8, 1985, [99 Stat. 204][/us/stat/99/204]; [Pub. L. 99–139][/us/pl/99/139], § 1(a), Oct. 30, 1985, [99 Stat. 562][/us/stat/99/562]; [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 110(h)(1), Oct. 1, 1986, [100 Stat. 1004][/us/stat/100/1004]; [Pub. L. 101–231][/us/pl/101/231], § 4, Dec. 13, 1989, [103 Stat. 1957][/us/stat/103/1957]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 145(b), July 21, 1996, [110 Stat. 1434][/us/stat/110/1434].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
     1986—Subsec. (c)(1). [Pub. L. 99–433][/us/pl/99/433] substituted “section 114(c)” for “section 138(g)”.
 
-    1985—Subsec. (a)(3). [Pub. L. 99–83, § 121(a)][/us/pl/99/83/s121/a], added par. (3).
+    1985—Subsec. (a)(3). [Pub. L. 99–83][/us/pl/99/83], § 121(a), added par. (3).
 
     Subsec. (b). [Pub. L. 99–139][/us/pl/99/139] amended subsec. (b) generally, so as to read similar to how it read prior to the amendment by [Pub. L. 99–83][/us/pl/99/83].
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1985 Amendments__ 
 
-[Pub. L. 99–139, § 1(b)][/us/pl/99/139/s1/b], Oct. 30, 1985, [99 Stat. 562][/us/stat/99/562], provided that: 
+[Pub. L. 99–139][/us/pl/99/139], § 1(b), Oct. 30, 1985, [99 Stat. 562][/us/stat/99/562], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1985.”
 
@@ -90,17 +90,17 @@
 [/us/usc/t22/s2403/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403%2Fm
 [/us/usc/t10/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114%2Fc
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/97/113/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs108%2Fa
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1522
-[/us/pl/99/83/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs121
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F204
-[/us/pl/99/139/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F139%2Fs1%2Fa
+[/us/pl/99/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F139
 [/us/stat/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F562
-[/us/pl/99/433/s110/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs110%2Fh%2F1
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1004
-[/us/pl/101/231/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs4
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1957
-[/us/pl/104/164/s145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs145%2Fb
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1434
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -112,13 +112,13 @@
 [/us/usc/t22/s2795b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2795b%2Fa
 [/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/99/83/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs121%2Fa
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F139
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/usc/t22/s2761/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fa%2F1
 [/us/usc/t22/s2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2762
-[/us/pl/99/139/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F139%2Fs1%2Fb
+[/us/pl/99/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F139
 [/us/stat/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F562
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301

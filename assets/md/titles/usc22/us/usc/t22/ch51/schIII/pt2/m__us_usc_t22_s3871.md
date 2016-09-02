@@ -23,7 +23,7 @@
 
     (3) The condition of former employees (and their dependents) of the Panama Canal Company and the Canal Zone Government who reside in the Republic of Panama on or after October 1, 1979.
 
-([Pub. L. 96–70, title III, § 3301][/us/pl/96/70/s3301], Sept. 27, 1979, [93 Stat. 497][/us/stat/93/497].)
+([Pub. L. 96–70, title III][/us/pl/96/70/tIII], § 3301, Sept. 27, 1979, [93 Stat. 497][/us/stat/93/497].)
 
  __Delegation of Functions__ 
 
@@ -31,7 +31,7 @@
 
  __Report to Congress on Condition of Panama Canal and Canal Operations__ 
 
-[Pub. L. 100–203, title V, § 5418][/us/pl/100/203/s5418], Dec. 22, 1987, [101 Stat. 1330–271][/us/stat/101/1330-271], provided that: 
+[Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5418, Dec. 22, 1987, [101 Stat. 1330–271][/us/stat/101/1330-271], provided that: 
 
 > “Out of the funds authorized to be appropriated by this part \[part 1, §§ 5411 to 5418, of subtitle E of [Pub. L. 100–203][/us/pl/100/203]\], the Commission shall prepare and submit to the Congress a report on—
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/96/70/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3301
+[/us/pl/96/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtIII
 [/us/stat/93/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F497
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/pl/100/203/s5418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5418
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-271
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 

@@ -35,11 +35,11 @@
 
         This section shall not be operative when the United States is at war.
 
-([Nov. 4, 1939, ch. 2, § 7][/us/act/1939-11-04/ch2/s7], [54 Stat. 8][/us/stat/54/8]; [Feb. 21, 1942, ch. 104][/us/act/1942-02-21/ch104], [56 Stat. 95][/us/stat/56/95].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 7, [54 Stat. 8][/us/stat/54/8]; [Feb. 21, 1942, ch. 104][/us/act/1942-02-21/ch104], [56 Stat. 95][/us/stat/56/95].)
 
  __References in Text__ 
 
-    [Section 452(i) of this title][/us/usc/t22/s452/i], referred to in subsec. (a), was repealed by [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a)(12), [68 Stat. 861][/us/stat/68/861]. See former section 1934(a) and [section 2778(a) of this title][/us/usc/t22/s2778/a].
+    [Section 452(i) of this title][/us/usc/t22/s452/i], referred to in subsec. (a), was repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a)(12), [68 Stat. 861][/us/stat/68/861]. See former section 1934(a) and [section 2778(a) of this title][/us/usc/t22/s2778/a].
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Operation of Section Postponed Until July 1, 1953__ 
 
-    Joint Res. [July 3, 1952, ch. 570, § 1(b)(7)][/us/act/1952-07-03/ch570/s1/b/7], [66 Stat. 333][/us/stat/66/333], as amended by Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided that this section which is normally operative in time of peace shall not be operative by reason of the termination of a state of war on Apr. 28, 1952, but rather (in addition to being inoperative, in accordance with their terms, in time of war) shall continue to be inoperative until 6 months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950, 1950 Proc. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense, or until such earlier date or dates as the Congress may provide, but in no event beyond Apr. 1, 1953.
+    Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 1(b)(7), [66 Stat. 333][/us/stat/66/333], as amended by Joint Res. [Mar. 31, 1953, ch. 13][/us/act/1953-03-31/ch13], § 1, [67 Stat. 18][/us/stat/67/18], provided that this section which is normally operative in time of peace shall not be operative by reason of the termination of a state of war on Apr. 28, 1952, but rather (in addition to being inoperative, in accordance with their terms, in time of war) shall continue to be inoperative until 6 months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950, 1950 Proc. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense, or until such earlier date or dates as the Congress may provide, but in no event beyond Apr. 1, 1953.
 
  __Repeal of Prior Acts Continuing Section__ 
 
@@ -62,17 +62,17 @@
 
 [/us/usc/t22/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441%2Fa
 [/us/usc/t22/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs441%2Fa
-[/us/act/1939-11-04/ch2/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs7
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F8
 [/us/act/1942-02-21/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-21%2Fch104
 [/us/stat/56/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F95
 [/us/usc/t22/s452/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs452%2Fi
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/act/1954-08-26/ch937/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2FtV
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
 [/us/usc/t22/s2778/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fa
-[/us/act/1952-07-03/ch570/s1/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs1%2Fb%2F7
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F333
-[/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
+[/us/act/1953-03-31/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204

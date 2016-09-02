@@ -25,7 +25,7 @@
 
     Should the Secretary not meet a request to appear before the aforementioned committees at least twenty-one days in advance of any vote on any facility involving use of Fund credit by any communist dictatorship and certify and document in writing that these three conditions have been met, the United States Executive Director shall vote against such program.
 
-([July 31, 1945, ch. 339, § 43][/us/act/1945-07-31/ch339/s43], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 804\], Nov. 30, 1983, [97 Stat. 1270][/us/stat/97/1270]; amended [Pub. L. 103–149, § 4(b)(6)][/us/pl/103/149/s4/b/6], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 43, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 804\], Nov. 30, 1983, [97 Stat. 1270][/us/stat/97/1270]; amended [Pub. L. 103–149][/us/pl/103/149], § 4(b)(6), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs43
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1270
-[/us/pl/103/149/s4/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fb%2F6
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
 [/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

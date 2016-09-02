@@ -17,7 +17,7 @@
 
     The Board shall submit annual reports to the Congress and such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs authorized by this chapter.
 
-([Pub. L. 87–256, § 107][/us/pl/87/256/s107], Sept. 21, 1961, [75 Stat. 534][/us/stat/75/534]; 1977 Reorg. Plan No. 2, § 9(a)(3), (6), 42 F.R. 62461, [91 Stat. 1639][/us/stat/91/1639].)
+([Pub. L. 87–256][/us/pl/87/256], § 107, Sept. 21, 1961, [75 Stat. 534][/us/stat/75/534]; 1977 Reorg. Plan No. 2, § 9(a)(3), (6), 42 F.R. 62461, [91 Stat. 1639][/us/stat/91/1639].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/87/256/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs107
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F534
 [/us/stat/91/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1639
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256

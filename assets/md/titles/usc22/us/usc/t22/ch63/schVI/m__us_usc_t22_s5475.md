@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 101–179, title VII, § 705][/us/pl/101/179/s705], Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322], which required the President to submit to appropriate committees of Congress an annual report on the extent of espionage activities against the United States and other member countries of the North Atlantic Treaty Organization by operatives of the government of any East European country that was receiving assistance under this chapter, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 33 of House Document No. 103–7.
+    Section, [Pub. L. 101–179, title VII][/us/pl/101/179/tVII], § 705, Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322], which required the President to submit to appropriate committees of Congress an annual report on the extent of espionage activities against the United States and other member countries of the North Atlantic Treaty Organization by operatives of the government of any East European country that was receiving assistance under this chapter, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 33 of House Document No. 103–7.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs705
+[/us/pl/101/179/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVII
 [/us/stat/103/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1322
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

@@ -23,7 +23,7 @@
 
         For the purpose of providing the assistance described in subsection (a), funds appropriated pursuant to the authorizations in that subsection may be transferred by the President for obligation in accordance with the authorities of subchapter I of this chapter (including part IV of subchapter II of this chapter), the Peace Corps Act \[[22 U.S.C. 2501][/us/usc/t22/s2501] et seq.\], the Migration and Refugee Assistance Act of 1962 \[[22 U.S.C. 2601][/us/usc/t22/s2601] et seq.\], the United States Information and Education Exchange Act of 1948 \[[22 U.S.C. 1431][/us/usc/t22/s1431] et seq.\], the Mutual Educational and Cultural Exchange Act of 1961 \[[22 U.S.C. 2451][/us/usc/t22/s2451] et seq.\], the National Endowment for Democracy Act \[[22 U.S.C. 4411][/us/usc/t22/s4411] et seq.\], and the State Department Basic Authorities Act of 1956.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 465, as added [Pub. L. 99–83, title VII, § 701][/us/pl/99/83/s701], Aug. 8, 1985, [99 Stat. 237][/us/stat/99/237].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 465, as added [Pub. L. 99–83, title VII][/us/pl/99/83/tVII], § 701, Aug. 8, 1985, [99 Stat. 237][/us/stat/99/237].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
 [/us/usc/t22/s4411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4411
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs701
+[/us/pl/99/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVII
 [/us/stat/99/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F237
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

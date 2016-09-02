@@ -115,7 +115,7 @@
 
         The Administrator of the Agency for International Development shall appoint a Committee on Health and the Environment to examine opportunities for assisting countries in the proper use of agricultural and industrial chemicals and processes and alternatives such as integrated pest management. The committee shall be broadly representative of industry, agriculture, labor, health and environmental interests and shall report its preliminary findings to Congress before hearings on the fiscal year 1988 budget.
 
-([Pub. L. 99–500, § 101(f)][/us/pl/99/500/s101/f] \[title V, § 539\], Oct. 18, 1986, [100 Stat. 1783–213][/us/stat/100/1783-213], 1783–232, and [Pub. L. 99–591, § 101(f)][/us/pl/99/591/s101/f] \[title V, § 539\], Oct. 30, 1986, [100 Stat. 3341–214][/us/stat/100/3341-214], 3341–232.)
+([Pub. L. 99–500][/us/pl/99/500], § 101(f) \[title V, § 539\], Oct. 18, 1986, [100 Stat. 1783–213][/us/stat/100/1783-213], 1783–232, and [Pub. L. 99–591][/us/pl/99/591], § 101(f) \[title V, § 539\], Oct. 30, 1986, [100 Stat. 3341–214][/us/stat/100/3341-214], 3341–232.)
 
  __Codification__ 
 
@@ -125,25 +125,25 @@
 
  __Prior Provisions__ 
 
-    A prior section 262l, [Pub. L. 102–391, title V, § 532][/us/pl/102/391/s532], Oct. 6, 1992, [106 Stat. 1666][/us/stat/106/1666], which related to environmental and energy initiatives, benchmarks, Global Warming Initiative, and appropriations, was transferred to section 262l–3 of this title.
+    A prior section 262l, [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 532, Oct. 6, 1992, [106 Stat. 1666][/us/stat/106/1666], which related to environmental and energy initiatives, benchmarks, Global Warming Initiative, and appropriations, was transferred to section 262l–3 of this title.
 
-    Another prior section 262l, [Pub. L. 101–167, title V, § 533][/us/pl/101/167/s533], Nov. 21, 1989, [103 Stat. 1225][/us/stat/103/1225], is set out as a note below.
+    Another prior section 262l, [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 533, Nov. 21, 1989, [103 Stat. 1225][/us/stat/103/1225], is set out as a note below.
 
-    Another prior section 262l, [Pub. L. 100–461, title V, § 535][/us/pl/100/461/s535], Oct. 1, 1988, [102 Stat. 2268–28][/us/stat/102/2268-28], which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262l–2 of this title.
+    Another prior section 262l, [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 535, Oct. 1, 1988, [102 Stat. 2268–28][/us/stat/102/2268-28], which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262l–2 of this title.
 
-    Another prior section 262l, [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 537\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–161; [Pub. L. 101–240, title V, § 541(d)(8)][/us/pl/101/240/s541/d/8], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518], which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and “early warning system”, was transferred to section 262l–1 of this title.
+    Another prior section 262l, [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 537\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–161; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(8), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518], which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and “early warning system”, was transferred to section 262l–1 of this title.
 
  __Similar Provisions__ 
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 101–513, title V, § 533][/us/pl/101/513/s533], Nov. 5, 1990, [104 Stat. 2013][/us/stat/104/2013], as amended by [Pub. L. 102–27, title III, § 308][/us/pl/102/27/s308], Apr. 10, 1991, [105 Stat. 152][/us/stat/105/152].
+    [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 533, Nov. 5, 1990, [104 Stat. 2013][/us/stat/104/2013], as amended by [Pub. L. 102–27, title III][/us/pl/102/27/tIII], § 308, Apr. 10, 1991, [105 Stat. 152][/us/stat/105/152].
 
-    [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title V, § 540\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1309.
+    [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title V, § 540\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1309.
 
  __Economic Growth To Be Predicated on Sustainable Management of Natural Resources; Global Climate Change__ 
 
-[Pub. L. 101–167, title V, § 533][/us/pl/101/167/s533], Nov. 21, 1989, [103 Stat. 1225][/us/stat/103/1225], provided that:
+[Pub. L. 101–167, title V][/us/pl/101/167/tV], § 533, Nov. 21, 1989, [103 Stat. 1225][/us/stat/103/1225], provided that:
 
 >     “(a)
 
@@ -242,29 +242,29 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/pl/99/500/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Ff
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-213
-[/us/pl/99/591/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Ff
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-214
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/102/391/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs532
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1666
-[/us/pl/101/167/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs533
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1225
-[/us/pl/100/461/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs535
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-28
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/101/240/s541/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F8
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
-[/us/pl/101/513/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs533
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2013
-[/us/pl/102/27/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2Fs308
+[/us/pl/102/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2FtIII
 [/us/stat/105/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F152
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
-[/us/pl/101/167/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs533
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1225
 [/us/usc/t22/s2151a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151a
 [/us/usc/t22/s2151q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151q

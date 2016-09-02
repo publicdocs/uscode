@@ -49,7 +49,7 @@
 
         Any agent of a person described in [section 611(b)(2) of this title][/us/usc/t22/s611/b/2] or an entity described in [section 611(b)(3) of this title][/us/usc/t22/s611/b/3] if the agent has engaged in lobbying activities and has registered under the Lobbying Disclosure Act of 1995 \[[2 U.S.C. 1601][/us/usc/t2/s1601] et seq.\] in connection with the agent’s representation of such person or entity.
 
-([June 8, 1938, ch. 327, § 3][/us/act/1938-06-08/ch327/s3], [52 Stat. 632][/us/stat/52/632]; [Aug. 7, 1939, ch. 521, § 2][/us/act/1939-08-07/ch521/s2], [53 Stat. 1245][/us/stat/53/1245]; [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 254][/us/stat/56/254]; [Pub. L. 87–366, § 2][/us/pl/87/366/s2], Oct. 4, 1961, [75 Stat. 784][/us/stat/75/784]; [Pub. L. 89–486, § 3][/us/pl/89/486/s3], July 4, 1966, [80 Stat. 246][/us/stat/80/246]; [Pub. L. 104–65, § 9(2)][/us/pl/104/65/s9/2], (3), Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 105–166, § 5][/us/pl/105/166/s5], Apr. 6, 1998, [112 Stat. 39][/us/stat/112/39].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 3, [52 Stat. 632][/us/stat/52/632]; [Aug. 7, 1939, ch. 521][/us/act/1939-08-07/ch521], § 2, [53 Stat. 1245][/us/stat/53/1245]; [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 254][/us/stat/56/254]; [Pub. L. 87–366][/us/pl/87/366], § 2, Oct. 4, 1961, [75 Stat. 784][/us/stat/75/784]; [Pub. L. 89–486][/us/pl/89/486], § 3, July 4, 1966, [80 Stat. 246][/us/stat/80/246]; [Pub. L. 104–65][/us/pl/104/65], § 9(2), (3), Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 105–166][/us/pl/105/166], § 5, Apr. 6, 1998, [112 Stat. 39][/us/stat/112/39].)
 
  __References in Text__ 
 
@@ -63,13 +63,13 @@
 
     1998—Subsec. (h). [Pub. L. 105–166][/us/pl/105/166] substituted “has engaged in lobbying activities and has registered” for “is required to register and does register”.
 
-    1995—Subsec. (g). [Pub. L. 104–65, § 9(2)][/us/pl/104/65/s9/2], substituted “judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record” for “established agency proceedings, whether formal or informal”.
+    1995—Subsec. (g). [Pub. L. 104–65][/us/pl/104/65], § 9(2), substituted “judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record” for “established agency proceedings, whether formal or informal”.
 
-    Subsec. (h). [Pub. L. 104–65, § 9(3)][/us/pl/104/65/s9/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–65][/us/pl/104/65], § 9(3), added subsec. (h).
 
-    1966—Subsec. (d). [Pub. L. 89–486, § 3(a)][/us/pl/89/486/s3/a], designated existing provisions as cls. (1) and (3), struck out “financial or mercantile” before “activities” in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
+    1966—Subsec. (d). [Pub. L. 89–486][/us/pl/89/486], § 3(a), designated existing provisions as cls. (1) and (3), struck out “financial or mercantile” before “activities” in cl. (1), and inserted the cl. (2) exemption of any person engaging or agreeing to engage in other activities not serving predominantly a foreign interest.
 
-    Subsec. (g). [Pub. L. 89–486, § 3(b)][/us/pl/89/486/s3/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 89–486][/us/pl/89/486], § 3(b), added subsec. (g).
 
     1961—Subsec. (d). [Pub. L. 87–366][/us/pl/87/366] substituted “private and nonpolitical financial or mercantile activities in furtherance” for “private, non-political, financial, mercantile, or other activities in furtherance”.
 
@@ -100,29 +100,29 @@
 [/us/usc/t22/s611/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611%2Fb%2F2
 [/us/usc/t22/s611/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611%2Fb%2F3
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/act/1938-06-08/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs3
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
 [/us/stat/52/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F632
-[/us/act/1939-08-07/ch521/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch521%2Fs2
+[/us/act/1939-08-07/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch521
 [/us/stat/53/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1245
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F254
-[/us/pl/87/366/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F366%2Fs2
+[/us/pl/87/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F366
 [/us/stat/75/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F784
-[/us/pl/89/486/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs3
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/stat/80/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F246
-[/us/pl/104/65/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F2
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F700
-[/us/pl/105/166/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs5
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/stat/112/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F39
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
 [/us/usc/t22/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs612
 [/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
-[/us/pl/104/65/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F2
-[/us/pl/104/65/s9/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F3
-[/us/pl/89/486/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs3%2Fa
-[/us/pl/89/486/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs3%2Fb
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/pl/87/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F366
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24

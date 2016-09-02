@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to establish an undergraduate scholarship program designed to bring students of limited financial means from developing countries to the United States for study at United States institutions of higher education.
 
-([Pub. L. 99–93, title VI, § 601][/us/pl/99/93/s601], Aug. 16, 1985, [99 Stat. 439][/us/stat/99/439].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 601, Aug. 16, 1985, [99 Stat. 439][/us/stat/99/439].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/93/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs601
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F439
 
 

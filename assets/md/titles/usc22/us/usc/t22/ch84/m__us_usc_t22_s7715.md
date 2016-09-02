@@ -35,7 +35,7 @@
 
         Not more than 10 percent of the amount appropriated pursuant to the authorization of appropriations under [section 7718(a) of this title][/us/usc/t22/s7718/a] for fiscal year 2004 is authorized to be made available to carry out this section.
 
-([Pub. L. 108–199, div. D, title VI, § 616][/us/pl/108/199/s616], Jan. 23, 2004, [118 Stat. 224][/us/stat/118/224]; [Pub. L. 109–13, div. A, title II, § 2109][/us/pl/109/13/s2109], May 11, 2005, [119 Stat. 268][/us/stat/119/268].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 616, Jan. 23, 2004, [118 Stat. 224][/us/stat/118/224]; [Pub. L. 109–13, div. A, title II][/us/pl/109/13/dA/tII], § 2109, May 11, 2005, [119 Stat. 268][/us/stat/119/268].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t22/s7705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7705
 [/us/usc/t22/s7706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7706%2Fb
 [/us/usc/t22/s7718/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7718%2Fa
-[/us/pl/108/199/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs616
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F224
-[/us/pl/109/13/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs2109
+[/us/pl/109/13/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtII
 [/us/stat/119/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F268
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 

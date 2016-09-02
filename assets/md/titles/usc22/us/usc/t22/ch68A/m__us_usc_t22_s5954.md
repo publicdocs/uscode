@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5951.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5955.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5954)
+[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5952 _us_usc_t22_s5953.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5955.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5954)
 
 ## § 5954. Funding for fiscal year 1994
 
@@ -31,13 +31,13 @@
 
         To the extent provided in appropriations Acts, the authority to transfer funds of the Department of Defense provided in section 9110(a) of the Department of Defense Appropriations Act, 1993 ([Public Law 102–396][/us/pl/102/396]; [106 Stat. 1928][/us/stat/106/1928]), and in [section 108 of Public Law 102–229][/us/pl/102/229/s108] ([105 Stat. 1708][/us/stat/105/1708]) shall continue to be in effect during fiscal year 1994.
 
-([Pub. L. 103–160, div. A, title XII, § 1205][/us/pl/103/160/s1205], Nov. 30, 1993, [107 Stat. 1781][/us/stat/107/1781].)
+([Pub. L. 103–160, div. A, title XII][/us/pl/103/160/dA/tXII], § 1205, Nov. 30, 1993, [107 Stat. 1781][/us/stat/107/1781].)
 
  __References in Text__ 
 
     Section 301(21), referred to in subsec. (a), means [section 301(21) of Pub. L. 103–160][/us/pl/103/160/s301/21], div. A, title III, Nov. 30, 1993, [107 Stat. 1616][/us/stat/107/1616], which is not classified to the Code.
 
-    Sections 5952 and 5953 of this title, referred to in subsec. (b), were repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(3)][/us/pl/113/291/s1351/3], Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
+    Sections 5952 and 5953 of this title, referred to in subsec. (b), were repealed by [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(3), Dec. 19, 2014, [128 Stat. 3607][/us/stat/128/3607].
 
     Section 9110(a) of the Department of Defense Appropriations Act, 1993, referred to in subsec. (c), is [section 9110(a) of Pub. L. 102–396][/us/pl/102/396/s9110/a], title IX, Oct. 6, 1992, [106 Stat. 1928][/us/stat/106/1928], which is not classified to the Code.
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5951.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5955.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5954)
+[Previous](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5952 _us_usc_t22_s5953.md) | [Next](./../../../..//us/usc/t22/ch68A/m__us_usc_t22_s5955.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5954)
 
 ----------
 ----------
@@ -54,11 +54,11 @@
 [/us/stat/106/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1928
 [/us/pl/102/229/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs108
 [/us/stat/105/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1708
-[/us/pl/103/160/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1205
+[/us/pl/103/160/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXII
 [/us/stat/107/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1781
 [/us/pl/103/160/s301/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs301%2F21
 [/us/stat/107/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1616
-[/us/pl/113/291/s1351/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F3
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3607
 [/us/pl/102/396/s9110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9110%2Fa
 [/us/stat/106/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1928

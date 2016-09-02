@@ -87,7 +87,7 @@
 
         For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-([Pub. L. 112–239, div. A, title XII, § 1242][/us/pl/112/239/s1242], Jan. 2, 2013, [126 Stat. 2004][/us/stat/126/2004].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1242, Jan. 2, 2013, [126 Stat. 2004][/us/stat/126/2004].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Short Title__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1241][/us/pl/112/239/s1241], Jan. 2, 2013, [126 Stat. 2004][/us/stat/126/2004], provided that: 
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1241, Jan. 2, 2013, [126 Stat. 2004][/us/stat/126/2004], provided that: 
 
 > “This subtitle \[subtitle D (§§ 1241–1255) of title XII of div. A of [Pub. L. 112–239][/us/pl/112/239], enacting this chapter and [section 8514c of this title][/us/usc/t22/s8514c], amending sections 8513a and 8551 of this title and [section 2335 of Title 18][/us/usc/t18/s2335], Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 2333 and 2335 of Title 18\] may be cited as the ‘Iran Freedom and Counter-Proliferation Act of 2012’.”
 
@@ -204,14 +204,14 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t22/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8511
 [/us/usc/t1/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs3
-[/us/pl/112/239/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1242
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/239/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1241
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t22/s8514c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514c

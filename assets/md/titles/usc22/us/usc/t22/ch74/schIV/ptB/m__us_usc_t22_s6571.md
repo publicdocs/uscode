@@ -25,7 +25,7 @@
 
     (4) insofar as such reference relates to any function or authority not transferred by this subchapter, shall be deemed to refer to the President or such agency or agencies as may be specified by Executive order.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1421, Oct. 21, 1998, [112 Stat. 2681–791][/us/stat/112/2681-791].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1421, Oct. 21, 1998, [112 Stat. 2681–791][/us/stat/112/2681-791].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t22/s6562/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6562%2Fa
 [/us/usc/t22/s6562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6562%2Fb
 [/us/usc/t22/s6562/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6562%2Fc
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-791
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

@@ -71,31 +71,31 @@
 
         (2) A report requested under paragraph (1) shall contain the best available information on the extent of foreign direct investment in a given industry, including a breakdown of total investment in the industry, and any foreign government investment in the industry, by country of the foreign owner, and any other information that the Bureau of Economic Analysis or such designee of the President considers relevant. The industry information provided shall be at the most detailed level available of Standard Industrial Classification, subject to the requirements of [section 3104 of this title][/us/usc/t22/s3104].
 
-([Pub. L. 94–472, § 4][/us/pl/94/472/s4], Oct. 11, 1976, [90 Stat. 2060][/us/stat/90/2060]; [Pub. L. 95–381, § 2][/us/pl/95/381/s2], Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726]; H. Res. 89, Feb. 5, 1979; [Pub. L. 97–33][/us/pl/97/33], §§ 1–3, Aug. 7, 1981, [95 Stat. 170][/us/stat/95/170]; [Pub. L. 97–70][/us/pl/97/70], Oct. 26, 1981, [95 Stat. 1045][/us/stat/95/1045]; [Pub. L. 98–573, title III, § 306(b)(3)][/us/pl/98/573/s306/b/3], (4), Oct. 30, 1984, [98 Stat. 3010][/us/stat/98/3010]; [Pub. L. 101–533, § 6(b)][/us/pl/101/533/s6/b], (c), Nov. 7, 1990, [104 Stat. 2348][/us/stat/104/2348].)
+([Pub. L. 94–472][/us/pl/94/472], § 4, Oct. 11, 1976, [90 Stat. 2060][/us/stat/90/2060]; [Pub. L. 95–381][/us/pl/95/381], § 2, Sept. 22, 1978, [92 Stat. 726][/us/stat/92/726]; H. Res. 89, Feb. 5, 1979; [Pub. L. 97–33][/us/pl/97/33], §§ 1–3, Aug. 7, 1981, [95 Stat. 170][/us/stat/95/170]; [Pub. L. 97–70][/us/pl/97/70], Oct. 26, 1981, [95 Stat. 1045][/us/stat/95/1045]; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(b)(3), (4), Oct. 30, 1984, [98 Stat. 3010][/us/stat/98/3010]; [Pub. L. 101–533][/us/pl/101/533], § 6(b), (c), Nov. 7, 1990, [104 Stat. 2348][/us/stat/104/2348].)
 
  __Amendments__ 
 
-    1990—Subsec. (a)(5). [Pub. L. 101–533, § 6(b)][/us/pl/101/533/s6/b], inserted before period at end “, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises”.
+    1990—Subsec. (a)(5). [Pub. L. 101–533][/us/pl/101/533], § 6(b), inserted before period at end “, including, with respect to foreign direct investment in the United States, information on ownership by foreign governments of United States affiliates by country, and tables, on an aggregated basis, of business enterprises the ownership or control of which by foreign persons is more than 50 percent of the voting securities or other evidences of ownership of such enterprises, and business enterprises the ownership or control of which by foreign persons is 50 percent or less of the voting securities or other evidences of ownership of such enterprises”.
 
-    Subsec. (h). [Pub. L. 101–533, § 6(c)][/us/pl/101/533/s6/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–533][/us/pl/101/533], § 6(c), added subsec. (h).
 
-    1984—Subsec. (a)(1), (2). [Pub. L. 98–573, § 306(b)(4)(A)(ii)][/us/pl/98/573/s306/b/4/A/ii], inserted “and trade in services” after “international investment” wherever appearing.
+    1984—Subsec. (a)(1), (2). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(4)(A)(ii), inserted “and trade in services” after “international investment” wherever appearing.
 
-    Subsec. (a)(3). [Pub. L. 98–573, § 306(b)(3)][/us/pl/98/573/s306/b/3], (4)(A)(i)–(iii), inserted reference to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and substituted “presentation” for “presentation relating to international investment”, inserted “and trade in services” after “international investment” in two places, and struck out “and” at end.
+    Subsec. (a)(3). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(3), (4)(A)(i)–(iii), inserted reference to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and substituted “presentation” for “presentation relating to international investment”, inserted “and trade in services” after “international investment” in two places, and struck out “and” at end.
 
-    Subsec. (a)(4), (5). [Pub. L. 98–573, § 306(b)(4)(A)(iv)][/us/pl/98/573/s306/b/4/A/iv], (v), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (a)(4), (5). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(4)(A)(iv), (v), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (b)(2)(C). [Pub. L. 98–573, § 306(b)(4)(B)][/us/pl/98/573/s306/b/4/B], inserted “(including trade in both goods and services)” after “regarding trade”.
+    Subsec. (b)(2)(C). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(4)(B), inserted “(including trade in both goods and services)” after “regarding trade”.
 
-    Subsec. (f). [Pub. L. 98–573, § 306(b)(4)(C)][/us/pl/98/573/s306/b/4/C], inserted “and trade in services” after “international investment”.
+    Subsec. (f). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(4)(C), inserted “and trade in services” after “international investment”.
 
     1981—Subsec. (b). [Pub. L. 97–70][/us/pl/97/70] substituted “year” for “calendar year” in five places in provisions preceding par. (1).
 
-    [Pub. L. 97–33, § 1][/us/pl/97/33/s1], substituted “With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering calendar year 1980, a benchmark survey covering calendar year 1987, and benchmark surveys covering every fifth calendar year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering calendar year 1982, a benchmark survey covering calendar year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall,” for “With respect to the United States direct investment abroad and foreign direct investment in the United States, the President shall conduct a comprehensive benchmark survey at least once every five years and, for such purpose, shall,” in provisions preceding par (1).
+    [Pub. L. 97–33][/us/pl/97/33], § 1, substituted “With respect to foreign direct investment in the United States, the President shall conduct a benchmark survey covering calendar year 1980, a benchmark survey covering calendar year 1987, and benchmark surveys covering every fifth calendar year thereafter. With respect to United States direct investment abroad, the President shall conduct a benchmark survey covering calendar year 1982, a benchmark survey covering calendar year 1989, and benchmark surveys covering every fifth year thereafter. In conducting surveys pursuant to this subsection, the President shall,” for “With respect to the United States direct investment abroad and foreign direct investment in the United States, the President shall conduct a comprehensive benchmark survey at least once every five years and, for such purpose, shall,” in provisions preceding par (1).
 
-    Subsec. (c)(2). [Pub. L. 97–33, § 2][/us/pl/97/33/s2], substituted “the President shall annually compile currently available data on United States portfolio investment abroad including items such as data on the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall submit an analysis of such data to the Congress not later than the first day of July of each year” for “the President shall conduct a benchmark survey of United States portfolio investment abroad and, for such purpose, shall (among other things and to the extent he determines necessary and feasible) determine the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall complete such survey not later than the end of the five-year period beginning on October 11, 1976. After completion of such survey, the President shall report to the Congress on the feasibility and desirability of conducting, on a periodic basis, additional benchmark surveys of United States portfolio investment abroad. If he determines that such additional benchmark surveys are feasible and desirable, he may conduct such surveys”.
+    Subsec. (c)(2). [Pub. L. 97–33][/us/pl/97/33], § 2, substituted “the President shall annually compile currently available data on United States portfolio investment abroad including items such as data on the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall submit an analysis of such data to the Congress not later than the first day of July of each year” for “the President shall conduct a benchmark survey of United States portfolio investment abroad and, for such purpose, shall (among other things and to the extent he determines necessary and feasible) determine the magnitude and aggregate value of portfolio investment, form of investments, types of investors, nationality of investors and recorded residence of private holders, diversification of holdings by economic sector, and holders of record. The President shall complete such survey not later than the end of the five-year period beginning on October 11, 1976. After completion of such survey, the President shall report to the Congress on the feasibility and desirability of conducting, on a periodic basis, additional benchmark surveys of United States portfolio investment abroad. If he determines that such additional benchmark surveys are feasible and desirable, he may conduct such surveys”.
 
-    Subsecs. (e) to (g). [Pub. L. 97–33, § 3][/us/pl/97/33/s3], added subsec. (e) and redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 97–33][/us/pl/97/33], § 3, added subsec. (e) and redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
     1979—Subsec. (a)(3). H. Res. 89 changed name of Committee on International Relations of the House of Representatives to Committee on Foreign Affairs.
 
@@ -118,29 +118,29 @@
 
 [/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
 [/us/usc/t22/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3104
-[/us/pl/94/472/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs4
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2060
-[/us/pl/95/381/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381%2Fs2
+[/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381
 [/us/stat/92/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F726
 [/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
 [/us/stat/95/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F170
 [/us/pl/97/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F70
 [/us/stat/95/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1045
-[/us/pl/98/573/s306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F3
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3010
-[/us/pl/101/533/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2Fb
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2348
-[/us/pl/101/533/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2Fb
-[/us/pl/101/533/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2Fc
-[/us/pl/98/573/s306/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F4%2FA%2Fii
-[/us/pl/98/573/s306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F3
-[/us/pl/98/573/s306/b/4/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F4%2FA%2Fiv
-[/us/pl/98/573/s306/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F4%2FB
-[/us/pl/98/573/s306/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F4%2FC
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/97/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F70
-[/us/pl/97/33/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33%2Fs1
-[/us/pl/97/33/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33%2Fs2
-[/us/pl/97/33/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33%2Fs3
+[/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
+[/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
+[/us/pl/97/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F33
 [/us/pl/95/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F381
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

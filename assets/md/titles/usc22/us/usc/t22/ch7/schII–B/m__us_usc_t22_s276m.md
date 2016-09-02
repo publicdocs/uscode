@@ -51,7 +51,7 @@
 
         The United States Delegation shall, for each fiscal year for which an appropriation is made, submit to the Congress a report including its expenditures under such appropriation. The certificate of the Chairman and Vice Chairman of the United States Delegation shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States Delegation.
 
-([Pub. L. 102–138, title I, § 169][/us/pl/102/138/s169], Oct. 28, 1991, [105 Stat. 677][/us/stat/105/677].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 169, Oct. 28, 1991, [105 Stat. 677][/us/stat/105/677].)
 
  __Ex. Ord. No. 13029. Change of Name of Conference on Security and Cooperation in Europe__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs169
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F677
 
 

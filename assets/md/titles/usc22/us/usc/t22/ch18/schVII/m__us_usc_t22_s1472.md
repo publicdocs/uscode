@@ -55,7 +55,7 @@
 
             (B) The authority of this paragraph may be exercised for a fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title VIII, § 802, [62 Stat. 12][/us/stat/62/12]; [Pub. L. 97–241, title III, § 304(b)][/us/pl/97/241/s304/b], Aug. 24, 1982, [96 Stat. 292][/us/stat/96/292]; [Pub. L. 103–236, title II, § 225][/us/pl/103/236/s225], Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 107–228, div. A, title V, § 503][/us/pl/107/228/s503], Sept. 30, 2002, [116 Stat. 1392][/us/stat/116/1392].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title VIII, § 802, [62 Stat. 12][/us/stat/62/12]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 304(b), Aug. 24, 1982, [96 Stat. 292][/us/stat/96/292]; [Pub. L. 103–236, title II][/us/pl/103/236/tII], § 225, Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 107–228, div. A, title V][/us/pl/107/228/dA/tV], § 503, Sept. 30, 2002, [116 Stat. 1392][/us/stat/116/1392].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@ The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3),
 
  __Codification__ 
 
-    In subsec. (a)(2), “[section 6306 of title 41][/us/usc/t41/s6306]” substituted for “section 3741 of the Revised Statutes ([41 U.S.C. 22][/us/usc/t41/s22])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(2), “[section 6306 of title 41][/us/usc/t41/s6306]” substituted for “section 3741 of the Revised Statutes ([41 U.S.C. 22][/us/usc/t41/s22])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -119,15 +119,15 @@ The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3),
 [/us/usc/t41/s6306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6306
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F12
-[/us/pl/97/241/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs304%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F292
-[/us/pl/103/236/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs225
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F423
-[/us/pl/107/228/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs503
+[/us/pl/107/228/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtV
 [/us/stat/116/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1392
 [/us/usc/t41/s6306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6306
 [/us/usc/t41/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs22
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

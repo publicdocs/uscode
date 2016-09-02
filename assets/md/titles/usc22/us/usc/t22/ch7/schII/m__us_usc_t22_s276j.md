@@ -17,7 +17,7 @@
 
     The United States group of the Mexico-United States Interparliamentary group shall submit to the Congress a report for each fiscal year for which an appropriation is made including its expenditures under such appropriation.
 
-([Pub. L. 86–420, § 3][/us/pl/86/420/s3], Apr. 9, 1960, [74 Stat. 40][/us/stat/74/40].)
+([Pub. L. 86–420][/us/pl/86/420], § 3, Apr. 9, 1960, [74 Stat. 40][/us/stat/74/40].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/420/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F420%2Fs3
+[/us/pl/86/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F420
 [/us/stat/74/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F40
 
 

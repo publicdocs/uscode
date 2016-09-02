@@ -23,7 +23,7 @@
 
         The President shall, upon the request of any committee of the Congress with legislative or oversight jurisdiction over monetary policy or the International Monetary Fund, provide to such committee any appropriate information relevant to that committee’s jurisdiction which is furnished to any department or agency of the United States by the International Monetary Fund. The President shall comply with this provision consistent with United States membership obligations in the International Monetary Fund and subject to such limitations as are appropriate to the sensitive nature of the information.
 
-([July 31, 1945, ch. 339, § 14][/us/act/1945-07-31/ch339/s14], [59 Stat. 517][/us/stat/59/517]; [Pub. L. 95–147, § 4(a)(2)][/us/pl/95/147/s4/a/2], Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 14, [59 Stat. 517][/us/stat/59/517]; [Pub. L. 95–147][/us/pl/95/147], § 4(a)(2), Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs14
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F517
-[/us/pl/95/147/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147%2Fs4%2Fa%2F2
+[/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
 [/us/stat/91/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1228
 [/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
 

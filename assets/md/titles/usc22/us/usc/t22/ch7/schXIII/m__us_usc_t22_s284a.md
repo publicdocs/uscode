@@ -17,7 +17,7 @@
 
     The Governor and Executive Director of the International Bank for Reconstruction and Development, and the alternate for each of them, appointed under [section 286a of this title][/us/usc/t22/s286a], shall serve as Governor, Executive Director and alternates, respectively, of the Association.
 
-([Pub. L. 86–565, § 3][/us/pl/86/565/s3], June 30, 1960, [74 Stat. 293][/us/stat/74/293].)
+([Pub. L. 86–565][/us/pl/86/565], § 3, June 30, 1960, [74 Stat. 293][/us/stat/74/293].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s286a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286a
-[/us/pl/86/565/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs3
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
 [/us/stat/74/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F293
 
 

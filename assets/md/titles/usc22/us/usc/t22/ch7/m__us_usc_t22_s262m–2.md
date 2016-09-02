@@ -45,7 +45,7 @@
 
         The Secretary of the Treasury shall forward reports concerning information received under subsection (a) of this section to the Executive Director representing the United States in the appropriate bank with instructions to seek to eliminate or mitigate adverse impacts which may result from the proposal.
 
-([Pub. L. 95–118, title XIII, § 1303][/us/pl/95/118/s1303], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 108–447, div. D, title V, § 593(b)][/us/pl/108/447/s593/b], Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037].)
+([Pub. L. 95–118, title XIII][/us/pl/95/118/tXIII], § 1303, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 593(b), Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037].)
 
  __Codification__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–447, § 593(b)][/us/pl/108/447/s593/b], designated existing provisions as par. (1) and added pars. (2) and (3).
+    2004—Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 593(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (b)(1). [Pub. L. 108–447, § 593(b)(1)][/us/pl/108/447/s593/b/1], which directed amendment of par. (1) by substituting “multilateral development banks as defined in [section 262m–7(g) of this title][/us/usc/t22/s262m–7/g]” for “International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank”, was executed by making substitution for “International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank”, to reflect the probable intent of Congress.
+    Subsec. (b)(1). [Pub. L. 108–447][/us/pl/108/447], § 593(b)(1), which directed amendment of par. (1) by substituting “multilateral development banks as defined in [section 262m–7(g) of this title][/us/usc/t22/s262m–7/g]” for “International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank”, was executed by making substitution for “International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank”, to reflect the probable intent of Congress.
 
  __Change of Name__ 
 
@@ -69,15 +69,15 @@
 ----------
 
 [/us/usc/t22/s262m–7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%937%2Fg
-[/us/pl/95/118/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1303
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/95/118/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIII
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/108/447/s593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs593%2Fb
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3037
 [/us/pl/95/118/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1303
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/108/447/s593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs593%2Fb
-[/us/pl/108/447/s593/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs593%2Fb%2F1
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t22/s262m–7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%937%2Fg
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

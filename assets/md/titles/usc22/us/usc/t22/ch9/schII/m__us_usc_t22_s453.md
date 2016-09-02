@@ -17,7 +17,7 @@
 
     The President may, from time to time, promulgate such rules and regulations, not inconsistent with law, as may be necessary and proper to carry out any of the provisions of this subchapter; and he may exercise any power or authority conferred on him by this subchapter through such officer or officers, or agency or agencies, as he shall direct.
 
-([Nov. 4, 1939, ch. 2, § 13][/us/act/1939-11-04/ch2/s13], [54 Stat. 11][/us/stat/54/11].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 13, [54 Stat. 11][/us/stat/54/11].)
 
  __Delegation of Powers__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1939-11-04/ch2/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs13
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F11
 [/us/stat/54/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F2671
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1

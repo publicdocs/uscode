@@ -17,7 +17,7 @@
 
     Consistent with the objective of eliminating chemical weapons, the President may deny a request to inspect any facility in the United States in cases where the President determines that the inspection may pose a threat to the national security interests of the United States.
 
-([Pub. L. 105–277, div. I, title III, § 307][/us/pl/105/277/s307], Oct. 21, 1998, [112 Stat. 2681–878][/us/stat/112/2681-878].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 307, Oct. 21, 1998, [112 Stat. 2681–878][/us/stat/112/2681-878].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs307
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-878
 
 

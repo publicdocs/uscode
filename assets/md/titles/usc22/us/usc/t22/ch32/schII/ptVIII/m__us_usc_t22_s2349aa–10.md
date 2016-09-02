@@ -37,7 +37,7 @@
 
         (2) the appropriate committees of Congress are notified not later than 15 days prior to the provision of such assistance.
 
-([Pub. L. 104–132, title III, § 328][/us/pl/104/132/s328], Apr. 24, 1996, [110 Stat. 1257][/us/stat/110/1257].)
+([Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 328, Apr. 24, 1996, [110 Stat. 1257][/us/stat/110/1257].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __“Assistance” Defined__ 
 
-[Pub. L. 104–132, title III, § 329][/us/pl/104/132/s329], Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258], provided that: 
+[Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 329, Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258], provided that: 
 
 > “For purposes of this title \[enacting this section and sections 262p–4q, 2377, 2378, and 2781 of this title, [section 1189 of Title 8][/us/usc/t8/s1189], Aliens and Nationality, and sections 2332d and 2339B of Title 18, Crimes and Criminal Procedure, amending [section 2349aa–2 of this title][/us/usc/t22/s2349aa–2], [section 2339A of Title 18][/us/usc/t18/s2339A], and [section 44906 of Title 49][/us/usc/t49/s44906], Transportation, and enacting provisions set out as notes under [section 2377 of this title][/us/usc/t22/s2377] and sections 2332d and 2339B of Title 18\]—
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t22/s2349aa–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa%E2%80%934%2Fb
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
-[/us/pl/104/132/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs328
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1257
 [/us/usc/t22/s2349aa–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa%E2%80%934
 [/us/pl/104/164/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs121%2Fd
@@ -78,7 +78,7 @@
 [/us/pl/104/132/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs328
 [/us/pl/104/132/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs328
 [/us/usc/t22/s2349aa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa%E2%80%932
-[/us/pl/104/132/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs329
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1258
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
 [/us/usc/t22/s2349aa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa%E2%80%932

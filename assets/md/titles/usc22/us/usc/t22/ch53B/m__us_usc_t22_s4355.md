@@ -25,7 +25,7 @@
 
         (2) Records described in [section 1202(f) of title 8][/us/usc/t8/s1202/f] (relating to visa records) shall be excluded from publication in the FRUS series under [section 4353 of this title][/us/usc/t22/s4353] and, to the extent applicable, exempted from the declassification requirement of [section 4354 of this title][/us/usc/t22/s4354].
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 405, as added [Pub. L. 102–138, title I, § 198(a)][/us/pl/102/138/s198/a], Oct. 28, 1991, [105 Stat. 688][/us/stat/105/688].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 405, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(a), Oct. 28, 1991, [105 Stat. 688][/us/stat/105/688].)
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/usc/t22/s4353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4353
 [/us/usc/t22/s4354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4354
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F688
 
 

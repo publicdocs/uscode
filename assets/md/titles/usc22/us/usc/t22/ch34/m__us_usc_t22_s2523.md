@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of any provision to any circumstances or persons shall be held invalid, the validity of the remainder of this chapter and the applicability of such provision to other circumstances or persons shall not be affected thereby.
 
-([Pub. L. 87–293, title I, § 27][/us/pl/87/293/s27], formerly § 26, Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625]; renumbered § 27, [Pub. L. 99–83, title XI, § 1105(a)(1)][/us/pl/99/83/s1105/a/1], Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 27, formerly § 26, Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625]; renumbered § 27, [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1105(a)(1), Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/87/293/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs27
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F625
-[/us/pl/99/83/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1105%2Fa%2F1
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F276
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

@@ -39,7 +39,7 @@
 
             (B) Sections 8514a and 8514b of this title, as added by subtitle A of title IV.
 
-([Pub. L. 112–158, title VI, § 601][/us/pl/112/158/s601], Aug. 10, 2012, [126 Stat. 1263][/us/stat/126/1263].)
+([Pub. L. 112–158, title VI][/us/pl/112/158/tVI], § 601, Aug. 10, 2012, [126 Stat. 1263][/us/stat/126/1263].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t22/s8513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513b
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t50/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705%2Fa
-[/us/pl/112/158/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs601
+[/us/pl/112/158/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVI
 [/us/stat/126/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1263
 [/us/pl/112/158/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs312
 [/us/stat/126/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1249

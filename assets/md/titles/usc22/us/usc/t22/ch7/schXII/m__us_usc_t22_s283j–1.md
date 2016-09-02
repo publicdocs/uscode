@@ -27,7 +27,7 @@
 
         The reports of the National Advisory Council on International Monetary and Financial Policies to the Congress shall include, among other things, an appraisal of the effectiveness of the implementation and administration of the loans made by the Bank based upon the audit reports. The Comptroller General may review the reports of audit and findings issued and report to the Secretary of the Treasury and the Congress any suggestions he might have in improving the scope of the audit or auditing and reporting standards of the independent auditing firm, group, or staff.
 
-([Pub. L. 86–147, § 14][/us/pl/86/147/s14], as added [Pub. L. 90–88, § 1][/us/pl/90/88/s1], Sept. 22, 1967, [81 Stat. 227][/us/stat/81/227]; amended [Pub. L. 104–316, title I, § 111(b)][/us/pl/104/316/s111/b], Oct. 19, 1996, [110 Stat. 3833][/us/stat/110/3833].)
+([Pub. L. 86–147][/us/pl/86/147], § 14, as added [Pub. L. 90–88][/us/pl/90/88], § 1, Sept. 22, 1967, [81 Stat. 227][/us/stat/81/227]; amended [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 111(b), Oct. 19, 1996, [110 Stat. 3833][/us/stat/110/3833].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/86/147/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs14
-[/us/pl/90/88/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F88%2Fs1
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/90/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F88
 [/us/stat/81/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F227
-[/us/pl/104/316/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs111%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3833
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

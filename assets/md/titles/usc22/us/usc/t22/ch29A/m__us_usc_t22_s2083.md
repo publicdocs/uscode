@@ -33,11 +33,11 @@
 
         (6) to accept donations of money, property, and services and the loan of property.
 
-([Pub. L. 89–355, § 3][/us/pl/89/355/s3], Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224].)
+([Pub. L. 89–355][/us/pl/89/355], § 3, Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 224][/us/stat/81/224].)
 
  __Codification__ 
 
-    In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5][/us/usc/t5/s3109]” substituted for “the Classification Act of 1949” and “section 15 of the Administrative Expenses Act of 1946 ([5 U.S.C. 55a][/us/usc/t5/s55a])”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5][/us/usc/t5/s3109]” substituted for “the Classification Act of 1949” and “section 15 of the Administrative Expenses Act of 1946 ([5 U.S.C. 55a][/us/usc/t5/s55a])”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/89/355/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs3
+[/us/pl/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355
 [/us/stat/80/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F6
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F224
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 

@@ -45,7 +45,7 @@
 
         The United States Central Authority shall maintain appropriate records concerning its activities and the disposition of cases brought to its attention.
 
-([Pub. L. 100–300, § 9][/us/pl/100/300/s9], Apr. 29, 1988, [102 Stat. 440][/us/stat/102/440].)
+([Pub. L. 100–300][/us/pl/100/300], § 9, Apr. 29, 1988, [102 Stat. 440][/us/stat/102/440].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9
-[/us/pl/100/300/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs9
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F440
 [/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437

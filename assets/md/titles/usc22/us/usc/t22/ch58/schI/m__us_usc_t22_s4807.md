@@ -81,7 +81,7 @@
 
         (2) an evaluation of the feasibility of establishing civil service positions in field offices of the Bureau of Diplomatic Security to investigate visa and passport fraud, including an evaluation of whether to allow diplomatic security agents to convert to civil service officers to fill such positions.
 
-([Pub. L. 108–458, title VII, § 7218][/us/pl/108/458/s7218], Dec. 17, 2004, [118 Stat. 3833][/us/stat/118/3833].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7218, Dec. 17, 2004, [118 Stat. 3833][/us/stat/118/3833].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
 [/us/usc/t22/s2349aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa
-[/us/pl/108/458/s7218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7218
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3833
 [/us/pl/108/458/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7201
 [/us/usc/t8/s1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1776

@@ -33,7 +33,7 @@
 
         The promotion of community-based cooperatives which provide employment opportunities and important services such as health clinics, self-help shelter, environmental improvements, group-owned businesses, and other activities.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 111, as added [Pub. L. 93–189, § 2(3)][/us/pl/93/189/s2/3], Dec. 17, 1973, [87 Stat. 716][/us/stat/87/716]; amended [Pub. L. 94–161, title III, § 308][/us/pl/94/161/s308], Dec. 20, 1975, [89 Stat. 859][/us/stat/89/859]; [Pub. L. 95–88, title I, § 107(a)][/us/pl/95/88/s107/a], Aug. 3, 1977, [91 Stat. 535][/us/stat/91/535]; [Pub. L. 96–53, title I, § 122][/us/pl/96/53/s122], Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 106–309, title IV, § 401(c)(2)][/us/pl/106/309/s401/c/2], Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 111, as added [Pub. L. 93–189][/us/pl/93/189], § 2(3), Dec. 17, 1973, [87 Stat. 716][/us/stat/87/716]; amended [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 308, Dec. 20, 1975, [89 Stat. 859][/us/stat/89/859]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 107(a), Aug. 3, 1977, [91 Stat. 535][/us/stat/91/535]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 122, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 401(c)(2), Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097].)
 
  __References in Text__ 
 
@@ -55,13 +55,13 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–88, title I, § 107(b)][/us/pl/95/88/s107/b], Aug. 3, 1977, [91 Stat. 536][/us/stat/91/536], provided that: 
+[Pub. L. 95–88, title I][/us/pl/95/88/tI], § 107(b), Aug. 3, 1977, [91 Stat. 536][/us/stat/91/536], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1977.”
 
  __Findings__ 
 
-[Pub. L. 106–309, title IV, § 401(b)][/us/pl/106/309/s401/b], Oct. 17, 2000, [114 Stat. 1096][/us/stat/114/1096], provided that: 
+[Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 401(b), Oct. 17, 2000, [114 Stat. 1096][/us/stat/114/1096], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -85,7 +85,7 @@
 
  __Declarations of Policy__ 
 
-[Pub. L. 106–309, title IV, § 401(c)(1)][/us/pl/106/309/s401/c/1], Oct. 17, 2000, [114 Stat. 1096][/us/stat/114/1096], provided that: 
+[Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 401(c)(1), Oct. 17, 2000, [114 Stat. 1096][/us/stat/114/1096], provided that: 
 
 > “The Congress supports the development and expansion of economic assistance programs that fully utilize cooperatives and credit unions, particularly those programs committed to—
 
@@ -101,7 +101,7 @@
 
  __Report__ 
 
-[Pub. L. 106–309, title IV, § 401(d)][/us/pl/106/309/s401/d], Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097], provided that: 
+[Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 401(d), Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097], provided that: 
 
 > “Not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Administrator of the United States Agency for International Development, in consultation with the heads of other appropriate agencies, shall prepare and submit to Congress a report on the implementation of section 111 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151i][/us/usc/t22/s2151i]), as amended by subsection (c).”
 
@@ -113,15 +113,15 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F3
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F716
-[/us/pl/94/161/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs308
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F859
-[/us/pl/95/88/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs107%2Fa
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F535
-[/us/pl/96/53/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs122
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F366
-[/us/pl/106/309/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs401%2Fc%2F2
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1097
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -133,13 +133,13 @@
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/88/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs107%2Fb
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F536
-[/us/pl/106/309/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs401%2Fb
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1096
-[/us/pl/106/309/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs401%2Fc%2F1
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1096
-[/us/pl/106/309/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs401%2Fd
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1097
 [/us/usc/t22/s2151i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151i
 

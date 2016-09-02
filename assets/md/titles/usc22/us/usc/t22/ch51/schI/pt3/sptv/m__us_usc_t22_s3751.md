@@ -43,7 +43,7 @@
 
         Notwithstanding any other provision of law, no reduction under any order issued pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 shall apply to the Commission if the implementation of such an order would result in a payment to the Republic of Panama under paragraph 4(c) of article XIII of the Panama Canal Treaty of 1977 and this section.
 
-([Pub. L. 96–70, title I, § 1341][/us/pl/96/70/s1341], Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482]; [Pub. L. 99–368, § 6][/us/pl/99/368/s6], Aug. 1, 1986, [100 Stat. 776][/us/stat/100/776]; [Pub. L. 100–203, title V, § 5426][/us/pl/100/203/s5426], Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274]; [Pub. L. 104–201, div. C, title XXXV, § 3548(b)(3)][/us/pl/104/201/s3548/b/3], Sept. 23, 1996, [110 Stat. 2869][/us/stat/110/2869]; [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(7)][/us/pl/105/85/s3550/d/7], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–261, div. C, title XXXV, § 3512(b)][/us/pl/105/261/s3512/b], Oct. 17, 1998, [112 Stat. 2271][/us/stat/112/2271].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1341, Sept. 27, 1979, [93 Stat. 482][/us/stat/93/482]; [Pub. L. 99–368][/us/pl/99/368], § 6, Aug. 1, 1986, [100 Stat. 776][/us/stat/100/776]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5426, Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3548(b)(3), Sept. 23, 1996, [110 Stat. 2869][/us/stat/110/2869]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(d)(7), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3512(b), Oct. 17, 1998, [112 Stat. 2271][/us/stat/112/2271].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–261, div. C, title XXXV, § 3512(b)][/us/pl/105/261/s3512/b], Oct. 17, 1998, [112 Stat. 2271][/us/stat/112/2271], provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, [Pub. L. 104–201][/us/pl/104/201], as enacted.
+    [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3512(b), Oct. 17, 1998, [112 Stat. 2271][/us/stat/112/2271], provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, [Pub. L. 104–201][/us/pl/104/201], as enacted.
 
  __Effective Date of 1987 Amendment__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–368, § 7][/us/pl/99/368/s7], Aug. 1, 1986, [100 Stat. 777][/us/stat/100/777], provided that: 
+[Pub. L. 99–368][/us/pl/99/368], § 7, Aug. 1, 1986, [100 Stat. 777][/us/stat/100/777], provided that: 
 
 > “The amendment made by section 6 \[amending this section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years.”
 
@@ -86,17 +86,17 @@
 [/us/usc/t22/s3792/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3792%2Fb
 [/us/usc/t22/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3793
 [/us/usc/t22/s3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3731
-[/us/pl/96/70/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1341
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F482
-[/us/pl/99/368/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F368%2Fs6
+[/us/pl/99/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F368
 [/us/stat/100/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F776
-[/us/pl/100/203/s5426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5426
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-274
-[/us/pl/104/201/s3548/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fb%2F3
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2869
-[/us/pl/105/85/s3550/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F7
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
-[/us/pl/105/261/s3512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3512%2Fb
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2271
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
@@ -115,13 +115,13 @@
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F368
-[/us/pl/105/261/s3512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3512%2Fb
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2271
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s5429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5429
 [/us/usc/t22/s3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3712
-[/us/pl/99/368/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F368%2Fs7
+[/us/pl/99/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F368
 [/us/stat/100/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F777
 
 

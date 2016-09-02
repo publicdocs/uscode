@@ -33,7 +33,7 @@
 
     Therefore, labor organizations and collective bargaining in the Service are in the public interest and are consistent with the requirement of an effective and efficient Government. The provisions of this subchapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
-([Pub. L. 96–465, title I, § 1001][/us/pl/96/465/s1001], Oct. 17, 1980, [94 Stat. 2128][/us/stat/94/2128].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1001, Oct. 17, 1980, [94 Stat. 2128][/us/stat/94/2128].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1001
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2128
 
 

@@ -17,7 +17,7 @@
 
     The United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to carry out those measures agreed upon for execution by the United States in the agreements concluded pursuant to [section 277d–26 of this title][/us/usc/t22/s277d–26].
 
-([Pub. L. 88–411, § 2][/us/pl/88/411/s2], Aug. 10, 1964, [78 Stat. 386][/us/stat/78/386].)
+([Pub. L. 88–411][/us/pl/88/411], § 2, Aug. 10, 1964, [78 Stat. 386][/us/stat/78/386].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s277d–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9326
-[/us/pl/88/411/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F411%2Fs2
+[/us/pl/88/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F411
 [/us/stat/78/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F386
 
 

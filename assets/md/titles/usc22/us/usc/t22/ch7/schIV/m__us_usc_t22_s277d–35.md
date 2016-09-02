@@ -23,7 +23,7 @@
 
     (3) to turn over the operation and maintenance of any works referred to in paragraph (1) of this section to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such works may be situated, in whole or in part, upon such terms, conditions, and requirements as the Commissioner may deem appropriate.
 
-([Pub. L. 92–549, title I, § 102][/us/pl/92/549/s102], Oct. 25, 1972, [86 Stat. 1161][/us/stat/86/1161].)
+([Pub. L. 92–549, title I][/us/pl/92/549/tI], § 102, Oct. 25, 1972, [86 Stat. 1161][/us/stat/86/1161].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/92/549/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs102
+[/us/pl/92/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtI
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161
 [/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161

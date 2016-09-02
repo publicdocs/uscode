@@ -137,11 +137,11 @@
 
             Amounts made available under paragraph (1) are authorized to remain available until expended.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 135, as added [Pub. L. 109–95, § 3][/us/pl/109/95/s3], Nov. 8, 2005, [119 Stat. 2113][/us/stat/119/2113].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 135, as added [Pub. L. 109–95][/us/pl/109/95], § 3, Nov. 8, 2005, [119 Stat. 2113][/us/stat/119/2113].)
 
  __References in Text__ 
 
-    [Section 2151b–2(g) of this title][/us/usc/t22/s2151b–2/g], referred to in subsec. (b)(1), (3), was redesignated [section 2151b–2(h) of this title][/us/usc/t22/s2151b–2/h] by [Pub. L. 110–293, title III, § 301(d)(1)][/us/pl/110/293/s301/d/1], July 30, 2008, [122 Stat. 2951][/us/stat/122/2951].
+    [Section 2151b–2(g) of this title][/us/usc/t22/s2151b–2/g], referred to in subsec. (b)(1), (3), was redesignated [section 2151b–2(h) of this title][/us/usc/t22/s2151b–2/h] by [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 301(d)(1), July 30, 2008, [122 Stat. 2951][/us/stat/122/2951].
 
     Section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005, referred to in subsecs. (d)(1) and (e)(2)(B), (C), is [section 4 of Pub. L. 109–95][/us/pl/109/95/s4], which is set out as a note under this section.
 
@@ -151,7 +151,7 @@
 
  __Findings__ 
 
-[Pub. L. 109–95, § 2][/us/pl/109/95/s2], Nov. 8, 2005, [119 Stat. 2111][/us/stat/119/2111], provided that: 
+[Pub. L. 109–95][/us/pl/109/95], § 2, Nov. 8, 2005, [119 Stat. 2111][/us/stat/119/2111], provided that: 
 
 > “Congress makes the following findings:
 
@@ -199,7 +199,7 @@
 
  __Strategy of the United States__ 
 
-[Pub. L. 109–95, § 4][/us/pl/109/95/s4], Nov. 8, 2005, [119 Stat. 2116][/us/stat/119/2116], provided that:
+[Pub. L. 109–95][/us/pl/109/95], § 4, Nov. 8, 2005, [119 Stat. 2116][/us/stat/119/2116], provided that:
 
 >     “(a)  __Requirement for Strategy__  __.—__ 
 
@@ -242,11 +242,11 @@
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
 [/us/usc/t22/s2152g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152g
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/109/95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs3
+[/us/pl/109/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95
 [/us/stat/119/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2113
 [/us/usc/t22/s2151b–2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Fg
 [/us/usc/t22/s2151b–2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Fh
-[/us/pl/110/293/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fd%2F1
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2951
 [/us/pl/109/95/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs4
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -257,10 +257,10 @@
 [/us/usc/t22/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7612
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
-[/us/pl/109/95/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs2
+[/us/pl/109/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95
 [/us/stat/119/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2111
 [/us/usc/t22/s7673/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7673%2Fb
-[/us/pl/109/95/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95%2Fs4
+[/us/pl/109/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F95
 [/us/stat/119/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2116
 [/us/usc/t22/s2152f/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f%2Fe%2F1
 [/us/usc/t22/s2152f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152f

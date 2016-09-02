@@ -17,7 +17,7 @@
 
     The total amount of money that may be loaned to the United Nations pursuant to the authorization contained in [section 287g of this title][/us/usc/t22/s287g] shall not exceed the aggregate amount of loans made by other nations.
 
-([Pub. L. 87–731, § 2][/us/pl/87/731/s2], Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695].)
+([Pub. L. 87–731][/us/pl/87/731], § 2, Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s287g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287g
-[/us/pl/87/731/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731%2Fs2
+[/us/pl/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731
 [/us/stat/76/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F695
 [/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619

@@ -17,7 +17,7 @@
 
     United States chiefs of mission shall seek out and contact religious nongovernmental organizations to provide high-level meetings with religious nongovernmental organizations where appropriate and beneficial. United States chiefs of mission and Foreign Service officers abroad shall seek to meet with imprisoned religious leaders where appropriate and beneficial.
 
-([Pub. L. 105–292, title I, § 105][/us/pl/105/292/s105], Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 105, Oct. 27, 1998, [112 Stat. 2795][/us/stat/112/2795].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs105
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2795
 
 

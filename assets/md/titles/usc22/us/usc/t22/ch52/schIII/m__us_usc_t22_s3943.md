@@ -17,7 +17,7 @@
 
     The Secretary may appoint the members of the Service (other than the members of the Service who are in the personnel categories specified in [section 3942(a) of this title][/us/usc/t22/s3942/a]) in accordance with this chapter and such regulations as the Secretary may prescribe.
 
-([Pub. L. 96–465, title I, § 303][/us/pl/96/465/s303], Oct. 17, 1980, [94 Stat. 2085][/us/stat/94/2085].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 303, Oct. 17, 1980, [94 Stat. 2085][/us/stat/94/2085].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Prohibition on Certain Employment at United States Diplomatic and Consular Missions in Communist Countries__ 
 
-[Pub. L. 100–204, title I, § 157][/us/pl/100/204/s157], Dec. 22, 1987, [101 Stat. 1354][/us/stat/101/1354], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 157, Dec. 22, 1987, [101 Stat. 1354][/us/stat/101/1354], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -65,7 +65,7 @@
 
  __Soviet Employees at United States Diplomatic and Consular Missions in the Soviet Union__ 
 
-[Pub. L. 99–93, title I, § 136][/us/pl/99/93/s136], Aug. 16, 1985, [99 Stat. 421][/us/stat/99/421], provided that:
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 136, Aug. 16, 1985, [99 Stat. 421][/us/stat/99/421], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -95,15 +95,15 @@
 ----------
 
 [/us/usc/t22/s3942/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3942%2Fa
-[/us/pl/96/465/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs303
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2085
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/100/204/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs157
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1354
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
-[/us/pl/99/93/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs136
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F421
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93

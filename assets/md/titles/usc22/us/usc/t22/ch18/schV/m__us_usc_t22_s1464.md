@@ -23,7 +23,7 @@
 
     (3) promote and advertise Voice of America/Europe.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 504, as added [Pub. L. 100–204, title IV, § 402][/us/pl/100/204/s402], Dec. 22, 1987, [101 Stat. 1381][/us/stat/101/1381].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 504, as added [Pub. L. 100–204, title IV][/us/pl/100/204/tIV], § 402, Dec. 22, 1987, [101 Stat. 1381][/us/stat/101/1381].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
-[/us/pl/100/204/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs402
+[/us/pl/100/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtIV
 [/us/stat/101/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1381
 
 

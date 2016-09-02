@@ -27,7 +27,7 @@
 
         Upon the granting by Taiwan of comparable privileges and immunities with respect to the Institute and its appropriate personnel, the President is authorized to extend with respect to the Taiwan instrumentality and its appropriate personnel, such privileges and immunities (subject to appropriate conditions and obligations) as may be necessary for the effective performance of their functions.
 
-([Pub. L. 96–8, § 10][/us/pl/96/8/s10], Apr. 10, 1979, [93 Stat. 18][/us/stat/93/18].)
+([Pub. L. 96–8][/us/pl/96/8], § 10, Apr. 10, 1979, [93 Stat. 18][/us/stat/93/18].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs10
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F18
 
 

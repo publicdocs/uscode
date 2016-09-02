@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated without fiscal year limitation $180,000,000 for payment by the Secretary of the Treasury: Provided, however, That not more than $14,116,177 may be made available for such contribution for the fiscal year 1982.
 
-([Pub. L. 89–369, § 23][/us/pl/89/369/s23], as added [Pub. L. 95–118, title V, § 501][/us/pl/95/118/s501], Oct. 3, 1977, [91 Stat. 1069][/us/stat/91/1069]; amended [Pub. L. 97–35, title XIII, § 1352(c)][/us/pl/97/35/s1352/c], Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
+([Pub. L. 89–369][/us/pl/89/369], § 23, as added [Pub. L. 95–118, title V][/us/pl/95/118/tV], § 501, Oct. 3, 1977, [91 Stat. 1069][/us/stat/91/1069]; amended [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1352(c), Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/89/369/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs23
-[/us/pl/95/118/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs501
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/95/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtV
 [/us/stat/91/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1069
-[/us/pl/97/35/s1352/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1352%2Fc
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F745
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

@@ -17,7 +17,7 @@
 
     In order to assist the Broadcasting Board of Governors in carrying out the provisions of this subchapter, any agency or instrumentality of the United States may sell, loan, lease, or grant property (including interests therein) and may perform administrative and technical support and services at the request of the Board.
 
-([Pub. L. 101–246, title II, § 246][/us/pl/101/246/s246], Feb. 16, 1990, [104 Stat. 62][/us/stat/104/62]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1325(1), (3), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
+([Pub. L. 101–246, title II][/us/pl/101/246/tII], § 246, Feb. 16, 1990, [104 Stat. 62][/us/stat/104/62]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1325(1), (3), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
 
  __Repeal of Section__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/101/246/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs246
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F62
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-781
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc

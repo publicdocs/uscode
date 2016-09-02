@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States subscription authorized in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $719,370,633, for payment by the Secretary of the Treasury.
 
-([Pub. L. 97–35, title XIII, § 1343][/us/pl/97/35/s1343], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1343, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Fifth General Capital Increase__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the fifth general capital increase of the African Development Bank, and authorized $40,847,011 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Bank and $639,932,485 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Bank.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the fifth general capital increase of the African Development Bank, and authorized $40,847,011 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Bank and $639,932,485 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Bank.
 
 ----------
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1343
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/97/35/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1343
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 
 

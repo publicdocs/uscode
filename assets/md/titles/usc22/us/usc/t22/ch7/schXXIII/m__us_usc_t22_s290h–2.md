@@ -31,7 +31,7 @@
 
         The Foundation shall carry out the purposes specified in subsection (a) of this section in cooperation with, and in response to, organizations indigenous to Africa which are representative of the needs and aspirations of the poor in Africa and, in carrying out such purposes, the Foundation shall, to the extent possible, coordinate its development assistance activities with the activities of the United States Government and private, regional, and international organizations.
 
-([Pub. L. 96–533, title V, § 504][/us/pl/96/533/s504], Dec. 16, 1980, [94 Stat. 3152][/us/stat/94/3152].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 504, Dec. 16, 1980, [94 Stat. 3152][/us/stat/94/3152].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/533/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs504
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3152
 
 

@@ -47,7 +47,7 @@
 
         The Export-Import Bank shall provide without reimbursement such administrative and technical assistance to the Agency as the Bank and the Agency deem appropriate to assist the Agency in carrying out this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 224, as added [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903; amended [Pub. L. 99–83, title III, § 314][/us/pl/99/83/s314], Aug. 8, 1985, [99 Stat. 217][/us/stat/99/217]; [Pub. L. 101–167, title IV][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1216][/us/stat/103/1216]; [Pub. L. 101–179, title III, § 304(b)][/us/pl/101/179/s304/b], Nov. 28, 1989, [103 Stat. 1313][/us/stat/103/1313]; [Pub. L. 101–513, title IV][/us/pl/101/513], Nov. 5, 1990, [104 Stat. 2001][/us/stat/104/2001].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 224, as added [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903; amended [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 314, Aug. 8, 1985, [99 Stat. 217][/us/stat/99/217]; [Pub. L. 101–167, title IV][/us/pl/101/167/tIV], Nov. 21, 1989, [103 Stat. 1216][/us/stat/103/1216]; [Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 304(b), Nov. 28, 1989, [103 Stat. 1313][/us/stat/103/1313]; [Pub. L. 101–513, title IV][/us/pl/101/513/tIV], Nov. 5, 1990, [104 Stat. 2001][/us/stat/104/2001].)
 
  __References in Text__ 
 
@@ -91,15 +91,15 @@
 [/us/usc/t12/s635/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FB
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
-[/us/pl/99/83/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs314
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F217
-[/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
+[/us/pl/101/167/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtIV
 [/us/stat/103/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1216
-[/us/pl/101/179/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs304%2Fb
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1313
-[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtIV
 [/us/stat/104/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2001
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F526

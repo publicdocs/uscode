@@ -23,7 +23,7 @@
 
     (3) prejudice the development of bilateral or multilateral arms control arrangements.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 511, as added [Pub. L. 92–226][/us/pl/92/226], pt. II, § 201(f), Feb. 7, 1972, [86 Stat. 25][/us/stat/86/25]; amended [Pub. L. 94–141, title I, § 150(c)][/us/pl/94/141/s150/c], Nov. 29, 1975, [89 Stat. 760][/us/stat/89/760]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(b), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 511, as added [Pub. L. 92–226][/us/pl/92/226], pt. II, § 201(f), Feb. 7, 1972, [86 Stat. 25][/us/stat/86/25]; amended [Pub. L. 94–141, title I][/us/pl/94/141/tI], § 150(c), Nov. 29, 1975, [89 Stat. 760][/us/stat/89/760]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(b), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773].)
 
  __References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II__ 
 
@@ -49,9 +49,9 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F25
-[/us/pl/94/141/s150/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs150%2Fc
+[/us/pl/94/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtI
 [/us/stat/89/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F760
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-773
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

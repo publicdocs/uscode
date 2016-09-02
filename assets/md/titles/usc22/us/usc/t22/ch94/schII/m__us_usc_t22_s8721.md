@@ -57,7 +57,7 @@
 
         Nothing in this section shall be construed to limit the authority of the President to designate persons for the imposition of sanctions pursuant to Executive Order No. 13382 (70 Fed. Reg. 38567; relating to the blocking of property of weapons of mass destruction proliferators and their supporters) or Executive Order No. 13224 (66 Fed. Reg. 49079; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism), or otherwise pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.).
 
-([Pub. L. 112–158, title II, § 211][/us/pl/112/158/s211], Aug. 10, 2012, [126 Stat. 1228][/us/stat/126/1228].)
+([Pub. L. 112–158, title II][/us/pl/112/158/tII], § 211, Aug. 10, 2012, [126 Stat. 1228][/us/stat/126/1228].)
 
  __Termination of Section__ 
 
@@ -81,7 +81,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/158/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs211
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1228
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

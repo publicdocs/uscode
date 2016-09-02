@@ -67,7 +67,7 @@
 
         The Secretary should periodically notify each foreign mission of United States policies relating to criminal offenses committed by individuals with immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 204B, as added [Pub. L. 105–375, § 1][/us/pl/105/375/s1], Nov. 12, 1998, [112 Stat. 3385][/us/stat/112/3385].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 204B, as added [Pub. L. 105–375][/us/pl/105/375], § 1, Nov. 12, 1998, [112 Stat. 3385][/us/stat/112/3385].)
 
  __Codification__ 
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/105/375/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F375%2Fs1
+[/us/pl/105/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F375
 [/us/stat/112/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3385
 [/us/pl/105/375/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F375%2Fs1
 

@@ -49,7 +49,7 @@
 
         (2) Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies identified in the most recent assessment prepared under [section 2505 of title 10][/us/usc/t10/s2505] or included in the most recent report submitted to the President under section 6683 1 of title 42.
 
-([Pub. L. 101–533, § 3][/us/pl/101/533/s3], Nov. 7, 1990, [104 Stat. 2344][/us/stat/104/2344]; [Pub. L. 102–484, div. A, title X, § 1054(f)][/us/pl/102/484/s1054/f], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 103–160, div. A, title XI, § 1182(d)(2)][/us/pl/103/160/s1182/d/2], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 105–261, div. A, title X, § 1069(d)(2)][/us/pl/105/261/s1069/d/2], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
+([Pub. L. 101–533][/us/pl/101/533], § 3, Nov. 7, 1990, [104 Stat. 2344][/us/stat/104/2344]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(f), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(d)(2), Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(d)(2), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 
  __References in Text__ 
 
@@ -85,13 +85,13 @@
 [/us/usc/t26/s6039C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6039C
 [/us/usc/t42/s7267/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7267%2F8
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
-[/us/pl/101/533/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs3
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2344
-[/us/pl/102/484/s1054/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Ff
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/103/160/s1182/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fd%2F2
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1773
-[/us/pl/105/261/s1069/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fd%2F2
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2059

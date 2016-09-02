@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of the Convention and this chapter.
 
-([Pub. L. 100–300, § 12][/us/pl/100/300/s12], Apr. 29, 1988, [102 Stat. 442][/us/stat/102/442].)
+([Pub. L. 100–300][/us/pl/100/300], § 12, Apr. 29, 1988, [102 Stat. 442][/us/stat/102/442].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/300/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs12
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F442
 [/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437

@@ -175,7 +175,7 @@
 
             Encouraging private investment and voluntary private assistance, using a variety of means including a SEED Information Center System and the provision by the Department of Defense of transportation for private nonfinancial contributions.
 
-([Pub. L. 101–179, § 2][/us/pl/101/179/s2], Nov. 28, 1989, [103 Stat. 1299][/us/stat/103/1299]; [Pub. L. 102–549, title II, § 202(e)][/us/pl/102/549/s202/e], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658]; [Pub. L. 105–206, title V, § 5003(b)(6)][/us/pl/105/206/s5003/b/6], July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
+([Pub. L. 101–179][/us/pl/101/179], § 2, Nov. 28, 1989, [103 Stat. 1299][/us/stat/103/1299]; [Pub. L. 102–549, title II][/us/pl/102/549/tII], § 202(e), Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658]; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5003(b)(6), July 22, 1998, [112 Stat. 790][/us/stat/112/790].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–179, § 1(a)][/us/pl/101/179/s1/a], Nov. 28, 1989, [103 Stat. 1298][/us/stat/103/1298], provided that: 
+[Pub. L. 101–179][/us/pl/101/179], § 1(a), Nov. 28, 1989, [103 Stat. 1298][/us/stat/103/1298], provided that: 
 
 > “This Act \[enacting this chapter and [section 2185 of this title][/us/usc/t22/s2185], amending sections 2184 and 2199 of this title, [section 1757 of Title 12][/us/usc/t12/s1757], Banks and Banking, and [section 2462 of Title 19][/us/usc/t19/s2462], Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, [section 635 of Title 12][/us/usc/t12/s635], and [section 7872 of Title 26][/us/usc/t26/s7872], Internal Revenue Code, and amending provisions set out as a note under [section 7872 of Title 26][/us/usc/t26/s7872]\] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
 
@@ -224,11 +224,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 [/us/usc/t19/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2432
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/101/179/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs2
+[/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1299
-[/us/pl/102/549/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fe
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
-[/us/pl/105/206/s5003/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5003%2Fb%2F6
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F790
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
@@ -237,7 +237,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
-[/us/pl/101/179/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs1%2Fa
+[/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
 [/us/usc/t22/s2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2185
 [/us/usc/t12/s1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1757

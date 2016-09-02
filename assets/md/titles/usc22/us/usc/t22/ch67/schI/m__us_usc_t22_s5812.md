@@ -43,7 +43,7 @@
 
         Any agency managing and implementing an assistance program for the independent states of the former Soviet Union shall be accountable for any funds made available to it for such program.
 
-([Pub. L. 102–511, title I, § 102][/us/pl/102/511/s102], Oct. 24, 1992, [106 Stat. 3322][/us/stat/106/3322]; [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(c)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–126.)
+([Pub. L. 102–511, title I][/us/pl/102/511/tI], § 102, Oct. 24, 1992, [106 Stat. 3322][/us/stat/106/3322]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 596(c)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–126.)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Russian and Ukrainian Business Management Education__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, subtitle B\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–448, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title IV, subtitle B\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–448, provided that:
 
 > “SEC. 421. __PURPOSE.__ 
 
@@ -173,7 +173,7 @@
 
  __Restriction on Assistance to Azerbaijan__ 
 
-[Pub. L. 107–115, title II][/us/pl/107/115] \[(g)(2)–(6)\], Jan. 10, 2002, [115 Stat. 2129][/us/stat/115/2129], provided that:
+[Pub. L. 107–115, title II][/us/pl/107/115/tII] \[(g)(2)–(6)\], Jan. 10, 2002, [115 Stat. 2129][/us/stat/115/2129], provided that:
 
 >     “(2)
 
@@ -205,13 +205,13 @@
 
     \[Functions of President under subsecs. (g)(4) and (6) of title II of [Pub. L. 107–115][/us/pl/107/115], set out above, delegated to Secretary of State by section 1–100(a)(13) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].\]
 
-[Pub. L. 102–511, title IX, § 907][/us/pl/102/511/s907], Oct. 24, 1992, [106 Stat. 3357][/us/stat/106/3357], provided that: 
+[Pub. L. 102–511, title IX][/us/pl/102/511/tIX], § 907, Oct. 24, 1992, [106 Stat. 3357][/us/stat/106/3357], provided that: 
 
 > “United States assistance under this or any other Act (other than assistance under title V of this Act \[[22 U.S.C. 5851][/us/usc/t22/s5851] et seq.\]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
 
  __Support for Macroeconomic Stabilization in Independent States of Former Soviet Union__ 
 
-[Pub. L. 102–511, title X, § 1004][/us/pl/102/511/s1004], Oct. 24, 1992, [106 Stat. 3360][/us/stat/106/3360], provided that:
+[Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1004, Oct. 24, 1992, [106 Stat. 3360][/us/stat/106/3360], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -227,11 +227,11 @@
 
  __Report on Debt of Former Soviet Union Held by Commercial Financial Institutions__ 
 
-    [Pub. L. 102–511, title X, § 1007][/us/pl/102/511/s1007], Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361], directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
+    [Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1007, Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361], directed Secretary of the Treasury, using information available from the International Monetary Fund, the International Bank for Reconstruction and Development, and other appropriate international financial institutions, to report to Congress, not later than one year after Oct. 24, 1992, on the debt incurred by the former Soviet Union that is held by commercial financial institutions outside the independent states of the former Soviet Union that are obligated on such debt.
 
  __Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act__ 
 
-Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, § 3, Dec. 12, 1996, 61 F.R. 66187; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; Ex. Ord. No. 13118, § 10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, § 3, Dec. 12, 1996, 61 F.R. 66187; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; Ex. Ord. No. 13118, § 10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
 
     By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act ([Public Law 102–511][/us/pl/102/511]) (the “Act”) \[[22 U.S.C. 5801][/us/usc/t22/s5801] et seq.\], the Foreign Assistance Act of 1961, as amended (the “Foreign Assistance Act”) \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 ([Public Law 102–391][/us/pl/102/391]) \[see Tables for classification\], and [section 301 of title 3][/us/usc/t3/s301], United States Code, it is hereby ordered as follows:
 
@@ -287,7 +287,7 @@ Sec. 2. Coordinator. There are delegated to the Coordinator designated in accord
 
                               William J. Clinton.
 
-    \[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792].\]
+    \[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1422(a)(4), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792].\]
 
  __Waiver of Restriction on Assistance to Azerbaijan__ 
 
@@ -328,9 +328,9 @@ Prior waivers of [section 907 of Pub. L. 102–511][/us/pl/102/511/s907] were co
 
 [/us/usc/t22/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2296
 [/us/usc/t22/s2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2296
-[/us/pl/102/511/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs102
+[/us/pl/102/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtI
 [/us/stat/106/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3322
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3320
@@ -338,21 +338,21 @@ Prior waivers of [section 907 of Pub. L. 102–511][/us/pl/102/511/s907] were co
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115
+[/us/pl/107/115/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2FtII
 [/us/stat/115/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2129
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/pl/107/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/102/511/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs907
+[/us/pl/102/511/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIX
 [/us/stat/106/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3357
 [/us/usc/t22/s5851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5851
-[/us/pl/102/511/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1004
+[/us/pl/102/511/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtX
 [/us/stat/106/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3360
-[/us/pl/102/511/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1007
+[/us/pl/102/511/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtX
 [/us/stat/106/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3361
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-792
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
@@ -381,7 +381,7 @@ Prior waivers of [section 907 of Pub. L. 102–511][/us/pl/102/511/s907] were co
 [/us/stat/106/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1691
 [/us/usc/t22/s5812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5812%2Fa
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-792
 [/us/pl/107/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115
 [/us/pl/107/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115

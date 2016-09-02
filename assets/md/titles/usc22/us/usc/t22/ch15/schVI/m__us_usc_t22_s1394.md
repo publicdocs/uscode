@@ -33,7 +33,7 @@
 
         (4) Administrative supervision and control over any properties acquired or designated by the President of the United States pursuant to this subsection, and over the official residences in the Philippines of the High Commissioner, shall, on and after July 4, 1946, be exercised by the Secretary of State, in accordance with Acts of Congress relating to property held by the United States in foreign countries for official establishments.
 
-([Mar. 24, 1934, ch. 84, § 10][/us/act/1934-03-24/ch84/s10], [48 Stat. 463][/us/stat/48/463]; [Aug. 7, 1939, ch. 502, § 3][/us/act/1939-08-07/ch502/s3], [53 Stat. 1230][/us/stat/53/1230].)
+([Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 10, [48 Stat. 463][/us/stat/48/463]; [Aug. 7, 1939, ch. 502][/us/act/1939-08-07/ch502], § 3, [53 Stat. 1230][/us/stat/53/1230].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Effective Date of 1939 Amendment__ 
 
-    [Act Aug. 7, 1939, ch. 502, § 7][/us/act/1939-08-07/ch502/s7], [53 Stat. 1233][/us/stat/53/1233], provided that act Aug. 7, 1939, should become effective on Jan. 1, 1940, if certain conditions were fulfilled. The conditions were fulfilled and section became effective on said date.
+    [Act Aug. 7, 1939, ch. 502][/us/act/1939-08-07/ch502], § 7, [53 Stat. 1233][/us/stat/53/1233], provided that act Aug. 7, 1939, should become effective on Jan. 1, 1940, if certain conditions were fulfilled. The conditions were fulfilled and section became effective on said date.
 
  __Independence Date Advanced__ 
 
-    [Act June 29, 1944, ch. 322, § 3][/us/act/1944-06-29/ch322/s3], [58 Stat. 626][/us/stat/58/626], provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
+    [Act June 29, 1944, ch. 322][/us/act/1944-06-29/ch322], § 3, [58 Stat. 626][/us/stat/58/626], provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
 
  __Proc. No. 2695. Philippine Independence__ 
 
@@ -71,9 +71,9 @@
 ----------
 
 [/us/usc/t22/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1391
-[/us/act/1934-03-24/ch84/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs10
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F463
-[/us/act/1939-08-07/ch502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch502%2Fs3
+[/us/act/1939-08-07/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch502
 [/us/stat/53/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1230
 [/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F456
@@ -81,9 +81,9 @@
 [/us/usc/t22/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1391
 [/us/act/1933-01-17/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11
 [/us/stat/47/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F768
-[/us/act/1939-08-07/ch502/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch502%2Fs7
+[/us/act/1939-08-07/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch502
 [/us/stat/53/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1233
-[/us/act/1944-06-29/ch322/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-29%2Fch322%2Fs3
+[/us/act/1944-06-29/ch322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-29%2Fch322
 [/us/stat/58/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F626
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 

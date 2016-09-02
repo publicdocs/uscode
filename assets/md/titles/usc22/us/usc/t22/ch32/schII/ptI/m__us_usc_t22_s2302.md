@@ -17,7 +17,7 @@
 
     Defense articles and defense services to any country shall be furnished solely for internal security (including for antiterrorism and nonproliferation purposes), for legitimate self-defense, to permit the recipient country to participate in regional or collective arrangements or measures consistent with the Charter of the United Nations, or otherwise to permit the recipient country to participate in collective measures requested by the United Nations for the purpose of maintaining or restoring international peace and security, or for the purpose of assisting foreign military forces in less developed friendly countries (or the voluntary efforts of personnel of the Armed Forces of the United States in such countries) to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries. It is the sense of the Congress that such foreign military forces should not be maintained or established solely for civic action activities and that such civic action activities not significantly detract from the capability of the military forces to perform their military missions and be coordinated with and form part of the total economic and social development effort.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 502, formerly § 505(a), Sept. 4, 1961, [75 Stat. 436][/us/stat/75/436]; [Pub. L. 88–205][/us/pl/88/205], pt. II, § 202(b), Dec. 16, 1963, [77 Stat. 384][/us/stat/77/384]; [Pub. L. 89–171][/us/pl/89/171], pt. II, § 201(c), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; renumbered and amended [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(d), Nov. 14, 1967, [81 Stat. 456][/us/stat/81/456]; [Pub. L. 106–280, title VII, § 701][/us/pl/106/280/s701], Oct. 6, 2000, [114 Stat. 861][/us/stat/114/861].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 502, formerly § 505(a), Sept. 4, 1961, [75 Stat. 436][/us/stat/75/436]; [Pub. L. 88–205][/us/pl/88/205], pt. II, § 202(b), Dec. 16, 1963, [77 Stat. 384][/us/stat/77/384]; [Pub. L. 89–171][/us/pl/89/171], pt. II, § 201(c), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; renumbered and amended [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(d), Nov. 14, 1967, [81 Stat. 456][/us/stat/81/456]; [Pub. L. 106–280, title VII][/us/pl/106/280/tVII], § 701, Oct. 6, 2000, [114 Stat. 861][/us/stat/114/861].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Transfer to Republic of Korea of Defense Articles; Reimbursement for Transfer__ 
 
-    [Pub. L. 91–652, § 3][/us/pl/91/652/s3], Jan. 5, 1971, [84 Stat. 1942][/us/stat/84/1942], authorized the President until June 30, 1972, to transfer to the Republic of Korea such Armed Forces defense articles located in Korea on July 1, 1970 as he determined appropriate and provided that no funds appropriated under [Pub. L. 91–652][/us/pl/91/652] or this chapter were to be available for reimbursement to any Government agency for any such transfers of defense articles.
+    [Pub. L. 91–652][/us/pl/91/652], § 3, Jan. 5, 1971, [84 Stat. 1942][/us/stat/84/1942], authorized the President until June 30, 1972, to transfer to the Republic of Korea such Armed Forces defense articles located in Korea on July 1, 1970 as he determined appropriate and provided that no funds appropriated under [Pub. L. 91–652][/us/pl/91/652] or this chapter were to be available for reimbursement to any Government agency for any such transfers of defense articles.
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/stat/79/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F656
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F456
-[/us/pl/106/280/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs701
+[/us/pl/106/280/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtVII
 [/us/stat/114/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F861
 [/us/usc/t22/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2313
 [/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
@@ -61,7 +61,7 @@
 [/us/usc/t22/s2319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2319%2Fc
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/usc/t22/s2319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2319%2Fc
-[/us/pl/91/652/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652%2Fs3
+[/us/pl/91/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652
 [/us/stat/84/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1942
 [/us/pl/91/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652
 

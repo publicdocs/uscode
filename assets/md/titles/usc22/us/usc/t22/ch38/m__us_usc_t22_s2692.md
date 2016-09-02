@@ -25,11 +25,11 @@
 
     (b) Of the funds appropriated for salaries and expenses for the Department of State, not to exceed $250,000 shall be available in any fiscal year for compensation under this section to such organizations and persons.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 22, as added [Pub. L. 95–105, title I, § 113(a)][/us/pl/95/105/s113/a], Aug. 17, 1977, [91 Stat. 848][/us/stat/91/848]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 22, as added [Pub. L. 95–105, title I][/us/pl/95/105/tI], § 113(a), Aug. 17, 1977, [91 Stat. 848][/us/stat/91/848]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
 
  __Effective Date__ 
 
-[Pub. L. 95–105, title I, § 113(b)][/us/pl/95/105/s113/b], Aug. 17, 1977, [91 Stat. 849][/us/stat/91/849], provided that: 
+[Pub. L. 95–105, title I][/us/pl/95/105/tI], § 113(b), Aug. 17, 1977, [91 Stat. 849][/us/stat/91/849], provided that: 
 
 > “Subsection (a) \[enacting this section\] shall become effective on October 1, 1977.”
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/95/105/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs113%2Fa
+[/us/pl/95/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtI
 [/us/stat/91/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F848
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/95/105/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs113%2Fb
+[/us/pl/95/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtI
 [/us/stat/91/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F849
 
 

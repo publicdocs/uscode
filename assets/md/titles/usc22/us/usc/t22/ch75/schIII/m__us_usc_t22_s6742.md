@@ -27,7 +27,7 @@
 
         The percent concentration of a chemical in a substance shall be measured on the basis of volume or total weight, which measurement yields the lesser percent.
 
-([Pub. L. 105–277, div. I, title IV, § 402][/us/pl/105/277/s402], Oct. 21, 1998, [112 Stat. 2681–881][/us/stat/112/2681-881].)
+([Pub. L. 105–277, div. I, title IV][/us/pl/105/277/dI/tIV], § 402, Oct. 21, 1998, [112 Stat. 2681–881][/us/stat/112/2681-881].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs402
+[/us/pl/105/277/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIV
 [/us/stat/112/2681-881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-881
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

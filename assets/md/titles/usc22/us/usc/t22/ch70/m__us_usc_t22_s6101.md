@@ -43,7 +43,7 @@
 
         The George P. Shultz National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japanese language training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute’s carrying out its other responsibilities under law.
 
-([Pub. L. 103–236, title II, § 252][/us/pl/103/236/s252], Apr. 30, 1994, [108 Stat. 428][/us/stat/108/428]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
+([Pub. L. 103–236, title II][/us/pl/103/236/tII], § 252, Apr. 30, 1994, [108 Stat. 428][/us/stat/108/428]; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–236, title II, § 251][/us/pl/103/236/s251], Apr. 30, 1994, [108 Stat. 428][/us/stat/108/428], provided that: 
+[Pub. L. 103–236, title II][/us/pl/103/236/tII], § 251, Apr. 30, 1994, [108 Stat. 428][/us/stat/108/428], provided that: 
 
 > “This part \[part C (§§ 251–257) of title II of [Pub. L. 103–236][/us/pl/103/236], enacting this chapter\] may be cited as the ‘Mike Mansfield Fellowship Act’.”
 
@@ -68,12 +68,12 @@
 
 [/us/usc/t22/s6102/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6102%2F5%2FC
 [/us/usc/t22/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6102
-[/us/pl/103/236/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs252
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F428
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
-[/us/pl/103/236/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs251
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F428
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

@@ -17,7 +17,7 @@
 
     Not later than 180 days after August 10, 2012, and not later than September 1 of each year thereafter, the Secretary of State shall submit to the appropriate congressional committees a report listing the international organizations of which Iran is a member and detailing the amount that the United States contributes to each such organization on an annual basis.
 
-([Pub. L. 112–158, title V, § 506][/us/pl/112/158/s506], Aug. 10, 2012, [126 Stat. 1263][/us/stat/126/1263].)
+([Pub. L. 112–158, title V][/us/pl/112/158/tV], § 506, Aug. 10, 2012, [126 Stat. 1263][/us/stat/126/1263].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs506
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1263
 
 

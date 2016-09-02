@@ -17,7 +17,7 @@
 
     The President shall direct the United States Executive Directors of such international financial institutions to take all appropriate actions to keep the salaries and benefits of the employees of such institutions to levels comparable to salaries and benefits of employees of private business and the United States Government in comparable positions.
 
-([Pub. L. 95–118, title VII, § 704][/us/pl/95/118/s704], Oct. 3, 1977, [91 Stat. 1071][/us/stat/91/1071].)
+([Pub. L. 95–118, title VII][/us/pl/95/118/tVII], § 704, Oct. 3, 1977, [91 Stat. 1071][/us/stat/91/1071].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/118/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs704
+[/us/pl/95/118/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtVII
 [/us/stat/91/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1071
 [/us/pl/95/118/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1001
 [/us/usc/t22/s282i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs282i

@@ -79,7 +79,7 @@
 
         This section shall take effect 12 months after August 23, 1988.
 
-([Pub. L. 100–418, title III, § 3502][/us/pl/100/418/s3502], Aug. 23, 1988, [102 Stat. 1386][/us/stat/102/1386].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3502, Aug. 23, 1988, [102 Stat. 1386][/us/stat/102/1386].)
 
 ----------
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/usc/t19/s2112/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112%2Fb%2F4%2FA
-[/us/pl/100/418/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3502
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1386
 
 

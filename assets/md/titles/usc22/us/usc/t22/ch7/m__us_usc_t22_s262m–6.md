@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s262m–5.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s262m–7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%936)
 
-## § 262m–6. Repealed. [Pub. L. 101–240, title V, § 541(d)(4)][/us/pl/101/240/s541/d/4], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518]
+## § 262m–6. Repealed. [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(4), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518]
 
-    Section, [Pub. L. 95–118, title XIII, § 1307][/us/pl/95/118/s1307], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134, required annual reports to Congress on environmental policies.
+    Section, [Pub. L. 95–118, title XIII][/us/pl/95/118/tXIII], § 1307, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134, required annual reports to Congress on environmental policies.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/101/240/s541/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F4
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
-[/us/pl/95/118/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1307
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/95/118/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIII
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 
 

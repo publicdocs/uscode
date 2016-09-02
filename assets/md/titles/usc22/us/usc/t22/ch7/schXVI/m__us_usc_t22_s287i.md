@@ -17,7 +17,7 @@
 
     There shall be deducted from the annual payment of the assessed share of the United States of the budget of the United Nations an amount equal to the corresponding annual installment of principal and interest due to the United States on account of the loan made pursuant to [section 287g of this title][/us/usc/t22/s287g].
 
-([Pub. L. 87–731, § 3][/us/pl/87/731/s3], Oct. 2, 1962, [76 Stat. 696][/us/stat/76/696].)
+([Pub. L. 87–731][/us/pl/87/731], § 3, Oct. 2, 1962, [76 Stat. 696][/us/stat/76/696].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s287g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287g
-[/us/pl/87/731/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731%2Fs3
+[/us/pl/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731
 [/us/stat/76/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F696
 [/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619

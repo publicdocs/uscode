@@ -31,7 +31,7 @@
 
         The term “person” as used in this section means an individual, partnership, corporation or association.
 
-([July 31, 1945, ch. 339, § 8][/us/act/1945-07-31/ch339/s8], [59 Stat. 515][/us/stat/59/515].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 8, [59 Stat. 515][/us/stat/59/515].)
 
  __Ex. Ord. No. 10033. Regulations Governing the Providing of Statistical Information to Intergovernmental Organizations__ 
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs8
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F515
 
 

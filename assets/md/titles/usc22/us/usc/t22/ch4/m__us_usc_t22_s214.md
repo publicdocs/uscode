@@ -25,7 +25,7 @@
 
         (3) The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
-([June 4, 1920, ch. 223, § 1][/us/act/1920-06-04/ch223/s1], [41 Stat. 750][/us/stat/41/750]; [Feb. 10, 1956, ch. 31][/us/act/1956-02-10/ch31], [70 Stat. 11][/us/stat/70/11]; [Pub. L. 90–428, § 2][/us/pl/90/428/s2], July 26, 1968, [82 Stat. 446][/us/stat/82/446]; [Pub. L. 92–14, § 1][/us/pl/92/14/s1], May 14, 1971, [85 Stat. 38][/us/stat/85/38]; [Pub. L. 93–417][/us/pl/93/417], Sept. 17, 1974, [88 Stat. 1151][/us/stat/88/1151]; [Pub. L. 97–241, title I, § 116(a)][/us/pl/97/241/s116/a], Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title IV, § 407\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–55; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 233(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–426; [Pub. L. 109–167, § 2][/us/pl/109/167/s2], Jan. 10, 2006, [119 Stat. 3578][/us/stat/119/3578]; [Pub. L. 109–210, § 1][/us/pl/109/210/s1], Mar. 24, 2006, [120 Stat. 319][/us/stat/120/319]; [Pub. L. 109–472, § 5][/us/pl/109/472/s5], Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555].)
+([June 4, 1920, ch. 223][/us/act/1920-06-04/ch223], § 1, [41 Stat. 750][/us/stat/41/750]; [Feb. 10, 1956, ch. 31][/us/act/1956-02-10/ch31], [70 Stat. 11][/us/stat/70/11]; [Pub. L. 90–428][/us/pl/90/428], § 2, July 26, 1968, [82 Stat. 446][/us/stat/82/446]; [Pub. L. 92–14][/us/pl/92/14], § 1, May 14, 1971, [85 Stat. 38][/us/stat/85/38]; [Pub. L. 93–417][/us/pl/93/417], Sept. 17, 1974, [88 Stat. 1151][/us/stat/88/1151]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 116(a), Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title IV, § 407\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–55; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 233(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–426; [Pub. L. 109–167][/us/pl/109/167], § 2, Jan. 10, 2006, [119 Stat. 3578][/us/stat/119/3578]; [Pub. L. 109–210][/us/pl/109/210], § 1, Mar. 24, 2006, [120 Stat. 319][/us/stat/120/319]; [Pub. L. 109–472][/us/pl/109/472], § 5, Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 233(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–426, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 233(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–426, provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 216 of this title][/us/usc/t22/s216]\] shall take effect on the date of issuance of final regulations under section 1 of the Passport Act of June 4, 1920 \[[22 U.S.C. 214][/us/usc/t22/s214]\], as amended by subsection (a).”
 
@@ -59,7 +59,7 @@
 
  __Effective and Termination Date of 1971 Amendment__ 
 
-[Pub. L. 92–14, § 2][/us/pl/92/14/s2], May 14, 1971, [85 Stat. 38][/us/stat/85/38], as amended by [Pub. L. 93–126, § 8][/us/pl/93/126/s8], Oct. 18, 1973, [87 Stat. 453][/us/stat/87/453], provided that: 
+[Pub. L. 92–14][/us/pl/92/14], § 2, May 14, 1971, [85 Stat. 38][/us/stat/85/38], as amended by [Pub. L. 93–126][/us/pl/93/126], § 8, Oct. 18, 1973, [87 Stat. 453][/us/stat/87/453], provided that: 
 
 > “The amendment made by this Act \[amending this section\] shall become effective on the date of enactment \[May 14, 1971\] and shall continue in effect until June 30, 1974.”
 
@@ -69,25 +69,25 @@
 
  __Extension of Authority__ 
 
-[Pub. L. 114–113, div. K, title VII, § 7034(k)(1)][/us/pl/114/113/s7034/k/1], Dec. 18, 2015, [129 Stat. 2764][/us/stat/129/2764], provided that: 
+[Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7034(k)(1), Dec. 18, 2015, [129 Stat. 2764][/us/stat/129/2764], provided that: 
 
 > “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)][/us/usc/t22/s214/b/2]) shall be applied by substituting ‘September 30, 2016’ for ‘September 30, 2010’.”
 
 Prior extensions were contained in the following prior acts:
 
-    [Pub. L. 113–235, div. J, title VII, § 7034][/us/pl/113/235/s7034](l)(1), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625].
+    [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7034(l)(1), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625].
 
-    [Pub. L. 113–76, div. K, title VII, § 7034(m)(1)][/us/pl/113/76/s7034/m/1], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
+    [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7034(m)(1), Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
 
-    [Pub. L. 112–74, div. I, title VII, § 7034(m)(1)][/us/pl/112/74/s7034/m/1], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
+    [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(m)(1), Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
  __Deposit of Receipts From Expedited Passport Processing__ 
 
-    [Pub. L. 103–317, title V][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1760][/us/stat/108/1760], provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection and shall be available until expended”.
+    [Pub. L. 103–317, title V][/us/pl/103/317/tV], Aug. 26, 1994, [108 Stat. 1760][/us/stat/108/1760], provided in part “That hereafter all receipts received from a new charge from expedited passport processing shall be deposited in this account as an offsetting collection and shall be available until expended”.
 
  __Information From United States Passports__ 
 
-[Pub. L. 101–604, title II, § 203(d)][/us/pl/101/604/s203/d], Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083], provided that: 
+[Pub. L. 101–604, title II][/us/pl/101/604/tII], § 203(d), Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083], provided that: 
 
 > “Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended.”
 
@@ -100,27 +100,27 @@ Prior extensions were contained in the following prior acts:
 
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t8/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1185
-[/us/act/1920-06-04/ch223/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch223%2Fs1
+[/us/act/1920-06-04/ch223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch223
 [/us/stat/41/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F750
 [/us/act/1956-02-10/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-10%2Fch31
 [/us/stat/70/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F11
-[/us/pl/90/428/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs2
+[/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/stat/82/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F446
-[/us/pl/92/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F14%2Fs1
+[/us/pl/92/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F14
 [/us/stat/85/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F38
 [/us/pl/93/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F417
 [/us/stat/88/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1151
-[/us/pl/97/241/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs116%2Fa
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F279
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F167%2Fs2
+[/us/pl/109/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F167
 [/us/stat/119/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3578
-[/us/pl/109/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F210%2Fs1
+[/us/pl/109/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F210
 [/us/stat/120/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F319
-[/us/pl/109/472/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs5
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3555
 [/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/pl/109/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F167
@@ -131,29 +131,29 @@ Prior extensions were contained in the following prior acts:
 [/us/pl/93/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F417
 [/us/pl/92/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F14
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs216
 [/us/usc/t22/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs214
-[/us/pl/92/14/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F14%2Fs2
+[/us/pl/92/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F14
 [/us/stat/85/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F38
-[/us/pl/93/126/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs8
+[/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126
 [/us/stat/87/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F453
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/90/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs4
 [/us/usc/t22/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs217a
-[/us/pl/114/113/s7034/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fk%2F1
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2764
 [/us/usc/t22/s214/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs214%2Fb%2F2
-[/us/pl/113/235/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2625
-[/us/pl/113/76/s7034/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F1
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
-[/us/pl/112/74/s7034/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F1
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtV
 [/us/stat/108/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1760
-[/us/pl/101/604/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs203%2Fd
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3083
 
 

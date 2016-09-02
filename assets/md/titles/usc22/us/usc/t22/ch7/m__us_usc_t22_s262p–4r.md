@@ -27,13 +27,13 @@
 
         For purposes of this section, the term “international financial institution” means an institution described in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2].
 
-([Pub. L. 107–56, title III, § 360][/us/pl/107/56/s360], Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329]; [Pub. L. 108–458, title VI, § 6202][/us/pl/108/458/s6202](l), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746].)
+([Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 360, Oct. 26, 2001, [115 Stat. 329][/us/stat/115/329]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6202(l), Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 6202][/us/pl/108/458/s6202](l)(1), inserted “the” after “utilization of the funds of”.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 6202(l)(1), inserted “the” after “utilization of the funds of”.
 
-    Subsec. (b). [Pub. L. 108–458, § 6202][/us/pl/108/458/s6202](l)(2), substituted “at such institution” for “at such institutions”.
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 6202(l)(2), substituted “at such institution” for “at such institutions”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/107/56/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs360
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F329
-[/us/pl/108/458/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3746
-[/us/pl/108/458/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202
-[/us/pl/108/458/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6202
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

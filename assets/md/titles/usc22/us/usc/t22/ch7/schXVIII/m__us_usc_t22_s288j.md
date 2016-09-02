@@ -17,7 +17,7 @@
 
     For purposes of the International Organizations Immunities Act ([22 U.S.C. 288][/us/usc/t22/s288] and following), the International Development Law Institute shall be considered to be a public international organization in which the United States participates under the authority of an Act of Congress authorizing such participation.
 
-([Pub. L. 102–511, title VIII, § 805][/us/pl/102/511/s805], Oct. 24, 1992, [106 Stat. 3353][/us/stat/106/3353].)
+([Pub. L. 102–511, title VIII][/us/pl/102/511/tVIII], § 805, Oct. 24, 1992, [106 Stat. 3353][/us/stat/106/3353].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
-[/us/pl/102/511/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs805
+[/us/pl/102/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVIII
 [/us/stat/106/3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3353
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669

@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “international financial institution” shall include the institutions identified in section 532(b) of this Act.
 
-([Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 576\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–168; [Pub. L. 105–118, title V, § 572][/us/pl/105/118/s572], Nov. 26, 1997, [111 Stat. 2430][/us/stat/111/2430].)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 576\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–168; [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 572, Nov. 26, 1997, [111 Stat. 2430][/us/stat/111/2430].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–118, § 572(a)][/us/pl/105/118/s572/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “does not have in place a functioning system for a civilian audit of all receipts and expenditures that fund activities of the armed forces and security forces;”.
+    1997—Subsec. (a)(1). [Pub. L. 105–118][/us/pl/105/118], § 572(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “does not have in place a functioning system for a civilian audit of all receipts and expenditures that fund activities of the armed forces and security forces;”.
 
-    Subsec. (a)(2). [Pub. L. 105–118, § 572(b)][/us/pl/105/118/s572/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “has not provided a summary of a current audit to the institution.”
+    Subsec. (a)(2). [Pub. L. 105–118][/us/pl/105/118], § 572(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “has not provided a summary of a current audit to the institution.”
 
 ----------
 
@@ -46,13 +46,13 @@
 ----------
 ----------
 
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/105/118/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs572
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2430
 [/us/pl/104/208/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs532%2Fb
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/105/118/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs572%2Fa
-[/us/pl/105/118/s572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs572%2Fb
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
 
 

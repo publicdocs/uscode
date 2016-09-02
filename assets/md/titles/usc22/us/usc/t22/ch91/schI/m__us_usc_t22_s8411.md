@@ -137,7 +137,7 @@
 
         For fiscal years 2010 through 2014, the President shall notify the appropriate congressional committees not later than 15 days before obligating any assistance under this section as budgetary support to the Government of Pakistan or any element of the Government of Pakistan and shall include in such notification a description of the purpose and conditions attached to any such budgetary support.
 
-([Pub. L. 111–73, title I, § 101][/us/pl/111/73/s101], Oct. 15, 2009, [123 Stat. 2064][/us/stat/123/2064].)
+([Pub. L. 111–73, title I][/us/pl/111/73/tI], § 101, Oct. 15, 2009, [123 Stat. 2064][/us/stat/123/2064].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 [/us/usc/t22/s8412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8412
 [/us/usc/t22/s8412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8412
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/111/73/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs101
+[/us/pl/111/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtI
 [/us/stat/123/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2064
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

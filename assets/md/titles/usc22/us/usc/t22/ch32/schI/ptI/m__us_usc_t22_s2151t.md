@@ -35,7 +35,7 @@
 
         The President shall establish an interagency Development Loan Committee, consisting of such officers from such agencies of the United States Government as he may determine, which shall, under the direction of the President, establish standards and criteria for lending operations under this part in accordance with the foreign and financial policies of the United States. Except in the case of officers serving in positions to which they were appointed by the President by and with the advice and consent of the Senate, officers assigned to the Committee shall be so assigned by the President by and with the advice and consent of the Senate.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 122, as added [Pub. L. 95–424, title I, § 102(a)][/us/pl/95/424/s102/a], (b)(1), (c)(1), (d), Oct. 6, 1978, [92 Stat. 940][/us/stat/92/940], 941.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 122, as added [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(a), (b)(1), (c)(1), (d), Oct. 6, 1978, [92 Stat. 940][/us/stat/92/940], 941.)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/424/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fa
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F940
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

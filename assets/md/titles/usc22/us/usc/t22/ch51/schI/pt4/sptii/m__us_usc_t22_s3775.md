@@ -17,7 +17,7 @@
 
     The Commission, by mutual agreement, compromise, or otherwise, may adjust and determine the amounts of the respective awards of damages pursuant to this subpart. Such amounts may be paid only out of money allotted for the maintenance and operation of the Panama Canal. Acceptance by a claimant of the amount awarded to him shall be deemed to be in full settlement of such claim against the Government of the United States.
 
-([Pub. L. 96–70, title I, § 1415][/us/pl/96/70/s1415], Sept. 27, 1979, [93 Stat. 486][/us/stat/93/486]; [Pub. L. 99–209, § 4][/us/pl/99/209/s4], Dec. 23, 1985, [99 Stat. 1717][/us/stat/99/1717]; [Pub. L. 104–106, div. C, title XXXV, § 3529(5)][/us/pl/104/106/s3529/5], Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1415, Sept. 27, 1979, [93 Stat. 486][/us/stat/93/486]; [Pub. L. 99–209][/us/pl/99/209], § 4, Dec. 23, 1985, [99 Stat. 1717][/us/stat/99/1717]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3529(5), Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1415
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F486
-[/us/pl/99/209/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209%2Fs4
+[/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209
 [/us/stat/99/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1717
-[/us/pl/104/106/s3529/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3529%2F5
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F642
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F209

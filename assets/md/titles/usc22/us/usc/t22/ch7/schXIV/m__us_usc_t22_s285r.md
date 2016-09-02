@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution to the special funds, there is hereby authorized to be appropriated without fiscal year limitation $50,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 89–369, § 21][/us/pl/89/369/s21], as added [Pub. L. 93–537][/us/pl/93/537], Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735].)
+([Pub. L. 89–369][/us/pl/89/369], § 21, as added [Pub. L. 93–537][/us/pl/93/537], Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/89/369/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs21
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/pl/93/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F537
 [/us/stat/88/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1735
 

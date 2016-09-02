@@ -107,7 +107,7 @@
 
         With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-([Pub. L. 101–246, title I, § 136][/us/pl/101/246/s136], Feb. 16, 1990, [104 Stat. 33][/us/stat/104/33]; [Pub. L. 103–236, title I, § 141][/us/pl/103/236/s141], Apr. 30, 1994, [108 Stat. 401][/us/stat/108/401]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2210, Oct. 21, 1998, [112 Stat. 2681–811][/us/stat/112/2681-811].)
+([Pub. L. 101–246, title I][/us/pl/101/246/tI], § 136, Feb. 16, 1990, [104 Stat. 33][/us/stat/104/33]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 141, Apr. 30, 1994, [108 Stat. 401][/us/stat/108/401]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2210, Oct. 21, 1998, [112 Stat. 2681–811][/us/stat/112/2681-811].)
 
  __Codification__ 
 
@@ -115,19 +115,19 @@
 
  __Amendments__ 
 
-    1998—Subsec. (c)(3). [Pub. L. 105–277, § 2210(1)][/us/pl/105/277/s2210/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
+    1998—Subsec. (c)(3). [Pub. L. 105–277][/us/pl/105/277], § 2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
 
-    Subsec. (c)(5). [Pub. L. 105–277, § 2210(2)][/us/pl/105/277/s2210/2], inserted “and” at end.
+    Subsec. (c)(5). [Pub. L. 105–277][/us/pl/105/277], § 2210(2), inserted “and” at end.
 
-    Subsec. (c)(6). [Pub. L. 105–277, § 2210(3)][/us/pl/105/277/s2210/3], substituted period for “; and” at end.
+    Subsec. (c)(6). [Pub. L. 105–277][/us/pl/105/277], § 2210(3), substituted period for “; and” at end.
 
-    Subsec. (c)(7). [Pub. L. 105–277, § 2210(4)][/us/pl/105/277/s2210/4], struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
+    Subsec. (c)(7). [Pub. L. 105–277][/us/pl/105/277], § 2210(4), struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
 
-    1994—Subsec. (c). [Pub. L. 103–236, § 141(1)][/us/pl/103/236/s141/1], added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
+    1994—Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
 
-    Subsec. (d)(1)(D). [Pub. L. 103–236, § 141(2)(A)][/us/pl/103/236/s141/2/A], substituted “or” for “and”.
+    Subsec. (d)(1)(D). [Pub. L. 103–236][/us/pl/103/236], § 141(2)(A), substituted “or” for “and”.
 
-    Subsec. (d)(4). [Pub. L. 103–236, § 141(2)(B)][/us/pl/103/236/s141/2/B]–(D), added par. (4).
+    Subsec. (d)(4). [Pub. L. 103–236][/us/pl/103/236], § 141(2)(B)–(D), added par. (4).
 
  __Authority of Secretary of State__ 
 
@@ -140,19 +140,19 @@
 ----------
 ----------
 
-[/us/pl/101/246/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs136
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F33
-[/us/pl/103/236/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs141
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F401
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-811
-[/us/pl/105/277/s2210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2210%2F1
-[/us/pl/105/277/s2210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2210%2F2
-[/us/pl/105/277/s2210/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2210%2F3
-[/us/pl/105/277/s2210/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2210%2F4
-[/us/pl/103/236/s141/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs141%2F1
-[/us/pl/103/236/s141/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs141%2F2%2FA
-[/us/pl/103/236/s141/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs141%2F2%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a

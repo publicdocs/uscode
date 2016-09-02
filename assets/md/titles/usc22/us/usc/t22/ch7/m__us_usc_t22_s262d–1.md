@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that, where other means have proven ineffective in promoting international human rights, and except where the President determines that the cause of international human rights is served more effectively by actions other than voting against such assistance or where the assistance is directed to programs that serve the basic needs of the impoverished majority of the country in question, United States representatives to the International Bank for Reconstruction and Development, the International Development Association, the African Development Fund, the Asian Development Bank, and the Inter-American Development Bank should oppose loans and other financial or technical assistance to any country that persists in a systematic pattern of gross violations of fundamental human rights.
 
-([Pub. L. 95–148, title V, § 507][/us/pl/95/148/s507], Oct. 31, 1977, [91 Stat. 1240][/us/stat/91/1240].)
+([Pub. L. 95–148, title V][/us/pl/95/148/tV], § 507, Oct. 31, 1977, [91 Stat. 1240][/us/stat/91/1240].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/148/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148%2Fs507
+[/us/pl/95/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148%2FtV
 [/us/stat/91/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1240
 
 

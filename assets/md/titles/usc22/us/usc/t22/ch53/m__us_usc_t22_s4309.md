@@ -29,11 +29,11 @@
 
         including any real property of such an organization or mission and including the personnel of such an organization or mission.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 209, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 289][/us/stat/96/289].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 209, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 289][/us/stat/96/289].)
 
  __References in Text__ 
 
-    The International Organizations Immunities Act, referred to in subsec. (b)(1), is [act Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, [59 Stat. 669][/us/stat/59/669], as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under [section 288 of this title][/us/usc/t22/s288] and Tables.
+    The International Organizations Immunities Act, referred to in subsec. (b)(1), is [act Dec. 29, 1945, ch. 652, title I][/us/act/1945-12-29/ch652/tI], [59 Stat. 669][/us/stat/59/669], as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under [section 288 of this title][/us/usc/t22/s288] and Tables.
 
 ----------
 
@@ -47,9 +47,9 @@
 [/us/usc/t22/s4304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4304%2Fb
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F289
-[/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
+[/us/act/1945-12-29/ch652/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652%2FtI
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 

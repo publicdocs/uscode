@@ -39,7 +39,7 @@
 
         The Members of the Commission may, with the approval of the Commission, conduct such travel as is necessary to carry out the purpose of this subchapter. Each trip must be approved by a majority of the Commission. This provision shall not apply to the Ambassador-at-Large, whose travel shall not require approval by the Commission.
 
-([Pub. L. 105–292, title II, § 203][/us/pl/105/292/s203], as added [Pub. L. 106–55, § 1(b)(3)][/us/pl/106/55/s1/b/3], Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 203, as added [Pub. L. 106–55][/us/pl/106/55], § 1(b)(3), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
 
  __References in Text__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/105/292/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs203
-[/us/pl/106/55/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F3
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F401
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787

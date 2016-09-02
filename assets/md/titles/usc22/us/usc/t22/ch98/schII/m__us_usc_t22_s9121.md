@@ -85,7 +85,7 @@
 
             (C) the national security interests of the United States.
 
-([Pub. L. 113–150, title II, § 201][/us/pl/113/150/s201], Aug. 8, 2014, [128 Stat. 1817][/us/stat/128/1817].)
+([Pub. L. 113–150, title II][/us/pl/113/150/tII], § 201, Aug. 8, 2014, [128 Stat. 1817][/us/stat/128/1817].)
 
 ----------
 
@@ -99,7 +99,7 @@
 [/us/usc/t22/s9122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122
 [/us/usc/t22/s9122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122%2Fd
 [/us/usc/t22/s9122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122%2Fe
-[/us/pl/113/150/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs201
+[/us/pl/113/150/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtII
 [/us/stat/128/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1817
 
 

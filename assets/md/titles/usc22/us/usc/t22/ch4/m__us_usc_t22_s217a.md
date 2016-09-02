@@ -17,7 +17,7 @@
 
     A passport shall be valid for a period of ten years from the date of issue, except that the Secretary of State may limit the validity of a passport to a period of less than ten years in an individual case or on a general basis pursuant to regulation.
 
-([July 3, 1926, ch. 772, § 2][/us/act/1926-07-03/ch772/s2], [44 Stat. 887][/us/stat/44/887]; [July 1, 1930, ch. 782][/us/act/1930-07-01/ch782], [46 Stat. 839][/us/stat/46/839]; [May 16, 1932, ch. 187][/us/act/1932-05-16/ch187], [47 Stat. 157][/us/stat/47/157]; [Pub. L. 86–267][/us/pl/86/267], Sept. 14, 1959, [73 Stat. 552][/us/stat/73/552]; [Pub. L. 90–428, § 1][/us/pl/90/428/s1], July 26, 1968, [82 Stat. 446][/us/stat/82/446]; [Pub. L. 97–241, title I, § 116(b)(1)][/us/pl/97/241/s116/b/1], Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279].)
+([July 3, 1926, ch. 772][/us/act/1926-07-03/ch772], § 2, [44 Stat. 887][/us/stat/44/887]; [July 1, 1930, ch. 782][/us/act/1930-07-01/ch782], [46 Stat. 839][/us/stat/46/839]; [May 16, 1932, ch. 187][/us/act/1932-05-16/ch187], [47 Stat. 157][/us/stat/47/157]; [Pub. L. 86–267][/us/pl/86/267], Sept. 14, 1959, [73 Stat. 552][/us/stat/73/552]; [Pub. L. 90–428][/us/pl/90/428], § 1, July 26, 1968, [82 Stat. 446][/us/stat/82/446]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 116(b)(1), Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279].)
 
  __Amendments__ 
 
@@ -33,13 +33,13 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–241, title I, § 116(b)(2)][/us/pl/97/241/s116/b/2], Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279], provided that: 
+[Pub. L. 97–241, title I][/us/pl/97/241/tI], § 116(b)(2), Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] applies with respect to passports issued after the date of enactment of this Act \[Aug. 24, 1982\].”
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–428, § 4][/us/pl/90/428/s4], July 26, 1968, [82 Stat. 446][/us/stat/82/446], provided that: 
+[Pub. L. 90–428][/us/pl/90/428], § 4, July 26, 1968, [82 Stat. 446][/us/stat/82/446], provided that: 
 
 > “This Act \[amending this section and sections 213 and 214 of this title\] shall take effect on the thirtieth day following the date of its enactment \[July 26, 1968\].”
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch772/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch772%2Fs2
+[/us/act/1926-07-03/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch772
 [/us/stat/44/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F887
 [/us/act/1930-07-01/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-01%2Fch782
 [/us/stat/46/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F839
@@ -58,18 +58,18 @@
 [/us/stat/47/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F157
 [/us/pl/86/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F267
 [/us/stat/73/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F552
-[/us/pl/90/428/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs1
+[/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/stat/82/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F446
-[/us/pl/97/241/s116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs116%2Fb%2F1
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F279
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/86/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F267
-[/us/pl/97/241/s116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs116%2Fb%2F2
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F279
-[/us/pl/90/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs4
+[/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/stat/82/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F446
 
 

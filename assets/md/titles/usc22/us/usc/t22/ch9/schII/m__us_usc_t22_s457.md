@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated from time to time, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary to carry out the provisions and accomplish the purposes of this subchapter.
 
-([Nov. 4, 1939, ch. 2, § 18][/us/act/1939-11-04/ch2/s18], [54 Stat. 12][/us/stat/54/12].)
+([Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 18, [54 Stat. 12][/us/stat/54/12].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-11-04/ch2/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs18
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F12
 
 

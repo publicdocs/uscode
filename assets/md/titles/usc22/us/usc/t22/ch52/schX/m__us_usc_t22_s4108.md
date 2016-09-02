@@ -23,7 +23,7 @@
 
     (3) exercise such other powers of the Board as the Board may prescribe.
 
-([Pub. L. 96–465, title I, § 1008][/us/pl/96/465/s1008], Oct. 17, 1980, [94 Stat. 2133][/us/stat/94/2133].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1008, Oct. 17, 1980, [94 Stat. 2133][/us/stat/94/2133].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1008
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2133
 
 

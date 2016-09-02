@@ -19,7 +19,7 @@
 
     (b) The Director or Alternate Director representing the United States, if citizens of the United States, may, in the discretion of the President, receive such compensation, allowances, and other benefits as, together with those received from the Bank and from the African Development Fund, may not exceed those authorized for a chief of mission under the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\].
 
-([Pub. L. 97–35, title XIII, § 1334][/us/pl/97/35/s1334], Aug. 13, 1981, [95 Stat. 741][/us/stat/95/741]; [Pub. L. 112–166, § 2(z)(2)][/us/pl/112/166/s2/z/2], Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1334, Aug. 13, 1981, [95 Stat. 741][/us/stat/95/741]; [Pub. L. 112–166][/us/pl/112/166], § 2(z)(2), Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/97/35/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1334
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F741
-[/us/pl/112/166/s2/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fz%2F2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1289
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

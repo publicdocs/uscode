@@ -85,7 +85,7 @@
 
             Not later than 180 days after October 21, 1998, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of the United States in order to carry out the responsibility set forth in paragraph (1).
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2214, Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2214, Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812].)
 
  __Change of Name__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-812
 
 

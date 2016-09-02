@@ -17,7 +17,7 @@
 
     Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States accept any amendment under paragraph 1 of article XX of the Constitution of the Organization involving any new obligation for the United States.
 
-([July 31, 1945, ch. 342, § 4][/us/act/1945-07-31/ch342/s4], [59 Stat. 530][/us/stat/59/530].)
+([July 31, 1945, ch. 342][/us/act/1945-07-31/ch342], § 4, [59 Stat. 530][/us/stat/59/530].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch342/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch342%2Fs4
+[/us/act/1945-07-31/ch342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch342
 [/us/stat/59/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F530
 
 

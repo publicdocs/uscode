@@ -19,7 +19,7 @@
 
     (b) The Institute shall be guided by the policies set forth in sections 2151 and 2151–1 of this title and shall direct a substantial share of its resources to those objectives.
 
-([Pub. L. 96–53, title IV, § 402][/us/pl/96/53/s402], Aug. 14, 1979, [93 Stat. 372][/us/stat/93/372].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 402, Aug. 14, 1979, [93 Stat. 372][/us/stat/93/372].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/53/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs402
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F372
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

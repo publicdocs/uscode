@@ -59,7 +59,7 @@
 
         (2) the term “civilian government of Pakistan” does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
 
-([Pub. L. 111–73, title II, § 205][/us/pl/111/73/s205], Oct. 15, 2009, [123 Stat. 2074][/us/stat/123/2074].)
+([Pub. L. 111–73, title II][/us/pl/111/73/tII], § 205, Oct. 15, 2009, [123 Stat. 2074][/us/stat/123/2074].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 [/us/stat/118/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2086
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4578
-[/us/pl/111/73/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs205
+[/us/pl/111/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtII
 [/us/stat/123/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2074
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

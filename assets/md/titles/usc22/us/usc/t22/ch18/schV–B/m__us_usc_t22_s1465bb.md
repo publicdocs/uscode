@@ -55,7 +55,7 @@
 
         It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban television and radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
 
-([Pub. L. 101–246, title II, § 243][/us/pl/101/246/s243], Feb. 16, 1990, [104 Stat. 59][/us/stat/104/59]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1325(1), (2), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
+([Pub. L. 101–246, title II][/us/pl/101/246/tII], § 243, Feb. 16, 1990, [104 Stat. 59][/us/stat/104/59]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1325(1), (2), Oct. 21, 1998, [112 Stat. 2681–781][/us/stat/112/2681-781].)
 
  __Repeal of Section__ 
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1325(1)][/us/pl/105/277/s1325/1], substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1325(2)][/us/pl/105/277/s1325/2], in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -94,17 +94,17 @@
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
-[/us/pl/101/246/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs243
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F59
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-781
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/105/277/s1325/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F1
-[/us/pl/105/277/s1325/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1325%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

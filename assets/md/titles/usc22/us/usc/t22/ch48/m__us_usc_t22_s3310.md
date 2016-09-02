@@ -39,11 +39,11 @@
 
         (2) Except to the extent required by subsection (a)(3) of this section, service performed in the employ of the Institute shall not constitute employment for purposes of chapter 21 of title 26 and title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\].
 
-([Pub. L. 96–8, § 11][/us/pl/96/8/s11], Apr. 10, 1979, [93 Stat. 18][/us/stat/93/18]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–8][/us/pl/96/8], § 11, Apr. 10, 1979, [93 Stat. 18][/us/stat/93/18]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
-    [Section 913 of title 26][/us/usc/t26/s913], referred to in subsec. (d)(1), was repealed by [Pub. L. 97–34, title I, § 112(a)][/us/pl/97/34/s112/a], Aug. 13, 1981, [95 Stat. 194][/us/stat/95/194].
+    [Section 913 of title 26][/us/usc/t26/s913], referred to in subsec. (d)(1), was repealed by [Pub. L. 97–34, title I][/us/pl/97/34/tI], § 112(a), Aug. 13, 1981, [95 Stat. 194][/us/stat/95/194].
 
     Chapter 21 (§ 3101 et seq.) of title 26, referred to in subsec. (d)(2), is known as the Federal Insurance Contributions Act.
 
@@ -77,12 +77,12 @@
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/usc/t26/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs912
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/96/8/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs11
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F18
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs913
-[/us/pl/97/34/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs112%2Fa
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F194
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

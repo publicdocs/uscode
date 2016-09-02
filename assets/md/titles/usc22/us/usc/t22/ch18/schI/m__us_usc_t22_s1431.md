@@ -19,9 +19,9 @@
 
     (1) an information service to disseminate abroad information about the United States, its people, and policies promulgated by the Congress, the President, the Secretary of State and other responsible officials of Government having to do with matters affecting foreign affairs;
 
-    (2) Repealed. [Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538].
+    (2) Repealed. [Pub. L. 87–256][/us/pl/87/256], § 111(a)(2), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538].
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title I, § 2, [62 Stat. 6][/us/stat/62/6]; [Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title I, § 2, [62 Stat. 6][/us/stat/62/6]; [Pub. L. 87–256][/us/pl/87/256], § 111(a)(2), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Termination of Chapter__ 
 
-[Act Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1006, [62 Stat. 14][/us/stat/62/14], provided that: 
+[Act Jan. 27, 1948, ch. 36, title X][/us/act/1948-01-27/ch36/tX], § 1006, [62 Stat. 14][/us/stat/62/14], provided that: 
 
 > “The authority granted under this Act \[this chapter\] shall terminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
 
@@ -39,19 +39,19 @@
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–168, § 1][/us/pl/93/168/s1], Nov. 29, 1973, [87 Stat. 688][/us/stat/87/688], provided: 
+[Pub. L. 93–168][/us/pl/93/168], § 1, Nov. 29, 1973, [87 Stat. 688][/us/stat/87/688], provided: 
 
 > “That this Act \[amending former [section 1476 of this title][/us/usc/t22/s1476]\] may be cited as the ‘United States Information Agency Appropriations Authorization Act of 1973’.”
 
  __Short Title__ 
 
-[Act Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title I, § 1, [62 Stat. 6][/us/stat/62/6], provided that: 
+[Act Jan. 27, 1948, ch. 36, title I][/us/act/1948-01-27/ch36/tI], § 1, [62 Stat. 6][/us/stat/62/6], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘United States Information and Educational Exchange Act of 1948’.”
 
  __Separability__ 
 
-[Act Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1010, [62 Stat. 14][/us/stat/62/14], provided that: 
+[Act Jan. 27, 1948, ch. 36, title X][/us/act/1948-01-27/ch36/tX], § 1010, [62 Stat. 14][/us/stat/62/14], provided that: 
 
 > “If any provision of this Act \[enacting this chapter\] or the application of any such provision to any person or circumstance shall be held invalid, the validity of the remainder of the Act \[this chapter\] and the applicability of such provision to other persons or circumstances shall not be affected thereby.”
 
@@ -61,7 +61,7 @@
 
  __Promotion of Free Media and Other American Values__ 
 
-[Pub. L. 108–458, title VII, § 7108][/us/pl/108/458/s7108], Dec. 17, 2004, [118 Stat. 3790][/us/stat/118/3790], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7108, Dec. 17, 2004, [118 Stat. 3790][/us/stat/118/3790], provided that:
 
 >     “(a) __Promotion of United States Values Through Broadcast Media.—__ 
 
@@ -152,31 +152,31 @@
 ----------
 ----------
 
-[/us/pl/87/256/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fa%2F2
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F6
-[/us/pl/87/256/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fa%2F2
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
-[/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
+[/us/act/1948-01-27/ch36/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36%2FtX
 [/us/stat/62/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F14
 [/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/pl/98/111/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs1
 [/us/usc/t22/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465
-[/us/pl/93/168/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F168%2Fs1
+[/us/pl/93/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F168
 [/us/stat/87/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F688
 [/us/usc/t22/s1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1476
-[/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
+[/us/act/1948-01-27/ch36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36%2FtI
 [/us/stat/62/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F6
-[/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
+[/us/act/1948-01-27/ch36/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36%2FtX
 [/us/stat/62/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F14
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/pl/97/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
-[/us/pl/108/458/s7108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7108
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3790
 [/us/usc/t22/s4411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4411
 [/us/usc/t22/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431

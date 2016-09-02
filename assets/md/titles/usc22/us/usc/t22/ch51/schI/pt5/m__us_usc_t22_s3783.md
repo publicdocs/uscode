@@ -17,7 +17,7 @@
 
     No property of the United States located in the Republic of Panama may be disposed of except pursuant to law enacted by the Congress.
 
-([Pub. L. 96–70, title I, § 1503][/us/pl/96/70/s1503], Sept. 27, 1979, [93 Stat. 488][/us/stat/93/488].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1503, Sept. 27, 1979, [93 Stat. 488][/us/stat/93/488].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1503
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F488
 
 

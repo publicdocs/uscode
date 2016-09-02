@@ -41,13 +41,13 @@
 
         Personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau charged with carrying out this chapter.
 
-([Pub. L. 87–510, § 5][/us/pl/87/510/s5], June 28, 1962, [76 Stat. 123][/us/stat/76/123]; [Pub. L. 96–465, title II, § 2206(a)(10)][/us/pl/96/465/s2206/a/10], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 99–93, title I, § 112(a)][/us/pl/99/93/s112/a], Aug. 16, 1985, [99 Stat. 410][/us/stat/99/410]; [Pub. L. 103–236, title I, § 164(b)][/us/pl/103/236/s164/b], Apr. 30, 1994, [108 Stat. 411][/us/stat/108/411]; [Pub. L. 103–415, § 1(ff)][/us/pl/103/415/s1/ff], Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
+([Pub. L. 87–510][/us/pl/87/510], § 5, June 28, 1962, [76 Stat. 123][/us/stat/76/123]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(10), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 112(a), Aug. 16, 1985, [99 Stat. 410][/us/stat/99/410]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 164(b), Apr. 30, 1994, [108 Stat. 411][/us/stat/108/411]; [Pub. L. 103–415][/us/pl/103/415], § 1(ff), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 87–510][/us/pl/87/510], June 28, 1962, [76 Stat. 121][/us/stat/76/121], as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended [section 1104 of Title 8][/us/usc/t8/s1104], Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under [section 2601 of this title][/us/usc/t22/s2601], and amended a provision set out as a note under [section 1182 of title 8][/us/usc/t8/s1182]. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title][/us/usc/t22/s2601] and Tables.
 
-    Section 3651 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543]), referred to in subsec. (a)(3), was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
+    Section 3651 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543]), referred to in subsec. (a)(3), was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
 
     The Foreign Service Act of 1980, referred to in subsec. (a)(4), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
@@ -57,17 +57,17 @@
 
     1994—Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], as amended by [Pub. L. 103–415][/us/pl/103/415], added subsec. (c).
 
-    1985—Subsec. (a)(6), (7). [Pub. L. 99–93, § 112(a)][/us/pl/99/93/s112/a], added par. (6) and redesignated former par. (6) as (7).
+    1985—Subsec. (a)(6), (7). [Pub. L. 99–93][/us/pl/99/93], § 112(a), added par. (6) and redesignated former par. (6) as (7).
 
-    1980—Subsec. (a)(1). [Pub. L. 96–465, § 2206(a)(10)(A)][/us/pl/96/465/s2206/a/10/A], substituted “members of the Foreign Service” for “Foreign Service personnel”.
+    1980—Subsec. (a)(1). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(10)(A), substituted “members of the Foreign Service” for “Foreign Service personnel”.
 
-    Subsec. (a)(2). [Pub. L. 96–465, § 2206(a)(10)(B)][/us/pl/96/465/s2206/a/10/B], substituted “members of the Foreign Service serving under limited appointments” for “Foreign Service Reserve officers”.
+    Subsec. (a)(2). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(10)(B), substituted “members of the Foreign Service serving under limited appointments” for “Foreign Service Reserve officers”.
 
-    Subsec. (a)(4). [Pub. L. 96–465, § 2206(a)(10)(C)][/us/pl/96/465/s2206/a/10/C], substituted reference to the Foreign Service Act of 1980 for reference to the Foreign Service Act of 1946.
+    Subsec. (a)(4). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(10)(C), substituted reference to the Foreign Service Act of 1980 for reference to the Foreign Service Act of 1946.
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–93, title I, § 112(b)][/us/pl/99/93/s112/b], Aug. 16, 1985, [99 Stat. 411][/us/stat/99/411], provided that: 
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 112(b), Aug. 16, 1985, [99 Stat. 411][/us/stat/99/411], provided that: 
 
 > “Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\].”
 
@@ -86,15 +86,15 @@
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/stat/70/890-892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F890-892
 [/us/usc/t22/s2669/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2669%2Ff
-[/us/pl/87/510/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs5
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F123
-[/us/pl/96/465/s2206/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F10
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
-[/us/pl/99/93/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs112%2Fa
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F410
-[/us/pl/103/236/s164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs164%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F411
-[/us/pl/103/415/s1/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fff
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
 [/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121
@@ -103,7 +103,7 @@
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/usc/t22/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2601
 [/us/usc/t31/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs543
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
@@ -113,11 +113,11 @@
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
-[/us/pl/99/93/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs112%2Fa
-[/us/pl/96/465/s2206/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F10%2FA
-[/us/pl/96/465/s2206/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F10%2FB
-[/us/pl/96/465/s2206/a/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F10%2FC
-[/us/pl/99/93/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs112%2Fb
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F411
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403

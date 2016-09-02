@@ -33,7 +33,7 @@
 
         (2) The Secretary shall establish a family liaison office to carry out this subsection and such other functions as the Secretary may determine.
 
-([Pub. L. 96–465, title I, § 706][/us/pl/96/465/s706], Oct. 17, 1980, [94 Stat. 2101][/us/stat/94/2101]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2314(a), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 706, Oct. 17, 1980, [94 Stat. 2101][/us/stat/94/2101]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2314(a), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2314(b), Oct. 21, 1998, [112 Stat. 2681–828][/us/stat/112/2681-828], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2314(b), Oct. 21, 1998, [112 Stat. 2681–828][/us/stat/112/2681-828], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective 180 days after the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -56,12 +56,12 @@
 ----------
 ----------
 
-[/us/pl/96/465/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs706
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2101
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-827
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-828
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

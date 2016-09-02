@@ -19,7 +19,7 @@
 
     (b) The Secretary may pay Foreign Service personnel who are recruited abroad, who are not available or are not qualified for assignment to another Foreign Service post, and who perform duties of a more routine nature than are generally performed by Foreign Service personnel assigned to class 9 in the Foreign Service Schedule, in accordance with the salary rates established under subsection (a).
 
-([Pub. L. 96–465, title I, § 407][/us/pl/96/465/s407], Oct. 17, 1980, [94 Stat. 2090][/us/stat/94/2090].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 407, Oct. 17, 1980, [94 Stat. 2090][/us/stat/94/2090].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/96/465/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs407
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2090
 
 

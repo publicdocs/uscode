@@ -27,7 +27,7 @@
 
         The Executive Office of Immigration Review of the Department of Justice shall incorporate into its initial and ongoing training of immigration judges training on the extent and nature of religious persecution internationally, including country-specific conditions, and including use of the Annual Report. Such training shall include governmental and nongovernmental methods of persecution employed, and differences in the treatment of religious groups by such persecuting entities.
 
-([Pub. L. 105–292, title VI, § 603][/us/pl/105/292/s603], Oct. 27, 1998, [112 Stat. 2813][/us/stat/112/2813]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
+([Pub. L. 105–292, title VI][/us/pl/105/292/tVI], § 603, Oct. 27, 1998, [112 Stat. 2813][/us/stat/112/2813]; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t8/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225%2Fb
-[/us/pl/105/292/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs603
+[/us/pl/105/292/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtVI
 [/us/stat/112/2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2813
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551

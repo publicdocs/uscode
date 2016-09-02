@@ -73,7 +73,7 @@
 
         Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ([22 U.S.C. 8501][/us/usc/t22/s8501] et seq.).
 
-([Pub. L. 112–158, title II, § 220][/us/pl/112/158/s220], Aug. 10, 2012, [126 Stat. 1237][/us/stat/126/1237].)
+([Pub. L. 112–158, title II][/us/pl/112/158/tII], § 220, Aug. 10, 2012, [126 Stat. 1237][/us/stat/126/1237].)
 
  __Termination of Section__ 
 
@@ -100,7 +100,7 @@
 [/us/usc/t22/s8513/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513%2Fc%2F2%2FE%2Fii
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501
-[/us/pl/112/158/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs220
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1237
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

@@ -47,11 +47,11 @@
 
         A claim may be allowed under this section only if the application is filed with the Secretary of State before the participant is separated from the Service or within one year thereafter. This time limitation may be waived by the Secretary of State for a participant who at the date of separation from the Service or within one year thereafter is mentally incompetent, if the application is filed with the Secretary of State within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 
-([Pub. L. 96–465, title I, § 808][/us/pl/96/465/s808], Oct. 17, 1980, [94 Stat. 2110][/us/stat/94/2110]; Ex. Ord. No. 12289, § 2, Feb. 14, 1981, 46 F.R. 12693; [Pub. L. 99–335, title IV, § 402(a)(2)][/us/pl/99/335/s402/a/2], (b), June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 100–238, title II, § 215(a)][/us/pl/100/238/s215/a], Jan. 8, 1988, [101 Stat. 1774][/us/stat/101/1774]; [Pub. L. 102–54, § 13(h)(2)][/us/pl/102/54/s13/h/2], June 13, 1991, [105 Stat. 275][/us/stat/105/275].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 808, Oct. 17, 1980, [94 Stat. 2110][/us/stat/94/2110]; Ex. Ord. No. 12289, § 2, Feb. 14, 1981, 46 F.R. 12693; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(2), (b), June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 215(a), Jan. 8, 1988, [101 Stat. 1774][/us/stat/101/1774]; [Pub. L. 102–54][/us/pl/102/54], § 13(h)(2), June 13, 1991, [105 Stat. 275][/us/stat/105/275].)
 
  __References in Text__ 
 
-    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (a), was repealed by [Pub. L. 106–65, div. A, title VI, § 651(a)(1)][/us/pl/106/65/s651/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
+    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (a), was repealed by [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 
     1988—Subsecs. (a), (b). [Pub. L. 100–238][/us/pl/100/238] substituted “60” for “65”.
 
-    1986—Subsec. (a). [Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter” in three places.
+    1986—Subsec. (a). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter” in three places.
 
-    Subsec. (d). [Pub. L. 99–335, § 402(b)(1)][/us/pl/99/335/s402/b/1], substituted “subchapter I of such chapter 8” for “such subchapter” in three places and “part” for “chapter” in three places.
+    Subsec. (d). [Pub. L. 99–335][/us/pl/99/335], § 402(b)(1), substituted “subchapter I of such chapter 8” for “such subchapter” in three places and “part” for “chapter” in three places.
 
-    Subsec. (e). [Pub. L. 99–335, § 402(b)(2)][/us/pl/99/335/s402/b/2], substituted “part” for “chapter” in two places.
+    Subsec. (e). [Pub. L. 99–335][/us/pl/99/335], § 402(b)(2), substituted “part” for “chapter” in two places.
 
     1981—Subsec. (a). Ex. Ord. No. 12289 added second par. relating to computation of annuity for participant retiring under this section and receiving retired or retainer pay.
 
@@ -92,22 +92,22 @@
 [/us/usc/t22/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4051
 [/us/usc/t5/s8107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8107
 [/us/usc/t5/s8135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8135
-[/us/pl/96/465/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs808
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2110
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/100/238/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs215%2Fa
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1774
-[/us/pl/102/54/s13/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fh%2F2
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/65/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
-[/us/pl/99/335/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fb%2F1
-[/us/pl/99/335/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fb%2F2
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/100/238/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs261%2Fa
 [/us/usc/t22/s4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054

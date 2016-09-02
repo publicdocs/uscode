@@ -51,7 +51,7 @@
 
         If the President submits to the appropriate congressional committees the certification described in subsection (a)(2), the President may suspend the provisions of this subchapter and any sanctions imposed under this subchapter for not more than 180 days to allow time for a certification described in subsection (b) to be submitted.
 
-([Pub. L. 112–158, title VII, § 706][/us/pl/112/158/s706], Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
+([Pub. L. 112–158, title VII][/us/pl/112/158/tVII], § 706, Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs706
+[/us/pl/112/158/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVII
 [/us/stat/126/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1268
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/usc/t22/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8701

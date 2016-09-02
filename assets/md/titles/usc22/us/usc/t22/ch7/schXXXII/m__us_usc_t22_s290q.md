@@ -63,7 +63,7 @@
 
         (5) analyzes the progress made by the OAS to review, streamline, and prioritize mandates to focus on core missions and make efficient and effective use of available funding.
 
-([Pub. L. 113–41, § 5][/us/pl/113/41/s5], Oct. 2, 2013, [127 Stat. 550][/us/stat/127/550].)
+([Pub. L. 113–41][/us/pl/113/41], § 5, Oct. 2, 2013, [127 Stat. 550][/us/stat/127/550].)
 
  __References in Text__ 
 
@@ -71,13 +71,13 @@
 
  __Short Title__ 
 
-[Pub. L. 113–41, § 1][/us/pl/113/41/s1], Oct. 2, 2013, [127 Stat. 548][/us/stat/127/548], provided that: 
+[Pub. L. 113–41][/us/pl/113/41], § 1, Oct. 2, 2013, [127 Stat. 548][/us/stat/127/548], provided that: 
 
 > “This Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Organization of American States Revitalization and Reform Act of 2013’.”
 
  __Findings__ 
 
-[Pub. L. 113–41, § 2][/us/pl/113/41/s2], Oct. 2, 2013, [127 Stat. 548][/us/stat/127/548], provided that: 
+[Pub. L. 113–41][/us/pl/113/41], § 2, Oct. 2, 2013, [127 Stat. 548][/us/stat/127/548], provided that: 
 
 > “Congress makes the following findings:
 
@@ -105,7 +105,7 @@
 
  __Statement of Policy__ 
 
-[Pub. L. 113–41, § 3][/us/pl/113/41/s3], Oct. 2, 2013, [127 Stat. 548][/us/stat/127/548], provided that: 
+[Pub. L. 113–41][/us/pl/113/41], § 3, Oct. 2, 2013, [127 Stat. 548][/us/stat/127/548], provided that: 
 
 > “It is the policy of the United States—
 
@@ -122,15 +122,15 @@
 ----------
 ----------
 
-[/us/pl/113/41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41%2Fs5
+[/us/pl/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41
 [/us/stat/127/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F550
 [/us/pl/113/41/s4/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41%2Fs4%2F8
 [/us/stat/127/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F549
-[/us/pl/113/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41%2Fs1
+[/us/pl/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41
 [/us/stat/127/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F548
-[/us/pl/113/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41%2Fs2
+[/us/pl/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41
 [/us/stat/127/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F548
-[/us/pl/113/41/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41%2Fs3
+[/us/pl/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F41
 [/us/stat/127/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F548
 
 

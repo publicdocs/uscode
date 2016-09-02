@@ -55,7 +55,7 @@
 
             Section 531(e) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2346(e)][/us/usc/t22/s2346/e]\], and any provision that corresponds to section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991 (relating to the prohibition on financing exports of nuclear equipment, fuel, and technology), shall not apply with respect to funds used pursuant to this subsection.
 
-([Pub. L. 102–511, title V, § 504][/us/pl/102/511/s504], Oct. 24, 1992, [106 Stat. 3339][/us/stat/106/3339].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 504, Oct. 24, 1992, [106 Stat. 3339][/us/stat/106/3339].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/usc/t22/s2346/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346%2Fe
-[/us/pl/102/511/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs504
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3339
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

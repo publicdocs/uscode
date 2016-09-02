@@ -45,7 +45,7 @@
 
             Amounts authorized to be appropriated pursuant to paragraph (1) shall supplement and not supplant other amounts made available for activities described in this section.
 
-([Pub. L. 113–272, § 8][/us/pl/113/272/s8], Dec. 18, 2014, [128 Stat. 2964][/us/stat/128/2964].)
+([Pub. L. 113–272][/us/pl/113/272], § 8, Dec. 18, 2014, [128 Stat. 2964][/us/stat/128/2964].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/113/272/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs8
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2964
 
 

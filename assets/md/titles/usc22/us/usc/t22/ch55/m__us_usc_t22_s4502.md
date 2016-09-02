@@ -21,7 +21,7 @@
 
     (2) the term “Advisory Committee” means the Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union established by [section 4503(a) of this title][/us/usc/t22/s4503/a].
 
-([Pub. L. 98–164, title VIII, § 803][/us/pl/98/164/s803], Nov. 22, 1983, [97 Stat. 1048][/us/stat/97/1048]; [Pub. L. 103–199, title III, § 302(4)][/us/pl/103/199/s302/4], Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322]; [Pub. L. 105–244, title I, § 102(a)(7)(C)][/us/pl/105/244/s102/a/7/C], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619].)
+([Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 803, Nov. 22, 1983, [97 Stat. 1048][/us/stat/97/1048]; [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 302(4), Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(7)(C), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t22/s4503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4503%2Fa
-[/us/pl/98/164/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs803
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1048
-[/us/pl/103/199/s302/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F4
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2322
-[/us/pl/105/244/s102/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F7%2FC
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/98/164/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs801

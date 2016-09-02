@@ -23,7 +23,7 @@
 
         In the establishment of the Department of State toll-free communications system to facilitate inquiries concerning the affect of any disaster abroad on United States citizens residing or traveling abroad, the Secretary of State shall ensure that a toll-free telephone number is reserved for the exclusive use of the families of citizens who have been determined to be directly involved in any such disaster.
 
-([Pub. L. 101–604, title II, § 205][/us/pl/101/604/s205], Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 205, Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs205
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3083
 
 

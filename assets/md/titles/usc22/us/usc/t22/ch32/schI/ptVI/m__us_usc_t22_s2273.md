@@ -21,7 +21,7 @@
 
     (2) finds that the United States should provide such assistance and support as may be appropriate in helping to reach comprehensive and verifiable final agreements, based on the Document of Objectives, which will ensure peaceful and enduring solutions to the Central American conflicts.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 463, as added [Pub. L. 99–83, title VII, § 701][/us/pl/99/83/s701], Aug. 8, 1985, [99 Stat. 235][/us/stat/99/235].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 463, as added [Pub. L. 99–83, title VII][/us/pl/99/83/tVII], § 701, Aug. 8, 1985, [99 Stat. 235][/us/stat/99/235].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs701
+[/us/pl/99/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVII
 [/us/stat/99/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F235
 [/us/pl/87/195/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs463
 [/us/usc/t22/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2283

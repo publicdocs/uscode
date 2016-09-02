@@ -85,11 +85,11 @@
 
         (2) demand-driven business development programs that achieve reasonable cost recovery that are provided to clients holding poverty loans (as defined by the regional poverty loan limitations in paragraph (1)(A)), whether they are provided by microfinance institutions or by specialized business development services providers.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 252, as added [Pub. L. 108–484, § 3][/us/pl/108/484/s3], Dec. 23, 2004, [118 Stat. 3924][/us/stat/118/3924].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 252, as added [Pub. L. 108–484][/us/pl/108/484], § 3, Dec. 23, 2004, [118 Stat. 3924][/us/stat/118/3924].)
 
  __Prior Provisions__ 
 
-    A prior [section 252 of Pub. L. 87–195][/us/pl/87/195/s252] was classified to [section 2212 of this title][/us/usc/t22/s2212], prior to repeal by [Pub. L. 95–424, title I, § 102(g)(1)(A)][/us/pl/95/424/s102/g/1/A], title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
+    A prior [section 252 of Pub. L. 87–195][/us/pl/87/195/s252] was classified to [section 2212 of this title][/us/usc/t22/s2212], prior to repeal by [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(1)(A), title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
 
 ----------
 
@@ -99,11 +99,11 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/484/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs3
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3924
 [/us/pl/87/195/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs252
 [/us/usc/t22/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2212
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
 
 

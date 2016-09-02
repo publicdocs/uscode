@@ -45,7 +45,7 @@
 
         [Section 2151h(b) of this title][/us/usc/t22/s2151h/b] shall not apply with respect to grants to relatively least developed countries.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 124, as added [Pub. L. 95–424, title I, § 112(a)(1)][/us/pl/95/424/s112/a/1], Oct. 6, 1978, [92 Stat. 948][/us/stat/92/948]; amended [Pub. L. 96–53, title I, § 109][/us/pl/96/53/s109], Aug. 14, 1979, [93 Stat. 363][/us/stat/93/363]; [Pub. L. 96–533, title III, § 308][/us/pl/96/533/s308], Oct. 16, 1980, [94 Stat. 3147][/us/stat/94/3147].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 124, as added [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 112(a)(1), Oct. 6, 1978, [92 Stat. 948][/us/stat/92/948]; amended [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 109, Aug. 14, 1979, [93 Stat. 363][/us/stat/93/363]; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 308, Oct. 16, 1980, [94 Stat. 3147][/us/stat/94/3147].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–424, title I, § 112(a)(2)][/us/pl/95/424/s112/a/2], Oct. 6, 1978, [92 Stat. 949][/us/stat/92/949], provided that: 
+[Pub. L. 95–424, title I][/us/pl/95/424/tI], § 112(a)(2), Oct. 6, 1978, [92 Stat. 949][/us/stat/92/949], provided that: 
 
 > “The authority granted by section 124(c) of the Foreign Assistance Act of 1961 \[subsec. (c) of this section\] shall not become effective until October 1, 1979.”
 
@@ -79,7 +79,7 @@
 
  __Presidential Authority During Fiscal Years 1990 and 1991__ 
 
-    [Pub. L. 100–461, title V, § 572][/us/pl/100/461/s572], Oct. 1, 1988, [102 Stat. 2268–44][/us/stat/102/2268-44], provided that during fiscal years 1990 and 1991, President could use authority of paragraphs (A) and (B) of subsection (c)(1) of this section with respect to such aggregate amounts of principal and interest payable during each of those fiscal years as President determined, or at any time after Sept. 30, 1989, President could, if he determined it was in national interest to do so, use authority of those paragraphs with respect to such aggregate amounts of outstanding principal and interest payable at any time after that date, and that such authority could be exercised with respect to specified countries, and be exercised notwithstanding subsection (c)(2) of this section.
+    [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 572, Oct. 1, 1988, [102 Stat. 2268–44][/us/stat/102/2268-44], provided that during fiscal years 1990 and 1991, President could use authority of paragraphs (A) and (B) of subsection (c)(1) of this section with respect to such aggregate amounts of principal and interest payable during each of those fiscal years as President determined, or at any time after Sept. 30, 1989, President could, if he determined it was in national interest to do so, use authority of those paragraphs with respect to such aggregate amounts of outstanding principal and interest payable at any time after that date, and that such authority could be exercised with respect to specified countries, and be exercised notwithstanding subsection (c)(2) of this section.
 
 ----------
 
@@ -93,11 +93,11 @@
 [/us/usc/t22/s2151h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151h%2Fa
 [/us/usc/t22/s2151h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151h%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/424/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs112%2Fa%2F1
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F948
-[/us/pl/96/53/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs109
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F363
-[/us/pl/96/533/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs308
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3147
 [/us/pl/94/161/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs321
 [/us/stat/89/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F868
@@ -109,12 +109,12 @@
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/424/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs112%2Fa%2F2
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F949
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/100/461/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs572
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-44
 
 

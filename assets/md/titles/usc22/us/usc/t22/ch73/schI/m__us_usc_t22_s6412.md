@@ -93,7 +93,7 @@
 
             In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
 
-([Pub. L. 105–292, title I, § 102][/us/pl/105/292/s102], Oct. 27, 1998, [112 Stat. 2792][/us/stat/112/2792]; [Pub. L. 107–228, div. A, title VI, § 681(a)][/us/pl/107/228/s681/a], Sept. 30, 2002, [116 Stat. 1408][/us/stat/116/1408]; [Pub. L. 108–332, § 6(b)][/us/pl/108/332/s6/b], Oct. 16, 2004, [118 Stat. 1285][/us/stat/118/1285].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 102, Oct. 27, 1998, [112 Stat. 2792][/us/stat/112/2792]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 681(a), Sept. 30, 2002, [116 Stat. 1408][/us/stat/116/1408]; [Pub. L. 108–332][/us/pl/108/332], § 6(b), Oct. 16, 2004, [118 Stat. 1285][/us/stat/118/1285].)
 
  __References in Text__ 
 
@@ -127,11 +127,11 @@
 ----------
 
 [/us/usc/t22/s6442/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6442%2Fb%2F1
-[/us/pl/105/292/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs102
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2792
-[/us/pl/107/228/s681/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs681%2Fa
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1408
-[/us/pl/108/332/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332%2Fs6%2Fb
+[/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332
 [/us/stat/118/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1285
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2791

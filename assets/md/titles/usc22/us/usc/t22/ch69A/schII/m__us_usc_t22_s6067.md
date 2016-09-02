@@ -33,7 +33,7 @@
 
         It is the sense of the Congress that the satisfactory resolution of property claims by a Cuban Government recognized by the United States remains an essential condition for the full resumption of economic and diplomatic relations between the United States and Cuba.
 
-([Pub. L. 104–114, title II, § 207][/us/pl/104/114/s207], Mar. 12, 1996, [110 Stat. 813][/us/stat/110/813].)
+([Pub. L. 104–114, title II][/us/pl/104/114/tII], § 207, Mar. 12, 1996, [110 Stat. 813][/us/stat/110/813].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t22/s1643f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643f
 [/us/usc/t22/s1643f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643f
-[/us/pl/104/114/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs207
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F813
 
 

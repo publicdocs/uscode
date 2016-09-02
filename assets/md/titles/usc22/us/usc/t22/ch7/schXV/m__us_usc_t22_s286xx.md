@@ -23,7 +23,7 @@
 
         The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-([July 31, 1945, ch. 339, § 72][/us/act/1945-07-31/ch339/s72], as added [Pub. L. 114–113, div. K, title IX, § 9002][/us/pl/114/113/s9002], Dec. 18, 2015, [129 Stat. 2830][/us/stat/129/2830].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 72, as added [Pub. L. 114–113, div. K, title IX][/us/pl/114/113/dK/tIX], § 9002, Dec. 18, 2015, [129 Stat. 2830][/us/stat/129/2830].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs72
-[/us/pl/114/113/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9002
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/114/113/dK/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtIX
 [/us/stat/129/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2830
 
 

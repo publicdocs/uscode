@@ -33,17 +33,17 @@
 
     (8) The United States cooperated with its European and other allies to assist the difficult transitions from Communist regimes in Eastern Europe. Therefore, it is appropriate for those allies to cooperate with United States policy to promote a peaceful transition in Cuba.
 
-([Pub. L. 102–484, div. A, title XVII, § 1702][/us/pl/102/484/s1702], Oct. 23, 1992, [106 Stat. 2575][/us/stat/106/2575].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1702, Oct. 23, 1992, [106 Stat. 2575][/us/stat/106/2575].)
 
  __Effective Date__ 
 
-[Pub. L. 102–484, div. A, title XVII, § 1712][/us/pl/102/484/s1712], Oct. 23, 1992, [106 Stat. 2581][/us/stat/106/2581], provided that: 
+[Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1712, Oct. 23, 1992, [106 Stat. 2581][/us/stat/106/2581], provided that: 
 
 > “This title \[enacting this chapter, amending [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
 
  __Short Title__ 
 
-[Pub. L. 102–484, div. A, title XVII, § 1701][/us/pl/102/484/s1701], Oct. 23, 1992, [106 Stat. 2575][/us/stat/106/2575], provided that: 
+[Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1701, Oct. 23, 1992, [106 Stat. 2575][/us/stat/106/2575], provided that: 
 
 > “This title \[enacting this chapter, amending [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, and enacting provisions set out as a note above\] may be cited as the ‘Cuban Democracy Act of 1992’.”
 
@@ -78,12 +78,12 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1702
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575
-[/us/pl/102/484/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1712
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2581
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
-[/us/pl/102/484/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1701
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301

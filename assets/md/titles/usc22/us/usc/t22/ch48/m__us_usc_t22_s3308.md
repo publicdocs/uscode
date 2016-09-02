@@ -27,7 +27,7 @@
 
         Any agency of the United States Government making funds available to the Institute in accordance with this chapter shall make arrangements with the Institute for the Comptroller General of the United States to have access to the books and records of the Institute and the opportunity to audit the operations of the Institute.
 
-([Pub. L. 96–8, § 9][/us/pl/96/8/s9], Apr. 10, 1979, [93 Stat. 18][/us/stat/93/18].)
+([Pub. L. 96–8][/us/pl/96/8], § 9, Apr. 10, 1979, [93 Stat. 18][/us/stat/93/18].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs9
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F18
 
 

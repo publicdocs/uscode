@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_ch20A_schIII.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
+[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_s1613...1613d.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
 
 ## CHAPTER 21—SETTLEMENT OF INTERNATIONAL CLAIMS
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—VESTING AND LIQUIDATION OF BULGARIAN, HUNGARIAN, AND RUMANIAN PR
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1631" data-uslm-ref="/us/usc/t22/s1631">1631</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1631l" data-uslm-ref="/us/usc/t22/s1631l">1631l.</a>  </td>
 
     <td> Determination of expenses and time for filing suit, notice of claim and debt claim.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—VESTING AND LIQUIDATION OF BULGARIAN, HUNGARIAN, AND RUMANIAN PR
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1631" data-uslm-ref="/us/usc/t22/s1631">1631</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1631o" data-uslm-ref="/us/usc/t22/s1631o">1631o.</a>  </td>
 
     <td> Eligibility for return of interest in property.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—CLAIMS AGAINST BULGARIA, HUNGARY, RUMANIA, ITALY, AND THE SOVIE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1641" data-uslm-ref="/us/usc/t22/s1641">1641</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1641l" data-uslm-ref="/us/usc/t22/s1641l">1641l.</a>  </td>
 
     <td> Unpaid balance of claim; claims of United States unaffected.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—CLAIMS AGAINST BULGARIA, HUNGARY, RUMANIA, ITALY, AND THE SOVIE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1641" data-uslm-ref="/us/usc/t22/s1641">1641</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1641o" data-uslm-ref="/us/usc/t22/s1641o">1641o.</a>  </td>
 
     <td> Time limitation on completion of affairs of Commission.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER IV—CLAIMS AGAINST CZECHOSLOVAKIA  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1642" data-uslm-ref="/us/usc/t22/s1642">1642</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1642l" data-uslm-ref="/us/usc/t22/s1642l">1642l.</a>  </td>
 
     <td> Payment of awards.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER IV—CLAIMS AGAINST CZECHOSLOVAKIA  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1642" data-uslm-ref="/us/usc/t22/s1642">1642</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1642o" data-uslm-ref="/us/usc/t22/s1642o">1642o.</a>  </td>
 
     <td> Applicability of administrative provisions of subchapter I.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER V—CLAIMS AGAINST CUBA AND CHINA  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1643" data-uslm-ref="/us/usc/t22/s1643">1643</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1643l" data-uslm-ref="/us/usc/t22/s1643l">1643l</a>.  </td>
 
     <td> Determination of ownership of claims referred by district courts of the United States.  </td>
 
@@ -801,7 +801,7 @@ SUBCHAPTER VI—CLAIMS AGAINST GERMAN DEMOCRATIC REPUBLIC  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1644" data-uslm-ref="/us/usc/t22/s1644">1644</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1644l" data-uslm-ref="/us/usc/t22/s1644l">1644l.</a>  </td>
 
     <td> Fees for services; limitation; penalty.  </td>
 
@@ -921,7 +921,7 @@ SUBCHAPTER VII—CLAIMS AGAINST VIETNAM  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1645" data-uslm-ref="/us/usc/t22/s1645">1645</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1645l" data-uslm-ref="/us/usc/t22/s1645l">1645l.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -945,7 +945,7 @@ SUBCHAPTER VII—CLAIMS AGAINST VIETNAM  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1645" data-uslm-ref="/us/usc/t22/s1645">1645</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs1645o" data-uslm-ref="/us/usc/t22/s1645o">1645o.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -955,7 +955,7 @@ SUBCHAPTER VII—CLAIMS AGAINST VIETNAM  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_ch20A_schIII.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
+[Previous](./../../../..//us/usc/t22/ch20A/schIII/m__us_usc_t22_s1613...1613d.md) | [Next](./../../../..//us/usc/t22/ch21/schI/m__us_usc_t22_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch21)
 
 ----------
 ----------

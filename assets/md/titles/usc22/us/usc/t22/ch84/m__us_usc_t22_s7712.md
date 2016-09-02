@@ -39,7 +39,7 @@
 
         (5) Any other information the President considers relevant with respect to assistance provided under [section 7704 of this title][/us/usc/t22/s7704].
 
-([Pub. L. 108–199, div. D, title VI, § 613][/us/pl/108/199/s613], Jan. 23, 2004, [118 Stat. 221][/us/stat/118/221].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 613, Jan. 23, 2004, [118 Stat. 221][/us/stat/118/221].)
 
  __Assignment of Function To Submit a Report Relating to Millennium Challenge Corporation Activities__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
-[/us/pl/108/199/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs613
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F221
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199

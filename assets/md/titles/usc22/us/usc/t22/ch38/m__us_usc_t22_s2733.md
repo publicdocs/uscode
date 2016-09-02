@@ -33,11 +33,11 @@
 
         An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 61, as added [Pub. L. 109–234, title I, § 1602(b)(1)][/us/pl/109/234/s1602/b/1], June 15, 2006, [120 Stat. 441][/us/stat/120/441]; amended [Pub. L. 111–32, title XI, § 1115(c)(2)][/us/pl/111/32/s1115/c/2], June 24, 2009, [123 Stat. 1905][/us/stat/123/1905].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 61, as added [Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1602(b)(1), June 15, 2006, [120 Stat. 441][/us/stat/120/441]; amended [Pub. L. 111–32, title XI][/us/pl/111/32/tXI], § 1115(c)(2), June 24, 2009, [123 Stat. 1905][/us/stat/123/1905].)
 
  __Codification__ 
 
-    [Pub. L. 109–234, title I, § 1602(b)(1)][/us/pl/109/234/s1602/b/1], June 15, 2006, [120 Stat. 441][/us/stat/120/441], which directed that this section be added at the end of title I of the Department of State Basic Authorities Act of 1956, was executed by adding this section at the end of title I of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
+    [Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1602(b)(1), June 15, 2006, [120 Stat. 441][/us/stat/120/441], which directed that this section be added at the end of title I of the Department of State Basic Authorities Act of 1956, was executed by adding this section at the end of title I of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
  __Amendments__ 
 
@@ -47,17 +47,17 @@
 
  __Extension of Authority__ 
 
-[Pub. L. 114–113, div. K, title VII, § 7034(k)(5)][/us/pl/114/113/s7034/k/5], Dec. 18, 2015, [129 Stat. 2765][/us/stat/129/2765], provided that: 
+[Pub. L. 114–113, div. K, title VII][/us/pl/114/113/dK/tVII], § 7034(k)(5), Dec. 18, 2015, [129 Stat. 2765][/us/stat/129/2765], provided that: 
 
 > “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)][/us/usc/t22/s2733/a]) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2010’ in paragraph (2).”
 
 Prior extensions were contained in the following prior acts:
 
-    [Pub. L. 113–235, div. J, title VII, § 7034][/us/pl/113/235/s7034](l)(5), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625].
+    [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7034(l)(5), Dec. 16, 2014, [128 Stat. 2625][/us/stat/128/2625].
 
-    [Pub. L. 113–76, div. K, title VII, § 7034(m)(5)][/us/pl/113/76/s7034/m/5], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
+    [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7034(m)(5), Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515].
 
-    [Pub. L. 112–74, div. I, title VII, § 7034(m)(5)][/us/pl/112/74/s7034/m/5], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
+    [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(m)(5), Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
 ----------
 
@@ -67,22 +67,22 @@ Prior extensions were contained in the following prior acts:
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/109/234/s1602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1602%2Fb%2F1
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F441
-[/us/pl/111/32/s1115/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1115%2Fc%2F2
+[/us/pl/111/32/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXI
 [/us/stat/123/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1905
-[/us/pl/109/234/s1602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1602%2Fb%2F1
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F441
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
-[/us/pl/114/113/s7034/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7034%2Fk%2F5
+[/us/pl/114/113/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtVII
 [/us/stat/129/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2765
 [/us/usc/t22/s2733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2733%2Fa
-[/us/pl/113/235/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2625
-[/us/pl/113/76/s7034/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F5
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
-[/us/pl/112/74/s7034/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F5
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
 
 

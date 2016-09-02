@@ -55,7 +55,7 @@
 
             (F) consistent with the provisions of this subchapter, exercise the functions the Authority has under chapter 71 of title 5 to the same extent and in the same manner as is the case with respect to persons subject to chapter 71 of such title.
 
-([Pub. L. 96–465, title I, § 1007][/us/pl/96/465/s1007], Oct. 17, 1980, [94 Stat. 2132][/us/stat/94/2132].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1007, Oct. 17, 1980, [94 Stat. 2132][/us/stat/94/2132].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t22/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4114
-[/us/pl/96/465/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1007
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2132
 
 

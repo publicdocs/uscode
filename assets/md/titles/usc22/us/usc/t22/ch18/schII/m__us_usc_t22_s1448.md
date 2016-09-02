@@ -21,7 +21,7 @@
 
  __Partial Repeal__ 
 
-    [Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], repealed this section insofar as it relates to schools. See section 2451 et seq. of this title.
+    [Pub. L. 87–256][/us/pl/87/256], § 111(a)(2), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], repealed this section insofar as it relates to schools. See section 2451 et seq. of this title.
 
  __Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F7
-[/us/pl/87/256/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fa%2F2
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/pl/87/256/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fb
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451

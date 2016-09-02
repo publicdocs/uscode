@@ -35,7 +35,7 @@
 
         The provisions of [section 1346(b) of title 28][/us/usc/t28/s1346/b] and the provisions of chapter 171 of such title shall not apply to claims cognizable under this part.
 
-([Pub. L. 96–70, title I, § 1401][/us/pl/96/70/s1401], Sept. 27, 1979, [93 Stat. 484][/us/stat/93/484]; [Pub. L. 100–203, title V, § 5417(a)][/us/pl/100/203/s5417/a], Dec. 22, 1987, [101 Stat. 1330–271][/us/stat/101/1330-271]; [Pub. L. 104–106, div. C, title XXXV, § 3529(4)][/us/pl/104/106/s3529/4], Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1401, Sept. 27, 1979, [93 Stat. 484][/us/stat/93/484]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5417(a), Dec. 22, 1987, [101 Stat. 1330–271][/us/stat/101/1330-271]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3529(4), Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 [/us/usc/t22/s3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3776
 [/us/usc/t22/s3776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3776
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
-[/us/pl/96/70/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1401
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F484
-[/us/pl/100/203/s5417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5417%2Fa
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-271
-[/us/pl/104/106/s3529/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3529%2F4
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F642
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

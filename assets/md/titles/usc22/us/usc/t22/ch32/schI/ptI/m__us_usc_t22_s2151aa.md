@@ -179,7 +179,7 @@
 
             Amounts authorized to be appropriated under paragraph (1) are authorized to remain available until expended.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 129, as added [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 589(a)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–205; amended [Pub. L. 106–309, title II, § 204][/us/pl/106/309/s204], Oct. 17, 2000, [114 Stat. 1092][/us/stat/114/1092].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 129, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 589(a)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–205; amended [Pub. L. 106–309, title II][/us/pl/106/309/tII], § 204, Oct. 17, 2000, [114 Stat. 1092][/us/stat/114/1092].)
 
  __References in Text__ 
 
@@ -210,9 +210,9 @@
 [/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/106/309/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs204
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1092
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

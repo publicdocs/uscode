@@ -17,7 +17,7 @@
 
     The President may allocate or transfer to any agency of the United States Government any part of any funds available for carrying out the purposes of this chapter. Such funds shall be available for obligation and expenditure for the purposes for which authorized in accordance with authority granted in this chapter or under authority governing the activities of the agencies of the United States Government to which such funds are allocated or transferred. Funds allocated or transferred pursuant to this section to any such agency may be established in separate appropriation accounts on the books of the Treasury.
 
-([Pub. L. 87–510, § 4(b)][/us/pl/87/510/s4/b], June 28, 1962, [76 Stat. 123][/us/stat/76/123].)
+([Pub. L. 87–510][/us/pl/87/510], § 4(b), June 28, 1962, [76 Stat. 123][/us/stat/76/123].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/510/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs4%2Fb
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F123
 [/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121

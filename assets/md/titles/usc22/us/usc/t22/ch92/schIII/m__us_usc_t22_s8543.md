@@ -105,7 +105,7 @@
 
         A report required by subsection (b) or (d) may be submitted in classified form.
 
-([Pub. L. 111–195, title III, § 303][/us/pl/111/195/s303], July 1, 2010, [124 Stat. 1347][/us/stat/124/1347].)
+([Pub. L. 111–195, title III][/us/pl/111/195/tIII], § 303, July 1, 2010, [124 Stat. 1347][/us/stat/124/1347].)
 
  __Termination of Section__ 
 
@@ -127,7 +127,7 @@
 [/us/usc/t22/s8542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8542%2Fb
 [/us/usc/t22/s8542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8542%2Fb
 [/us/usc/t22/s8542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8542%2Fb
-[/us/pl/111/195/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs303
+[/us/pl/111/195/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtIII
 [/us/stat/124/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1347
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501

@@ -21,7 +21,7 @@
 
     (2) how to improve foreign assistance programs related to the promotion of democracy.
 
-([Pub. L. 110–53, title XXI, § 2131][/us/pl/110/53/s2131], Aug. 3, 2007, [121 Stat. 533][/us/stat/121/533].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2131, Aug. 3, 2007, [121 Stat. 533][/us/stat/121/533].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2131
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F533
 
 

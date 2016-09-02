@@ -27,7 +27,7 @@
 
     (5) that  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “that” probably should not appear. </sup></sup>  the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions, but that there is a need for television broadcasts to Cuba which provide news, commentary, and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
 
-([Pub. L. 101–246, title II, § 242][/us/pl/101/246/s242], Feb. 16, 1990, [104 Stat. 58][/us/stat/104/58].)
+([Pub. L. 101–246, title II][/us/pl/101/246/tII], § 242, Feb. 16, 1990, [104 Stat. 58][/us/stat/104/58].)
 
  __Repeal of Section__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–246, title II, § 241][/us/pl/101/246/s241], Feb. 16, 1990, [104 Stat. 58][/us/stat/104/58], provided that: 
+[Pub. L. 101–246, title II][/us/pl/101/246/tII], § 241, Feb. 16, 1990, [104 Stat. 58][/us/stat/104/58], provided that: 
 
 > “This part \[part D (§§ 241–248) of title II of [Pub. L. 101–246][/us/pl/101/246], enacting this subchapter, amending [section 1465c of this title][/us/usc/t22/s1465c], and enacting provisions set out as notes under [section 1465c of this title][/us/usc/t22/s1465c]\] may be cited as the ‘Television Broadcasting to Cuba Act’.”
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/101/246/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs242
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F58
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
-[/us/pl/101/246/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs241
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F58
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/usc/t22/s1465c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465c

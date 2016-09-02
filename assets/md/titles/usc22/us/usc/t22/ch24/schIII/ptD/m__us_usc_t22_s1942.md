@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1943.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1939...1941.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1943.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942)
 
 ## § 1942. Development assistance in Latin America; Congressional declaration of policy
 
@@ -51,7 +51,7 @@
 
         (7) declares that it is prepared to give careful and sympathetic consideration to programs which the President may develop for the purpose of promoting these policies.
 
-([Pub. L. 86–735, § 1][/us/pl/86/735/s1], Sept. 8, 1960, [74 Stat. 869][/us/stat/74/869].)
+([Pub. L. 86–735][/us/pl/86/735], § 1, Sept. 8, 1960, [74 Stat. 869][/us/stat/74/869].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
  __Revision of Social Progress Trust Fund Agreement__ 
 
-[Pub. L. 93–189, § 36][/us/pl/93/189/s36], Dec. 17, 1973, [87 Stat. 734][/us/stat/87/734], as amended by [Pub. L. 97–113, title VII, § 734(a)(9)][/us/pl/97/113/s734/a/9], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that:
+[Pub. L. 93–189][/us/pl/93/189], § 36, Dec. 17, 1973, [87 Stat. 734][/us/stat/87/734], as amended by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(9), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that:
 
 >     “(a)
 
@@ -83,9 +83,9 @@
 
 >     “(d) The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be used in making the transfer or utilization described in this section.
 
->     “(e) \[Repealed. [Pub. L. 97–113, title VII, § 734(a)(9)][/us/pl/97/113/s734/a/9], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560]\].”
+>     “(e) \[Repealed. [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(9), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560]\].”
 
-    \[Amendment of provisions of [section 36 of Pub. L. 93–189][/us/pl/93/189/s36], set out above, by [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 586(h)(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–120, did not become effective pursuant to section 1000(a)(2) \[title V, § 586\] of div. B of [Pub. L. 106–113][/us/pl/106/113], formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title][/us/usc/t22/s290f].\]
+    \[Amendment of provisions of [section 36 of Pub. L. 93–189][/us/pl/93/189/s36], set out above, by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 586(h)(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–120, did not become effective pursuant to section 1000(a)(2) \[title V, § 586\] of div. B of [Pub. L. 106–113][/us/pl/106/113], formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title][/us/usc/t22/s290f].\]
 
  __Delegation of Responsibilities Related to the Latin American Development Act of 1960__ 
 
@@ -103,27 +103,27 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1943.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1939...1941.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1943.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942)
 
 ----------
 ----------
 
-[/us/pl/86/735/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735%2Fs1
+[/us/pl/86/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735
 [/us/stat/74/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F869
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F390
 [/us/pl/86/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735
 [/us/usc/t22/s1753a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1753a
-[/us/pl/93/189/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs36
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F734
-[/us/pl/97/113/s734/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F9
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f
 [/us/usc/t22/s1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942
-[/us/pl/97/113/s734/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F9
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/93/189/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs36
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f

@@ -31,7 +31,7 @@
 
         Funds are available under this section to the extent and in the amounts provided in appropriation Acts.
 
-([Pub. L. 103–236, title II, § 254][/us/pl/103/236/s254], Apr. 30, 1994, [108 Stat. 430][/us/stat/108/430].)
+([Pub. L. 103–236, title II][/us/pl/103/236/tII], § 254, Apr. 30, 1994, [108 Stat. 430][/us/stat/108/430].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t5/s3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3582
 [/us/usc/t5/s3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3582
 [/us/usc/t5/s3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3582
-[/us/pl/103/236/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs254
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F430
 
 

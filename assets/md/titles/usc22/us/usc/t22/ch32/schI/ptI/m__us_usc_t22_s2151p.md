@@ -37,7 +37,7 @@
 
         (2) The President may establish exceptions from the requirements of this subsection for emergency conditions and for cases in which compliance with those requirements would be seriously detrimental to the foreign policy interests of the United States.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 117, formerly § 118, as added [Pub. L. 95–88, title I, § 113(a)][/us/pl/95/88/s113/a], Aug. 3, 1977, [91 Stat. 537][/us/stat/91/537]; amended [Pub. L. 95–424, title I, § 110][/us/pl/95/424/s110], Oct. 6, 1978, [92 Stat. 948][/us/stat/92/948]; [Pub. L. 96–53, title I, § 122][/us/pl/96/53/s122], Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 97–113, title III, § 307][/us/pl/97/113/s307], Dec. 29, 1981, [95 Stat. 1533][/us/stat/95/1533]; renumbered § 117 and amended [Pub. L. 99–529, title III, § 301(1)][/us/pl/99/529/s301/1], (2), Oct. 24, 1986, [100 Stat. 3014][/us/stat/100/3014]; [Pub. L. 101–513, title V, § 562(d)(4)][/us/pl/101/513/s562/d/4], Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 117, formerly § 118, as added [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 113(a), Aug. 3, 1977, [91 Stat. 537][/us/stat/91/537]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 110, Oct. 6, 1978, [92 Stat. 948][/us/stat/92/948]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 122, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 307, Dec. 29, 1981, [95 Stat. 1533][/us/stat/95/1533]; renumbered § 117 and amended [Pub. L. 99–529, title III][/us/pl/99/529/tIII], § 301(1), (2), Oct. 24, 1986, [100 Stat. 3014][/us/stat/100/3014]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(d)(4), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -51,7 +51,7 @@
 
     1990—Subsec. (c)(1). [Pub. L. 101–513][/us/pl/101/513] inserted “and part X of this subchapter” after “this part” wherever appearing.
 
-    1986—Subsec. (d). [Pub. L. 99–529, § 301(2)][/us/pl/99/529/s301/2], struck out subsec. (d) relating to loss of tropical forests in developing countries. See [section 2151p–1 of this title][/us/usc/t22/s2151p–1].
+    1986—Subsec. (d). [Pub. L. 99–529][/us/pl/99/529], § 301(2), struck out subsec. (d) relating to loss of tropical forests in developing countries. See [section 2151p–1 of this title][/us/usc/t22/s2151p–1].
 
     1981—[Pub. L. 97–113][/us/pl/97/113] amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized President to furnish assistance under this subchapter for developing and strengthening capacity of less developed countries to protect and manage their environment and natural resources and directed President to take into consideration environmental consequences of development actions in carrying out this part.
 
@@ -73,7 +73,7 @@
 
  __Clean Water for the Americas Partnership__ 
 
-[Pub. L. 107–228, div. A, title VI][/us/pl/107/228], subtitle D, Sept. 30, 2002, [116 Stat. 1402][/us/stat/116/1402], provided that:
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], subtitle D, Sept. 30, 2002, [116 Stat. 1402][/us/stat/116/1402], provided that:
 
 > “SEC. 641. __SHORT TITLE.__ 
 
@@ -225,17 +225,17 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/88/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs113%2Fa
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F537
-[/us/pl/95/424/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs110
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F948
-[/us/pl/96/53/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs122
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F366
-[/us/pl/97/113/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs307
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1533
-[/us/pl/99/529/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs301%2F1
+[/us/pl/99/529/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2FtIII
 [/us/stat/100/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3014
-[/us/pl/101/513/s562/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd%2F4
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2031
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -243,7 +243,7 @@
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
-[/us/pl/99/529/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs301%2F2
+[/us/pl/99/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529
 [/us/usc/t22/s2151p–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151p%E2%80%931
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
@@ -255,7 +255,7 @@
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1402
 [/us/usc/t26/s501/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F6
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa

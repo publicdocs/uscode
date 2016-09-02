@@ -165,7 +165,7 @@
 
         After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
 
-([Pub. L. 106–386, div. A, § 110][/us/pl/106/386/s110], Oct. 28, 2000, [114 Stat. 1482][/us/stat/114/1482]; [Pub. L. 108–193, § 6(e)][/us/pl/108/193/s6/e], (h), (i), Dec. 19, 2003, [117 Stat. 2882][/us/stat/117/2882], 2884; [Pub. L. 109–164, title I, § 104(e)(1)][/us/pl/109/164/s104/e/1], Jan. 10, 2006, [119 Stat. 3565][/us/stat/119/3565]; [Pub. L. 110–457, title I][/us/pl/110/457], §§ 107(a), (b), 108(b), Dec. 23, 2008, [122 Stat. 5049][/us/stat/122/5049], 5051; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1205, 1212(b)(2)(A)(i), Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139], 143.)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 110, Oct. 28, 2000, [114 Stat. 1482][/us/stat/114/1482]; [Pub. L. 108–193][/us/pl/108/193], § 6(e), (h), (i), Dec. 19, 2003, [117 Stat. 2882][/us/stat/117/2882], 2884; [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 104(e)(1), Jan. 10, 2006, [119 Stat. 3565][/us/stat/119/3565]; [Pub. L. 110–457, title I][/us/pl/110/457/tI], §§ 107(a), (b), 108(b), Dec. 23, 2008, [122 Stat. 5049][/us/stat/122/5049], 5051; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], §§ 1205, 1212(b)(2)(A)(i), Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139], 143.)
 
  __References in Text__ 
 
@@ -173,33 +173,33 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–4, § 1205(1)(A)][/us/pl/113/4/s1205/1/A], in introductory provisions, substituted “describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in [section 7106 of this title][/us/usc/t22/s7106], and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—” for “with respect to the status of severe forms of trafficking in persons that shall include—”.
+    2013—Subsec. (b)(1). [Pub. L. 113–4][/us/pl/113/4], § 1205(1)(A), in introductory provisions, substituted “describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in [section 7106 of this title][/us/usc/t22/s7106], and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—” for “with respect to the status of severe forms of trafficking in persons that shall include—”.
 
-    Subsec. (b)(1)(G). [Pub. L. 113–4, § 1205(1)(B)][/us/pl/113/4/s1205/1/B]–(D), added subpar. (G).
+    Subsec. (b)(1)(G). [Pub. L. 113–4][/us/pl/113/4], § 1205(1)(B)–(D), added subpar. (G).
 
-    Subsec. (b)(2) to (4). [Pub. L. 113–4, § 1205(2)][/us/pl/113/4/s1205/2]–(4), redesignated pars. (3) and (4) as (2) and (3), respectively, added subpar. (E) in par. (2), and struck out former par. (2) which related to interim reports.
+    Subsec. (b)(2) to (4). [Pub. L. 113–4][/us/pl/113/4], § 1205(2)–(4), redesignated pars. (3) and (4) as (2) and (3), respectively, added subpar. (E) in par. (2), and struck out former par. (2) which related to interim reports.
 
-    Subsec. (e). [Pub. L. 113–4, § 1212(b)(2)(A)(i)][/us/pl/113/4/s1212/b/2/A/i], substituted “section 7102(8)(A)” for “section 7102(7)(A) and “section 7102(8)(B)” for “section 7102(7)(B)”.
+    Subsec. (e). [Pub. L. 113–4][/us/pl/113/4], § 1212(b)(2)(A)(i), substituted “section 7102(8)(A)” for “section 7102(7)(A) and “section 7102(8)(B)” for “section 7102(7)(B)”.
 
-    2008—Subsec. (b)(1)(E), (F). [Pub. L. 110–457, § 108(b)][/us/pl/110/457/s108/b], added subpars. (E) and (F).
+    2008—Subsec. (b)(1)(E), (F). [Pub. L. 110–457][/us/pl/110/457], § 108(b), added subpars. (E) and (F).
 
-    Subsec. (b)(3)(D). [Pub. L. 110–457, § 107(a)][/us/pl/110/457/s107/a], added subpar. (D).
+    Subsec. (b)(3)(D). [Pub. L. 110–457][/us/pl/110/457], § 107(a), added subpar. (D).
 
-    Subsec. (d)(1)(A)(ii). [Pub. L. 110–457, § 107(b)][/us/pl/110/457/s107/b], inserted “such assistance to the government of the country for the subsequent fiscal year and will not provide” after “the United States will not provide”.
+    Subsec. (d)(1)(A)(ii). [Pub. L. 110–457][/us/pl/110/457], § 107(b), inserted “such assistance to the government of the country for the subsequent fiscal year and will not provide” after “the United States will not provide”.
 
     2006—Subsec. (b)(1)(D). [Pub. L. 109–164][/us/pl/109/164] added subpar. (D).
 
-    2003—Subsec. (b)(3), (4). [Pub. L. 108–193, § 6(e)][/us/pl/108/193/s6/e], added par. (3) and redesignated former par. (3) as (4).
+    2003—Subsec. (b)(3), (4). [Pub. L. 108–193][/us/pl/108/193], § 6(e), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (d)(4). [Pub. L. 108–193, § 6(h)(1)][/us/pl/108/193/s6/h/1], inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
+    Subsec. (d)(4). [Pub. L. 108–193][/us/pl/108/193], § 6(h)(1), inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
 
-    Subsec. (d)(5)(A)(i). [Pub. L. 108–193, § 6(h)(2)][/us/pl/108/193/s6/h/2], inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
+    Subsec. (d)(5)(A)(i). [Pub. L. 108–193][/us/pl/108/193], § 6(h)(2), inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
 
-    Subsec. (f). [Pub. L. 108–193, § 6(i)][/us/pl/108/193/s6/i], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–193][/us/pl/108/193], § 6(i), added subsec. (f).
 
  __Translation of Trafficking-in-Persons Report__ 
 
-[Pub. L. 110–457, title I, § 107(c)][/us/pl/110/457/s107/c], Dec. 23, 2008, [122 Stat. 5050][/us/stat/122/5050], provided that: 
+[Pub. L. 110–457, title I][/us/pl/110/457/tI], § 107(c), Dec. 23, 2008, [122 Stat. 5050][/us/stat/122/5050], provided that: 
 
 > “The Secretary of State shall—
 
@@ -323,33 +323,33 @@ Prior provisions delegating authority under section 110(d)(4) and (c) or (f) of 
 [/us/usc/t22/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7106
 [/us/usc/t22/s7102/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F8%2FA
 [/us/usc/t22/s7102/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F8%2FB
-[/us/pl/106/386/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs110
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1482
-[/us/pl/108/193/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fe
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2882
-[/us/pl/109/164/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fe%2F1
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3565
-[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5049
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F139
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
-[/us/pl/113/4/s1205/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1205%2F1%2FA
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t22/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7106
-[/us/pl/113/4/s1205/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1205%2F1%2FB
-[/us/pl/113/4/s1205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1205%2F2
-[/us/pl/113/4/s1212/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FA%2Fi
-[/us/pl/110/457/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs108%2Fb
-[/us/pl/110/457/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs107%2Fa
-[/us/pl/110/457/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs107%2Fb
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
-[/us/pl/108/193/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fe
-[/us/pl/108/193/s6/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fh%2F1
-[/us/pl/108/193/s6/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fh%2F2
-[/us/pl/108/193/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fi
-[/us/pl/110/457/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs107%2Fc
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5050
 [/us/usc/t22/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb
 [/us/usc/t22/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107

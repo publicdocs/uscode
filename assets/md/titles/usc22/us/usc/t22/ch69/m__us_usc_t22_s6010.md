@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “United States person” means any United States citizen or alien admitted for permanent residence in the United States, and any corporation, partnership, or other organization organized under the laws of the United States.
 
-([Pub. L. 102–484, div. A, title XVII, § 1711][/us/pl/102/484/s1711], Oct. 23, 1992, [106 Stat. 2581][/us/stat/106/2581].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1711, Oct. 23, 1992, [106 Stat. 2581][/us/stat/106/2581].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1711
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2581
 
 

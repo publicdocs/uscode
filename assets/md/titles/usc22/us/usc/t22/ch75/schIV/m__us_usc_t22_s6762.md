@@ -37,7 +37,7 @@
 
             In any such civil action process may be served on a defendant wherever the defendant may reside or may be found, whether the defendant resides or may be found within the United States or elsewhere.
 
-([Pub. L. 105–277, div. I, title V, § 502][/us/pl/105/277/s502], Oct. 21, 1998, [112 Stat. 2681–885][/us/stat/112/2681-885].)
+([Pub. L. 105–277, div. I, title V][/us/pl/105/277/dI/tV], § 502, Oct. 21, 1998, [112 Stat. 2681–885][/us/stat/112/2681-885].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs502
+[/us/pl/105/277/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtV
 [/us/stat/112/2681-885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-885
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

@@ -47,17 +47,17 @@
 
         Annuities that become payable under this section shall commence, terminate, and be resumed in accordance with subsection (b)(4), (e), or (h) of [section 4046 of this title][/us/usc/t22/s4046], as appropriate.
 
-([Pub. L. 96–465, title I, § 809][/us/pl/96/465/s809], Oct. 17, 1980, [94 Stat. 2111][/us/stat/94/2111]; [Pub. L. 99–335, title IV, § 402(a)(2)][/us/pl/99/335/s402/a/2], (c), June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 100–238, title II][/us/pl/100/238], §§ 214(b), 215(b), Jan. 8, 1988, [101 Stat. 1774][/us/stat/101/1774].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 809, Oct. 17, 1980, [94 Stat. 2111][/us/stat/94/2111]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(2), (c), June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 100–238, title II][/us/pl/100/238/tII], §§ 214(b), 215(b), Jan. 8, 1988, [101 Stat. 1774][/us/stat/101/1774].)
 
  __Amendments__ 
 
-    1988—Subsecs. (c), (d). [Pub. L. 100–238, § 214(b)][/us/pl/100/238/s214/b], inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant,” after “spouse”.
+    1988—Subsecs. (c), (d). [Pub. L. 100–238][/us/pl/100/238], § 214(b), inserted “or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant,” after “spouse”.
 
-    Subsec. (e). [Pub. L. 100–238, § 215(b)][/us/pl/100/238/s215/b], substituted “60” for “65”.
+    Subsec. (e). [Pub. L. 100–238][/us/pl/100/238], § 215(b), substituted “60” for “65”.
 
-    1986—Subsec. (a). [Pub. L. 99–335, § 402(c)][/us/pl/99/335/s402/c], substituted “part” for “chapter”.
+    1986—Subsec. (a). [Pub. L. 99–335][/us/pl/99/335], § 402(c), substituted “part” for “chapter”.
 
-    Subsec. (b). [Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter”.
+    Subsec. (b). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -87,16 +87,16 @@
 [/us/usc/t22/s4054/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054%2Fb
 [/us/usc/t22/s4046/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fb%2F3%2FB
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
-[/us/pl/96/465/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs809
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2111
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1774
-[/us/pl/100/238/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs214%2Fb
-[/us/pl/100/238/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs215%2Fb
-[/us/pl/99/335/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fc
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/100/238/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs261%2Fa
 [/us/usc/t22/s4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054

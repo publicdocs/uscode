@@ -17,7 +17,7 @@
 
     No remuneration on account of services rendered on behalf of any claimant in connection with any claim filed with the Commission under this subchapter shall exceed 10 per centum of the total amount paid pursuant to any award certified under the provisions of this subchapter on account of such claim. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives, on account of services so rendered, any remuneration in excess of the maximum permitted by this section, shall be guilty of a misdemeanor, and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 414, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 530][/us/stat/72/530].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 414, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 530][/us/stat/72/530].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F530
 
 

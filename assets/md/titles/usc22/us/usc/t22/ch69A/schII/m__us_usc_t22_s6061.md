@@ -57,7 +57,7 @@
 
     (16) To pursue trade relations with a free, democratic, and independent Cuba.
 
-([Pub. L. 104–114, title II, § 201][/us/pl/104/114/s201], Mar. 12, 1996, [110 Stat. 805][/us/stat/110/805].)
+([Pub. L. 104–114, title II][/us/pl/104/114/tII], § 201, Mar. 12, 1996, [110 Stat. 805][/us/stat/110/805].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs201
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F805
 
 

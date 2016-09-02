@@ -23,11 +23,11 @@
 
         Any payment of dividends made to the United States by the Corporation shall be covered into the Treasury as a miscellaneous receipt.
 
-([Aug. 11, 1955, ch. 788, § 7][/us/act/1955-08-11/ch788/s7], [69 Stat. 670][/us/stat/69/670].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 7, [69 Stat. 670][/us/stat/69/670].)
 
  __Codification__ 
 
-    In subsec. (a), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch788/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs7
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
 [/us/stat/69/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F670
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

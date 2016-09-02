@@ -21,7 +21,7 @@
 
     (2) in the case of an individual who is appointed to the Foreign Service after October 17, 1980, on the date such appointment becomes effective.
 
-([Pub. L. 96–465, title II, § 2101][/us/pl/96/465/s2101], Oct. 17, 1980, [94 Stat. 2148][/us/stat/94/2148].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2101, Oct. 17, 1980, [94 Stat. 2148][/us/stat/94/2148].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2101
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2148
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

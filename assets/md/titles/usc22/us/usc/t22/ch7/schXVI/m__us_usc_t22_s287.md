@@ -47,7 +47,7 @@
 
         The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the Vienna office of the United Nations with appropriate rank and status, who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such individual shall, at the direction of the Secretary of State, represent the United States at the Vienna office of the United Nations and perform such other functions there in connection with the participation of the United States in international organizations as the Secretary of State from time to time may direct. The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.
 
-([Dec. 20, 1945, ch. 583, § 2][/us/act/1945-12-20/ch583/s2], [59 Stat. 619][/us/stat/59/619]; [Oct. 10, 1949, ch. 660][/us/act/1949-10-10/ch660], §§ 1, 2, [63 Stat. 734][/us/stat/63/734], 735; [Pub. L. 89–206][/us/pl/89/206], §§ 1, 2, Sept. 28, 1965, [79 Stat. 841][/us/stat/79/841], 842; [Pub. L. 96–465, title II, § 2206(a)(2)(A)][/us/pl/96/465/s2206/a/2/A], Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160]; [Pub. L. 97–241, title I, § 118][/us/pl/97/241/s118], Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 708(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461.)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 2, [59 Stat. 619][/us/stat/59/619]; [Oct. 10, 1949, ch. 660][/us/act/1949-10-10/ch660], §§ 1, 2, [63 Stat. 734][/us/stat/63/734], 735; [Pub. L. 89–206][/us/pl/89/206], §§ 1, 2, Sept. 28, 1965, [79 Stat. 841][/us/stat/79/841], 842; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(2)(A), Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 118, Aug. 24, 1982, [96 Stat. 279][/us/stat/96/279]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 708(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461.)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
     1980—Subsec. (g). [Pub. L. 96–465][/us/pl/96/465] substituted “sections 3961, 3962, and 3963 of this title for chiefs of mission, members of the Senior Foreign Service,” for “sections 866 and 867 of this title for chiefs of mission”.
 
-    1965—Subsec. (a). [Pub. L. 89–206, § 1(a)][/us/pl/89/206/s1/a], struck out provisions which related to the appointment, rank and status, tenure and duties of a deputy representative of the United States to the United Nations.
+    1965—Subsec. (a). [Pub. L. 89–206][/us/pl/89/206], § 1(a), struck out provisions which related to the appointment, rank and status, tenure and duties of a deputy representative of the United States to the United Nations.
 
-    Subsec. (b). [Pub. L. 89–206, § 1(a)][/us/pl/89/206/s1/a], substituted provisions that the President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament, that they shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations, that they shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations, and that any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended, for provisions which authorized the President, by and with the advice and consent of the Senate, to appoint an additional deputy representative of the United States to the Security Council who shall hold office at the pleasure of the President, and which required the deputy representative to represent the United States in the Security Council of the United Nations in the event of the absence or disability of both the representative and the deputy representative of the United States to the United Nations.
+    Subsec. (b). [Pub. L. 89–206][/us/pl/89/206], § 1(a), substituted provisions that the President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament, that they shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations, that they shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations, and that any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended, for provisions which authorized the President, by and with the advice and consent of the Senate, to appoint an additional deputy representative of the United States to the Security Council who shall hold office at the pleasure of the President, and which required the deputy representative to represent the United States in the Security Council of the United Nations in the event of the absence or disability of both the representative and the deputy representative of the United States to the United Nations.
 
-    Subsec. (d). [Pub. L. 89–206, § 1(b)][/us/pl/89/206/s1/b], struck out provisions which required the representative of the United States in the Economic and Social Council and in the Trusteeship Council of the United Nations to be appointed only by and with the advice and consent of the Senate and which required the advice and consent of the Senate for the appointment by the President of the representative of the United States in any commission that may be formed by the United Nations with respect to atomic energy or in any other commission of the United Nations to which the United States is entitled to appoint a representative.
+    Subsec. (d). [Pub. L. 89–206][/us/pl/89/206], § 1(b), struck out provisions which required the representative of the United States in the Economic and Social Council and in the Trusteeship Council of the United Nations to be appointed only by and with the advice and consent of the Senate and which required the advice and consent of the Senate for the appointment by the President of the representative of the United States in any commission that may be formed by the United Nations with respect to atomic energy or in any other commission of the United Nations to which the United States is entitled to appoint a representative.
 
-    Subsecs. (e) to (g). [Pub. L. 89–206, § 2][/us/pl/89/206/s2], added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 89–206][/us/pl/89/206], § 2, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
     1949—Subsec. (a). Act Oct. 10, 1949, § 1, created new post of deputy representative, and allowed the principal and deputy representatives to serve ex officio on any organ, commission, or body, other than specialized agencies, of the United Nations.
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 708(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 708(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462, provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 2021 of this title][/us/usc/t22/s2021]\] shall apply to individuals appointed on or after the date of enactment of this Act \[Nov. 29, 1999\].”
 
@@ -91,13 +91,13 @@
 
  __Short Title__ 
 
-[Act Dec. 20, 1945, ch. 583, § 1][/us/act/1945-12-20/ch583/s1], [59 Stat. 619][/us/stat/59/619], provided that: 
+[Act Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 1, [59 Stat. 619][/us/stat/59/619], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘United Nations Participation Act of 1945’.”
 
  __United States Membership on the United Nations Commission on Human Rights and International Narcotics Control Board__ 
 
-[Pub. L. 107–228, div. A, title IV, § 408][/us/pl/107/228/s408], Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391], provided that: 
+[Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 408, Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391], provided that: 
 
 > “The United States, in connection with its voice and vote in the United Nations General Assembly and the United Nations Economic and Social Council, shall make every reasonable effort—
 
@@ -111,7 +111,7 @@
 
  __United Nations Policy on Israel and the Palestinians__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 721\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 721\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462, provided that:
 
 >     “(a)  __Congressional Statement__  __.—__ 
 
@@ -137,15 +137,15 @@
 
  __United States Commission on Improving the Effectiveness of the United Nations__ 
 
-    [Pub. L. 100–204, title VII][/us/pl/100/204], part B, Dec. 22, 1987, [101 Stat. 1391][/us/stat/101/1391], as amended by [Pub. L. 101–246, title IV, § 409][/us/pl/101/246/s409], Feb. 16, 1990, [104 Stat. 68][/us/stat/104/68], provided for establishment, membership, etc., of United States Commission on Improving the Effectiveness of the United Nations to examine the United Nations system as a whole and identify and evaluate its strengths and weaknesses and to transmit to President and Congress, not later than 18 months after the date on which all members of the Commission have been appointed, a report containing a detailed statement of the findings, conclusions, and recommendations of the Commission, which report was dated Sept. 10, 1993, and the Commission terminated Sept. 30, 1993.
+    [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], part B, Dec. 22, 1987, [101 Stat. 1391][/us/stat/101/1391], as amended by [Pub. L. 101–246, title IV][/us/pl/101/246/tIV], § 409, Feb. 16, 1990, [104 Stat. 68][/us/stat/104/68], provided for establishment, membership, etc., of United States Commission on Improving the Effectiveness of the United Nations to examine the United Nations system as a whole and identify and evaluate its strengths and weaknesses and to transmit to President and Congress, not later than 18 months after the date on which all members of the Commission have been appointed, a report containing a detailed statement of the findings, conclusions, and recommendations of the Commission, which report was dated Sept. 10, 1993, and the Commission terminated Sept. 30, 1993.
 
  __Soviet Mission at the United Nations__ 
 
-    [Pub. L. 99–569, title VII, § 702][/us/pl/99/569/s702], Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204], related to policy of Congress of limiting number of Soviet nationals serving as members of Soviet mission at the United Nations to number not to substantially exceed number of United States nationals serving as members of United States mission, required Secretary of State to report numbers of Soviet nationals so serving, and provided that spouses and dependents were not to be included in such numbers, prior to repeal by [Pub. L. 103–199, title V, § 501(d)][/us/pl/103/199/s501/d], Dec. 17, 1993, [107 Stat. 2325][/us/stat/107/2325].
+    [Pub. L. 99–569, title VII][/us/pl/99/569/tVII], § 702, Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204], related to policy of Congress of limiting number of Soviet nationals serving as members of Soviet mission at the United Nations to number not to substantially exceed number of United States nationals serving as members of United States mission, required Secretary of State to report numbers of Soviet nationals so serving, and provided that spouses and dependents were not to be included in such numbers, prior to repeal by [Pub. L. 103–199, title V][/us/pl/103/199/tV], § 501(d), Dec. 17, 1993, [107 Stat. 2325][/us/stat/107/2325].
 
  __United States Participation in the United Nations if Israel is Illegally Expelled__ 
 
-[Pub. L. 98–164, title I, § 115][/us/pl/98/164/s115], Nov. 22, 1983, [97 Stat. 1021][/us/stat/97/1021], as amended by [Pub. L. 99–93, title I, § 142][/us/pl/99/93/s142], Aug. 16, 1985, [99 Stat. 424][/us/stat/99/424]; [Pub. L. 100–204, title VII, § 704][/us/pl/100/204/s704], Dec. 22, 1987, [101 Stat. 1389][/us/stat/101/1389], provided that:
+[Pub. L. 98–164, title I][/us/pl/98/164/tI], § 115, Nov. 22, 1983, [97 Stat. 1021][/us/stat/97/1021], as amended by [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 142, Aug. 16, 1985, [99 Stat. 424][/us/stat/99/424]; [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 704, Dec. 22, 1987, [101 Stat. 1389][/us/stat/101/1389], provided that:
 
 >     “(a)
 
@@ -161,9 +161,9 @@
 
  __International Year of the Child__ 
 
-    [Pub. L. 95–561, title XV][/us/pl/95/561], §§ 1501–1507, Nov. 1, 1978, [92 Stat. 2373–2375][/us/stat/92/2373-2375], described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission’s membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
+    [Pub. L. 95–561, title XV][/us/pl/95/561/tXV], §§ 1501–1507, Nov. 1, 1978, [92 Stat. 2373–2375][/us/stat/92/2373-2375], described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission’s membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
 
-[Pub. L. 97–35, title V, § 511(b)(1)][/us/pl/97/35/s511/b/1], Aug. 13, 1981, [95 Stat. 443][/us/stat/95/443], provided that: 
+[Pub. L. 97–35, title V][/us/pl/97/35/tV], § 511(b)(1), Aug. 13, 1981, [95 Stat. 443][/us/stat/95/443], provided that: 
 
 > “No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of [Pub. L. 95–561][/us/pl/95/561], see note above\] for fiscal year 1982, 1983, or 1984.”
 
@@ -493,33 +493,33 @@
 
  __UN Membership for Communist China__ 
 
-[Pub. L. 91–472, title I, § 105][/us/pl/91/472/s105], Oct. 21, 1970, [84 Stat. 1044][/us/stat/84/1044], provided that it was the sense of the Congress that the United Nations should not admit the Communist Chinese Government to membership as the representative of China. Similar provisions were contained in the following prior acts:
+[Pub. L. 91–472, title I][/us/pl/91/472/tI], § 105, Oct. 21, 1970, [84 Stat. 1044][/us/stat/84/1044], provided that it was the sense of the Congress that the United Nations should not admit the Communist Chinese Government to membership as the representative of China. Similar provisions were contained in the following prior acts:
 
-    Dec. 24, 1969, [Pub. L. 91–153, title I, § 105][/us/pl/91/153/s105], [83 Stat. 407][/us/stat/83/407].
+    Dec. 24, 1969, [Pub. L. 91–153, title I][/us/pl/91/153/tI], § 105, [83 Stat. 407][/us/stat/83/407].
 
-    Aug. 9, 1968, [Pub. L. 90–470, title I, § 105][/us/pl/90/470/s105], [82 Stat. 672][/us/stat/82/672].
+    Aug. 9, 1968, [Pub. L. 90–470, title I][/us/pl/90/470/tI], § 105, [82 Stat. 672][/us/stat/82/672].
 
-    Nov. 8, 1967, [Pub. L. 90–133, title I, § 105][/us/pl/90/133/s105], [81 Stat. 416][/us/stat/81/416].
+    Nov. 8, 1967, [Pub. L. 90–133, title I][/us/pl/90/133/tI], § 105, [81 Stat. 416][/us/stat/81/416].
 
-    Nov. 8, 1966, [Pub. L. 89–797, title I, § 105][/us/pl/89/797/s105], [80 Stat. 1484][/us/stat/80/1484].
+    Nov. 8, 1966, [Pub. L. 89–797, title I][/us/pl/89/797/tI], § 105, [80 Stat. 1484][/us/stat/80/1484].
 
-    Sept. 2, 1965, [Pub. L. 89–164, title I, § 105][/us/pl/89/164/s105], [79 Stat. 625][/us/stat/79/625].
+    Sept. 2, 1965, [Pub. L. 89–164, title I][/us/pl/89/164/tI], § 105, [79 Stat. 625][/us/stat/79/625].
 
-    Aug. 31, 1964, [Pub. L. 88–527, title I, § 105][/us/pl/88/527/s105], [78 Stat. 716][/us/stat/78/716].
+    Aug. 31, 1964, [Pub. L. 88–527, title I][/us/pl/88/527/tI], § 105, [78 Stat. 716][/us/stat/78/716].
 
-    Dec. 30, 1963, [Pub. L. 88–245, title I, § 105][/us/pl/88/245/s105], [77 Stat. 781][/us/stat/77/781].
+    Dec. 30, 1963, [Pub. L. 88–245, title I][/us/pl/88/245/tI], § 105, [77 Stat. 781][/us/stat/77/781].
 
-    Oct. 18, 1962, [Pub. L. 87–843, title I, § 105][/us/pl/87/843/s105], [76 Stat. 1085][/us/stat/76/1085].
+    Oct. 18, 1962, [Pub. L. 87–843, title I][/us/pl/87/843/tI], § 105, [76 Stat. 1085][/us/stat/76/1085].
 
-    Sept. 21, 1961, [Pub. L. 87–264, title I, § 105][/us/pl/87/264/s105], [75 Stat. 550][/us/stat/75/550].
+    Sept. 21, 1961, [Pub. L. 87–264, title I][/us/pl/87/264/tI], § 105, [75 Stat. 550][/us/stat/75/550].
 
-    Aug. 31, 1960, [Pub. L. 86–678, title I, § 105][/us/pl/86/678/s105], [74 Stat. 561][/us/stat/74/561].
+    Aug. 31, 1960, [Pub. L. 86–678, title I][/us/pl/86/678/tI], § 105, [74 Stat. 561][/us/stat/74/561].
 
-    July 13, 1959, [Pub. L. 86–84, title I, § 105][/us/pl/86/84/s105], [73 Stat. 186][/us/stat/73/186].
+    July 13, 1959, [Pub. L. 86–84, title I][/us/pl/86/84/tI], § 105, [73 Stat. 186][/us/stat/73/186].
 
-    June 30, 1958, [Pub. L. 85–474, title I, § 105][/us/pl/85/474/s105], [72 Stat. 249][/us/stat/72/249].
+    June 30, 1958, [Pub. L. 85–474, title I][/us/pl/85/474/tI], § 105, [72 Stat. 249][/us/stat/72/249].
 
-    June 11, 1957, [Pub. L. 85–49, title I, § 105][/us/pl/85/49/s105], [71 Stat. 60][/us/stat/71/60].
+    June 11, 1957, [Pub. L. 85–49, title I][/us/pl/85/49/tI], § 105, [71 Stat. 60][/us/stat/71/60].
 
     [June 20, 1956, ch. 414][/us/act/1956-06-20/ch414], title I, § 110, [70 Stat. 304][/us/stat/70/304].
 
@@ -632,59 +632,59 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 ----------
 ----------
 
-[/us/act/1945-12-20/ch583/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs2
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619
 [/us/act/1949-10-10/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660
 [/us/stat/63/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F734
 [/us/pl/89/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206
 [/us/stat/79/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F841
-[/us/pl/96/465/s2206/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F2%2FA
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2160
-[/us/pl/97/241/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs118
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F279
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/89/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206
 [/us/stat/79/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F841
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
-[/us/pl/89/206/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206%2Fs1%2Fa
-[/us/pl/89/206/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206%2Fs1%2Fa
-[/us/pl/89/206/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206%2Fs1%2Fb
-[/us/pl/89/206/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206%2Fs2
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/89/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206
+[/us/pl/89/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206
+[/us/pl/89/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206
+[/us/pl/89/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F206
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2021
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/act/1945-12-20/ch583/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs1
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619
-[/us/pl/107/228/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs408
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1391
 [/us/pl/107/228/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs408
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1391
-[/us/pl/101/246/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs409
+[/us/pl/101/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIV
 [/us/stat/104/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F68
-[/us/pl/99/569/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs702
+[/us/pl/99/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtVII
 [/us/stat/100/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3204
-[/us/pl/103/199/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs501%2Fd
+[/us/pl/103/199/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtV
 [/us/stat/107/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2325
-[/us/pl/98/164/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs115
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1021
-[/us/pl/99/93/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs142
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F424
-[/us/pl/100/204/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs704
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1389
-[/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
+[/us/pl/95/561/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXV
 [/us/stat/92/2373-2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2373-2375
-[/us/pl/97/35/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs511%2Fb%2F1
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F443
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/93/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F188
@@ -699,33 +699,33 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 [/us/usc/t40/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3113
 [/us/stat/46/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1421
 [/us/usc/t40/s3114–311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3114%E2%80%93311
-[/us/pl/91/472/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F472%2Fs105
+[/us/pl/91/472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F472%2FtI
 [/us/stat/84/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1044
-[/us/pl/91/153/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F153%2Fs105
+[/us/pl/91/153/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F153%2FtI
 [/us/stat/83/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F407
-[/us/pl/90/470/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F470%2Fs105
+[/us/pl/90/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F470%2FtI
 [/us/stat/82/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F672
-[/us/pl/90/133/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F133%2Fs105
+[/us/pl/90/133/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F133%2FtI
 [/us/stat/81/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F416
-[/us/pl/89/797/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F797%2Fs105
+[/us/pl/89/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F797%2FtI
 [/us/stat/80/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1484
-[/us/pl/89/164/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F164%2Fs105
+[/us/pl/89/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F164%2FtI
 [/us/stat/79/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F625
-[/us/pl/88/527/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F527%2Fs105
+[/us/pl/88/527/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F527%2FtI
 [/us/stat/78/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F716
-[/us/pl/88/245/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F245%2Fs105
+[/us/pl/88/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F245%2FtI
 [/us/stat/77/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F781
-[/us/pl/87/843/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F843%2Fs105
+[/us/pl/87/843/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F843%2FtI
 [/us/stat/76/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1085
-[/us/pl/87/264/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F264%2Fs105
+[/us/pl/87/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F264%2FtI
 [/us/stat/75/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F550
-[/us/pl/86/678/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F678%2Fs105
+[/us/pl/86/678/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F678%2FtI
 [/us/stat/74/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F561
-[/us/pl/86/84/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F84%2Fs105
+[/us/pl/86/84/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F84%2FtI
 [/us/stat/73/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F186
-[/us/pl/85/474/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F474%2Fs105
+[/us/pl/85/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F474%2FtI
 [/us/stat/72/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F249
-[/us/pl/85/49/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F49%2Fs105
+[/us/pl/85/49/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F49%2FtI
 [/us/stat/71/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F60
 [/us/act/1956-06-20/ch414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch414
 [/us/stat/70/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F304

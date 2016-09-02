@@ -23,7 +23,7 @@
 
     (c) make a loan or provide other financing to the Fund, except that funds for technical assistance may be provided to the Fund by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 
-([Pub. L. 94–302, title II, § 205][/us/pl/94/302/s205], May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 205, May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/94/302/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs205
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F594
 
 

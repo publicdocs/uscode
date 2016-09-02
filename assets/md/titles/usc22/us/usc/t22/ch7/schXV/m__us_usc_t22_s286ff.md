@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose and work for the adoption of Fund policies regarding the rate of remuneration paid on use of member’s quota subscriptions and the rate of charges on Fund drawings to bring those rates in line with market rates.
 
-([July 31, 1945, ch. 339, § 48][/us/act/1945-07-31/ch339/s48], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 810\], Nov. 30, 1983, [97 Stat. 1274][/us/stat/97/1274].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 48, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 810\], Nov. 30, 1983, [97 Stat. 1274][/us/stat/97/1274].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs48
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1274
 
 

@@ -55,7 +55,7 @@
 
          The President shall continue to instruct United States diplomatic and military personnel in the United States missions abroad that they should not encourage, promote, or influence the purchase by any foreign country of United States-made military equipment, unless they are specifically instructed to do so by an appropriate official of the executive branch.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 515, as added [Pub. L. 93–559, § 16][/us/pl/93/559/s16], Dec. 30, 1974, [88 Stat. 1799][/us/stat/88/1799]; amended [Pub. L. 94–329, title I, § 104][/us/pl/94/329/s104], June 30, 1976, [90 Stat. 731][/us/stat/90/731]; [Pub. L. 95–92, § 7(a)][/us/pl/95/92/s7/a], Aug. 4, 1977, [91 Stat. 615][/us/stat/91/615]; [Pub. L. 95–384, § 9][/us/pl/95/384/s9], Sept. 26, 1978, [92 Stat. 732][/us/stat/92/732]; [Pub. L. 96–92, § 7][/us/pl/96/92/s7], Oct. 29, 1979, [93 Stat. 703][/us/stat/93/703]; [Pub. L. 96–533, title I, § 114][/us/pl/96/533/s114], Dec. 16, 1980, [94 Stat. 3139][/us/stat/94/3139]; [Pub. L. 97–113, title I, § 112][/us/pl/97/113/s112], Dec. 29, 1981, [95 Stat. 1527][/us/stat/95/1527]; [Pub. L. 99–83, title I, § 125][/us/pl/99/83/s125], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; [Pub. L. 100–690, title IV, § 4305(a)][/us/pl/100/690/s4305/a], Nov. 18, 1988, [102 Stat. 4273][/us/stat/102/4273]; [Pub. L. 101–165, title IX, § 9104(a)][/us/pl/101/165/s9104/a], Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152]; [Pub. L. 101–167, title III][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1213][/us/stat/103/1213]; [Pub. L. 102–391, title V, § 556(c)][/us/pl/102/391/s556/c], Oct. 6, 1992, [106 Stat. 1675][/us/stat/106/1675]; [Pub. L. 104–164, title I, § 143][/us/pl/104/164/s143], July 21, 1996, [110 Stat. 1434][/us/stat/110/1434].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 515, as added [Pub. L. 93–559][/us/pl/93/559], § 16, Dec. 30, 1974, [88 Stat. 1799][/us/stat/88/1799]; amended [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 104, June 30, 1976, [90 Stat. 731][/us/stat/90/731]; [Pub. L. 95–92][/us/pl/95/92], § 7(a), Aug. 4, 1977, [91 Stat. 615][/us/stat/91/615]; [Pub. L. 95–384][/us/pl/95/384], § 9, Sept. 26, 1978, [92 Stat. 732][/us/stat/92/732]; [Pub. L. 96–92][/us/pl/96/92], § 7, Oct. 29, 1979, [93 Stat. 703][/us/stat/93/703]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 114, Dec. 16, 1980, [94 Stat. 3139][/us/stat/94/3139]; [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 112, Dec. 29, 1981, [95 Stat. 1527][/us/stat/95/1527]; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 125, Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4305(a), Nov. 18, 1988, [102 Stat. 4273][/us/stat/102/4273]; [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9104(a), Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152]; [Pub. L. 101–167, title III][/us/pl/101/167/tIII], Nov. 21, 1989, [103 Stat. 1213][/us/stat/103/1213]; [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 556(c), Oct. 6, 1992, [106 Stat. 1675][/us/stat/106/1675]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 143, July 21, 1996, [110 Stat. 1434][/us/stat/110/1434].)
 
  __References in Text__ 
 
@@ -91,25 +91,25 @@
 
     Subsec. (h). [Pub. L. 97–113][/us/pl/97/113] redesignated subsec. (h) as (f).
 
-    1980—Subsec. (b)(1). [Pub. L. 96–533, § 114(1)][/us/pl/96/533/s114/1], substituted “fiscal year 1981” for “fiscal year 1980”, substituted “Portugal, Spain, Jordan, the Philippines,” for “the countries specified in [section 2312(a) of this title][/us/usc/t22/s2312/a] and in”, authorized assignment of military personnel for programs in Egypt, and deleted from the list of countries eligible for such programs Iran and Kuwait.
+    1980—Subsec. (b)(1). [Pub. L. 96–533][/us/pl/96/533], § 114(1), substituted “fiscal year 1981” for “fiscal year 1980”, substituted “Portugal, Spain, Jordan, the Philippines,” for “the countries specified in [section 2312(a) of this title][/us/usc/t22/s2312/a] and in”, authorized assignment of military personnel for programs in Egypt, and deleted from the list of countries eligible for such programs Iran and Kuwait.
 
-    Subsec. (b)(3). [Pub. L. 96–533, § 114(2)][/us/pl/96/533/s114/2], substituted “assigned to Saudi Arabia” for “assigned to Iran, Kuwait, and Saudi Arabia”, “assigned to such country” for “assigned to such countries” and “assigned to such country exceeds” for “assigned to each such country exceeds”.
+    Subsec. (b)(3). [Pub. L. 96–533][/us/pl/96/533], § 114(2), substituted “assigned to Saudi Arabia” for “assigned to Iran, Kuwait, and Saudi Arabia”, “assigned to such country” for “assigned to such countries” and “assigned to such country exceeds” for “assigned to each such country exceeds”.
 
-    Subsec. (f). [Pub. L. 96–533, § 114(3)][/us/pl/96/533/s114/3], substituted “may not exceed six more than the number of defense attachés” for “may not exceed the number of defense attachés” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
+    Subsec. (f). [Pub. L. 96–533][/us/pl/96/533], § 114(3), substituted “may not exceed six more than the number of defense attachés” for “may not exceed the number of defense attachés” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
 
-    1979—Subsec. (b)(1). [Pub. L. 96–92, § 7(1)][/us/pl/96/92/s7/1], substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
+    1979—Subsec. (b)(1). [Pub. L. 96–92][/us/pl/96/92], § 7(1), substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
 
-    Subsec. (f). [Pub. L. 96–92, § 7(2)][/us/pl/96/92/s7/2], substituted “December 31, 1978” for “December 31, 1977”.
+    Subsec. (f). [Pub. L. 96–92][/us/pl/96/92], § 7(2), substituted “December 31, 1978” for “December 31, 1977”.
 
-    1978—Subsec. (b)(1). [Pub. L. 95–384, § 9(a)][/us/pl/95/384/s9/a], substituted “fiscal year 1979” for “fiscal year 1978” and “Turkey, Indonesia, Thailand” for “Brazil”.
+    1978—Subsec. (b)(1). [Pub. L. 95–384][/us/pl/95/384], § 9(a), substituted “fiscal year 1979” for “fiscal year 1978” and “Turkey, Indonesia, Thailand” for “Brazil”.
 
-    Subsec. (d). [Pub. L. 95–384, § 9(b)][/us/pl/95/384/s9/b], substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
+    Subsec. (d). [Pub. L. 95–384][/us/pl/95/384], § 9(b), substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
 
-    Subsec. (f). [Pub. L. 95–384, § 9(c)][/us/pl/95/384/s9/c], substituted “December 31, 1977, except that the President may assign an aggregate total of not to exceed eight additional defense attachés to such countries in order to perform overseas management functions under this subsection” for “December 31, 1976”.
+    Subsec. (f). [Pub. L. 95–384][/us/pl/95/384], § 9(c), substituted “December 31, 1977, except that the President may assign an aggregate total of not to exceed eight additional defense attachés to such countries in order to perform overseas management functions under this subsection” for “December 31, 1976”.
 
-    Subsec. (g). [Pub. L. 95–384, § 9(d)][/us/pl/95/384/s9/d], inserted “for fixed” after “for specific purposes and”.
+    Subsec. (g). [Pub. L. 95–384][/us/pl/95/384], § 9(d), inserted “for fixed” after “for specific purposes and”.
 
-    Subsec. (h). [Pub. L. 95–384, § 9(e)][/us/pl/95/384/s9/e], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–384][/us/pl/95/384], § 9(e), added subsec. (h).
 
     1977—Subsec. (a). [Pub. L. 95–92][/us/pl/95/92] substituted provisions requiring specific Congressional authorization for a military assistance advisory group, etc., to operate in any foreign country and set forth exceptions to such requirement, for provisions authorizing deductions of expenditures from military assistance appropriations during the period beginning July 1, 1976, and ending Sept. 30, 1977, under [section 2312 of this title][/us/usc/t22/s2312] where under this section reimbursement is requested by the expending government agency or if the available funds are deposited in the Treasury as miscellaneous receipts.
 
@@ -121,9 +121,9 @@
 
     Subsecs. (e) to (g). [Pub. L. 95–92][/us/pl/95/92] added subsecs. (e) to (g).
 
-    1976—Subsec. (a). [Pub. L. 94–329, § 104(1)][/us/pl/94/329/s104/1], designated existing provisions as subsec. (a) and substituted “During the period beginning July 1, 1976, and ending September 30, 1977” for “Effective July 1, 1976”.
+    1976—Subsec. (a). [Pub. L. 94–329][/us/pl/94/329], § 104(1), designated existing provisions as subsec. (a) and substituted “During the period beginning July 1, 1976, and ending September 30, 1977” for “Effective July 1, 1976”.
 
-    Subsecs. (b) to (d). [Pub. L. 94–329, § 104(2)][/us/pl/94/329/s104/2], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 94–329][/us/pl/94/329], § 104(2), added subsecs. (b) to (d).
 
  __Effective Date of 1985 Amendment__ 
 
@@ -150,31 +150,31 @@
 [/us/usc/t22/s2761/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fe
 [/us/usc/t22/s2792/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2792%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs16
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1799
-[/us/pl/94/329/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs104
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F731
-[/us/pl/95/92/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs7%2Fa
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F615
-[/us/pl/95/384/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs9
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F732
-[/us/pl/96/92/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs7
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F703
-[/us/pl/96/533/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs114
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3139
-[/us/pl/97/113/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs112
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1527
-[/us/pl/99/83/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs125
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F205
-[/us/pl/100/690/s4305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4305%2Fa
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4273
-[/us/pl/101/165/s9104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9104%2Fa
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1152
-[/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
+[/us/pl/101/167/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtIII
 [/us/stat/103/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1213
-[/us/pl/102/391/s556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs556%2Fc
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1675
-[/us/pl/104/164/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs143
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1434
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
@@ -195,25 +195,25 @@
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2761/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fa
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
-[/us/pl/96/533/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs114%2F1
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/usc/t22/s2312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2312%2Fa
-[/us/pl/96/533/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs114%2F2
-[/us/pl/96/533/s114/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs114%2F3
-[/us/pl/96/92/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs7%2F1
-[/us/pl/96/92/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs7%2F2
-[/us/pl/95/384/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs9%2Fa
-[/us/pl/95/384/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs9%2Fb
-[/us/pl/95/384/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs9%2Fc
-[/us/pl/95/384/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs9%2Fd
-[/us/pl/95/384/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs9%2Fe
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/usc/t22/s2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2312
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
-[/us/pl/94/329/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs104%2F1
-[/us/pl/94/329/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs104%2F2
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

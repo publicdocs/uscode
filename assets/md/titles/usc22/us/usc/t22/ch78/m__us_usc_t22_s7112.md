@@ -53,7 +53,7 @@
 
             Not later than December 1, 2014, and every 2 years thereafter, the Secretary of Labor shall submit the list developed under paragraph (2)(C) to Congress.
 
-([Pub. L. 109–164, title I, § 105][/us/pl/109/164/s105], Jan. 10, 2006, [119 Stat. 3566][/us/stat/119/3566]; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1232, 1233, Mar. 7, 2013, [127 Stat. 146][/us/stat/127/146].)
+([Pub. L. 109–164, title I][/us/pl/109/164/tI], § 105, Jan. 10, 2006, [119 Stat. 3566][/us/stat/119/3566]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], §§ 1232, 1233, Mar. 7, 2013, [127 Stat. 146][/us/stat/127/146].)
 
  __Codification__ 
 
@@ -61,13 +61,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(3). [Pub. L. 113–4, § 1233][/us/pl/113/4/s1233], added par. (3).
+    2013—Subsec. (a)(3). [Pub. L. 113–4][/us/pl/113/4], § 1233, added par. (3).
 
-    Subsec. (b)(3). [Pub. L. 113–4, § 1232][/us/pl/113/4/s1232], added par. (3).
+    Subsec. (b)(3). [Pub. L. 113–4][/us/pl/113/4], § 1232, added par. (3).
 
  __Consultative Group To Eliminate the Use of Child Labor and Forced Labor in Imported Agricultural Products__ 
 
-[Pub. L. 110–246, title III, § 3205][/us/pl/110/246/s3205], June 18, 2008, [122 Stat. 1838][/us/stat/122/1838], provided that:
+[Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3205, June 18, 2008, [122 Stat. 1838][/us/stat/122/1838], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -162,13 +162,13 @@
 
 [/us/usc/t22/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb
 [/us/usc/t22/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb
-[/us/pl/109/164/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs105
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3566
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F146
-[/us/pl/113/4/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1233
-[/us/pl/113/4/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1232
-[/us/pl/110/246/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3205
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1838
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
 [/us/usc/t22/s7103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103%2Fd

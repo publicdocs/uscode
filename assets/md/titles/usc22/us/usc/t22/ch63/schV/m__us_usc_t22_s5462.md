@@ -41,7 +41,7 @@
 
         The SEED Information Center System shall be based jointly in Washington, District of Columbia; Warsaw, Poland; and Budapest, Hungary; and should it become appropriate, the capitals of other East European countries.
 
-([Pub. L. 101–179, title VI, § 602][/us/pl/101/179/s602], Nov. 28, 1989, [103 Stat. 1319][/us/stat/103/1319].)
+([Pub. L. 101–179, title VI][/us/pl/101/179/tVI], § 602, Nov. 28, 1989, [103 Stat. 1319][/us/stat/103/1319].)
 
  __Delegation of Functions__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs602
+[/us/pl/101/179/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVI
 [/us/stat/103/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1319
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 

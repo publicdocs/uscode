@@ -29,7 +29,7 @@
 
         (3) should encourage maximum participation by such recognized private and voluntary organizations as the Polish-American Congress in the transportation of nonfinancial private contributions to Poland.
 
-([Pub. L. 101–179, title VI, § 603][/us/pl/101/179/s603], Nov. 28, 1989, [103 Stat. 1319][/us/stat/103/1319].)
+([Pub. L. 101–179, title VI][/us/pl/101/179/tVI], § 603, Nov. 28, 1989, [103 Stat. 1319][/us/stat/103/1319].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t10/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs402
-[/us/pl/101/179/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs603
+[/us/pl/101/179/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVI
 [/us/stat/103/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1319
 
 

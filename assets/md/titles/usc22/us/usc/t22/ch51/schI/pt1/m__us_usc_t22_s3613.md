@@ -45,7 +45,7 @@
 
         (2) effective upon termination of the individual’s appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is not subject to [section 207 of title 18][/us/usc/t18/s207], with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
 
-([Pub. L. 96–70, title I, § 1103][/us/pl/96/70/s1103], Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457]; [Pub. L. 104–201, div. C, title XXXV, § 3523(a)][/us/pl/104/201/s3523/a], Sept. 23, 1996, [110 Stat. 2860][/us/stat/110/2860]; [Pub. L. 105–85, div. C, title XXXV, § 3521][/us/pl/105/85/s3521], Nov. 18, 1997, [111 Stat. 2063][/us/stat/111/2063].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1103, Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3523(a), Sept. 23, 1996, [110 Stat. 2860][/us/stat/110/2860]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3521, Nov. 18, 1997, [111 Stat. 2063][/us/stat/111/2063].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 104–201, div. C, title XXXV, § 3523(b)][/us/pl/104/201/s3523/b], Sept. 23, 1996, [110 Stat. 2860][/us/stat/110/2860], provided that: 
+[Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3523(b), Sept. 23, 1996, [110 Stat. 2860][/us/stat/110/2860], provided that: 
 
 > “Nothing in this section \[amending this section\] (or section 3549(3) \[[section 3549 of Pub. L. 104–201][/us/pl/104/201/s3549] did not contain a par. (3) and is not classified to the Code\]) shall be considered to affect—
 
@@ -81,11 +81,11 @@
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611
 [/us/usc/t18/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208%2Fa
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/pl/96/70/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1103
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F457
-[/us/pl/104/201/s3523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3523%2Fa
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2860
-[/us/pl/105/85/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3521
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2063
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
@@ -94,7 +94,7 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/201/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3523%2Fb
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2860
 [/us/pl/104/201/s3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3549
 [/us/pl/104/201/s3523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3523%2Fa

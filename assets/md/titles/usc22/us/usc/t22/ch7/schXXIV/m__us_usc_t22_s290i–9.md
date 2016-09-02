@@ -23,7 +23,7 @@
 
         The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
-([Pub. L. 97–35, title XIII, § 1341][/us/pl/97/35/s1341], Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1341, Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1341
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F743
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i
 

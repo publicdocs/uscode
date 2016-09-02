@@ -27,7 +27,7 @@
 
         (2) in addition to funds otherwise available for such purposes, including, with respect to food assistance under [section 7513(a)(1) of this title][/us/usc/t22/s7513/a/1], funds available under title II of the Food for Peace Act \[[7 U.S.C. 1721][/us/usc/t7/s1721] et seq.\], section 1736o of title 7, and [section 1431(b) of title 7][/us/usc/t7/s1431/b].
 
-([Pub. L. 107–327, title I, § 108][/us/pl/107/327/s108], Dec. 4, 2002, [116 Stat. 2806][/us/stat/116/2806]; [Pub. L. 108–106, title II, § 2214][/us/pl/108/106/s2214], Nov. 6, 2003, [117 Stat. 1232][/us/stat/117/1232]; [Pub. L. 108–458, title VII, § 7104(m)][/us/pl/108/458/s7104/m], Dec. 17, 2004, [118 Stat. 3788][/us/stat/118/3788]; [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 108, Dec. 4, 2002, [116 Stat. 2806][/us/stat/116/2806]; [Pub. L. 108–106, title II][/us/pl/108/106/tII], § 2214, Nov. 6, 2003, [117 Stat. 1232][/us/stat/117/1232]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(m), Dec. 17, 2004, [118 Stat. 3788][/us/stat/118/3788]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821].)
 
  __References in Text__ 
 
@@ -54,13 +54,13 @@
 [/us/usc/t22/s7513/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7513%2Fa%2F1
 [/us/usc/t7/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1721
 [/us/usc/t7/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1431%2Fb
-[/us/pl/107/327/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs108
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2806
-[/us/pl/108/106/s2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs2214
+[/us/pl/108/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2FtII
 [/us/stat/117/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1232
-[/us/pl/108/458/s7104/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fm
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3788
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454

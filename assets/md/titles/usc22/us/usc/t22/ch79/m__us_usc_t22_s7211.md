@@ -17,7 +17,7 @@
 
     No provision of the Trade Sanctions Reform and Export Enhancement Act of 2000 (title IX of [Public Law 106–387][/us/pl/106/387]) \[22 U.S.C. § 7201 et seq.\] shall be construed to limit or otherwise affect section 2339A or 2339B of title 18.
 
-([Pub. L. 107–56, title VIII, § 807][/us/pl/107/56/s807], Oct. 26, 2001, [115 Stat. 378][/us/stat/115/378].)
+([Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 807, Oct. 26, 2001, [115 Stat. 378][/us/stat/115/378].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
-[/us/pl/107/56/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs807
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F378
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549

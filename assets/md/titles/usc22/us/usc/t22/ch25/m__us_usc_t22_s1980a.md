@@ -45,11 +45,11 @@
 
         For purposes of this section, the term “owner” includes any charterer of a vessel of the United States.
 
-([Aug. 27, 1954, ch. 1018, § 11][/us/act/1954-08-27/ch1018/s11], as added [Pub. L. 104–43, title IV, § 402(a)][/us/pl/104/43/s402/a], Nov. 3, 1995, [109 Stat. 389][/us/stat/109/389].)
+([Aug. 27, 1954, ch. 1018][/us/act/1954-08-27/ch1018], § 11, as added [Pub. L. 104–43, title IV][/us/pl/104/43/tIV], § 402(a), Nov. 3, 1995, [109 Stat. 389][/us/stat/109/389].)
 
  __Congressional Findings__ 
 
-[Pub. L. 104–43, title IV, § 401][/us/pl/104/43/s401], Nov. 3, 1995, [109 Stat. 388][/us/stat/109/388], provided that: 
+[Pub. L. 104–43, title IV][/us/pl/104/43/tIV], § 401, Nov. 3, 1995, [109 Stat. 388][/us/stat/109/388], provided that: 
 
 > “The Congress finds that—
 
@@ -88,10 +88,10 @@
 
 [/us/usc/t22/s1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1979
 [/us/usc/t22/s1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1979
-[/us/act/1954-08-27/ch1018/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018%2Fs11
-[/us/pl/104/43/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs402%2Fa
+[/us/act/1954-08-27/ch1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018
+[/us/pl/104/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIV
 [/us/stat/109/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F389
-[/us/pl/104/43/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs401
+[/us/pl/104/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIV
 [/us/stat/109/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F388
 [/us/usc/t22/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1971
 

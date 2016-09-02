@@ -21,7 +21,7 @@
 
     (2) permit a contractor or subcontractor to have access to any design or blueprint relating to such a project only in accordance with those procedures.
 
-([Pub. L. 99–399, title IV, § 403][/us/pl/99/399/s403], Aug. 27, 1986, [100 Stat. 865][/us/stat/100/865].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 403, Aug. 27, 1986, [100 Stat. 865][/us/stat/100/865].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/399/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs403
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F865
 
 

@@ -79,15 +79,15 @@
 
         The Board shall, with respect to any grievance based on an alleged violation of a law, rule, regulation, or policy directive referred to in [section 4131(a)(1)(H) of this title][/us/usc/t22/s4131/a/1/H], apply the substantive law that would be applied by the Equal Employment Opportunity Commission if a charge or claim alleging discrimination under such law, rule, regulation, or policy directive had been filed with the commission.1
 
-([Pub. L. 96–465, title I, § 1107][/us/pl/96/465/s1107], Oct. 17, 1980, [94 Stat. 2146][/us/stat/94/2146]; [Pub. L. 100–204, title I][/us/pl/100/204], §§ 181(a), (b), 182, Dec. 22, 1987, [101 Stat. 1363][/us/stat/101/1363], 1364; [Pub. L. 102–138, title I, § 153(c)][/us/pl/102/138/s153/c], Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1107, Oct. 17, 1980, [94 Stat. 2146][/us/stat/94/2146]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], §§ 181(a), (b), 182, Dec. 22, 1987, [101 Stat. 1363][/us/stat/101/1363], 1364; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 153(c), Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673].)
 
  __Amendments__ 
 
     1991—Subsec. (f). [Pub. L. 102–138][/us/pl/102/138] added subsec. (f).
 
-    1987—Subsec. (d). [Pub. L. 100–204, § 181(a)][/us/pl/100/204/s181/a], (b), designated existing provisions as par. (1), inserted “, tenure” after “promotion” in first sentence, and added pars. (2) and (3).
+    1987—Subsec. (d). [Pub. L. 100–204][/us/pl/100/204], § 181(a), (b), designated existing provisions as par. (1), inserted “, tenure” after “promotion” in first sentence, and added pars. (2) and (3).
 
-    Subsec. (e). [Pub. L. 100–204, § 182][/us/pl/100/204/s182], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–204][/us/pl/100/204], § 182, added subsec. (e).
 
  __Effective Date of 1991 Amendment__ 
 
@@ -110,15 +110,15 @@
 [/us/usc/t22/s4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4140
 [/us/usc/t22/s4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4140
 [/us/usc/t22/s4131/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131%2Fa%2F1%2FH
-[/us/pl/96/465/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1107
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2146
-[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1363
-[/us/pl/102/138/s153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fc
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F673
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
-[/us/pl/100/204/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs181%2Fa
-[/us/pl/100/204/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs182
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t22/s4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131
 [/us/pl/102/138/s153/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Ff

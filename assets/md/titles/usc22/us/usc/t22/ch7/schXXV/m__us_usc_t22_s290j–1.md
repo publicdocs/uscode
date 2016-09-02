@@ -19,7 +19,7 @@
 
     (b) In accordance with the agreement negotiated pursuant to [section 290j(a) of this title][/us/usc/t22/s290j/a], sums made available for investment for the United States-India Fund for Cultural, Educational, and Scientific Cooperation under the Departments of Commerce, Justice, and State, and the Judiciary and Related Agencies Appropriation Act, 1985, and any earnings on such sums shall be available for the purposes of [section 290j(a) of this title][/us/usc/t22/s290j/a].
 
-([Pub. L. 98–164, title IX, § 903][/us/pl/98/164/s903], Nov. 22, 1983, [97 Stat. 1051][/us/stat/97/1051]; [Pub. L. 99–93, title VIII, § 808][/us/pl/99/93/s808], Aug. 16, 1985, [99 Stat. 452][/us/stat/99/452]; [Pub. L. 100–204, title III, § 305][/us/pl/100/204/s305], Dec. 22, 1987, [101 Stat. 1379][/us/stat/101/1379].)
+([Pub. L. 98–164, title IX][/us/pl/98/164/tIX], § 903, Nov. 22, 1983, [97 Stat. 1051][/us/stat/97/1051]; [Pub. L. 99–93, title VIII][/us/pl/99/93/tVIII], § 808, Aug. 16, 1985, [99 Stat. 452][/us/stat/99/452]; [Pub. L. 100–204, title III][/us/pl/100/204/tIII], § 305, Dec. 22, 1987, [101 Stat. 1379][/us/stat/101/1379].)
 
  __References in Text__ 
 
@@ -41,11 +41,11 @@
 [/us/usc/t22/s290j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290j
 [/us/usc/t22/s290j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290j%2Fa
 [/us/usc/t22/s290j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290j%2Fa
-[/us/pl/98/164/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs903
+[/us/pl/98/164/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtIX
 [/us/stat/97/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1051
-[/us/pl/99/93/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs808
+[/us/pl/99/93/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVIII
 [/us/stat/99/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F452
-[/us/pl/100/204/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs305
+[/us/pl/100/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtIII
 [/us/stat/101/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1379
 [/us/pl/98/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411
 [/us/stat/98/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1545

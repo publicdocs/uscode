@@ -205,7 +205,7 @@
 
         (D) pledged “to set a target of allocating at least 15% of our annual budget to the improvement of the health sector”.
 
-([Pub. L. 108–25, § 2][/us/pl/108/25/s2], May 27, 2003, [117 Stat. 712][/us/stat/117/712]; [Pub. L. 110–293, § 2][/us/pl/110/293/s2], July 30, 2008, [122 Stat. 2919][/us/stat/122/2919].)
+([Pub. L. 108–25][/us/pl/108/25], § 2, May 27, 2003, [117 Stat. 712][/us/stat/117/712]; [Pub. L. 110–293][/us/pl/110/293], § 2, July 30, 2008, [122 Stat. 2919][/us/stat/122/2919].)
 
  __References in Text__ 
 
@@ -217,19 +217,19 @@
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 113–56, § 1][/us/pl/113/56/s1], Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648], provided that: 
+[Pub. L. 113–56][/us/pl/113/56], § 1, Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648], provided that: 
 
 > “This Act \[amending sections 2151b–2, 7611, 7622, and 7673 of this title\] may be cited as the ‘PEPFAR Stewardship and Oversight Act of 2013’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–293, § 1(a)][/us/pl/110/293/s1/a], July 30, 2008, [122 Stat. 2918][/us/stat/122/2918], provided that: 
+[Pub. L. 110–293][/us/pl/110/293], § 1(a), July 30, 2008, [122 Stat. 2918][/us/stat/122/2918], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008’.”
 
  __Short Title__ 
 
-[Pub. L. 108–25, § 1(a)][/us/pl/108/25/s1/a], May 27, 2003, [117 Stat. 711][/us/stat/117/711], provided that: 
+[Pub. L. 108–25][/us/pl/108/25], § 1(a), May 27, 2003, [117 Stat. 711][/us/stat/117/711], provided that: 
 
 > “This Act \[enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title and amending sections 2151b, 2222, and 2651a of this title and [section 242l of Title 42][/us/usc/t42/s242l], The Public Health and Welfare\] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
 
@@ -244,18 +244,18 @@
 ----------
 ----------
 
-[/us/pl/108/25/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs2
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F712
-[/us/pl/110/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs2
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/stat/122/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2919
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
-[/us/pl/113/56/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs1
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/stat/127/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F648
-[/us/pl/110/293/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs1%2Fa
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/stat/122/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2918
-[/us/pl/108/25/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs1%2Fa
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t42/s242l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs242l
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

@@ -23,7 +23,7 @@
 
         The President may exercise any authorities conferred upon him by this chapter through the Director or any other agency or officer of the United States Government as he shall direct. The Director or head of any such agency or any such officer may delegate to any of his subordinates authority to perform any of such functions.
 
-([Pub. L. 96–53, title IV, § 405][/us/pl/96/53/s405], Aug. 14, 1979, [93 Stat. 373][/us/stat/93/373].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 405, Aug. 14, 1979, [93 Stat. 373][/us/stat/93/373].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/96/53/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs405
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F373
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

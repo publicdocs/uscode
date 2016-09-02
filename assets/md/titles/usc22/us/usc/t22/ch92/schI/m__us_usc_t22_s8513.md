@@ -223,7 +223,7 @@
 
             The Secretary of the Treasury may further define the terms used in this section in the regulations prescribed under this section.
 
-([Pub. L. 111–195, title I, § 104][/us/pl/111/195/s104], July 1, 2010, [124 Stat. 1331][/us/stat/124/1331]; [Pub. L. 112–158, title II][/us/pl/112/158], §§ 214(a), 215(a), title III, § 312(b), (c), Aug. 10, 2012, [126 Stat. 1231][/us/stat/126/1231], 1249.)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 104, July 1, 2010, [124 Stat. 1331][/us/stat/124/1331]; [Pub. L. 112–158, title II][/us/pl/112/158/tII], §§ 214(a), 215(a), title III, § 312(b), (c), Aug. 10, 2012, [126 Stat. 1231][/us/stat/126/1231], 1249.)
 
  __Termination of Section__ 
 
@@ -237,29 +237,29 @@
 
  __Amendments__ 
 
-    2012—Subsec. (c)(2)(B). [Pub. L. 112–158, § 214(a)][/us/pl/112/158/s214/a], substituted “of—” for “of”, inserted cl. (i) designation before “a person subject”, and added cl. (ii).
+    2012—Subsec. (c)(2)(B). [Pub. L. 112–158][/us/pl/112/158], § 214(a), substituted “of—” for “of”, inserted cl. (i) designation before “a person subject”, and added cl. (ii).
 
-    Subsec. (c)(2)(E)(ii). [Pub. L. 112–158, § 215(a)][/us/pl/112/158/s215/a], substituted “person” for “financial institution” in introductory provisions.
+    Subsec. (c)(2)(E)(ii). [Pub. L. 112–158][/us/pl/112/158], § 215(a), substituted “person” for “financial institution” in introductory provisions.
 
-    Subsec. (c)(4). [Pub. L. 112–158, § 312(b)][/us/pl/112/158/s312/b], added par. (4).
+    Subsec. (c)(4). [Pub. L. 112–158][/us/pl/112/158], § 312(b), added par. (4).
 
-    Subsec. (f). [Pub. L. 112–158, § 312(c)(1)][/us/pl/112/158/s312/c/1], inserted “or [section 8513b of this title][/us/usc/t22/s8513b]” after “subsection (c)” in introductory provisions.
+    Subsec. (f). [Pub. L. 112–158][/us/pl/112/158], § 312(c)(1), inserted “or [section 8513b of this title][/us/usc/t22/s8513b]” after “subsection (c)” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 112–158, § 312(c)(2)][/us/pl/112/158/s312/c/2], substituted “paragraph (1) or (4) of subsection (c) or [section 8513b of this title][/us/usc/t22/s8513b]” for “subsection (c)(1)” in pars. (1) and (2).
+    Subsec. (g). [Pub. L. 112–158][/us/pl/112/158], § 312(c)(2), substituted “paragraph (1) or (4) of subsection (c) or [section 8513b of this title][/us/usc/t22/s8513b]” for “subsection (c)(1)” in pars. (1) and (2).
 
  __Regulations__ 
 
-[Pub. L. 112–158, title II, § 214(b)][/us/pl/112/158/s214/b], Aug. 10, 2012, [126 Stat. 1231][/us/stat/126/1231], provided that: 
+[Pub. L. 112–158, title II][/us/pl/112/158/tII], § 214(b), Aug. 10, 2012, [126 Stat. 1231][/us/stat/126/1231], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2012\], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ([22 U.S.C. 8513][/us/usc/t22/s8513]) as are necessary to carry out the amendments made by subsection (a) \[amending this section\].”
 
-[Pub. L. 112–158, title II, § 215(b)][/us/pl/112/158/s215/b], Aug. 10, 2012, [126 Stat. 1231][/us/stat/126/1231], provided that: 
+[Pub. L. 112–158, title II][/us/pl/112/158/tII], § 215(b), Aug. 10, 2012, [126 Stat. 1231][/us/stat/126/1231], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2012\], the Secretary of the Treasury shall make such revisions to the regulations prescribed under section 104 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ([22 U.S.C. 8513][/us/usc/t22/s8513]) as are necessary to carry out the amendment made by subsection (a) \[amending this section\].”
 
  __Exception to Sanctions Regarding National Iranian Oil Company and National Iranian Tanker Company__ 
 
-[Pub. L. 112–158, title III, § 312(d)][/us/pl/112/158/s312/d], Aug. 10, 2012, [126 Stat. 1250][/us/stat/126/1250], provided that:
+[Pub. L. 112–158, title III][/us/pl/112/158/tIII], § 312(d), Aug. 10, 2012, [126 Stat. 1250][/us/stat/126/1250], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -309,9 +309,9 @@
 [/us/usc/t22/s8513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513b
 [/us/usc/t31/s5318A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318A
 [/us/usc/t31/s5312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa%2F2
-[/us/pl/111/195/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs104
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1331
-[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1231
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
@@ -319,20 +319,20 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025
-[/us/pl/112/158/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs214%2Fa
-[/us/pl/112/158/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs215%2Fa
-[/us/pl/112/158/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs312%2Fb
-[/us/pl/112/158/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs312%2Fc%2F1
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/usc/t22/s8513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513b
-[/us/pl/112/158/s312/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs312%2Fc%2F2
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/usc/t22/s8513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513b
-[/us/pl/112/158/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs214%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1231
 [/us/usc/t22/s8513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513
-[/us/pl/112/158/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs215%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1231
 [/us/usc/t22/s8513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513
-[/us/pl/112/158/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs312%2Fd
+[/us/pl/112/158/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIII
 [/us/stat/126/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1250
 [/us/usc/t22/s8513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513%2Fc
 [/us/usc/t22/s8742/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8742%2Fb%2F1

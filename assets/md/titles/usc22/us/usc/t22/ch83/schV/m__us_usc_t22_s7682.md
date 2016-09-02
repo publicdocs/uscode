@@ -23,7 +23,7 @@
 
         Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
-([Pub. L. 108–25, title V, § 503][/us/pl/108/25/s503], May 27, 2003, [117 Stat. 749][/us/stat/117/749].)
+([Pub. L. 108–25, title V][/us/pl/108/25/tV], § 503, May 27, 2003, [117 Stat. 749][/us/stat/117/749].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s262p–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%938
-[/us/pl/108/25/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs503
+[/us/pl/108/25/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtV
 [/us/stat/117/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F749
 
 

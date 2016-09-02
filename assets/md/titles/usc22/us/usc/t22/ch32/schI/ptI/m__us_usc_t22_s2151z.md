@@ -23,7 +23,7 @@
 
         To the maximum extent possible, activities under this part that attempt to increase the institutional capabilities of private organizations or governments, or that attempt to stimulate scientific and technological research, shall be designed and monitored to ensure that the ultimate beneficiaries of these activities are the poor majority.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 128, as added [Pub. L. 97–377, title I, § 101(b)(2)][/us/pl/97/377/s101/b/2], Dec. 21, 1982, [96 Stat. 1832][/us/stat/96/1832]; amended [Pub. L. 99–83, title III, § 312(a)][/us/pl/99/83/s312/a], Aug. 8, 1985, [99 Stat. 216][/us/stat/99/216].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 128, as added [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(b)(2), Dec. 21, 1982, [96 Stat. 1832][/us/stat/96/1832]; amended [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 312(a), Aug. 8, 1985, [99 Stat. 216][/us/stat/99/216].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Report of Administrator of Agency for International Development to Congress by__  __June 21, 1983__  __, on Implementation of Section__ 
 
-[Pub. L. 97–377, title I, § 101(b)(2)][/us/pl/97/377/s101/b/2], Dec. 21, 1982, [96 Stat. 1832][/us/stat/96/1832], provided in part: 
+[Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(b)(2), Dec. 21, 1982, [96 Stat. 1832][/us/stat/96/1832], provided in part: 
 
 > “That within six months after the date of approval of this joint resolution \[Dec. 21, 1982\], the Administrator of the Agency for International Development shall report to Congress on the implementation of this provision \[this section\], the types of projects determined to meet these requirements, and the effect on the overall United States foreign assistance program.”
 
@@ -51,16 +51,16 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/97/377/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fb%2F2
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1832
-[/us/pl/99/83/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs312%2Fa
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F216
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/97/377/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fb%2F2
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1832
 
 

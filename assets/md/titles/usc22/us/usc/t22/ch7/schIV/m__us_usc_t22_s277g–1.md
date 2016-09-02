@@ -23,7 +23,7 @@
 
     the facilities recommended in agreements concluded pursuant to [section 277g of this title][/us/usc/t22/s277g] and approved by the Governments of the United States and Mexico.
 
-([Pub. L. 100–465, § 3][/us/pl/100/465/s3], Oct. 3, 1988, [102 Stat. 2272][/us/stat/102/2272].)
+([Pub. L. 100–465][/us/pl/100/465], § 3, Oct. 3, 1988, [102 Stat. 2272][/us/stat/102/2272].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s277g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277g
-[/us/pl/100/465/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465%2Fs3
+[/us/pl/100/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465
 [/us/stat/102/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2272
 
 

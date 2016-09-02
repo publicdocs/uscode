@@ -41,7 +41,7 @@
 
     (6) has made demonstrable progress in returning to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
 
-([Pub. L. 104–114, title II, § 206][/us/pl/104/114/s206], Mar. 12, 1996, [110 Stat. 812][/us/stat/110/812].)
+([Pub. L. 104–114, title II][/us/pl/104/114/tII], § 206, Mar. 12, 1996, [110 Stat. 812][/us/stat/110/812].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t22/s6065/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6065%2Fa
-[/us/pl/104/114/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs206
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F812
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785

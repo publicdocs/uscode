@@ -17,7 +17,7 @@
 
     The Commission shall determine in accordance with applicable substantive law, including international law, the validity and amount of claims by nationals of the United States against the Government of Czechoslovakia for losses resulting from the nationalization or other taking on and after January 1, 1945, of property including any rights or interests therein owned at the time by nationals of the United States, subject, however, to the terms and conditions of an applicable claims agreement, if any, concluded between the Governments of Czechoslovakia and the United States within one year following August 8, 1958. In making the determination with respect to the validity and amount of claims and value of properties, rights, or interests taken, the Commission is authorized to accept the fair or proved value of the said property, right, or interest as of a time when the property or business enterprise taken, was last operated, used, managed or controlled by the national or nationals of the United States asserting the claim irrespective of whether such date is prior to the actual date of nationalization or taking by the Government of Czechoslovakia.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 404, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 528][/us/stat/72/528].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 404, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 528][/us/stat/72/528].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F528
 
 

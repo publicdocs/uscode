@@ -17,15 +17,15 @@
 
     Funds appropriated on and after September 30, 1996, or otherwise made available under this Act or any other Act may be expended for compensation of the United States Commissioner of the International Boundary Commission, United States and Canada, only for actual hours worked by such Commissioner.
 
-([Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title IV, § 403\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–54.)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title IV, § 403\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–54.)
 
  __Similar Provisions__ 
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 103–317, title V, § 503][/us/pl/103/317/s503], Aug. 26, 1994, [108 Stat. 1764][/us/stat/108/1764].
+    [Pub. L. 103–317, title V][/us/pl/103/317/tV], § 503, Aug. 26, 1994, [108 Stat. 1764][/us/stat/108/1764].
 
-    [Pub. L. 103–121, title V, § 503][/us/pl/103/121/s503], Oct. 27, 1993, [107 Stat. 1189][/us/stat/107/1189].
+    [Pub. L. 103–121, title V][/us/pl/103/121/tV], § 503, Oct. 27, 1993, [107 Stat. 1189][/us/stat/107/1189].
 
 ----------
 
@@ -34,11 +34,11 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/103/317/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2Fs503
+[/us/pl/103/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtV
 [/us/stat/108/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1764
-[/us/pl/103/121/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2Fs503
+[/us/pl/103/121/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2FtV
 [/us/stat/107/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1189
 
 

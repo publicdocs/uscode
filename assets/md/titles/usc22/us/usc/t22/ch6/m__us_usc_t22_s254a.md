@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s252...254.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
 
 ## § 254a. Definitions
 
@@ -43,7 +43,7 @@
 
     (4) the term “Vienna Convention” means the Vienna Convention on Diplomatic Relations of April 18, 1961 (T.I.A.S. numbered 7502; 23 U.S.T. 3227), entered into force with respect to the United States on December 13, 1972.
 
-([Pub. L. 95–393, § 2][/us/pl/95/393/s2], Sept. 30, 1978, [92 Stat. 808][/us/stat/92/808]; [Pub. L. 97–241, title II, § 203(b)(1)][/us/pl/97/241/s203/b/1], Aug. 24, 1982, [96 Stat. 290][/us/stat/96/290].)
+([Pub. L. 95–393][/us/pl/95/393], § 2, Sept. 30, 1978, [92 Stat. 808][/us/stat/92/808]; [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 203(b)(1), Aug. 24, 1982, [96 Stat. 290][/us/stat/96/290].)
 
  __References in Text__ 
 
@@ -59,26 +59,26 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–393, § 9][/us/pl/95/393/s9], Sept. 30, 1978, [92 Stat. 810][/us/stat/92/810], provided that: 
+[Pub. L. 95–393][/us/pl/95/393], § 9, Sept. 30, 1978, [92 Stat. 810][/us/stat/92/810], provided that: 
 
 > “This Act \[see Short Title note below\] shall take effect at the end of the ninety-day period beginning on the date of its enactment \[Sept. 30, 1978\]”.
 
  __Short Title__ 
 
-[Pub. L. 95–393, § 1][/us/pl/95/393/s1], Sept. 30, 1978, [92 Stat. 808][/us/stat/92/808], provided that: 
+[Pub. L. 95–393][/us/pl/95/393], § 1, Sept. 30, 1978, [92 Stat. 808][/us/stat/92/808], provided that: 
 
 > “This Act \[enacting this section, sections 254b to 254e of this title, and [section 1364 of Title 28][/us/usc/t28/s1364], Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Diplomatic Relations Act’.”
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s251.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
+[Previous](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s252...254.md) | [Next](./../../../..//us/usc/t22/ch6/m__us_usc_t22_s254b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a)
 
 ----------
 ----------
 
-[/us/pl/95/393/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs2
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F808
-[/us/pl/97/241/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs203%2Fb%2F1
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F290
 [/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F808
@@ -86,9 +86,9 @@
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/97/241/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs204
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
-[/us/pl/95/393/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs9
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F810
-[/us/pl/95/393/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs1
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F808
 [/us/usc/t28/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1364
 

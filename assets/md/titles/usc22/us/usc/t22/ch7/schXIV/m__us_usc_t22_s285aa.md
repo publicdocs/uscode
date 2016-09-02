@@ -23,7 +23,7 @@
 
         In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $213,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 89–369, § 30][/us/pl/89/369/s30], as added [Pub. L. 102–145, § 125(b)][/us/pl/102/145/s125/b], as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 97][/us/stat/106/97].)
+([Pub. L. 89–369][/us/pl/89/369], § 30, as added [Pub. L. 102–145][/us/pl/102/145], § 125(b), as added [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 97][/us/stat/106/97].)
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/89/369/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs30
-[/us/pl/102/145/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs125%2Fb
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F97
 
 

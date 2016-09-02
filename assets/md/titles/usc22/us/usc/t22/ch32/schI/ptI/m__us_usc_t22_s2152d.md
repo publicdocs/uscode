@@ -31,7 +31,7 @@
 
         Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[[22 U.S.C. 5401][/us/usc/t22/s5401] et seq.\] shall be made available to carry out this section. Assistance may be provided under this section notwithstanding [section 2420 of this title][/us/usc/t22/s2420].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 134, as added [Pub. L. 106–386, div. A, § 109][/us/pl/106/386/s109], Oct. 28, 2000, [114 Stat. 1481][/us/stat/114/1481]; amended [Pub. L. 108–193, § 6(f)][/us/pl/108/193/s6/f], Dec. 19, 2003, [117 Stat. 2883][/us/stat/117/2883]; [Pub. L. 110–457, title I, § 103(b)][/us/pl/110/457/s103/b], Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 134, as added [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 109, Oct. 28, 2000, [114 Stat. 1481][/us/stat/114/1481]; amended [Pub. L. 108–193][/us/pl/108/193], § 6(f), Dec. 19, 2003, [117 Stat. 2883][/us/stat/117/2883]; [Pub. L. 110–457, title I][/us/pl/110/457/tI], § 103(b), Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046].)
 
  __References in Text__ 
 
@@ -62,11 +62,11 @@
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/usc/t22/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/386/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs109
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1481
-[/us/pl/108/193/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Ff
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2883
-[/us/pl/110/457/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs103%2Fb
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5046
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298

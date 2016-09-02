@@ -33,7 +33,7 @@
 
             Amounts made available under paragraph (1) are in addition to amounts otherwise available for such purposes.
 
-([Pub. L. 111–73, title I, § 103][/us/pl/111/73/s103], Oct. 15, 2009, [123 Stat. 2069][/us/stat/123/2069].)
+([Pub. L. 111–73, title I][/us/pl/111/73/tI], § 103, Oct. 15, 2009, [123 Stat. 2069][/us/stat/123/2069].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s8412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8412
-[/us/pl/111/73/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs103
+[/us/pl/111/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtI
 [/us/stat/123/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2069
 
 

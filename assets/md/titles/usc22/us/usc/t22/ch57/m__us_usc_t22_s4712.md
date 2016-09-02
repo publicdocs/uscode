@@ -23,7 +23,7 @@
 
         Any funds appropriated to the United States Information Agency for fiscal year 1986 or fiscal year 1987 for any purpose (other than funds appropriated for educational exchange programs under [section 2452(a)(1) of this title][/us/usc/t22/s2452/a/1]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  may be used to carry out this chapter with respect to students from developing countries outside Central America.
 
-([Pub. L. 99–93, title VI, § 612][/us/pl/99/93/s612], Aug. 16, 1985, [99 Stat. 443][/us/stat/99/443].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 612, Aug. 16, 1985, [99 Stat. 443][/us/stat/99/443].)
 
  __Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s2452/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fa%2F1
-[/us/pl/99/93/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs612
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F443
 
 

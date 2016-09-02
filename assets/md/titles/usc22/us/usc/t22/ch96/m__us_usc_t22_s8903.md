@@ -23,7 +23,7 @@
 
         Amounts made available for the costs of loan guarantees for Ukraine pursuant to subsection (a) shall not be considered “assistance” for the purpose of provisions of law limiting assistance to Ukraine.
 
-([Pub. L. 113–95, § 4][/us/pl/113/95/s4], Apr. 3, 2014, [128 Stat. 1090][/us/stat/128/1090].)
+([Pub. L. 113–95][/us/pl/113/95], § 4, Apr. 3, 2014, [128 Stat. 1090][/us/stat/128/1090].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/stat/128/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F479
 [/us/usc/t2/s901/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fb%2F2%2FA
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/113/95/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs4
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1090
 
 

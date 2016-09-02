@@ -27,7 +27,7 @@
 
         (3) Any court ordering the return of a child pursuant to an action brought under [section 9003 of this title][/us/usc/t22/s9003] shall order the respondent to pay necessary expenses incurred by or on behalf of the petitioner, including court costs, legal fees, foster home or other care during the course of proceedings in the action, and transportation costs related to the return of the child, unless the respondent establishes that such order would be clearly inappropriate.
 
-([Pub. L. 100–300, § 8][/us/pl/100/300/s8], Apr. 29, 1988, [102 Stat. 440][/us/stat/102/440].)
+([Pub. L. 100–300][/us/pl/100/300], § 8, Apr. 29, 1988, [102 Stat. 440][/us/stat/102/440].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t22/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9003
 [/us/usc/t22/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9003
-[/us/pl/100/300/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs8
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F440
 [/us/usc/t42/s11607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11607
 

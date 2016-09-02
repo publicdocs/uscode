@@ -23,7 +23,7 @@
 
         To the extent provided in an appropriation Act, transfers of funds or other reimbursements for payments under subsection (a) are authorized to be retained and credited to the appropriate appropriation account of the Department of State which is available.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 50, as added [Pub. L. 102–138, title I, § 119][/us/pl/102/138/s119], Oct. 28, 1991, [105 Stat. 658][/us/stat/105/658].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 50, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 119, Oct. 28, 1991, [105 Stat. 658][/us/stat/105/658].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs119
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F658
 
 

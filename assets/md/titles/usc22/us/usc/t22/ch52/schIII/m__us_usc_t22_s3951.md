@@ -35,7 +35,7 @@
 
         Nonfamily member United States citizens employed under this section shall not be eligible by reason of such employment for benefits under subchapter VIII of this chapter, or under chapters  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “chapter”. </sup></sup>  83 or 84 of title 5.
 
-([Pub. L. 96–465, title I, § 311][/us/pl/96/465/s311], Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087]; [Pub. L. 103–236, title I, § 180(a)(2)][/us/pl/103/236/s180/a/2], Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415]; [Pub. L. 103–415, § 1(h)(1)][/us/pl/103/415/s1/h/1], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 311, Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 180(a)(2), Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415]; [Pub. L. 103–415][/us/pl/103/415], § 1(h)(1), Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 [/us/usc/t22/s3968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3968
 [/us/usc/t22/s3967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3967
 [/us/usc/t22/s3967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3967
-[/us/pl/96/465/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs311
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2087
-[/us/pl/103/236/s180/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs180%2Fa%2F2
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F415
-[/us/pl/103/415/s1/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fh%2F1
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4300
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

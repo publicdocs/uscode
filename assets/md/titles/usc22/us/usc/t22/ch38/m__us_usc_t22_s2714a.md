@@ -89,7 +89,7 @@
 
         The provisions of, and amendments made by, this section shall take effect on December 4, 2015.
 
-([Pub. L. 114–94, div. C, title XXXII, § 32101][/us/pl/114/94/s32101], Dec. 4, 2015, [129 Stat. 1729][/us/stat/129/1729].)
+([Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32101, Dec. 4, 2015, [129 Stat. 1729][/us/stat/129/1729].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@ Section is comprised of [section 32101 of Pub. L. 114–94][/us/pl/114/94/s32101
 [/us/usc/t26/s7345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7345
 [/us/usc/t26/s7345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7345
 [/us/usc/t26/s7345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7345
-[/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1729
 [/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101
 [/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101

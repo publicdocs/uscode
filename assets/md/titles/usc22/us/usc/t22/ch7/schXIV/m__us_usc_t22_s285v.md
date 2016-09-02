@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that it is the policy of the United States that Taiwan (before January 1, 1979, known as the Republic of China) shall be permitted to retain membership in the Asian Development Bank and that the United States Executive Director of the Bank shall notify the Bank that a serious review of future United States participation, including any future payments to the Asian Development Fund, would ensue if Taiwan were expelled from the Bank.
 
-([Pub. L. 89–369, § 25][/us/pl/89/369/s25], as added [Pub. L. 96–259, title II, § 201][/us/pl/96/259/s201], June 3, 1980, [94 Stat. 430][/us/stat/94/430].)
+([Pub. L. 89–369][/us/pl/89/369], § 25, as added [Pub. L. 96–259, title II][/us/pl/96/259/tII], § 201, June 3, 1980, [94 Stat. 430][/us/stat/94/430].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/369/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs25
-[/us/pl/96/259/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs201
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/96/259/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtII
 [/us/stat/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F430
 
 

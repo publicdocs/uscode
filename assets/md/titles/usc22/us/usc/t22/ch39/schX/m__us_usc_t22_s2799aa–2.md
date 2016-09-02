@@ -17,7 +17,7 @@
 
     As used in this subchapter, the term “nuclear explosive device” has the meaning given that term in [section 6305(4) of this title][/us/usc/t22/s6305/4].
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 103, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 103, as added [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(a), Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/103/236/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fa
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F519
 
 

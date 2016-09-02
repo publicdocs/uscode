@@ -27,7 +27,7 @@
 
     (5) Upon the request of the Legislative Council of Hong Kong, the Librarian of Congress, acting through the Congressional Research Service, should seek to expand educational and informational ties with the Council.
 
-([Pub. L. 102–383, title I, § 105][/us/pl/102/383/s105], Oct. 5, 1992, [106 Stat. 1452][/us/stat/106/1452].)
+([Pub. L. 102–383, title I][/us/pl/102/383/tI], § 105, Oct. 5, 1992, [106 Stat. 1452][/us/stat/106/1452].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/383/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs105
+[/us/pl/102/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtI
 [/us/stat/106/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1452
 
 

@@ -17,7 +17,7 @@
 
     The provisions of [section 286b of this title][/us/usc/t22/s286b] shall apply with respect to the Corporation to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
-([Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885; [Pub. L. 101–240, title V, § 541(e)(3)][/us/pl/101/240/s541/e/3], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(e)(3), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Codification__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
-[/us/pl/101/240/s541/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fe%2F3
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240

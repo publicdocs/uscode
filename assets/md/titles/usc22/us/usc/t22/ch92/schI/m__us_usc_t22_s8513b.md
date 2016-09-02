@@ -67,7 +67,7 @@
 
             (D) a financial institution, wherever located, owned or controlled by a financial institution described in subparagraph (A), (B), or (C).
 
-([Pub. L. 111–195, title I, § 104A][/us/pl/111/195/s104A], as added [Pub. L. 112–158, title II, § 216(a)][/us/pl/112/158/s216/a], Aug. 10, 2012, [126 Stat. 1232][/us/stat/126/1232].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 104A, as added [Pub. L. 112–158, title II][/us/pl/112/158/tII], § 216(a), Aug. 10, 2012, [126 Stat. 1232][/us/stat/126/1232].)
 
 ----------
 
@@ -83,8 +83,8 @@
 [/us/usc/t22/s8513/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513%2Fc%2F2%2FE%2Fii
 [/us/usc/t31/s5312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa%2F2
 [/us/usc/t22/s8513/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513%2Fi
-[/us/pl/111/195/s104A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs104A
-[/us/pl/112/158/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs216%2Fa
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1232
 
 

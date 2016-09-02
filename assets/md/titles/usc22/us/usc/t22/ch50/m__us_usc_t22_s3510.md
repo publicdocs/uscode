@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the President to carry out this chapter, in addition to funds otherwise available for such purpose, $12,000,000 for the fiscal year 1981. Funds appropriated under this section are authorized to remain available until expended.
 
-([Pub. L. 96–53, title IV, § 410][/us/pl/96/53/s410], Aug. 14, 1979, [93 Stat. 376][/us/stat/93/376]; amended [Pub. L. 96–533, title III, § 312][/us/pl/96/533/s312], Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 410, Aug. 14, 1979, [93 Stat. 376][/us/stat/93/376]; amended [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 312, Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/53/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs410
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F376
-[/us/pl/96/533/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs312
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3148
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

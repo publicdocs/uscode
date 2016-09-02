@@ -17,7 +17,7 @@
 
     Except where expressly provided to the contrary, any reference in any law to subchapter I of this chapter shall be deemed to include reference to this part and any reference in any law to subchapter II of this chapter shall be deemed to exclude reference to this part.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 575, formerly § 576, as added [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; renumbered § 575, [Pub. L. 104–164, title I, § 121(d)][/us/pl/104/164/s121/d], July 21, 1996, [110 Stat. 1428][/us/stat/110/1428].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 575, formerly § 576, as added [Pub. L. 98–151][/us/pl/98/151], § 101(b)(2), Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; renumbered § 575, [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 121(d), July 21, 1996, [110 Stat. 1428][/us/stat/110/1428].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/98/151/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Fb%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F972
-[/us/pl/104/164/s121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs121%2Fd
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1428
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

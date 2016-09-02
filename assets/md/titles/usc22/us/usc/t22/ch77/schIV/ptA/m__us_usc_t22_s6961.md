@@ -17,7 +17,7 @@
 
     There is hereby established a task force on prohibition of importation of products of forced or prison labor from the People’s Republic of China (hereafter in this part referred to as the “Task Force”).
 
-([Pub. L. 106–286, div. B, title V, § 501][/us/pl/106/286/s501], Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 501, Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs501
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F903
 
 

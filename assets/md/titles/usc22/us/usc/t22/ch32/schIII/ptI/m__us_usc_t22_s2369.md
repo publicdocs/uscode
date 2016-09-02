@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptI/m__us_usc_t22_s2368.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptI/m__us_usc_t22_s2370.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2369)
 
-## § 2369. Repealed. [Pub. L. 95–424, title VI, § 604][/us/pl/95/424/s604], Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961]
+## § 2369. Repealed. [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 604, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961]
 
     Section, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 619, Sept. 4, 1961, [75 Stat. 444][/us/stat/75/444], related to assistance to newly independent countries.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F444

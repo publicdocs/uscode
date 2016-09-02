@@ -17,7 +17,7 @@
 
     Until the United States shall have consular officer resident in the State of the Vatican City, a copy of any document of record or on file in a public office of said State of the Vatican City, certified by the lawful custodian of such document, may be authenticated, as provided in [section 1741 of title 28][/us/usc/t28/s1741], by a consular officer of the United States resident in the city of Rome, Kingdom of Italy, and such document or record shall, when so certified and authenticated, be admissible in evidence in any court of the United States.
 
-([June 20, 1936, ch. 640, § 6A][/us/act/1936-06-20/ch640/s6A], as added [June 25, 1938, ch. 682][/us/act/1938-06-25/ch682], [52 Stat. 1163][/us/stat/52/1163].)
+([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 6A, as added [June 25, 1938, ch. 682][/us/act/1938-06-25/ch682], [52 Stat. 1163][/us/stat/52/1163].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t28/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1741
-[/us/act/1936-06-20/ch640/s6A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs6A
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/act/1938-06-25/ch682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch682
 [/us/stat/52/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1163
 [/us/usc/t28/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1741

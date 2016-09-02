@@ -25,11 +25,11 @@
 
     (4) “United States”, when used in a geographic sense, means each of the several States and the District of Columbia.
 
-([Pub. L. 96–70, title I, § 1201][/us/pl/96/70/s1201], Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1201, Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461].)
 
  __Employment of Commission Employees by Government of Panama__ 
 
-[Pub. L. 103–160, div. C, title XXXV, § 3504][/us/pl/103/160/s3504], Nov. 30, 1993, [107 Stat. 1965][/us/stat/107/1965], provided that:
+[Pub. L. 103–160, div. C, title XXXV][/us/pl/103/160/dC/tXXXV], § 3504, Nov. 30, 1993, [107 Stat. 1965][/us/stat/107/1965], provided that:
 
 >     “(a)  __Consent of Congress__  __.—__ 
 
@@ -49,9 +49,9 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s2101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101%2F3
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
-[/us/pl/96/70/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1201
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F461
-[/us/pl/103/160/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3504
+[/us/pl/103/160/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXV
 [/us/stat/107/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1965
 
 

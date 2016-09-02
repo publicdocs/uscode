@@ -17,7 +17,7 @@
 
     Amounts made available to carry out this part may not be provided to a component of a ministry or other administrative unit of the national, provincial, or other local governments of the People’s Republic of China, to a nongovernmental organization, or to an official of such governments or organizations, if the President has credible evidence that such component, administrative unit, organization or official has been materially responsible for the commission of human rights violations.
 
-([Pub. L. 106–286, div. B, title V, § 513][/us/pl/106/286/s513], Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 513, Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs513
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F906
 
 

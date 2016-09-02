@@ -55,7 +55,7 @@
 
         (2) A determination made by the Secretary of State under paragraph (1) shall be effective for the 1-year period beginning on the date of the determination.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 307, as added [Pub. L. 99–83, title IV, § 403][/us/pl/99/83/s403], Aug. 8, 1985, [99 Stat. 219][/us/stat/99/219]; amended [Pub. L. 103–236, title IV, § 431(a)][/us/pl/103/236/s431/a], Apr. 30, 1994, [108 Stat. 459][/us/stat/108/459]; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 516\], div. G, subdiv. B, title XXVIII, § 2809(a), Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–174, 2681–849; [Pub. L. 107–228, div. B, title XIII, § 1342][/us/pl/107/228/s1342], Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451]; [Pub. L. 109–13, div. A, title II, § 2101][/us/pl/109/13/s2101], May 11, 2005, [119 Stat. 266][/us/stat/119/266]; [Pub. L. 110–161, div. J, title VI, § 616][/us/pl/110/161/s616], Dec. 26, 2007, [121 Stat. 2320][/us/stat/121/2320].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 307, as added [Pub. L. 99–83, title IV][/us/pl/99/83/tIV], § 403, Aug. 8, 1985, [99 Stat. 219][/us/stat/99/219]; amended [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 431(a), Apr. 30, 1994, [108 Stat. 459][/us/stat/108/459]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 516\], div. G, subdiv. B, title XXVIII, § 2809(a), Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–174, 2681–849; [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1342, Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451]; [Pub. L. 109–13, div. A, title II][/us/pl/109/13/dA/tII], § 2101, May 11, 2005, [119 Stat. 266][/us/stat/119/266]; [Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 616, Dec. 26, 2007, [121 Stat. 2320][/us/stat/121/2320].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
     2002—Subsec. (d). [Pub. L. 107–228][/us/pl/107/228] added subsec. (d).
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 516\], inserted before period at end “, or at the discretion of the President, Communist countries listed in [section 2370(f) of this title][/us/usc/t22/s2370/f]”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(d) \[title V, § 516\], inserted before period at end “, or at the discretion of the President, Communist countries listed in [section 2370(f) of this title][/us/usc/t22/s2370/f]”.
 
-    Subsec. (c). [Pub. L. 105–277, § 2809(a)][/us/pl/105/277/s2809/a], designated existing provisions as par. (1), substituted “Subject to paragraph (2), the limitations” for “The limitations”, and added par. (2).
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 2809(a), designated existing provisions as par. (1), substituted “Subject to paragraph (2), the limitations” for “The limitations”, and added par. (2).
 
-    1994—Subsec. (a). [Pub. L. 103–236, § 431(a)(1)][/us/pl/103/236/s431/a/1], substituted “Burma, Iraq, North Korea, Syria” for “the South-West Africa People’s Organization”.
+    1994—Subsec. (a). [Pub. L. 103–236][/us/pl/103/236], § 431(a)(1), substituted “Burma, Iraq, North Korea, Syria” for “the South-West Africa People’s Organization”.
 
-    Subsec. (c). [Pub. L. 103–236, § 431(a)(2)][/us/pl/103/236/s431/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 431(a)(2), added subsec. (c).
 
  __Effective Date__ 
 
@@ -94,28 +94,28 @@
 
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs403
+[/us/pl/99/83/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIV
 [/us/stat/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F219
-[/us/pl/103/236/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs431%2Fa
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F459
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/107/228/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1342
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1451
-[/us/pl/109/13/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs2101
+[/us/pl/109/13/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtII
 [/us/stat/119/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F266
-[/us/pl/110/161/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs616
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2320
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
-[/us/pl/105/277/s2809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2809%2Fa
-[/us/pl/103/236/s431/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs431%2Fa%2F1
-[/us/pl/103/236/s431/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs431%2Fa%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

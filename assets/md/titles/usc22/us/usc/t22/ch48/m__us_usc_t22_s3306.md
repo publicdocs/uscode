@@ -29,7 +29,7 @@
 
         Acts performed by authorized employees of the Institute under this section shall be valid, and of like force and effect within the United States, as if performed by any other person authorized under the laws of the United States to perform such acts.
 
-([Pub. L. 96–8, § 7][/us/pl/96/8/s7], Apr. 10, 1979, [93 Stat. 17][/us/stat/93/17].)
+([Pub. L. 96–8][/us/pl/96/8], § 7, Apr. 10, 1979, [93 Stat. 17][/us/stat/93/17].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs7
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F17
 
 

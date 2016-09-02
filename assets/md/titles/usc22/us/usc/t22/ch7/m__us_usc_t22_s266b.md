@@ -15,7 +15,7 @@
 
 ## § 266b. Repealed. [June 11, 1940, ch. 306][/us/act/1940-06-11/ch306], [54 Stat. 263][/us/stat/54/263]
 
-    Section, Joint Res. [Aug. 7, 1935, ch. 455, § 2][/us/act/1935-08-07/ch455/s2], [49 Stat. 540][/us/stat/49/540], related to termination of Authorizations for Participation in Work of Committee of International Technical Aerial Legal Experts.
+    Section, Joint Res. [Aug. 7, 1935, ch. 455][/us/act/1935-08-07/ch455], § 2, [49 Stat. 540][/us/stat/49/540], related to termination of Authorizations for Participation in Work of Committee of International Technical Aerial Legal Experts.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/act/1940-06-11/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch306
 [/us/stat/54/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F263
-[/us/act/1935-08-07/ch455/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-07%2Fch455%2Fs2
+[/us/act/1935-08-07/ch455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-07%2Fch455
 [/us/stat/49/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F540
 
 

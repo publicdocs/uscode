@@ -17,7 +17,7 @@
 
     There is established the Commission on Security and Cooperation in Europe (hereafter in this chapter referred to as the “Commission”).
 
-([Pub. L. 94–304, § 1][/us/pl/94/304/s1], June 3, 1976, [90 Stat. 661][/us/stat/90/661].)
+([Pub. L. 94–304][/us/pl/94/304], § 1, June 3, 1976, [90 Stat. 661][/us/stat/90/661].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs1
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F661
 
 

@@ -73,7 +73,7 @@
 
         (7) the term “State law” means the law of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 42, as added [Pub. L. 100–690, title IV, § 4603(2)][/us/pl/100/690/s4603/2], Nov. 18, 1988, [102 Stat. 4287][/us/stat/102/4287].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 42, as added [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4603(2), Nov. 18, 1988, [102 Stat. 4287][/us/stat/102/4287].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 42 of act Aug. 1, 1956, was renumbered section 43 by [section 4603(1) of Pub. L. 100–690][/us/pl/100/690/s4603/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 42 of act Aug. 1, 1956, was renumbered section 43 by [section 4603(1) of Pub. L. 100–690][/us/pl/100/690/s4603/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
 ----------
 
@@ -97,7 +97,7 @@
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
 [/us/usc/t18/s1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1957
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/690/s4603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4603%2F2
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4287
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
@@ -107,7 +107,7 @@
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
 [/us/pl/100/690/s4603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4603%2F1
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 
 

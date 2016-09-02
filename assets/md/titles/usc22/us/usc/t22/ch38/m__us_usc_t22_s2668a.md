@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 547 of Title 31][/us/usc/t31/s547] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 547 of Title 31][/us/usc/t31/s547] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/act/1896-02-27/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-02-27%2Fch34
 [/us/stat/29/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F32
 [/us/usc/t31/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs547
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

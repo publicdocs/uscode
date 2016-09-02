@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s269h.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s270...270g.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
 
 ## § 271. International Labor Organization; membership
 
     The President is authorized to accept membership for the Government of the United States of America in the International Labor Organization, which, through its general conference of representatives of its members and through its International Labor Office, collects information concerning labor throughout the world and prepares international conventions for the consideration of member governments with a view to improving conditions of labor.
 
-([June 19, 1934, ch. 676, § 1][/us/act/1934-06-19/ch676/s1], [48 Stat. 1182][/us/stat/48/1182].)
+([June 19, 1934, ch. 676][/us/act/1934-06-19/ch676], § 1, [48 Stat. 1182][/us/stat/48/1182].)
 
  __Acceptance of Constitution by United States__ 
 
-[Act June 30, 1948, ch. 756, § 1][/us/act/1948-06-30/ch756/s1], [62 Stat. 1151][/us/stat/62/1151], provided: 
+[Act June 30, 1948, ch. 756][/us/act/1948-06-30/ch756], § 1, [62 Stat. 1151][/us/stat/62/1151], provided: 
 
 > “That the President is hereby authorized to accept for the Government of the United States of America the Constitution of the International Labor Organization Instrument of Amendment adopted by the Twenty-ninth Session of the International Labor Conference on October 9, 1946.”
 
@@ -115,18 +115,20 @@ By the authority vested in me as President by the Constitution and statutes of t
 
     Term of the President’s Committee on the International Labor Organization extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-    Term of the President’s Committee on the International Labor Organization extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+    Term of the President’s Committee on the International Labor Organization extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+    Term of the President’s Committee on the International Labor Organization extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s269h.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s270...270g.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s272.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs271)
 
 ----------
 ----------
 
-[/us/act/1934-06-19/ch676/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch676%2Fs1
+[/us/act/1934-06-19/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch676
 [/us/stat/48/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1182
-[/us/act/1948-06-30/ch756/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch756%2Fs1
+[/us/act/1948-06-30/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch756
 [/us/stat/62/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1151
 [/us/pl/88/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F65
 [/us/stat/77/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F80

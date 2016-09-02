@@ -23,7 +23,7 @@
 
     (3) is not providing weapons or funds to any group, in any other country, that seeks the violent overthrow of the government of that country.
 
-([Pub. L. 102–484, div. A, title XVII, § 1707][/us/pl/102/484/s1707], Oct. 23, 1992, [106 Stat. 2579][/us/stat/106/2579]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(V), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1707, Oct. 23, 1992, [106 Stat. 2579][/us/stat/106/2579]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(V), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/pl/102/484/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1707
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2579
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

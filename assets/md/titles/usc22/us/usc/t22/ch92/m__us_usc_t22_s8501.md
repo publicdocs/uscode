@@ -55,7 +55,7 @@
 
     (10) Economic sanctions imposed pursuant to the provisions of this Act, the Iran Sanctions Act of 1996, as amended by this Act, and the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), and other authorities available to the United States to impose economic sanctions to prevent Iran from developing nuclear weapons, are necessary to protect the essential security interests of the United States.
 
-([Pub. L. 111–195, § 2][/us/pl/111/195/s2], July 1, 2010, [124 Stat. 1313][/us/stat/124/1313].)
+([Pub. L. 111–195][/us/pl/111/195], § 2, July 1, 2010, [124 Stat. 1313][/us/stat/124/1313].)
 
  __Termination of Section__ 
 
@@ -71,7 +71,7 @@
 
  __Short Title__ 
 
-[Pub. L. 111–195, § 1(a)][/us/pl/111/195/s1/a], July 1, 2010, [124 Stat. 1312][/us/stat/124/1312], provided that: 
+[Pub. L. 111–195][/us/pl/111/195], § 1(a), July 1, 2010, [124 Stat. 1312][/us/stat/124/1312], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 287c, 2778, and 2780 of this title, [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, enacting provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13] and [section 1701 of Title 50][/us/usc/t50/s1701], and amending provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]\] may be cited as the ‘Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010’.”
 
@@ -139,7 +139,7 @@
 ----------
 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/195/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs2
+[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/stat/124/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1313
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
@@ -157,7 +157,7 @@
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/195/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs1%2Fa
+[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/stat/124/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1312
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310

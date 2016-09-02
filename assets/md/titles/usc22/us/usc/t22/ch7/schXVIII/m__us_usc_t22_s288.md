@@ -25,19 +25,19 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–177, § 1][/us/pl/111/177/s1], June 8, 2010, [124 Stat. 1260][/us/stat/124/1260], provided that: 
+[Pub. L. 111–177][/us/pl/111/177], § 1, June 8, 2010, [124 Stat. 1260][/us/stat/124/1260], provided that: 
 
 > “This Act \[enacting [section 288f–7 of this title][/us/usc/t22/s288f–7]\] may be cited as the ‘Extending Immunities to the Office of the High Representative in Bosnia and Herzegovina and the International Civilian Office in Kosovo Act of 2010’.”
 
  __Short Title__ 
 
-[Act Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 10, [59 Stat. 673][/us/stat/59/673], provided that: 
+[Act Dec. 29, 1945, ch. 652, title I][/us/act/1945-12-29/ch652/tI], § 10, [59 Stat. 673][/us/stat/59/673], provided that: 
 
 > “This title \[enacting this subchapter and amending [section 215 of Title 8][/us/usc/t8/s215], Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and [section 409 of Title 42][/us/usc/t42/s409], The Public Health and Welfare\] may be cited as the ‘International Organizations Immunities Act’.”
 
  __International Cotton Advisory Committee__ 
 
-[Pub. L. 104–127, title II, § 283][/us/pl/104/127/s283], Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], provided that:
+[Pub. L. 104–127, title II][/us/pl/104/127/tII], § 283, Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -272,14 +272,14 @@ Executive orders designating international organizations as public international
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669
-[/us/pl/111/177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F177%2Fs1
+[/us/pl/111/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F177
 [/us/stat/124/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1260
 [/us/usc/t22/s288f–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288f%E2%80%937
-[/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
+[/us/act/1945-12-29/ch652/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652%2FtI
 [/us/stat/59/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F673
 [/us/usc/t8/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs215
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
-[/us/pl/104/127/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs283
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F980
 [/us/act/1947-08-04/ch479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch479
 [/us/stat/61/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F752

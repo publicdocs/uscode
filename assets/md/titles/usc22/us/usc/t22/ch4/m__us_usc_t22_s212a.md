@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s213.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs212a)
+[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs212a)
 
 ## § 212a. Restriction of passports for sex tourism
 
@@ -59,7 +59,7 @@
 
             (B) the term “imprisonment” means being confined in or otherwise restricted to a jail, prison, half-way house, treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a criminal conviction.
 
-([Pub. L. 110–457, title II, § 236][/us/pl/110/457/s236], Dec. 23, 2008, [122 Stat. 5082][/us/stat/122/5082].)
+([Pub. L. 110–457, title II][/us/pl/110/457/tII], § 236, Dec. 23, 2008, [122 Stat. 5082][/us/stat/122/5082].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s213.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs212a)
+[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs212a)
 
 ----------
 ----------
@@ -76,7 +76,7 @@
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t18/s2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2423
 [/us/usc/t18/s2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2423
-[/us/pl/110/457/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs236
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5082
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

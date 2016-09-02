@@ -113,7 +113,7 @@
 
         The President shall submit to the appropriate congressional committees an annual report on the community adjustment and investment program (if any) that is carried out pursuant to this section. Each report shall state the amount of the loans made or guaranteed during the 12-month period ending on the day before the date of the report.
 
-([Pub. L. 103–182, title V, § 543][/us/pl/103/182/s543], Dec. 8, 1993, [107 Stat. 2167][/us/stat/107/2167].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 543, Dec. 8, 1993, [107 Stat. 2167][/us/stat/107/2167].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 ----------
 
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/103/182/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs543
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2167
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

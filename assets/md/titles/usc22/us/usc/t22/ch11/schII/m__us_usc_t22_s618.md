@@ -31,7 +31,7 @@
 
         Any alien who shall be convicted of a violation of, or a conspiracy to violate, any provision of this subchapter or any regulation thereunder shall be subject to removal pursuant to chapter 4 of title II of the Immigration and Nationality Act \[[8 U.S.C. 1221][/us/usc/t8/s1221] et seq.\].
 
-    (d) __Repealed.__  __[__  __Pub. L. 104–65, § 9(8)(B)__  __][/us/pl/104/65/s9/8/B]__  __,__  __Dec. 19, 1995__  __,__  __[__  __109 Stat. 700__  __][/us/stat/109/700]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 104–65__  __][/us/pl/104/65]__  __, § 9(8)(B),__  __Dec. 19, 1995__  __,__  __[__  __109 Stat. 700__  __][/us/stat/109/700]__ 
 
     (e) __Continuing offense__ 
 
@@ -49,7 +49,7 @@
 
         It shall be unlawful for any agent of a foreign principal required to register under this subchapter to be a party to any contract, agreement, or understanding, either express or implied, with such foreign principal pursuant to which the amount or payment of the compensation, fee, or other remuneration of such agent is contingent in whole or in part upon the success of any political activities carried on by such agent.
 
-([June 8, 1938, ch. 327, § 8][/us/act/1938-06-08/ch327/s8], as added [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 257][/us/stat/56/257]; amended [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 20(b), [64 Stat. 1005][/us/stat/64/1005]; [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(d), [66 Stat. 276][/us/stat/66/276]; [Aug. 1, 1956, ch. 849, § 1][/us/act/1956-08-01/ch849/s1], [70 Stat. 899][/us/stat/70/899]; [Pub. L. 89–486, § 7][/us/pl/89/486/s7], July 4, 1966, [80 Stat. 248][/us/stat/80/248]; [Pub. L. 98–620, title IV, § 402(26)][/us/pl/98/620/s402/26], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 104–65, § 9(8)][/us/pl/104/65/s9/8], Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 104–208, div. C, title III, § 308(e)(19)][/us/pl/104/208/s308/e/19], Sept. 30, 1996, [110 Stat. 3009–621][/us/stat/110/3009-621].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 8, as added [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 257][/us/stat/56/257]; amended [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 20(b), [64 Stat. 1005][/us/stat/64/1005]; [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(d), [66 Stat. 276][/us/stat/66/276]; [Aug. 1, 1956, ch. 849][/us/act/1956-08-01/ch849], § 1, [70 Stat. 899][/us/stat/70/899]; [Pub. L. 89–486][/us/pl/89/486], § 7, July 4, 1966, [80 Stat. 248][/us/stat/80/248]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(26), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 104–65][/us/pl/104/65], § 9(8), Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 308(e)(19), Sept. 30, 1996, [110 Stat. 3009–621][/us/stat/110/3009-621].)
 
  __References in Text__ 
 
@@ -63,15 +63,15 @@
 
     1996—Subsec. (c). [Pub. L. 104–208][/us/pl/104/208] substituted “removal pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deportation in the manner provided by sections 1251 to 1253 of title 8”.
 
-    1995—Subsec. (a)(2). [Pub. L. 104–65, § 9(8)(A)][/us/pl/104/65/s9/8/A], struck out “or in any statement under [section 614(a) of this title][/us/usc/t22/s614/a] concerning the distribution of political propaganda” after “or supplement thereto”.
+    1995—Subsec. (a)(2). [Pub. L. 104–65][/us/pl/104/65], § 9(8)(A), struck out “or in any statement under [section 614(a) of this title][/us/usc/t22/s614/a] concerning the distribution of political propaganda” after “or supplement thereto”.
 
-    Subsec. (d). [Pub. L. 104–65, § 9(8)(B)][/us/pl/104/65/s9/8/B], struck out subsec. (d) which read as follows: “The United States Postal Service may declare to be nonmailable any communication or expression falling within clause (2) of [section 611(j) of this title][/us/usc/t22/s611/j] in the form of prints or in any other form reasonably adapted to, or reasonably appearing to be intended for, dissemination or circulation among two or more persons, which is offered or caused to be offered for transmittal in the United States mails to any person or persons in any other American republic by any agent of a foreign principal, if the United States Postal Service is informed in writing by the Secretary of State that the duly accredited diplomatic representative of such American republic has made written representation to the Department of State that the admission or circulation of such communication or expression in such American republic is prohibited by the laws thereof and has requested in writing that its transmittal thereto be stopped.”
+    Subsec. (d). [Pub. L. 104–65][/us/pl/104/65], § 9(8)(B), struck out subsec. (d) which read as follows: “The United States Postal Service may declare to be nonmailable any communication or expression falling within clause (2) of [section 611(j) of this title][/us/usc/t22/s611/j] in the form of prints or in any other form reasonably adapted to, or reasonably appearing to be intended for, dissemination or circulation among two or more persons, which is offered or caused to be offered for transmittal in the United States mails to any person or persons in any other American republic by any agent of a foreign principal, if the United States Postal Service is informed in writing by the Secretary of State that the duly accredited diplomatic representative of such American republic has made written representation to the Department of State that the admission or circulation of such communication or expression in such American republic is prohibited by the laws thereof and has requested in writing that its transmittal thereto be stopped.”
 
     1984—Subsec. (f). [Pub. L. 98–620][/us/pl/98/620] struck out provision that the proceedings shall be made a preferred cause and expedited in every way.
 
-    1966—Subsec. (a)(2). [Pub. L. 89–486, § 7(1)][/us/pl/89/486/s7/1], inserted exception provision.
+    1966—Subsec. (a)(2). [Pub. L. 89–486][/us/pl/89/486], § 7(1), inserted exception provision.
 
-    Subsecs. (f) to (h). [Pub. L. 89–486, § 7(2)][/us/pl/89/486/s7/2], added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 89–486][/us/pl/89/486], § 7(2), added subsecs. (f) to (h).
 
     1956—Act Aug. 1, 1956, amended credit to section by redesignating section 20(b) of act Sept. 23, 1950, as section 20.
 
@@ -108,38 +108,38 @@
 
 [/us/usc/t22/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs614
 [/us/usc/t8/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1221
-[/us/pl/104/65/s9/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F8%2FB
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F700
 [/us/usc/t22/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs612%2Fb
-[/us/act/1938-06-08/ch327/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs8
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F257
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1005
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F276
-[/us/act/1956-08-01/ch849/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849%2Fs1
+[/us/act/1956-08-01/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch849
 [/us/stat/70/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F899
-[/us/pl/89/486/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs7
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/stat/80/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F248
-[/us/pl/98/620/s402/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F26
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
-[/us/pl/104/65/s9/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F8
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F700
-[/us/pl/104/208/s308/e/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fe%2F19
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-621
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t22/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs615
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/65/s9/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F8%2FA
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/usc/t22/s614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs614%2Fa
-[/us/pl/104/65/s9/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F8%2FB
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/usc/t22/s611/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611%2Fj
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/89/486/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs7%2F1
-[/us/pl/89/486/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs7%2F2
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs309
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

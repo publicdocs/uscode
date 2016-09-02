@@ -23,7 +23,7 @@
 
         If the interpretation by the Fund answers in the affirmative any of the questions stated in subsection (a) of this section, the governor of the Fund representing the United States is directed to propose promptly and support an amendment to the Articles of Agreement for the purpose of expressly negativing such interpretation. The President is authorized and directed to accept an amendment to that effect on behalf of the United States.
 
-([July 31, 1945, ch. 339, § 13][/us/act/1945-07-31/ch339/s13], [59 Stat. 517][/us/stat/59/517].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 13, [59 Stat. 517][/us/stat/59/517].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs13
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F517
 
 

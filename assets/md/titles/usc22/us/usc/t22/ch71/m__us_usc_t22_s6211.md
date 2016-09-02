@@ -23,7 +23,7 @@
 
     At such time as a particular nation meets both of these conditions, RFE/RL should phase out broadcasting to that nation.
 
-([Pub. L. 103–236, title III, § 312][/us/pl/103/236/s312], Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444]; [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, § 503\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451.)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 312, Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444]; [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title V, § 503\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451.)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Programming to Ukraine and Neighboring Regions: Findings and Declarations__ 
 
-[Pub. L. 113–96, § 1][/us/pl/113/96/s1], Apr. 3, 2014, [128 Stat. 1098][/us/stat/128/1098], provided that:
+[Pub. L. 113–96][/us/pl/113/96], § 1, Apr. 3, 2014, [128 Stat. 1098][/us/stat/128/1098], provided that:
 
 >     “(a)
 
@@ -98,12 +98,12 @@
 ----------
 ----------
 
-[/us/pl/103/236/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs312
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F444
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/113/96/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F96%2Fs1
+[/us/pl/113/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F96
 [/us/stat/128/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1098
 
 

@@ -61,19 +61,19 @@
 
         The authority of the Commission under this section and [section 3612b of this title][/us/usc/t22/s3612b] is subject to the Panama Canal Treaty of 1977 and related agreements, and to chapter 91 of title 31.
 
-([Pub. L. 96–70, title I, § 1102a][/us/pl/96/70/s1102a], as added [Pub. L. 104–106, div. C, title XXXV, § 3524(a)][/us/pl/104/106/s3524/a], Feb. 10, 1996, [110 Stat. 639][/us/stat/110/639]; amended [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85], §§ 3546, 3550(d)(3), Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073], 2074.)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1102a, as added [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3524(a), Feb. 10, 1996, [110 Stat. 639][/us/stat/110/639]; amended [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], §§ 3546, 3550(d)(3), Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073], 2074.)
 
  __References in Text__ 
 
-    Sections 661 and 662 of title 42, referred to in subsec. (c)(2), were repealed by [Pub. L. 104–193, title III, § 362(b)(1)][/us/pl/104/193/s362/b/1], Aug. 22, 1994, [110 Stat. 2246][/us/stat/110/2246].
+    Sections 661 and 662 of title 42, referred to in subsec. (c)(2), were repealed by [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 362(b)(1), Aug. 22, 1994, [110 Stat. 2246][/us/stat/110/2246].
 
  __Amendments__ 
 
-    1997—Subsec. (g). [Pub. L. 105–85, § 3546(2)][/us/pl/105/85/s3546/2], added subsec. (g). Former subsec. (g) redesignated (h).
+    1997—Subsec. (g). [Pub. L. 105–85][/us/pl/105/85], § 3546(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 105–85, § 3550(d)(3)][/us/pl/105/85/s3550/d/3], made technical amendment to reference in original act which appears in text as reference to [section 3612b of this title][/us/usc/t22/s3612b].
+    Subsec. (h). [Pub. L. 105–85][/us/pl/105/85], § 3550(d)(3), made technical amendment to reference in original act which appears in text as reference to [section 3612b of this title][/us/usc/t22/s3612b].
 
-    [Pub. L. 105–85, § 3546(1)][/us/pl/105/85/s3546/1], redesignated subsec. (g) as (h).
+    [Pub. L. 105–85][/us/pl/105/85], § 3546(1), redesignated subsec. (g) as (h).
 
 ----------
 
@@ -85,16 +85,16 @@
 [/us/usc/t22/s3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3761
 [/us/usc/t5/s5520a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5520a
 [/us/usc/t22/s3612b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612b
-[/us/pl/96/70/s1102a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1102a
-[/us/pl/104/106/s3524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3524%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F639
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2073
-[/us/pl/104/193/s362/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fb%2F1
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2246
-[/us/pl/105/85/s3546/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3546%2F2
-[/us/pl/105/85/s3550/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F3
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t22/s3612b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612b
-[/us/pl/105/85/s3546/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3546%2F1
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

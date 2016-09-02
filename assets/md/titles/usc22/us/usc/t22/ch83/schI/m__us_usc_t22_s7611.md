@@ -515,7 +515,7 @@
 
         (2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-([Pub. L. 108–25, title I, § 101][/us/pl/108/25/s101], May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, title I, § 101][/us/pl/110/293/s101], July 30, 2008, [122 Stat. 2923][/us/stat/122/2923]; [Pub. L. 113–56][/us/pl/113/56], §§ 2, 3(a), Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648].)
+([Pub. L. 108–25, title I][/us/pl/108/25/tI], § 101, May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, title I][/us/pl/110/293/tI], § 101, July 30, 2008, [122 Stat. 2923][/us/stat/122/2923]; [Pub. L. 113–56][/us/pl/113/56], §§ 2, 3(a), Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648].)
 
  __References in Text__ 
 
@@ -523,27 +523,27 @@
 
  __Amendments__ 
 
-    2013—Subsec. (f)(1)(A). [Pub. L. 113–56, § 2(1)][/us/pl/113/56/s2/1], substituted “coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018” for “5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013”.
+    2013—Subsec. (f)(1)(A). [Pub. L. 113–56][/us/pl/113/56], § 2(1), substituted “coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018” for “5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013”.
 
-    Subsec. (f)(1)(C)(ii). [Pub. L. 113–56, § 2(2)(A)][/us/pl/113/56/s2/2/A], substituted “2010 through 2013 plans” for “Subsequent plans” in heading and “the plans for fiscal years 2010 through 2013” for “the last four plans” in text.
+    Subsec. (f)(1)(C)(ii). [Pub. L. 113–56][/us/pl/113/56], § 2(2)(A), substituted “2010 through 2013 plans” for “Subsequent plans” in heading and “the plans for fiscal years 2010 through 2013” for “the last four plans” in text.
 
-    Subsec. (f)(1)(C)(iii), (iv). [Pub. L. 113–56, § 2(2)(B)][/us/pl/113/56/s2/2/B], added cls. (iii) and (iv).
+    Subsec. (f)(1)(C)(iii), (iv). [Pub. L. 113–56][/us/pl/113/56], § 2(2)(B), added cls. (iii) and (iv).
 
-    Subsec. (g)(1). [Pub. L. 113–56, § 3(a)(1)][/us/pl/113/56/s3/a/1], substituted “through September 30, 2019” for “through September 30, 2013” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 113–56][/us/pl/113/56], § 3(a)(1), substituted “through September 30, 2019” for “through September 30, 2013” in introductory provisions.
 
-    Subsec. (g)(2), (3). [Pub. L. 113–56, § 3(a)(2)][/us/pl/113/56/s3/a/2], (3), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (g)(2), (3). [Pub. L. 113–56][/us/pl/113/56], § 3(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (g)(4). [Pub. L. 113–56, § 3(a)(4)][/us/pl/113/56/s3/a/4], added par. (4).
+    Subsec. (g)(4). [Pub. L. 113–56][/us/pl/113/56], § 3(a)(4), added par. (4).
 
-    2008—Subsec. (a). [Pub. L. 110–293, § 101(a)][/us/pl/110/293/s101/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
+    2008—Subsec. (a). [Pub. L. 110–293][/us/pl/110/293], § 101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
 
-    Subsec. (b). [Pub. L. 110–293, § 101(b)][/us/pl/110/293/s101/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
+    Subsec. (b). [Pub. L. 110–293][/us/pl/110/293], § 101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
 
-    Subsec. (c). [Pub. L. 110–293, § 101(c)][/us/pl/110/293/s101/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the study of success rates and distribution of resources under the strategy described in subsec. (a).
+    Subsec. (c). [Pub. L. 110–293][/us/pl/110/293], § 101(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the study of success rates and distribution of resources under the strategy described in subsec. (a).
 
-    Subsecs. (d) to (f). [Pub. L. 110–293, § 101(d)][/us/pl/110/293/s101/d], added subsecs. (d) to (f).
+    Subsecs. (d) to (f). [Pub. L. 110–293][/us/pl/110/293], § 101(d), added subsecs. (d) to (f).
 
-    Subsecs. (g), (h). [Pub. L. 110–293, § 101(e)][/us/pl/110/293/s101/e], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 110–293][/us/pl/110/293], § 101(e), added subsecs. (g) and (h).
 
  __Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003__ 
 
@@ -569,26 +569,26 @@
 [/us/usc/t22/s7672/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7672%2Fa%2F3
 [/us/usc/t22/s7673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7673%2Fd
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
-[/us/pl/108/25/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs101
+[/us/pl/108/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtI
 [/us/stat/117/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F718
-[/us/pl/110/293/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101
+[/us/pl/110/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtI
 [/us/stat/122/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2923
 [/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/stat/127/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F648
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
-[/us/pl/113/56/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs2%2F1
-[/us/pl/113/56/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs2%2F2%2FA
-[/us/pl/113/56/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs2%2F2%2FB
-[/us/pl/113/56/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs3%2Fa%2F1
-[/us/pl/113/56/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs3%2Fa%2F2
-[/us/pl/113/56/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs3%2Fa%2F4
-[/us/pl/110/293/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fa
-[/us/pl/110/293/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fb
-[/us/pl/110/293/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fc
-[/us/pl/110/293/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fd
-[/us/pl/110/293/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fe
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25

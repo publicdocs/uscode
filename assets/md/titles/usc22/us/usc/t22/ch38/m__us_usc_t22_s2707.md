@@ -15,7 +15,7 @@
 
 ## § 2707. International communications and information policy; duties of Secretary of State
 
-    (a) Repealed. [Pub. L. 103–236, title I, § 162(k)(1)(A)][/us/pl/103/236/s162/k/1/A], Apr. 30, 1994, [108 Stat. 408][/us/stat/108/408].
+    (a) Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(k)(1)(A), Apr. 30, 1994, [108 Stat. 408][/us/stat/108/408].
 
     (b)
 
@@ -35,23 +35,23 @@
 
         (7) assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international communications and information policy issues.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 35, as added [Pub. L. 98–164, title I, § 124][/us/pl/98/164/s124], Nov. 22, 1983, [97 Stat. 1025][/us/stat/97/1025]; amended [Pub. L. 100–204, title I, § 173(a)(1)][/us/pl/100/204/s173/a/1], Dec. 22, 1987, [101 Stat. 1360][/us/stat/101/1360]; [Pub. L. 103–236, title I, § 162(k)(1)][/us/pl/103/236/s162/k/1], Apr. 30, 1994, [108 Stat. 408][/us/stat/108/408].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 35, as added [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 124, Nov. 22, 1983, [97 Stat. 1025][/us/stat/97/1025]; amended [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 173(a)(1), Dec. 22, 1987, [101 Stat. 1360][/us/stat/101/1360]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(k)(1), Apr. 30, 1994, [108 Stat. 408][/us/stat/108/408].)
 
  __Prior Provisions__ 
 
-    A prior section 35 of act Aug. 1, 1956, was renumbered section 36 by [section 124 of Pub. L. 98–164][/us/pl/98/164/s124], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 35 of act Aug. 1, 1956, was renumbered section 36 by [section 124 of Pub. L. 98–164][/us/pl/98/164/s124], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–236, § 162(k)(1)(A)][/us/pl/103/236/s162/k/1/A], struck out subsec. (a) which read as follows: “The Secretary of State shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the ‘Under Secretary’).”
+    1994—Subsec. (a). [Pub. L. 103–236][/us/pl/103/236], § 162(k)(1)(A), struck out subsec. (a) which read as follows: “The Secretary of State shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the ‘Under Secretary’).”
 
-    Subsec. (b). [Pub. L. 103–236, § 162(k)(1)(B)(i)][/us/pl/103/236/s162/k/1/B/i], inserted introductory provisions and struck out former introductory provisions which read as follows: “The Secretary of State shall establish, within the Department of State, an Office of the Coordinator for International Communications and Information Policy, headed by a Coordinator who shall be responsible to the Under Secretary. The Coordinator shall be appointed by the President, by and with the advice and consent of the Senate, and shall have the rank of ambassador. The Coordinator shall be compensated at the annual rate of pay for positions authorized by [section 5315 of title 5][/us/usc/t5/s5315]. The Coordinator shall be responsible, on behalf of the Under Secretary, for formulation, coordination, and oversight of international communications and information policy assigned to the Under Secretary. On behalf  of  the  Under  Secretary,  the  Coordinator  shall—”.
+    Subsec. (b). [Pub. L. 103–236][/us/pl/103/236], § 162(k)(1)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: “The Secretary of State shall establish, within the Department of State, an Office of the Coordinator for International Communications and Information Policy, headed by a Coordinator who shall be responsible to the Under Secretary. The Coordinator shall be appointed by the President, by and with the advice and consent of the Senate, and shall have the rank of ambassador. The Coordinator shall be compensated at the annual rate of pay for positions authorized by [section 5315 of title 5][/us/usc/t5/s5315]. The Coordinator shall be responsible, on behalf of the Under Secretary, for formulation, coordination, and oversight of international communications and information policy assigned to the Under Secretary. On behalf  of  the  Under  Secretary,  the  Coordinator  shall—”.
 
-    Subsec. (b)(1). [Pub. L. 103–236, § 162(k)(1)(B)(iv)][/us/pl/103/236/s162/k/1/B/iv], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (b)(1). [Pub. L. 103–236][/us/pl/103/236], § 162(k)(1)(B)(iv), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (b)(2). [Pub. L. 103–236, § 162(k)(1)(B)(ii)][/us/pl/103/236/s162/k/1/B/ii], (iii), (v), redesignated par. (1) as (2), struck out “with the bureaus and offices of the Department of State and” after “continuing liaison”, inserted “and with the Federal Communications Commission, as appropriate” before semicolon, and struck out former par. (2) which read as follows: “in accordance with such authority as may be delegated by the President pursuant to Executive order, chair such agency and interagency meetings as may be necessary to coordinate actions on pending issues to ensure proper policy coordination;”.
+    Subsec. (b)(2). [Pub. L. 103–236][/us/pl/103/236], § 162(k)(1)(B)(ii), (iii), (v), redesignated par. (1) as (2), struck out “with the bureaus and offices of the Department of State and” after “continuing liaison”, inserted “and with the Federal Communications Commission, as appropriate” before semicolon, and struck out former par. (2) which read as follows: “in accordance with such authority as may be delegated by the President pursuant to Executive order, chair such agency and interagency meetings as may be necessary to coordinate actions on pending issues to ensure proper policy coordination;”.
 
-    Subsec. (b)(3). [Pub. L. 103–236, § 162(k)(1)(B)(vi)][/us/pl/103/236/s162/k/1/B/vi], substituted “any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;” for “the Senior Interagency Group on International Communications and Information Policy”.
+    Subsec. (b)(3). [Pub. L. 103–236][/us/pl/103/236], § 162(k)(1)(B)(vi), substituted “any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;” for “the Senior Interagency Group on International Communications and Information Policy”.
 
     1987—Subsec. (b). [Pub. L. 100–204][/us/pl/100/204] inserted after second sentence “The Coordinator shall be compensated at the annual rate of pay for positions authorized by [section 5315 of title 5][/us/usc/t5/s5315].”
 
@@ -61,19 +61,19 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–204, title I, § 173(b)][/us/pl/100/204/s173/b], Dec. 22, 1987, [101 Stat. 1360][/us/stat/101/1360], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 173(b), Dec. 22, 1987, [101 Stat. 1360][/us/stat/101/1360], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 4303 of this title][/us/usc/t22/s4303]\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\].”
 
  __Effect of 1994 Amendments on Scope of Authority Vested as of__  __April 30, 1994__ 
 
-[Pub. L. 103–236, title I, § 162(k)(2)][/us/pl/103/236/s162/k/2], Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(k)(2), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409], provided that: 
 
 > “Nothing in the amendments made by paragraph (1) \[amending this section\] affects the nature or scope of the authority that is on the date of enactment of this Act \[Apr. 30, 1994\] vested by law or Executive order in the Department of Commerce, the Office of the United States Trade Representative, the Federal Communications Commission, or any officer thereof.”
 
  __New Spending Authority__ 
 
-[Pub. L. 100–204, title I, § 173(c)][/us/pl/100/204/s173/c], Dec. 22, 1987, [101 Stat. 1360][/us/stat/101/1360], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 173(c), Dec. 22, 1987, [101 Stat. 1360][/us/stat/101/1360], provided that: 
 
 > “Any new spending authority (as defined in section 401(c) of the Congressional Budget Act of 1974 \[[2 U.S.C. 651(c)][/us/usc/t2/s651/c]\]) provided by this section \[amending sections 2707 and 4303 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
@@ -84,37 +84,37 @@
 ----------
 ----------
 
-[/us/pl/103/236/s162/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1%2FA
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F408
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/98/164/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs124
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1025
-[/us/pl/100/204/s173/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs173%2Fa%2F1
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1360
-[/us/pl/103/236/s162/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F408
 [/us/pl/98/164/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs124
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
-[/us/pl/103/236/s162/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1%2FA
-[/us/pl/103/236/s162/k/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1%2FB%2Fi
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/103/236/s162/k/1/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1%2FB%2Fiv
-[/us/pl/103/236/s162/k/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1%2FB%2Fii
-[/us/pl/103/236/s162/k/1/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F1%2FB%2Fvi
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
-[/us/pl/100/204/s173/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs173%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1360
 [/us/usc/t22/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4303
-[/us/pl/103/236/s162/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fk%2F2
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F409
-[/us/pl/100/204/s173/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs173%2Fc
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1360
 [/us/usc/t2/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc
 

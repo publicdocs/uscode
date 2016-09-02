@@ -81,7 +81,7 @@
 
         (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 87–297, title IV, § 403][/us/pl/87/297/s403], formerly § 51, as added and amended [Pub. L. 103–236, title VII, § 717(a)(3)][/us/pl/103/236/s717/a/3], title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498], 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771][/us/stat/112/2681-771], 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1113\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–487; [Pub. L. 107–228, div. B, title XI, § 1103][/us/pl/107/228/s1103], Sept. 30, 2002, [116 Stat. 1426][/us/stat/116/1426]; [Pub. L. 113–66, div. A, title XII, § 1247][/us/pl/113/66/s1247], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924]; [Pub. L. 114–92, div. A, title XII, § 1272][/us/pl/114/92/s1272], Nov. 25, 2015, [129 Stat. 1076][/us/stat/129/1076].)
+([Pub. L. 87–297, title IV][/us/pl/87/297/tIV], § 403, formerly § 51, as added and amended [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 717(a)(3), title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498], 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771][/us/stat/112/2681-771], 2681–772; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1113\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–487; [Pub. L. 107–228, div. B, title XI][/us/pl/107/228/dB/tXI], § 1103, Sept. 30, 2002, [116 Stat. 1426][/us/stat/116/1426]; [Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1247, Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924]; [Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1272, Nov. 25, 2015, [129 Stat. 1076][/us/stat/129/1076].)
 
  __References in Text__ 
 
@@ -91,43 +91,43 @@
 
     2015—Subsec. (e). [Pub. L. 114–92][/us/pl/114/92] amended subsec. (e) generally. Prior to amendment, text read as follows: “Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.”
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 1247(a)(1)][/us/pl/113/66/s1247/a/1], substituted “the appropriate congressional committees” for “the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate” in introductory provisions.
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 1247(a)(1), substituted “the appropriate congressional committees” for “the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 113–66, § 1247(a)(2)][/us/pl/113/66/s1247/a/2], substituted “appropriate congressional committees” for “Congress”.
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 1247(a)(2), substituted “appropriate congressional committees” for “Congress”.
 
-    Subsec. (e). [Pub. L. 113–66, § 1247(b)(2)][/us/pl/113/66/s1247/b/2], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 113–66][/us/pl/113/66], § 1247(b)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    [Pub. L. 113–66, § 1247(a)(3)][/us/pl/113/66/s1247/a/3], added subsec. (e).
+    [Pub. L. 113–66][/us/pl/113/66], § 1247(a)(3), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 113–66, § 1247(b)(1)][/us/pl/113/66/s1247/b/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 113–66][/us/pl/113/66], § 1247(b)(1), redesignated subsec. (e) as (f).
 
     2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228] substituted “April 15” for “January 31” in introductory provisions.
 
-    1999—Subsec. (a)(4). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1113(a)(1)(A)–(C)\], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
+    1999—Subsec. (a)(4). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1113(a)(1)(A)–(C)\], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
 
-    Subsec. (a)(6). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1113(a)(1)(D), (2), (3)\], added par. (6).
+    Subsec. (a)(6). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1113(a)(1)(D), (2), (3)\], added par. (6).
 
-    Subsec. (d). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1113(b)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1113(b)\], added subsec. (d).
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1223(15)(A)(ii)][/us/pl/105/277/s1223/15/A/ii], (iii), in introductory provisions, substituted “Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with” for “Director, in consultation with the Secretary of State,” and “and the Chairman of the Joint Chiefs of Staff” for “the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(ii), (iii), in introductory provisions, substituted “Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with” for “Director, in consultation with the Secretary of State,” and “and the Chairman of the Joint Chiefs of Staff” for “the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence”.
 
-    Subsec. (a)(1). [Pub. L. 105–277, § 1223(15)(A)(i)][/us/pl/105/277/s1223/15/A/i], inserted “, nonproliferation,” after “arms control”.
+    Subsec. (a)(1). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
 
-    Subsec. (a)(2). [Pub. L. 105–277, § 1223(15)(A)(iv)][/us/pl/105/277/s1223/15/A/iv], (v), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “a detailed statement concerning the nonproliferation objectives of the executive branch of Government for the forthcoming year;”.
+    Subsec. (a)(2). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(iv), (v), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “a detailed statement concerning the nonproliferation objectives of the executive branch of Government for the forthcoming year;”.
 
-    Subsec. (a)(3). [Pub. L. 105–277, § 1223(15)(A)(v)][/us/pl/105/277/s1223/15/A/v], redesignated par. (5) as (3). Former par. (3) redesignated (2).
+    Subsec. (a)(3). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(v), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-    [Pub. L. 105–277, § 1223(15)(A)(i)][/us/pl/105/277/s1223/15/A/i], inserted “, nonproliferation,” after “arms control”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
 
-    Subsec. (a)(4). [Pub. L. 105–277, § 1223(15)(A)(iv)][/us/pl/105/277/s1223/15/A/iv], (v), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “a detailed assessment of the status of any ongoing nonproliferation negotiations or other activities, including a comprehensive description of the negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;”.
+    Subsec. (a)(4). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(iv), (v), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “a detailed assessment of the status of any ongoing nonproliferation negotiations or other activities, including a comprehensive description of the negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;”.
 
-    Subsec. (a)(5) to (7). [Pub. L. 105–277, § 1223(15)(A)(v)][/us/pl/105/277/s1223/15/A/v], redesignated pars. (5) to (7) as (3) to (5), respectively.
+    Subsec. (a)(5) to (7). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(A)(v), redesignated pars. (5) to (7) as (3) to (5), respectively.
 
-    Subsec. (b). [Pub. L. 105–277, § 1223(15)(B)][/us/pl/105/277/s1223/15/B], inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1223(15)(B), inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
 
-    1994—Subsec. (a)(5) to (7). [Pub. L. 103–236, § 828(a)(1)][/us/pl/103/236/s828/a/1]–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
+    1994—Subsec. (a)(5) to (7). [Pub. L. 103–236][/us/pl/103/236], § 828(a)(1)–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
 
-    Subsec. (c). [Pub. L. 103–236, § 828(a)(4)][/us/pl/103/236/s828/a/4], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 828(a)(4), added subsec. (c).
 
  __Change of Name__ 
 
@@ -147,7 +147,7 @@
 
  __Report on Non-Compliance by the Russian Federation With Its Obligations Under the INF Treaty__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1244][/us/pl/113/291/s1244], Dec. 19, 2014, [128 Stat. 3564][/us/stat/128/3564], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1244, Dec. 19, 2014, [128 Stat. 3564][/us/stat/128/3564], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -229,7 +229,7 @@
 
  __Notification and Review of Potentially Significant Arms Control Noncompliance__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1267][/us/pl/113/291/s1267], Dec. 19, 2014, [128 Stat. 3584][/us/stat/128/3584], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1267, Dec. 19, 2014, [128 Stat. 3584][/us/stat/128/3584], provided that:
 
 >     “(a)  __Notice to President__  __.—__ 
 
@@ -253,13 +253,13 @@
 
  __Requirement for Transmittal of Summaries__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1118\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1118\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that: 
 
 > “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly.”
 
  __Transmission of Executive Branch Reports Providing Congress With Classified Summaries of Arms Control Developments__ 
 
-[Pub. L. 105–261, div. A, title XV, § 1502][/us/pl/105/261/s1502], Oct. 17, 1998, [112 Stat. 2171][/us/stat/112/2171], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
+[Pub. L. 105–261, div. A, title XV][/us/pl/105/261/dA/tXV], § 1502, Oct. 17, 1998, [112 Stat. 2171][/us/stat/112/2171], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
 
 >     “(a)  __Reporting Requirement__  __.—__ 
 
@@ -279,41 +279,41 @@
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
 [/us/usc/t22/s6305/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F5
 [/us/usc/t22/s6305/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F8
-[/us/pl/87/297/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs403
-[/us/pl/103/236/s717/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs717%2Fa%2F3
+[/us/pl/87/297/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtIV
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F498
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-771
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1103
+[/us/pl/107/228/dB/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXI
 [/us/stat/116/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1426
-[/us/pl/113/66/s1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F924
-[/us/pl/114/92/s1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1272
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1076
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s2652c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/66/s1247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F1
-[/us/pl/113/66/s1247/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F2
-[/us/pl/113/66/s1247/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fb%2F2
-[/us/pl/113/66/s1247/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F3
-[/us/pl/113/66/s1247/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fb%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/277/s1223/15/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fii
-[/us/pl/105/277/s1223/15/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fi
-[/us/pl/105/277/s1223/15/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fiv
-[/us/pl/105/277/s1223/15/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fv
-[/us/pl/105/277/s1223/15/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fi
-[/us/pl/105/277/s1223/15/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fiv
-[/us/pl/105/277/s1223/15/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FA%2Fv
-[/us/pl/105/277/s1223/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F15%2FB
-[/us/pl/103/236/s828/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs828%2Fa%2F1
-[/us/pl/103/236/s828/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs828%2Fa%2F4
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
@@ -323,18 +323,18 @@
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/113/291/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1244
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3564
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F865
-[/us/pl/113/291/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1267
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3584
 [/us/usc/t22/s2593a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2593a
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/105/261/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1502
+[/us/pl/105/261/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXV
 [/us/stat/112/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2171
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 
 

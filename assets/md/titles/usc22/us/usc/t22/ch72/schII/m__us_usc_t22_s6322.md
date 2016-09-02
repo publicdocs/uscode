@@ -47,7 +47,7 @@
 
     (13) make public the annual safeguards implementation report of the IAEA, establishing a public registry of commodities in international nuclear commerce, including dual-use goods, and creating a public repository of current nuclear trade control laws, agreements, regulations, and enforcement and judicial actions by IAEA member nations.
 
-([Pub. L. 103–236, title VIII, § 842][/us/pl/103/236/s842], Apr. 30, 1994, [108 Stat. 523][/us/stat/108/523].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 842, Apr. 30, 1994, [108 Stat. 523][/us/stat/108/523].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs842
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F523
 
 

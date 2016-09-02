@@ -27,13 +27,13 @@
 
         (3) The Secretary of State may waive the requirement for suspension or termination under paragraph (2) with respect to such services as the Secretary determines are necessary to ensure the protection of life and the safety of United States Government property. A waiver may be issued for a period not to exceed one year and may be renewed.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 23, as added [Pub. L. 95–426, title I, § 111(a)][/us/pl/95/426/s111/a], Oct. 7, 1978, [92 Stat. 967][/us/stat/92/967]; renumbered title I and amended [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], title III, § 303(b), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], 291; [Pub. L. 102–138, title I, § 118][/us/pl/102/138/s118], Oct. 28, 1991, [105 Stat. 657][/us/stat/105/657]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(f), title XIII, § 1335(l)(1), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775], 2681–789.)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 23, as added [Pub. L. 95–426, title I][/us/pl/95/426/tI], § 111(a), Oct. 7, 1978, [92 Stat. 967][/us/stat/92/967]; renumbered title I and amended [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), title III, § 303(b), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], 291; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 118, Oct. 28, 1991, [105 Stat. 657][/us/stat/105/657]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(f), title XIII, § 1335(l)(1), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775], 2681–789.)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1335][/us/pl/105/277/s1335](l)(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1335(l)(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
-    [Pub. L. 105–277, § 1225(f)][/us/pl/105/277/s1225/f], substituted “and the Agency for International Development” for “the Agency for International Development, and the Arms Control and Disarmament Agency”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1225(f), substituted “and the Agency for International Development” for “the Agency for International Development, and the Arms Control and Disarmament Agency”.
 
     1991—[Pub. L. 102–138][/us/pl/102/138] inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–426, title I, § 111(b)][/us/pl/95/426/s111/b], Oct. 7, 1978, [92 Stat. 967][/us/stat/92/967], provided that: 
+[Pub. L. 95–426, title I][/us/pl/95/426/tI], § 111(b), Oct. 7, 1978, [92 Stat. 967][/us/stat/92/967], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1978.”
 
@@ -57,16 +57,16 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/95/426/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs111%2Fa
+[/us/pl/95/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtI
 [/us/stat/92/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F967
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/102/138/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs118
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F657
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
-[/us/pl/105/277/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335
-[/us/pl/105/277/s1225/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/105/277/s1225/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Ff
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
@@ -74,7 +74,7 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531
-[/us/pl/95/426/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs111%2Fb
+[/us/pl/95/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtI
 [/us/stat/92/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F967
 
 

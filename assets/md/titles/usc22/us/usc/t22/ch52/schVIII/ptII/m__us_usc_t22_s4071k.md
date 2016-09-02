@@ -17,7 +17,7 @@
 
     A spousal agreement is any written agreement (properly authenticated as determined by the Secretary of State) between a participant or former participant and his or her spouse or former spouse on file with the Secretary of State. A spousal agreement shall be consistent with the terms of this chapter and applicable regulations and, if executed at the time a participant or former participant is currently married, shall be approved by such current spouse. It may be used to fix the level of benefits payable under this part to a spouse or former spouse.
 
-([Pub. L. 96–465, title I, § 862][/us/pl/96/465/s862], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 621][/us/stat/100/621].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 862, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 621][/us/stat/100/621].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/96/465/s862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs862
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F621
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

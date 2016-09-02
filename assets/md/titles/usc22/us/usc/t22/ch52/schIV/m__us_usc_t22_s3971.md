@@ -17,7 +17,7 @@
 
     For such time (in excess of such minimum period as the Secretary of State may establish) as any member of the Service is temporarily in charge of a Foreign Service post during the absence or incapacity of the principal officer, that member shall receive, in addition to the basic salary paid to the member and notwithstanding sections 5535 and 5536 of title 5, an amount equal to that portion (which the Secretary of State may determine to be appropriate) of the difference between such salary and the basic salary provided for the principal officer, or, if there is no principal officer, for the former principal officer.
 
-([Pub. L. 96–465, title I, § 411][/us/pl/96/465/s411], Oct. 17, 1980, [94 Stat. 2091][/us/stat/94/2091].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 411, Oct. 17, 1980, [94 Stat. 2091][/us/stat/94/2091].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs411
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2091
 
 

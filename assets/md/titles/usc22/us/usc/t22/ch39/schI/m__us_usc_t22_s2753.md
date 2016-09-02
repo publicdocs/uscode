@@ -163,7 +163,7 @@
 
         Any agreement for the sale or lease of any article on the United States Munitions List entered into by the United States Government after November 29, 1999, shall state that the United States Government retains the right to verify credible reports that such article has been used for a purpose not authorized under [section 2754 of this title][/us/usc/t22/s2754] or, if such agreement provides that such article may only be used for purposes more limited than those authorized under [section 2754 of this title][/us/usc/t22/s2754], for a purpose not authorized under such agreement.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 3, Oct. 22, 1968, [82 Stat. 1322][/us/stat/82/1322]; [Pub. L. 91–672, § 1][/us/pl/91/672/s1], Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053]; [Pub. L. 93–189, § 25(2)][/us/pl/93/189/s25/2], Dec. 17, 1973, [87 Stat. 729][/us/stat/87/729]; [Pub. L. 93–559, § 45(a)(1)][/us/pl/93/559/s45/a/1], Dec. 30, 1974, [88 Stat. 1813][/us/stat/88/1813]; [Pub. L. 94–329, title II][/us/pl/94/329], §§ 203(a), 204(a), (b)(1), title III, § 304(b), June 30, 1976, [90 Stat. 735][/us/stat/90/735], 736, 754, 755; [Pub. L. 95–92][/us/pl/95/92], §§ 15–18, Aug. 4, 1977, [91 Stat. 622][/us/stat/91/622]; [Pub. L. 96–92, § 11][/us/pl/96/92/s11], Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I, § 101][/us/pl/96/533/s101], Dec. 16, 1980, [94 Stat. 3131][/us/stat/94/3131]; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 101(a), 102(a), 109(b)(2), Dec. 29, 1981, [95 Stat. 1519][/us/stat/95/1519], 1520, 1526; [Pub. L. 99–83, title I, § 115(b)(2)][/us/pl/99/83/s115/b/2], title V, § 503(b), Aug. 8, 1985, [99 Stat. 201][/us/stat/99/201], 221; [Pub. L. 99–145, title XI, § 1102(a)(3)][/us/pl/99/145/s1102/a/3], (5), Nov. 8, 1985, [99 Stat. 710][/us/stat/99/710]; [Pub. L. 99–247, § 1(a)][/us/pl/99/247/s1/a], Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 99–661, div. A, title XIII, § 1342(e)][/us/pl/99/661/s1342/e], Nov. 14, 1986, [100 Stat. 3991][/us/stat/100/3991]; [Pub. L. 100–461, title V, § 577][/us/pl/100/461/s577], Oct. 1, 1988, [102 Stat. 2268–45][/us/stat/102/2268-45]; [Pub. L. 101–222, § 2(b)][/us/pl/101/222/s2/b], Dec. 12, 1989, [103 Stat. 1896][/us/stat/103/1896]; [Pub. L. 103–236, title VIII, § 822(a)(1)][/us/pl/103/236/s822/a/1], Apr. 30, 1994, [108 Stat. 511][/us/stat/108/511]; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 141(a), (b), 142, July 21, 1996, [110 Stat. 1430][/us/stat/110/1430], 1431, 1433; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1225\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–499; [Pub. L. 107–228, div. B, title XIV, § 1405(a)(1)][/us/pl/107/228/s1405/a/1], Sept. 30, 2002, [116 Stat. 1456][/us/stat/116/1456]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], (2), Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title I][/us/pl/111/266], §§ 102(a), 104(a), title III, § 301, Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], 2799, 2804; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 1, § 3, Oct. 22, 1968, [82 Stat. 1322][/us/stat/82/1322]; [Pub. L. 91–672][/us/pl/91/672], § 1, Jan. 12, 1971, [84 Stat. 2053][/us/stat/84/2053]; [Pub. L. 93–189][/us/pl/93/189], § 25(2), Dec. 17, 1973, [87 Stat. 729][/us/stat/87/729]; [Pub. L. 93–559][/us/pl/93/559], § 45(a)(1), Dec. 30, 1974, [88 Stat. 1813][/us/stat/88/1813]; [Pub. L. 94–329, title II][/us/pl/94/329/tII], §§ 203(a), 204(a), (b)(1), title III, § 304(b), June 30, 1976, [90 Stat. 735][/us/stat/90/735], 736, 754, 755; [Pub. L. 95–92][/us/pl/95/92], §§ 15–18, Aug. 4, 1977, [91 Stat. 622][/us/stat/91/622]; [Pub. L. 96–92][/us/pl/96/92], § 11, Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 101, Dec. 16, 1980, [94 Stat. 3131][/us/stat/94/3131]; [Pub. L. 97–113, title I][/us/pl/97/113/tI], §§ 101(a), 102(a), 109(b)(2), Dec. 29, 1981, [95 Stat. 1519][/us/stat/95/1519], 1520, 1526; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 115(b)(2), title V, § 503(b), Aug. 8, 1985, [99 Stat. 201][/us/stat/99/201], 221; [Pub. L. 99–145, title XI][/us/pl/99/145/tXI], § 1102(a)(3), (5), Nov. 8, 1985, [99 Stat. 710][/us/stat/99/710]; [Pub. L. 99–247][/us/pl/99/247], § 1(a), Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1342(e), Nov. 14, 1986, [100 Stat. 3991][/us/stat/100/3991]; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 577, Oct. 1, 1988, [102 Stat. 2268–45][/us/stat/102/2268-45]; [Pub. L. 101–222][/us/pl/101/222], § 2(b), Dec. 12, 1989, [103 Stat. 1896][/us/stat/103/1896]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 822(a)(1), Apr. 30, 1994, [108 Stat. 511][/us/stat/108/511]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], §§ 141(a), (b), 142, July 21, 1996, [110 Stat. 1430][/us/stat/110/1430], 1431, 1433; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1225\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–499; [Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1405(a)(1), Sept. 30, 2002, [116 Stat. 1456][/us/stat/116/1456]; [Pub. L. 110–429, title II][/us/pl/110/429/tII], § 203(b)(1), (2), Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title I][/us/pl/111/266/tI], §§ 102(a), 104(a), title III, § 301, Oct. 8, 2010, [124 Stat. 2797][/us/stat/124/2797], 2799, 2804; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(1), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -175,37 +175,37 @@
 
     2014—Subsecs. (a), (d)(1), (3)(A), (e). [Pub. L. 113–276][/us/pl/113/276] substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
-    2010—Subsec. (b). [Pub. L. 111–266, § 102(a)][/us/pl/111/266/s102/a], inserted “a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i] permits such transfer without prior consent of the President, or if” after “under this chapter if” in introductory provisions.
+    2010—Subsec. (b). [Pub. L. 111–266][/us/pl/111/266], § 102(a), inserted “a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i] permits such transfer without prior consent of the President, or if” after “under this chapter if” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 111–266, § 301(2)][/us/pl/111/266/s301/2], inserted “the Government of Israel,” before “or the Government of New Zealand”.
+    Subsec. (b)(2). [Pub. L. 111–266][/us/pl/111/266], § 301(2), inserted “the Government of Israel,” before “or the Government of New Zealand”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–266, § 301(1)][/us/pl/111/266/s301/1], inserted “Israel,” before “or New Zealand”.
+    Subsec. (d)(2)(B). [Pub. L. 111–266][/us/pl/111/266], § 301(1), inserted “Israel,” before “or New Zealand”.
 
-    Subsec. (d)(3)(A). [Pub. L. 111–266, § 104(a)][/us/pl/111/266/s104/a], inserted in introductory provisions “or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i] where such treaty does not authorize the transfer without prior United States Government approval” after “approved under [section 2778 of this title][/us/usc/t22/s2778]”.
+    Subsec. (d)(3)(A). [Pub. L. 111–266][/us/pl/111/266], § 104(a), inserted in introductory provisions “or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i] where such treaty does not authorize the transfer without prior United States Government approval” after “approved under [section 2778 of this title][/us/usc/t22/s2778]”.
 
-    Subsec. (d)(3)(A)(i). [Pub. L. 111–266, § 301(1)][/us/pl/111/266/s301/1], inserted “Israel,” before “or New Zealand”.
+    Subsec. (d)(3)(A)(i). [Pub. L. 111–266][/us/pl/111/266], § 301(1), inserted “Israel,” before “or New Zealand”.
 
-    Subsec. (d)(5). [Pub. L. 111–266, § 301(1)][/us/pl/111/266/s301/1], inserted “Israel,” before “or New Zealand” in introductory provisions.
+    Subsec. (d)(5). [Pub. L. 111–266][/us/pl/111/266], § 301(1), inserted “Israel,” before “or New Zealand” in introductory provisions.
 
-    2008—Subsec. (b)(2). [Pub. L. 110–429, § 203(b)(2)][/us/pl/110/429/s203/b/2], inserted “the Government of the Republic of Korea,” before “or the Government of New Zealand”.
+    2008—Subsec. (b)(2). [Pub. L. 110–429][/us/pl/110/429], § 203(b)(2), inserted “the Government of the Republic of Korea,” before “or the Government of New Zealand”.
 
-    Subsec. (d)(2)(B), (3)(A)(i), (5). [Pub. L. 110–429, § 203(b)(1)][/us/pl/110/429/s203/b/1], inserted “the Republic of Korea,” before “or New Zealand”.
+    Subsec. (d)(2)(B), (3)(A)(i), (5). [Pub. L. 110–429][/us/pl/110/429], § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
 
-    2002—Subsec. (d)(1), (3)(A). [Pub. L. 107–228, § 1405(a)(1)(A)][/us/pl/107/228/s1405/a/1/A], substituted “Subject to paragraph (5), the President may not” for “The President may not” in introductory provisions.
+    2002—Subsec. (d)(1), (3)(A). [Pub. L. 107–228][/us/pl/107/228], § 1405(a)(1)(A), substituted “Subject to paragraph (5), the President may not” for “The President may not” in introductory provisions.
 
-    Subsec. (d)(5). [Pub. L. 107–228, § 1405(a)(1)(B)][/us/pl/107/228/s1405/a/1/B], added par. (5).
+    Subsec. (d)(5). [Pub. L. 107–228][/us/pl/107/228], § 1405(a)(1)(B), added par. (5).
 
     1999—Subsec. (g). [Pub. L. 106–113][/us/pl/106/113] added subsec. (g).
 
-    1996—Subsec. (b). [Pub. L. 104–164, § 142][/us/pl/104/164/s142], added subsec. (b).
+    1996—Subsec. (b). [Pub. L. 104–164][/us/pl/104/164], § 142, added subsec. (b).
 
-    Subsec. (d)(2)(A). [Pub. L. 104–164, § 141(a)(1)][/us/pl/104/164/s141/a/1], struck out “, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” after “joint resolution”.
+    Subsec. (d)(2)(A). [Pub. L. 104–164][/us/pl/104/164], § 141(a)(1), struck out “, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” after “joint resolution”.
 
-    Subsec. (d)(2)(B). [Pub. L. 104–164, § 141(a)(2)][/us/pl/104/164/s141/a/2], substituted “joint resolution prohibiting the proposed transfer” for “law prohibiting the proposed transfer”.
+    Subsec. (d)(2)(B). [Pub. L. 104–164][/us/pl/104/164], § 141(a)(2), substituted “joint resolution prohibiting the proposed transfer” for “law prohibiting the proposed transfer”.
 
-    Subsec. (d)(2)(C), (D). [Pub. L. 104–164, § 141(a)(3)][/us/pl/104/164/s141/a/3], added subpars. (C) and (D).
+    Subsec. (d)(2)(C), (D). [Pub. L. 104–164][/us/pl/104/164], § 141(a)(3), added subpars. (C) and (D).
 
-    Subsec. (d)(3)(A). [Pub. L. 104–164, § 141(b)][/us/pl/104/164/s141/b], designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
+    Subsec. (d)(3)(A). [Pub. L. 104–164][/us/pl/104/164], § 141(b), designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
 
     “(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
 
@@ -213,57 +213,57 @@
 
     unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.” for “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
 
-    Subsec. (d)(3)(B), (C). [Pub. L. 104–164, § 141(b)(3)][/us/pl/104/164/s141/b/3], added subpars. (B) and (C).
+    Subsec. (d)(3)(B), (C). [Pub. L. 104–164][/us/pl/104/164], § 141(b)(3), added subpars. (B) and (C).
 
     1994—Subsec. (f). [Pub. L. 103–236][/us/pl/103/236] added subsec. (f).
 
     1989—Subsec. (f). [Pub. L. 101–222][/us/pl/101/222] struck out subsec. (f) which directed termination of sales under this chapter to countries granting sanctuary to international terrorists. See [section 2780 of this title][/us/usc/t22/s2780].
 
-    1988—Subsec. (d)(2)(A). [Pub. L. 100–461, § 577(1)][/us/pl/100/461/s577/1], substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
+    1988—Subsec. (d)(2)(A). [Pub. L. 100–461][/us/pl/100/461], § 577(1), substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
 
-    Subsec. (d)(3). [Pub. L. 100–461, § 577(2)][/us/pl/100/461/s577/2], inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+    Subsec. (d)(3). [Pub. L. 100–461][/us/pl/100/461], § 577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
 
     1986—Subsec. (a). [Pub. L. 99–661][/us/pl/99/661] repealed [section 1102(a)(3) of Pub. L. 99–145][/us/pl/99/145/s1102/a/3] and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-    Subsec. (d)(2)(A). [Pub. L. 99–247, § 1(a)(1)][/us/pl/99/247/s1/a/1], substituted “enact, within such 30-day period, a law prohibiting” for “adopt, within such 30-day period, a concurrent resolution disapproving”.
+    Subsec. (d)(2)(A). [Pub. L. 99–247][/us/pl/99/247], § 1(a)(1), substituted “enact, within such 30-day period, a law prohibiting” for “adopt, within such 30-day period, a concurrent resolution disapproving”.
 
-    Subsec. (d)(2)(B). [Pub. L. 99–247, § 1(a)(2)][/us/pl/99/247/s1/a/2], substituted “enact, within such fifteen-day period, a law prohibiting” for “adopt, within such fifteen-day period, a concurrent resolution disapproving”.
+    Subsec. (d)(2)(B). [Pub. L. 99–247][/us/pl/99/247], § 1(a)(2), substituted “enact, within such fifteen-day period, a law prohibiting” for “adopt, within such fifteen-day period, a concurrent resolution disapproving”.
 
-    1985—Subsec. (a). [Pub. L. 99–83, § 115(b)(2)][/us/pl/99/83/s115/b/2], in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted “or service” after “such article” in two places.
+    1985—Subsec. (a). [Pub. L. 99–83][/us/pl/99/83], § 115(b)(2), in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted “or service” after “such article” in two places.
 
-    [Pub. L. 99–145, § 1102(a)(3)][/us/pl/99/145/s1102/a/3], which enacted amendments similar to those provided in [Pub. L. 99–83, § 115(b)(2)][/us/pl/99/83/s115/b/2], was repealed. See 1986 Amendments note above and former [section 1105(a)(5) of Pub. L. 99–145][/us/pl/99/145/s1105/a/5] set out as a Repeals; Effective Date note under [section 2752 of this title][/us/usc/t22/s2752].
+    [Pub. L. 99–145][/us/pl/99/145], § 1102(a)(3), which enacted amendments similar to those provided in [Pub. L. 99–83][/us/pl/99/83], § 115(b)(2), was repealed. See 1986 Amendments note above and former [section 1105(a)(5) of Pub. L. 99–145][/us/pl/99/145/s1105/a/5] set out as a Repeals; Effective Date note under [section 2752 of this title][/us/usc/t22/s2752].
 
-    Subsec. (f). [Pub. L. 99–83, § 503(b)][/us/pl/99/83/s503/b], struck out “, credits, and guaranties” and “, credits, or guaranties” wherever appearing in pars. (1) and (2).
+    Subsec. (f). [Pub. L. 99–83][/us/pl/99/83], § 503(b), struck out “, credits, and guaranties” and “, credits, or guaranties” wherever appearing in pars. (1) and (2).
 
-    1981—Subsec. (a). [Pub. L. 97–113, § 109(b)(2)][/us/pl/97/113/s109/b/2], substituted in introductory text “sold or leased” for “sold”, and in par. (4) “purchase or lease” for “purchase”.
+    1981—Subsec. (a). [Pub. L. 97–113][/us/pl/97/113], § 109(b)(2), substituted in introductory text “sold or leased” for “sold”, and in par. (4) “purchase or lease” for “purchase”.
 
-    Subsec. (d)(1). [Pub. L. 97–113, § 101(a)(1)][/us/pl/97/113/s101/a/1], substituted in introductory text “, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more,” for “to a transfer of a defense article, or related training or other defense service, sold under this chapter and may not give his consent to such a transfer under section 2314(a)(1) or (a)(4) of this title”, in subpar. (B) “a description of the article or service proposed to be transferred, including its acquisition cost” for “a description of the defense article or related training or other defense service proposed to be transferred, including the original acquisition cost of such defense article or related training or other defense service”, in subpar. (C) “article or service” for “defense article or related training or other defense service”, and in provision following subpar. (E) “articles or services” for “defense articles, or related training or other defense services,”.
+    Subsec. (d)(1). [Pub. L. 97–113][/us/pl/97/113], § 101(a)(1), substituted in introductory text “, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more,” for “to a transfer of a defense article, or related training or other defense service, sold under this chapter and may not give his consent to such a transfer under section 2314(a)(1) or (a)(4) of this title”, in subpar. (B) “a description of the article or service proposed to be transferred, including its acquisition cost” for “a description of the defense article or related training or other defense service proposed to be transferred, including the original acquisition cost of such defense article or related training or other defense service”, in subpar. (C) “article or service” for “defense article or related training or other defense service”, and in provision following subpar. (E) “articles or services” for “defense articles, or related training or other defense services,”.
 
-    Subsec. (d)(2). [Pub. L. 97–113, § 102(a)][/us/pl/97/113/s102/a], designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), unless” for “Unless”, and added subpar. (B).
+    Subsec. (d)(2). [Pub. L. 97–113][/us/pl/97/113], § 102(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), unless” for “Unless”, and added subpar. (B).
 
-    Subsec. (d)(3). [Pub. L. 97–113, § 101(a)(2)][/us/pl/97/113/s101/a/2], substituted “transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more” for “transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more”.
+    Subsec. (d)(3). [Pub. L. 97–113][/us/pl/97/113], § 101(a)(2), substituted “transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more” for “transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more”.
 
-    Subsec. (d)(4). [Pub. L. 97–113, § 101(a)(3)][/us/pl/97/113/s101/a/3], struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any major defense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
+    Subsec. (d)(4). [Pub. L. 97–113][/us/pl/97/113], § 101(a)(3), struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any major defense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
 
-    1980—Subsec. (d)(1). [Pub. L. 96–533, § 101(a)(2)(A)][/us/pl/96/533/s101/a/2/A], substituted “pursuant to this paragraph” for “pursuant to this subsection”.
+    1980—Subsec. (d)(1). [Pub. L. 96–533][/us/pl/96/533], § 101(a)(2)(A), substituted “pursuant to this paragraph” for “pursuant to this subsection”.
 
-    Subsec. (d)(2). [Pub. L. 96–533, § 101(a)(2)(B)][/us/pl/96/533/s101/a/2/B], substituted “paragraph (1) of this subsection” for “this subsection”.
+    Subsec. (d)(2). [Pub. L. 96–533][/us/pl/96/533], § 101(a)(2)(B), substituted “paragraph (1) of this subsection” for “this subsection”.
 
-    Subsec. (d)(3). [Pub. L. 96–533, § 101(a)(1)(B)][/us/pl/96/533/s101/a/1/B], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (d)(3). [Pub. L. 96–533][/us/pl/96/533], § 101(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (d)(4). [Pub. L. 96–533, § 101(a)(1)(A)][/us/pl/96/533/s101/a/1/A], (b), redesignated former par. (3) as (4) and, in par (4) as so redesignated, added subpar. (D).
+    Subsec. (d)(4). [Pub. L. 96–533][/us/pl/96/533], § 101(a)(1)(A), (b), redesignated former par. (3) as (4) and, in par (4) as so redesignated, added subpar. (D).
 
     1979—Subsec. (d)(3)(C). [Pub. L. 96–92][/us/pl/96/92] made subsec. (d) of this section inapplicable to arrangements between the North Atlantic Treaty Organization and any of its member countries, incorporated existing text in provisions designated cl. (i) and added cl. (ii).
 
-    1977—Subsec. (b). [Pub. L. 95–92, § 15][/us/pl/95/92/s15], struck out subsec. (b) which related to prohibitions on sales, etc., to countries seizing or fining American fishing vessels for fishing in waters more than twelve miles from their coastlines.
+    1977—Subsec. (b). [Pub. L. 95–92][/us/pl/95/92], § 15, struck out subsec. (b) which related to prohibitions on sales, etc., to countries seizing or fining American fishing vessels for fishing in waters more than twelve miles from their coastlines.
 
     Subsec. (d). [Pub. L. 95–92][/us/pl/95/92], §§ 16, 17, redesignated existing provisions as par. (1), struck out “, 30 days prior to giving such consent,” before “the President submits”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
 
-    Subsec. (f). [Pub. L. 95–92, § 18][/us/pl/95/92/s18], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–92][/us/pl/95/92], § 18, added subsec. (f).
 
     1976—Subsec. (a). [Pub. L. 94–329][/us/pl/94/329], §§ 203(a), 204(b)(1), inserted in par. (2) “or related training or other defense service” after “article” wherever appearing and struck out provisions following par. (4) relating to the President’s notification of his consent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
 
-    Subsec. (c). [Pub. L. 94–329, § 304(b)(1)][/us/pl/94/329/s304/b/1], provided that the President, by so stating in writing to Congress, or Congress, by joint resolution, terminate credits, guaranties or sales upon determining a violation, permitted cash sales and deliveries pursuant to previous sales to be made if the President certifies in writing to Congress that termination thereof would be adverse to national security unless Congress adopts or has adopted a joint resolution determining such eligibility, and specified conditions for reinstatement of eligibility.
+    Subsec. (c). [Pub. L. 94–329][/us/pl/94/329], § 304(b)(1), provided that the President, by so stating in writing to Congress, or Congress, by joint resolution, terminate credits, guaranties or sales upon determining a violation, permitted cash sales and deliveries pursuant to previous sales to be made if the President certifies in writing to Congress that termination thereof would be adverse to national security unless Congress adopts or has adopted a joint resolution determining such eligibility, and specified conditions for reinstatement of eligibility.
 
     Subsec. (d). [Pub. L. 94–329][/us/pl/94/329], §§ 204(a), 304(b)(2), added subsec. (d). Former subsec. (d), which related to conditions for reinstatement after a determination of ineligibility, was repealed and is now covered by subsec. (c).
 
@@ -271,15 +271,15 @@
 
     1974—Subsec. (d). [Pub. L. 93–559][/us/pl/93/559] struck out first sentence provision respecting furnishing of sophisticated weapons to countries in violation of agreements pursuant to subsec. (a)(2) of this section, [section 2314(a) of this title][/us/usc/t22/s2314/a], or other similar provisions and substituted “in accordance with subsection (c) of this section” for “in accordance with this subsection”.
 
-    1973—Subsec. (a). [Pub. L. 93–189, § 25(2)(A)][/us/pl/93/189/s25/2/A]–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for which furnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
+    1973—Subsec. (a). [Pub. L. 93–189][/us/pl/93/189], § 25(2)(A)–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for which furnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
 
-    Subsecs. (c), (d). [Pub. L. 93–189, § 25(2)(D)][/us/pl/93/189/s25/2/D], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 93–189][/us/pl/93/189], § 25(2)(D), added subsecs. (c) and (d).
 
     1971—Subsec. (b). [Pub. L. 91–672][/us/pl/91/672] extended the retaliatory measures against countries seizing, taking custody or fining American vessels for fishing outside of twelve miles of their coast, to sales, credits, guaranties, and laid down a period of one year as the extent of such prohibition, and added assurances of future restraint received from such countries as an additional ground for waiver, and provided exception that the prohibition will not apply in cases governed by international agreements to which the United States is a party.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–164, title I, § 141(f)][/us/pl/104/164/s141/f], July 21, 1996, [110 Stat. 1433][/us/stat/110/1433], provided that: 
+[Pub. L. 104–164, title I][/us/pl/104/164/tI], § 141(f), July 21, 1996, [110 Stat. 1433][/us/stat/110/1433], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2776, 2796a, and 2796b of this title\] apply with respect to certifications required to be submitted on or after the date of the enactment of this Act \[July 21, 1996\].”
 
@@ -293,15 +293,37 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–329, title II, § 203(a)][/us/pl/94/329/s203/a], June 30, 1976, [90 Stat. 735][/us/stat/90/735], provided that the amendment made by that section is effective July 1, 1976.
+    [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 203(a), June 30, 1976, [90 Stat. 735][/us/stat/90/735], provided that the amendment made by that section is effective July 1, 1976.
 
  __Delegation of Functions__ 
 
     For delegation of certain functions of the President under this section, see section 1(a) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under [section 2751 of this title][/us/usc/t22/s2751]. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of this title][/us/usc/t22/s2751] and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
+ __Enhanced Defense Cooperation__ 
+
+[Pub. L. 114–123][/us/pl/114/123], § 5, Feb. 18, 2016, [130 Stat. 118][/us/stat/130/118], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     During the 3-year period beginning on the date of the enactment of this Act \[Feb. 18, 2016\], the Hashemite Kingdom of Jordan shall be treated as if it were a country listed in the provisions of law described in subsection (b) for purposes of applying and administering such provisions of law.
+
+>     “(b)  __Arms Export Control Act__  __.—__ 
+
+>     The provisions of law described in this subsection are—
+
+>         “(1) subsections (b)(2), (d)(2)(B), (d)(3)(A)(i), and (d)(5) of section 3 of the Arms Export Control Act ([22 U.S.C. 2753][/us/usc/t22/s2753]);
+
+>         “(2) subsections (e)(2)(A), (h)(1)(A), and (h)(2) of section 21 of such Act ([22 U.S.C. 2761][/us/usc/t22/s2761]);
+
+>         “(3) subsections (b)(1), (b)(2), (b)(6), (c), and (d)(2)(A) of section 36 of such Act ([22 U.S.C. 2776][/us/usc/t22/s2776]);
+
+>         “(4) section 62(c)(1) of such Act ([22 U.S.C. 2796a(c)(1)][/us/usc/t22/s2796a/c/1]); and
+
+>         “(5) section 63(a)(2) of such Act ([22 U.S.C. 2796b(a)(2)][/us/usc/t22/s2796b/a/2]).”
+
  __Pilot Program on Repair, Overhaul, and Refurbishment of Defense Articles for Sale or Transfer to Eligible Foreign Countries and Entities__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1285][/us/pl/112/239/s1285], Jan. 2, 2013, [126 Stat. 2036][/us/stat/126/2036], provided that:
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1285, Jan. 2, 2013, [126 Stat. 2036][/us/stat/126/2036], provided that:
 
 >     “(a)  __Pilot Program Authorized__  __.—__ 
 
@@ -435,7 +457,7 @@
 
  __Security Cooperation With the Republic of Korea__ 
 
-[Pub. L. 110–429, title II, § 203(a)][/us/pl/110/429/s203/a], Oct. 15, 2008, [122 Stat. 4844][/us/stat/122/4844], provided that: 
+[Pub. L. 110–429, title II][/us/pl/110/429/tII], § 203(a), Oct. 15, 2008, [122 Stat. 4844][/us/stat/122/4844], provided that: 
 
 > “Congress makes the following findings:
 
@@ -453,7 +475,7 @@
 
  __Reporting Requirements__ 
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 594\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–215, as amended by [Pub. L. 106–31, title V, § 5002(c)][/us/pl/106/31/s5002/c]–(e), May 21, 1999, [113 Stat. 109][/us/stat/113/109], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 594\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–215, as amended by [Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5002(c)–(e), May 21, 1999, [113 Stat. 109][/us/stat/113/109], provided that:
 
 >     “(a)  __Notification__  __.—__ 
 
@@ -479,7 +501,7 @@
 
  __Eligibility of Baltic States for Nonlethal Defense Articles__ 
 
-[Pub. L. 102–511, title IX, § 906][/us/pl/102/511/s906], Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356], provided that:
+[Pub. L. 102–511, title IX][/us/pl/102/511/tIX], § 906, Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356], provided that:
 
 >     “(a)  __Eligibility__  __.—__ 
 
@@ -531,47 +553,47 @@
 [/us/usc/t22/s2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2754
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1322
-[/us/pl/91/672/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs1
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2053
-[/us/pl/93/189/s25/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F2
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F729
-[/us/pl/93/559/s45/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs45%2Fa%2F1
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1813
-[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F735
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F622
-[/us/pl/96/92/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs11
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F705
-[/us/pl/96/533/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs101
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3131
-[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1519
-[/us/pl/99/83/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs115%2Fb%2F2
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F201
-[/us/pl/99/145/s1102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fa%2F3
+[/us/pl/99/145/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXI
 [/us/stat/99/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F710
-[/us/pl/99/247/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fa
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
 [/us/stat/100/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F9
-[/us/pl/99/661/s1342/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1342%2Fe
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3991
-[/us/pl/100/461/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs577
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-45
-[/us/pl/101/222/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs2%2Fb
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1896
-[/us/pl/103/236/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs822%2Fa%2F1
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F511
-[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1430
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s1405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1405%2Fa%2F1
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1456
-[/us/pl/110/429/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F1
+[/us/pl/110/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2FtII
 [/us/stat/122/4845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4845
-[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
+[/us/pl/111/266/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtI
 [/us/stat/124/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2797
-[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -579,64 +601,64 @@
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F729
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
-[/us/pl/111/266/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs102%2Fa
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
-[/us/pl/111/266/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F2
-[/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
-[/us/pl/111/266/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs104%2Fa
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
-[/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
-[/us/pl/110/429/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F2
-[/us/pl/110/429/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F1
-[/us/pl/107/228/s1405/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1405%2Fa%2F1%2FA
-[/us/pl/107/228/s1405/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1405%2Fa%2F1%2FB
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
+[/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
+[/us/pl/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429
+[/us/pl/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/104/164/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs142
-[/us/pl/104/164/s141/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fa%2F1
-[/us/pl/104/164/s141/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fa%2F2
-[/us/pl/104/164/s141/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fa%2F3
-[/us/pl/104/164/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fb
-[/us/pl/104/164/s141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fb%2F3
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
-[/us/pl/100/461/s577/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs577%2F1
-[/us/pl/100/461/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs577%2F2
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
+[/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145/s1102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fa%2F3
-[/us/pl/99/247/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fa%2F1
-[/us/pl/99/247/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fa%2F2
-[/us/pl/99/83/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs115%2Fb%2F2
-[/us/pl/99/145/s1102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fa%2F3
-[/us/pl/99/83/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs115%2Fb%2F2
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/145/s1105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1105%2Fa%2F5
 [/us/usc/t22/s2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2752
-[/us/pl/99/83/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs503%2Fb
-[/us/pl/97/113/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs109%2Fb%2F2
-[/us/pl/97/113/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs101%2Fa%2F1
-[/us/pl/97/113/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs102%2Fa
-[/us/pl/97/113/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs101%2Fa%2F2
-[/us/pl/97/113/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs101%2Fa%2F3
-[/us/pl/96/533/s101/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs101%2Fa%2F2%2FA
-[/us/pl/96/533/s101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs101%2Fa%2F2%2FB
-[/us/pl/96/533/s101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs101%2Fa%2F1%2FB
-[/us/pl/96/533/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs101%2Fa%2F1%2FA
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
-[/us/pl/95/92/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs15
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
-[/us/pl/95/92/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs18
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
-[/us/pl/94/329/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs304%2Fb%2F1
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/usc/t22/s2314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2314%2Fa
-[/us/pl/93/189/s25/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F2%2FA
-[/us/pl/93/189/s25/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F2%2FD
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
-[/us/pl/104/164/s141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Ff
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1433
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
@@ -644,11 +666,18 @@
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
-[/us/pl/94/329/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs203%2Fa
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F735
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/112/239/s1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1285
+[/us/pl/114/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F123
+[/us/stat/130/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F118
+[/us/usc/t22/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753
+[/us/usc/t22/s2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761
+[/us/usc/t22/s2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776
+[/us/usc/t22/s2796a/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2796a%2Fc%2F1
+[/us/usc/t22/s2796b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2796b%2Fa%2F2
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2036
 [/us/usc/t10/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114%2Fc
 [/us/usc/t22/s2761/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fa%2F1%2FA
@@ -657,14 +686,14 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2795
 [/us/usc/t22/s2794/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F3
-[/us/pl/110/429/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fa
+[/us/pl/110/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2FtII
 [/us/stat/122/4844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4844
 [/us/pl/109/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F159
 [/us/stat/119/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2955
 [/us/usc/t22/s2321h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321h
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/106/31/s5002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5002%2Fc
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F109
 [/us/usc/t22/s2776/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fb
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
@@ -673,7 +702,7 @@
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/102/511/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs906
+[/us/pl/102/511/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIX
 [/us/stat/106/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3356
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2753/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753%2Fa%2F1

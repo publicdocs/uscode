@@ -21,7 +21,7 @@
 
     (2) as appropriate for the functioning of a particular office, privileges and immunities, equivalent to those accorded consular premises, consular officers, and consular employees, pursuant to the Vienna Convention on Consular Relations.
 
-([Pub. L. 92–499][/us/pl/92/499], Oct. 18, 1972, [86 Stat. 815][/us/stat/86/815]; [Pub. L. 100–204, title VII, § 741][/us/pl/100/204/s741], Dec. 22, 1987, [101 Stat. 1394][/us/stat/101/1394].)
+([Pub. L. 92–499][/us/pl/92/499], Oct. 18, 1972, [86 Stat. 815][/us/stat/86/815]; [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 741, Dec. 22, 1987, [101 Stat. 1394][/us/stat/101/1394].)
 
  __Codification__ 
 
@@ -68,7 +68,7 @@
 
 [/us/pl/92/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F499
 [/us/stat/86/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F815
-[/us/pl/100/204/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs741
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1394
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/92/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F499

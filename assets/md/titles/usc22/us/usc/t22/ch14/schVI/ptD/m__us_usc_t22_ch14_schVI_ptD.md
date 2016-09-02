@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptC/m__us_usc_t22_ch14_schVI_ptC.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1001.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptD)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptC/m__us_usc_t22_s991...996.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1001.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptD)
 
 #### Part D—Separation of Officers and Employees From the Service
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptC/m__us_usc_t22_ch14_schVI_ptC.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1001.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptD)
+[Previous](./../../../../../..//us/usc/t22/ch14/schVI/ptC/m__us_usc_t22_s991...996.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/ptD/m__us_usc_t22_s1001.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVI%2FptD)
 
 ----------
 ----------

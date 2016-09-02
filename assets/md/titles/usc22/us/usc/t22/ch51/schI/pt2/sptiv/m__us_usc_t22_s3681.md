@@ -65,7 +65,7 @@
 
         (2) The retirement annuity referred to in paragraph (1) of this subsection with respect to any employee will cover retroactively, from October 1, 1979, all periods of service, described in subparagraph (D) of that paragraph, by that employee at any permanent duty station in the Republic of Panama (including the area known before that date as the Canal Zone) in agencies and instrumentalities of the Government of the United States during which that employee was not covered by the United States Civil Service Retirement System or any other Federal retirement system providing benefits similar to those retirement benefits provided by the Social Security System of the Republic of Panama.
 
-([Pub. L. 96–70, title I, § 1243][/us/pl/96/70/s1243], Sept. 27, 1979, [93 Stat. 473][/us/stat/93/473]; [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(6)][/us/pl/105/85/s3550/d/6], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1243, Sept. 27, 1979, [93 Stat. 473][/us/stat/93/473]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(d)(6), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074].)
 
  __Amendments__ 
 
@@ -85,9 +85,9 @@
 [/us/usc/t5/s8334/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fa%2F2
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/usc/t5/s8331/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331%2F8
-[/us/pl/96/70/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1243
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F473
-[/us/pl/105/85/s3550/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F6
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601

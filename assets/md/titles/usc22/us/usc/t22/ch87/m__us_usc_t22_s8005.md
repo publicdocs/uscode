@@ -17,7 +17,7 @@
 
     A determination and any waiver under [section 8003 of this title][/us/usc/t22/s8003] shall cease to be effective if the President determines that India has detonated a nuclear explosive device after December 18, 2006.
 
-([Pub. L. 109–401, title I, § 106][/us/pl/109/401/s106], Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 106, Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8003
-[/us/pl/109/401/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs106
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2738
 
 

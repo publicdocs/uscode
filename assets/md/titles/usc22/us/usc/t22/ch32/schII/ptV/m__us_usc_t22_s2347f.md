@@ -17,7 +17,7 @@
 
     The selection of foreign personnel for training under this part shall be made in consultation with the United States defense attache to the relevant country.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 547, as added [Pub. L. 106–280, title II, § 202][/us/pl/106/280/s202], Oct. 6, 2000, [114 Stat. 851][/us/stat/114/851].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 547, as added [Pub. L. 106–280, title II][/us/pl/106/280/tII], § 202, Oct. 6, 2000, [114 Stat. 851][/us/stat/114/851].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/280/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs202
+[/us/pl/106/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtII
 [/us/stat/114/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F851
 
 

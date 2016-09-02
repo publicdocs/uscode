@@ -23,7 +23,7 @@
 
     (3) a combination of assets and actions under both paragraphs (1) and (2).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 461 \[471\], as added [Pub. L. 101–240, title VII, § 711][/us/pl/101/240/s711], Dec. 19, 1989, [103 Stat. 2521][/us/stat/103/2521].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 461 \[471\], as added [Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 711, Dec. 19, 1989, [103 Stat. 2521][/us/stat/103/2521].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2281, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 471, as added [Pub. L. 89–583][/us/pl/89/583], pt. I, § 110, Sept. 19, 1966, [80 Stat. 802][/us/stat/80/802], related to agreements with less developed countries for establishment of Joint Commissions on Rural Development, prior to repeal by [Pub. L. 95–424, title VI, § 604][/us/pl/95/424/s604], Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
+    A prior section 2281, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 471, as added [Pub. L. 89–583][/us/pl/89/583], pt. I, § 110, Sept. 19, 1966, [80 Stat. 802][/us/stat/80/802], related to agreements with less developed countries for establishment of Joint Commissions on Rural Development, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 604, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t22/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2283
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/240/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs711
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
 [/us/stat/103/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2521
 [/us/usc/t22/s2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2283
 [/us/pl/87/195/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs463
@@ -58,7 +58,7 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/stat/80/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F802
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 
 

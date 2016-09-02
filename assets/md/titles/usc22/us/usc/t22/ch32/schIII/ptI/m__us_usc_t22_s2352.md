@@ -49,7 +49,7 @@
 
  __Reports on Participation by Small Businesses in Procurement Contracts of USAID__ 
 
-[Pub. L. 107–228, div. A, title VI, § 687][/us/pl/107/228/s687], Sept. 30, 2002, [116 Stat. 1411][/us/stat/116/1411], provided that:
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 687, Sept. 30, 2002, [116 Stat. 1411][/us/stat/116/1411], provided that:
 
 >     “(a)  __Initial Report__  __.—__ 
 
@@ -155,7 +155,7 @@
 
  __Procurements From Small Businesses__ 
 
-[Pub. L. 94–329, title VI, § 602][/us/pl/94/329/s602], June 30, 1976, [90 Stat. 766][/us/stat/90/766], provided that: 
+[Pub. L. 94–329, title VI][/us/pl/94/329/tVI], § 602, June 30, 1976, [90 Stat. 766][/us/stat/90/766], provided that: 
 
 > “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
 
@@ -176,12 +176,12 @@
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/107/228/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs687
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1411
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/94/329/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs602
+[/us/pl/94/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtVI
 [/us/stat/90/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F766
 [/us/pl/94/329/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs602
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

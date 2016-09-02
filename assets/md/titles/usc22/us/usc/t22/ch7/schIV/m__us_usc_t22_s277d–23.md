@@ -17,7 +17,7 @@
 
     No amount received as an award under subsection a. and subsections b. (1) and (3) of [section 277d–19 of this title][/us/usc/t22/s277d–19] shall be included in gross income for purposes of chapter 1 of title 26. However, amounts received under subsection b. (1) shall be included in gross income to the extent that such amounts are not used within one year of the receipt thereof to purchase replacement housing or facilities.
 
-([Pub. L. 88–300, § 7][/us/pl/88/300/s7], Apr. 29, 1964, [78 Stat. 186][/us/stat/78/186]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 88–300][/us/pl/88/300], § 7, Apr. 29, 1964, [78 Stat. 186][/us/stat/78/186]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t22/s277d–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9319
-[/us/pl/88/300/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs7
+[/us/pl/88/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300
 [/us/stat/78/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F186
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 

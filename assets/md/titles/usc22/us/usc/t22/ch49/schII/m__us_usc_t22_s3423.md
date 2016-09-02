@@ -33,7 +33,7 @@
 
         Unless required by law, reimbursements to the United States by the Multinational Force and Observers shall be on the basis of identifiable costs actually incurred as a result of requirements imposed by the Multinational Force and Observers, and shall not include administrative surcharges.
 
-([Pub. L. 97–132, § 4][/us/pl/97/132/s4], Dec. 29, 1981, [95 Stat. 1694][/us/stat/95/1694].)
+([Pub. L. 97–132][/us/pl/97/132], § 4, Dec. 29, 1981, [95 Stat. 1694][/us/stat/95/1694].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t22/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2348
 [/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
-[/us/pl/97/132/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs4
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1694
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

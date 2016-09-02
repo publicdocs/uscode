@@ -47,7 +47,7 @@
 
         (5) does not damage the environment.
 
-([Pub. L. 96–259, title VI, § 602][/us/pl/96/259/s602], June 3, 1980, [94 Stat. 433][/us/stat/94/433]; [Pub. L. 97–375, title I, § 112][/us/pl/97/375/s112], Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821].)
+([Pub. L. 96–259, title VI][/us/pl/96/259/tVI], § 602, June 3, 1980, [94 Stat. 433][/us/stat/94/433]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 112, Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Congressional Statement of Findings Respecting Use of Renewable Resources for Energy Production in Poor and Developing Countries and Role of International Financial Institutions__ 
 
-[Pub. L. 96–259, title VI, § 601][/us/pl/96/259/s601], June 3, 1980, [94 Stat. 432][/us/stat/94/432], provided that: 
+[Pub. L. 96–259, title VI][/us/pl/96/259/tVI], § 601, June 3, 1980, [94 Stat. 432][/us/stat/94/432], provided that: 
 
 > “The Congress finds that—
 
@@ -80,12 +80,12 @@
 ----------
 ----------
 
-[/us/pl/96/259/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs602
+[/us/pl/96/259/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtVI
 [/us/stat/94/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F433
-[/us/pl/97/375/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs112
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1821
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
-[/us/pl/96/259/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs601
+[/us/pl/96/259/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtVI
 [/us/stat/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F432
 
 

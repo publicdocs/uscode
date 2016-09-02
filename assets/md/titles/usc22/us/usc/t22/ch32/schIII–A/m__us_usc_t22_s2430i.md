@@ -17,7 +17,7 @@
 
     The annual reports submitted pursuant to [section 1738m of title 7][/us/usc/t7/s1738m] shall include a description of each Americas Framework Agreement and a description of any grants that have been extended by administering bodies pursuant to an Americas Framework Agreement.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 710, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669]; amended [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 710, as added [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(a), Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669]; amended [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t7/s1738m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738m
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fa
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3669
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs710
 [/us/stat/75/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F465

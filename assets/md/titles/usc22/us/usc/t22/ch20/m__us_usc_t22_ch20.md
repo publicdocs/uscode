@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch19/schVII/m__us_usc_t22_ch19_schVII.md) | [Next](./../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_ch20_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch20)
+[Previous](./../../../..//us/usc/t22/ch19/schVII/m__us_usc_t22_s1558...1558h.md) | [Next](./../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_ch20_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch20)
 
 ## CHAPTER 20—MUTUAL DEFENSE ASSISTANCE PROGRAM
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch19/schVII/m__us_usc_t22_ch19_schVII.md) | [Next](./../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_ch20_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch20)
+[Previous](./../../../..//us/usc/t22/ch19/schVII/m__us_usc_t22_s1558...1558h.md) | [Next](./../../../..//us/usc/t22/ch20/schI/m__us_usc_t22_ch20_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch20)
 
 ----------
 ----------

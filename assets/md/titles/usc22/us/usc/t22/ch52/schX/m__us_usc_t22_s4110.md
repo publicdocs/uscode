@@ -55,7 +55,7 @@
 
         (3) Notice of any final action of the Panel under this section shall be promptly served upon the parties, and the action shall be binding on such parties during the term of the collective bargaining agreement unless the parties agree otherwise.
 
-([Pub. L. 96–465, title I, § 1010][/us/pl/96/465/s1010], Oct. 17, 1980, [94 Stat. 2133][/us/stat/94/2133].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1010, Oct. 17, 1980, [94 Stat. 2133][/us/stat/94/2133].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7132
-[/us/pl/96/465/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1010
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2133
 [/us/usc/t5/s7119/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7119%2Fb%2F4
 [/us/usc/t5/s7119/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7119%2Fc%2F4

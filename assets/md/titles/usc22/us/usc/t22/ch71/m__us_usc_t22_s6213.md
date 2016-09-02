@@ -29,7 +29,7 @@
 
     (3) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
 
-([Pub. L. 103–236, title III, § 314][/us/pl/103/236/s314], Apr. 30, 1994, [108 Stat. 445][/us/stat/108/445].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 314, Apr. 30, 1994, [108 Stat. 445][/us/stat/108/445].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs314
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F445
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432

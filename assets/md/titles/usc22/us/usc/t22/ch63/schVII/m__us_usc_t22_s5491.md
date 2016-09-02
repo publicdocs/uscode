@@ -23,7 +23,7 @@
 
     (3) any member who was elected to that country’s parliament has been removed from that office or arrested through extraconstitutional processes.
 
-([Pub. L. 101–179, title VIII, § 801][/us/pl/101/179/s801], Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322].)
+([Pub. L. 101–179, title VIII][/us/pl/101/179/tVIII], § 801, Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs801
+[/us/pl/101/179/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVIII
 [/us/stat/103/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1322
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298

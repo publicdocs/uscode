@@ -29,7 +29,7 @@
 
         (B) a provision of law referred to in paragraph (2).
 
-([Pub. L. 111–195, title III, § 305][/us/pl/111/195/s305], July 1, 2010, [124 Stat. 1349][/us/stat/124/1349].)
+([Pub. L. 111–195, title III][/us/pl/111/195/tIII], § 305, July 1, 2010, [124 Stat. 1349][/us/stat/124/1349].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/195/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs305
+[/us/pl/111/195/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtIII
 [/us/stat/124/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1349
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503

@@ -41,7 +41,7 @@
 
             Not later than six months after November 21, 2011, the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the costs, feasibility, and benefits of providing all volunteers with access to adequate communication, including cellular service and Internet access.
 
-([Pub. L. 87–293, title I, § 8I][/us/pl/87/293/s8I], as added [Pub. L. 112–57, § 2][/us/pl/112/57/s2], Nov. 21, 2011, [125 Stat. 743][/us/stat/125/743].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8I, as added [Pub. L. 112–57][/us/pl/112/57], § 2, Nov. 21, 2011, [125 Stat. 743][/us/stat/125/743].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/87/293/s8I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8I
-[/us/pl/112/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F743
 
 

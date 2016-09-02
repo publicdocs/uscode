@@ -45,7 +45,7 @@
 
         In implementing this section, the President shall take all necessary steps to ensure that no funds or other assistance is provided to the Cuban Government.
 
-([Pub. L. 104–114, title I, § 109][/us/pl/104/114/s109], Mar. 12, 1996, [110 Stat. 799][/us/stat/110/799].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 109, Mar. 12, 1996, [110 Stat. 799][/us/stat/110/799].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t22/s6032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6032
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t22/s2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2227
-[/us/pl/104/114/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs109
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F799
 
 

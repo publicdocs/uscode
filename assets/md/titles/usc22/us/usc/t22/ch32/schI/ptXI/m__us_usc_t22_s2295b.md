@@ -119,7 +119,7 @@
 
             (B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in [section 1603(b) of title 28][/us/usc/t28/s1603/b], with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498B, as added [Pub. L. 102–511, title II, § 201][/us/pl/102/511/s201], Oct. 24, 1992, [106 Stat. 3328][/us/stat/106/3328]; amended [Pub. L. 103–236, title VIII, § 826(c)][/us/pl/103/236/s826/c], Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519]; [Pub. L. 104–114, title I, § 106(c)(2)][/us/pl/104/114/s106/c/2], Mar. 12, 1996, [110 Stat. 796][/us/stat/110/796]; [Pub. L. 107–246, § 4(b)][/us/pl/107/246/s4/b], Oct. 23, 2002, [116 Stat. 1515][/us/stat/116/1515].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498B, as added [Pub. L. 102–511, title II][/us/pl/102/511/tII], § 201, Oct. 24, 1992, [106 Stat. 3328][/us/stat/106/3328]; amended [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(c), Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519]; [Pub. L. 104–114, title I][/us/pl/104/114/tI], § 106(c)(2), Mar. 12, 1996, [110 Stat. 796][/us/stat/110/796]; [Pub. L. 107–246][/us/pl/107/246], § 4(b), Oct. 23, 2002, [116 Stat. 1515][/us/stat/116/1515].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Trans-Caucasus Enterprise Fund__ 
 
-[Pub. L. 104–107, title II][/us/pl/104/107], \[(t)\], Feb. 12, 1996, [110 Stat. 714][/us/stat/110/714], provided that: 
+[Pub. L. 104–107, title II][/us/pl/104/107/tII], \[(t)\], Feb. 12, 1996, [110 Stat. 714][/us/stat/110/714], provided that: 
 
 > “The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: Provided, That the President shall seek other bilateral and multilateral investors in the Fund: Provided further, That of the funds made available under this heading \[Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union, see [110 Stat. 712][/us/stat/110/712]\], not less than $15,000,000 shall be made available for a United States investment in the Trans-Caucasus Enterprise Fund.”
 
@@ -177,13 +177,13 @@
 [/us/usc/t22/s2295a/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295a%2Fb%2F5
 [/us/usc/t28/s1603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1603%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/511/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs201
+[/us/pl/102/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtII
 [/us/stat/106/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3328
-[/us/pl/103/236/s826/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fc
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F519
-[/us/pl/104/114/s106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106%2Fc%2F2
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F796
-[/us/pl/107/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs4%2Fb
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/stat/116/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1515
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
@@ -212,7 +212,7 @@
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s5812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5812
-[/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
+[/us/pl/104/107/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtII
 [/us/stat/110/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F714
 [/us/stat/110/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F712
 

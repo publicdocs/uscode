@@ -75,7 +75,7 @@
 
         In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
 
-([Pub. L. 101–240, title VII, § 732][/us/pl/101/240/s732], as added [Pub. L. 109–58, title XVI, § 1611][/us/pl/109/58/s1611], Aug. 8, 2005, [119 Stat. 1113][/us/stat/119/1113].)
+([Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 732, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1611, Aug. 8, 2005, [119 Stat. 1113][/us/stat/119/1113].)
 
 ----------
 
@@ -84,8 +84,8 @@
 ----------
 ----------
 
-[/us/pl/101/240/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs732
-[/us/pl/109/58/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1611
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1113
 
 

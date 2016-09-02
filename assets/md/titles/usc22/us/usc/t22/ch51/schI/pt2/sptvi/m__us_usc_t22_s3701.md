@@ -53,7 +53,7 @@
 
         (4) In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998, the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
 
-([Pub. L. 96–70, title I, § 1271][/us/pl/96/70/s1271], Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476]; [Pub. L. 103–160, div. C, title XXXV, § 3505][/us/pl/103/160/s3505], Nov. 30, 1993, [107 Stat. 1966][/us/stat/107/1966]; [Pub. L. 105–85, div. C, title XXXV, § 3527][/us/pl/105/85/s3527], Nov. 18, 1997, [111 Stat. 2068][/us/stat/111/2068].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1271, Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476]; [Pub. L. 103–160, div. C, title XXXV][/us/pl/103/160/dC/tXXXV], § 3505, Nov. 30, 1993, [107 Stat. 1966][/us/stat/107/1966]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3527, Nov. 18, 1997, [111 Stat. 2068][/us/stat/111/2068].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. C, title XXXV, § 3506][/us/pl/103/160/s3506], Nov. 30, 1993, [107 Stat. 1966][/us/stat/107/1966], provided that:
+[Pub. L. 103–160, div. C, title XXXV][/us/pl/103/160/dC/tXXXV], § 3506, Nov. 30, 1993, [107 Stat. 1966][/us/stat/107/1966], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,18 +85,18 @@
 ----------
 
 [/us/usc/t5/s7121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7121
-[/us/pl/96/70/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1271
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F476
-[/us/pl/103/160/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3505
+[/us/pl/103/160/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXV
 [/us/stat/107/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1966
-[/us/pl/105/85/s3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3527
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2068
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/160/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3506
+[/us/pl/103/160/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXV
 [/us/stat/107/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1966
 [/us/usc/t22/s3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3641
 [/us/usc/t22/s3701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3701%2Fa

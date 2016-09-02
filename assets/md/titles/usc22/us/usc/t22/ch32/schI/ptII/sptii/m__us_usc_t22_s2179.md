@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2175a.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptiii/m__us_usc_t22_ch32_schI_ptII_sptiii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2179)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2176...2178.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2180 _us_usc_t22_s2180a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2179)
 
 ## § 2179. Prototype desalting plant
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    In subsec. (c), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes of the United States ([31 U.S.C. 529][/us/usc/t31/s529] and [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “sections 3648 and 3709 of the Revised Statutes of the United States ([31 U.S.C. 529][/us/usc/t31/s529] and [41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Change of Name__ 
 
@@ -65,19 +65,9 @@
 
     For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
-§§ 2180, 2180a. __Repealed.__  __[__  __Pub. L. 95–424, title I, § 102(g)(1)(A)__  __][/us/pl/95/424/s102/g/1/A]__  __,__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 942__  __][/us/stat/92/942]__ 
-
-    Section 2180, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 220, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 104, Dec. 30, 1969, [83 Stat. 807][/us/stat/83/807], related to programs for peaceful communications using television, etc., for educational, health, etc., purposes.
-
-    Section 2180a, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 220A, as added [Pub. L. 92–226][/us/pl/92/226], pt. I, § 102(c), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22], related to assistance in the reopening of the Suez Canal.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1978, see [section 605 of Pub. L. 95–424][/us/pl/95/424/s605], set out as an Effective Date of 1978 Amendment note under [section 2151 of this title][/us/usc/t22/s2151].
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2175a.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptiii/m__us_usc_t22_ch32_schI_ptII_sptiii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2179)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2176...2178.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2180 _us_usc_t22_s2180a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2179)
 
 ----------
 ----------
@@ -95,20 +85,10 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
-[/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
-[/us/stat/83/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F807
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
-[/us/stat/86/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F22
-[/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
-[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 
 

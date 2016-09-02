@@ -17,7 +17,7 @@
 
     Any person in the employ or service of the Government of the United States while assigned for service to or in cooperation with another government under authority of this chapter may, at the discretion of his Government agency, with the concurrence of the Director of the United States Information Agency, and without additional compensation therefor, accept an office under the government to which he is assigned, if the acceptance of such an office in the opinion of such agency is necessary to permit the effective performance of duties for which he is assigned, including the making or approving on behalf of such foreign government the disbursement of funds provided by such government or of receiving from such foreign government funds for deposit and disbursement on behalf of such government, in carrying out programs undertaken pursuant to this chapter: Provided, however, That such acceptance of office shall in no case involve the taking of an oath of allegiance to another government.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title III, § 303, [62 Stat. 8][/us/stat/62/8]; [Pub. L. 97–241, title III, § 304(a)(1)(B)][/us/pl/97/241/s304/a/1/B], (2)(B), Aug. 24, 1982, [96 Stat. 292][/us/stat/96/292].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title III, § 303, [62 Stat. 8][/us/stat/62/8]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 304(a)(1)(B), (2)(B), Aug. 24, 1982, [96 Stat. 292][/us/stat/96/292].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F8
-[/us/pl/97/241/s304/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs304%2Fa%2F1%2FB
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F292
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 

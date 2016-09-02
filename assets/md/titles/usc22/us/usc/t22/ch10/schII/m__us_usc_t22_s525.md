@@ -19,7 +19,7 @@
 
     (b) All moneys which may be received from the government of any American republic, in payment for any article delivered or service rendered in compliance with the provisions of this subchapter, shall revert to the respective appropriation or appropriations out of which funds were expended in carrying out the transaction for which money is received, and such moneys shall be available for expenditure for the purpose for which such expended funds were appropriated by law, during the fiscal year in which such funds are received and the ensuing fiscal year.
 
-([June 15, 1940, ch. 365, § 5][/us/act/1940-06-15/ch365/s5], [54 Stat. 397][/us/stat/54/397].)
+([June 15, 1940, ch. 365][/us/act/1940-06-15/ch365], § 5, [54 Stat. 397][/us/stat/54/397].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1940-06-15/ch365/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-15%2Fch365%2Fs5
+[/us/act/1940-06-15/ch365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-15%2Fch365
 [/us/stat/54/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F397
 
 

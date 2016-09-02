@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2399a)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399–1a _us_usc_t22_s2399–1b.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2399a)
 
 ## § 2399a. Repealed. [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(a), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2399a)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399–1a _us_usc_t22_s2399–1b.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2399b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2399a)
 
 ----------
 ----------

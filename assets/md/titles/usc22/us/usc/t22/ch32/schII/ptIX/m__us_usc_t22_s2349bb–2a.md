@@ -37,7 +37,7 @@
 
         In selecting personnel for education and training pursuant to this section, priority should be given to personnel from countries determined by the Secretary of State to be countries frequently transited by proliferation-related shipments of cargo.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 584, as added [Pub. L. 107–228, div. B, title XIII, § 1303(2)][/us/pl/107/228/s1303/2], Sept. 30, 2002, [116 Stat. 1436][/us/stat/116/1436].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 584, as added [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1303(2), Sept. 30, 2002, [116 Stat. 1436][/us/stat/116/1436].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/107/228/s1303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1303%2F2
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1436
 [/us/pl/87/195/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs584
 [/us/usc/t22/s2349bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349bb%E2%80%933

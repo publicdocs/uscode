@@ -55,7 +55,7 @@
 
         (3) other extraordinary circumstances exist which warrant waiving the provisions of subsection (b)(2) of this section.
 
-([July 31, 1945, ch. 339, § 45][/us/act/1945-07-31/ch339/s45], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 806\], Nov. 30, 1983, [97 Stat. 1272][/us/stat/97/1272].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 45, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 806\], Nov. 30, 1983, [97 Stat. 1272][/us/stat/97/1272].)
 
  __Change of Name__ 
 
@@ -68,8 +68,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs45
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1272
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

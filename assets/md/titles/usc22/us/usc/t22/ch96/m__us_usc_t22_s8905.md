@@ -53,7 +53,7 @@
 
             The President may waive the notification requirement under paragraph (1) if the President determines that failure to do so would pose a substantial risk to human health or welfare, in which case notification shall be provided as early as practicable, but in no event later than three days after taking the action to which such notification requirement was applicable in the context of the circumstances necessitating such waiver.
 
-([Pub. L. 113–95, § 6][/us/pl/113/95/s6], Apr. 3, 2014, [128 Stat. 1091][/us/stat/128/1091].)
+([Pub. L. 113–95][/us/pl/113/95], § 6, Apr. 3, 2014, [128 Stat. 1091][/us/stat/128/1091].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/113/95/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs6
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1091
 
 

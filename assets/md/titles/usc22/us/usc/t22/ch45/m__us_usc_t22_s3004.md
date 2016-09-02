@@ -17,7 +17,7 @@
 
     In carrying out this chapter, the Commission may require, by subpena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpenas may be issued over the signature of the Chairman of the Commission or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Commission, or any member designated by him, may administer oaths to any witness.
 
-([Pub. L. 94–304, § 4][/us/pl/94/304/s4], June 3, 1976, [90 Stat. 661][/us/stat/90/661].)
+([Pub. L. 94–304][/us/pl/94/304], § 4, June 3, 1976, [90 Stat. 661][/us/stat/90/661].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs4
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F661
 
 

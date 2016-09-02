@@ -123,7 +123,7 @@
 
         (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-([Pub. L. 87–256, § 112][/us/pl/87/256/s112], as added [Pub. L. 98–164, title II, § 213][/us/pl/98/164/s213], Nov. 22, 1983, [97 Stat. 1034][/us/stat/97/1034]; amended [Pub. L. 100–204, title III][/us/pl/100/204], §§ 302(a), 303, Dec. 22, 1987, [101 Stat. 1378][/us/stat/101/1378], 1379; [Pub. L. 101–246, title II][/us/pl/101/246], §§ 204(a)(2), 222(a), 223, Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50], 55, 56; [Pub. L. 103–199, title III, § 301(1)][/us/pl/103/199/s301/1], Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322]; [Pub. L. 103–236, title II, § 229(a)][/us/pl/103/236/s229/a], Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 105–244, title I, § 102(a)(7)(B)][/us/pl/105/244/s102/a/7/B], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIV, § 2414, Oct. 21, 1998, [112 Stat. 2681–832][/us/stat/112/2681-832]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228], §§ 221, 229, Sept. 30, 2002, [116 Stat. 1367][/us/stat/116/1367], 1371.)
+([Pub. L. 87–256][/us/pl/87/256], § 112, as added [Pub. L. 98–164, title II][/us/pl/98/164/tII], § 213, Nov. 22, 1983, [97 Stat. 1034][/us/stat/97/1034]; amended [Pub. L. 100–204, title III][/us/pl/100/204/tIII], §§ 302(a), 303, Dec. 22, 1987, [101 Stat. 1378][/us/stat/101/1378], 1379; [Pub. L. 101–246, title II][/us/pl/101/246/tII], §§ 204(a)(2), 222(a), 223, Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50], 55, 56; [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 301(1), Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322]; [Pub. L. 103–236, title II][/us/pl/103/236/tII], § 229(a), Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(7)(B), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIV, § 2414, Oct. 21, 1998, [112 Stat. 2681–832][/us/stat/112/2681-832]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], §§ 221, 229, Sept. 30, 2002, [116 Stat. 1367][/us/stat/116/1367], 1371.)
 
  __References in Text__ 
 
@@ -137,19 +137,19 @@
 
  __Amendments__ 
 
-    2002—Subsec. (d). [Pub. L. 107–228, § 221][/us/pl/107/228/s221], designated existing provisions as par. (1) and added par. (2).
+    2002—Subsec. (d). [Pub. L. 107–228][/us/pl/107/228], § 221, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g)(1). [Pub. L. 107–228, § 229(1)][/us/pl/107/228/s229/1], substituted “Department of State” for “United States Information Agency”.
+    Subsec. (g)(1). [Pub. L. 107–228][/us/pl/107/228], § 229(1), substituted “Department of State” for “United States Information Agency”.
 
-    Subsec. (g)(3)(A). [Pub. L. 107–228, § 229(2)(A)][/us/pl/107/228/s229/2/A], substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
+    Subsec. (g)(3)(A). [Pub. L. 107–228][/us/pl/107/228], § 229(2)(A), substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
 
-    Subsec. (g)(3)(B) to (G). [Pub. L. 107–228, § 229(2)(B)][/us/pl/107/228/s229/2/B], (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
+    Subsec. (g)(3)(B) to (G). [Pub. L. 107–228][/us/pl/107/228], § 229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
 
-    Subsec. (g)(5). [Pub. L. 107–228, § 229(3)][/us/pl/107/228/s229/3], substituted “Department of State” for “United States Information Agency”.
+    Subsec. (g)(5). [Pub. L. 107–228][/us/pl/107/228], § 229(3), substituted “Department of State” for “United States Information Agency”.
 
-    Subsec. (g)(6)(G). [Pub. L. 107–228, § 229(4)][/us/pl/107/228/s229/4], substituted “Department of State” for “United States Information Agency”.
+    Subsec. (g)(6)(G). [Pub. L. 107–228][/us/pl/107/228], § 229(4), substituted “Department of State” for “United States Information Agency”.
 
-    Subsec. (g)(7). [Pub. L. 107–228, § 229(5)][/us/pl/107/228/s229/5], substituted “Secretary of State, acting through the Under Secretary of State for Public Diplomacy” for “Director of the United States Information Agency”.
+    Subsec. (g)(7). [Pub. L. 107–228][/us/pl/107/228], § 229(5), substituted “Secretary of State, acting through the Under Secretary of State for Public Diplomacy” for “Director of the United States Information Agency”.
 
     1998—Subsec. (a)(8). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141(a)”.
 
@@ -159,11 +159,11 @@
 
     1993—Subsec. (a)(8). [Pub. L. 103–199][/us/pl/103/199] substituted “independent states of the former Soviet Union” for “Soviet Union” in two places.
 
-    1990—Subsec. (a)(8). [Pub. L. 101–246, § 223][/us/pl/101/246/s223], inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
+    1990—Subsec. (a)(8). [Pub. L. 101–246][/us/pl/101/246], § 223, inserted “or through other programs designed to promote contact between the young peoples of the United States, the Soviet Union, and Eastern European countries” after “degree”.
 
-    Subsecs. (b) to (d). [Pub. L. 101–246, § 204(a)(2)][/us/pl/101/246/s204/a/2], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (b) to (d). [Pub. L. 101–246][/us/pl/101/246], § 204(a)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-    Subsec. (e). [Pub. L. 101–246, § 222(a)][/us/pl/101/246/s222/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–246][/us/pl/101/246], § 222(a), added subsec. (e).
 
     1987—Subsec. (a)(8), (9). [Pub. L. 100–204][/us/pl/100/204] added pars. (8) and (9).
 
@@ -175,17 +175,17 @@
 
     United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-[Pub. L. 101–246, title II, § 222(b)][/us/pl/101/246/s222/b], Feb. 16, 1990, [104 Stat. 56][/us/stat/104/56], provided that: 
+[Pub. L. 101–246, title II][/us/pl/101/246/tII], § 222(b), Feb. 16, 1990, [104 Stat. 56][/us/stat/104/56], provided that: 
 
 > “There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act \[Feb. 16, 1990\] all functions carried out by the Office of Private Sector Programs on the day before such date.”
 
  __Private Sector Program; Restrictions on Funds for Foreign Travel; Waiver; Reports__ 
 
-[Pub. L. 98–164, title II, § 207][/us/pl/98/164/s207], Nov. 22, 1983, [97 Stat. 1032][/us/stat/97/1032], as amended by [Pub. L. 103–236, title I, § 139(11)][/us/pl/103/236/s139/11], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
+[Pub. L. 98–164, title II][/us/pl/98/164/tII], § 207, Nov. 22, 1983, [97 Stat. 1032][/us/stat/97/1032], as amended by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(11), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
 
 >     “(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
 
->     “\[(b) Repealed. [Pub. L. 103–236, title I, § 139(11)][/us/pl/103/236/s139/11], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].\]”
+>     “\[(b) Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(11), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].\]”
 
  __Ex. Ord. No. 13055. Coordination of United States Government International Exchanges and Training Programs__ 
 
@@ -243,22 +243,22 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/87/256/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs112
-[/us/pl/98/164/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs213
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
+[/us/pl/98/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtII
 [/us/stat/97/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1034
-[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtIII
 [/us/stat/101/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1378
-[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F50
-[/us/pl/103/199/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs301%2F1
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2322
-[/us/pl/103/236/s229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs229%2Fa
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F423
-[/us/pl/105/244/s102/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F7%2FB
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-832
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1367
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
@@ -272,32 +272,32 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/107/228/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs221
-[/us/pl/107/228/s229/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs229%2F1
-[/us/pl/107/228/s229/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs229%2F2%2FA
-[/us/pl/107/228/s229/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs229%2F2%2FB
-[/us/pl/107/228/s229/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs229%2F3
-[/us/pl/107/228/s229/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs229%2F4
-[/us/pl/107/228/s229/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs229%2F5
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
-[/us/pl/101/246/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs223
-[/us/pl/101/246/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs204%2Fa%2F2
-[/us/pl/101/246/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs222%2Fa
+[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/101/246/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs222%2Fb
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F56
-[/us/pl/98/164/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs207
+[/us/pl/98/164/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtII
 [/us/stat/97/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1032
-[/us/pl/103/236/s139/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F11
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/103/236/s139/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F11
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 [/us/pl/103/199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs3

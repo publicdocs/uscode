@@ -29,7 +29,7 @@
 
             Not more than 2 percent of the funds made available for a fiscal year under subsection (a) may be transferred pursuant to paragraph (1) unless, at least 15 days before transferring any additional amount, the President notifies the appropriate congressional committees in accordance with the procedures applicable to reprogramming notifications under [section 2394–1 of this title][/us/usc/t22/s2394–1].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498C, as added [Pub. L. 102–511, title II, § 201][/us/pl/102/511/s201], Oct. 24, 1992, [106 Stat. 3330][/us/stat/106/3330].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498C, as added [Pub. L. 102–511, title II][/us/pl/102/511/tII], § 201, Oct. 24, 1992, [106 Stat. 3330][/us/stat/106/3330].)
 
  __Delegation of Functions__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/511/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs201
+[/us/pl/102/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtII
 [/us/stat/106/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3330
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s5812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5812

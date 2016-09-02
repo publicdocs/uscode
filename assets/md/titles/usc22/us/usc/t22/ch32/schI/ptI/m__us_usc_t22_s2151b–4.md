@@ -31,7 +31,7 @@
 
         In carrying out this section, the President shall coordinate with the World Health Organization, the Global Fund to Fight AIDS, Tuberculosis, and Malaria, the Department of Health and Human Services (the Centers for Disease Control and Prevention and the National Institutes of Health), and other organizations with respect to the development and implementation of a comprehensive malaria control program.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 104C, as added [Pub. L. 108–25, title III, § 303(a)][/us/pl/108/25/s303/a], May 27, 2003, [117 Stat. 736][/us/stat/117/736]; amended [Pub. L. 110–293, title III, § 303(a)][/us/pl/110/293/s303/a], July 30, 2008, [122 Stat. 2960][/us/stat/122/2960].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 104C, as added [Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 303(a), May 27, 2003, [117 Stat. 736][/us/stat/117/736]; amended [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 303(a), July 30, 2008, [122 Stat. 2960][/us/stat/122/2960].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t22/s2151b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/25/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs303%2Fa
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F736
-[/us/pl/110/293/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs303%2Fa
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2960
 [/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

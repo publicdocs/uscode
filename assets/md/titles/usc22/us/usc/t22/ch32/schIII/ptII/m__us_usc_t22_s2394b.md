@@ -231,7 +231,7 @@
 
             (K) to otherwise promote through bilateral foreign economic assistance the national objectives of the United States.
 
-([Pub. L. 108–199, div. B, title VI, § 637][/us/pl/108/199/s637], Jan. 23, 2004, [118 Stat. 101][/us/stat/118/101].)
+([Pub. L. 108–199, div. B, title VI][/us/pl/108/199/dB/tVI], § 637, Jan. 23, 2004, [118 Stat. 101][/us/stat/118/101].)
 
  __References in Text__ 
 
@@ -276,7 +276,7 @@
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/108/199/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs637
+[/us/pl/108/199/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtVI
 [/us/stat/118/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F101
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

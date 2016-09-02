@@ -51,11 +51,11 @@
 
         (2) the Committee on Appropriations and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 656, as added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, § 1307\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–512; amended [Pub. L. 107–228, div. B, title XII, § 1262(a)][/us/pl/107/228/s1262/a], Sept. 30, 2002, [116 Stat. 1434][/us/stat/116/1434].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 656, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XIII, § 1307\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–512; amended [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1262(a), Sept. 30, 2002, [116 Stat. 1434][/us/stat/116/1434].)
 
  __Prior Provisions__ 
 
-    A prior section 2416, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 656, as added [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(b), Feb. 7, 1972, [86 Stat. 30][/us/stat/86/30]; amended [Pub. L. 93–559, § 39(b)][/us/pl/93/559/s39/b], Dec. 30, 1974, [88 Stat. 1810][/us/stat/88/1810]; [Pub. L. 94–329, title IV, § 413(a)][/us/pl/94/329/s413/a], June 30, 1976, [90 Stat. 761][/us/stat/90/761], related to limitation on number of United States personnel in Cambodia, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424], §§ 604, 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
+    A prior section 2416, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 656, as added [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(b), Feb. 7, 1972, [86 Stat. 30][/us/stat/86/30]; amended [Pub. L. 93–559][/us/pl/93/559], § 39(b), Dec. 30, 1974, [88 Stat. 1810][/us/stat/88/1810]; [Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 413(a), June 30, 1976, [90 Stat. 761][/us/stat/90/761], related to limitation on number of United States personnel in Cambodia, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], §§ 604, 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
 
  __Amendments__ 
 
@@ -73,18 +73,18 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s1262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1262%2Fa
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1434
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F30
-[/us/pl/93/559/s39/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs39%2Fb
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1810
-[/us/pl/94/329/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs413%2Fa
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F761
-[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 

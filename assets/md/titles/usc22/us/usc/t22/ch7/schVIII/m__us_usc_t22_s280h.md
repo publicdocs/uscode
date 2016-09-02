@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the United States in the Caribbean Commission, created by “An agreement for the establishment of the Caribbean Commission,” signed in Washington on October 30, 1946, by representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
 
-([Mar. 4, 1948, ch. 97, § 1][/us/act/1948-03-04/ch97/s1], [62 Stat. 66][/us/stat/62/66].)
+([Mar. 4, 1948, ch. 97][/us/act/1948-03-04/ch97], § 1, [62 Stat. 66][/us/stat/62/66].)
 
  __Purpose of Commission__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/act/1948-03-04/ch97/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-04%2Fch97%2Fs1
+[/us/act/1948-03-04/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-04%2Fch97
 [/us/stat/62/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F66
 [/us/act/1948-03-04/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-04%2Fch97
 [/us/stat/62/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F65

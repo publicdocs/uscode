@@ -21,7 +21,7 @@
 
     (2) seek to ensure equitable and environmentally sustainable economic growth.
 
-([Pub. L. 86–147, § 36][/us/pl/86/147/s36], as added [Pub. L. 101–240, title II, § 204][/us/pl/101/240/s204], Dec. 19, 1989, [103 Stat. 2499][/us/stat/103/2499].)
+([Pub. L. 86–147][/us/pl/86/147], § 36, as added [Pub. L. 101–240, title II][/us/pl/101/240/tII], § 204, Dec. 19, 1989, [103 Stat. 2499][/us/stat/103/2499].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs36
-[/us/pl/101/240/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs204
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/101/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtII
 [/us/stat/103/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2499
 
 

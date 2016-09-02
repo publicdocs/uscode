@@ -27,7 +27,7 @@
 
         (2) [section 1341 of title 31][/us/usc/t31/s1341] (commonly referred to as the “Anti-Deficiency Act”), the Congressional Budget and Impoundment Control Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
 
-([Pub. L. 102–511, title V, § 507][/us/pl/102/511/s507], Oct. 24, 1992, [106 Stat. 3341][/us/stat/106/3341].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 507, Oct. 24, 1992, [106 Stat. 3341][/us/stat/106/3341].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
-[/us/pl/102/511/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs507
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3341
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

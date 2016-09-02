@@ -311,7 +311,7 @@
 
             (B) making public service announcements on radio and television.
 
-([Pub. L. 108–25, title II, § 202][/us/pl/108/25/s202], May 27, 2003, [117 Stat. 724][/us/stat/117/724]; [Pub. L. 108–199, div. D, title V, § 595(1)][/us/pl/108/199/s595/1], (2), Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209]; [Pub. L. 110–293, title II, § 202][/us/pl/110/293/s202], July 30, 2008, [122 Stat. 2936][/us/stat/122/2936]; [Pub. L. 113–56, § 4][/us/pl/113/56/s4], Dec. 2, 2013, [127 Stat. 649][/us/stat/127/649].)
+([Pub. L. 108–25, title II][/us/pl/108/25/tII], § 202, May 27, 2003, [117 Stat. 724][/us/stat/117/724]; [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 595(1), (2), Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209]; [Pub. L. 110–293, title II][/us/pl/110/293/tII], § 202, July 30, 2008, [122 Stat. 2936][/us/stat/122/2936]; [Pub. L. 113–56][/us/pl/113/56], § 4, Dec. 2, 2013, [127 Stat. 649][/us/stat/127/649].)
 
  __References in Text__ 
 
@@ -321,53 +321,53 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(4)(A)(i). [Pub. L. 113–56, § 4(a)(1)(A)][/us/pl/113/56/s4/a/1/A], substituted “2018” for “2013”.
+    2013—Subsec. (d)(4)(A)(i). [Pub. L. 113–56][/us/pl/113/56], § 4(a)(1)(A), substituted “2018” for “2013”.
 
-    Subsec. (d)(4)(A)(ii). [Pub. L. 113–56, § 4(a)(1)(B)][/us/pl/113/56/s4/a/1/B], substituted “2018” for “2013” and struck out at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
+    Subsec. (d)(4)(A)(ii). [Pub. L. 113–56][/us/pl/113/56], § 4(a)(1)(B), substituted “2018” for “2013” and struck out at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
 
-    Subsec. (d)(4)(A)(vi). [Pub. L. 113–56, § 4(a)(1)(C)][/us/pl/113/56/s4/a/1/C], substituted “2018” for “2013”.
+    Subsec. (d)(4)(A)(vi). [Pub. L. 113–56][/us/pl/113/56], § 4(a)(1)(C), substituted “2018” for “2013”.
 
-    Subsec. (d)(4)(B). [Pub. L. 113–56, § 4(a)(2)(A)][/us/pl/113/56/s4/a/2/A], struck out “under this subsection” after “amount made available” in cls. (i) to (iv).
+    Subsec. (d)(4)(B). [Pub. L. 113–56][/us/pl/113/56], § 4(a)(2)(A), struck out “under this subsection” after “amount made available” in cls. (i) to (iv).
 
-    Subsec. (d)(4)(B)(ii). [Pub. L. 113–56, § 4(a)(2)(B)][/us/pl/113/56/s4/a/2/B], substituted “to carry out [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]”.
+    Subsec. (d)(4)(B)(ii). [Pub. L. 113–56][/us/pl/113/56], § 4(a)(2)(B), substituted “to carry out [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]”.
 
-    Subsec. (d)(4)(B)(iv). [Pub. L. 113–56, § 4(a)(2)(C)][/us/pl/113/56/s4/a/2/C], substituted “2018” for “2013”.
+    Subsec. (d)(4)(B)(iv). [Pub. L. 113–56][/us/pl/113/56], § 4(a)(2)(C), substituted “2018” for “2013”.
 
-    Subsec. (d)(5). [Pub. L. 113–56, § 4(b)(1)(A)][/us/pl/113/56/s4/b/1/A], substituted “2018” for “2013” in introductory provisions.
+    Subsec. (d)(5). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(A), substituted “2018” for “2013” in introductory provisions.
 
-    Subsec. (d)(5)(C). [Pub. L. 113–56, § 4(b)(1)(B)(i)][/us/pl/113/56/s4/b/1/B/i], inserted “in an open, machine readable format” after “site” in introductory provisions.
+    Subsec. (d)(5)(C). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(B)(i), inserted “in an open, machine readable format” after “site” in introductory provisions.
 
-    Subsec. (d)(5)(C)(v). [Pub. L. 113–56, § 4(b)(1)(B)(ii)][/us/pl/113/56/s4/b/1/B/ii], amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;”.
+    Subsec. (d)(5)(C)(v). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(B)(ii), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;”.
 
-    Subsec. (d)(5)(D)(ii). [Pub. L. 113–56, § 4(b)(1)(C)][/us/pl/113/56/s4/b/1/C], inserted “, in an open, machine readable format,” after “audits”.
+    Subsec. (d)(5)(D)(ii). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(C), inserted “, in an open, machine readable format,” after “audits”.
 
-    Subsec. (d)(5)(E). [Pub. L. 113–56, § 4(b)(1)(D)][/us/pl/113/56/s4/b/1/D], inserted “, in an open, machine readable format,” after “publicly”.
+    Subsec. (d)(5)(E). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(D), inserted “, in an open, machine readable format,” after “publicly”.
 
-    Subsec. (d)(5)(F)(ii) to (iv). [Pub. L. 113–56, § 4(b)(1)(E)][/us/pl/113/56/s4/b/1/E], added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;”.
+    Subsec. (d)(5)(F)(ii) to (iv). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(E), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;”.
 
-    Subsec. (d)(5)(G). [Pub. L. 113–56, § 4(b)(1)(F)][/us/pl/113/56/s4/b/1/F], amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;”.
+    Subsec. (d)(5)(G). [Pub. L. 113–56][/us/pl/113/56], § 4(b)(1)(F), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;”.
 
-    2008—Subsec. (a). [Pub. L. 110–293, § 202(a)][/us/pl/110/293/s202/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
+    2008—Subsec. (a). [Pub. L. 110–293][/us/pl/110/293], § 202(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
 
-    Subsec. (b)(3). [Pub. L. 110–293, § 202(b)][/us/pl/110/293/s202/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 110–293][/us/pl/110/293], § 202(b), added par. (3).
 
-    Subsec. (d)(1). [Pub. L. 110–293, § 202(c)(1)][/us/pl/110/293/s202/c/1], substituted “$2,000,000,000 for fiscal year 2009,” for “$1,000,000,000 for the period of fiscal year 2004 beginning on January 1, 2004” and “each of the fiscal years 2010 through 2013” for “the fiscal years 2005–2008”.
+    Subsec. (d)(1). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(1), substituted “$2,000,000,000 for fiscal year 2009,” for “$1,000,000,000 for the period of fiscal year 2004 beginning on January 1, 2004” and “each of the fiscal years 2010 through 2013” for “the fiscal years 2005–2008”.
 
-    Subsec. (d)(4)(A)(i). [Pub. L. 110–293, § 202(c)(2)(A)(i)][/us/pl/110/293/s202/c/2/A/i], substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+    Subsec. (d)(4)(A)(i). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(2)(A)(i), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-    Subsec. (d)(4)(A)(ii). [Pub. L. 110–293, § 202(c)(2)(A)(ii)][/us/pl/110/293/s202/c/2/A/ii], substituted “during any of the fiscal years 2009 through 2013” for “during any of the fiscal years 2004 through 2008” and inserted at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
+    Subsec. (d)(4)(A)(ii). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(2)(A)(ii), substituted “during any of the fiscal years 2009 through 2013” for “during any of the fiscal years 2004 through 2008” and inserted at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
 
-    Subsec. (d)(4)(A)(vi). [Pub. L. 110–293, § 202(c)(2)(A)(iii)][/us/pl/110/293/s202/c/2/A/iii], substituted “For the purposes” for “for the purposes”, “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”, and “before fiscal year 2009” for “prior to fiscal year 2004”.
+    Subsec. (d)(4)(A)(vi). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(2)(A)(iii), substituted “For the purposes” for “for the purposes”, “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”, and “before fiscal year 2009” for “prior to fiscal year 2004”.
 
-    Subsec. (d)(4)(B)(iv). [Pub. L. 110–293, § 202(c)(2)(B)][/us/pl/110/293/s202/c/2/B], substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+    Subsec. (d)(4)(B)(iv). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(2)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-    Subsec. (d)(4)(C)(ii). [Pub. L. 110–293, § 202(c)(2)(C)][/us/pl/110/293/s202/c/2/C], substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+    Subsec. (d)(4)(C)(ii). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(2)(C), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
-    Subsec. (d)(5), (6). [Pub. L. 110–293, § 202(c)(3)][/us/pl/110/293/s202/c/3], added pars. (5) and (6).
+    Subsec. (d)(5), (6). [Pub. L. 110–293][/us/pl/110/293], § 202(c)(3), added pars. (5) and (6).
 
-    2004—Subsec. (d)(4)(A)(vi). [Pub. L. 108–199, § 595(1)][/us/pl/108/199/s595/1], added cl. (vi).
+    2004—Subsec. (d)(4)(A)(vi). [Pub. L. 108–199][/us/pl/108/199], § 595(1), added cl. (vi).
 
-    Subsec. (d)(4)(B)(iv). [Pub. L. 108–199, § 595(2)][/us/pl/108/199/s595/2], added cl. (iv).
+    Subsec. (d)(4)(B)(iv). [Pub. L. 108–199][/us/pl/108/199], § 595(2), added cl. (iv).
 
  __Delegation of Functions__ 
 
@@ -391,13 +391,13 @@
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s2651a/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a%2Ff%2F1
-[/us/pl/108/25/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs202
+[/us/pl/108/25/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtII
 [/us/stat/117/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F724
-[/us/pl/108/199/s595/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs595%2F1
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F209
-[/us/pl/110/293/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2936
-[/us/pl/113/56/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/stat/127/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F649
 [/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/stat/114/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F748
@@ -405,32 +405,32 @@
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
-[/us/pl/113/56/s4/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F1%2FA
-[/us/pl/113/56/s4/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F1%2FB
-[/us/pl/113/56/s4/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F1%2FC
-[/us/pl/113/56/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F2%2FA
-[/us/pl/113/56/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F2%2FB
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/113/56/s4/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F2%2FC
-[/us/pl/113/56/s4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FA
-[/us/pl/113/56/s4/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FB%2Fi
-[/us/pl/113/56/s4/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FB%2Fii
-[/us/pl/113/56/s4/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FC
-[/us/pl/113/56/s4/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FD
-[/us/pl/113/56/s4/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FE
-[/us/pl/113/56/s4/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FF
-[/us/pl/110/293/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fa
-[/us/pl/110/293/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fb
-[/us/pl/110/293/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F1
-[/us/pl/110/293/s202/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F2%2FA%2Fi
-[/us/pl/110/293/s202/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F2%2FA%2Fii
-[/us/pl/110/293/s202/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F2%2FA%2Fiii
-[/us/pl/110/293/s202/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F2%2FB
-[/us/pl/110/293/s202/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F2%2FC
-[/us/pl/110/293/s202/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F3
-[/us/pl/108/199/s595/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs595%2F1
-[/us/pl/108/199/s595/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs595%2F2
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7611
 

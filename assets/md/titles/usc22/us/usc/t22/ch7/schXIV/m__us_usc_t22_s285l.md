@@ -17,7 +17,7 @@
 
     The United States Special Resources will be provided to the Bank in the form of a nonnegotiable, noninterest-bearing, letter of credit which shall be payable to the Bank at par value on demand to meet the cost of eligible goods and services, and administrative costs authorized pursuant to [section 285j(c) of this title][/us/usc/t22/s285j/c].
 
-([Pub. L. 89–369, § 15][/us/pl/89/369/s15], as added [Pub. L. 92–245, § 1][/us/pl/92/245/s1], Mar. 10, 1972, [86 Stat. 58][/us/stat/86/58].)
+([Pub. L. 89–369][/us/pl/89/369], § 15, as added [Pub. L. 92–245][/us/pl/92/245], § 1, Mar. 10, 1972, [86 Stat. 58][/us/stat/86/58].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t22/s285j/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs285j%2Fc
-[/us/pl/89/369/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs15
-[/us/pl/92/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245%2Fs1
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/92/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245
 [/us/stat/86/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F58
 
 

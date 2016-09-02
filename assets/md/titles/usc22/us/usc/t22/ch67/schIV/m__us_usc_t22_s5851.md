@@ -33,7 +33,7 @@
 
     (3) to expand military-to-military contacts between the United States and the independent states.
 
-([Pub. L. 102–511, title V, § 501][/us/pl/102/511/s501], Oct. 24, 1992, [106 Stat. 3338][/us/stat/106/3338].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 501, Oct. 24, 1992, [106 Stat. 3338][/us/stat/106/3338].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs501
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3338
 
 

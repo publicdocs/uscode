@@ -33,7 +33,7 @@
 
         The President shall include the most current set of benchmarks established pursuant to subsection (b) with each report on progress toward security and stability in Afghanistan that is submitted to Congress under sections 1230 and 1231 of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 385][/us/stat/122/385], 390).
 
-([Pub. L. 112–81, div. A, title XII, § 1221][/us/pl/112/81/s1221], Dec. 31, 2011, [125 Stat. 1635][/us/stat/125/1635].)
+([Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1221, Dec. 31, 2011, [125 Stat. 1635][/us/stat/125/1635].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Completion of Accelerated Transition of Security Responsibility From United States Armed Forces to the Afghan National Security Forces__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1222][/us/pl/113/66/s1222], Dec. 26, 2013, [127 Stat. 917][/us/stat/127/917], provided that:
+[Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1222, Dec. 26, 2013, [127 Stat. 917][/us/stat/127/917], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -74,11 +74,11 @@
 
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F385
-[/us/pl/112/81/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1221
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1635
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F385
-[/us/pl/113/66/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1222
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F917
 
 

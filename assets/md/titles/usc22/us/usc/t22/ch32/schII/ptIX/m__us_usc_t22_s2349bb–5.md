@@ -17,7 +17,7 @@
 
     Consistent with [section 2349bb–2 of this title][/us/usc/t22/s2349bb–2], the President is authorized to provide assistance to friendly foreign countries for proliferation detection and interdiction activities and for developing complementary capabilities.
 
-([Pub. L. 109–472, § 10(a)][/us/pl/109/472/s10/a], Jan. 11, 2007, [120 Stat. 3557][/us/stat/120/3557].)
+([Pub. L. 109–472][/us/pl/109/472], § 10(a), Jan. 11, 2007, [120 Stat. 3557][/us/stat/120/3557].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s2349bb–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349bb%E2%80%932
-[/us/pl/109/472/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs10%2Fa
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3557
 
 

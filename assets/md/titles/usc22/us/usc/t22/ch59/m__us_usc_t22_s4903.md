@@ -43,7 +43,7 @@
 
         Subsection (d) of this section shall not take effect until October 1, 1986.
 
-([Pub. L. 99–399, title X, § 1004][/us/pl/99/399/s1004], Aug. 27, 1986, [100 Stat. 894][/us/stat/100/894]; [Pub. L. 102–511, title VIII, § 804(a)][/us/pl/102/511/s804/a], Oct. 24, 1992, [106 Stat. 3353][/us/stat/106/3353]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
+([Pub. L. 99–399, title X][/us/pl/99/399/tX], § 1004, Aug. 27, 1986, [100 Stat. 894][/us/stat/100/894]; [Pub. L. 102–511, title VIII][/us/pl/102/511/tVIII], § 804(a), Oct. 24, 1992, [106 Stat. 3353][/us/stat/106/3353]; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Funding__ 
 
-[Pub. L. 102–511, title VIII, § 804(b)][/us/pl/102/511/s804/b], Oct. 24, 1992, [106 Stat. 3353][/us/stat/106/3353], provided that: 
+[Pub. L. 102–511, title VIII][/us/pl/102/511/tVIII], § 804(b), Oct. 24, 1992, [106 Stat. 3353][/us/stat/106/3353], provided that: 
 
 > “In addition to the funds made available pursuant to section 1005(c) of that Act \[[22 U.S.C. 4904(c)][/us/usc/t22/s4904/c]\], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2295][/us/usc/t22/s2295] et seq.\] may be used in carrying out the amendment made by subsection (a) \[amending this section\] with respect to missions in the independent states of the former Soviet Union.”
 
@@ -64,15 +64,15 @@
 ----------
 ----------
 
-[/us/pl/99/399/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1004
+[/us/pl/99/399/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtX
 [/us/stat/100/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F894
-[/us/pl/102/511/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs804%2Fa
+[/us/pl/102/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVIII
 [/us/stat/106/3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3353
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
-[/us/pl/102/511/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs804%2Fb
+[/us/pl/102/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVIII
 [/us/stat/106/3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3353
 [/us/usc/t22/s4904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4904%2Fc
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295

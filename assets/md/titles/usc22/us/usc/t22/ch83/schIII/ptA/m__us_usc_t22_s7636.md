@@ -23,7 +23,7 @@
 
     (3) Recommendations and guidelines to advise and provide technical assistance to developing countries on how to implement a program that minimizes diversion into the United States of prescription drugs donated or sold for humanitarian efforts.
 
-([Pub. L. 108–25, title III, § 307][/us/pl/108/25/s307], May 27, 2003, [117 Stat. 740][/us/stat/117/740].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 307, May 27, 2003, [117 Stat. 740][/us/stat/117/740].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/25/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs307
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F740
 
 

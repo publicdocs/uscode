@@ -23,7 +23,7 @@
 
         The Assistant Secretary shall play a central role in the selection of Democracy Fellows and facilitate their placement in appropriate congressional offices, congressional committees, international organizations, and nongovernmental organizations.
 
-([Pub. L. 110–53, title XXI, § 2112][/us/pl/110/53/s2112], Aug. 3, 2007, [121 Stat. 531][/us/stat/121/531].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2112, Aug. 3, 2007, [121 Stat. 531][/us/stat/121/531].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2112
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F531
 
 

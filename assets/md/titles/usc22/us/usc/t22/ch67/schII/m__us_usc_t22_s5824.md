@@ -23,7 +23,7 @@
 
     (3) work with representatives from United States business and industry involved with the energy sector to help facilitate the identification of business opportunities, including the promotion of oil, gas, and clean coal technology and products, energy efficiency, and the formation of joint ventures between United States companies and companies of the independent nations.
 
-([Pub. L. 102–511, title III, § 304][/us/pl/102/511/s304], Oct. 24, 1992, [106 Stat. 3334][/us/stat/106/3334].)
+([Pub. L. 102–511, title III][/us/pl/102/511/tIII], § 304, Oct. 24, 1992, [106 Stat. 3334][/us/stat/106/3334].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs304
+[/us/pl/102/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIII
 [/us/stat/106/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3334
 
 

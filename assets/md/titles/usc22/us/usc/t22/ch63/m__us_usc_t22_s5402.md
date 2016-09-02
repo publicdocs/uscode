@@ -27,13 +27,13 @@
 
         For purposes of this chapter, the term “East European country” includes Albania, Bulgaria, the Czech and Slovak Federal Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, and states that were part of the former Socialist Federal Republic of Yugoslavia.
 
-([Pub. L. 101–179, § 3][/us/pl/101/179/s3], as added [Pub. L. 102–511, title IX, § 903(a)][/us/pl/102/511/s903/a], Oct. 24, 1992, [106 Stat. 3355][/us/stat/106/3355].)
+([Pub. L. 101–179][/us/pl/101/179], § 3, as added [Pub. L. 102–511, title IX][/us/pl/102/511/tIX], § 903(a), Oct. 24, 1992, [106 Stat. 3355][/us/stat/106/3355].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning [Pub. L. 101–179][/us/pl/101/179], Nov. 28, 1989, [103 Stat. 1298][/us/stat/103/1298], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title][/us/usc/t22/s5401] and Tables.
 
-    Sections 301 and 304, referred to in subsec. (a), are sections 301 and 304 of [Pub. L. 101–179, title III][/us/pl/101/179], Nov. 28, 1989, [103 Stat. 1311][/us/stat/103/1311], 1312. Section 301 amended [section 2462 of Title 19][/us/usc/t19/s2462], Customs Duties. Section 304 enacted [section 2185 of this title][/us/usc/t22/s2185], amended [section 2184 of this title][/us/usc/t22/s2184], and enacted provisions set out as a note under [section 2185 of this title][/us/usc/t22/s2185].
+    Sections 301 and 304, referred to in subsec. (a), are sections 301 and 304 of [Pub. L. 101–179, title III][/us/pl/101/179/tIII], Nov. 28, 1989, [103 Stat. 1311][/us/stat/103/1311], 1312. Section 301 amended [section 2462 of Title 19][/us/usc/t19/s2462], Customs Duties. Section 304 enacted [section 2185 of this title][/us/usc/t22/s2185], amended [section 2184 of this title][/us/usc/t22/s2184], and enacted provisions set out as a note under [section 2185 of this title][/us/usc/t22/s2185].
 
 ----------
 
@@ -44,13 +44,13 @@
 
 [/us/usc/t22/s5412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5412
 [/us/usc/t22/s2346c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346c
-[/us/pl/101/179/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs3
-[/us/pl/102/511/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs903%2Fa
+[/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
+[/us/pl/102/511/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIX
 [/us/stat/106/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3355
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
-[/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1311
 [/us/usc/t19/s2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2462
 [/us/usc/t22/s2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2185

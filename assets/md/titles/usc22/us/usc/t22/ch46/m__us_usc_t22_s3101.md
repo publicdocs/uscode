@@ -45,21 +45,21 @@
 
         Nothing in this chapter is intended to restrain or deter foreign investment in the United States, United States investment abroad, or trade in services.
 
-([Pub. L. 94–472, § 2][/us/pl/94/472/s2], Oct. 11, 1976, [90 Stat. 2059][/us/stat/90/2059]; [Pub. L. 98–573, title III, § 306(b)(2)][/us/pl/98/573/s306/b/2], Oct. 30, 1984, [98 Stat. 3009][/us/stat/98/3009]; [Pub. L. 101–533, § 6(A)][/us/pl/101/533/s6/A]\[(a)\], Nov. 7, 1990, [104 Stat. 2348][/us/stat/104/2348].)
+([Pub. L. 94–472][/us/pl/94/472], § 2, Oct. 11, 1976, [90 Stat. 2059][/us/stat/90/2059]; [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(b)(2), Oct. 30, 1984, [98 Stat. 3009][/us/stat/98/3009]; [Pub. L. 101–533][/us/pl/101/533], § 6(A)\[(a)\], Nov. 7, 1990, [104 Stat. 2348][/us/stat/104/2348].)
 
  __Amendments__ 
 
     1990—Subsec. (b). [Pub. L. 101–533][/us/pl/101/533] inserted “to authorize the collection and use of information on direct investments owned or controlled directly or indirectly by foreign governments or persons,” after “the impact of such investment and trade,” in first sentence.
 
-    1984—Subsec. (a)(7) to (9). [Pub. L. 98–573, § 306(b)(2)(A)][/us/pl/98/573/s306/b/2/A], added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
+    1984—Subsec. (a)(7) to (9). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(2)(A), added pars. (7) and (8), redesignated former par. (7) as (9), and inserted “and trade in services” after “international investment” in par. (9).
 
-    Subsec. (b). [Pub. L. 98–573, § 306(b)(2)(B)][/us/pl/98/573/s306/b/2/B], substituted “international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade,” for “international investment”, and “international investment and trade in services” for “international investment”.
+    Subsec. (b). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(2)(B), substituted “international investment and United States foreign trade in services, whether directly or by affiliates, including related information necessary for assessing the impact of such investment and trade,” for “international investment”, and “international investment and trade in services” for “international investment”.
 
-    Subsec. (c). [Pub. L. 98–573, § 306(b)(2)(C)][/us/pl/98/573/s306/b/2/C], inserted reference to trade in services.
+    Subsec. (c). [Pub. L. 98–573][/us/pl/98/573], § 306(b)(2)(C), inserted reference to trade in services.
 
  __Short Title__ 
 
-[Pub. L. 94–472, § 1][/us/pl/94/472/s1], Oct. 11, 1976, [90 Stat. 2059][/us/stat/90/2059], as amended by [Pub. L. 98–573, title III, § 306(b)(1)][/us/pl/98/573/s306/b/1], Oct. 30, 1984, [98 Stat. 3009][/us/stat/98/3009], provided that: 
+[Pub. L. 94–472][/us/pl/94/472], § 1, Oct. 11, 1976, [90 Stat. 2059][/us/stat/90/2059], as amended by [Pub. L. 98–573, title III][/us/pl/98/573/tIII], § 306(b)(1), Oct. 30, 1984, [98 Stat. 3009][/us/stat/98/3009], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘International Investment and Trade in Services Survey Act’.”
 
@@ -84,19 +84,19 @@ By virtue of the authority vested in me by the International Investment and Trad
 ----------
 ----------
 
-[/us/pl/94/472/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs2
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2059
-[/us/pl/98/573/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F2
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3009
-[/us/pl/101/533/s6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs6%2FA
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2348
 [/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
-[/us/pl/98/573/s306/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F2%2FA
-[/us/pl/98/573/s306/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F2%2FB
-[/us/pl/98/573/s306/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F2%2FC
-[/us/pl/94/472/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472%2Fs1
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
+[/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2059
-[/us/pl/98/573/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs306%2Fb%2F1
+[/us/pl/98/573/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtIII
 [/us/stat/98/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3009
 [/us/stat/90/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2059
 [/us/usc/t22/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3101

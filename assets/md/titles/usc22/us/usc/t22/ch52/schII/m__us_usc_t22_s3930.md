@@ -17,13 +17,13 @@
 
     The President shall establish a Board of the Foreign Service to advise the Secretary of State on matters relating to the Service, including furtherance of the objectives of maximum compatibility among agencies authorized by law to utilize the Foreign Service personnel system and compatibility between the Foreign Service personnel system and the other personnel systems of the Government. The Board of the Foreign Service shall be chaired by an individual appointed by the President and shall include one or more representatives of the Department of State, the Broadcasting Board of Governors, the Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of Labor, the Office of Personnel Management, the Office of Management and Budget, the Equal Employment Opportunity Commission, and such other agencies as the President may designate.
 
-([Pub. L. 96–465, title I, § 210][/us/pl/96/465/s210], Oct. 17, 1980, [94 Stat. 2082][/us/stat/94/2082]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 99–93, title I, § 153][/us/pl/99/93/s153], Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(k)(2), title XIV, § 1422(b)(4)(B), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 210, Oct. 17, 1980, [94 Stat. 2082][/us/stat/94/2082]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 153, Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(k)(2), title XIV, § 1422(b)(4)(B), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793.)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–277, § 1422(b)(4)(B)][/us/pl/105/277/s1422/b/4/B], substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 1422(b)(4)(B), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
-    [Pub. L. 105–277, § 1335(k)(2)][/us/pl/105/277/s1335/k/2], substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(k)(2), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
     1985—[Pub. L. 99–93][/us/pl/99/93] substituted “shall be chaired by an individual appointed by the President” for “shall be chaired by a career member of the Senior Foreign Service designated by the Secretary of State”.
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/pl/96/465/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs210
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2082
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/99/93/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs153
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F428
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
-[/us/pl/105/277/s1422/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F4%2FB
-[/us/pl/105/277/s1335/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461

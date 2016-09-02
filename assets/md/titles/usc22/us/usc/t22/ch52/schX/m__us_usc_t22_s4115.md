@@ -87,7 +87,7 @@
 
         Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under [section 4139(a)(2) of this title][/us/usc/t22/s4139/a/2], an employee has an option of using the grievance procedure under subchapter XI or an appeals procedure, issues which can be raised under [section 4114 of this title][/us/usc/t22/s4114] or subchapter XI may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under [section 4114 of this title][/us/usc/t22/s4114] or subchapter XI.
 
-([Pub. L. 96–465, title I, § 1015][/us/pl/96/465/s1015], Oct. 17, 1980, [94 Stat. 2137][/us/stat/94/2137]; [Pub. L. 102–138, title I, § 153(d)(2)][/us/pl/102/138/s153/d/2], Oct. 28, 1991, [105 Stat. 674][/us/stat/105/674].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1015, Oct. 17, 1980, [94 Stat. 2137][/us/stat/94/2137]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 153(d)(2), Oct. 28, 1991, [105 Stat. 674][/us/stat/105/674].)
 
  __Amendments__ 
 
@@ -95,7 +95,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–138, title I, § 153(f)][/us/pl/102/138/s153/f], Oct. 28, 1991, [105 Stat. 674][/us/stat/105/674], provided that: 
+[Pub. L. 102–138, title I][/us/pl/102/138/tI], § 153(f), Oct. 28, 1991, [105 Stat. 674][/us/stat/105/674], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[[22 U.S.C. 4131][/us/usc/t22/s4131]\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\].”
 
@@ -110,12 +110,12 @@
 [/us/usc/t22/s4139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4139%2Fa%2F2
 [/us/usc/t22/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4114
 [/us/usc/t22/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4114
-[/us/pl/96/465/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1015
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2137
-[/us/pl/102/138/s153/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fd%2F2
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F674
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
-[/us/pl/102/138/s153/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Ff
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F674
 [/us/usc/t22/s4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131
 

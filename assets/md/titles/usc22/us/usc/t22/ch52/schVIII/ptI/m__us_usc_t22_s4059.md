@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall invest from time to time in interest-bearing securities of the United States such portions of the Fund as in the judgment of the Secretary of the Treasury may not be immediately required for the payment of annuities, cash benefits, refunds, and allowances. The income derived from such investments shall constitute a part of the Fund.
 
-([Pub. L. 96–465, title I, § 819][/us/pl/96/465/s819], Oct. 17, 1980, [94 Stat. 2120][/us/stat/94/2120].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 819, Oct. 17, 1980, [94 Stat. 2120][/us/stat/94/2120].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs819
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2120
 
 

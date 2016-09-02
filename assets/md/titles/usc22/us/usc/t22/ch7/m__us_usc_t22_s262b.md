@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [act Oct. 22, 1951, ch. 533][/us/act/1951-10-22/ch533], title VI, [65 Stat. 599][/us/stat/65/599], popularly known as the Departments of State, Justice, Commerce and Judiciary Appropriation Act of 1952. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is [act Oct. 22, 1951, ch. 533, title VI][/us/act/1951-10-22/ch533/tVI], [65 Stat. 599][/us/stat/65/599], popularly known as the Departments of State, Justice, Commerce and Judiciary Appropriation Act of 1952. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Similar Provisions__ 
 
-    Provisions similar to this section were contained in [act July 10, 1952, ch. 651][/us/act/1952-07-10/ch651], title I, [66 Stat. 550][/us/stat/66/550].
+    Provisions similar to this section were contained in [act July 10, 1952, ch. 651, title I][/us/act/1952-07-10/ch651/tI], [66 Stat. 550][/us/stat/66/550].
 
 ----------
 
@@ -46,9 +46,9 @@
 [/us/stat/65/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F599
 [/us/act/1953-08-05/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-05%2Fch328
 [/us/stat/67/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F368
-[/us/act/1951-10-22/ch533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch533
+[/us/act/1951-10-22/ch533/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch533%2FtVI
 [/us/stat/65/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F599
-[/us/act/1952-07-10/ch651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch651
+[/us/act/1952-07-10/ch651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch651%2FtI
 [/us/stat/66/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F550
 
 

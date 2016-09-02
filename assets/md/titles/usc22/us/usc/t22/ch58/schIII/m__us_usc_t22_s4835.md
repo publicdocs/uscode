@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to create administrative or judicial review remedies or rights of action not otherwise available by law, nor shall any provision of this subchapter be construed to deprive any person of any right or legal defense which would otherwise be available to that person under any law, rule, or regulation.
 
-([Pub. L. 99–399, title III, § 305][/us/pl/99/399/s305], Aug. 27, 1986, [100 Stat. 862][/us/stat/100/862].)
+([Pub. L. 99–399, title III][/us/pl/99/399/tIII], § 305, Aug. 27, 1986, [100 Stat. 862][/us/stat/100/862].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/399/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs305
+[/us/pl/99/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIII
 [/us/stat/100/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F862
 
 

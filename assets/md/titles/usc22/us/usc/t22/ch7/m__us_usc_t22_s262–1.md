@@ -43,15 +43,15 @@
 
         (2) the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXV, § 2502, Oct. 21, 1998, [112 Stat. 2681–836][/us/stat/112/2681-836].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXV, § 2502, Oct. 21, 1998, [112 Stat. 2681–836][/us/stat/112/2681-836].)
 
  __Restriction Relating to United States Accession to the International Criminal Court__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 705\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460, formerly set out as a note under this section, was transferred and is classified to [section 7401 of this title][/us/usc/t22/s7401].
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 705\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460, formerly set out as a note under this section, was transferred and is classified to [section 7401 of this title][/us/usc/t22/s7401].
 
  __Prohibition on Extradition or Transfer of United States Citizens to the International Criminal Court__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 706\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461, formerly set out as a note under this section, was transferred and is classified to [section 7402 of this title][/us/usc/t22/s7402].
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 706\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–461, formerly set out as a note under this section, was transferred and is classified to [section 7402 of this title][/us/usc/t22/s7402].
 
 ----------
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-836
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7401
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7402
 

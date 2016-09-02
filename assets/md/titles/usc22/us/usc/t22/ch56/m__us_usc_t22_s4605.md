@@ -95,21 +95,21 @@
 
         While away from his home or regular place of business in the performance of duties for the Institute, a director shall be allowed travel expenses, including a per diem in lieu of subsistence, not to exceed the expenses allowed persons employed intermittently in Government service under section 5703(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5.
 
-([Pub. L. 98–525, title XVII, § 1706][/us/pl/98/525/s1706], Oct. 19, 1984, [98 Stat. 2654][/us/stat/98/2654]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(c)(1), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 110–315, title IX, § 921(b)(1)][/us/pl/110/315/s921/b/1], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1706, Oct. 19, 1984, [98 Stat. 2654][/us/stat/98/2654]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(c)(1), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 921(b)(1), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (j), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (j), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–315, § 921(b)(1)(A)][/us/pl/110/315/s921/b/1/A], substituted “(b)(4)” for “(b)(5)” wherever appearing.
+    2008—[Pub. L. 110–315][/us/pl/110/315], § 921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
 
-    Subsec. (e)(5). [Pub. L. 110–315, § 921(b)(1)(B)][/us/pl/110/315/s921/b/1/B], added par. (5).
+    Subsec. (e)(5). [Pub. L. 110–315][/us/pl/110/315], § 921(b)(1)(B), added par. (5).
 
-    1998—Subsec. (b)(3). [Pub. L. 105–277, § 1225(c)(1)][/us/pl/105/277/s1225/c/1], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
+    1998—Subsec. (b)(3). [Pub. L. 105–277][/us/pl/105/277], § 1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
 
-    Subsec. (b)(4), (5). [Pub. L. 105–277, § 1225(c)(1)(B)][/us/pl/105/277/s1225/c/1/B], (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
+    Subsec. (b)(4), (5). [Pub. L. 105–277][/us/pl/105/277], § 1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
 
  __Change of Name__ 
 
@@ -119,7 +119,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–315, title IX, § 921(b)(2)][/us/pl/110/315/s921/b/2], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456], provided that: 
+[Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 921(b)(2), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date.”
 
@@ -140,20 +140,20 @@
 
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/98/525/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1706
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2654
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-773
-[/us/pl/110/315/s921/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs921%2Fb%2F1
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
-[/us/pl/110/315/s921/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs921%2Fb%2F1%2FA
-[/us/pl/110/315/s921/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs921%2Fb%2F1%2FB
-[/us/pl/105/277/s1225/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fc%2F1
-[/us/pl/105/277/s1225/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fc%2F1%2FB
-[/us/pl/110/315/s921/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs921%2Fb%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201

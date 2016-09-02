@@ -105,7 +105,7 @@
 
         To the extent that it would assist in achieving the goals described in subsection (a) of this section, the Secretary of the Treasury shall pursue the goals in coordination with the Secretary of State, the Secretary of Labor, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, and the United States Trade Representative.
 
-([Pub. L. 95–118, title XV, § 1503][/us/pl/95/118/s1503], as added [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 610(a)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224; amended [Pub. L. 108–458, title VII, § 7703(a)][/us/pl/108/458/s7703/a], Dec. 17, 2004, [118 Stat. 3860][/us/stat/118/3860].)
+([Pub. L. 95–118, title XV][/us/pl/95/118/tXV], § 1503, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 610(a)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224; amended [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7703(a), Dec. 17, 2004, [118 Stat. 3860][/us/stat/118/3860].)
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@
 
  __Annual Report on Lending, Surveillance, or Technical Assistance Policies of the International Monetary Fund__ 
 
-[Pub. L. 114–113, div. K, title IX, § 9006][/us/pl/114/113/s9006], Dec. 18, 2015, [129 Stat. 2832][/us/stat/129/2832], provided that: 
+[Pub. L. 114–113, div. K, title IX][/us/pl/114/113/dK/tIX], § 9006, Dec. 18, 2015, [129 Stat. 2832][/us/stat/129/2832], provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
 
@@ -127,7 +127,7 @@
 
  __Additional Provisions Relating to International Monetary Fund__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–317, as amended by [Pub. L. 110–161, div. H, title I, § 1502(a)][/us/pl/110/161/s1502/a], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title V, § 504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–317, as amended by [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1502(a), Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
 
 >     “(a)  __Publication of IMF Operational Budgets__  __.—__ 
 
@@ -162,17 +162,17 @@
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/95/118/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1503
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/95/118/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXV
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/108/458/s7703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7703%2Fa
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3860
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/114/113/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9006
+[/us/pl/114/113/dK/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtIX
 [/us/stat/129/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2832
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/110/161/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1502%2Fa
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2250
 [/us/usc/t22/s262p–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%936
 [/us/usc/t22/s286c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c

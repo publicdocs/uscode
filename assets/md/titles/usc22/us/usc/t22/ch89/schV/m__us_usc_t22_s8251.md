@@ -57,7 +57,7 @@
 
             There is authorized to be appropriated $1,000,000 for each of fiscal years 2008, 2009, and 2010 to the Secretary for a grant to the International Center for Democratic Transition. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
-([Pub. L. 110–53, title XXI, § 2151][/us/pl/110/53/s2151], Aug. 3, 2007, [121 Stat. 535][/us/stat/121/535].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2151, Aug. 3, 2007, [121 Stat. 535][/us/stat/121/535].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2151
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F535
 
 

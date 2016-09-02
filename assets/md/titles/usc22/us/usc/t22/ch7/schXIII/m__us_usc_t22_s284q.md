@@ -19,7 +19,7 @@
 
     (b) For purposes of the United States contribution provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $225,000,000.
 
-([Pub. L. 86–565, § 19][/us/pl/86/565/s19], as added [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title I, (a)\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294.)
+([Pub. L. 86–565][/us/pl/86/565], § 19, as added [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title I, (a)\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294.)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Congressional Findings__ 
 
-Section 101 of title I of H.R. 2253, as enacted into permanent law by [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title I\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294, provided that: 
+Section 101 of title I of H.R. 2253, as enacted into permanent law by [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title I\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294, provided that: 
 
 > “The Congress hereby finds that—
 
@@ -54,12 +54,12 @@ Section 101 of title I of H.R. 2253, as enacted into permanent law by [Pub. L. 9
 ----------
 ----------
 
-[/us/pl/86/565/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs19
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
 [/us/pl/86/565/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs19
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
 
 

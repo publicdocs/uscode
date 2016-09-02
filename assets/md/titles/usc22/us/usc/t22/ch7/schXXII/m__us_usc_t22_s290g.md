@@ -17,11 +17,11 @@
 
     The President is hereby authorized to accept participation for the United States in the African Development Fund (hereinafter referred to as the “Fund”) provided for by the agreement establishing the Fund (hereinafter referred to as the “agreement”) deposited in the Archives of the United Nations.
 
-([Pub. L. 94–302, title II, § 202][/us/pl/94/302/s202], May 31, 1976, [90 Stat. 593][/us/stat/90/593].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 202, May 31, 1976, [90 Stat. 593][/us/stat/90/593].)
 
  __Short Title__ 
 
-[Pub. L. 94–302, title II, § 201][/us/pl/94/302/s201], May 31, 1976, [90 Stat. 593][/us/stat/90/593], provided that: 
+[Pub. L. 94–302, title II][/us/pl/94/302/tII], § 201, May 31, 1976, [90 Stat. 593][/us/stat/90/593], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘African Development Fund Act’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/94/302/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs202
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F593
-[/us/pl/94/302/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs201
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F593
 
 

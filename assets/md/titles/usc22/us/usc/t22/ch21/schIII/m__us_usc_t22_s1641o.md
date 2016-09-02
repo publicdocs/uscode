@@ -27,7 +27,7 @@
 
         The Commission shall complete its affairs in connection with the settlement of claims pursuant to paragraph (5) of [section 1641b of this title][/us/usc/t22/s1641b] not later than two years following the deadline established under subsection (c) of [section 1641e of this title][/us/usc/t22/s1641e].
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 316, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 574][/us/stat/69/574]; amended [Pub. L. 90–421, § 1(14)][/us/pl/90/421/s1/14], July 24, 1968, [82 Stat. 423][/us/stat/82/423]; [Pub. L. 93–460, § 1(6)][/us/pl/93/460/s1/6], Oct. 20, 1974, [88 Stat. 1387][/us/stat/88/1387].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 316, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 574][/us/stat/69/574]; amended [Pub. L. 90–421][/us/pl/90/421], § 1(14), July 24, 1968, [82 Stat. 423][/us/stat/82/423]; [Pub. L. 93–460][/us/pl/93/460], § 1(6), Oct. 20, 1974, [88 Stat. 1387][/us/stat/88/1387].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 [/us/usc/t22/s1641b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641b
 [/us/usc/t22/s1641e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641e
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F574
-[/us/pl/90/421/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F14
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F423
-[/us/pl/93/460/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460%2Fs1%2F6
+[/us/pl/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460
 [/us/stat/88/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1387
 [/us/pl/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460
 [/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421

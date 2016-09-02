@@ -23,11 +23,11 @@
 
         For the purposes of this Act, including any amendment made by this Act, the Executive Director of the Canal Zone Civilian Personnel Policy Coordinating Board, the Manager, Central Examining Office, and their staffs shall be considered to have been employees of the Panama Canal Company with respect to service in those positions before October 1, 1979, and as employees of the Commission with respect to service in those positions on or after that date.
 
-([Pub. L. 96–70, title I, § 1261(a)][/us/pl/96/70/s1261/a], (b), Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1261(a), (b), Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476].)
 
  __References in Text__ 
 
-    [Section 3646 of this title][/us/usc/t22/s3646], referred to in subsec. (a), was repealed by [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
+    [Section 3646 of this title][/us/usc/t22/s3646], referred to in subsec. (a), was repealed by [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
 
     Section 1231 of this Act, referred to in subsec. (a), amended sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees.
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–70, title I, § 1261(c)][/us/pl/96/70/s1261/c], Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476], provided that: 
+[Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1261(c), Sept. 27, 1979, [93 Stat. 476][/us/stat/93/476], provided that: 
 
 > “The provisions of this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 27, 1979\].”
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1261%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F476
 [/us/usc/t22/s3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3646
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/usc/t5/s8336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8336
 [/us/usc/t5/s8339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/pl/96/70/s1261/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1261%2Fc
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F476
 
 

@@ -27,13 +27,13 @@
 
         As used in this section, the term “economic assistance” means assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] and following; relating to development assistance) and assistance under chapter 4 of part II of that Act ([22 U.S.C. 2346][/us/usc/t22/s2346] and following; relating to the economic support fund).
 
-([Pub. L. 101–624, title XV, § 1544][/us/pl/101/624/s1544], Nov. 28, 1990, [104 Stat. 3695][/us/stat/104/3695].)
+([Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1544, Nov. 28, 1990, [104 Stat. 3695][/us/stat/104/3695].)
 
  __References in Text__ 
 
     The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990, referred to in subsec. (b), is [Pub. L. 101–167][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1195][/us/stat/103/1195]. Sections 510, 521, 546, and 547 of that Act are not classified to the Code.
 
-    The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of this chapter. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title][/us/usc/t22/s2293], see [section 2293(d)(1) of this title][/us/usc/t22/s2293/d/1]. Subsec. (i) of section 481 of the Act was redesignated (e) by [Pub. L. 102–583, § 6(b)(3)][/us/pl/102/583/s6/b/3], Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
+    The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of this chapter. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title][/us/usc/t22/s2293], see [section 2293(d)(1) of this title][/us/usc/t22/s2293/d/1]. Subsec. (i) of section 481 of the Act was redesignated (e) by [Pub. L. 102–583][/us/pl/102/583], § 6(b)(3), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t22/s2291/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi%2F2
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/101/624/s1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1544
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3695
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
 [/us/stat/103/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1195
@@ -57,7 +57,7 @@
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
-[/us/pl/102/583/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F3
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

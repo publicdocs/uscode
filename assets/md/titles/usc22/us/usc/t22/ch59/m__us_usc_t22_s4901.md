@@ -35,27 +35,27 @@
 
         In carrying out this section, the Secretary of State shall actively recruit women and members of minority groups.
 
-([Pub. L. 99–399, title X, § 1002][/us/pl/99/399/s1002], Aug. 27, 1986, [100 Stat. 893][/us/stat/100/893]; [Pub. L. 101–454, § 9(b)][/us/pl/101/454/s9/b], Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065]; [Pub. L. 103–199, title III, § 303][/us/pl/103/199/s303], Dec. 17, 1993, [107 Stat. 2323][/us/stat/107/2323].)
+([Pub. L. 99–399, title X][/us/pl/99/399/tX], § 1002, Aug. 27, 1986, [100 Stat. 893][/us/stat/100/893]; [Pub. L. 101–454][/us/pl/101/454], § 9(b), Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065]; [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 303, Dec. 17, 1993, [107 Stat. 2323][/us/stat/107/2323].)
 
  __Amendments__ 
 
     1993—[Pub. L. 103–199][/us/pl/103/199] substituted “abroad” for “in the Soviet Union and Eastern Europe” in section catchline.
 
-    1990—Subsec. (a). [Pub. L. 101–454, § 9(b)(1)][/us/pl/101/454/s9/b/1], substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
+    1990—Subsec. (a). [Pub. L. 101–454][/us/pl/101/454], § 9(b)(1), substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
 
-    Subsec. (c). [Pub. L. 101–454, § 9(b)(2)][/us/pl/101/454/s9/b/2], substituted “abroad” for “in the Soviet Union or an Eastern European country” and “that country’s” for “Soviet or Eastern European”.
+    Subsec. (c). [Pub. L. 101–454][/us/pl/101/454], § 9(b)(2), substituted “abroad” for “in the Soviet Union or an Eastern European country” and “that country’s” for “Soviet or Eastern European”.
 
-    Subsec. (d). [Pub. L. 101–454, § 9(b)(3)][/us/pl/101/454/s9/b/3], substituted “international affairs, foreign languages, or career and professional experience or interest in international affairs,” for “Soviet or Eastern European area studies or languages”.
+    Subsec. (d). [Pub. L. 101–454][/us/pl/101/454], § 9(b)(3), substituted “international affairs, foreign languages, or career and professional experience or interest in international affairs,” for “Soviet or Eastern European area studies or languages”.
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–454, § 9(a)][/us/pl/101/454/s9/a], Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065], provided that: 
+[Pub. L. 101–454][/us/pl/101/454], § 9(a), Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065], provided that: 
 
 > “This section \[amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under [section 4902 of this title][/us/usc/t22/s4902]\] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 99–399, title X, § 1001][/us/pl/99/399/s1001], Aug. 27, 1986, [100 Stat. 893][/us/stat/100/893], provided that: 
+[Pub. L. 99–399, title X][/us/pl/99/399/tX], § 1001, Aug. 27, 1986, [100 Stat. 893][/us/stat/100/893], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Fascell Fellowship Act’.”
 
@@ -66,20 +66,20 @@
 ----------
 ----------
 
-[/us/pl/99/399/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1002
+[/us/pl/99/399/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtX
 [/us/stat/100/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F893
-[/us/pl/101/454/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs9%2Fb
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1065
-[/us/pl/103/199/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs303
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2323
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
-[/us/pl/101/454/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs9%2Fb%2F1
-[/us/pl/101/454/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs9%2Fb%2F2
-[/us/pl/101/454/s9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs9%2Fb%2F3
-[/us/pl/101/454/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs9%2Fa
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1065
 [/us/usc/t22/s4902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4902
-[/us/pl/99/399/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1001
+[/us/pl/99/399/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtX
 [/us/stat/100/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F893
 
 

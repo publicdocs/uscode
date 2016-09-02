@@ -39,7 +39,7 @@
 
         (2) as superseding, amending, or otherwise altering certifications that have been made under title V of the International Claims Settlement Act of 1949 \[[22 U.S.C. 1643][/us/usc/t22/s1643] et seq.\] before March 12, 1996.
 
-([Pub. L. 104–114, title III, § 303][/us/pl/104/114/s303], Mar. 12, 1996, [110 Stat. 819][/us/stat/110/819].)
+([Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 303, Mar. 12, 1996, [110 Stat. 819][/us/stat/110/819].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
-[/us/pl/104/114/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs303
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F819
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F12

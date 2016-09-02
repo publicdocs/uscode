@@ -11,36 +11,24 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_ch14_schX.md) | [Next](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1199.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1196)
+[Previous](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1171...1195.md) | [Next](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1197 _us_usc_t22_s1198.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1196)
 
 ## § 1196. Repealed. [June 28, 1955, ch. 196][/us/act/1955-06-28/ch196], [69 Stat. 187][/us/stat/69/187]
 
-    Section, acts [Apr. 5, 1906, ch. 1366, § 10][/us/act/1906-04-05/ch1366/s10], [34 Stat. 102][/us/stat/34/102]; [May 24, 1924, ch. 182, § 11][/us/act/1924-05-24/ch182/s11], [43 Stat. 142][/us/stat/43/142], required consular officers to affix official fee stamps to documents in the performance of any consular or notarial act.
-
-§§ 1197, 1198. __Transferred__ 
-
- __Codification__ 
-
-    Section 1197, R.S. § 1731, which related to posting rates of fees, was transferred to [section 4216 of this title][/us/usc/t22/s4216].
-
-    Section 1198, R.S. § 1734; [Dec. 21, 1898, ch. 36, § 3][/us/act/1898-12-21/ch36/s3], [30 Stat. 771][/us/stat/30/771], which related to embezzlement of fees or of effects of American citizens, was transferred to [section 4217 of this title][/us/usc/t22/s4217].
+    Section, acts [Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 10, [34 Stat. 102][/us/stat/34/102]; [May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], § 11, [43 Stat. 142][/us/stat/43/142], required consular officers to affix official fee stamps to documents in the performance of any consular or notarial act.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_ch14_schX.md) | [Next](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1199.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1196)
+[Previous](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1171...1195.md) | [Next](./../../../../..//us/usc/t22/ch14/schX/m__us_usc_t22_s1197 _us_usc_t22_s1198.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1196)
 
 ----------
 ----------
 
 [/us/act/1955-06-28/ch196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch196
 [/us/stat/69/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F187
-[/us/act/1906-04-05/ch1366/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs10
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F102
-[/us/act/1924-05-24/ch182/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs11
+[/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
 [/us/stat/43/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F142
-[/us/usc/t22/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4216
-[/us/act/1898-12-21/ch36/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-12-21%2Fch36%2Fs3
-[/us/stat/30/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F771
-[/us/usc/t22/s4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4217
 
 

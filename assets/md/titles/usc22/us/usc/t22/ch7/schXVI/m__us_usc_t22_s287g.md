@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated to the President, without fiscal-year limitation, out of any money in the Treasury not otherwise appropriated, $100,000,000 for a loan to the United Nations. The proceeds of such loan shall not be used to relieve members of the United Nations of their obligation to pay arrearages on payments of any United Nations assessments, and shall not be used to reduce regular or special assessments against any such members.
 
-([Pub. L. 87–731, § 1][/us/pl/87/731/s1], Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695].)
+([Pub. L. 87–731][/us/pl/87/731], § 1, Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/731/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731%2Fs1
+[/us/pl/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731
 [/us/stat/76/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F695
 [/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619

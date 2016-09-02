@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, no act of any Federal agency shall be effective to confer or deny any benefit with respect to any foreign mission contrary to this chapter. Nothing in section 4302, 4303, 4304, or 4305 of this title may be construed to preempt any State or municipal law or governmental authority regarding zoning, land use, health, safety, or welfare, except that a denial by the Secretary involving a benefit for a foreign mission within the jurisdiction of a particular State or local government shall be controlling.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 207, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 288][/us/stat/96/288].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 207, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 288][/us/stat/96/288].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F288
 
 

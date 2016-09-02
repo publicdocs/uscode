@@ -67,13 +67,13 @@
 
         (B) a mandatory decision of the United Nations Security Council.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 902\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–67; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(X), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821; [Pub. L. 113–79, title I, § 1423(b)][/us/pl/113/79/s1423/b], Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 902\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–67; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(X), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1423(b), Feb. 7, 2014, [128 Stat. 695][/us/stat/128/695].)
 
  __References in Text__ 
 
     The Food for Peace Act, referred to in par. (2)(A), is [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], [68 Stat. 454][/us/stat/68/454], which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7][/us/usc/t7/s1691] and Tables.
 
-    The Agricultural Trade Act of 1978, referred to in par. (2)(C), is [Pub. L. 95–501][/us/pl/95/501], Oct. 21, 1978, [92 Stat. 1685][/us/stat/92/1685], as amended generally by [Pub. L. 101–624, title XV, § 1531][/us/pl/101/624/s1531], Nov. 28, 1990, [104 Stat. 3668][/us/stat/104/3668], which is classified generally to chapter 87 (§ 5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 7][/us/usc/t7/s5601] and Tables.
+    The Agricultural Trade Act of 1978, referred to in par. (2)(C), is [Pub. L. 95–501][/us/pl/95/501], Oct. 21, 1978, [92 Stat. 1685][/us/stat/92/1685], as amended generally by [Pub. L. 101–624, title XV][/us/pl/101/624/tXV], § 1531, Nov. 28, 1990, [104 Stat. 3668][/us/stat/104/3668], which is classified generally to chapter 87 (§ 5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 7][/us/usc/t7/s5601] and Tables.
 
     Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) \[title IX, § 903(a)(1)\] of [Pub. L. 106–387][/us/pl/106/387], which is classified to [section 7202(a)(1) of this title][/us/usc/t22/s7202/a/1].
 
@@ -91,7 +91,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 911\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–72, provided that:
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 911\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–72, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -103,13 +103,13 @@
 
  __Short Title__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 901\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–67, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 901\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–67, provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
 
  __Definitions__ 
 
-[Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 775\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45, provided that: 
+[Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title VII, § 775\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–45, provided that: 
 
 > “For purposes of administering title IX of this Act \[enacting this chapter\], the term ‘agricultural commodity’ shall also include fertilizer and organic fertilizer, except to the extent provided pursuant to section 904 of that title \[[22 U.S.C. 7203][/us/usc/t22/s7203]\].”
 
@@ -128,18 +128,18 @@
 [/us/usc/t22/s7202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202%2Fa%2F1
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
-[/us/pl/113/79/s1423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1423%2Fb
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F695
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/pl/95/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F501
 [/us/stat/92/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1685
-[/us/pl/101/624/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1531
+[/us/pl/101/624/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXV
 [/us/stat/104/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3668
 [/us/usc/t7/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5601
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
@@ -153,11 +153,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/usc/t22/s7203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7203
 

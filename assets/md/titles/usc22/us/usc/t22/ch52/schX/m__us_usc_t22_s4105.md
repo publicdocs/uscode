@@ -43,7 +43,7 @@
 
         (3) appropriate arrangements for employees adversely affected by the exercise of any function under this section by such management officials.
 
-([Pub. L. 96–465, title I, § 1005][/us/pl/96/465/s1005], Oct. 17, 1980, [94 Stat. 2131][/us/stat/94/2131]; [Pub. L. 103–236, title I, § 181(b)][/us/pl/103/236/s181/b], Apr. 30, 1994, [108 Stat. 417][/us/stat/108/417]; [Pub. L. 103–415, § 1(jj)(2)][/us/pl/103/415/s1/jj/2], Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1005, Oct. 17, 1980, [94 Stat. 2131][/us/stat/94/2131]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 181(b), Apr. 30, 1994, [108 Stat. 417][/us/stat/108/417]; [Pub. L. 103–415][/us/pl/103/415], § 1(jj)(2), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 
 [/us/usc/t22/s4005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4005%2Fb
 [/us/usc/t22/s4010a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010a
-[/us/pl/96/465/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1005
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2131
-[/us/pl/103/236/s181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fb
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F417
-[/us/pl/103/415/s1/jj/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fjj%2F2
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415

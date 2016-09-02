@@ -21,7 +21,7 @@
 
     (2) fails to take appropriate measures to prevent any such person from committing any such act outside the territory of such country.
 
-([Pub. L. 95–435, § 6][/us/pl/95/435/s6], Oct. 10, 1978, [92 Stat. 1053][/us/stat/92/1053].)
+([Pub. L. 95–435][/us/pl/95/435], § 6, Oct. 10, 1978, [92 Stat. 1053][/us/stat/92/1053].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/435/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435%2Fs6
+[/us/pl/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435
 [/us/stat/92/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1053
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512

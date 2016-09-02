@@ -39,7 +39,7 @@
 
         Activities that may be supported by assistance under subsection (b) include activities that are designed to advance progress toward the development of democracy.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499D, as added [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–125.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499D, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–125.)
 
  __Delegation of Functions__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t22/s2151n/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fe
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2665a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2666 _us_usc_t22_s2667.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
 
 ## § 2668. Requisitions for advances to pay lawful obligations
 
@@ -37,11 +37,11 @@
 
         Subsection (b) of this section does not affect the financial liability of a disbursing official or agent.
 
-([Apr. 25, 1940, ch. 154][/us/act/1940-04-25/ch154], [54 Stat. 163][/us/stat/54/163]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; [Pub. L. 97–258, § 2(e)][/us/pl/97/258/s2/e], Sept. 13, 1982, [96 Stat. 1059][/us/stat/96/1059]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Apr. 25, 1940, ch. 154][/us/act/1940-04-25/ch154], [54 Stat. 163][/us/stat/54/163]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; [Pub. L. 97–258][/us/pl/97/258], § 2(e), Sept. 13, 1982, [96 Stat. 1059][/us/stat/96/1059]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 170 of Title 5][/us/usc/t5/s170] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170 of Title 5][/us/usc/t5/s170] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2665a.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
+[Previous](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2666 _us_usc_t22_s2667.md) | [Next](./../../../..//us/usc/t22/ch38/m__us_usc_t22_s2668a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668)
 
 ----------
 ----------
@@ -63,12 +63,12 @@
 [/us/act/1940-04-25/ch154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-25%2Fch154
 [/us/stat/54/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F163
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
-[/us/pl/97/258/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fe
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1059
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

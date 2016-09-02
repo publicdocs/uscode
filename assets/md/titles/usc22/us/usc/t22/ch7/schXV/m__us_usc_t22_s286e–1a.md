@@ -17,7 +17,7 @@
 
     The United States Governor of the Bank is authorized to vote for an increase of $1,000,000,000 in the authorized capital stock of the Bank under article II, section 2, of the articles of agreement of the Bank, as recommended in the report, dated November 6, 1962, to the Board of Governors of the Bank by the Bank’s Executive Directors.
 
-([July 31, 1945, ch. 339, § 19][/us/act/1945-07-31/ch339/s19], as added [Pub. L. 88–178][/us/pl/88/178], Nov. 13, 1963, [77 Stat. 334][/us/stat/77/334].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 19, as added [Pub. L. 88–178][/us/pl/88/178], Nov. 13, 1963, [77 Stat. 334][/us/stat/77/334].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs19
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/pl/88/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F178
 [/us/stat/77/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F334
 

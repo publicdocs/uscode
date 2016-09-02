@@ -19,7 +19,7 @@
 
     (b) Nothing in this subchapter shall be construed as diminishing the authority of the head of any agency authorized by law to utilize the Foreign Service personnel system.
 
-([Pub. L. 96–465, title I, § 203][/us/pl/96/465/s203], Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 203, Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs203
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2079
 
 

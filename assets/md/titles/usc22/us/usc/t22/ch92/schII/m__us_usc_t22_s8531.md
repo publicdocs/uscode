@@ -55,7 +55,7 @@
 
         (D) any public institution of higher education within the meaning of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.).
 
-([Pub. L. 111–195, title II, § 201][/us/pl/111/195/s201], July 1, 2010, [124 Stat. 1341][/us/stat/124/1341].)
+([Pub. L. 111–195, title II][/us/pl/111/195/tII], § 201, July 1, 2010, [124 Stat. 1341][/us/stat/124/1341].)
 
  __Termination of Section__ 
 
@@ -63,7 +63,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this title”, meaning [Pub. L. 111–195, title II][/us/pl/111/195], July 1, 2010, [124 Stat. 1341][/us/stat/124/1341], which enacted this subchapter, amended [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, enacted provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13], and amended provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense. For complete classification of title II to the Code, see Tables.
+    This subchapter, referred to in text, was in the original “this title”, meaning [Pub. L. 111–195, title II][/us/pl/111/195/tII], July 1, 2010, [124 Stat. 1341][/us/stat/124/1341], which enacted this subchapter, amended [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, enacted provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13], and amended provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense. For complete classification of title II to the Code, see Tables.
 
     The Higher Education Act of 1965, referred to in par. (6)(D), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
@@ -78,10 +78,10 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s262r/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/111/195/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs201
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1341
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
-[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1341
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313

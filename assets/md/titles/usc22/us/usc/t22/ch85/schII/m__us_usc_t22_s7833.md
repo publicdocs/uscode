@@ -37,7 +37,7 @@
 
             Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-([Pub. L. 108–333, title II, § 203][/us/pl/108/333/s203], Oct. 18, 2004, [118 Stat. 1294][/us/stat/118/1294]; [Pub. L. 110–346, § 10][/us/pl/110/346/s10], Oct. 7, 2008, [122 Stat. 3942][/us/stat/122/3942]; [Pub. L. 112–172, § 9][/us/pl/112/172/s9], Aug. 16, 2012, [126 Stat. 1309][/us/stat/126/1309]; [Pub. L. 113–4, title XII, § 1212(b)(2)(B)][/us/pl/113/4/s1212/b/2/B], Mar. 7, 2013, [127 Stat. 144][/us/stat/127/144].)
+([Pub. L. 108–333, title II][/us/pl/108/333/tII], § 203, Oct. 18, 2004, [118 Stat. 1294][/us/stat/118/1294]; [Pub. L. 110–346][/us/pl/110/346], § 10, Oct. 7, 2008, [122 Stat. 3942][/us/stat/122/3942]; [Pub. L. 112–172][/us/pl/112/172], § 9, Aug. 16, 2012, [126 Stat. 1309][/us/stat/126/1309]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1212(b)(2)(B), Mar. 7, 2013, [127 Stat. 144][/us/stat/127/144].)
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 ----------
 
 [/us/usc/t22/s7102/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F15
-[/us/pl/108/333/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs203
+[/us/pl/108/333/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtII
 [/us/stat/118/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1294
-[/us/pl/110/346/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs10
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3942
-[/us/pl/112/172/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172%2Fs9
+[/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/stat/126/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1309
-[/us/pl/113/4/s1212/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F2%2FB
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F144
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172

@@ -23,7 +23,7 @@
 
         The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Corporation during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
 
-([Aug. 11, 1955, ch. 788, § 13][/us/act/1955-08-11/ch788/s13], as added [Pub. L. 101–513, title V, § 562(e)(1)(A)][/us/pl/101/513/s562/e/1/A], Nov. 5, 1990, [104 Stat. 2037][/us/stat/104/2037].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 13, as added [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(e)(1)(A), Nov. 5, 1990, [104 Stat. 2037][/us/stat/104/2037].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/usc/t15/s78c/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F12
-[/us/act/1955-08-11/ch788/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs13
-[/us/pl/101/513/s562/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fe%2F1%2FA
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2037
 
 

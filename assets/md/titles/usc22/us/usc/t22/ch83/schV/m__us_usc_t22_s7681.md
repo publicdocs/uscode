@@ -33,7 +33,7 @@
 
         In this section, the term “Enhanced HIPC Initiative” means the multilateral debt initiative for heavily indebted poor countries presented in the Report of G–7 Finance Ministers on the Cologne Debt Initiative to the Cologne Economic Summit, Cologne, June 18–20, 1999.
 
-([Pub. L. 108–25, title V, § 502][/us/pl/108/25/s502], May 27, 2003, [117 Stat. 749][/us/stat/117/749].)
+([Pub. L. 108–25, title V][/us/pl/108/25/tV], § 502, May 27, 2003, [117 Stat. 749][/us/stat/117/749].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s262p–8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%938%2Fe
-[/us/pl/108/25/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs502
+[/us/pl/108/25/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtV
 [/us/stat/117/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F749
 
 

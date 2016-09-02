@@ -17,7 +17,7 @@
 
     The President is authorized to transfer to Egypt, on such terms and conditions as he may determine, such of the facilities and related property of the United States Sinai Field Mission as he may determine, upon the termination of the activities of the Sinai Field Mission in accordance with the terms of the peace treaty between Egypt and Israel.
 
-([Pub. L. 96–35, § 6][/us/pl/96/35/s6], July 20, 1979, [93 Stat. 91][/us/stat/93/91].)
+([Pub. L. 96–35][/us/pl/96/35], § 6, July 20, 1979, [93 Stat. 91][/us/stat/93/91].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/35/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs6
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F91
 
 

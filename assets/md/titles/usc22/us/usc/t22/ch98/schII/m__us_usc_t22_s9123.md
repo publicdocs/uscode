@@ -17,7 +17,7 @@
 
     As soon as practicable after the Secretary of State makes a determination under [section 9121 of this title][/us/usc/t22/s9121] in response to a failure to resolve unresolved abduction cases or the Secretary takes an action under subsection (d) or (e) of [section 9122 of this title][/us/usc/t22/s9122], based on a pattern of noncompliance, the Secretary shall request consultations with the government of such country regarding the situation giving rise to such determination.
 
-([Pub. L. 113–150, title II, § 203][/us/pl/113/150/s203], Aug. 8, 2014, [128 Stat. 1820][/us/stat/128/1820].)
+([Pub. L. 113–150, title II][/us/pl/113/150/tII], § 203, Aug. 8, 2014, [128 Stat. 1820][/us/stat/128/1820].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s9121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9121
 [/us/usc/t22/s9122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122
-[/us/pl/113/150/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs203
+[/us/pl/113/150/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtII
 [/us/stat/128/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1820
 
 

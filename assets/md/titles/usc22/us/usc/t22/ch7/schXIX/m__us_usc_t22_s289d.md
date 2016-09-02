@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 1, 1947, ch. 185, § 5][/us/act/1947-07-01/ch185/s5], [61 Stat. 216][/us/stat/61/216], authorized appropriations in the form of advance contributions to the Preparatory Commission of the Organization during the interim period between July 1, 1947 and the coming into force of the constitution of the Organization.
+    Section, [act July 1, 1947, ch. 185][/us/act/1947-07-01/ch185], § 5, [61 Stat. 216][/us/stat/61/216], authorized appropriations in the form of advance contributions to the Preparatory Commission of the Organization during the interim period between July 1, 1947 and the coming into force of the constitution of the Organization.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1947-07-01/ch185/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-01%2Fch185%2Fs5
+[/us/act/1947-07-01/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-01%2Fch185
 [/us/stat/61/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F216
 
 

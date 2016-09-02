@@ -17,7 +17,7 @@
 
     The provisions of [section 286b of this title][/us/usc/t22/s286b] shall apply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
-([Pub. L. 86–147, § 4][/us/pl/86/147/s4], Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299]; [Pub. L. 101–240, title V, § 541(e)(2)][/us/pl/101/240/s541/e/2], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([Pub. L. 86–147][/us/pl/86/147], § 4, Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299]; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(e)(2), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b
-[/us/pl/86/147/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs4
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F299
-[/us/pl/101/240/s541/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fe%2F2
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b

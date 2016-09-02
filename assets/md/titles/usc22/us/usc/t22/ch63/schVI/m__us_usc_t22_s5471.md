@@ -29,7 +29,7 @@
 
         As additional information becomes available, the President shall provide to the Congress revised assessments of Poland’s requirements for agricultural assistance during fiscal years 1991 and 1992, specifying how much agricultural assistance the President proposes be provided by the United States to meet those requirements.
 
-([Pub. L. 101–179, title VII, § 701][/us/pl/101/179/s701], Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
+([Pub. L. 101–179, title VII][/us/pl/101/179/tVII], § 701, Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
 
  __Delegation of Functions__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs701
+[/us/pl/101/179/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVII
 [/us/stat/103/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1320
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 

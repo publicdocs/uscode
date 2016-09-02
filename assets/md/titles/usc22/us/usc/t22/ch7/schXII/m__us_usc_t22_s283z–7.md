@@ -25,7 +25,7 @@
 
     (4) before the end of the 12-month period beginning on December 19, 1989, report to the Congress on the matters described in paragraph (3).
 
-([Pub. L. 86–147, § 35][/us/pl/86/147/s35], as added [Pub. L. 101–240, title II, § 203][/us/pl/101/240/s203], Dec. 19, 1989, [103 Stat. 2498][/us/stat/103/2498].)
+([Pub. L. 86–147][/us/pl/86/147], § 35, as added [Pub. L. 101–240, title II][/us/pl/101/240/tII], § 203, Dec. 19, 1989, [103 Stat. 2498][/us/stat/103/2498].)
 
 ----------
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t22/s283z–5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs283z%E2%80%935%2Fa%2F2
-[/us/pl/86/147/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs35
-[/us/pl/101/240/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs203
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/101/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtII
 [/us/stat/103/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2498
 
 

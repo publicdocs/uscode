@@ -65,7 +65,7 @@
 
         (2) Of the aggregate amount authorized to be appropriated to carry out subchapter I of this chapter, up to $50,000,000 for fiscal year 1986 and up to $50,000,000 for fiscal year 1987 may be made available, by appropriation or by transfer, for United States contributions to the second replenishment of the International Fund for Agricultural Development.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 103, as added [Pub. L. 93–189, § 2(3)][/us/pl/93/189/s2/3], Dec. 17, 1973, [87 Stat. 715][/us/stat/87/715]; amended [Pub. L. 93–559, § 2][/us/pl/93/559/s2], Dec. 30, 1974, [88 Stat. 1795][/us/stat/88/1795]; [Pub. L. 94–161, title III, § 302][/us/pl/94/161/s302], Dec. 20, 1975, [89 Stat. 856][/us/stat/89/856]; [Pub. L. 95–88, title I, § 102][/us/pl/95/88/s102], Aug. 3, 1977, [91 Stat. 534][/us/stat/91/534]; [Pub. L. 95–424, title I, § 103(a)][/us/pl/95/424/s103/a], Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943]; [Pub. L. 96–53, title I, § 101][/us/pl/96/53/s101], Aug. 14, 1979, [93 Stat. 359][/us/stat/93/359]; [Pub. L. 96–533, title III, § 301][/us/pl/96/533/s301], Dec. 16, 1980, [94 Stat. 3145][/us/stat/94/3145]; [Pub. L. 97–113, title III, § 301(a)][/us/pl/97/113/s301/a], (c), Dec. 29, 1981, [95 Stat. 1531][/us/stat/95/1531], 1532; [Pub. L. 99–83, title III, § 302][/us/pl/99/83/s302], title X, § 1001, Aug. 8, 1985, [99 Stat. 214][/us/stat/99/214], 270; [Pub. L. 99–399, title XIII, § 1304][/us/pl/99/399/s1304], Aug. 27, 1986, [100 Stat. 898][/us/stat/100/898]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 103, as added [Pub. L. 93–189][/us/pl/93/189], § 2(3), Dec. 17, 1973, [87 Stat. 715][/us/stat/87/715]; amended [Pub. L. 93–559][/us/pl/93/559], § 2, Dec. 30, 1974, [88 Stat. 1795][/us/stat/88/1795]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 302, Dec. 20, 1975, [89 Stat. 856][/us/stat/89/856]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 102, Aug. 3, 1977, [91 Stat. 534][/us/stat/91/534]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 103(a), Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 101, Aug. 14, 1979, [93 Stat. 359][/us/stat/93/359]; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 301, Dec. 16, 1980, [94 Stat. 3145][/us/stat/94/3145]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 301(a), (c), Dec. 29, 1981, [95 Stat. 1531][/us/stat/95/1531], 1532; [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 302, title X, § 1001, Aug. 8, 1985, [99 Stat. 214][/us/stat/99/214], 270; [Pub. L. 99–399, title XIII][/us/pl/99/399/tXIII], § 1304, Aug. 27, 1986, [100 Stat. 898][/us/stat/100/898]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -85,35 +85,35 @@
 
     1986—Subsec. (a)(3). [Pub. L. 99–399][/us/pl/99/399] added par. (3).
 
-    1985—Subsec. (a)(2). [Pub. L. 99–83, § 302][/us/pl/99/83/s302], substituted “$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980.” for “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980.”
+    1985—Subsec. (a)(2). [Pub. L. 99–83][/us/pl/99/83], § 302, substituted “$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980.” for “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980.”
 
-    Subsec. (g). [Pub. L. 99–83, § 1001][/us/pl/99/83/s1001], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In order to carry out the purposes of this section, the President may continue to participate in and may provide, on such terms and conditions as he may determine, up to $180,000,000 to the International Fund for Agricultural Development. There are authorized to be appropriated to the President for the purposes of this subsection $180,000,000, except that not more than $40,500,000 may be appropriated under this subsection for the fiscal year 1982. Amounts appropriated under this subsection are authorized to remain available until expended.”
+    Subsec. (g). [Pub. L. 99–83][/us/pl/99/83], § 1001, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In order to carry out the purposes of this section, the President may continue to participate in and may provide, on such terms and conditions as he may determine, up to $180,000,000 to the International Fund for Agricultural Development. There are authorized to be appropriated to the President for the purposes of this subsection $180,000,000, except that not more than $40,500,000 may be appropriated under this subsection for the fiscal year 1982. Amounts appropriated under this subsection are authorized to remain available until expended.”
 
-    1981—Subsec. (a)(2). [Pub. L. 97–113, § 301(a)][/us/pl/97/113/s301/a], substituted “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980” for “$713,500,000 for the fiscal year 1981”.
+    1981—Subsec. (a)(2). [Pub. L. 97–113][/us/pl/97/113], § 301(a), substituted “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980” for “$713,500,000 for the fiscal year 1981”.
 
-    Subsec. (g). [Pub. L. 97–113, § 301(c)][/us/pl/97/113/s301/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 97–113][/us/pl/97/113], § 301(c), added subsec. (g).
 
     1980—Subsec. (a)(2). [Pub. L. 96–533][/us/pl/96/533] substituted appropriations authorization of $713,500,000 for fiscal year 1981 for such authorization of $659,000,000 for fiscal year 1980.
 
-    1979—Subsec. (a)(2). [Pub. L. 96–53, § 101(a)][/us/pl/96/53/s101/a], substituted provisions authorizing appropriations of $659,000,000 for fiscal year 1980, for provisions author­izing appropriations of $665,213,000 for fiscal year 1979.
+    1979—Subsec. (a)(2). [Pub. L. 96–53][/us/pl/96/53], § 101(a), substituted provisions authorizing appropriations of $659,000,000 for fiscal year 1980, for provisions author­izing appropriations of $665,213,000 for fiscal year 1979.
 
-    Subsec. (b)(3). [Pub. L. 96–53, § 101(b)][/us/pl/96/53/s101/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 96–53][/us/pl/96/53], § 101(b), added par. (3).
 
-    Subsec. (f). [Pub. L. 96–53, § 101(c)][/us/pl/96/53/s101/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–53][/us/pl/96/53], § 101(c), added subsec. (f).
 
     1978—[Pub. L. 95–424][/us/pl/95/424] amended section generally, updating and clarifying the purposes of assistance to more accurately reflect the range of activities authorized by this section.
 
-    1977—Subsec. (a). [Pub. L. 95–88, § 102(a)][/us/pl/95/88/s102/a], struck out provisions authorizing appropriations of $291,000,000 for the fiscal year 1974, $500,000,000 for the fiscal year 1975, and $618,800,000 for the fiscal year 1976, and inserted provisions authorizing the appropriation of $580,000,000 for the fiscal year 1978.
+    1977—Subsec. (a). [Pub. L. 95–88][/us/pl/95/88], § 102(a), struck out provisions authorizing appropriations of $291,000,000 for the fiscal year 1974, $500,000,000 for the fiscal year 1975, and $618,800,000 for the fiscal year 1976, and inserted provisions authorizing the appropriation of $580,000,000 for the fiscal year 1978.
 
-    Subsec. (h). [Pub. L. 95–88, § 102(b)][/us/pl/95/88/s102/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–88][/us/pl/95/88], § 102(b), added subsec. (h).
 
-    1975—Subsec. (a). [Pub. L. 94–161, § 302(1)][/us/pl/94/161/s302/1], authorized appropriation of $618,800,000 and $745,000,000 for fiscal years 1976 and 1977, respectively.
+    1975—Subsec. (a). [Pub. L. 94–161][/us/pl/94/161], § 302(1), authorized appropriation of $618,800,000 and $745,000,000 for fiscal years 1976 and 1977, respectively.
 
-    Subsecs. (c) to (g). [Pub. L. 94–161, § 302(2)][/us/pl/94/161/s302/2], added subsecs. (c) to (g).
+    Subsecs. (c) to (g). [Pub. L. 94–161][/us/pl/94/161], § 302(2), added subsecs. (c) to (g).
 
-    1974—Subsec. (a). [Pub. L. 93–559, § 2(1)][/us/pl/93/559/s2/1], (2), designated existing provisions as subsec. (a) and increased appropriations authorization for fiscal year 1975 to $500,000,000 from $291,000,000.
+    1974—Subsec. (a). [Pub. L. 93–559][/us/pl/93/559], § 2(1), (2), designated existing provisions as subsec. (a) and increased appropriations authorization for fiscal year 1975 to $500,000,000 from $291,000,000.
 
-    Subsec. (b). [Pub. L. 93–559, § 2(3)][/us/pl/93/559/s2/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 93–559][/us/pl/93/559], § 2(3), added subsec. (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -137,13 +137,13 @@
 
  __International Fund for Agricultural Development; Sixth Replenishment__ 
 
-[Pub. L. 108–199, div. D, title V, § 577][/us/pl/108/199/s577], Jan. 23, 2004, [118 Stat. 201][/us/stat/118/201], provided that: 
+[Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 577, Jan. 23, 2004, [118 Stat. 201][/us/stat/118/201], provided that: 
 
 > “The Secretary of the Treasury may, to fulfill commitments of the United States, contribute on behalf of the United States to the sixth replenishment of the resources of the International Fund for Agricultural Development. The following amount is authorized to be appropriated without fiscal year limitation for payment by the Secretary of the Treasury: $45,000,000 for the International Fund for Agricultural Development.”
 
  __World Hunger__ 
 
-[Pub. L. 96–533, title III, § 316][/us/pl/96/533/s316], Dec. 16, 1980, [94 Stat. 3149][/us/stat/94/3149], provided:
+[Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 316, Dec. 16, 1980, [94 Stat. 3149][/us/stat/94/3149], provided:
 
 >     “(a) In order to further the purposes of section 103 of the Foreign Assistance Act of 1961 \[this section\], the Director of the United States International Development Cooperation Agency shall encourage the ongoing work of private and voluntary organizations to deal with world hunger problems abroad. To this end, the Director shall help facilitate widespread public discussion, analysis, and review of the issues raised by the Report of the Presidential Commission on World Hunger of March 1980, especially the issues raised by the Commission’s call for increased public awareness of the political, economic, technical, and social factors relating to hunger and poverty.
 
@@ -153,7 +153,7 @@
 
  __Reduction of Postharvest Losses of Food__ 
 
-[Pub. L. 96–533, title III, § 317][/us/pl/96/533/s317], Dec. 16, 1980, [94 Stat. 3149][/us/stat/94/3149], provided: 
+[Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 317, Dec. 16, 1980, [94 Stat. 3149][/us/stat/94/3149], provided: 
 
 > “It is the sense of the Congress that—
 
@@ -172,27 +172,27 @@
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F3
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F715
-[/us/pl/93/559/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs2
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1795
-[/us/pl/94/161/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs302
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F856
-[/us/pl/95/88/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs102
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F534
-[/us/pl/95/424/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs103%2Fa
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F943
-[/us/pl/96/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs101
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F359
-[/us/pl/96/533/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs301
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3145
-[/us/pl/97/113/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs301%2Fa
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1531
-[/us/pl/99/83/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs302
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F214
-[/us/pl/99/399/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1304
+[/us/pl/99/399/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtXIII
 [/us/stat/100/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F898
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/96/533/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs316
 [/us/stat/94/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3149
@@ -206,21 +206,21 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
-[/us/pl/99/83/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs302
-[/us/pl/99/83/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1001
-[/us/pl/97/113/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs301%2Fa
-[/us/pl/97/113/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs301%2Fc
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
-[/us/pl/96/53/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs101%2Fa
-[/us/pl/96/53/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs101%2Fb
-[/us/pl/96/53/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs101%2Fc
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/95/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs102%2Fa
-[/us/pl/95/88/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs102%2Fb
-[/us/pl/94/161/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs302%2F1
-[/us/pl/94/161/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs302%2F2
-[/us/pl/93/559/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs2%2F1
-[/us/pl/93/559/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs2%2F3
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
@@ -234,11 +234,11 @@
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/108/199/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs577
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F201
-[/us/pl/96/533/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs316
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3149
-[/us/pl/96/533/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs317
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3149
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b–1 _us_usc_t22_s286b–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
 
 ## § 286b. National Advisory Council on International Monetary and Financial Problems
 
@@ -43,7 +43,7 @@
 
         The representatives of the United States on the Fund and the Bank, and the Export-Import Bank of the United States (and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange or monetary transactions) shall keep the Council fully informed of their activities and shall provide the Council with such further information or data in their possession as the Council may deem necessary to the appropriate discharge of its responsibilities under this subchapter.
 
-([July 31, 1945, ch. 339, § 4][/us/act/1945-07-31/ch339/s4], [59 Stat. 512][/us/stat/59/512]; [Apr. 3, 1948, ch. 169][/us/act/1948-04-03/ch169], title I, § 106, [62 Stat. 141][/us/stat/62/141]; [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 501(e)(2), [65 Stat. 378][/us/stat/65/378]; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, [67 Stat. 637][/us/stat/67/637]; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, [67 Stat. 639][/us/stat/67/639]; [Aug. 9, 1954, ch. 660, § 2][/us/act/1954-08-09/ch660/s2], [68 Stat. 678][/us/stat/68/678]; [Pub. L. 89–126, § 1(1)][/us/pl/89/126/s1/1], Aug. 14, 1965, [79 Stat. 519][/us/stat/79/519]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 808(a)\], Nov. 30, 1983, [97 Stat. 1273][/us/stat/97/1273]; [Pub. L. 101–240, title V, § 541(d)(1)][/us/pl/101/240/s541/d/1], (f)(1), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518], 2519.)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 4, [59 Stat. 512][/us/stat/59/512]; [Apr. 3, 1948, ch. 169][/us/act/1948-04-03/ch169], title I, § 106, [62 Stat. 141][/us/stat/62/141]; [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 501(e)(2), [65 Stat. 378][/us/stat/65/378]; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, [67 Stat. 637][/us/stat/67/637]; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, [67 Stat. 639][/us/stat/67/639]; [Aug. 9, 1954, ch. 660][/us/act/1954-08-09/ch660], § 2, [68 Stat. 678][/us/stat/68/678]; [Pub. L. 89–126][/us/pl/89/126], § 1(1), Aug. 14, 1965, [79 Stat. 519][/us/stat/79/519]; [Pub. L. 90–267][/us/pl/90/267], § 1(a), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 808(a)\], Nov. 30, 1983, [97 Stat. 1273][/us/stat/97/1273]; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(1), (f)(1), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518], 2519.)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
     1951—Subsec. (a). Act Oct. 10, 1951, substituted “Mutual Security Agency” for “Economic Cooperation Administration”, and “Director for Mutual Security” for “Administrator for Economic Cooperation”.
 
-    1948—Subsec. (a). [Act Apr. 3, 1948, ch. 169][/us/act/1948-04-03/ch169], title I, § 106, [62 Stat. 141][/us/stat/62/141], added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
+    1948—Subsec. (a). [Act Apr. 3, 1948, ch. 169, title I][/us/act/1948-04-03/ch169/tI], § 106, [62 Stat. 141][/us/stat/62/141], added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
 
  __Change of Name__ 
 
@@ -75,7 +75,7 @@
 
  __Repeals__ 
 
-    Act Apr. 3, 1948, cited as a credit to this section, was repealed by [act June 20, 1952, ch. 449, § 7(c)][/us/act/1952-06-20/ch449/s7/c], [66 Stat. 144][/us/stat/66/144].
+    Act Apr. 3, 1948, cited as a credit to this section, was repealed by [act June 20, 1952, ch. 449][/us/act/1952-06-20/ch449], § 7(c), [66 Stat. 144][/us/stat/66/144].
 
  __Transfer of Functions__ 
 
@@ -129,21 +129,15 @@
 
     Sec. 7. Functions of the Secretary of State. The Secretary of State shall advise both the Secretary of the Treasury and the appropriate United States representatives to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development on the development aspects of matters relating to those institutions and their activities.
 
-§§ 286b–1, 286b–2. __Repealed.__  __[__  __Pub. L. 101–240, title V, § 541(d)(1)__  __][/us/pl/101/240/s541/d/1]__  __, (5),__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2518__  __][/us/stat/103/2518]__ 
-
-    Section 286b–1, [Pub. L. 91–599][/us/pl/91/599], ch. 3, § 31, Dec. 30, 1970, [84 Stat. 1658][/us/stat/84/1658], related to annual report to Congress of National Advisory Council on International Monetary and Financial Policies.
-
-    Section 286b–2, [act July 31, 1945, ch. 339, § 50][/us/act/1945-07-31/ch339/s50], as added Nov. 30, 1983, [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 813\], [97 Stat. 1276][/us/stat/97/1276], related to reports to Congress by National Advisory Council on International Monetary and Financial Policies and Secretary of the Treasury.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
+[Previous](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286a.md) | [Next](./../../../../..//us/usc/t22/ch7/schXV/m__us_usc_t22_s286b–1 _us_usc_t22_s286b–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b)
 
 ----------
 ----------
 
 [/us/usc/t22/s286c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c
-[/us/act/1945-07-31/ch339/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs4
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512
 [/us/act/1948-04-03/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-03%2Fch169
 [/us/stat/62/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F141
@@ -151,25 +145,25 @@
 [/us/stat/65/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F378
 [/us/stat/67/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F637
 [/us/stat/67/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F639
-[/us/act/1954-08-09/ch660/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch660%2Fs2
+[/us/act/1954-08-09/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-09%2Fch660
 [/us/stat/68/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F678
-[/us/pl/89/126/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F126%2Fs1%2F1
+[/us/pl/89/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F126
 [/us/stat/79/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F519
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/stat/82/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F47
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1273
-[/us/pl/101/240/s541/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F1
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/89/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F126
 [/us/pl/89/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F126
-[/us/act/1948-04-03/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-03%2Fch169
+[/us/act/1948-04-03/ch169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-03%2Fch169%2FtI
 [/us/stat/62/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F141
 [/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
 [/us/usc/t12/s635a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a
-[/us/act/1952-06-20/ch449/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-20%2Fch449%2Fs7%2Fc
+[/us/act/1952-06-20/ch449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-20%2Fch449
 [/us/stat/66/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F144
 [/us/stat/79/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1321
 [/us/stat/67/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F637
@@ -180,12 +174,5 @@
 [/us/stat/90/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F593
 [/us/usc/t22/s290g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290g%E2%80%931
 [/us/usc/t22/s286f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286f
-[/us/pl/101/240/s541/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F1
-[/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
-[/us/pl/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F599
-[/us/stat/84/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1658
-[/us/act/1945-07-31/ch339/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs50
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/stat/97/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1276
 
 

@@ -61,7 +61,7 @@
 
         Not later than 180 days after October 18, 2004, the Administrator of the Agency for International Development shall submit to the appropriate congressional committees a report describing compliance with this section.
 
-([Pub. L. 108–333, title II, § 202][/us/pl/108/333/s202], Oct. 18, 2004, [118 Stat. 1293][/us/stat/118/1293].)
+([Pub. L. 108–333, title II][/us/pl/108/333/tII], § 202, Oct. 18, 2004, [118 Stat. 1293][/us/stat/118/1293].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs202
+[/us/pl/108/333/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtII
 [/us/stat/118/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1293
 
 

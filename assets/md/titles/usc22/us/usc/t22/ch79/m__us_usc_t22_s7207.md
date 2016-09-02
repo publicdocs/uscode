@@ -59,7 +59,7 @@
 
             (C) the term “United States person” means the Federal Government, any State or local government, or any private person or entity of the United States.
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 908\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–70.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 908\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–70.)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 [/us/usc/t22/s6039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6039
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

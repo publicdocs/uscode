@@ -45,11 +45,11 @@
 
         The Special Envoy shall consult with domestic and international nongovernmental organizations and multilateral organizations and institutions, as the Special Envoy considers appropriate to fulfill the purposes of this section.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 59, as added [Pub. L. 108–332, § 5][/us/pl/108/332/s5], Oct. 16, 2004, [118 Stat. 1284][/us/stat/118/1284].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 59, as added [Pub. L. 108–332][/us/pl/108/332], § 5, Oct. 16, 2004, [118 Stat. 1284][/us/stat/118/1284].)
 
  __Findings__ 
 
-[Pub. L. 108–332, § 2][/us/pl/108/332/s2], Oct. 16, 2004, [118 Stat. 1282][/us/stat/118/1282], provided that: 
+[Pub. L. 108–332][/us/pl/108/332], § 2, Oct. 16, 2004, [118 Stat. 1282][/us/stat/118/1282], provided that: 
 
 > “Congress makes the following findings:
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t22/s6412/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6412%2Fb%2F1%2FA%2Fiv
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/108/332/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332%2Fs5
+[/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332
 [/us/stat/118/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1284
-[/us/pl/108/332/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332%2Fs2
+[/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332
 [/us/stat/118/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1282
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to limit the authority of the President to designate foreign persons for the imposition of sanctions pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.).
 
-([Pub. L. 112–158, title III, § 304][/us/pl/112/158/s304], Aug. 10, 2012, [126 Stat. 1247][/us/stat/126/1247].)
+([Pub. L. 112–158, title III][/us/pl/112/158/tIII], § 304, Aug. 10, 2012, [126 Stat. 1247][/us/stat/126/1247].)
 
  __Termination of Section__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/158/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs304
+[/us/pl/112/158/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIII
 [/us/stat/126/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1247
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

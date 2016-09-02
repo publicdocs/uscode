@@ -17,7 +17,7 @@
 
     All payments authorized under this subchapter shall be disbursed exclusively from the claims fund attributable to the country with respect to which the claims are allowed pursuant to this subchapter. All amounts covered into the Treasury to the credit of the claims funds created by [section 1641a of this title][/us/usc/t22/s1641a] are hereby permanently appropriated for the making of the payments authorized under this subchapter.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 309, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 573][/us/stat/69/573].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 309, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 573][/us/stat/69/573].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s1641a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641a
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F573
 
 

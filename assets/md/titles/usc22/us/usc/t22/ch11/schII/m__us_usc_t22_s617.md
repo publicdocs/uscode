@@ -17,7 +17,7 @@
 
     Each officer, or person performing the functions of an officer, and each director, or person performing the functions of a director, of an agent of a foreign principal which is not an individual shall be under obligation to cause such agent to execute and file a registration statement and supplements thereto as and when such filing is required under subsections (a) and (b) of [section 612 of this title][/us/usc/t22/s612] and shall also be under obligation to cause such agent to comply with all the requirements of sections 614(a) and (b) and 615 of this title and all other requirements of this subchapter. Dissolution of any organization acting as an agent of a foreign principal shall not relieve any officer, or person performing the functions of an officer, or any director, or person performing the functions of a director, from complying with the provisions of this section. In case of failure of any such agent of a foreign principal to comply with any of the requirements of this subchapter, each of its officers, or persons performing the functions of officers, and each of its directors, or persons performing the functions of directors, shall be subject to prosecution therefor.
 
-([June 8, 1938, ch. 327, § 7][/us/act/1938-06-08/ch327/s7], [52 Stat. 633][/us/stat/52/633]; [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 256][/us/stat/56/256]; [Aug. 3, 1950, ch. 524, § 2][/us/act/1950-08-03/ch524/s2], [64 Stat. 400][/us/stat/64/400].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 7, [52 Stat. 633][/us/stat/52/633]; [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 256][/us/stat/56/256]; [Aug. 3, 1950, ch. 524][/us/act/1950-08-03/ch524], § 2, [64 Stat. 400][/us/stat/64/400].)
 
  __Prior Provisions__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t22/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs612
-[/us/act/1938-06-08/ch327/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs7
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
 [/us/stat/52/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F633
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F256
-[/us/act/1950-08-03/ch524/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch524%2Fs2
+[/us/act/1950-08-03/ch524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch524
 [/us/stat/64/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F400
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611

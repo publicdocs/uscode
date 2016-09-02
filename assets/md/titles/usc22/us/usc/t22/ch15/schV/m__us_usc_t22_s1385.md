@@ -17,7 +17,7 @@
 
     Nothing contained in this subchapter shall be construed as amending the provisions of the Act of March 24, 1934 ([48 Stat. 456][/us/stat/48/456]), as amended, respecting naval reservations and fueling stations, and diplomatic or consular property, and the property of the High Commissioner to the Philippine Islands, nor as amending the provisions of [section 1392 of this title][/us/usc/t22/s1392], respecting bases for the mutual protection of the Philippine Islands and the United States.
 
-([July 3, 1946, ch. 536, § 6][/us/act/1946-07-03/ch536/s6], [60 Stat. 419][/us/stat/60/419].)
+([July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], § 6, [60 Stat. 419][/us/stat/60/419].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/48/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F456
 [/us/usc/t22/s1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1392
-[/us/act/1946-07-03/ch536/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536%2Fs6
+[/us/act/1946-07-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536
 [/us/stat/60/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F419
 [/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F456

@@ -119,7 +119,7 @@
 
         Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
-([Pub. L. 96–465, title I, § 209][/us/pl/96/465/s209], Oct. 17, 1980, [94 Stat. 2080][/us/stat/94/2080]; [Pub. L. 99–399, title IV, § 413(a)(6)][/us/pl/99/399/s413/a/6], Aug. 27, 1986, [100 Stat. 868][/us/stat/100/868]; [Pub. L. 99–529, title IV, § 405][/us/pl/99/529/s405], Oct. 24, 1986, [100 Stat. 3020][/us/stat/100/3020]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2208(a), (b), Oct. 21, 1998, [112 Stat. 2681–810][/us/stat/112/2681-810]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 339(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–443.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 209, Oct. 17, 1980, [94 Stat. 2080][/us/stat/94/2080]; [Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 413(a)(6), Aug. 27, 1986, [100 Stat. 868][/us/stat/100/868]; [Pub. L. 99–529, title IV][/us/pl/99/529/tIV], § 405, Oct. 24, 1986, [100 Stat. 3020][/us/stat/100/3020]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2208(a), (b), Oct. 21, 1998, [112 Stat. 2681–810][/us/stat/112/2681-810]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 339(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–443.)
 
  __References in Text__ 
 
@@ -127,25 +127,25 @@
 
  __Amendments__ 
 
-    1999—Subsec. (c)(5). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 339(a)\], added par. (5).
+    1999—Subsec. (c)(5). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title III, § 339(a)\], added par. (5).
 
-    Subsec. (d)(2)(F). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 339(b)\], added subpar. (F).
+    Subsec. (d)(2)(F). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title III, § 339(b)\], added subpar. (F).
 
-    1998—Subsec. (c)(4). [Pub. L. 105–277, § 2208(a)][/us/pl/105/277/s2208/a], added par. (4).
+    1998—Subsec. (c)(4). [Pub. L. 105–277][/us/pl/105/277], § 2208(a), added par. (4).
 
-    Subsec. (e)(3). [Pub. L. 105–277, § 2208(b)][/us/pl/105/277/s2208/b], added par. (3).
+    Subsec. (e)(3). [Pub. L. 105–277][/us/pl/105/277], § 2208(b), added par. (3).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–529][/us/pl/99/529] repealed [§ 413(a)(6) of Pub. L. 99–399][/us/pl/99/399/s413/a/6] and reenacted last sentence which had been struck out by [Pub. L. 99–399][/us/pl/99/399].
+    1986—Subsec. (a)(1). [Pub. L. 99–529][/us/pl/99/529] repealed § 413(a)(6) of [Pub. L. 99–399][/us/pl/99/399] and reenacted last sentence which had been struck out by [Pub. L. 99–399][/us/pl/99/399].
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 339(e)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 339(e)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to cases opened on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
  __Construction of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 339(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 339(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444, provided that: 
 
 > “Nothing in the amendments made by this section \[amending this section\] may be construed to modify—
 
@@ -167,7 +167,7 @@
 
  __No Grievance or Right of Action__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 339(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 339(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–444, provided that: 
 
 > “A failure to comply with the amendments made by this section \[amending this section\] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law.”
 
@@ -179,35 +179,35 @@
 ----------
 
 [/us/usc/t22/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3905
-[/us/pl/96/465/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs209
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2080
-[/us/pl/99/399/s413/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs413%2Fa%2F6
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F868
-[/us/pl/99/529/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs405
+[/us/pl/99/529/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2FtIV
 [/us/stat/100/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3020
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-810
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/277/s2208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2208%2Fa
-[/us/pl/105/277/s2208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2208%2Fb
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/99/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529
-[/us/pl/99/399/s413/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs413%2Fa%2F6
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s3929/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929%2Fd%2F4
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s2302/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb%2F8
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

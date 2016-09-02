@@ -31,7 +31,7 @@
 
         The President or his designee may require any person to furnish, in the form of reports or otherwise, complete information, including information with regard to past transactions, relative to any property blocked under Executive Order 8389 of April 10, 1940, as amended, or as may be otherwise necessary to enforce the provisions of this section; and the President or his designee may require of any person the production of any books of account, records, contracts, letters, memoranda, or other papers relative to such property or as may be otherwise necessary to enforce the provisions of this section.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 202, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 562][/us/stat/69/562].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 202, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 562][/us/stat/69/562].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
 [/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106

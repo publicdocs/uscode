@@ -29,11 +29,11 @@
 
         The Corporation shall include, in its annual report submitted to the Congress under [section 2200a of this title][/us/usc/t22/s2200a], the aggregate data collected under this paragraph, in such form as to quantify the effectiveness of the Corporation’s outreach activities to minority- and women-owned businesses.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 240, as added [Pub. L. 95–268, § 9][/us/pl/95/268/s9], Apr. 24, 1978, [92 Stat. 216][/us/stat/92/216]; amended [Pub. L. 99–204, § 9(b)(3)][/us/pl/99/204/s9/b/3], Dec. 23, 1985, [99 Stat. 1673][/us/stat/99/1673]; [Pub. L. 108–158, § 6(a)][/us/pl/108/158/s6/a], Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 240, as added [Pub. L. 95–268][/us/pl/95/268], § 9, Apr. 24, 1978, [92 Stat. 216][/us/stat/92/216]; amended [Pub. L. 99–204][/us/pl/99/204], § 9(b)(3), Dec. 23, 1985, [99 Stat. 1673][/us/stat/99/1673]; [Pub. L. 108–158][/us/pl/108/158], § 6(a), Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
 
  __Prior Provisions__ 
 
-    A prior section 2200, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 240, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 817][/us/stat/83/817]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 104(c), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 93–189, § 6(2)][/us/pl/93/189/s6/2], Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–390, § 2(6)][/us/pl/93/390/s2/6], Aug. 27, 1974, [88 Stat. 768][/us/stat/88/768], provided for agricultural credit and self-help community development projects in Latin America, prior to repeal by [Pub. L. 93–559, § 8(b)][/us/pl/93/559/s8/b], Dec. 30, 1974, [88 Stat. 1797][/us/stat/88/1797]. See [section 2182a of this title][/us/usc/t22/s2182a].
+    A prior section 2200, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 240, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 817][/us/stat/83/817]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 104(c), Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 93–189][/us/pl/93/189], § 6(2), Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–390][/us/pl/93/390], § 2(6), Aug. 27, 1974, [88 Stat. 768][/us/stat/88/768], provided for agricultural credit and self-help community development projects in Latin America, prior to repeal by [Pub. L. 93–559][/us/pl/93/559], § 8(b), Dec. 30, 1974, [88 Stat. 1797][/us/stat/88/1797]. See [section 2182a of this title][/us/usc/t22/s2182a].
 
  __Amendments__ 
 
@@ -53,22 +53,22 @@
 [/us/usc/t22/s2194b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194b
 [/us/usc/t22/s2200a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200a
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/268/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs9
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F216
-[/us/pl/99/204/s9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs9%2Fb%2F3
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1673
-[/us/pl/108/158/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs6%2Fa
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/stat/117/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1950
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F817
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F22
-[/us/pl/93/189/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs6%2F2
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F717
-[/us/pl/93/390/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F6
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F768
-[/us/pl/93/559/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs8%2Fb
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1797
 [/us/usc/t22/s2182a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182a
 [/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158

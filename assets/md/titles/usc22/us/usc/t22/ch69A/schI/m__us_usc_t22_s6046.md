@@ -57,7 +57,7 @@
 
         (3) The Congress urges the President to seek, in the International Court of Justice, indictment for this act of terrorism by Fidel Castro.
 
-([Pub. L. 104–114, title I, § 116][/us/pl/104/114/s116], Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 116, Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs116
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F803
 
 

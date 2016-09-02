@@ -23,7 +23,7 @@
 
         The President may also make provision, on the basis of advances of funds or reimbursement to the United States, for training for citizens of the United States, other than those referred to in subsection (a) of this section, who have been selected for service abroad in programs not carried out under authority of this chapter which are similar to those authorized by this chapter. The provisions of [section 2508 of this title][/us/usc/t22/s2508] shall apply, on a similar advance of funds or a reimbursement basis, with respect to persons while within the United States for training under authority of this subsection. Advances or reimbursements received under this subsection may be credited to the current applicable appropriation, fund, or account and shall be available for the purposes for which such appropriation, fund, or account is authorized to be used.
 
-([Pub. L. 87–293, title I, § 8][/us/pl/87/293/s8], Sept. 22, 1961, [75 Stat. 616][/us/stat/75/616]; [Pub. L. 102–511, title IX, § 904][/us/pl/102/511/s904], Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356]; [Pub. L. 112–57, § 8(a)(2)][/us/pl/112/57/s8/a/2], Nov. 21, 2011, [125 Stat. 745][/us/stat/125/745].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8, Sept. 22, 1961, [75 Stat. 616][/us/stat/75/616]; [Pub. L. 102–511, title IX][/us/pl/102/511/tIX], § 904, Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356]; [Pub. L. 112–57][/us/pl/112/57], § 8(a)(2), Nov. 21, 2011, [125 Stat. 745][/us/stat/125/745].)
 
  __References in Text__ 
 
@@ -48,11 +48,11 @@
 
 [/us/usc/t22/s2507a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507a
 [/us/usc/t22/s2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2508
-[/us/pl/87/293/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F616
-[/us/pl/102/511/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs904
+[/us/pl/102/511/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIX
 [/us/stat/106/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3356
-[/us/pl/112/57/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs8%2Fa%2F2
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F745
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

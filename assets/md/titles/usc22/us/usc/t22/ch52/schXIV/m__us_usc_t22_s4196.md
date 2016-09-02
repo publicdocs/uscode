@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1710 derived from [act Apr. 14, 1792, ch. 24, § 2][/us/act/1792-04-14/ch24/s2], [1 Stat. 255][/us/stat/1/255].
+    R.S. § 1710 derived from [act Apr. 14, 1792, ch. 24][/us/act/1792-04-14/ch24], § 2, [1 Stat. 255][/us/stat/1/255].
 
     Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -40,7 +40,7 @@
 
 [/us/act/1940-07-12/ch618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-12%2Fch618
 [/us/stat/54/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F760
-[/us/act/1792-04-14/ch24/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1792-04-14%2Fch24%2Fs2
+[/us/act/1792-04-14/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1792-04-14%2Fch24
 [/us/stat/1/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F255
 [/us/usc/t22/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1176
 [/us/usc/t22/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs76

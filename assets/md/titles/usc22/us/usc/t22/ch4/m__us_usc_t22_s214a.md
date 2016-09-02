@@ -17,7 +17,7 @@
 
     Whenever a fee is erroneously charged and paid for the issue of a passport to a person who is exempted from the payment of such a fee by [section 214 of this title][/us/usc/t22/s214], the Department of State is authorized to refund to the person who paid such fee the amount thereof, and the money for that purpose is authorized to be appropriated.
 
-([July 3, 1926, ch. 772, § 3][/us/act/1926-07-03/ch772/s3], [44 Stat. 887][/us/stat/44/887].)
+([July 3, 1926, ch. 772][/us/act/1926-07-03/ch772], § 3, [44 Stat. 887][/us/stat/44/887].)
 
  __Certain Appropriation Accounts Abolished__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs214
-[/us/act/1926-07-03/ch772/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch772%2Fs3
+[/us/act/1926-07-03/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch772
 [/us/stat/44/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F887
 [/us/usc/t31/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1322
 

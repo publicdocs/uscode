@@ -43,7 +43,7 @@
 
         (2) the term “1989 United States-Hungarian science and technology agreement” refers to the agreement concluded in 1989 by the United States and Hungary, entitled “Agreement Between the Government of the United States of America and the Government of the Hungarian People’s Republic for Scientific and Technology Cooperation”, together with annexes relating thereto.
 
-([Pub. L. 101–179, title IV, § 403][/us/pl/101/179/s403], Nov. 28, 1989, [103 Stat. 1316][/us/stat/103/1316].)
+([Pub. L. 101–179, title IV][/us/pl/101/179/tIV], § 403, Nov. 28, 1989, [103 Stat. 1316][/us/stat/103/1316].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs403
+[/us/pl/101/179/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIV
 [/us/stat/103/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1316
 
 

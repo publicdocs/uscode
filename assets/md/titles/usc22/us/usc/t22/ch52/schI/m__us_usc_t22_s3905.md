@@ -83,7 +83,7 @@
 
         (5) any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
-([Pub. L. 96–465, title I, § 105][/us/pl/96/465/s105], Oct. 17, 1980, [94 Stat. 2077][/us/stat/94/2077]; [Pub. L. 100–204, title I, § 185(a)][/us/pl/100/204/s185/a], Dec. 22, 1987, [101 Stat. 1365][/us/stat/101/1365]; [Pub. L. 101–246, title I, § 153(d)][/us/pl/101/246/s153/d], Feb. 16, 1990, [104 Stat. 43][/us/stat/104/43].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 105, Oct. 17, 1980, [94 Stat. 2077][/us/stat/94/2077]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 185(a), Dec. 22, 1987, [101 Stat. 1365][/us/stat/101/1365]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 153(d), Feb. 16, 1990, [104 Stat. 43][/us/stat/104/43].)
 
  __Codification__ 
 
@@ -107,11 +107,11 @@
 [/us/usc/t5/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7201
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
 [/us/usc/t29/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fd
-[/us/pl/96/465/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs105
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2077
-[/us/pl/100/204/s185/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs185%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1365
-[/us/pl/101/246/s153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs153%2Fd
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F43
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

@@ -33,7 +33,7 @@
 
         The authorities contained in this subchapter to implement certain arrangements in support of the peace treaty between Egypt and Israel do not signify approval by the Congress of any other agreement, understanding, or commitment made by the executive branch.
 
-([Pub. L. 96–35, § 2][/us/pl/96/35/s2], July 20, 1979, [93 Stat. 89][/us/stat/93/89].)
+([Pub. L. 96–35][/us/pl/96/35], § 2, July 20, 1979, [93 Stat. 89][/us/stat/93/89].)
 
  __References in Text__ 
 
@@ -41,17 +41,17 @@
 
  __Short Title__ 
 
-[Pub. L. 96–35, § 1][/us/pl/96/35/s1], July 20, 1979, [93 Stat. 89][/us/stat/93/89], provided that: 
+[Pub. L. 96–35][/us/pl/96/35], § 1, July 20, 1979, [93 Stat. 89][/us/stat/93/89], provided that: 
 
 > “This Act \[enacting this subchapter and sections 2349, 2349a, and 2349b of this title\] may be cited as the ‘Special International Security Assistance Act of 1979’.”
 
-[Pub. L. 97–132, § 1][/us/pl/97/132/s1], Dec. 29, 1981, [95 Stat. 1693][/us/stat/95/1693], provided that: 
+[Pub. L. 97–132][/us/pl/97/132], § 1, Dec. 29, 1981, [95 Stat. 1693][/us/stat/95/1693], provided that: 
 
 > “This joint resolution \[enacting subchapter II of this chapter\] may be cited as the ‘Multinational Force and Observers Participation Resolution’.”
 
  __Peace in the Middle East__ 
 
-[Pub. L. 96–533, title VII, § 711][/us/pl/96/533/s711], Dec. 16, 1980, [94 Stat. 3160][/us/stat/94/3160], provided:
+[Pub. L. 96–533, title VII][/us/pl/96/533/tVII], § 711, Dec. 16, 1980, [94 Stat. 3160][/us/stat/94/3160], provided:
 
 >     “(a) It is the sense of the Congress that all parties to the Arab-Israeli conflict need to reaffirm their unequivocal commitment to the peace process in order to achieve further progress toward a comprehensive settlement, to reinforce the principles of the Camp David accords, and to take actions to encourage parties not currently involved in the peace process to become active participants in peace efforts.
 
@@ -59,7 +59,7 @@
 
  __Egyptian-Israeli Cultural, Scientific, and Economic Relations__ 
 
-[Pub. L. 96–60, title IV, § 403][/us/pl/96/60/s403], Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403], provided that: 
+[Pub. L. 96–60, title IV][/us/pl/96/60/tIV], § 403, Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403], provided that: 
 
 > “It is the sense of the Congress that it should be the policy of the United States to promote and encourage cultural, scientific, and economic relations between the Arab Republic of Egypt and the State of Israel.”
 
@@ -70,17 +70,17 @@
 ----------
 ----------
 
-[/us/pl/96/35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs2
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F89
 [/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F89
-[/us/pl/96/35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs1
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F89
-[/us/pl/97/132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs1
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1693
-[/us/pl/96/533/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs711
+[/us/pl/96/533/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtVII
 [/us/stat/94/3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3160
-[/us/pl/96/60/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs403
+[/us/pl/96/60/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtIV
 [/us/stat/93/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F403
 
 

@@ -33,7 +33,7 @@
 
         The Administrator shall require that, with reasonable exceptions, all implementing partner organizations applying for microenterprise assistance under this subpart use one of the certified methods, beginning not later than October 1, 2006, to determine and report the poverty levels of current, incoming, or prospective clients.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 254, as added [Pub. L. 108–484, § 3][/us/pl/108/484/s3], Dec. 23, 2004, [118 Stat. 3926][/us/stat/118/3926].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 254, as added [Pub. L. 108–484][/us/pl/108/484], § 3, Dec. 23, 2004, [118 Stat. 3926][/us/stat/118/3926].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t22/s2211a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2211a
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/484/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs3
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3926
 
 

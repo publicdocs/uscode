@@ -41,7 +41,7 @@
 
         The Director of the Office of Management and Budget, when requested by the Broadcasting Board of Governors, is authorized to make such incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with functions and offices transferred from USIA, as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1326, Oct. 21, 1998, [112 Stat. 2681–782][/us/stat/112/2681-782].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1326, Oct. 21, 1998, [112 Stat. 2681–782][/us/stat/112/2681-782].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t22/s6543/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6543%2Fd
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-782
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-777

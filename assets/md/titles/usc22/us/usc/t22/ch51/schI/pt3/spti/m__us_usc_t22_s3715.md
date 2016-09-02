@@ -17,7 +17,7 @@
 
     There is established in the Treasury of the United States the Panama Canal Commission Compensation Fund (hereafter in this Act referred to as the “Fund”).
 
-([Pub. L. 100–705, § 2][/us/pl/100/705/s2], Nov. 19, 1988, [102 Stat. 4685][/us/stat/102/4685].)
+([Pub. L. 100–705][/us/pl/100/705], § 2, Nov. 19, 1988, [102 Stat. 4685][/us/stat/102/4685].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/705/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs2
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4685
 [/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4685

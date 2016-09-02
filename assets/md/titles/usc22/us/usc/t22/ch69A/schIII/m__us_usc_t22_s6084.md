@@ -17,7 +17,7 @@
 
     An action under [section 6082 of this title][/us/usc/t22/s6082] may not be brought more than 2 years after the trafficking giving rise to the action has ceased to occur.
 
-([Pub. L. 104–114, title III, § 305][/us/pl/104/114/s305], Mar. 12, 1996, [110 Stat. 821][/us/stat/110/821].)
+([Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 305, Mar. 12, 1996, [110 Stat. 821][/us/stat/110/821].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s6082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6082
-[/us/pl/104/114/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs305
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F821
 
 

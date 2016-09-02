@@ -37,7 +37,7 @@
 
          The terms and conditions of employment referred to in paragraph (1) of this subsection are the following:
 
-            (A), (B) Repealed. [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
+            (A), (B) Repealed. [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
 
             (C) premium pay and night differential;
 
@@ -45,7 +45,7 @@
 
             (E) injury and death compensation benefits;
 
-            (F) to (H) Repealed. [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
+            (F) to (H) Repealed. [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].
 
             (I) reduction-in-force rights;
 
@@ -89,7 +89,7 @@
 
                 (ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
-([Pub. L. 96–70, title I, § 1231(a)][/us/pl/96/70/s1231/a]–(c), Sept. 27, 1979, [93 Stat. 468][/us/stat/93/468], 469; [Pub. L. 104–201, div. C, title XXXV, § 3537][/us/pl/104/201/s3537], Sept. 23, 1996, [110 Stat. 2864][/us/stat/110/2864]; [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(2)(C)][/us/pl/105/85/s3550/d/2/C], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1231(a)–(c), Sept. 27, 1979, [93 Stat. 468][/us/stat/93/468], 469; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3537, Sept. 23, 1996, [110 Stat. 2864][/us/stat/110/2864]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(d)(2)(C), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
+    [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
 
 ----------
 
@@ -136,20 +136,20 @@
 ----------
 ----------
 
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/usc/t20/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs903%2Fc
 [/us/usc/t20/s903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs903%2Fc
 [/us/usc/t20/s904/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs904%2Fa%2F2
-[/us/pl/96/70/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1231%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F468
-[/us/pl/104/201/s3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3537
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2864
-[/us/pl/105/85/s3550/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F2%2FC
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
@@ -160,7 +160,7 @@
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t2/s651/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2%2FC
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 
 

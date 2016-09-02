@@ -63,7 +63,7 @@
 
         (B) any existing or future heavy water production plant with respect to which there is no obligation to accept IAEA safeguards on any nuclear material produced by or used in connection with any heavy water produced therefrom.
 
-([Pub. L. 109–401, title I, § 110][/us/pl/109/401/s110], Dec. 18, 2006, [120 Stat. 2739][/us/stat/120/2739].)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 110, Dec. 18, 2006, [120 Stat. 2739][/us/stat/120/2739].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 [/us/usc/t22/s2797c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797c
 [/us/usc/t42/s2014/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fz
 [/us/usc/t42/s2014/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Faa
-[/us/pl/109/401/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs110
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2739
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/stat/120/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2726

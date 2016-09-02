@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated to the Department of State for the use of the United States Section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to carry out the provisions of sections 277d–13 to 277d–16 of this title.
 
-([Pub. L. 86–605, § 4][/us/pl/86/605/s4], July 7, 1960, [74 Stat. 361][/us/stat/74/361].)
+([Pub. L. 86–605][/us/pl/86/605], § 4, July 7, 1960, [74 Stat. 361][/us/stat/74/361].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/605/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F605%2Fs4
+[/us/pl/86/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F605
 [/us/stat/74/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F361
 
 

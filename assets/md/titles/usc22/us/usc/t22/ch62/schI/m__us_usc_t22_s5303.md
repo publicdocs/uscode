@@ -25,7 +25,7 @@
 
     (4) the accountability of the President for the impact of economic policies and exchange rates on trade competitiveness should be increased.
 
-([Pub. L. 100–418, title III, § 3003][/us/pl/100/418/s3003], Aug. 23, 1988, [102 Stat. 1373][/us/stat/102/1373].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3003, Aug. 23, 1988, [102 Stat. 1373][/us/stat/102/1373].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3003
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1373
 
 

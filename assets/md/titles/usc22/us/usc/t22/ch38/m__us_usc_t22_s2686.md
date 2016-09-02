@@ -29,7 +29,7 @@
 
     (F) other matters that the Secretary considers appropriate in carrying out this section.
 
-([Pub. L. 93–475, § 14][/us/pl/93/475/s14], Oct. 26, 1974, [88 Stat. 1443][/us/stat/88/1443].)
+([Pub. L. 93–475][/us/pl/93/475], § 14, Oct. 26, 1974, [88 Stat. 1443][/us/stat/88/1443].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/93/475/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F475%2Fs14
+[/us/pl/93/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F475
 [/us/stat/88/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1443
 
 

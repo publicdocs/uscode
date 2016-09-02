@@ -17,7 +17,7 @@
 
     Nothing in this Act or the amendments made by this Act shall apply to the authorized intelligence activities of the United States.
 
-([Pub. L. 112–158, title VI, § 602][/us/pl/112/158/s602], Aug. 10, 2012, [126 Stat. 1264][/us/stat/126/1264].)
+([Pub. L. 112–158, title VI][/us/pl/112/158/tVI], § 602, Aug. 10, 2012, [126 Stat. 1264][/us/stat/126/1264].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs602
+[/us/pl/112/158/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVI
 [/us/stat/126/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1264
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214

@@ -23,7 +23,7 @@
 
     (3) periodically review, but in no case less than once each year, the guidelines and, if necessary, amend the guidelines on the basis of technological developments and new information regarding transfers of technologies to Iran and the development of Iran’s indigenous capabilities to disrupt and monitor information and communications in Iran.
 
-([Pub. L. 112–158, title IV, § 412][/us/pl/112/158/s412], Aug. 10, 2012, [126 Stat. 1255][/us/stat/126/1255].)
+([Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 412, Aug. 10, 2012, [126 Stat. 1255][/us/stat/126/1255].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s8515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8515
-[/us/pl/112/158/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs412
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1255
 
 

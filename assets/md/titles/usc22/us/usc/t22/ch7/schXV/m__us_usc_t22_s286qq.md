@@ -23,7 +23,7 @@
 
         The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-([July 31, 1945, ch. 339, § 65][/us/act/1945-07-31/ch339/s65], as added [Pub. L. 111–32, title XIV, § 1402][/us/pl/111/32/s1402], June 24, 2009, [123 Stat. 1918][/us/stat/123/1918].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 65, as added [Pub. L. 111–32, title XIV][/us/pl/111/32/tXIV], § 1402, June 24, 2009, [123 Stat. 1918][/us/stat/123/1918].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs65
-[/us/pl/111/32/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1402
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/111/32/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXIV
 [/us/stat/123/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1918
 
 

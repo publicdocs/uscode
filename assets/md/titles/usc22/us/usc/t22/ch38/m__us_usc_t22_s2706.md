@@ -41,17 +41,17 @@
 
         The Secretary of State may waive the notification requirement of subsection (a), if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 34, as added [Pub. L. 98–164, title I, § 123][/us/pl/98/164/s123], Nov. 22, 1983, [97 Stat. 1025][/us/stat/97/1025]; amended [Pub. L. 100–204, title I, § 121][/us/pl/100/204/s121], Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339]; [Pub. L. 102–138, title I, § 117(b)][/us/pl/102/138/s117/b], Oct. 28, 1991, [105 Stat. 657][/us/stat/105/657]; [Pub. L. 103–236, title I, § 122(c)][/us/pl/103/236/s122/c], Apr. 30, 1994, [108 Stat. 392][/us/stat/108/392]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2243, Oct. 21, 1998, [112 Stat. 2681–823][/us/stat/112/2681-823].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 34, as added [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 123, Nov. 22, 1983, [97 Stat. 1025][/us/stat/97/1025]; amended [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 121, Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 117(b), Oct. 28, 1991, [105 Stat. 657][/us/stat/105/657]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 122(c), Apr. 30, 1994, [108 Stat. 392][/us/stat/108/392]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2243, Oct. 21, 1998, [112 Stat. 2681–823][/us/stat/112/2681-823].)
 
  __Prior Provisions__ 
 
-    A prior section 34 of act Aug. 1, 1956, was renumbered sections 35 and 36 by sections 123 and 124 of [Pub. L. 98–164][/us/pl/98/164], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 34 of act Aug. 1, 1956, was renumbered sections 35 and 36 by sections 123 and 124 of [Pub. L. 98–164][/us/pl/98/164], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 2243(1)][/us/pl/105/277/s2243/1], in introductory provisions, substituted “International Relations and the Committee on Appropriations” for “Foreign Affairs” and inserted “and the Committee on Appropriations” after “Foreign Relations”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 2243(1), in introductory provisions, substituted “International Relations and the Committee on Appropriations” for “Foreign Affairs” and inserted “and the Committee on Appropriations” after “Foreign Relations”.
 
-    Subsec. (c). [Pub. L. 105–277, § 2243(2)][/us/pl/105/277/s2243/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 2243(2), added subsec. (c).
 
     1994—Subsec. (a)(7). [Pub. L. 103–236][/us/pl/103/236] substituted “$1,000,000” for “$500,000”.
 
@@ -71,22 +71,22 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/98/164/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs123
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1025
-[/us/pl/100/204/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs121
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1339
-[/us/pl/102/138/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs117%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F657
-[/us/pl/103/236/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs122%2Fc
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F392
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-823
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
-[/us/pl/105/277/s2243/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2243%2F1
-[/us/pl/105/277/s2243/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2243%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204

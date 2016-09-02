@@ -31,7 +31,7 @@
 
         (2) shall take the steps necessary to obtain a certification from the Fund that any undisbursed balances resulting from draw-downs on such letter of credit will not exceed at any time the United States share of expected disbursement requirements for the following three-month period.
 
-([Pub. L. 94–302, title II, § 212][/us/pl/94/302/s212], as added [Pub. L. 96–259, title III, § 301(2)][/us/pl/96/259/s301/2], June 3, 1980, [94 Stat. 430][/us/stat/94/430].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 212, as added [Pub. L. 96–259, title III][/us/pl/96/259/tIII], § 301(2), June 3, 1980, [94 Stat. 430][/us/stat/94/430].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs212
-[/us/pl/96/259/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs301%2F2
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/96/259/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtIII
 [/us/stat/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F430
 
 

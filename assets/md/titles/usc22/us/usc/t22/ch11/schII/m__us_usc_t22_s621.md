@@ -17,7 +17,7 @@
 
     The Attorney General shall every six months report to the Congress concerning administration of this subchapter, including registrations filed pursuant to the subchapter, and the nature, sources and content of political propaganda disseminated and distributed.
 
-([June 8, 1938, ch. 327, § 11][/us/act/1938-06-08/ch327/s11], as added [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 258][/us/stat/56/258]; amended [Pub. L. 104–65, § 19][/us/pl/104/65/s19], Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 11, as added [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 258][/us/stat/56/258]; amended [Pub. L. 104–65][/us/pl/104/65], § 19, Dec. 19, 1995, [109 Stat. 704][/us/stat/109/704].)
 
  __Amendments__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-08/ch327/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs11
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F258
-[/us/pl/104/65/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs19
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F704
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65

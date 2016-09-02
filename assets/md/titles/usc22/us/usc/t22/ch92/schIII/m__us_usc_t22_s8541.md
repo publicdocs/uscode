@@ -83,7 +83,7 @@
 
         The term “United States Munitions List” means the list maintained pursuant to part 121 of the International Traffic in Arms Regulations (or any corresponding similar regulation or ruling).
 
-([Pub. L. 111–195, title III, § 301][/us/pl/111/195/s301], July 1, 2010, [124 Stat. 1345][/us/stat/124/1345].)
+([Pub. L. 111–195, title III][/us/pl/111/195/tIII], § 301, July 1, 2010, [124 Stat. 1345][/us/stat/124/1345].)
 
  __Termination of Section__ 
 
@@ -99,7 +99,7 @@
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
-[/us/pl/111/195/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs301
+[/us/pl/111/195/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtIII
 [/us/stat/124/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1345
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 

@@ -55,7 +55,7 @@
 
         The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in [section 2414(c) of this title][/us/usc/t22/s2414/c], if the Secretary determines that the publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.
 
-([Pub. L. 113–150, title II, § 204][/us/pl/113/150/s204], Aug. 8, 2014, [128 Stat. 1821][/us/stat/128/1821].)
+([Pub. L. 113–150, title II][/us/pl/113/150/tII], § 204, Aug. 8, 2014, [128 Stat. 1821][/us/stat/128/1821].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t22/s9122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122
 [/us/usc/t22/s2414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2414%2Fc
-[/us/pl/113/150/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs204
+[/us/pl/113/150/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtII
 [/us/stat/128/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1821
 [/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 [/us/stat/126/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1807

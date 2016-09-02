@@ -17,7 +17,7 @@
 
     The authority of the Overseas Private Investment Corporation to enter into contracts under [section 2194(a) of this title][/us/usc/t22/s2194/a] shall be effective for any fiscal year beginning after September 30, 1981, only to such extent or in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 97–65, § 5(b)(2)][/us/pl/97/65/s5/b/2], Oct. 16, 1981, [95 Stat. 1023][/us/stat/95/1023].)
+([Pub. L. 97–65][/us/pl/97/65], § 5(b)(2), Oct. 16, 1981, [95 Stat. 1023][/us/stat/95/1023].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s2194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fa
-[/us/pl/97/65/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fb%2F2
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1023
 
 

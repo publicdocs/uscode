@@ -65,7 +65,7 @@
 
         The waiver authority granted in this subsection may not be used to provide any assistance under this chapter which is also prohibited by [section 2780 of this title][/us/usc/t22/s2780].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620A, as added [Pub. L. 94–329, title III, § 303][/us/pl/94/329/s303], June 30, 1976, [90 Stat. 753][/us/stat/90/753]; amended [Pub. L. 99–83, title V, § 503(a)][/us/pl/99/83/s503/a], Aug. 8, 1985, [99 Stat. 220][/us/stat/99/220]; [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title V, § 521\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1305; [Pub. L. 101–222, § 5][/us/pl/101/222/s5], Dec. 12, 1989, [103 Stat. 1897][/us/stat/103/1897]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620A, as added [Pub. L. 94–329, title III][/us/pl/94/329/tIII], § 303, June 30, 1976, [90 Stat. 753][/us/stat/90/753]; amended [Pub. L. 99–83, title V][/us/pl/99/83/tV], § 503(a), Aug. 8, 1985, [99 Stat. 220][/us/stat/99/220]; [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title V, § 521\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1305; [Pub. L. 101–222][/us/pl/101/222], § 5, Dec. 12, 1989, [103 Stat. 1897][/us/stat/103/1897]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 
  __Self-Defense in Accordance With International Law__ 
 
-[Pub. L. 101–222, § 10][/us/pl/101/222/s10], Dec. 12, 1989, [103 Stat. 1900][/us/stat/103/1900], provided that: 
+[Pub. L. 101–222][/us/pl/101/222], § 10, Dec. 12, 1989, [103 Stat. 1900][/us/stat/103/1900], provided that: 
 
 > “The use by any government of armed force in the exercise of individual or collective self-defense in accordance with applicable international agreements and customary international law shall not be considered an act of international terrorism for purposes of the amendments made by this Act \[see Short Title of 1989 Amendment note, set out under [section 2151 of this title][/us/usc/t22/s2151]\].”
 
@@ -122,15 +122,15 @@
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/329/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs303
+[/us/pl/94/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIII
 [/us/stat/90/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F753
-[/us/pl/99/83/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs503%2Fa
+[/us/pl/99/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtV
 [/us/stat/99/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F220
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
-[/us/pl/101/222/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs5
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1897
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -157,7 +157,7 @@
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/101/222/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs10
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1900
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

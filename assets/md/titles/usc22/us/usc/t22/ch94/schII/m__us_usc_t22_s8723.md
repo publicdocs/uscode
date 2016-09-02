@@ -43,7 +43,7 @@
 
         (8) Section 14.
 
-([Pub. L. 112–158, title II, § 213][/us/pl/112/158/s213], Aug. 10, 2012, [126 Stat. 1230][/us/stat/126/1230].)
+([Pub. L. 112–158, title II][/us/pl/112/158/tII], § 213, Aug. 10, 2012, [126 Stat. 1230][/us/stat/126/1230].)
 
  __Termination of Section__ 
 
@@ -80,7 +80,7 @@ I hereby delegate the functions and authorities vested in the President by secti
 ----------
 ----------
 
-[/us/pl/112/158/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs213
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1230
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172

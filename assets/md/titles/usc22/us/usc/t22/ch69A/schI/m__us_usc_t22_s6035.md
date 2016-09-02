@@ -17,7 +17,7 @@
 
     The President should instruct the United States Permanent Representative to the Organization of American States to oppose and vote against any termination of the suspension of the Cuban Government from participation in the Organization until the President determines under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that a democratically elected government in Cuba is in power.
 
-([Pub. L. 104–114, title I, § 105][/us/pl/104/114/s105], Mar. 12, 1996, [110 Stat. 795][/us/stat/110/795].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 105, Mar. 12, 1996, [110 Stat. 795][/us/stat/110/795].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
-[/us/pl/104/114/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs105
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F795
 
 

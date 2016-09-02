@@ -17,7 +17,7 @@
 
     Nothing in this subtitle or the amendments made by this subtitle shall apply with respect to any activity relating to a project described in subsection (a) of [section 8783 of this title][/us/usc/t22/s8783] to which the exception under that section applies at the time of the activity.
 
-([Pub. L. 112–239, div. A, title XII, § 1254][/us/pl/112/239/s1254], Jan. 2, 2013, [126 Stat. 2018][/us/stat/126/2018].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1254, Jan. 2, 2013, [126 Stat. 2018][/us/stat/126/2018].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s8783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8783
-[/us/pl/112/239/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1254
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2018
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004

@@ -29,7 +29,7 @@
 
         (3) the means by which such projects would be implemented.
 
-([Pub. L. 96–35, § 8][/us/pl/96/35/s8], July 20, 1979, [93 Stat. 92][/us/stat/93/92]; [Pub. L. 97–113, title VII, § 734(a)(4)][/us/pl/97/113/s734/a/4], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 96–35][/us/pl/96/35], § 8, July 20, 1979, [93 Stat. 92][/us/stat/93/92]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(4), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/96/35/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs8
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F92
-[/us/pl/97/113/s734/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F4
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 

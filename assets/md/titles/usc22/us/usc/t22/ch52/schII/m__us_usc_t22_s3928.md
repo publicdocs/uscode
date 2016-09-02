@@ -17,7 +17,7 @@
 
     The President shall appoint, by and with the advice and consent of the Senate, a Director General of the Foreign Service, who shall be a current or former career member of the Foreign Service. The Director General should assist the Secretary of State in the management of the Service and perform such functions as the Secretary of State may prescribe.
 
-([Pub. L. 96–465, title I, § 208][/us/pl/96/465/s208], Oct. 17, 1980, [94 Stat. 2080][/us/stat/94/2080]; [Pub. L. 103–236, title I, § 163][/us/pl/103/236/s163], Apr. 30, 1994, [108 Stat. 411][/us/stat/108/411].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 208, Oct. 17, 1980, [94 Stat. 2080][/us/stat/94/2080]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 163, Apr. 30, 1994, [108 Stat. 411][/us/stat/108/411].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/465/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs208
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2080
-[/us/pl/103/236/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs163
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F411
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

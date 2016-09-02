@@ -33,7 +33,7 @@
 
         The authorities and functions transferred to the United States International Development Cooperation Agency or the Director of that Agency by section 6 of Reorganization Plan Numbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1412, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1412, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
     For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b), meaning the effective date of title XIV of subdiv. A of div. G of [Pub. L. 105–277][/us/pl/105/277], see [section 1401 of Pub. L. 105–277][/us/pl/105/277/s1401], set out as a note under [section 6561 of this title][/us/usc/t22/s6561].
 
-    Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, [93 Stat. 1378][/us/stat/93/1378], effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under [section 2381 of this title][/us/usc/t22/s2381], prior to repeal by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790], 2681–792.
+    Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, [93 Stat. 1378][/us/stat/93/1378], effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under [section 2381 of this title][/us/usc/t22/s2381], prior to repeal by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790], 2681–792.
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
@@ -59,7 +59,7 @@
 [/us/usc/t22/s6561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6561
 [/us/stat/93/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1378
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 
 

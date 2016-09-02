@@ -265,7 +265,7 @@
 
             The head of each United States Government agency referred to in paragraph (1) shall provide on a timely basis to the Secretary of State such information as the Secretary may reasonably require to allow the Secretary to prepare and submit the report required under paragraph (1).
 
-([Pub. L. 107–327, title I, § 103][/us/pl/107/327/s103], Dec. 4, 2002, [116 Stat. 2799][/us/stat/116/2799]; [Pub. L. 108–458, title VII, § 7104(e)(1)(B)][/us/pl/108/458/s7104/e/1/B], (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782], 3783, 3785, 3787, 3788.)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 103, Dec. 4, 2002, [116 Stat. 2799][/us/stat/116/2799]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(e)(1)(B), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782], 3783, 3785, 3787, 3788.)
 
  __References in Text__ 
 
@@ -273,23 +273,23 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 7104(e)(1)(B)][/us/pl/108/458/s7104/e/1/B], substituted “any other” for “[section 512 of Public Law 107–115][/us/pl/107/115/s512] or any other similar” in introductory provisions.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 7104(e)(1)(B), substituted “any other” for “[section 512 of Public Law 107–115][/us/pl/107/115/s512] or any other similar” in introductory provisions.
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 108–458, § 7104(j)(1)(A)][/us/pl/108/458/s7104/j/1/A], substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
+    Subsec. (a)(3)(A)(i). [Pub. L. 108–458][/us/pl/108/458], § 7104(j)(1)(A), substituted “promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers,” for “establish crop substitution programs,”.
 
-    Subsec. (a)(3)(A)(ii). [Pub. L. 108–458, § 7104(j)(1)(B)][/us/pl/108/458/s7104/j/1/B], inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
+    Subsec. (a)(3)(A)(ii). [Pub. L. 108–458][/us/pl/108/458], § 7104(j)(1)(B), inserted “, and to create special counternarcotics courts, prosecutors, and places of incarceration” before semicolon at end.
 
-    Subsec. (a)(3)(A)(iii). [Pub. L. 108–458, § 7104(j)(1)(C)][/us/pl/108/458/s7104/j/1/C], inserted before semicolon at end “, in particular, notwithstanding [section 2420 of this title][/us/usc/t22/s2420], by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
+    Subsec. (a)(3)(A)(iii). [Pub. L. 108–458][/us/pl/108/458], § 7104(j)(1)(C), inserted before semicolon at end “, in particular, notwithstanding [section 2420 of this title][/us/usc/t22/s2420], by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units”.
 
-    Subsec. (a)(3)(A)(vi). [Pub. L. 108–458, § 7104(j)(1)(D)][/us/pl/108/458/s7104/j/1/D]–(F), added cl. (vi).
+    Subsec. (a)(3)(A)(vi). [Pub. L. 108–458][/us/pl/108/458], § 7104(j)(1)(D)–(F), added cl. (vi).
 
-    Subsec. (a)(4)(M). [Pub. L. 108–458, § 7104(f)(3)][/us/pl/108/458/s7104/f/3], added subpar. (M).
+    Subsec. (a)(4)(M). [Pub. L. 108–458][/us/pl/108/458], § 7104(f)(3), added subpar. (M).
 
-    Subsec. (a)(5). [Pub. L. 108–458, § 7104(f)(2)][/us/pl/108/458/s7104/f/2], amended heading and text of par. (5) generally, substituting provisions relating to education, the rule of law, and related issues, for provisions relating to reestablishment of Afghanistan as a viable nation-state.
+    Subsec. (a)(5). [Pub. L. 108–458][/us/pl/108/458], § 7104(f)(2), amended heading and text of par. (5) generally, substituting provisions relating to education, the rule of law, and related issues, for provisions relating to reestablishment of Afghanistan as a viable nation-state.
 
-    Subsec. (a)(7)(A)(xii). [Pub. L. 108–458, § 7104(k)(2)][/us/pl/108/458/s7104/k/2], substituted “Afghan Independent” for “National”.
+    Subsec. (a)(7)(A)(xii). [Pub. L. 108–458][/us/pl/108/458], § 7104(k)(2), substituted “Afghan Independent” for “National”.
 
-    Subsec. (d). [Pub. L. 108–458, § 7104(g)][/us/pl/108/458/s7104/g], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–458][/us/pl/108/458], § 7104(g), added subsec. (d).
 
  __Change of Name__ 
 
@@ -297,7 +297,7 @@
 
  __Plan Required to Promote Security of Afghan Women and Girls__ 
 
-[Pub. L. 114–92, div. A, title XV, § 1531(c)(2)][/us/pl/114/92/s1531/c/2], Nov. 25, 2015, [129 Stat. 1089][/us/stat/129/1089], provided that:
+[Pub. L. 114–92, div. A, title XV][/us/pl/114/92/dA/tXV], § 1531(c)(2), Nov. 25, 2015, [129 Stat. 1089][/us/stat/129/1089], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -351,7 +351,7 @@
 
  __Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan__ 
 
-[Pub. L. 111–383, div. A, title XII, § 1217][/us/pl/111/383/s1217], Jan. 7, 2011, [124 Stat. 4393][/us/stat/124/4393], as amended by [Pub. L. 112–81, div. A, title XII, § 1217][/us/pl/112/81/s1217], Dec. 31, 2011, [125 Stat. 1632][/us/stat/125/1632]; [Pub. L. 112–239, div. A, title XII, § 1219][/us/pl/112/239/s1219], Jan. 2, 2013, [126 Stat. 1991][/us/stat/126/1991]; [Pub. L. 113–66, div. A, title XII, § 1215(a)][/us/pl/113/66/s1215/a], Dec. 26, 2013, [127 Stat. 907][/us/stat/127/907], provided that:
+[Pub. L. 111–383, div. A, title XII][/us/pl/111/383/dA/tXII], § 1217, Jan. 7, 2011, [124 Stat. 4393][/us/stat/124/4393], as amended by [Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1217, Dec. 31, 2011, [125 Stat. 1632][/us/stat/125/1632]; [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1219, Jan. 2, 2013, [126 Stat. 1991][/us/stat/126/1991]; [Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1215(a), Dec. 26, 2013, [127 Stat. 907][/us/stat/127/907], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -465,7 +465,7 @@
 
 >         “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
 
-\[[Pub. L. 113–66, div. A, title XII, § 1215(b)][/us/pl/113/66/s1215/b], Dec. 26, 2013, [127 Stat. 908][/us/stat/127/908], provided that: 
+\[[Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1215(b), Dec. 26, 2013, [127 Stat. 908][/us/stat/127/908], provided that: 
 
 > “The amendments made by this section \[amending [section 1217 of Pub. L. 111–383][/us/pl/111/383/s1217], set out above\] shall take effect on October 1, 2013.”
 
@@ -501,11 +501,11 @@
 
  __Declarations of Policy__ 
 
-[Pub. L. 108–458, title VII, § 7104(e)(1)(A)][/us/pl/108/458/s7104/e/1/A], Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(e)(1)(A), Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781], provided that: 
 
 > “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 ([22 U.S.C. 7501][/us/usc/t22/s7501] \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
 
-[Pub. L. 108–458, title VII, § 7104(f)(1)][/us/pl/108/458/s7104/f/1], Dec. 17, 2004, [118 Stat. 3783][/us/stat/118/3783], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(f)(1), Dec. 17, 2004, [118 Stat. 3783][/us/stat/118/3783], provided that: 
 
 > “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
 
@@ -570,35 +570,35 @@
 
 [/us/usc/t22/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420
 [/us/usc/t22/s5421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5421
-[/us/pl/107/327/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs103
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2799
-[/us/pl/108/458/s7104/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fe%2F1%2FB
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3782
 [/us/usc/t22/s7536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7536
-[/us/pl/108/458/s7104/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fe%2F1%2FB
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/115/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115%2Fs512
-[/us/pl/108/458/s7104/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fj%2F1%2FA
-[/us/pl/108/458/s7104/j/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fj%2F1%2FB
-[/us/pl/108/458/s7104/j/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fj%2F1%2FC
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t22/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420
-[/us/pl/108/458/s7104/j/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fj%2F1%2FD
-[/us/pl/108/458/s7104/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Ff%2F3
-[/us/pl/108/458/s7104/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Ff%2F2
-[/us/pl/108/458/s7104/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fk%2F2
-[/us/pl/108/458/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fg
-[/us/pl/114/92/s1531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1531%2Fc%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/114/92/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXV
 [/us/stat/129/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1089
-[/us/pl/111/383/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1217
+[/us/pl/111/383/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXII
 [/us/stat/124/4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4393
-[/us/pl/112/81/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1217
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1632
-[/us/pl/112/239/s1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1219
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1991
-[/us/pl/113/66/s1215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1215%2Fa
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F907
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/113/66/s1215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1215%2Fb
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F908
 [/us/pl/111/383/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1217
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
@@ -607,10 +607,10 @@
 [/us/stat/122/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F386
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F388
-[/us/pl/108/458/s7104/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fe%2F1%2FA
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3781
 [/us/usc/t22/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7501
-[/us/pl/108/458/s7104/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Ff%2F1
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3783
 [/us/pl/107/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F81
 [/us/stat/115/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F811

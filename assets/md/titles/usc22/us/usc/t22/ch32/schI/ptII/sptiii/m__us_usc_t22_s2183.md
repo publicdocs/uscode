@@ -59,13 +59,13 @@
 
         No payment may be made under any guaranty issued pursuant to this subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
-    (i) __Repealed.__  __[__  __Pub. L. 95–424, title I, § 115(i)__  __][/us/pl/95/424/s115/i]__  __,__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 952__  __][/us/stat/92/952]__ 
+    (i) __Repealed.__  __[__  __Pub. L. 95–424, title I__  __][/us/pl/95/424/tI]__  __, § 115(i),__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 952__  __][/us/stat/92/952]__ 
 
     (j) __Guaranties for housing projects; percentage requirement for families with income below median income__ 
 
         Guaranties shall be issued under [section 2182 of this title][/us/usc/t22/s2182] only for housing projects which are coordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 223, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 808][/us/stat/83/808]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 103(b) Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 93–189, § 5(2)][/us/pl/93/189/s5/2], Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–559][/us/pl/93/559], §§ 7(2), 8(a)(3)–(5), Dec. 30, 1974, [88 Stat. 1796][/us/stat/88/1796], 1797; [Pub. L. 94–161, title III, § 311(5)][/us/pl/94/161/s311/5], Dec. 20, 1975, [89 Stat. 861][/us/stat/89/861]; [Pub. L. 94–329, title IV, § 414][/us/pl/94/329/s414], June 30, 1976, [90 Stat. 761][/us/stat/90/761]; [Pub. L. 95–88, title I, § 117(a)(3)][/us/pl/95/88/s117/a/3], (b)(2), (c), Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I, § 115(c)][/us/pl/95/424/s115/c]–(j), Oct. 6, 1978, [92 Stat. 951][/us/stat/92/951], 952; [Pub. L. 96–53, title I, § 112(c)][/us/pl/96/53/s112/c], (d), Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 97–113, title III, § 310(b)][/us/pl/97/113/s310/b], Dec. 29, 1981, [95 Stat. 1535][/us/stat/95/1535]; [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–142; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title II\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–157.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 223, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 808][/us/stat/83/808]; amended [Pub. L. 92–226][/us/pl/92/226], pt. I, § 103(b) Feb. 7, 1972, [86 Stat. 22][/us/stat/86/22]; [Pub. L. 93–189][/us/pl/93/189], § 5(2), Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–559][/us/pl/93/559], §§ 7(2), 8(a)(3)–(5), Dec. 30, 1974, [88 Stat. 1796][/us/stat/88/1796], 1797; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 311(5), Dec. 20, 1975, [89 Stat. 861][/us/stat/89/861]; [Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 414, June 30, 1976, [90 Stat. 761][/us/stat/90/761]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 117(a)(3), (b)(2), (c), Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 115(c)–(j), Oct. 6, 1978, [92 Stat. 951][/us/stat/92/951], 952; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 112(c), (d), Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 310(b), Dec. 29, 1981, [95 Stat. 1535][/us/stat/95/1535]; [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903; [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–142; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title II\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–157.)
 
  __References in Text__ 
 
@@ -99,45 +99,45 @@
 
     1981—Subsec. (b). [Pub. L. 97–113][/us/pl/97/113] provided for maintenance of a revolving fund account in the Treasury consisting of fees, earnings from fees, and income from guaranty operations and authorized investment of account funds in obligations of the United States and use of investment income.
 
-    1979—Subsec. (f). [Pub. L. 96–53, § 112(c)][/us/pl/96/53/s112/c], substituted “the Department of Housing and Urban Development” for “such Department”, and struck out provisions setting forth minimum rate of interest as not less than one-half of one per centum above the then current rate on mortgages insured by the Department of Housing and Urban Development.
+    1979—Subsec. (f). [Pub. L. 96–53][/us/pl/96/53], § 112(c), substituted “the Department of Housing and Urban Development” for “such Department”, and struck out provisions setting forth minimum rate of interest as not less than one-half of one per centum above the then current rate on mortgages insured by the Department of Housing and Urban Development.
 
-    Subsec. (j). [Pub. L. 96–53, § 112(d)][/us/pl/96/53/s112/d], struck out requirement that except for regional projects, guarantees for housing projects be granted to countries receiving or which have received in the two previous years assistance under part I of this subchapter and substituted provisions authorizing face amounts of housing guarantees through September 30, 1982 of not less than $25,000,000 for Israel and Egypt for provisions authorizing face amounts of housing guarantees until September 30, 1978 of an amount not to exceed $75,000,000 in Israel and $30,000,000 in Portugal and Lebanon.
+    Subsec. (j). [Pub. L. 96–53][/us/pl/96/53], § 112(d), struck out requirement that except for regional projects, guarantees for housing projects be granted to countries receiving or which have received in the two previous years assistance under part I of this subchapter and substituted provisions authorizing face amounts of housing guarantees through September 30, 1982 of not less than $25,000,000 for Israel and Egypt for provisions authorizing face amounts of housing guarantees until September 30, 1978 of an amount not to exceed $75,000,000 in Israel and $30,000,000 in Portugal and Lebanon.
 
-    1978—Subsec. (a). [Pub. L. 95–424, § 115(c)][/us/pl/95/424/s115/c], substituted “section 2182 or 2182a” for “section 2181, 2182, or 2182a”.
+    1978—Subsec. (a). [Pub. L. 95–424][/us/pl/95/424], § 115(c), substituted “section 2182 or 2182a” for “section 2181, 2182, or 2182a”.
 
-    Subsec. (b). [Pub. L. 95–424, § 115(d)][/us/pl/95/424/s115/d], struck out “2181 or” after “guarantees issued under section”; substituted “[section 2182 of this title][/us/usc/t22/s2182] and administering housing guaranties heretofore authorized under this subpart and under” for “section 2181 and [section 2182 of this title][/us/usc/t22/s2182] and of”; struck out “2181 or” after “made pursuant to section”, and inserted “this subpart” after “heretofore pursuant to”.
+    Subsec. (b). [Pub. L. 95–424][/us/pl/95/424], § 115(d), struck out “2181 or” after “guarantees issued under section”; substituted “[section 2182 of this title][/us/usc/t22/s2182] and administering housing guaranties heretofore authorized under this subpart and under” for “section 2181 and [section 2182 of this title][/us/usc/t22/s2182] and of”; struck out “2181 or” after “made pursuant to section”, and inserted “this subpart” after “heretofore pursuant to”.
 
-    Subsec. (c). [Pub. L. 95–424, § 115(e)][/us/pl/95/424/s115/e], struck out “section 2181 or” after “guaranties issued under”, and inserted “under this subpart or” after “heretofore”.
+    Subsec. (c). [Pub. L. 95–424][/us/pl/95/424], § 115(e), struck out “section 2181 or” after “guaranties issued under”, and inserted “under this subpart or” after “heretofore”.
 
-    Subsec. (d). [Pub. L. 95–424, § 115(f)][/us/pl/95/424/s115/f], substituted “section 2182 or 2182a” for “section 2181, 2182, 2182a”, and inserted “under this subpart” after “heretofore”.
+    Subsec. (d). [Pub. L. 95–424][/us/pl/95/424], § 115(f), substituted “section 2182 or 2182a” for “section 2181, 2182, 2182a”, and inserted “under this subpart” after “heretofore”.
 
-    Subsec. (f). [Pub. L. 95–424, § 115(g)][/us/pl/95/424/s115/g], substituted “section 2182” for “section 2181 or 2182”.
+    Subsec. (f). [Pub. L. 95–424][/us/pl/95/424], § 115(g), substituted “section 2182” for “section 2181 or 2182”.
 
-    Subsec. (g). [Pub. L. 95–424, § 115(h)][/us/pl/95/424/s115/h], inserted “heretofore under this subpart” after “outstanding”.
+    Subsec. (g). [Pub. L. 95–424][/us/pl/95/424], § 115(h), inserted “heretofore under this subpart” after “outstanding”.
 
-    Subsec. (i). [Pub. L. 95–424, § 115(i)][/us/pl/95/424/s115/i], struck out subsec. (i) directing that the authority of sections 2181 and 2182 of this title shall continue until Sept. 30, 1979.
+    Subsec. (i). [Pub. L. 95–424][/us/pl/95/424], § 115(i), struck out subsec. (i) directing that the authority of sections 2181 and 2182 of this title shall continue until Sept. 30, 1979.
 
-    Subsec. (j). [Pub. L. 95–424, § 115(j)][/us/pl/95/424/s115/j], substituted “section 2182” for “sections 2181 and 2182”.
+    Subsec. (j). [Pub. L. 95–424][/us/pl/95/424], § 115(j), substituted “section 2182” for “sections 2181 and 2182”.
 
-    1977—Subsec. (b). [Pub. L. 95–88, § 117(b)(2)][/us/pl/95/88/s117/b/2], substituted “together with all fees collected in connection with guaranties issued under section 2181 or 2182 of this title or under prior housing guaranty authorities” for “together with all fees collected in connection with guaranties issued hereunder” and inserted provision that fees collected in connection with guaranties issued under [section 2182a of this title][/us/usc/t22/s2182a] shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section.
+    1977—Subsec. (b). [Pub. L. 95–88][/us/pl/95/88], § 117(b)(2), substituted “together with all fees collected in connection with guaranties issued under section 2181 or 2182 of this title or under prior housing guaranty authorities” for “together with all fees collected in connection with guaranties issued hereunder” and inserted provision that fees collected in connection with guaranties issued under [section 2182a of this title][/us/usc/t22/s2182a] shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section.
 
-    Subsec. (i). [Pub. L. 95–88, § 117(a)(3)][/us/pl/95/88/s117/a/3], substituted “September 30, 1979” for “September 30, 1978”.
+    Subsec. (i). [Pub. L. 95–88][/us/pl/95/88], § 117(a)(3), substituted “September 30, 1979” for “September 30, 1978”.
 
-    Subsec. (j). [Pub. L. 95–88, § 117(c)][/us/pl/95/88/s117/c], substituted “September 30, 1978” for “September 30, 1977”, “$75,000,000” for “$50,000,000” in provisions relating to housing guaranties in Israel, “$30,000,000” for “$20,000,000” in provisions relating to housing guaranties in Portugal, and “$30,000,000” for “$15,000,000” in provisions relating to housing guaranties in Lebanon.
+    Subsec. (j). [Pub. L. 95–88][/us/pl/95/88], § 117(c), substituted “September 30, 1978” for “September 30, 1977”, “$75,000,000” for “$50,000,000” in provisions relating to housing guaranties in Israel, “$30,000,000” for “$20,000,000” in provisions relating to housing guaranties in Portugal, and “$30,000,000” for “$15,000,000” in provisions relating to housing guaranties in Lebanon.
 
     1976—Subsec. (j). [Pub. L. 94–329][/us/pl/94/329] authorized President to issue housing guaranties until September 30, 1977, in Lebanon, not exceeding a face amount of $15,000,000.
 
-    1975—Subsec. (i). [Pub. L. 94–161, § 311(5)(A)][/us/pl/94/161/s311/5/A], substituted “September 30, 1978” for “June 30, 1976”.
+    1975—Subsec. (i). [Pub. L. 94–161][/us/pl/94/161], § 311(5)(A), substituted “September 30, 1978” for “June 30, 1976”.
 
-    Subsec. (j). [Pub. L. 94–161, § 311(5)(B)][/us/pl/94/161/s311/5/B], added subsec. (j).
+    Subsec. (j). [Pub. L. 94–161][/us/pl/94/161], § 311(5)(B), added subsec. (j).
 
-    1974—Subsec. (a). [Pub. L. 93–559, § 8(a)(3)][/us/pl/93/559/s8/a/3], inserted reference to [section 2182a of this title][/us/usc/t22/s2182a].
+    1974—Subsec. (a). [Pub. L. 93–559][/us/pl/93/559], § 8(a)(3), inserted reference to [section 2182a of this title][/us/usc/t22/s2182a].
 
-    Subsec. (b). [Pub. L. 93–559, § 8(a)(4)][/us/pl/93/559/s8/a/4], substituted in first sentence “section 2181 and [section 2182 of this title][/us/usc/t22/s2182]” for “this subpart”.
+    Subsec. (b). [Pub. L. 93–559][/us/pl/93/559], § 8(a)(4), substituted in first sentence “section 2181 and [section 2182 of this title][/us/usc/t22/s2182]” for “this subpart”.
 
-    Subsec. (d). [Pub. L. 93–559, § 8(a)(5)][/us/pl/93/559/s8/a/5], substituted “section 2181, 2182, 2182a, or previously under [section 2200 of this title][/us/usc/t22/s2200]” for “section 2181 or [section 2182 of this title][/us/usc/t22/s2182]”.
+    Subsec. (d). [Pub. L. 93–559][/us/pl/93/559], § 8(a)(5), substituted “section 2181, 2182, 2182a, or previously under [section 2200 of this title][/us/usc/t22/s2200]” for “section 2181 or [section 2182 of this title][/us/usc/t22/s2182]”.
 
-    Subsec. (i). [Pub. L. 93–559, § 7(2)][/us/pl/93/559/s7/2], substituted “June 30, 1976” for “June 30, 1975”.
+    Subsec. (i). [Pub. L. 93–559][/us/pl/93/559], § 7(2), substituted “June 30, 1976” for “June 30, 1975”.
 
     1973—Subsec. (i). [Pub. L. 93–189][/us/pl/93/189] substituted “June 30, 1975” for “June 30, 1974”.
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by [Pub. L. 98–473, § 101(1)][/us/pl/98/473/s101/1] \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903, provided that: 
+Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by [Pub. L. 98–473][/us/pl/98/473], § 101(1) \[title V, § 541(a)\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1903, provided that: 
 
 > “The amendment made by subsection (c) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 12, 1984\].”
 
@@ -175,7 +175,7 @@ Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
-[/us/pl/95/424/s115/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fi
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F952
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -183,27 +183,27 @@ Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10
 [/us/stat/83/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F808
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F22
-[/us/pl/93/189/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs5%2F2
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F717
 [/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1796
-[/us/pl/94/161/s311/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F5
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F861
-[/us/pl/94/329/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs414
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F761
-[/us/pl/95/88/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs117%2Fa%2F3
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F540
-[/us/pl/95/424/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fc
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F951
-[/us/pl/96/53/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fc
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F364
-[/us/pl/97/113/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs310%2Fb
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1535
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F805
@@ -235,36 +235,36 @@ Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
-[/us/pl/96/53/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fc
-[/us/pl/96/53/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs112%2Fd
-[/us/pl/95/424/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fc
-[/us/pl/95/424/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fd
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
-[/us/pl/95/424/s115/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fe
-[/us/pl/95/424/s115/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Ff
-[/us/pl/95/424/s115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fg
-[/us/pl/95/424/s115/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fh
-[/us/pl/95/424/s115/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fi
-[/us/pl/95/424/s115/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs115%2Fj
-[/us/pl/95/88/s117/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs117%2Fb%2F2
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/usc/t22/s2182a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182a
-[/us/pl/95/88/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs117%2Fa%2F3
-[/us/pl/95/88/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs117%2Fc
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
-[/us/pl/94/161/s311/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F5%2FA
-[/us/pl/94/161/s311/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F5%2FB
-[/us/pl/93/559/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs8%2Fa%2F3
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/usc/t22/s2182a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182a
-[/us/pl/93/559/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs8%2Fa%2F4
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
-[/us/pl/93/559/s8/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs8%2Fa%2F5
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
 [/us/usc/t22/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2182
-[/us/pl/93/559/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs7%2F2
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512%2Fa

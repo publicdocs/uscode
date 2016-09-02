@@ -23,7 +23,7 @@
 
         The district courts of the United States (including the courts enumerated in [section 460 of title 28][/us/usc/t28/s460]) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
 
-([Pub. L. 89–532, § 3][/us/pl/89/532/s3], Aug. 11, 1966, [80 Stat. 344][/us/stat/80/344].)
+([Pub. L. 89–532][/us/pl/89/532], § 3, Aug. 11, 1966, [80 Stat. 344][/us/stat/80/344].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t9/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs1
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
-[/us/pl/89/532/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F532%2Fs3
+[/us/pl/89/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F532
 [/us/stat/80/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F344
 
 

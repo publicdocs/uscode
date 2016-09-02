@@ -69,7 +69,7 @@
 
         (3) The Federal Advisory Committee Act shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that Act.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 406, as added [Pub. L. 102–138, title I, § 198(a)][/us/pl/102/138/s198/a], Oct. 28, 1991, [105 Stat. 688][/us/stat/105/688].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 406, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(a), Oct. 28, 1991, [105 Stat. 688][/us/stat/105/688].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Termination of Previous Advisory Committee on Historical Diplomatic Documentation__ 
 
-[Pub. L. 102–138, title I, § 198(b)][/us/pl/102/138/s198/b], Oct. 28, 1991, [105 Stat. 691][/us/stat/105/691], provided that: 
+[Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(b), Oct. 28, 1991, [105 Stat. 691][/us/stat/105/691], provided that: 
 
 > “The Advisory Committee on Historical Documentation for the Department of State established before the date of enactment of this Act \[Oct. 28, 1991\] shall terminate on such date.”
 
@@ -90,11 +90,11 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F688
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/102/138/s198/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F691
 
 

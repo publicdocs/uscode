@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the Government of the United States in, and to appoint the United States delegates and their alternates to, the Pan American Railway Congress, the constitution and bylaws of which were approved in Montevideo, Uruguay, April 1946, and deposited in the archives of the Pan American Union in Washington.
 
-([June 28, 1948, ch. 686, § 1][/us/act/1948-06-28/ch686/s1], [62 Stat. 1060][/us/stat/62/1060].)
+([June 28, 1948, ch. 686][/us/act/1948-06-28/ch686], § 1, [62 Stat. 1060][/us/stat/62/1060].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-28/ch686/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch686%2Fs1
+[/us/act/1948-06-28/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch686
 [/us/stat/62/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1060
 
 

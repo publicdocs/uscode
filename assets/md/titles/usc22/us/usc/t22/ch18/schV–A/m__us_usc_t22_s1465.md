@@ -25,7 +25,7 @@
 
     (4) that the Voice of America already broadcasts to Cuba information that represents America, not any single segment of American society, and includes a balanced and comprehensive projection of significant American thought and institutions but that there is a need for broadcasts to Cuba which provide news, commentary and other information about events in Cuba and elsewhere to promote the cause of freedom in Cuba.
 
-([Pub. L. 98–111, § 2][/us/pl/98/111/s2], Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749].)
+([Pub. L. 98–111][/us/pl/98/111], § 2, Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749].)
 
  __Repeal of Section__ 
 
@@ -37,7 +37,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–111, § 1][/us/pl/98/111/s1], Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749], provided: 
+[Pub. L. 98–111][/us/pl/98/111], § 1, Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Radio Broadcasting to Cuba Act’.”
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/98/111/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs2
+[/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F749
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
-[/us/pl/98/111/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs1
+[/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F749
 
 

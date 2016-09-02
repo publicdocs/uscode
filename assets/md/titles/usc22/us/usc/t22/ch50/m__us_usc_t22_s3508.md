@@ -35,7 +35,7 @@
 
         Alien participants in any program of the Institute, including Institute Fellows and their dependents, may be admitted to the United States, if otherwise qualified as non-immigrants under [section 1101(a)(15) of title 8][/us/usc/t8/s1101/a/15], for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
 
-([Pub. L. 96–53, title IV, § 408][/us/pl/96/53/s408], Aug. 14, 1979, [93 Stat. 375][/us/stat/93/375].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 408, Aug. 14, 1979, [93 Stat. 375][/us/stat/93/375].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
-[/us/pl/96/53/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs408
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F375
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

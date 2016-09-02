@@ -27,7 +27,7 @@
 
         An employee of the Corporation, including an individual detailed to or contracted by the Corporation, and a member of the family of such employee, shall be subject to [section 3927 of this title][/us/usc/t22/s3927] in the same manner as United States Government employees while the employee is performing duties in any country or place outside the United States if such employee or member of the family of such employee is not a national of or permanently resident in such country or place.
 
-([Pub. L. 108–199, div. D, title VI, § 618][/us/pl/108/199/s618], Jan. 23, 2004, [118 Stat. 225][/us/stat/118/225].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 618, Jan. 23, 2004, [118 Stat. 225][/us/stat/118/225].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
-[/us/pl/108/199/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs618
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F225
 
 

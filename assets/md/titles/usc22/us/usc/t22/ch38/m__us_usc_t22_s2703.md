@@ -45,7 +45,7 @@
 
         (2) whether local child care is available.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 31, as added [Pub. L. 96–465, title II, § 2201(a)][/us/pl/96/465/s2201/a], Oct. 17, 1980, [94 Stat. 2156][/us/stat/94/2156]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; amended [Pub. L. 101–246, title I, § 147][/us/pl/101/246/s147], Feb. 16, 1990, [104 Stat. 38][/us/stat/104/38]; [Pub. L. 102–138, title I][/us/pl/102/138], §§ 121, 144, Oct. 28, 1991, [105 Stat. 658][/us/stat/105/658], 668; [Pub. L. 103–236, title I, § 124][/us/pl/103/236/s124], Apr. 30, 1994, [108 Stat. 393][/us/stat/108/393].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 31, as added [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2201(a), Oct. 17, 1980, [94 Stat. 2156][/us/stat/94/2156]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; amended [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 147, Feb. 16, 1990, [104 Stat. 38][/us/stat/104/38]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], §§ 121, 144, Oct. 28, 1991, [105 Stat. 658][/us/stat/105/658], 668; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 124, Apr. 30, 1994, [108 Stat. 393][/us/stat/108/393].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     1994—Subsec. (e). [Pub. L. 103–236][/us/pl/103/236] substituted “The” for “For the fiscal years 1992 and 1993, the” in introductory provisions.
 
-    1991—Subsec. (c). [Pub. L. 102–138, § 144][/us/pl/102/138/s144], inserted before period at end of first sentence “, and, where determined by the Secretary to be appropriate due to exceptional circumstances, to United States citizens hired outside of the host country to serve as teaching staff for such dependents abroad”.
+    1991—Subsec. (c). [Pub. L. 102–138][/us/pl/102/138], § 144, inserted before period at end of first sentence “, and, where determined by the Secretary to be appropriate due to exceptional circumstances, to United States citizens hired outside of the host country to serve as teaching staff for such dependents abroad”.
 
-    Subsec. (e). [Pub. L. 102–138, § 121][/us/pl/102/138/s121], substituted “1992 and 1993” for “1990 and 1991” in introductory provisions.
+    Subsec. (e). [Pub. L. 102–138][/us/pl/102/138], § 121, substituted “1992 and 1993” for “1990 and 1991” in introductory provisions.
 
     1990—Subsec. (e). [Pub. L. 101–246][/us/pl/101/246] added subsec. (e).
 
@@ -67,7 +67,7 @@
 
  __Authority To Provide Accommodation and Subsistence to Individuals Serving in Iraq and Afghanistan__ 
 
-[Pub. L. 109–234, title I, § 1602(e)][/us/pl/109/234/s1602/e], June 15, 2006, [120 Stat. 442][/us/stat/120/442], provided that: 
+[Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1602(e), June 15, 2006, [120 Stat. 442][/us/stat/120/442], provided that: 
 
 > “The Secretary of State may provide during any fiscal year, with or without reimbursement, accommodation and subsistence to personnel in Iraq and Afghanistan for whom the Chief of Mission is responsible.”
 
@@ -81,26 +81,26 @@
 [/us/usc/t22/s292–300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292%E2%80%93300
 [/us/usc/t22/s2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2684
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/96/465/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2201%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2156
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/101/246/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs147
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F38
-[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F658
-[/us/pl/103/236/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs124
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F393
 [/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F403
 [/us/usc/t22/s299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs299
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/102/138/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs144
-[/us/pl/102/138/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs121
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/109/234/s1602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1602%2Fe
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F442
 
 

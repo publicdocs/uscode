@@ -31,7 +31,7 @@
 
         (5) the foregoing paragraphs of this subsection do not apply to expenditures made by the United States in fulfilling United States obligations to transfer the remains of our honored dead from Mount Hope Cemetery in the former Canal Zone to an appropriate and dignified resting place in accordance with Reservation 3 to the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal.
 
-([Pub. L. 96–70, title I, § 1344][/us/pl/96/70/s1344], Sept. 27, 1979, [93 Stat. 484][/us/stat/93/484]; [Pub. L. 100–203, title V, § 5428(c)][/us/pl/100/203/s5428/c], Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1344, Sept. 27, 1979, [93 Stat. 484][/us/stat/93/484]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5428(c), Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t22/s3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3784
-[/us/pl/96/70/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1344
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F484
-[/us/pl/100/203/s5428/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5428%2Fc
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-274
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

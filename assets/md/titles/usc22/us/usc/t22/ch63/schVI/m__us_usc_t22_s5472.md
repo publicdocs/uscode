@@ -21,7 +21,7 @@
 
     (2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
 
-([Pub. L. 101–179, title VII, § 702][/us/pl/101/179/s702], Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
+([Pub. L. 101–179, title VII][/us/pl/101/179/tVII], § 702, Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/101/179/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs702
+[/us/pl/101/179/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVII
 [/us/stat/103/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1320
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503

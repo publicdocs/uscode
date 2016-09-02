@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t22/ch65/m__us_usc_t22_s5605.md) | [Next](./../../../..//us/usc/t22/ch66/m__us_usc_t22_ch66.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5606)
 
-## § 5606. Repealed. [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(B)][/us/pl/107/228/s1308/g/1/B], Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441]
+## § 5606. Repealed. [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1308(g)(1)(B), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441]
 
-    Section, [Pub. L. 102–182, title III, § 308][/us/pl/102/182/s308], Dec. 4, 1991, [105 Stat. 1257][/us/stat/105/1257], related to Presidential reporting requirements.
+    Section, [Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 308, Dec. 4, 1991, [105 Stat. 1257][/us/stat/105/1257], related to Presidential reporting requirements.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/228/s1308/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308%2Fg%2F1%2FB
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1441
-[/us/pl/102/182/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs308
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1257
 
 

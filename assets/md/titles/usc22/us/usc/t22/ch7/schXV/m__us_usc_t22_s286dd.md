@@ -21,7 +21,7 @@
 
     (2) to work to insure that the Fund encourages borrowing countries and banking institutions to negotiate, where appropriate, a rescheduling of debt which is consistent with safe and sound banking practices and the country’s ability to pay.
 
-([July 31, 1945, ch. 339, § 46][/us/act/1945-07-31/ch339/s46], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 807\], Nov. 30, 1983, [97 Stat. 1273][/us/stat/97/1273].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 46, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 807\], Nov. 30, 1983, [97 Stat. 1273][/us/stat/97/1273].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs46
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1273
 
 

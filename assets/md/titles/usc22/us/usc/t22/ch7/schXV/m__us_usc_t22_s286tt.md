@@ -41,7 +41,7 @@
 
         (3) the borrowing country’s debt management strategy.
 
-([July 31, 1945, ch. 339, § 68][/us/act/1945-07-31/ch339/s68], as added [Pub. L. 111–203, title XV, § 1501][/us/pl/111/203/s1501], July 21, 2010, [124 Stat. 2212][/us/stat/124/2212].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 68, as added [Pub. L. 111–203, title XV][/us/pl/111/203/tXV], § 1501, July 21, 2010, [124 Stat. 2212][/us/stat/124/2212].)
 
  __Effective Date__ 
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs68
-[/us/pl/111/203/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1501
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/111/203/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXV
 [/us/stat/124/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2212
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

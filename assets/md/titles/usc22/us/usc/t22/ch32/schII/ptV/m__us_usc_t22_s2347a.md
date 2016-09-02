@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the President to carry out the purposes of this part $56,221,000 for fiscal year 1986 and $56,221,000 for fiscal year 1987.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 542, as added [Pub. L. 94–329, title I, § 106(a)][/us/pl/94/329/s106/a], June 30, 1976, [90 Stat. 732][/us/stat/90/732]; amended [Pub. L. 95–92, § 10][/us/pl/95/92/s10], Aug. 4, 1977, [91 Stat. 619][/us/stat/91/619]; [Pub. L. 95–384, § 11(a)][/us/pl/95/384/s11/a], Sept. 26, 1978, [92 Stat. 736][/us/stat/92/736]; [Pub. L. 96–92, § 9][/us/pl/96/92/s9], Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I, § 115(a)][/us/pl/96/533/s115/a], Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 97–113, title I, § 113][/us/pl/97/113/s113], title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1528][/us/stat/95/1528], 1560; [Pub. L. 99–83, title I, § 104][/us/pl/99/83/s104], Aug. 8, 1985, [99 Stat. 195][/us/stat/99/195].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 542, as added [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(a), June 30, 1976, [90 Stat. 732][/us/stat/90/732]; amended [Pub. L. 95–92][/us/pl/95/92], § 10, Aug. 4, 1977, [91 Stat. 619][/us/stat/91/619]; [Pub. L. 95–384][/us/pl/95/384], § 11(a), Sept. 26, 1978, [92 Stat. 736][/us/stat/92/736]; [Pub. L. 96–92][/us/pl/96/92], § 9, Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 115(a), Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 113, title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1528][/us/stat/95/1528], 1560; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 104, Aug. 8, 1985, [99 Stat. 195][/us/stat/99/195].)
 
  __Amendments__ 
 
@@ -49,19 +49,19 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/329/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fa
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F732
-[/us/pl/95/92/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs10
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F619
-[/us/pl/95/384/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs11%2Fa
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F736
-[/us/pl/96/92/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs9
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F705
-[/us/pl/96/533/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs115%2Fa
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3140
-[/us/pl/97/113/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs113
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1528
-[/us/pl/99/83/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs104
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F195
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113

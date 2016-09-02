@@ -61,7 +61,7 @@
 
         The proceeds from the sale, reduction, or cancellation of any loan sold, reduced, or canceled pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such loan.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 808, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 889][/us/stat/112/889]; amended [Pub. L. 107–26, § 2(b)][/us/pl/107/26/s2/b], Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 808, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 889][/us/stat/112/889]; amended [Pub. L. 107–26][/us/pl/107/26], § 2(b), Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -95,9 +95,9 @@
 [/us/usc/t22/s2431g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431g%2Fd
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F889
-[/us/pl/107/26/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26%2Fs2%2Fb
+[/us/pl/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26
 [/us/stat/115/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F206
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

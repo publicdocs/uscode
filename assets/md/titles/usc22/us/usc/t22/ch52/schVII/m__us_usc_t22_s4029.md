@@ -37,7 +37,7 @@
 
         The Secretary shall ensure that employees of the Department of State who are members of the civil service and who are assigned to positions described in paragraph (2) receive training described in paragraph (1) prior to the beginning of service for such assignment or, if receiving such training at such time is not practical, within the first year of beginning such assignment.
 
-([Pub. L. 108–458, title VII, § 7111(c)][/us/pl/108/458/s7111/c], Dec. 17, 2004, [118 Stat. 3795][/us/stat/118/3795].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7111(c), Dec. 17, 2004, [118 Stat. 3795][/us/stat/118/3795].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s7111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7111%2Fc
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3795
 
 

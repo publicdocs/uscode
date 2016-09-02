@@ -23,7 +23,7 @@
 
         The United States Governor of the Corporation is authorized to agree to and accept an amendment to Article IV, Section 3(a) of the Articles of Agreement of the Corporation that achieves an increase in basic votes to 5.55 percent of total votes.
 
-([Aug. 11, 1955, ch. 788, § 17][/us/act/1955-08-11/ch788/s17], as added [Pub. L. 112–74, div. I, title VII, § 7081(b)][/us/pl/112/74/s7081/b], Dec. 23, 2011, [125 Stat. 1259][/us/stat/125/1259].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 17, as added [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7081(b), Dec. 23, 2011, [125 Stat. 1259][/us/stat/125/1259].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch788/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs17
-[/us/pl/112/74/s7081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7081%2Fb
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1259
 
 

@@ -17,7 +17,7 @@
 
     For the purpose of providing United States Special Resources to the Bank there is hereby authorized to be appropriated $100,000,000, all of which shall remain available until expended.
 
-([Pub. L. 89–369, § 17][/us/pl/89/369/s17], as added [Pub. L. 92–245, § 1][/us/pl/92/245/s1], Mar. 10, 1972, [86 Stat. 58][/us/stat/86/58]; amended [Pub. L. 93–189, § 28][/us/pl/93/189/s28], Dec. 17, 1973, [87 Stat. 732][/us/stat/87/732].)
+([Pub. L. 89–369][/us/pl/89/369], § 17, as added [Pub. L. 92–245][/us/pl/92/245], § 1, Mar. 10, 1972, [86 Stat. 58][/us/stat/86/58]; amended [Pub. L. 93–189][/us/pl/93/189], § 28, Dec. 17, 1973, [87 Stat. 732][/us/stat/87/732].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/89/369/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs17
-[/us/pl/92/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245%2Fs1
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/92/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F245
 [/us/stat/86/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F58
-[/us/pl/93/189/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs28
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F732
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 

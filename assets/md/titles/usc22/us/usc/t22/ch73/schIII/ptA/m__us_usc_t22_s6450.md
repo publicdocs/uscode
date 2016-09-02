@@ -17,7 +17,7 @@
 
     No court shall have jurisdiction to review any Presidential determination or agency action under this chapter or any amendment made by this chapter.
 
-([Pub. L. 105–292, title IV, § 410][/us/pl/105/292/s410], Oct. 27, 1998, [112 Stat. 2809][/us/stat/112/2809].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 410, Oct. 27, 1998, [112 Stat. 2809][/us/stat/112/2809].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs410
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2809
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787

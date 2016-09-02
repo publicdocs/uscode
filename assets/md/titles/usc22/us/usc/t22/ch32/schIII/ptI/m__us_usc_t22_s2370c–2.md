@@ -39,7 +39,7 @@
 
         (4) a description of any assistance provided under sections 2370c to 2370c–2 of this title pursuant to the issuance of such waiver.
 
-([Pub. L. 110–457, title IV, § 405][/us/pl/110/457/s405], Dec. 23, 2008, [122 Stat. 5090][/us/stat/122/5090].)
+([Pub. L. 110–457, title IV][/us/pl/110/457/tIV], § 405, Dec. 23, 2008, [122 Stat. 5090][/us/stat/122/5090].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t22/s2370c–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370c%E2%80%931%2Fb%2F2
 [/us/usc/t22/s2370c–1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370c%E2%80%931%2Fc%2F1
-[/us/pl/110/457/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs405
+[/us/pl/110/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIV
 [/us/stat/122/5090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5090
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087

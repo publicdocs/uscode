@@ -29,13 +29,13 @@
 
         Accordingly, the first report pursuant to subsection (c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
 
-([Pub. L. 101–179, title VII, § 704][/us/pl/101/179/s704], Nov. 28, 1989, [103 Stat. 1321][/us/stat/103/1321]; [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].)
+([Pub. L. 101–179, title VII][/us/pl/101/179/tVII], § 704, Nov. 28, 1989, [103 Stat. 1321][/us/stat/103/1321]; [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–179][/us/pl/101/179], Nov. 28, 1989, [103 Stat. 1298][/us/stat/103/1298], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title][/us/usc/t22/s5401] and Tables.
 
-    Subsection (c), referred to in subsec. (b), was repealed by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].
+    Subsection (c), referred to in subsec. (b), was repealed by [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].
 
  __Amendments__ 
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/101/179/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs704
+[/us/pl/101/179/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVII
 [/us/stat/103/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1321
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 

@@ -33,7 +33,7 @@
 
         All unclassified portions of such report shall be made available to the public on the Internet through the Department of State.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 655, as added [Pub. L. 104–106, div. A, title XIII, § 1324(c)][/us/pl/104/106/s1324/c], Feb. 10, 1996, [110 Stat. 481][/us/stat/110/481]; amended [Pub. L. 104–164, title I, § 148][/us/pl/104/164/s148], July 21, 1996, [110 Stat. 1435][/us/stat/110/1435]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, § 1306\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–512; [Pub. L. 106–280, title VII, § 702][/us/pl/106/280/s702], Oct. 6, 2000, [114 Stat. 861][/us/stat/114/861]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228], §§ 1205(c), 1262(b), Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428], 1434.)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 655, as added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1324(c), Feb. 10, 1996, [110 Stat. 481][/us/stat/110/481]; amended [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 148, July 21, 1996, [110 Stat. 1435][/us/stat/110/1435]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XIII, § 1306\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–512; [Pub. L. 106–280, title VII][/us/pl/106/280/tVII], § 702, Oct. 6, 2000, [114 Stat. 861][/us/stat/114/861]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], §§ 1205(c), 1262(b), Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428], 1434.)
 
  __References in Text__ 
 
@@ -43,23 +43,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 2415, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 655, as added [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(b), Feb. 7, 1972, [86 Stat. 29][/us/stat/86/29]; amended [Pub. L. 93–559, § 39(a)][/us/pl/93/559/s39/a], Dec. 30, 1974, [88 Stat. 1810][/us/stat/88/1810]; [Pub. L. 94–329, title IV, § 413(a)][/us/pl/94/329/s413/a], June 30, 1976, [90 Stat. 761][/us/stat/90/761], related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424], §§ 604, 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
+    A prior section 2415, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 655, as added [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(b), Feb. 7, 1972, [86 Stat. 29][/us/stat/86/29]; amended [Pub. L. 93–559][/us/pl/93/559], § 39(a), Dec. 30, 1974, [88 Stat. 1810][/us/stat/88/1810]; [Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 413(a), June 30, 1976, [90 Stat. 761][/us/stat/90/761], related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], §§ 604, 605, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], effective Oct. 1, 1978.
 
  __Amendments__ 
 
-    2002—Subsec. (b)(3). [Pub. L. 107–228, § 1205(c)][/us/pl/107/228/s1205/c], inserted before period at end “, including, in the case of defense articles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under [section 922 of title 18][/us/usc/t18/s922], that were licensed for export during the period covered by the report”.
+    2002—Subsec. (b)(3). [Pub. L. 107–228][/us/pl/107/228], § 1205(c), inserted before period at end “, including, in the case of defense articles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under [section 922 of title 18][/us/usc/t18/s922], that were licensed for export during the period covered by the report”.
 
-    Subsecs. (c), (d). [Pub. L. 107–228, § 1262(b)][/us/pl/107/228/s1262/b], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Each such report shall also include the total amount of military items manufactured outside the United States that were imported into the United States during the fiscal year covered by the report. For each country of origin the report shall show the type of item being imported and the total amount of the items.”
+    Subsecs. (c), (d). [Pub. L. 107–228][/us/pl/107/228], § 1262(b), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Each such report shall also include the total amount of military items manufactured outside the United States that were imported into the United States during the fiscal year covered by the report. For each country of origin the report shall show the type of item being imported and the total amount of the items.”
 
     2000—Subsec. (b)(3). [Pub. L. 106–280][/us/pl/106/280] inserted before the period at end “and, if so, a specification of those defense articles that were exported during the fiscal year covered by the report”.
 
-    1999—Subsec. (b). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XIII, § 1306(a)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training authorized by the United States, excluding that which is pursuant to activies reportable under title V of the National Security Act of 1947, to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
+    1999—Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XIII, § 1306(a)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training authorized by the United States, excluding that which is pursuant to activies reportable under title V of the National Security Act of 1947, to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
 
     “(1) were furnished by grant under part II or part V of subchapter II of this chapter or under any other authority of law or by sale under chapter 2 of the Arms Export Control Act; or
 
     “(2) were licensed for export under section 38 of the Arms Export Control Act.”
 
-    Subsec. (d). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XIII, § 1306(b)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XIII, § 1306(b)\], added subsec. (d).
 
     1996—[Pub. L. 104–164][/us/pl/104/164] substituted “Annual military assistance report” for “Annual report on military assistance, military exports, and military imports” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -85,15 +85,15 @@
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/106/s1324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1324%2Fc
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F481
-[/us/pl/104/164/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs148
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1435
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/280/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs702
+[/us/pl/106/280/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtVII
 [/us/stat/114/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F861
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1428
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -103,18 +103,18 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F29
-[/us/pl/93/559/s39/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs39%2Fa
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1810
-[/us/pl/94/329/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs413%2Fa
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F761
-[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
-[/us/pl/107/228/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1205%2Fc
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
-[/us/pl/107/228/s1262/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1262%2Fb
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

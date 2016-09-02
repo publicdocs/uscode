@@ -31,11 +31,11 @@
 
         Nothing in this Act shall be construed to permit the communication or disclosure to the IAEA or IAEA employees of national security information and other classified information.
 
-([Pub. L. 109–401, title II, § 261][/us/pl/109/401/s261], Dec. 18, 2006, [120 Stat. 2751][/us/stat/120/2751].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 261, Dec. 18, 2006, [120 Stat. 2751][/us/stat/120/2751].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (c), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (c), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     This Act, referred to in subsec. (d), is [Pub. L. 109–401][/us/pl/109/401], Dec. 18, 2006, [120 Stat. 2726][/us/stat/120/2726], which enacted this chapter and chapter 87 (§ 8001 et seq.) of this title and amended [section 2652c of this title][/us/usc/t22/s2652c] and [section 2153 of Title 42][/us/usc/t42/s2153], The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
@@ -48,10 +48,10 @@
 
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
-[/us/pl/109/401/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs261
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2751
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401

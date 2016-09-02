@@ -75,7 +75,7 @@
 
             The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
-([Pub. L. 106–386, div. A, § 112A][/us/pl/106/386/s112A], as added [Pub. L. 108–193, § 6(g)(1)][/us/pl/108/193/s6/g/1], Dec. 19, 2003, [117 Stat. 2883][/us/stat/117/2883]; amended [Pub. L. 109–164, title I, § 104(c)(1)][/us/pl/109/164/s104/c/1], Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564]; [Pub. L. 110–457, title I, § 108(a)][/us/pl/110/457/s108/a], Dec. 23, 2008, [122 Stat. 5050][/us/stat/122/5050]; [Pub. L. 113–4, title XII, § 1251(1)][/us/pl/113/4/s1251/1], Mar. 7, 2013, [127 Stat. 155][/us/stat/127/155].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112A, as added [Pub. L. 108–193][/us/pl/108/193], § 6(g)(1), Dec. 19, 2003, [117 Stat. 2883][/us/stat/117/2883]; amended [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 104(c)(1), Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564]; [Pub. L. 110–457, title I][/us/pl/110/457/tI], § 108(a), Dec. 23, 2008, [122 Stat. 5050][/us/stat/122/5050]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1251(1), Mar. 7, 2013, [127 Stat. 155][/us/stat/127/155].)
 
  __References in Text__ 
 
@@ -85,9 +85,9 @@
 
     2013—Subsec. (b)(4). [Pub. L. 113–4][/us/pl/113/4] substituted “$1,000,000” for “$2,000,000” and “2014 through 2017” for “2008 through 2011”.
 
-    2008—Subsec. (a)(5). [Pub. L. 110–457, § 108(a)(1)][/us/pl/110/457/s108/a/1], amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
+    2008—Subsec. (a)(5). [Pub. L. 110–457][/us/pl/110/457], § 108(a)(1), amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
 
-    Subsec. (b). [Pub. L. 110–457, § 108(a)(2)][/us/pl/110/457/s108/a/2], amended subsec. (b) generally. Prior to amendment, text read as follows: “The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to [section 1777 of title 8][/us/usc/t8/s1777]).”
+    Subsec. (b). [Pub. L. 110–457][/us/pl/110/457], § 108(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to [section 1777 of title 8][/us/usc/t8/s1777]).”
 
     2006—[Pub. L. 109–164][/us/pl/109/164] designated existing provisions as subsec. (a), inserted subsec. heading, substituted “the Director of National Intelligence” for “the Director of Central Intelligence” in introductory provisions, inserted “, particularly HIV/AIDS” before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
 
@@ -103,21 +103,21 @@
 ----------
 
 [/us/usc/t8/s1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1777
-[/us/pl/106/386/s112A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112A
-[/us/pl/108/193/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fg%2F1
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2883
-[/us/pl/109/164/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fc%2F1
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3564
-[/us/pl/110/457/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs108%2Fa
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5050
-[/us/pl/113/4/s1251/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1251%2F1
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F155
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/110/457/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs108%2Fa%2F1
-[/us/pl/110/457/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs108%2Fa%2F2
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/usc/t8/s1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1777
 [/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
 [/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103

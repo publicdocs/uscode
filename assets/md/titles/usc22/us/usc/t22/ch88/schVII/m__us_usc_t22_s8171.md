@@ -17,7 +17,7 @@
 
     Not later than 60 days before submitting the initial United States declaration to the IAEA under the Additional Protocol, the President shall submit to Congress a list of the sites, locations, facilities, and activities in the United States that the President intends to declare to the IAEA, and a report thereon.
 
-([Pub. L. 109–401, title II, § 271][/us/pl/109/401/s271], Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 271, Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs271
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2752
 
 

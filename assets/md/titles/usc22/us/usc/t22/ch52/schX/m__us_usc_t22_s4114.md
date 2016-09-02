@@ -43,7 +43,7 @@
 
         Resolutions of disputes under this section shall not be subject to judicial review.
 
-([Pub. L. 96–465, title I, § 1014][/us/pl/96/465/s1014], Oct. 17, 1980, [94 Stat. 2137][/us/stat/94/2137].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1014, Oct. 17, 1980, [94 Stat. 2137][/us/stat/94/2137].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1014
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2137
 
 

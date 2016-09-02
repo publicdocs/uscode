@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1783.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1796)
+[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1784...1795.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1796)
 
 ## § 1796. Participation in Joint Commission on Rural Reconstruction in China
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1783.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1796)
+[Previous](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1784...1795.md) | [Next](./../../../../..//us/usc/t22/ch24/schI/m__us_usc_t22_s1797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1796)
 
 ----------
 ----------

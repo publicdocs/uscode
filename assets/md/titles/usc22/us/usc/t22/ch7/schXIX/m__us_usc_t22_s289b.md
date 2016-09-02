@@ -27,7 +27,7 @@
 
         (2) such other expenses as the Secretary of State deems necessary to participation by the United States in the activities of the Organization; Provided, That the provisions of [section 287e of this title][/us/usc/t22/s287e] and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVI of this chapter shall be applicable to any expenses incurred pursuant to this chapter.
 
-([July 1, 1947, ch. 185, § 3][/us/act/1947-07-01/ch185/s3], [61 Stat. 215][/us/stat/61/215]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title II, § 202(2), title XI, § 1106(a), [63 Stat. 954][/us/stat/63/954], 972.)
+([July 1, 1947, ch. 185][/us/act/1947-07-01/ch185], § 3, [61 Stat. 215][/us/stat/61/215]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title II, § 202(2), title XI, § 1106(a), [63 Stat. 954][/us/stat/63/954], 972.)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -54,11 +54,11 @@
 
 [/us/usc/t22/s289a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs289a
 [/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e
-[/us/act/1947-07-01/ch185/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-01%2Fch185%2Fs3
+[/us/act/1947-07-01/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-01%2Fch185
 [/us/stat/61/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F215
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F954
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

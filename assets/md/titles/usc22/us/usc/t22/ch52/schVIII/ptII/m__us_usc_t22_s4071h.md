@@ -27,7 +27,7 @@
 
         At least every 5 years, the Secretary of the Treasury shall prepare periodic valuations of the Foreign Service Pension System and shall advise the Secretary of State of (1) the normal cost of the System, (2) the supplemental liability of the System, and (3) the amounts necessary to finance the costs of the System.
 
-([Pub. L. 96–465, title I, § 859][/us/pl/96/465/s859], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 619][/us/stat/100/619].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 859, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 619][/us/stat/100/619].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t22/s4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4048
-[/us/pl/96/465/s859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs859
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F619
 
 

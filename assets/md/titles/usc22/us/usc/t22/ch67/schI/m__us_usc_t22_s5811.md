@@ -37,11 +37,11 @@
 
     (7) trade and investment opportunities in the independent states of the former Soviet Union will generate employment and other economic benefits for the United States as the economies of the independent states of the former Soviet Union begin to realize their enormous potential as both customers and suppliers.
 
-([Pub. L. 102–511, title I, § 101][/us/pl/102/511/s101], Oct. 24, 1992, [106 Stat. 3321][/us/stat/106/3321].)
+([Pub. L. 102–511, title I][/us/pl/102/511/tI], § 101, Oct. 24, 1992, [106 Stat. 3321][/us/stat/106/3321].)
 
  __Sergei Magnitsky Rule of Law Accountability__ 
 
-[Pub. L. 112–208, title IV][/us/pl/112/208], Dec. 14, 2012, [126 Stat. 1502][/us/stat/126/1502], provided that:
+[Pub. L. 112–208, title IV][/us/pl/112/208/tIV], Dec. 14, 2012, [126 Stat. 1502][/us/stat/126/1502], provided that:
 
 > “SEC. 401. __SHORT TITLE.__ 
 
@@ -585,7 +585,7 @@
 
 >         “(C) any other individual determined by the Secretary of State (or the Secretary’s designee) to be personally and substantially involved in the formulation or execution of the policies of the Government of Belarus that are in contradiction of internationally recognized human rights standards.”
 
-\[[Pub. L. 109–480, § 4(c)(2)][/us/pl/109/480/s4/c/2], Jan. 12, 2007, [120 Stat. 3668][/us/stat/120/3668], provided that: 
+\[[Pub. L. 109–480][/us/pl/109/480], § 4(c)(2), Jan. 12, 2007, [120 Stat. 3668][/us/stat/120/3668], provided that: 
 
 > “The amendment made by paragraph (1) \[amending [section 4(d)(1) of Pub. L. 108–347][/us/pl/108/347/s4/d/1], set out in the note above\] shall not be construed to affect the availability of funds appropriated pursuant to the authorization of appropriations under section 4(d) of the Belarus Democracy Act of 2004 \[[Pub. L. 108–347][/us/pl/108/347]\] (as redesignated) before the date of the enactment of this Act \[Jan. 12, 2007\].”
 
@@ -595,11 +595,11 @@
 
  __Presidential Report on Funding for New Independent States of Former Soviet Union__ 
 
-[Pub. L. 103–306, title II][/us/pl/103/306], Aug. 23, 1994, [108 Stat. 1617][/us/stat/108/1617], provided in part that: 
+[Pub. L. 103–306, title II][/us/pl/103/306/tII], Aug. 23, 1994, [108 Stat. 1617][/us/stat/108/1617], provided in part that: 
 
 > “(o) The report required by subsection (d) under the heading ‘Assistance for the New Independent States of the Former Soviet Union’, contained in [Public Law 102–391][/us/pl/102/391] \[set out below\], shall be updated at least annually and shall also contain a listing of all grants and contracts issued from funds appropriated annually for the new independent states of the former Soviet Union, to include for each grant and contract (1) a description of its purpose, (2) its amount, and (3) the country where the grant or contract funds are to be expended.”
 
-[Pub. L. 102–391, title III][/us/pl/102/391], Oct. 6, 1992, [106 Stat. 1650][/us/stat/106/1650], provided in part that: 
+[Pub. L. 102–391, title III][/us/pl/102/391/tIII], Oct. 6, 1992, [106 Stat. 1650][/us/stat/106/1650], provided in part that: 
 
 > “(d) Reports.—The President shall submit a report to the Committees on Appropriations containing the amount of funds obligated and expended for each project and subproject funded from amounts appropriated under this heading for the new independent states of the former Soviet Union. The report required by this subsection shall be submitted to the Committees on Appropriations no later than January 1, 1993, and an update of this report shall be submitted by the President to those Committees no later than July 1, 1993.”
 
@@ -610,9 +610,9 @@
 ----------
 ----------
 
-[/us/pl/102/511/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs101
+[/us/pl/102/511/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtI
 [/us/stat/106/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3321
-[/us/pl/112/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F208
+[/us/pl/112/208/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F208%2FtIV
 [/us/stat/126/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1502
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
@@ -635,15 +635,15 @@
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/pl/112/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F82
 [/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
-[/us/pl/109/480/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F480%2Fs4%2Fc%2F2
+[/us/pl/109/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F480
 [/us/stat/120/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3668
 [/us/pl/108/347/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F347%2Fs4%2Fd%2F1
 [/us/pl/108/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F347
 [/us/pl/108/347/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F347%2Fs8
-[/us/pl/103/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306
+[/us/pl/103/306/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtII
 [/us/stat/108/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1617
 [/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
-[/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
+[/us/pl/102/391/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtIII
 [/us/stat/106/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1650
 
 

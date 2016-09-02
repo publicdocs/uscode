@@ -17,7 +17,7 @@
 
     In order to carry out the purposes of [section 1942 of this title][/us/usc/t22/s1942], there is authorized to be appropriated to the President not to exceed $680,000,000, which shall remain available until expended, and which the President may use, subject to such further legislative provisions as may be enacted, in addition to other funds available for such purposes, on such terms and conditions as he may specify: Provided, That none of the funds made available pursuant to this section shall be used to furnish assistance to any country in Latin America being subjected to economic or diplomatic sanctions by the Organization of American States. The Secretary of State shall keep the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House currently informed about plans and programs for the utilization of such funds.
 
-([Pub. L. 86–735, § 2][/us/pl/86/735/s2], Sept. 8, 1960, [74 Stat. 870][/us/stat/74/870]; [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 401(b), Dec. 16, 1963, [77 Stat. 390][/us/stat/77/390].)
+([Pub. L. 86–735][/us/pl/86/735], § 2, Sept. 8, 1960, [74 Stat. 870][/us/stat/74/870]; [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 401(b), Dec. 16, 1963, [77 Stat. 390][/us/stat/77/390].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942
-[/us/pl/86/735/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735%2Fs2
+[/us/pl/86/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735
 [/us/stat/74/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F870
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F390

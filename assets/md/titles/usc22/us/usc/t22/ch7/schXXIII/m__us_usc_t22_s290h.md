@@ -27,7 +27,7 @@
 
     (5) an African Development Foundation similar in structure to the Inter-American Foundation, but adapted to the specific needs of Africa, can complement current United States development programs in Africa.
 
-([Pub. L. 96–533, title V, § 502][/us/pl/96/533/s502], Dec. 16, 1980, [94 Stat. 3151][/us/stat/94/3151]; [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 586(h)(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–119.)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 502, Dec. 16, 1980, [94 Stat. 3151][/us/stat/94/3151]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 586(h)(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–119.)
 
  __References in Text__ 
 
@@ -37,15 +37,15 @@
 
  __Codification__ 
 
-    Amendment by [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 586(h)(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–119, directing the repeal of pars. (4) and (5) of this section did not become effective pursuant to section 1000(a)(2) \[title V, § 586\] of div. B of [Pub. L. 106–113][/us/pl/106/113], formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title][/us/usc/t22/s290f].
+    Amendment by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 586(h)(1)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–119, directing the repeal of pars. (4) and (5) of this section did not become effective pursuant to section 1000(a)(2) \[title V, § 586\] of div. B of [Pub. L. 106–113][/us/pl/106/113], formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title][/us/usc/t22/s290f].
 
  __Change of Name__ 
 
-    African Development Foundation changed to United States African Development Foundation by [Pub. L. 113–76, div. K, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 482][/us/stat/128/482]. See [section 290h–1 of this title][/us/usc/t22/s290h–1].
+    African Development Foundation changed to United States African Development Foundation by [Pub. L. 113–76, div. K, title III][/us/pl/113/76/dK/tIII], Jan. 17, 2014, [128 Stat. 482][/us/stat/128/482]. See [section 290h–1 of this title][/us/usc/t22/s290h–1].
 
  __Short Title__ 
 
-[Pub. L. 96–533, title V, § 501][/us/pl/96/533/s501], Dec. 16, 1980, [94 Stat. 3151][/us/stat/94/3151], provided: 
+[Pub. L. 96–533, title V][/us/pl/96/533/tV], § 501, Dec. 16, 1980, [94 Stat. 3151][/us/stat/94/3151], provided: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘African Development Foundation Act’.”
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t22/s2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2218
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f
-[/us/pl/96/533/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs502
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3151
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -69,14 +69,14 @@
 [/us/stat/83/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F805
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s290f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290f
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dK/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtIII
 [/us/stat/128/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F482
 [/us/usc/t22/s290h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%931
-[/us/pl/96/533/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs501
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3151
 
 

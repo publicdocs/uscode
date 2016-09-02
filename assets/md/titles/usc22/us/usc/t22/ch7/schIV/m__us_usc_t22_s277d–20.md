@@ -17,7 +17,7 @@
 
     Application for reimbursement or compensation under [section 277d–19 of this title][/us/usc/t22/s277d–19] shall be submitted to the Commissioner within either one year from the date of acquisition or the date of vacating the premises by the applicant, whichever date is later. Applications not submitted within said period shall be forever barred.
 
-([Pub. L. 88–300, § 4][/us/pl/88/300/s4], Apr. 29, 1964, [78 Stat. 185][/us/stat/78/185].)
+([Pub. L. 88–300][/us/pl/88/300], § 4, Apr. 29, 1964, [78 Stat. 185][/us/stat/78/185].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s277d–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9319
-[/us/pl/88/300/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs4
+[/us/pl/88/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300
 [/us/stat/78/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F185
 
 

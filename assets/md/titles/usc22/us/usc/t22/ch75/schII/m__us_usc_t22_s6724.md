@@ -99,7 +99,7 @@
 
         The appropriate representatives of the United States, as designated, if present, shall assist the owner and the operator, occupant or agent in charge of the premises to be inspected in interacting with the members of the inspection team of the Technical Secretariat.
 
-([Pub. L. 105–277, div. I, title III, § 304][/us/pl/105/277/s304], Oct. 21, 1998, [112 Stat. 2681–874][/us/stat/112/2681-874]; [Pub. L. 107–107, div. A, title XII, § 1204(b)][/us/pl/107/107/s1204/b], Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 304, Oct. 21, 1998, [112 Stat. 2681–874][/us/stat/112/2681-874]; [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1204(b), Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247].)
 
  __References in Text__ 
 
@@ -120,9 +120,9 @@
 [/us/usc/t22/s6722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6722
 [/us/usc/t22/s6725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6725
 [/us/usc/t22/s6722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6722
-[/us/pl/105/277/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs304
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-874
-[/us/pl/107/107/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1204%2Fb
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1247
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

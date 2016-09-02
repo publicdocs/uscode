@@ -57,7 +57,7 @@
 
         (N) to explore means to consult with and utilize the relevant expertise and skills of the Pakistani-American community.
 
-([Pub. L. 111–73, § 4][/us/pl/111/73/s4], Oct. 15, 2009, [123 Stat. 2063][/us/stat/123/2063].)
+([Pub. L. 111–73][/us/pl/111/73], § 4, Oct. 15, 2009, [123 Stat. 2063][/us/stat/123/2063].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/111/73/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs4
+[/us/pl/111/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73
 [/us/stat/123/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2063
 
 

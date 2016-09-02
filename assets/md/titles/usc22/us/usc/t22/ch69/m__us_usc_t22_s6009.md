@@ -33,7 +33,7 @@
 
         The Department of the Treasury shall establish and maintain a branch of the Office of Foreign Assets Control in Miami, Florida, in order to strengthen the enforcement of this chapter.
 
-([Pub. L. 102–484, div. A, title XVII, § 1710][/us/pl/102/484/s1710], Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1710, Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 [/us/usc/t22/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6004
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
-[/us/pl/102/484/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1710
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2580
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411

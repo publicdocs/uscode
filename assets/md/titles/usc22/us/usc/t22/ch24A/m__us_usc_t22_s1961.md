@@ -17,11 +17,11 @@
 
     The President is authorized to cooperate with and assist any nation or group of nations in the general area of the Middle East desiring such assistance in the development of economic strength dedicated to the maintenance of national independence.
 
-([Pub. L. 85–7, § 1][/us/pl/85/7/s1], Mar. 9, 1957, [71 Stat. 5][/us/stat/71/5].)
+([Pub. L. 85–7][/us/pl/85/7], § 1, Mar. 9, 1957, [71 Stat. 5][/us/stat/71/5].)
 
  __Appropriations, Fiscal Year 1957; Restriction; Report to Congress__ 
 
-    [Pub. L. 85–7, § 3][/us/pl/85/7/s3], Mar. 9, 1957, [71 Stat. 5][/us/stat/71/5], authorized President to use, for balance of fiscal year 1957, funds not to exceed $200,000,000 for military and economic assistance for Middle East from appropriations available under Mutual Security Act of 1954, restricted availability of funds for military assistance to funds appropriated for military assistance and for economic assistance to funds appropriated for other than military assistance, and required that funds not be available until 15 days after reports on proposed use of funds be supplied to appropriate Congressional committees.
+    [Pub. L. 85–7][/us/pl/85/7], § 3, Mar. 9, 1957, [71 Stat. 5][/us/stat/71/5], authorized President to use, for balance of fiscal year 1957, funds not to exceed $200,000,000 for military and economic assistance for Middle East from appropriations available under Mutual Security Act of 1954, restricted availability of funds for military assistance to funds appropriated for military assistance and for economic assistance to funds appropriated for other than military assistance, and required that funds not be available until 15 days after reports on proposed use of funds be supplied to appropriate Congressional committees.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/85/7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7%2Fs1
+[/us/pl/85/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7
 [/us/stat/71/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F5
-[/us/pl/85/7/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7%2Fs3
+[/us/pl/85/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7
 [/us/stat/71/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F5
 
 

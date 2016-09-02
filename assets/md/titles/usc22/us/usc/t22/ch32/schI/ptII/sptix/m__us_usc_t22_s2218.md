@@ -41,7 +41,7 @@
 
         In order to carry out the purposes of this section, the agency primarily responsible for administering subchapter I of this chapter shall develop systematic programs of inservice training to familiarize its personnel with the objectives of this section and to increase their knowledge of the political and social aspects of development. In addition to other funds available for such purposes, not to exceed 1 per centum of the funds authorized to be appropriated for grant assistance under this part and part I of this subchapter may be used for carrying out the objectives of this subsection.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 281, as added [Pub. L. 89–583][/us/pl/89/583], pt. I, § 106, Sept. 19, 1966, [80 Stat. 800][/us/stat/80/800]; amended [Pub. L. 90–137][/us/pl/90/137], pt. I, § 108, Nov. 14, 1967, [81 Stat. 452][/us/stat/81/452]; [Pub. L. 90–554][/us/pl/90/554], pt. I, § 106, Oct. 8, 1968, [82 Stat. 961][/us/stat/82/961]; [Pub. L. 95–424, title I, § 102(g)(2)(A)][/us/pl/95/424/s102/g/2/A], Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 281, as added [Pub. L. 89–583][/us/pl/89/583], pt. I, § 106, Sept. 19, 1966, [80 Stat. 800][/us/stat/80/800]; amended [Pub. L. 90–137][/us/pl/90/137], pt. I, § 108, Nov. 14, 1967, [81 Stat. 452][/us/stat/81/452]; [Pub. L. 90–554][/us/pl/90/554], pt. I, § 106, Oct. 8, 1968, [82 Stat. 961][/us/stat/82/961]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(2)(A), Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 
     1978—Subsecs. (a), (b), (c), (e). [Pub. L. 95–424][/us/pl/95/424] inserted “and part 1 of this subchapter” after “this part”.
 
-    1968—Subsec. (c). [Pub. L. 90–554, § 106(a)][/us/pl/90/554/s106/a], emphasized research designed to increase understanding of ways in which development assistance can support democratic social and political trends in recipient countries.
+    1968—Subsec. (c). [Pub. L. 90–554][/us/pl/90/554], § 106(a), emphasized research designed to increase understanding of ways in which development assistance can support democratic social and political trends in recipient countries.
 
-    Subsec. (e). [Pub. L. 90–554, § 106(b)][/us/pl/90/554/s106/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 90–554][/us/pl/90/554], § 106(b), added subsec. (e).
 
     1967—[Pub. L. 90–137][/us/pl/90/137] designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
@@ -83,7 +83,7 @@
 [/us/stat/81/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F452
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/stat/82/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F961
-[/us/pl/95/424/s102/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -93,8 +93,8 @@
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/90/554/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554%2Fs106%2Fa
-[/us/pl/90/554/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554%2Fs106%2Fb
+[/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
+[/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605

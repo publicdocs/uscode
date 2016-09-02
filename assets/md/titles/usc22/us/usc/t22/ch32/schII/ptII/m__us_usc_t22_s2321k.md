@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2322.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321l...2321n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k)
 
 ## § 2321k. Designation of major non-NATO allies
 
@@ -27,7 +27,7 @@
 
         Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be deemed to have been so designated by the President as of the effective date of this section, and the President is not required to notify the Congress of such designation of those countries.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 517, as added [Pub. L. 104–164, title I, § 147(a)(1)][/us/pl/104/164/s147/a/1], July 21, 1996, [110 Stat. 1434][/us/stat/110/1434].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 517, as added [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 147(a)(1), July 21, 1996, [110 Stat. 1434][/us/stat/110/1434].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2321k, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 517, as added [Pub. L. 101–231, § 5][/us/pl/101/231/s5], Dec. 13, 1989, [103 Stat. 1957][/us/stat/103/1957]; amended [Pub. L. 101–623, § 15][/us/pl/101/623/s15], Nov. 21, 1990, [104 Stat. 3357][/us/stat/104/3357]; [Pub. L. 102–583, § 9(a)][/us/pl/102/583/s9/a], Nov. 2, 1992, [106 Stat. 4934][/us/stat/106/4934]; [Pub. L. 103–236, title VII, § 731(b)][/us/pl/103/236/s731/b], Apr. 30, 1994, [108 Stat. 502][/us/stat/108/502], related to modernization of counternarcotics capabilities of certain Latin America and Caribbean countries, prior to repeal by [Pub. L. 104–164, title I, § 104(b)(2)(B)][/us/pl/104/164/s104/b/2/B], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427].
+    A prior section 2321k, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 517, as added [Pub. L. 101–231][/us/pl/101/231], § 5, Dec. 13, 1989, [103 Stat. 1957][/us/stat/103/1957]; amended [Pub. L. 101–623][/us/pl/101/623], § 15, Nov. 21, 1990, [104 Stat. 3357][/us/stat/104/3357]; [Pub. L. 102–583][/us/pl/102/583], § 9(a), Nov. 2, 1992, [106 Stat. 4934][/us/stat/106/4934]; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 731(b), Apr. 30, 1994, [108 Stat. 502][/us/stat/108/502], related to modernization of counternarcotics capabilities of certain Latin America and Caribbean countries, prior to repeal by [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 104(b)(2)(B), July 21, 1996, [110 Stat. 1427][/us/stat/110/1427].
 
  __Delegation of Functions__ 
 
@@ -47,7 +47,7 @@
 
  __Treatment of Taiwan Relating to Transfers of Defense Articles and Defense Services__ 
 
-[Pub. L. 107–228, div. B, title XII, § 1206][/us/pl/107/228/s1206], Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428], provided that: 
+[Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1206, Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428], provided that: 
 
 > “Notwithstanding any other provision of law, for purposes of the transfer or possible transfer of defense articles or defense services under the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.), the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.), or any other provision of law, Taiwan shall be treated as though it were designated a major non-NATO ally (as defined in section 644(q) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403(q)][/us/usc/t22/s2403/q])\[)\].”
 
@@ -75,24 +75,16 @@ The following Presidential Determinations designated the countries listed as maj
 
     Determination No. 2015–09, July 10, 2015, 80 F.R. 43613.—Tunisia.
 
-§§ 2321l to 2321n. __Repealed.__  __[__  __Pub. L. 104–164, title I, § 104(b)(2)(B)__  __][/us/pl/104/164/s104/b/2/B]__  __,__  __July 21, 1996__  __,__  __[__  __110 Stat. 1427__  __][/us/stat/110/1427]__ 
-
-    Section 2321l, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 518, as added [Pub. L. 101–513, title V, § 533(f)][/us/pl/101/513/s533/f], Nov. 5, 1990, [104 Stat. 2015][/us/stat/104/2015], authorized President to transfer nonlethal excess defense articles and small arms to friendly countries and to international organizations and private and voluntary organizations for preservation of endangered animal and plant species.
-
-    Section 2321m, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 519, as added [Pub. L. 101–513, title V, § 596(b)][/us/pl/101/513/s596/b], Nov. 5, 1990, [104 Stat. 2061][/us/stat/104/2061]; amended [Pub. L. 103–236, title VII, § 731(c)][/us/pl/103/236/s731/c], Apr. 30, 1994, [108 Stat. 502][/us/stat/108/502], authorized President to transfer to countries for whom foreign military financing program was justified such nonlethal excess defense articles as President determined necessary to help modernize defense capabilities of such countries.
-
-    Section 2321n, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 520, as added [Pub. L. 103–236, title IV, § 408][/us/pl/103/236/s408], Apr. 30, 1994, [108 Stat. 452][/us/stat/108/452], authorized President to transfer to international and regional organizations of which United States is a member such excess defense articles as President determined necessary to support and maintain international peacekeeping operations and security.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2322.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321j.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321l...2321n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k)
 
 ----------
 ----------
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/164/s147/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs147%2Fa%2F1
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1434
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -102,18 +94,18 @@ The following Presidential Determinations designated the countries listed as maj
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/231/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs5
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1957
-[/us/pl/101/623/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs15
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3357
-[/us/pl/102/583/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs9%2Fa
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4934
-[/us/pl/103/236/s731/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs731%2Fb
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F502
-[/us/pl/104/164/s104/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs104%2Fb%2F2%2FB
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1427
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/107/228/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1206
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1428
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
@@ -123,18 +115,5 @@ The following Presidential Determinations designated the countries listed as maj
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/104/164/s104/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs104%2Fb%2F2%2FB
-[/us/stat/110/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1427
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/513/s533/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs533%2Ff
-[/us/stat/104/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2015
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/513/s596/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs596%2Fb
-[/us/stat/104/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2061
-[/us/pl/103/236/s731/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs731%2Fc
-[/us/stat/108/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F502
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/103/236/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs408
-[/us/stat/108/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F452
 
 

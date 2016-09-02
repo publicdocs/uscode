@@ -21,7 +21,7 @@
 
     (2) has met its geographic distribution formula.
 
-([Pub. L. 102–138, title I, § 181][/us/pl/102/138/s181], Oct. 28, 1991, [105 Stat. 682][/us/stat/105/682].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 181, Oct. 28, 1991, [105 Stat. 682][/us/stat/105/682].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs181
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F682
 
 

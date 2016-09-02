@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to enable the Commission to pay its administrative expenses incurred in carrying out its functions under this subchapter.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 511, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1113][/us/stat/78/1113]; amended [Pub. L. 89–262, § 5][/us/pl/89/262/s5], Oct. 19, 1965, [79 Stat. 988][/us/stat/79/988].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 511, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1113][/us/stat/78/1113]; amended [Pub. L. 89–262][/us/pl/89/262], § 5, Oct. 19, 1965, [79 Stat. 988][/us/stat/79/988].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/88/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F666
 [/us/stat/78/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1113
-[/us/pl/89/262/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262%2Fs5
+[/us/pl/89/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262
 [/us/stat/79/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F988
 [/us/pl/89/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262
 

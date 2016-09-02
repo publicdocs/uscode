@@ -83,7 +83,7 @@
 
         The Congress, recognizing the desirability of overcoming the worst aspects of absolute poverty by the end of this century by, among other measures, substantially lowering infant mortality and birth rates, and increasing life expectancy, food production, literacy, and employment, encourages the President to explore with other countries, through all appropriate channels, the feasibility of a worldwide cooperative effort to overcome the worst aspects of absolute poverty and to assure self-reliant growth in the developing countries by the year 2000.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 102, as added [Pub. L. 95–424, title I, § 101][/us/pl/95/424/s101], Oct. 6, 1978, [92 Stat. 938][/us/stat/92/938]; amended [Pub. L. 96–53, title I, § 104(a)][/us/pl/96/53/s104/a], Aug. 14, 1979, [93 Stat. 360][/us/stat/93/360]; [Pub. L. 99–83, title III, § 301][/us/pl/99/83/s301], Aug. 8, 1985, [99 Stat. 213][/us/stat/99/213]; [Pub. L. 106–309, title II, § 203(b)][/us/pl/106/309/s203/b], Oct. 17, 2000, [114 Stat. 1092][/us/stat/114/1092].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 102, as added [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 101, Oct. 6, 1978, [92 Stat. 938][/us/stat/92/938]; amended [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 104(a), Aug. 14, 1979, [93 Stat. 360][/us/stat/93/360]; [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 301, Aug. 8, 1985, [99 Stat. 213][/us/stat/99/213]; [Pub. L. 106–309, title II][/us/pl/106/309/tII], § 203(b), Oct. 17, 2000, [114 Stat. 1092][/us/stat/114/1092].)
 
  __References in Text__ 
 
@@ -95,19 +95,19 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(4)(G). [Pub. L. 106–309, § 203(b)(1)][/us/pl/106/309/s203/b/1], added subpar. (G).
+    2000—Subsec. (b)(4)(G). [Pub. L. 106–309][/us/pl/106/309], § 203(b)(1), added subpar. (G).
 
-    Subsec. (b)(17). [Pub. L. 106–309, § 203(b)(2)][/us/pl/106/309/s203/b/2], added par. (17).
+    Subsec. (b)(17). [Pub. L. 106–309][/us/pl/106/309], § 203(b)(2), added par. (17).
 
     1985—Subsec. (b)(13) to (16). [Pub. L. 99–83][/us/pl/99/83] added pars. (13) to (16).
 
-    1979—Subsec. (b)(5). [Pub. L. 96–53, § 104(a)(1)][/us/pl/96/53/s104/a/1], inserted applicability to energy development and production.
+    1979—Subsec. (b)(5). [Pub. L. 96–53][/us/pl/96/53], § 104(a)(1), inserted applicability to energy development and production.
 
-    Subsec. (b)(7). [Pub. L. 96–53, § 104(a)(2)][/us/pl/96/53/s104/a/2], inserted applicability to promotion of development and production of energy.
+    Subsec. (b)(7). [Pub. L. 96–53][/us/pl/96/53], § 104(a)(2), inserted applicability to promotion of development and production of energy.
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–83, title XIII, § 1301][/us/pl/99/83/s1301], Aug. 8, 1985, [99 Stat. 280][/us/stat/99/280], provided that: 
+[Pub. L. 99–83, title XIII][/us/pl/99/83/tXIII], § 1301, Aug. 8, 1985, [99 Stat. 280][/us/stat/99/280], provided that: 
 
 > “Except as otherwise provided in this Act, this Act \[see Short Title of 1985 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151]\] shall take effect on October 1, 1985.”
 
@@ -132,25 +132,25 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/424/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs101
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F938
-[/us/pl/96/53/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs104%2Fa
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F360
-[/us/pl/99/83/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs301
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F213
-[/us/pl/106/309/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs203%2Fb
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1092
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/106/309/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs203%2Fb%2F1
-[/us/pl/106/309/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs203%2Fb%2F2
+[/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
+[/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/96/53/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs104%2Fa%2F1
-[/us/pl/96/53/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs104%2Fa%2F2
-[/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/99/83/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXIII
 [/us/stat/99/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F280
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53

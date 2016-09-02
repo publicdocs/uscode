@@ -83,7 +83,7 @@
 
     (28) For the past 36 years, the Cuban Government has posed and continues to pose a national security threat to the United States.
 
-([Pub. L. 104–114, § 2][/us/pl/104/114/s2], Mar. 12, 1996, [110 Stat. 786][/us/stat/110/786].)
+([Pub. L. 104–114][/us/pl/104/114], § 2, Mar. 12, 1996, [110 Stat. 786][/us/stat/110/786].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
  __Short Title__ 
 
-[Pub. L. 104–114, § 1(a)][/us/pl/104/114/s1/a], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], provided that: 
+[Pub. L. 104–114][/us/pl/104/114], § 1(a), Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], provided that: 
 
 > “This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, [section 1611 of Title 28][/us/usc/t28/s1611], Judiciary and Judicial Procedure, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under [section 1446g of Title 7][/us/usc/t7/s1446g], Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the ‘Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996’.”
 
@@ -108,7 +108,7 @@
 
 [/us/usc/t22/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6001
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/104/114/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs2
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F786
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575
@@ -119,7 +119,7 @@
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3320
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
-[/us/pl/104/114/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs1%2Fa
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785
 [/us/usc/t28/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1611
 [/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315

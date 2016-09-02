@@ -55,7 +55,7 @@
 
             Paragraph (1) does not apply with respect to a transfer of defense articles for which notification under [section 2799c(a) of this title][/us/usc/t22/s2799c/a] is submitted before the end of the period described in that paragraph.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 9, § 93, as added [Pub. L. 102–228, § 2][/us/pl/102/228/s2], Dec. 12, 1991, [105 Stat. 1691][/us/stat/105/1691].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 9, § 93, as added [Pub. L. 102–228][/us/pl/102/228], § 2, Dec. 12, 1991, [105 Stat. 1691][/us/stat/105/1691].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t22/s2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2373
 [/us/usc/t22/s2799c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799c%2Fa
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/102/228/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs2
+[/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/stat/105/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1691
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321

@@ -27,15 +27,15 @@
 
         The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b).
 
-([Pub. L. 95–393, § 6][/us/pl/95/393/s6], Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; [Pub. L. 98–164, title VI, § 602][/us/pl/98/164/s602], Nov. 22, 1983, [97 Stat. 1042][/us/stat/97/1042].)
+([Pub. L. 95–393][/us/pl/95/393], § 6, Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; [Pub. L. 98–164, title VI][/us/pl/98/164/tVI], § 602, Nov. 22, 1983, [97 Stat. 1042][/us/stat/97/1042].)
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 98–164, § 602(1)][/us/pl/98/164/s602/1], substituted “Director of the Office of Foreign Missions in the Department of State” for “President”.
+    1983—Subsec. (a). [Pub. L. 98–164][/us/pl/98/164], § 602(1), substituted “Director of the Office of Foreign Missions in the Department of State” for “President”.
 
-    Subsec. (b). [Pub. L. 98–164, § 602(2)][/us/pl/98/164/s602/2], inserted provision respecting adequate compensation to victims, and substituted reference to Director for reference to President.
+    Subsec. (b). [Pub. L. 98–164][/us/pl/98/164], § 602(2), inserted provision respecting adequate compensation to victims, and substituted reference to Director for reference to President.
 
-    Subsec. (c). [Pub. L. 98–164, § 602(3)][/us/pl/98/164/s602/3], substituted reference to Director for reference to President.
+    Subsec. (c). [Pub. L. 98–164][/us/pl/98/164], § 602(3), substituted reference to Director for reference to President.
 
  __Effective Date__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/95/393/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs6
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F809
-[/us/pl/98/164/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs602
+[/us/pl/98/164/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVI
 [/us/stat/97/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1042
-[/us/pl/98/164/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs602%2F1
-[/us/pl/98/164/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs602%2F2
-[/us/pl/98/164/s602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs602%2F3
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/pl/95/393/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs9
 [/us/usc/t22/s254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a

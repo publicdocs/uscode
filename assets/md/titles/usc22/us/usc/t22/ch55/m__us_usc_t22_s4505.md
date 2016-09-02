@@ -25,7 +25,7 @@
 
     (b) Payments under this chapter may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments and underpayments.
 
-([Pub. L. 98–164, title VIII, § 806][/us/pl/98/164/s806], Nov. 22, 1983, [97 Stat. 1050][/us/stat/97/1050].)
+([Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 806, Nov. 22, 1983, [97 Stat. 1050][/us/stat/97/1050].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4504
-[/us/pl/98/164/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs806
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1050
 
 

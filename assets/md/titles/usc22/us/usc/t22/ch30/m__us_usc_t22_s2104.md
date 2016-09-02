@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to repeal or restrict authority vested in the President, the Secretary of State, the Secretary of Health, Education, and Welfare, the Surgeon General of the Public Health Service, or any other officer or agency of the United States by any other provision of law.
 
-([Pub. L. 86–610, § 6][/us/pl/86/610/s6], July 12, 1960, [74 Stat. 369][/us/stat/74/369].)
+([Pub. L. 86–610][/us/pl/86/610], § 6, July 12, 1960, [74 Stat. 369][/us/stat/74/369].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/86/610/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610%2Fs6
+[/us/pl/86/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610
 [/us/stat/74/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F369
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

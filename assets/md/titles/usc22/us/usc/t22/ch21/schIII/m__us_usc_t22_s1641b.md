@@ -27,13 +27,13 @@
 
     (5) pay effective compensation for the nationalization, compulsory liquidation, or other taking of property of nationals of the United States in Hungary, between August 9, 1955, and the date the United States-Hungarian Claims Agreement of March 6, 1973, enters into force.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 303, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 571][/us/stat/69/571]; amended [Pub. L. 90–421, § 1(9)][/us/pl/90/421/s1/9], (10), July 24, 1968, [82 Stat. 422][/us/stat/82/422]; [Pub. L. 93–460, § 1(2)][/us/pl/93/460/s1/2], (3), Oct. 20, 1974, [88 Stat. 1386][/us/stat/88/1386].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 303, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 571][/us/stat/69/571]; amended [Pub. L. 90–421][/us/pl/90/421], § 1(9), (10), July 24, 1968, [82 Stat. 422][/us/stat/82/422]; [Pub. L. 93–460][/us/pl/93/460], § 1(2), (3), Oct. 20, 1974, [88 Stat. 1386][/us/stat/88/1386].)
 
  __Amendments__ 
 
-    1974—Par. (5). [Pub. L. 93–460, § 1(3)][/us/pl/93/460/s1/3], added par. (5).
+    1974—Par. (5). [Pub. L. 93–460][/us/pl/93/460], § 1(3), added par. (5).
 
-    1968—Par. (4). [Pub. L. 90–421, § 1(10)][/us/pl/90/421/s1/10], added par. (4).
+    1968—Par. (4). [Pub. L. 90–421][/us/pl/90/421], § 1(10), added par. (4).
 
 ----------
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F571
-[/us/pl/90/421/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F9
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F422
-[/us/pl/93/460/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460%2Fs1%2F2
+[/us/pl/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460
 [/us/stat/88/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1386
-[/us/pl/93/460/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460%2Fs1%2F3
-[/us/pl/90/421/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F10
+[/us/pl/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 
 

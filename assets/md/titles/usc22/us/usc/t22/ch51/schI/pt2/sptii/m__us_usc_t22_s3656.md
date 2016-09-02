@@ -17,7 +17,7 @@
 
     The standards established pursuant to [section 3653 of this title][/us/usc/t22/s3653] and the rates of basic pay established pursuant to [section 3642 of this title][/us/usc/t22/s3642] shall be applied without regard to whether the employee or individual concerned is a citizen of the United States or a citizen of the Republic of Panama.
 
-([Pub. L. 96–70, title I, § 1216][/us/pl/96/70/s1216], Sept. 27, 1979, [93 Stat. 465][/us/stat/93/465]; [Pub. L. 105–85, div. C, title XXXV, § 3523(c)(1)][/us/pl/105/85/s3523/c/1], Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1216, Sept. 27, 1979, [93 Stat. 465][/us/stat/93/465]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3523(c)(1), Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t22/s3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3653
 [/us/usc/t22/s3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3642
-[/us/pl/96/70/s1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1216
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F465
-[/us/pl/105/85/s3523/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3523%2Fc%2F1
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2065
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

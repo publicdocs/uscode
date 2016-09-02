@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary for the payment by the United States of its proportionate share of the expenses of the Hague Conference on Private International Law and of the International (Rome) Institute for the Unification of Private Law.
 
-([Pub. L. 88–244, § 2][/us/pl/88/244/s2], Dec. 30, 1963, [77 Stat. 775][/us/stat/77/775]; [Pub. L. 92–497][/us/pl/92/497], Oct. 17, 1972, [86 Stat. 814][/us/stat/86/814]; [Pub. L. 97–241, title I, § 114][/us/pl/97/241/s114], Aug. 24, 1982, [96 Stat. 278][/us/stat/96/278].)
+([Pub. L. 88–244][/us/pl/88/244], § 2, Dec. 30, 1963, [77 Stat. 775][/us/stat/77/775]; [Pub. L. 92–497][/us/pl/92/497], Oct. 17, 1972, [86 Stat. 814][/us/stat/86/814]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 114, Aug. 24, 1982, [96 Stat. 278][/us/stat/96/278].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/88/244/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F244%2Fs2
+[/us/pl/88/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F244
 [/us/stat/77/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F775
 [/us/pl/92/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F497
 [/us/stat/86/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F814
-[/us/pl/97/241/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs114
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F278
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/92/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F497

@@ -241,21 +241,21 @@
 
         The term “unscheduled discrete organic chemical” means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.
 
-([Pub. L. 105–277, div. I, § 3][/us/pl/105/277/s3], Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856].)
+([Pub. L. 105–277, div. I][/us/pl/105/277/dI], § 3, Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of [Pub. L. 105–277][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856], known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
 
-    Paragraphs (17), (37), and (41) of [section 40102 of title 49][/us/usc/t49/s40102], referred to in par. (14)(A) and (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of [section 40102 of title 49][/us/usc/t49/s40102]. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by [Pub. L. 108–176, title II, § 225(a)(1)][/us/pl/108/176/s225/a/1], (3), Dec. 12, 2003, [117 Stat. 2528][/us/stat/117/2528].
+    Paragraphs (17), (37), and (41) of [section 40102 of title 49][/us/usc/t49/s40102], referred to in par. (14)(A) and (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of [section 40102 of title 49][/us/usc/t49/s40102]. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(a)(1), (3), Dec. 12, 2003, [117 Stat. 2528][/us/stat/117/2528].
 
  __Codification__ 
 
-    In par. 14(C), “[section 70502(b) of title 46][/us/usc/t46/s70502/b]” substituted for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”, meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 70502 of Title 46][/us/usc/t46/s70502], Shipping.
+    In par. 14(C), “[section 70502(b) of title 46][/us/usc/t46/s70502/b]” substituted for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”, meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 70502 of Title 46][/us/usc/t46/s70502], Shipping.
 
  __Short Title__ 
 
-[Pub. L. 105–277, div. I, § 1][/us/pl/105/277/s1], Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856], provided that: 
+[Pub. L. 105–277, div. I][/us/pl/105/277/dI], § 1, Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856], provided that: 
 
 > “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and [section 436 of Title 41][/us/usc/t41/s436], Public Contracts, amending [section 362 of Title 11][/us/usc/t11/s362], Bankruptcy, and [section 2332a of Title 18][/us/usc/t18/s2332a], repealing [section 2332c of Title 18][/us/usc/t18/s2332c] and [section 1520 of Title 50][/us/usc/t50/s1520], War and National Defense, and enacting provisions set out as a note under [section 229 of Title 18][/us/usc/t18/s229]\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
 
@@ -278,19 +278,19 @@
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t46/s70502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502%2Fb
-[/us/pl/105/277/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs3
+[/us/pl/105/277/dI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/108/176/s225/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fa%2F1
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2528
 [/us/usc/t46/s70502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502%2Fb
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/105/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1
+[/us/pl/105/277/dI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856
 [/us/usc/t41/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs436
 [/us/usc/t11/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs362

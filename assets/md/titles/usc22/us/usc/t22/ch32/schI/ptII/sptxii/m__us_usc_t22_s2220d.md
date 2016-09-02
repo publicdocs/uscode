@@ -31,7 +31,7 @@
 
         Universities may accept and expend funds from other sources, public and private, in order to carry out the purposes of this subpart. All such funds, both prospective and inhand, shall be periodically disclosed to the Administrator as he shall by regulation require, but no less often than in an annual report.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 299, as added [Pub. L. 94–161, title III, § 312][/us/pl/94/161/s312], Dec. 20, 1975, [89 Stat. 865][/us/stat/89/865]; amended [Pub. L. 95–424, title I, § 102(c)(2)][/us/pl/95/424/s102/c/2], Oct. 6, 1978, [92 Stat. 941][/us/stat/92/941].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 299, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 312, Dec. 20, 1975, [89 Stat. 865][/us/stat/89/865]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(c)(2), Oct. 6, 1978, [92 Stat. 941][/us/stat/92/941].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t22/s2151a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151a
 [/us/usc/t22/s2151a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151a
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs312
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F865
-[/us/pl/95/424/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fc%2F2
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F941
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424

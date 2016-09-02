@@ -17,7 +17,7 @@
 
     In carrying out the diplomatic construction program referred to in [section 4851(a) of this title][/us/usc/t22/s4851/a], the Secretary of State shall employ as professional staff (by appointment, contract, or otherwise) only those persons with a demonstrated specialized background in the fields of construction, construction law, or contract management. In filling such positions, the Secretary shall actively recruit women and members of minority groups.
 
-([Pub. L. 99–399, title IV, § 404][/us/pl/99/399/s404], Aug. 27, 1986, [100 Stat. 865][/us/stat/100/865].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 404, Aug. 27, 1986, [100 Stat. 865][/us/stat/100/865].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s4851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4851%2Fa
-[/us/pl/99/399/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs404
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F865
 
 

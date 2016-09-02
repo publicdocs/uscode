@@ -17,7 +17,7 @@
 
     The representatives provided for in [section 287 of this title][/us/usc/t22/s287], when representing the United States in the respective organs and agencies of the United Nations, shall, at all times, act in accordance with the instructions of the President transmitted by the Secretary of State unless other means of transmission is directed by the President, and such representatives shall, in accordance with such instructions, cast any and all votes under the Charter of the United Nations.
 
-([Dec. 20, 1945, ch. 583, § 3][/us/act/1945-12-20/ch583/s3], [59 Stat. 620][/us/stat/59/620].)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 3, [59 Stat. 620][/us/stat/59/620].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287
-[/us/act/1945-12-20/ch583/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs3
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F620
 
 

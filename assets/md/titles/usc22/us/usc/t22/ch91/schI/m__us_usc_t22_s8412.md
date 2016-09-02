@@ -47,7 +47,7 @@
 
         It is the sense of Congress that, subject to an improving political and economic climate in Pakistan, there should be authorized to be appropriated up to $1,500,000,000 for each of the fiscal years 2015 through 2019 for the purpose of providing assistance to Pakistan under the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\].
 
-([Pub. L. 111–73, title I, § 102][/us/pl/111/73/s102], Oct. 15, 2009, [123 Stat. 2068][/us/stat/123/2068].)
+([Pub. L. 111–73, title I][/us/pl/111/73/tI], § 102, Oct. 15, 2009, [123 Stat. 2068][/us/stat/123/2068].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s8441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8441%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/111/73/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs102
+[/us/pl/111/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtI
 [/us/stat/123/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2068
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -89,11 +89,11 @@
 
             Of the amount authorized to be appropriated under [section 7718(a) of this title][/us/usc/t22/s7718/a] for a fiscal year, up to $5,000,000 is authorized to be made available to carry out paragraph (1).
 
-([Pub. L. 108–199, div. D, title VI, § 614][/us/pl/108/199/s614], Jan. 23, 2004, [118 Stat. 222][/us/stat/118/222].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 614, Jan. 23, 2004, [118 Stat. 222][/us/stat/118/222].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
+    This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199/dD], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
 
     The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], [70 Stat. 890][/us/stat/70/890], which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title and chapters 53 (§ 4301 et seq.), 53A (§ 4341 et seq.), and 53B (§ 4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title][/us/usc/t22/s2651] and Tables.
 
@@ -101,7 +101,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 614 of div. D of Pub. L. 108–199][/us/pl/108/199/s614]. Subsec. (e)(2) of [section 614 of div. D of Pub. L. 108–199][/us/pl/108/199/s614] amended [section 9101 of Title 31][/us/usc/t31/s9101], Money and Finance.
+    Section is comprised of [section 614 of div. D of Pub. L. 108–199][/us/pl/108/199/dD/s614]. Subsec. (e)(2) of [section 614 of div. D of Pub. L. 108–199][/us/pl/108/199/dD/s614] amended [section 9101 of Title 31][/us/usc/t31/s9101], Money and Finance.
 
 ----------
 
@@ -114,9 +114,9 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s7718/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7718%2Fa
 [/us/usc/t22/s7718/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7718%2Fa
-[/us/pl/108/199/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs614
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F222
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/usc/t22/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7701
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
@@ -125,8 +125,8 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/108/199/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs614
-[/us/pl/108/199/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs614
+[/us/pl/108/199/dD/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2Fs614
+[/us/pl/108/199/dD/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2Fs614
 [/us/usc/t31/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101
 
 

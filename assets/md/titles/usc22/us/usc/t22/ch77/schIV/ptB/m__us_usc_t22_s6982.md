@@ -17,7 +17,7 @@
 
     In carrying out the programs authorized by [section 6981 of this title][/us/usc/t22/s6981], the Secretary of Commerce and the Secretary of Labor (in consultation with the Secretary of State) may utilize any of the authorities contained in the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] and the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\].
 
-([Pub. L. 106–286, div. B, title V, § 512][/us/pl/106/286/s512], Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 512, Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t22/s6981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6981
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/106/286/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs512
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F906
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

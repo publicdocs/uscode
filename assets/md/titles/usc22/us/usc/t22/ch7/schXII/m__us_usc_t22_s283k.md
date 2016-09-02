@@ -23,7 +23,7 @@
 
         There is hereby authorized to be appropriated, for payment of the increased United States subscription to the Fund for Special Operations of the Inter-American Development Bank, $50,000,000.
 
-([Pub. L. 88–259, § 2][/us/pl/88/259/s2], Jan. 22, 1964, [78 Stat. 3][/us/stat/78/3].)
+([Pub. L. 88–259][/us/pl/88/259], § 2, Jan. 22, 1964, [78 Stat. 3][/us/stat/78/3].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/88/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F259%2Fs2
+[/us/pl/88/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F259
 [/us/stat/78/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F3
 [/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F299

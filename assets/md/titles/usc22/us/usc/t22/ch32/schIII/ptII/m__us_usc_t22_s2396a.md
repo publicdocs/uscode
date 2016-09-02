@@ -19,7 +19,7 @@
 
     (b) The provisions of subsection (a) shall be applicable to property acquired prior to November 5, 1990, and at any time thereafter.
 
-([Pub. L. 101–513, title V, § 585][/us/pl/101/513/s585], Nov. 5, 1990, [104 Stat. 2047][/us/stat/104/2047]; [Pub. L. 113–76, div. K, title VII, § 7034(q)][/us/pl/113/76/s7034/q], Jan. 17, 2014, [128 Stat. 517][/us/stat/128/517].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 585, Nov. 5, 1990, [104 Stat. 2047][/us/stat/104/2047]; [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7034(q), Jan. 17, 2014, [128 Stat. 517][/us/stat/128/517].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t22/s2396/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396%2Fc
 [/us/usc/t22/s2396/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396%2Fc
-[/us/pl/101/513/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs585
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2047
-[/us/pl/113/76/s7034/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fq
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F517
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t22/s2396/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396%2Fc

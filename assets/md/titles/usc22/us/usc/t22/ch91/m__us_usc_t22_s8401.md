@@ -77,7 +77,7 @@
 
             (ii) amounts appropriated or otherwise available to the Pakistan Counterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 ([Public Law 111–32][/us/pl/111/32]).
 
-([Pub. L. 111–73, § 2][/us/pl/111/73/s2], Oct. 15, 2009, [123 Stat. 2060][/us/stat/123/2060].)
+([Pub. L. 111–73][/us/pl/111/73], § 2, Oct. 15, 2009, [123 Stat. 2060][/us/stat/123/2060].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Short Title__ 
 
-[Pub. L. 111–73, § 1(a)][/us/pl/111/73/s1/a], Oct. 15, 2009, [123 Stat. 2060][/us/stat/123/2060], provided that: 
+[Pub. L. 111–73][/us/pl/111/73], § 1(a), Oct. 15, 2009, [123 Stat. 2060][/us/stat/123/2060], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Enhanced Partnership with Pakistan Act of 2009’.”
 
@@ -103,14 +103,14 @@
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/usc/t22/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2311
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
-[/us/pl/111/73/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs2
+[/us/pl/111/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73
 [/us/stat/123/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2060
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/stat/123/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1859
-[/us/pl/111/73/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs1%2Fa
+[/us/pl/111/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73
 [/us/stat/123/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2060
 
 

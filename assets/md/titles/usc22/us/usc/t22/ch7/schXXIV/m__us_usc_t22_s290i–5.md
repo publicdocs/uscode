@@ -17,7 +17,7 @@
 
     Any Federal Reserve bank which is requested to do so by the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
-([Pub. L. 97–35, title XIII, § 1337][/us/pl/97/35/s1337], Aug. 13, 1981, [95 Stat. 742][/us/stat/95/742].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1337, Aug. 13, 1981, [95 Stat. 742][/us/stat/95/742].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1337
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F742
 
 

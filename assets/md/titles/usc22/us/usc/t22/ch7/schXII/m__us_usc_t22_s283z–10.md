@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall direct the United States Executive Director of the Bank to use the voice and vote of the United States to support an increased focus on the poorest countries in Latin America and the Caribbean, and on poorer areas of better off countries, and to support programs conducted by the Multilateral Investment Fund, particularly in targeting low-income countries and populations, working with nongovernmental organizations and training and assisting former combatants from civil conflicts in Latin America.
 
-([Pub. L. 86–147, § 38][/us/pl/86/147/s38], as added [Pub. L. 103–306, title V, § 526(f)][/us/pl/103/306/s526/f], Aug. 23, 1994, [108 Stat. 1634][/us/stat/108/1634].)
+([Pub. L. 86–147][/us/pl/86/147], § 38, as added [Pub. L. 103–306, title V][/us/pl/103/306/tV], § 526(f), Aug. 23, 1994, [108 Stat. 1634][/us/stat/108/1634].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs38
-[/us/pl/103/306/s526/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs526%2Ff
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1634
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch12/m__us_usc_t22_ch12.md) | [Next](./../../../..//us/usc/t22/ch13/m__us_usc_t22_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch13)
+[Previous](./../../../..//us/usc/t22/ch12/m__us_usc_t22_s661...672.md) | [Next](./../../../..//us/usc/t22/ch13/m__us_usc_t22_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch13)
 
 ## CHAPTER 13—SERVICE COURTS OF FRIENDLY FOREIGN FORCES
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch12/m__us_usc_t22_ch12.md) | [Next](./../../../..//us/usc/t22/ch13/m__us_usc_t22_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch13)
+[Previous](./../../../..//us/usc/t22/ch12/m__us_usc_t22_s661...672.md) | [Next](./../../../..//us/usc/t22/ch13/m__us_usc_t22_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch13)
 
 ----------
 ----------

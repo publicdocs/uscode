@@ -57,7 +57,7 @@
 
         (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 113–272, § 10][/us/pl/113/272/s10], Dec. 18, 2014, [128 Stat. 2965][/us/stat/128/2965].)
+([Pub. L. 113–272][/us/pl/113/272], § 10, Dec. 18, 2014, [128 Stat. 2965][/us/stat/128/2965].)
 
  __Delegation of Functions__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/113/272/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs10
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2965
 [/us/usc/t22/s8925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8925
 

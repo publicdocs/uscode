@@ -21,7 +21,7 @@
 
     (2) with respect to Syria, until the date on which the provisions of and sanctions imposed pursuant to subchapter VII terminate pursuant to [section 8795 of this title][/us/usc/t22/s8795].
 
-([Pub. L. 112–158, title IV, § 411][/us/pl/112/158/s411], Aug. 10, 2012, [126 Stat. 1255][/us/stat/126/1255].)
+([Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 411, Aug. 10, 2012, [126 Stat. 1255][/us/stat/126/1255].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/usc/t22/s8795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8795
-[/us/pl/112/158/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs411
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1255
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158

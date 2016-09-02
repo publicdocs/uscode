@@ -43,7 +43,7 @@
 
     (6) to encourage United States foreign affairs agencies to maintain a high percentage of the best qualified, most competent United States citizens serving in the United States Government.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XI, § 1102, Oct. 21, 1998, [112 Stat. 2681–765][/us/stat/112/2681-765].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XI, § 1102, Oct. 21, 1998, [112 Stat. 2681–765][/us/stat/112/2681-765].)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 
  __Short Title__ 
 
-[Pub. L. 105–277, div. G, § 1001][/us/pl/105/277/s1001], Oct. 21, 1998, [112 Stat. 2681–761][/us/stat/112/2681-761], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], § 1001, Oct. 21, 1998, [112 Stat. 2681–761][/us/stat/112/2681-761], provided that: 
 
 > “This division \[see Tables for classification\] may be cited as the ‘Foreign Affairs Reform and Restructuring Act of 1998’.”
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XI, § 1101, Oct. 21, 1998, [112 Stat. 2681–765][/us/stat/112/2681-765], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XI, § 1101, Oct. 21, 1998, [112 Stat. 2681–765][/us/stat/112/2681-765], provided that: 
 
 > “This subdivision \[see Tables for classification\] may be cited as the ‘Foreign Affairs Agencies Consolidation Act of 1998’.”
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765
-[/us/pl/105/277/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1001
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-761
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765
 
 

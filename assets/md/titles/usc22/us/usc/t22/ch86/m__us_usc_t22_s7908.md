@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-([Pub. L. 101–240, title VII, § 738][/us/pl/101/240/s738], as added [Pub. L. 109–58, title XVI, § 1611][/us/pl/109/58/s1611], Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117].)
+([Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 738, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1611, Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/101/240/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs738
-[/us/pl/109/58/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1611
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1117
 
 

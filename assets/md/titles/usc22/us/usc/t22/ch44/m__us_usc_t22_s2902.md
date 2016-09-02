@@ -51,7 +51,7 @@
 
         (3) Any unappropriated portion of the amount authorized to be appropriated by subsection (d) of this section and paragraph (1) of this subsection for fiscal year 1976 may be appropriated in any subsequent fiscal year.
 
-([Pub. L. 94–118, § 3][/us/pl/94/118/s3], Oct. 20, 1975, [89 Stat. 603][/us/stat/89/603]; [Pub. L. 94–350, title IV, § 401(2)][/us/pl/94/350/s401/2], (3)(A), July 12, 1976, [90 Stat. 833][/us/stat/90/833].)
+([Pub. L. 94–118][/us/pl/94/118], § 3, Oct. 20, 1975, [89 Stat. 603][/us/stat/89/603]; [Pub. L. 94–350, title IV][/us/pl/94/350/tIV], § 401(2), (3)(A), July 12, 1976, [90 Stat. 833][/us/stat/90/833].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t22/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2903
-[/us/pl/94/118/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs3
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F603
-[/us/pl/94/350/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs401%2F2
+[/us/pl/94/350/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtIV
 [/us/stat/90/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F833
 [/us/pl/94/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350
 

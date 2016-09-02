@@ -61,7 +61,7 @@
 
         (C) address infrastructural weaknesses.
 
-([Pub. L. 108–25, § 4][/us/pl/108/25/s4], May 27, 2003, [117 Stat. 717][/us/stat/117/717]; [Pub. L. 110–293, § 4][/us/pl/110/293/s4], July 30, 2008, [122 Stat. 2922][/us/stat/122/2922].)
+([Pub. L. 108–25][/us/pl/108/25], § 4, May 27, 2003, [117 Stat. 717][/us/stat/117/717]; [Pub. L. 110–293][/us/pl/110/293], § 4, July 30, 2008, [122 Stat. 2922][/us/stat/122/2922].)
 
  __References in Text__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/108/25/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs4
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F717
-[/us/pl/110/293/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs4
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/stat/122/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2922
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

@@ -17,7 +17,7 @@
 
     Notwithstanding [section 5536 of title 5][/us/usc/t5/s5536], the Secretary may provide for official receptions and may pay entertainment and representational expenses (including expenses of family members) to enable the Department and the Service to provide for the proper representation of the United States and its interests. In carrying out this section, the Secretary shall, to the maximum extent practicable, provide for the use of United States products, including American wine.
 
-([Pub. L. 96–465, title I, § 905][/us/pl/96/465/s905], Oct. 17, 1980, [94 Stat. 2128][/us/stat/94/2128].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 905, Oct. 17, 1980, [94 Stat. 2128][/us/stat/94/2128].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s5536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5536
-[/us/pl/96/465/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs905
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2128
 
 

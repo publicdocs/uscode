@@ -31,7 +31,7 @@
 
         Notwithstanding the provisions of subsections (a), (b), and (c) of this section, members of the Foreign Claims Settlement Commission who are serving on March 14, 1980, shall continue to serve in their same capacities until the expiration of the terms to which they were appointed.
 
-([Pub. L. 96–209, title I, § 103][/us/pl/96/209/s103], Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96].)
+([Pub. L. 96–209, title I][/us/pl/96/209/tI], § 103, Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/96/209/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2Fs103
+[/us/pl/96/209/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2FtI
 [/us/stat/94/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F96
 [/us/pl/96/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209
 [/us/usc/t22/s1622a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622a

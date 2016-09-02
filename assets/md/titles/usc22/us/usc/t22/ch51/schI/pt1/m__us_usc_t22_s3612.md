@@ -27,7 +27,7 @@
 
         The Board shall hold meetings as provided in regulations adopted by the Commission and approved by the Secretary of Defense. A quorum for the transaction of business shall consist of a majority of the Board members of which a majority of those present are nationals of the United States. The Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, may act by proxy for any other member of the Board if that other member authorizes the proxy in writing and signs the proxy. The proxy may be counted to establish a quorum and may be used by the Secretary of Defense, or the officer of the Department of Defense designated by the Secretary under subsection (a) of this section, to cast the vote of the absent Board member and to act for that member with all the powers that member would possess if present.
 
-([Pub. L. 96–70, title I, § 1102][/us/pl/96/70/s1102], Sept. 27, 1979, [93 Stat. 456][/us/stat/93/456]; [Pub. L. 98–217][/us/pl/98/217], Feb. 14, 1984, [98 Stat. 9][/us/stat/98/9]; [Pub. L. 99–223, § 6][/us/pl/99/223/s6], Dec. 28, 1985, [99 Stat. 1740][/us/stat/99/1740]; [Pub. L. 100–203, title V, § 5416][/us/pl/100/203/s5416], Dec. 22, 1987, [101 Stat. 1330–270][/us/stat/101/1330-270]; [Pub. L. 100–705, § 7][/us/pl/100/705/s7], Nov. 19, 1988, [102 Stat. 4686][/us/stat/102/4686]; [Pub. L. 101–510, div. C, title XXXV, § 3504][/us/pl/101/510/s3504], Nov. 5, 1990, [104 Stat. 1846][/us/stat/104/1846]; [Pub. L. 104–106, div. C, title XXXV, § 3523][/us/pl/104/106/s3523], Feb. 10, 1996, [110 Stat. 638][/us/stat/110/638]; [Pub. L. 105–261, div. C, title XXXV, § 3511(a)][/us/pl/105/261/s3511/a], Oct. 17, 1998, [112 Stat. 2270][/us/stat/112/2270].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1102, Sept. 27, 1979, [93 Stat. 456][/us/stat/93/456]; [Pub. L. 98–217][/us/pl/98/217], Feb. 14, 1984, [98 Stat. 9][/us/stat/98/9]; [Pub. L. 99–223][/us/pl/99/223], § 6, Dec. 28, 1985, [99 Stat. 1740][/us/stat/99/1740]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5416, Dec. 22, 1987, [101 Stat. 1330–270][/us/stat/101/1330-270]; [Pub. L. 100–705][/us/pl/100/705], § 7, Nov. 19, 1988, [102 Stat. 4686][/us/stat/102/4686]; [Pub. L. 101–510, div. C, title XXXV][/us/pl/101/510/dC/tXXXV], § 3504, Nov. 5, 1990, [104 Stat. 1846][/us/stat/104/1846]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3523, Feb. 10, 1996, [110 Stat. 638][/us/stat/110/638]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3511(a), Oct. 17, 1998, [112 Stat. 2270][/us/stat/112/2270].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–705, § 10][/us/pl/100/705/s10], Nov. 19, 1988, [102 Stat. 4687][/us/stat/102/4687], provided that: 
+[Pub. L. 100–705][/us/pl/100/705], § 10, Nov. 19, 1988, [102 Stat. 4687][/us/stat/102/4687], provided that: 
 
 > “This Act \[enacting sections 3715 to 3715d of this title, amending this section and sections 3712 and 3731 of this title, and enacting provisions set out as a note under [section 3601 of this title][/us/usc/t22/s3601]\] takes effect on October 1, 1988.”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–223, § 8][/us/pl/99/223/s8], Dec. 28, 1985, [99 Stat. 1740][/us/stat/99/1740], provided that: 
+[Pub. L. 99–223][/us/pl/99/223], § 8, Dec. 28, 1985, [99 Stat. 1740][/us/stat/99/1740], provided that: 
 
 > “Section 5 and section 6 of the Act \[enacting [section 3650 of this title][/us/usc/t22/s3650] and amending this section and sections 3647 and 3731 of this title\] shall be effective as of October 1, 1985.”
 
@@ -66,21 +66,21 @@
 
 [/us/usc/t22/s3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3617
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/96/70/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1102
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F456
 [/us/pl/98/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F217
 [/us/stat/98/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F9
-[/us/pl/99/223/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223%2Fs6
+[/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
 [/us/stat/99/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1740
-[/us/pl/100/203/s5416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5416
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-270
-[/us/pl/100/705/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs7
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4686
-[/us/pl/101/510/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs3504
+[/us/pl/101/510/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdC%2FtXXXV
 [/us/stat/104/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1846
-[/us/pl/104/106/s3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3523
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F638
-[/us/pl/105/261/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3511%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2270
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -89,10 +89,10 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
 [/us/pl/98/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F217
-[/us/pl/100/705/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs10
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4687
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/pl/99/223/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223%2Fs8
+[/us/pl/99/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F223
 [/us/stat/99/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1740
 [/us/usc/t22/s3650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3650
 

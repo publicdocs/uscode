@@ -19,7 +19,7 @@
 
     (b) Except as otherwise specifically provided in this part or any other provision of law, the provisions of chapter 84 of title 5 shall apply to all participants in the Foreign Service Pension System and such participants shall be treated in all respects similar to persons whose participation in the Federal Employees’ Retirement System provided in that chapter is required.
 
-([Pub. L. 96–465, title I, § 851][/us/pl/96/465/s851], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 615][/us/stat/100/615].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 851, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 615][/us/stat/100/615].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/96/465/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs851
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F615
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401

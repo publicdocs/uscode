@@ -23,7 +23,7 @@
 
         For the purposes of assisting foreign students in making the best use of their opportunities while attending United States institutions of higher education, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, the President may make suitable arrangements (by contract or otherwise) for the establishment and maintenance of adequate counseling services at United States institutions of higher education which are attended by foreign students.
 
-([Pub. L. 99–93, title VI, § 607][/us/pl/99/93/s607], Aug. 16, 1985, [99 Stat. 442][/us/stat/99/442].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 607, Aug. 16, 1985, [99 Stat. 442][/us/stat/99/442].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/93/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs607
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F442
 
 

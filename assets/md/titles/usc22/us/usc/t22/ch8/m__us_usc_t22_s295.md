@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s294a.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s296.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs295)
+[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s294a.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s295a _us_usc_t22_s295b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs295)
 
 ## § 295. Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies
 
@@ -123,7 +123,7 @@
 
         (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
-([May 7, 1926, ch. 250, § 4][/us/act/1926-05-07/ch250/s4], [44 Stat. 404][/us/stat/44/404]; [June 19, 1952, ch. 446, § 2][/us/act/1952-06-19/ch446/s2], [66 Stat. 140][/us/stat/66/140]; [Pub. L. 86–723, § 49][/us/pl/86/723/s49], Sept. 8, 1960, [74 Stat. 847][/us/stat/74/847]; [Pub. L. 88–94][/us/pl/88/94], §§ 1, 2(d), Aug. 12, 1963, [77 Stat. 121][/us/stat/77/121], 122; [Pub. L. 88–414][/us/pl/88/414], Aug. 10, 1964, [78 Stat. 387][/us/stat/78/387]; [Pub. L. 89–22][/us/pl/89/22], May 21, 1965, [79 Stat. 112][/us/stat/79/112]; [Pub. L. 89–636, § 1][/us/pl/89/636/s1], Oct. 10, 1966, [80 Stat. 881][/us/stat/80/881]; [Pub. L. 90–442][/us/pl/90/442], July 30, 1968, [82 Stat. 461][/us/stat/82/461]; [Pub. L. 91–586][/us/pl/91/586], Dec. 24, 1970, [84 Stat. 1578][/us/stat/84/1578]; [Pub. L. 93–47][/us/pl/93/47], June 22, 1973, [87 Stat. 98][/us/stat/87/98]; [Pub. L. 93–263][/us/pl/93/263], Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83]; [Pub. L. 94–141, title I, § 171][/us/pl/94/141/s171], Nov. 29, 1975, [89 Stat. 760][/us/stat/89/760]; [Pub. L. 94–350, title I, § 109][/us/pl/94/350/s109], July 12, 1976, [90 Stat. 824][/us/stat/90/824]; [Pub. L. 95–45, § 3][/us/pl/95/45/s3], June 15, 1977, [91 Stat. 221][/us/stat/91/221]; [Pub. L. 103–199, title V, § 503][/us/pl/103/199/s503], Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 4, [44 Stat. 404][/us/stat/44/404]; [June 19, 1952, ch. 446][/us/act/1952-06-19/ch446], § 2, [66 Stat. 140][/us/stat/66/140]; [Pub. L. 86–723][/us/pl/86/723], § 49, Sept. 8, 1960, [74 Stat. 847][/us/stat/74/847]; [Pub. L. 88–94][/us/pl/88/94], §§ 1, 2(d), Aug. 12, 1963, [77 Stat. 121][/us/stat/77/121], 122; [Pub. L. 88–414][/us/pl/88/414], Aug. 10, 1964, [78 Stat. 387][/us/stat/78/387]; [Pub. L. 89–22][/us/pl/89/22], May 21, 1965, [79 Stat. 112][/us/stat/79/112]; [Pub. L. 89–636][/us/pl/89/636], § 1, Oct. 10, 1966, [80 Stat. 881][/us/stat/80/881]; [Pub. L. 90–442][/us/pl/90/442], July 30, 1968, [82 Stat. 461][/us/stat/82/461]; [Pub. L. 91–586][/us/pl/91/586], Dec. 24, 1970, [84 Stat. 1578][/us/stat/84/1578]; [Pub. L. 93–47][/us/pl/93/47], June 22, 1973, [87 Stat. 98][/us/stat/87/98]; [Pub. L. 93–263][/us/pl/93/263], Apr. 12, 1974, [88 Stat. 83][/us/stat/88/83]; [Pub. L. 94–141, title I][/us/pl/94/141/tI], § 171, Nov. 29, 1975, [89 Stat. 760][/us/stat/89/760]; [Pub. L. 94–350, title I][/us/pl/94/350/tI], § 109, July 12, 1976, [90 Stat. 824][/us/stat/90/824]; [Pub. L. 95–45][/us/pl/95/45], § 3, June 15, 1977, [91 Stat. 221][/us/stat/91/221]; [Pub. L. 103–199, title V][/us/pl/103/199/tV], § 503, Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327].)
 
  __References in Text__ 
 
@@ -137,43 +137,43 @@
 
     1977—Subsec. (h)(1). [Pub. L. 95–45][/us/pl/95/45] substituted “$225,000” for “$6,725,000” in subpar. (A), “$12,885,000” for “$8,005,000” in subpar. (B), “$3,400,000” for “$3,745,000” in subpar. (C), “$150,000” for “$420,000” in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
 
-    1976—Subsec. (h)(2). [Pub. L. 94–350, § 109(1)][/us/pl/94/350/s109/1], increased appropriations authorization for fiscal years 1976 and 1977 to $73,058,000 from $71,600,000.
+    1976—Subsec. (h)(2). [Pub. L. 94–350][/us/pl/94/350], § 109(1), increased appropriations authorization for fiscal years 1976 and 1977 to $73,058,000 from $71,600,000.
 
-    Subsec. (j). [Pub. L. 94–350, § 109(2)][/us/pl/94/350/s109/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 94–350][/us/pl/94/350], § 109(2), added subsec. (j).
 
-    1975—Subsec. (g)(1). [Pub. L. 94–141, § 171(a)][/us/pl/94/141/s171/a], substituted “$850,000” for “$2,190,000” in subpar. (A), “$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
+    1975—Subsec. (g)(1). [Pub. L. 94–141][/us/pl/94/141], § 171(a), substituted “$850,000” for “$2,190,000” in subpar. (A), “$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
 
-    Subsec. (h). [Pub. L. 94–141, § 171(b)(1)][/us/pl/94/141/s171/b/1], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 94–141][/us/pl/94/141], § 171(b)(1), added subsec. (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 94–141, § 171(b)][/us/pl/94/141/s171/b], redesignated former subsec. (h) as (i), and, as so redesignated, in par. (2) inserted reference to subsec. (h) of this section.
+    Subsec. (i). [Pub. L. 94–141][/us/pl/94/141], § 171(b), redesignated former subsec. (h) as (i), and, as so redesignated, in par. (2) inserted reference to subsec. (h) of this section.
 
-    1974—Subsec. (g)(1). [Pub. L. 93–263, § 1(1)][/us/pl/93/263/s1/1]–(3), increased appropriations authorization for fiscal year 1974, in subpar. (A) to $631,000 from $590,000, in subpar. (C) to $204,000 from $160,000, and in subpar. (E) to $2,287,000 from $2,218,000.
+    1974—Subsec. (g)(1). [Pub. L. 93–263][/us/pl/93/263], § 1(1)–(3), increased appropriations authorization for fiscal year 1974, in subpar. (A) to $631,000 from $590,000, in subpar. (C) to $204,000 from $160,000, and in subpar. (E) to $2,287,000 from $2,218,000.
 
-    Subsec. (g)(2). [Pub. L. 92–263, § 1(4)][/us/pl/92/263/s1/4], increased appropriations authorization for fiscal years 1974 and 1975 to $48,532,000 from $45,800,000 and increased limitation for fiscal year 1974, to $23,066,000 from $21,700,000.
+    Subsec. (g)(2). [Pub. L. 92–263][/us/pl/92/263], § 1(4), increased appropriations authorization for fiscal years 1974 and 1975 to $48,532,000 from $45,800,000 and increased limitation for fiscal year 1974, to $23,066,000 from $21,700,000.
 
-    1973—Subsec. (g). [Pub. L. 93–47, § 1(1)][/us/pl/93/47/s1/1], added subsec. (g). Former subsec. (g) redesignated (h).
+    1973—Subsec. (g). [Pub. L. 93–47][/us/pl/93/47], § 1(1), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 93–47, § 1(1)][/us/pl/93/47/s1/1], (2), redesignated former subsec. (g) as (h), struck out from par. (2) provision for application of the paragraph beginning with the fiscal year 1966, inserted reference to subsec. (g), and added par. (3), respectively.
+    Subsec. (h). [Pub. L. 93–47][/us/pl/93/47], § 1(1), (2), redesignated former subsec. (g) as (h), struck out from par. (2) provision for application of the paragraph beginning with the fiscal year 1966, inserted reference to subsec. (g), and added par. (3), respectively.
 
     1970—Subsec. (f)(2). [Pub. L. 91–586][/us/pl/91/586] authorized appropriations of not more than $15,000,000 for fiscal year 1972, and not more than $15,900,000 for fiscal year 1973.
 
     1968—Subsec. (f)(2). [Pub. L. 90–442][/us/pl/90/442] authorized appropriations not to exceed $13,500,000 for fiscal year 1970, and not to exceed $14,300,000 for fiscal year 1971.
 
-    1966—Subsec. (d). [Pub. L. 89–636, § 1(1)][/us/pl/89/636/s1/1], struck out last three sentences providing for availability of appropriated funds until expended, use of foreign currencies for expenditures, and use of funds authorized by any subpar. of par. (1) of subsec. (d), now incorporated in subsec. (g)(1) and (2) of this section, respectively.
+    1966—Subsec. (d). [Pub. L. 89–636][/us/pl/89/636], § 1(1), struck out last three sentences providing for availability of appropriated funds until expended, use of foreign currencies for expenditures, and use of funds authorized by any subpar. of par. (1) of subsec. (d), now incorporated in subsec. (g)(1) and (2) of this section, respectively.
 
-    Subsec. (e). [Pub. L. 89–636, § 1(2)][/us/pl/89/636/s1/2], substituted “$2,600,000” for “$1,000,000”.
+    Subsec. (e). [Pub. L. 89–636][/us/pl/89/636], § 1(2), substituted “$2,600,000” for “$1,000,000”.
 
-    Subsec. (f). [Pub. L. 89–636, § 1(3)][/us/pl/89/636/s1/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 89–636][/us/pl/89/636], § 1(3), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 89–636, § 1(3)][/us/pl/89/636/s1/3], redesignated second and third sentences of subsec. (d) as par. (1) and last sentence of subsec. (d) as par. (2), inserting therein provision for use of funds authorized by any subpar. of par. (1) of subsec. (f).
+    Subsec. (g). [Pub. L. 89–636][/us/pl/89/636], § 1(3), redesignated second and third sentences of subsec. (d) as par. (1) and last sentence of subsec. (d) as par. (2), inserting therein provision for use of funds authorized by any subpar. of par. (1) of subsec. (f).
 
     1965—Subsec. (e). [Pub. L. 89–22][/us/pl/89/22] added subsec. (e).
 
     1964—Subsec. (d). [Pub. L. 88–414][/us/pl/88/414] authorized appropriations of not more than $12,200,000 for fiscal year 1966, $12,400,000 for fiscal year 1967, and beginning with fiscal year 1966, permitted use of not more than 10 per centum of the funds authorized for any subparagraph under par. (1) of this subsection for the purposes of any other subparagraph of such par. (1).
 
-    1963—Subsec. (a). [Pub. L. 88–94, § 2(d)][/us/pl/88/94/s2/d], struck out “, subject to the direction of the commission,” after “Secretary of State”.
+    1963—Subsec. (a). [Pub. L. 88–94][/us/pl/88/94], § 2(d), struck out “, subject to the direction of the commission,” after “Secretary of State”.
 
-    Subsec. (d). [Pub. L. 88–94, § 1][/us/pl/88/94/s1], added subsec. (d).
+    Subsec. (d). [Pub. L. 88–94][/us/pl/88/94], § 1, added subsec. (d).
 
     1960—Subsec. (c). [Pub. L. 86–723][/us/pl/86/723] added subsec. (c).
 
@@ -189,30 +189,18 @@
 
     United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-§§ 295a, 295b. __Omitted__ 
-
- __Codification__ 
-
-    Section 295a, [act May 25, 1938, ch. 275][/us/act/1938-05-25/ch275], [52 Stat. 441][/us/stat/52/441], authorized additional appropriations of an amount not to exceed $5,000,000.
-
-    Section 295b, [act June 25, 1946, ch. 643][/us/act/1946-06-25/ch643], [60 Stat. 663][/us/stat/60/663], authorized additional appropriations of an amount not to exceed $125,000,000 of which $110,000,000 was to be used exclusively for the payments representing the value of property or credits held abroad by the Government or owing to the Government which could have been used by the Department of State for buildings, equipment, etc.
-
- __Diplomatic Establishments in Philippine Islands__ 
-
-    Acts [July 9, 1947, ch. 211][/us/act/1947-07-09/ch211], title I, § 101, [61 Stat. 288][/us/stat/61/288]; [June 3, 1948, ch. 400][/us/act/1948-06-03/ch400], title I, § 1, [62 Stat. 315][/us/stat/62/315]; [July 20, 1949, ch. 354][/us/act/1949-07-20/ch354], title I, § 101, [63 Stat. 456][/us/stat/63/456], provided in part that the construction of diplomatic and consular establishments in the Philippines should be without regard to the limitation proviso of section 295a.
-
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s294a.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s296.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs295)
+[Previous](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s294a.md) | [Next](./../../../..//us/usc/t22/ch8/m__us_usc_t22_s295a _us_usc_t22_s295b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs295)
 
 ----------
 ----------
 
-[/us/act/1926-05-07/ch250/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs4
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F404
-[/us/act/1952-06-19/ch446/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-19%2Fch446%2Fs2
+[/us/act/1952-06-19/ch446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-19%2Fch446
 [/us/stat/66/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F140
-[/us/pl/86/723/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs49
+[/us/pl/86/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723
 [/us/stat/74/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F847
 [/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
 [/us/stat/77/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F121
@@ -220,7 +208,7 @@
 [/us/stat/78/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F387
 [/us/pl/89/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F22
 [/us/stat/79/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F112
-[/us/pl/89/636/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs1
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
 [/us/stat/80/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F881
 [/us/pl/90/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F442
 [/us/stat/82/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F461
@@ -230,49 +218,39 @@
 [/us/stat/87/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F98
 [/us/pl/93/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F263
 [/us/stat/88/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F83
-[/us/pl/94/141/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs171
+[/us/pl/94/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtI
 [/us/stat/89/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F760
-[/us/pl/94/350/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs109
+[/us/pl/94/350/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtI
 [/us/stat/90/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F824
-[/us/pl/95/45/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45%2Fs3
+[/us/pl/95/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45
 [/us/stat/91/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F221
-[/us/pl/103/199/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs503
+[/us/pl/103/199/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtV
 [/us/stat/107/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2327
 [/us/usc/t22/s295b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs295b
 [/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/pl/95/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45
-[/us/pl/94/350/s109/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs109%2F1
-[/us/pl/94/350/s109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs109%2F2
-[/us/pl/94/141/s171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs171%2Fa
-[/us/pl/94/141/s171/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs171%2Fb%2F1
-[/us/pl/94/141/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs171%2Fb
-[/us/pl/93/263/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F263%2Fs1%2F1
-[/us/pl/92/263/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F263%2Fs1%2F4
-[/us/pl/93/47/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F47%2Fs1%2F1
-[/us/pl/93/47/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F47%2Fs1%2F1
+[/us/pl/94/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350
+[/us/pl/94/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350
+[/us/pl/94/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141
+[/us/pl/94/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141
+[/us/pl/94/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141
+[/us/pl/93/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F263
+[/us/pl/92/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F263
+[/us/pl/93/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F47
+[/us/pl/93/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F47
 [/us/pl/91/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F586
 [/us/pl/90/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F442
-[/us/pl/89/636/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs1%2F1
-[/us/pl/89/636/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs1%2F2
-[/us/pl/89/636/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs1%2F3
-[/us/pl/89/636/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs1%2F3
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
 [/us/pl/89/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F22
 [/us/pl/88/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F414
-[/us/pl/88/94/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94%2Fs2%2Fd
-[/us/pl/88/94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94%2Fs1
+[/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
+[/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
 [/us/pl/86/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723
 [/us/pl/86/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723
 [/us/pl/86/723/s56/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs56%2Fa
-[/us/act/1938-05-25/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-25%2Fch275
-[/us/stat/52/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F441
-[/us/act/1946-06-25/ch643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-25%2Fch643
-[/us/stat/60/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F663
-[/us/act/1947-07-09/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-09%2Fch211
-[/us/stat/61/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F288
-[/us/act/1948-06-03/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch400
-[/us/stat/62/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F315
-[/us/act/1949-07-20/ch354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-20%2Fch354
-[/us/stat/63/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F456
 
 

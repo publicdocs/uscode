@@ -27,7 +27,7 @@
 
     (5) the licensing of officers or other operators of vessels navigating the waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal.
 
-([Pub. L. 96–70, title I, § 1801][/us/pl/96/70/s1801], Sept. 27, 1979, [93 Stat. 492][/us/stat/93/492]; [Pub. L. 104–201, div. C, title XXXV, § 3545][/us/pl/104/201/s3545], Sept. 23, 1996, [110 Stat. 2867][/us/stat/110/2867].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1801, Sept. 27, 1979, [93 Stat. 492][/us/stat/93/492]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3545, Sept. 23, 1996, [110 Stat. 2867][/us/stat/110/2867].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1801
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F492
-[/us/pl/104/201/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3545
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2867
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 

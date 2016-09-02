@@ -39,11 +39,11 @@
 
     (11) The United States Information Agency shall recommend to each student, who receives a scholarship under this chapter for study at a college or university, that the student enroll in a course on the classics of American political thought or which otherwise emphasizes the ideas, principles, and documents upon which the United States was founded.
 
-([Pub. L. 99–93, title VI, § 604][/us/pl/99/93/s604], Aug. 16, 1985, [99 Stat. 440][/us/stat/99/440].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 604, Aug. 16, 1985, [99 Stat. 440][/us/stat/99/440].)
 
  __References in Text__ 
 
-    [Section 2460(b) of this title][/us/usc/t22/s2460/b], referred to in par. (1), was redesignated [section 2460(c) of this title][/us/usc/t22/s2460/c] by [Pub. L. 101–246, title II, § 204(a)(2)(A)][/us/pl/101/246/s204/a/2/A], Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50].
+    [Section 2460(b) of this title][/us/usc/t22/s2460/b], referred to in par. (1), was redesignated [section 2460(c) of this title][/us/usc/t22/s2460/c] by [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 204(a)(2)(A), Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50].
 
  __Transfer of Functions__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/99/93/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs604
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F440
 [/us/usc/t22/s2460/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2460%2Fb
 [/us/usc/t22/s2460/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2460%2Fc
-[/us/pl/101/246/s204/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs204%2Fa%2F2%2FA
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F50
 
 

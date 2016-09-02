@@ -61,11 +61,11 @@
 
         In addition to amounts otherwise available for such purposes, $4,000,000 of the amount authorized to be appropriated by section 101(a)(1) of this Act shall be available only to carry out the purposes of this section.
 
-([Pub. L. 95–426, title I, § 105][/us/pl/95/426/s105], Oct. 7, 1978, [92 Stat. 965][/us/stat/92/965].)
+([Pub. L. 95–426, title I][/us/pl/95/426/tI], § 105, Oct. 7, 1978, [92 Stat. 965][/us/stat/92/965].)
 
  __References in Text__ 
 
-    [Section 2151q of this title][/us/usc/t22/s2151q], referred to in subsec. (a)(3), was repealed by [Pub. L. 96–533, title III, § 304(g)][/us/pl/96/533/s304/g], Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147]. See section 2151d(a)(2), (b)(2), (c) of this title.
+    [Section 2151q of this title][/us/usc/t22/s2151q], referred to in subsec. (a)(3), was repealed by [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 304(g), Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147]. See section 2151d(a)(2), (b)(2), (c) of this title.
 
     Section 101(a)(1) of this Act, referred to in subsec. (d), means [section 101(a)(1) of Pub. L. 95–426][/us/pl/95/426/s101/a/1], which is not classified to the Code.
 
@@ -83,10 +83,10 @@
 [/us/usc/t22/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292
 [/us/usc/t22/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292
 [/us/usc/t22/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292
-[/us/pl/95/426/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs105
+[/us/pl/95/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtI
 [/us/stat/92/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F965
 [/us/usc/t22/s2151q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151q
-[/us/pl/96/533/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fg
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3147
 [/us/pl/95/426/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs101%2Fa%2F1
 

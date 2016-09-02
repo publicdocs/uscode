@@ -35,7 +35,7 @@
 
         The Chairperson may remove any other Board member, upon written notice, for corruption, neglect of duty, malfeasance, or demonstrated incapacity to perform his or her functions, established at a hearing, except where the right to a hearing is waived in writing.
 
-([Pub. L. 96–465, title I, § 1006][/us/pl/96/465/s1006], Oct. 17, 1980, [94 Stat. 2131][/us/stat/94/2131].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1006, Oct. 17, 1980, [94 Stat. 2131][/us/stat/94/2131].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/96/465/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1006
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2131
 
 

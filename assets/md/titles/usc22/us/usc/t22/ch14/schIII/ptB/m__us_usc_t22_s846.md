@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch14/schIII/ptB/m__us_usc_t22_ch14_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t22/ch14/schIV/m__us_usc_t22_ch14_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs846)
 
-## § 846. Repealed. [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
+## § 846. Repealed. [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
 
-    Section, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title III, § 311, [60 Stat. 1002][/us/stat/60/1002], related to performance of service for government agencies and departments by officers and employees.
+    Section, [act Aug. 13, 1946, ch. 957, title III][/us/act/1946-08-13/ch957/tIII], § 311, [60 Stat. 1002][/us/stat/60/1002], related to performance of service for government agencies and departments by officers and employees.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/act/1946-08-13/ch957/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957%2FtIII
 [/us/stat/60/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1002
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

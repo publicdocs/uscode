@@ -23,7 +23,7 @@
 
         The President shall consider what actions can be taken to ensure that any government of a country or the leaders or senior officials of such government who are responsible for crimes against humanity, genocide, slavery, or other violations of international humanitarian law identified under subsection (a) are brought to account for such crimes in an appropriately constituted tribunal.
 
-([Pub. L. 110–53, title XXI, § 2113][/us/pl/110/53/s2113], Aug. 3, 2007, [121 Stat. 531][/us/stat/121/531].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2113, Aug. 3, 2007, [121 Stat. 531][/us/stat/121/531].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2113
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F531
 
 

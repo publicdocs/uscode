@@ -105,7 +105,7 @@
 
         (3) The term “overseas contingency operation” means a military operation outside the United States and its territories and possessions that is a contingency operation (as that term is defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13]).
 
-([Pub. L. 112–239, div. A, title XII, § 1273][/us/pl/112/239/s1273], Jan. 2, 2013, [126 Stat. 2023][/us/stat/126/2023].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1273, Jan. 2, 2013, [126 Stat. 2023][/us/stat/126/2023].)
 
  __Codification__ 
 
@@ -121,7 +121,7 @@
 [/us/usc/t10/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114%2Fb
 [/us/usc/t22/s2421e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421e
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/112/239/s1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1273
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2023
 
 

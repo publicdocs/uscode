@@ -31,7 +31,7 @@
 
         (2) were filled by individuals having the required foreign language competence.
 
-([Pub. L. 96–465, title I, § 702][/us/pl/96/465/s702], Oct. 17, 1980, [94 Stat. 2099][/us/stat/94/2099]; [Pub. L. 103–236, title I, § 126(3)][/us/pl/103/236/s126/3], Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 208(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422; [Pub. L. 107–228, div. A, title III, § 327][/us/pl/107/228/s327], Sept. 30, 2002, [116 Stat. 1387][/us/stat/116/1387].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 702, Oct. 17, 1980, [94 Stat. 2099][/us/stat/94/2099]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 126(3), Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 208(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–422; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 327, Sept. 30, 2002, [116 Stat. 1387][/us/stat/116/1387].)
 
  __Amendments__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/96/465/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs702
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2099
-[/us/pl/103/236/s126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs126%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F394
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs327
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1387
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

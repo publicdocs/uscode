@@ -49,7 +49,7 @@
 
         The programs authorized by this section may be used to conduct activities such as seminars and workshops, drafting of commercial and labor codes, legal training, publications, financing the operating costs for nongovernmental organizations working in this area, and funding the travel of individuals to the United States and to the People’s Republic of China to provide and receive training.
 
-([Pub. L. 106–286, div. B, title V, § 511][/us/pl/106/286/s511], Oct. 10, 2000, [114 Stat. 905][/us/stat/114/905].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 511, Oct. 10, 2000, [114 Stat. 905][/us/stat/114/905].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs511
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F905
 
 

@@ -17,7 +17,7 @@
 
     The President shall notify Congress of any notifications issued by the IAEA to the United States under Article 10 of the Additional Protocol.
 
-([Pub. L. 109–401, title II, § 275][/us/pl/109/401/s275], Dec. 18, 2006, [120 Stat. 2753][/us/stat/120/2753].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 275, Dec. 18, 2006, [120 Stat. 2753][/us/stat/120/2753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs275
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2753
 
 

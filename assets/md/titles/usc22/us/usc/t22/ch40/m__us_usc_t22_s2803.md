@@ -63,17 +63,17 @@
 
         (2) a Federal pavilion is temporary if the Federal pavilion is designed to satisfy the minimum needs of the Federal Government described in subsection (b)(1)(B)(i) of this section and is intended for disposal by the Federal Government after the termination of participation in the exposition.
 
-([Pub. L. 91–269, § 3][/us/pl/91/269/s3], May 27, 1970, [84 Stat. 272][/us/stat/84/272]; [Pub. L. 97–254, § 16(a)][/us/pl/97/254/s16/a], Sept. 8, 1982, [96 Stat. 812][/us/stat/96/812].)
+([Pub. L. 91–269][/us/pl/91/269], § 3, May 27, 1970, [84 Stat. 272][/us/stat/84/272]; [Pub. L. 97–254][/us/pl/97/254], § 16(a), Sept. 8, 1982, [96 Stat. 812][/us/stat/96/812].)
 
  __Amendments__ 
 
-    1982—Subsec. (a). [Pub. L. 97–254, § 16(a)(1)][/us/pl/97/254/s16/a/1]–(3), designated existing provisions as subsec. (a), redesignated cls. (a) to (c) thereof as cls. (1) to (3) respectively, and in cl. (3) as so redesignated, substituted provisions requiring the Secretary of Commerce to include in a plan under this section any documentation, designs, or recommendations described in subsec. (b) of this section for provisions that the Secretary in developing a plan should consider whether there was a need for the construction of a Federal pavilion, and if so, that there could be included in the plan a recommendation that Government participation in the exposition be conditioned on its being deeded a satisfactory site for the pavilion and that the Secretary would seek the advice of the Administrator of the General Services Administration in carrying out the provisions of former subsec. (c).
+    1982—Subsec. (a). [Pub. L. 97–254][/us/pl/97/254], § 16(a)(1)–(3), designated existing provisions as subsec. (a), redesignated cls. (a) to (c) thereof as cls. (1) to (3) respectively, and in cl. (3) as so redesignated, substituted provisions requiring the Secretary of Commerce to include in a plan under this section any documentation, designs, or recommendations described in subsec. (b) of this section for provisions that the Secretary in developing a plan should consider whether there was a need for the construction of a Federal pavilion, and if so, that there could be included in the plan a recommendation that Government participation in the exposition be conditioned on its being deeded a satisfactory site for the pavilion and that the Secretary would seek the advice of the Administrator of the General Services Administration in carrying out the provisions of former subsec. (c).
 
-    Subsecs. (b) to (d). [Pub. L. 97–254, § 16(a)(4)][/us/pl/97/254/s16/a/4], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 97–254][/us/pl/97/254], § 16(a)(4), added subsecs. (b) to (d).
 
  __Effective Date of 1982 Amendment__ 
 
-    Amendment by [Pub. L. 97–254][/us/pl/97/254] effective Sept. 8, 1982, see [Pub. L. 97–254, § 15][/us/pl/97/254/s15], Sept. 18, 1982, [96 Stat. 812][/us/stat/96/812].
+    Amendment by [Pub. L. 97–254][/us/pl/97/254] effective Sept. 8, 1982, see [Pub. L. 97–254][/us/pl/97/254], § 15, Sept. 18, 1982, [96 Stat. 812][/us/stat/96/812].
 
 ----------
 
@@ -83,14 +83,14 @@
 ----------
 
 [/us/usc/t22/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2802
-[/us/pl/91/269/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs3
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F272
-[/us/pl/97/254/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254%2Fs16%2Fa
-[/us/stat/96/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F812
-[/us/pl/97/254/s16/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254%2Fs16%2Fa%2F1
-[/us/pl/97/254/s16/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254%2Fs16%2Fa%2F4
 [/us/pl/97/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254
-[/us/pl/97/254/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254%2Fs15
+[/us/stat/96/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F812
+[/us/pl/97/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254
+[/us/pl/97/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254
+[/us/pl/97/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254
+[/us/pl/97/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F254
 [/us/stat/96/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F812
 
 

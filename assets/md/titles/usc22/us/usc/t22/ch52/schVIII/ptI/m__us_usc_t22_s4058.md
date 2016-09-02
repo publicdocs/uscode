@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall prepare the estimates of the annual appropriations required to be made to the Fund, and shall make actuarial valuations of the System at intervals of not more than five years. The Secretary of State may expend from money to the credit of the Fund an amount not exceeding $5,000 per year for the incidental expenses necessary in administering the provisions of this part, including actuarial advice.
 
-([Pub. L. 96–465, title I, § 818][/us/pl/96/465/s818], Oct. 17, 1980, [94 Stat. 2120][/us/stat/94/2120]; [Pub. L. 99–335, title IV, § 402(a)(2)][/us/pl/99/335/s402/a/2], June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 818, Oct. 17, 1980, [94 Stat. 2120][/us/stat/94/2120]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(2), June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/465/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs818
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2120
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

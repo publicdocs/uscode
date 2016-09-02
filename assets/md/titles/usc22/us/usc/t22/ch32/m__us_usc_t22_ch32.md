@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
+[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141e _us_usc_t22_s2141f.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
 
 ## CHAPTER 32—FOREIGN ASSISTANCE
 
@@ -185,7 +185,7 @@ Part I—Declaration of Policy; Development Assistance Authorizations  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2151" data-uslm-ref="/us/usc/t22/s2151">2151</a>l, 2151m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2151l" data-uslm-ref="/us/usc/t22/s2151l">2151l</a>, 2151m.  </td>
 
     <td> Repealed.  </td>
 
@@ -217,7 +217,7 @@ Part I—Declaration of Policy; Development Assistance Authorizations  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2151" data-uslm-ref="/us/usc/t22/s2151">2151</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2151o" data-uslm-ref="/us/usc/t22/s2151o">2151o</a>.  </td>
 
     <td> Repealed.  </td>
 
@@ -1697,7 +1697,7 @@ Part II—Military Assistance  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2321" data-uslm-ref="/us/usc/t22/s2321">2321</a>l to 2322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2321l" data-uslm-ref="/us/usc/t22/s2321l">2321l</a> to 2322.  </td>
 
     <td> Repealed or Transferred.  </td>
 
@@ -3211,7 +3211,7 @@ SUBCHAPTER V—MIDDLE EAST ASSISTANCE  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
+[Previous](./../../../..//us/usc/t22/ch31A/m__us_usc_t22_s2141e _us_usc_t22_s2141f.md) | [Next](./../../../..//us/usc/t22/ch32/schI/m__us_usc_t22_ch32_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch32)
 
 ----------
 ----------

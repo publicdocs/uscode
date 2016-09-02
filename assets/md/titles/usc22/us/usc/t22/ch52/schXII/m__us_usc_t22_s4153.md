@@ -49,11 +49,11 @@
 
         may not remain in the Foreign Service for more than 3 years after February 15, 1981. During such period, the officer shall be subject to the provisions of subchapters I to XI of this chapter applicable to members of the Senior Foreign Service, except that such officer shall not be eligible to compete for performance pay under [section 3965 of this title][/us/usc/t22/s3965], and shall not be eligible for a limited career extension as described in [section 4007(b) of this title][/us/usc/t22/s4007/b]. Upon separation from the Service, any such officer who is a participant in the Foreign Service Retirement and Disability System shall be entitled to retirement benefits on the same basis as a member retired from the Senior Foreign Service under [section 4007(c)(1) of this title][/us/usc/t22/s4007/c/1], and [section 4009(a)(2)(B) of this title][/us/usc/t22/s4009/a/2/B] shall be deemed to apply to such officer.
 
-([Pub. L. 96–465, title II, § 2103][/us/pl/96/465/s2103], Oct. 17, 1980, [94 Stat. 2149][/us/stat/94/2149]; [Pub. L. 98–164, title I, § 128][/us/pl/98/164/s128], Nov. 22, 1983, [97 Stat. 1027][/us/stat/97/1027].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2103, Oct. 17, 1980, [94 Stat. 2149][/us/stat/94/2149]; [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 128, Nov. 22, 1983, [97 Stat. 1027][/us/stat/97/1027].)
 
  __References in Text__ 
 
-    Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867 and 869, respectively, of this title, were repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867 and 869, respectively, of this title, were repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
  __Codification__ 
 
@@ -77,11 +77,11 @@
 [/us/usc/t22/s4007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4007%2Fb
 [/us/usc/t22/s4007/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4007%2Fc%2F1
 [/us/usc/t22/s4009/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4009%2Fa%2F2%2FB
-[/us/pl/96/465/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2103
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2149
-[/us/pl/98/164/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs128
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1027
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

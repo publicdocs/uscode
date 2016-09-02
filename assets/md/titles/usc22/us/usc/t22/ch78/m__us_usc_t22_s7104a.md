@@ -37,7 +37,7 @@
 
         The President, in consultation with the Secretary of State, the Attorney General, the Secretary of Defense, the Secretary of Labor, the Secretary of Homeland Security, the Administrator for the United States Agency for International Development, and the heads of such other executive agencies as the President deems appropriate, shall establish minimum requirements for contractor plans and procedures to be implemented pursuant to this section.
 
-([Pub. L. 112–239, div. A, title XVII, § 1703][/us/pl/112/239/s1703], Jan. 2, 2013, [126 Stat. 2094][/us/stat/126/2094].)
+([Pub. L. 112–239, div. A, title XVII][/us/pl/112/239/dA/tXVII], § 1703, Jan. 2, 2013, [126 Stat. 2094][/us/stat/126/2094].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Definitions__ 
 
-[Pub. L. 112–239, div. A, title XVII, § 1701][/us/pl/112/239/s1701], Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that: 
+[Pub. L. 112–239, div. A, title XVII][/us/pl/112/239/dA/tXVII], § 1701, Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that: 
 
 > “In this title \[title XVII (§§ 1701–1708) of div. A of [Pub. L. 112–239][/us/pl/112/239], enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, [section 1351 of Title 18][/us/usc/t18/s1351], Crimes and Criminal Procedure, and [section 2313 of Title 41][/us/usc/t41/s2313], Public Contracts, and enacting provisions set out as a note under [section 1101 of Title 8][/us/usc/t8/s1101], Aliens and Nationality\]:
 
@@ -82,13 +82,13 @@
 
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
-[/us/pl/112/239/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1703
+[/us/pl/112/239/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVII
 [/us/stat/126/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2094
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
 [/us/pl/112/239/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1702
 [/us/usc/t22/s7104d/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104d%2Fc%2F1%2FB
-[/us/pl/112/239/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1701
+[/us/pl/112/239/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVII
 [/us/stat/126/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2092
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t18/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1351

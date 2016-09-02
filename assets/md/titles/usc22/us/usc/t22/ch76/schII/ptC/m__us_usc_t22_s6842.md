@@ -23,7 +23,7 @@
 
         The certification required by subsection (a), and the bases for that certification, shall be submitted by the Secretary of the Treasury to Congress.
 
-([Pub. L. 106–264, title I, § 142][/us/pl/106/264/s142], Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 142, Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s6841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6841
-[/us/pl/106/264/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs142
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F758
 
 

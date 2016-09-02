@@ -17,7 +17,7 @@
 
     The Secretary of State, in coordination with the Secretary of Energy, the Secretary of Commerce, and the Administrator of the Environmental Protection Agency, shall carry out fellowship and exchange programs under which officials from developing countries visit the United States to acquire expertise and knowledge of best practices to reduce greenhouse gas intensity in their countries.
 
-([Pub. L. 101–240, title VII, § 737][/us/pl/101/240/s737], as added [Pub. L. 109–58, title XVI, § 1611][/us/pl/109/58/s1611], Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117].)
+([Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 737, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1611, Aug. 8, 2005, [119 Stat. 1117][/us/stat/119/1117].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/101/240/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs737
-[/us/pl/109/58/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1611
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1117
 
 

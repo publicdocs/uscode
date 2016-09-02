@@ -41,11 +41,11 @@
 
         (B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
-([Pub. L. 113–95, § 2][/us/pl/113/95/s2], Apr. 3, 2014, [128 Stat. 1088][/us/stat/128/1088].)
+([Pub. L. 113–95][/us/pl/113/95], § 2, Apr. 3, 2014, [128 Stat. 1088][/us/stat/128/1088].)
 
  __Short Title__ 
 
-[Pub. L. 113–95, § 1][/us/pl/113/95/s1], Apr. 3, 2014, [128 Stat. 1088][/us/stat/128/1088], provided that: 
+[Pub. L. 113–95][/us/pl/113/95], § 1, Apr. 3, 2014, [128 Stat. 1088][/us/stat/128/1088], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014’.”
 
@@ -59,9 +59,9 @@
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
 [/us/usc/t22/s8907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8907%2Fa
 [/us/usc/t22/s8908/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8908%2Fa%2F1
-[/us/pl/113/95/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs2
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1088
-[/us/pl/113/95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs1
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1088
 
 

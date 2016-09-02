@@ -19,7 +19,7 @@
 
     (b) In any case where the administrative review conducted under subsection (a) substantiates that a career member of the Service has failed to meet the standards of performance for his or her class, the member shall be retired from the Service and receive benefits in accordance with [section 4009 of this title][/us/usc/t22/s4009].
 
-([Pub. L. 96–465, title I, § 608][/us/pl/96/465/s608], Oct. 17, 1980, [94 Stat. 2097][/us/stat/94/2097].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 608, Oct. 17, 1980, [94 Stat. 2097][/us/stat/94/2097].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t22/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4009
-[/us/pl/96/465/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs608
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2097
 
 

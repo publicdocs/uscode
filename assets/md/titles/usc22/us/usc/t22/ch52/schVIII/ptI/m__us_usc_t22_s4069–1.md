@@ -37,7 +37,7 @@
 
         Regulations issued pursuant to [section 4067 of this title][/us/usc/t22/s4067] to implement this section shall be submitted to the Committee on Post Office and Civil Service and the Committee on Foreign Affairs of the House of Representatives and the Committee on Governmental Affairs and the Committee on Foreign Relations of the Senate. Such regulations shall not take effect until 60 days after the date on which such regulations are submitted to the Congress.
 
-([Pub. L. 96–465, title I, § 830][/us/pl/96/465/s830], as added [Pub. L. 100–238, title II, § 202(a)][/us/pl/100/238/s202/a], Jan. 8, 1988, [101 Stat. 1768][/us/stat/101/1768].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 830, as added [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 202(a), Jan. 8, 1988, [101 Stat. 1768][/us/stat/101/1768].)
 
  __References in Text__ 
 
@@ -71,8 +71,8 @@
 [/us/usc/t22/s4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067
 [/us/usc/t5/s8341/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8341%2Fh
 [/us/usc/t22/s4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067
-[/us/pl/96/465/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs830
-[/us/pl/100/238/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs202%2Fa
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1768
 [/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
 [/us/stat/98/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3195

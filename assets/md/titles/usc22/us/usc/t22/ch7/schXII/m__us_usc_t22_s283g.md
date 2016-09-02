@@ -17,7 +17,7 @@
 
     The provisions of article X, section 4(c), and article XI, sections 2 to 9, both inclusive, of the agreement shall have full force and effect in the United States, its Territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in, and the establishment of, the Bank.
 
-([Pub. L. 86–147, § 9][/us/pl/86/147/s9], Aug. 7, 1959, [73 Stat. 301][/us/stat/73/301].)
+([Pub. L. 86–147][/us/pl/86/147], § 9, Aug. 7, 1959, [73 Stat. 301][/us/stat/73/301].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/147/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs9
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F301
 
 

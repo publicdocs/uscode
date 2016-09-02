@@ -75,7 +75,7 @@
 
         (2) For the purposes of paragraph (1) of this subsection, “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
 
-([Pub. L. 96–465, title I, § 826][/us/pl/96/465/s826], Oct. 17, 1980, [94 Stat. 2123][/us/stat/94/2123]; Ex. Ord. No. 12289, § 1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§ 2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; [Pub. L. 99–335, title IV, § 402(a)(3)][/us/pl/99/335/s402/a/3], June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 100–238, title II, § 219][/us/pl/100/238/s219], Jan. 8, 1988, [101 Stat. 1775][/us/stat/101/1775].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 826, Oct. 17, 1980, [94 Stat. 2123][/us/stat/94/2123]; Ex. Ord. No. 12289, § 1, Feb. 14, 1981, 46 F.R. 12693; Ex. Ord. No. 12446, §§ 2(a), 6(a), Oct. 17, 1983, 48 F.R. 48443, 48446; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(3), June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 219, Jan. 8, 1988, [101 Stat. 1775][/us/stat/101/1775].)
 
  __Amendments__ 
 
@@ -131,11 +131,11 @@
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
 [/us/usc/t22/s3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3963
 [/us/usc/t22/s3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3963
-[/us/pl/96/465/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs826
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2123
-[/us/pl/99/335/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F3
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/100/238/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs219
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1775
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

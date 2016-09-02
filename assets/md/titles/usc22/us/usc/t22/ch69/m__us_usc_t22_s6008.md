@@ -17,7 +17,7 @@
 
     Except as provided in [section 6004(a) of this title][/us/usc/t22/s6004/a], nothing in this chapter affects the provisions of [section 2370(a)(2) of this title][/us/usc/t22/s2370/a/2].
 
-([Pub. L. 102–484, div. A, title XVII, § 1709][/us/pl/102/484/s1709], Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1709, Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s6004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6004%2Fa
 [/us/usc/t22/s2370/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fa%2F2
-[/us/pl/102/484/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1709
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2580
 
 

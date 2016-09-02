@@ -65,7 +65,7 @@
 
         (2) The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of [section 908 of title 37][/us/usc/t37/s908] (relating to approval required for employment of Reserve and retired members by foreign governments).
 
-([Pub. L. 96–70, title I, § 1112][/us/pl/96/70/s1112], Sept. 27, 1979, [93 Stat. 459][/us/stat/93/459]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85], §§ 3522, 3550(d)(2)(A), Nov. 18, 1997, [111 Stat. 2064][/us/stat/111/2064], 2074.)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1112, Sept. 27, 1979, [93 Stat. 459][/us/stat/93/459]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], §§ 3522, 3550(d)(2)(A), Nov. 18, 1997, [111 Stat. 2064][/us/stat/111/2064], 2074.)
 
  __References in Text__ 
 
@@ -73,13 +73,13 @@
 
  __Codification__ 
 
-    In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substituted for “[section 5 of the Act of July 16, 1914][/us/act/1914-07-16/s5] ([31 U.S.C. 638a][/us/usc/t31/s638a]), as amended” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substituted for “[section 5 of the Act of July 16, 1914][/us/act/1914-07-16/s5] ([31 U.S.C. 638a][/us/usc/t31/s638a]), as amended” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1997—Subsec. (b). [Pub. L. 105–85, § 3550(d)(2)(A)][/us/pl/105/85/s3550/d/2/A], substituted “October 1, 1979” for “the effective date of this Act”.
+    1997—Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
-    Subsecs. (e), (f). [Pub. L. 105–85, § 3522][/us/pl/105/85/s3522], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 105–85][/us/pl/105/85], § 3522, added subsecs. (e) and (f).
 
  __Delegation of Functions__ 
 
@@ -96,9 +96,9 @@
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/usc/t37/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs908
-[/us/pl/96/70/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1112
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F459
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2064
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
@@ -106,10 +106,10 @@
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/act/1914-07-16/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-07-16%2Fs5
 [/us/usc/t31/s638a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs638a
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/105/85/s3550/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F2%2FA
-[/us/pl/105/85/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3522
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 
 

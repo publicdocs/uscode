@@ -33,23 +33,23 @@
 
     (3) to expand military-to-military contacts between the United States and the independent states of the former Soviet Union.
 
-([Pub. L. 102–484, div. A, title XIV, § 1411][/us/pl/102/484/s1411], Oct. 23, 1992, [106 Stat. 2563][/us/stat/106/2563].)
+([Pub. L. 102–484, div. A, title XIV][/us/pl/102/484/dA/tXIV], § 1411, Oct. 23, 1992, [106 Stat. 2563][/us/stat/106/2563].)
 
  __Short Title__ 
 
-[Pub. L. 102–484, div. A, title XIV, § 1401][/us/pl/102/484/s1401], Oct. 23, 1992, [106 Stat. 2563][/us/stat/106/2563], provided that: 
+[Pub. L. 102–484, div. A, title XIV][/us/pl/102/484/dA/tXIV], § 1401, Oct. 23, 1992, [106 Stat. 2563][/us/stat/106/2563], provided that: 
 
 > “This title \[enacting this chapter and amending provisions set out as a note under [section 2551 of this title][/us/usc/t22/s2551]\] may be cited as the ‘Former Soviet Union Demilitarization Act of 1992’.”
 
  __Policy on Reduction of Russian Nuclear Forces__ 
 
-[Pub. L. 106–38, § 3][/us/pl/106/38/s3], July 22, 1999, [113 Stat. 205][/us/stat/113/205], provided that: 
+[Pub. L. 106–38][/us/pl/106/38], § 3, July 22, 1999, [113 Stat. 205][/us/stat/113/205], provided that: 
 
 > “It is the policy of the United States to seek continued negotiated reductions in Russian nuclear forces.”
 
  __Nuclear Weapons Reduction__ 
 
-[Pub. L. 102–484, div. A, title XIII, § 1321][/us/pl/102/484/s1321], Oct. 23, 1992, [106 Stat. 2549][/us/stat/106/2549], provided that:
+[Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1321, Oct. 23, 1992, [106 Stat. 2549][/us/stat/106/2549], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -110,14 +110,14 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1411
+[/us/pl/102/484/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIV
 [/us/stat/106/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2563
-[/us/pl/102/484/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1401
+[/us/pl/102/484/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIV
 [/us/stat/106/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2563
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/106/38/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F38%2Fs3
+[/us/pl/106/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F38
 [/us/stat/113/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F205
-[/us/pl/102/484/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1321
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2549
 
 

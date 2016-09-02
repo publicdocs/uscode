@@ -17,7 +17,7 @@
 
     The Commissioner, in rendering an award in favor of any claimant under [section 277d–19 of this title][/us/usc/t22/s277d–19], may, as part of such award, determine and allow reasonable attorneys’ fees which shall not exceed 10 per centum of the amount awarded, to be paid out of but not in addition to the amount of award, to the attorneys representing the claimant. Any attorney who charges, demands, receives, or collects for services rendered in connection with such claim any amount in excess of that allowed by the terms of this section, if award be made, shall be fined not more than $2,000 or imprisoned not more than one year, or both.
 
-([Pub. L. 88–300, § 5][/us/pl/88/300/s5], Apr. 29, 1964, [78 Stat. 185][/us/stat/78/185].)
+([Pub. L. 88–300][/us/pl/88/300], § 5, Apr. 29, 1964, [78 Stat. 185][/us/stat/78/185].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s277d–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%9319
-[/us/pl/88/300/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs5
+[/us/pl/88/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300
 [/us/stat/78/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F185
 
 

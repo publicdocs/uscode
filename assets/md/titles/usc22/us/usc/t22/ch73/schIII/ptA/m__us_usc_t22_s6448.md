@@ -43,7 +43,7 @@
 
         (2) would not further the purposes of this chapter.
 
-([Pub. L. 105–292, title IV, § 408][/us/pl/105/292/s408], Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 408, Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t22/s6444/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6444%2Fb
 [/us/usc/t22/s6447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6447
 [/us/usc/t22/s2414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2414%2Fc
-[/us/pl/105/292/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs408
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2808
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787

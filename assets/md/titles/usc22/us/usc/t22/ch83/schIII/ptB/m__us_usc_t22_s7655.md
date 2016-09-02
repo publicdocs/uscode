@@ -129,7 +129,7 @@
 
         An organization shall ensure that not more than 7 percent of the amount of a grant received under this section by the organization is used for administrative expenses.
 
-([Pub. L. 108–25, title III, § 315][/us/pl/108/25/s315], May 27, 2003, [117 Stat. 743][/us/stat/117/743].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 315, May 27, 2003, [117 Stat. 743][/us/stat/117/743].)
 
  __Delegation of Functions__ 
 
@@ -143,7 +143,7 @@
 ----------
 
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/108/25/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs315
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F743
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

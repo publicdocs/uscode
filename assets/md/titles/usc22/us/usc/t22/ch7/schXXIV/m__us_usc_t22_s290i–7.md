@@ -17,7 +17,7 @@
 
     For the purposes of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the agreement, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States or its agent appointed for the purpose of accepting service or notice of service is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in [section 460 of title 28][/us/usc/t28/s460], shall have original jurisdiction of any such action. When the Bank is defendant in any action in a State court, it may at any time before the trial thereof remove the action into the appropriate district court of the United States by following the procedure for removal provided in [section 1446 of title 28][/us/usc/t28/s1446].
 
-([Pub. L. 97–35, title XIII, § 1339][/us/pl/97/35/s1339], Aug. 13, 1981, [95 Stat. 742][/us/stat/95/742].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1339, Aug. 13, 1981, [95 Stat. 742][/us/stat/95/742].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
-[/us/pl/97/35/s1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1339
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F742
 
 

@@ -47,13 +47,13 @@
 
         Notwithstanding the prohibition contained in subsection (a) assistance may be provided to Honduras or El Salvador for fiscal years 1986 and 1987 if, at least 30 days before providing assistance, the President notifies the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, in accordance with the procedures applicable to reprogramming notifications pursuant to [section 2394–1 of this title][/us/usc/t22/s2394–1], that he has determined that the government of the recipient country has made significant progress, during the preceding six months, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the nonviolent expression of their political views, or prolonged detention without trial. Any such notification shall include a full description of the assistance which is proposed to be provided and of the purposes to which it is to be directed.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 660, as added [Pub. L. 93–559, § 30(a)][/us/pl/93/559/s30/a], Dec. 30, 1974, [88 Stat. 1803][/us/stat/88/1803]; amended [Pub. L. 99–83, title I, § 127(b)][/us/pl/99/83/s127/b], title VII, § 711, Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205], 243; [Pub. L. 101–513, title V, § 594][/us/pl/101/513/s594], Nov. 5, 1990, [104 Stat. 2060][/us/stat/104/2060]; [Pub. L. 104–107, title V, § 540A(d)][/us/pl/104/107/s540A/d], Feb. 12, 1996, [110 Stat. 737][/us/stat/110/737]; [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 574\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–111.)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 660, as added [Pub. L. 93–559][/us/pl/93/559], § 30(a), Dec. 30, 1974, [88 Stat. 1803][/us/stat/88/1803]; amended [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 127(b), title VII, § 711, Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205], 243; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 594, Nov. 5, 1990, [104 Stat. 2060][/us/stat/104/2060]; [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 540A(d), Feb. 12, 1996, [110 Stat. 737][/us/stat/110/737]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 574\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–111.)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    [Section 3763(c) of title 42][/us/usc/t42/s3763/c], referred to in subsec. (b)(1), was in the original section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968 \[title I of [Pub. L. 90–351][/us/pl/90/351], June 19, 1968, [82 Stat. 207][/us/stat/82/207]\]. Section 515 was omitted in the general revision of title I of [Pub. L. 90–351][/us/pl/90/351] by [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167].
+    [Section 3763(c) of title 42][/us/usc/t42/s3763/c], referred to in subsec. (b)(1), was in the original section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968 \[title I of [Pub. L. 90–351][/us/pl/90/351], June 19, 1968, [82 Stat. 207][/us/stat/82/207]\]. Section 515 was omitted in the general revision of title I of [Pub. L. 90–351][/us/pl/90/351] by [Pub. L. 96–157][/us/pl/96/157], § 2, Dec. 27, 1979, [93 Stat. 1167][/us/stat/93/1167].
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 
     1990—Subsec. (b)(4). [Pub. L. 101–513][/us/pl/101/513], which directed the amendment of this section by adding par. (4) at “the end of the subsection”, was executed by adding par. (4) after par. (3) in subsec. (b) to reflect the probable intent of Congress.
 
-    1985—Subsec. (b)(3). [Pub. L. 99–83, § 127(b)][/us/pl/99/83/s127/b], added par. (3).
+    1985—Subsec. (b)(3). [Pub. L. 99–83][/us/pl/99/83], § 127(b), added par. (3).
 
-    Subsecs. (c), (d). [Pub. L. 99–83, § 711][/us/pl/99/83/s711], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 99–83][/us/pl/99/83], § 711, added subsecs. (c) and (d).
 
  __Effective Date of 1985 Amendment__ 
 
@@ -77,7 +77,7 @@
 
  __Exemption of Narcotics-Related Military Assistance for Specific Fiscal Years From Prohibition on Assistance for Law Enforcement Agencies__ 
 
-[Pub. L. 103–447, title I, § 104][/us/pl/103/447/s104], Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694], provided that:
+[Pub. L. 103–447, title I][/us/pl/103/447/tI], § 104, Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694], provided that:
 
 >     “(a)  __Exemption__  __.—__ 
 
@@ -97,7 +97,7 @@
 
 >     Assistance provided pursuant to this section shall be coordinated with international narcotics control assistance under chapter 8 of part 1 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291][/us/usc/t22/s2291] et seq.).”
 
-    [Pub. L. 102–583, § 7][/us/pl/102/583/s7], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933], provided for exemption of narcotics-related military assistance for fiscal years 1993 and 1994 from prohibition on assistance for law enforcement agencies, prior to repeal by [Pub. L. 103–447, title I, § 103(a)][/us/pl/103/447/s103/a], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
+    [Pub. L. 102–583][/us/pl/102/583], § 7, Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933], provided for exemption of narcotics-related military assistance for fiscal years 1993 and 1994 from prohibition on assistance for law enforcement agencies, prior to repeal by [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 103(a), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693].
 
  __Assistance to Public Security Forces of El Salvador; Delegation of Functions__ 
 
@@ -125,15 +125,15 @@
 [/us/usc/t22/s2291a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291a
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs30%2Fa
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1803
-[/us/pl/99/83/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs127%2Fb
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F205
-[/us/pl/101/513/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs594
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2060
-[/us/pl/104/107/s540A/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs540A%2Fd
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F737
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -142,18 +142,18 @@
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/stat/82/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F207
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
-[/us/pl/96/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157%2Fs2
+[/us/pl/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F157
 [/us/stat/93/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1167
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
-[/us/pl/99/83/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs127%2Fb
-[/us/pl/99/83/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs711
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/103/447/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs104
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4694
 [/us/usc/t22/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420
 [/us/usc/t22/s2321k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k
@@ -163,9 +163,9 @@
 [/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
-[/us/pl/102/583/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs7
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/103/447/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs103%2Fa
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
 [/us/usc/t22/s2420/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420%2Fd
 

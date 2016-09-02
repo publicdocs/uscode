@@ -23,7 +23,7 @@
 
     (3) define or redefine the boundaries of opium producing areas of Afghanistan for the purposes of this section.
 
-([Pub. L. 107–327, title I, § 105][/us/pl/107/327/s105], Dec. 4, 2002, [116 Stat. 2805][/us/stat/116/2805].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 105, Dec. 4, 2002, [116 Stat. 2805][/us/stat/116/2805].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/327/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs105
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2805
 
 

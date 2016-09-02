@@ -39,7 +39,7 @@
 
         The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
 
-([Pub. L. 105–292, title II, § 202][/us/pl/105/292/s202], Oct. 27, 1998, [112 Stat. 2798][/us/stat/112/2798]; [Pub. L. 106–55, § 1(b)(1)][/us/pl/106/55/s1/b/1], Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 202, Oct. 27, 1998, [112 Stat. 2798][/us/stat/112/2798]; [Pub. L. 106–55][/us/pl/106/55], § 1(b)(1), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Sense of Congress__ 
 
-[Pub. L. 114–71, § 2][/us/pl/114/71/s2], Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563], provided that: 
+[Pub. L. 114–71][/us/pl/114/71], § 2, Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563], provided that: 
 
 > “It is the sense of the Congress that the United States Commission on International Religious Freedom—
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/105/292/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs202
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
 [/us/stat/112/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2798
-[/us/pl/106/55/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F1
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F401
 [/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
-[/us/pl/114/71/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs2
+[/us/pl/114/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71
 [/us/stat/129/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F563
 
 

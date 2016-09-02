@@ -139,7 +139,7 @@
 
         (B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
 
-([Pub. L. 104–114, § 4][/us/pl/104/114/s4], Mar. 12, 1996, [110 Stat. 789][/us/stat/110/789].)
+([Pub. L. 104–114][/us/pl/104/114], § 4, Mar. 12, 1996, [110 Stat. 789][/us/stat/110/789].)
 
  __References in Text__ 
 
@@ -173,7 +173,7 @@
 [/us/usc/t22/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6001
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
 [/us/usc/t22/s6065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6065
-[/us/pl/104/114/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs4
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F789
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785

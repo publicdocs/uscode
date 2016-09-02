@@ -43,13 +43,13 @@
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–155, § 1][/us/pl/106/155/s1], Dec. 9, 1999, [113 Stat. 1740][/us/stat/113/1740], provided that: 
+[Pub. L. 106–155][/us/pl/106/155], § 1, Dec. 9, 1999, [113 Stat. 1740][/us/stat/113/1740], provided that: 
 
 > “This Act \[amending provisions set out as a note below\] may be cited as the ‘U.S. Holocaust Assets Commission Extension Act of 1999’.”
 
  __Short Title__ 
 
-[Act Mar. 10, 1950, ch. 54, § 1][/us/act/1950-03-10/ch54/s1], [64 Stat. 12][/us/stat/64/12], provided that: 
+[Act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], § 1, [64 Stat. 12][/us/stat/64/12], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘International Claims Settlement Act of 1949’.”
 
@@ -63,13 +63,13 @@
 
  __Appropriations__ 
 
-[Act Mar. 10, 1950, ch. 54, § 9][/us/act/1950-03-10/ch54/s9], [64 Stat. 18][/us/stat/64/18], provided that: 
+[Act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], § 9, [64 Stat. 18][/us/stat/64/18], provided that: 
 
 > “There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\].”
 
  __United States Holocaust Assets Commission__ 
 
-[Pub. L. 105–186][/us/pl/105/186], June 23, 1998, [112 Stat. 611][/us/stat/112/611], as amended by [Pub. L. 106–155, § 2][/us/pl/106/155/s2], Dec. 9, 1999, [113 Stat. 1740][/us/stat/113/1740], provided that:
+[Pub. L. 105–186][/us/pl/105/186], June 23, 1998, [112 Stat. 611][/us/stat/112/611], as amended by [Pub. L. 106–155][/us/pl/106/155], § 2, Dec. 9, 1999, [113 Stat. 1740][/us/stat/113/1740], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -381,9 +381,9 @@
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/usc/t22/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1644
-[/us/pl/106/155/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F155%2Fs1
+[/us/pl/106/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F155
 [/us/stat/113/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1740
-[/us/act/1950-03-10/ch54/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54%2Fs1
+[/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F12
 [/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
@@ -393,11 +393,11 @@
 [/us/pl/96/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F606
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622
-[/us/act/1950-03-10/ch54/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54%2Fs9
+[/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F18
 [/us/pl/105/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F186
 [/us/stat/112/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F611
-[/us/pl/106/155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F155%2Fs2
+[/us/pl/106/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F155
 [/us/stat/113/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1740
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315

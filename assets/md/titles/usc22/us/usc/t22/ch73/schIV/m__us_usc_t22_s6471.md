@@ -17,7 +17,7 @@
 
     The Annual Report, together with other relevant documentation, shall serve as a resource for immigration judges and consular, refugee, and asylum officers in cases involving claims of persecution on the grounds of religion. Absence of reference by the Annual Report to conditions described by the alien shall not constitute the sole grounds for a denial of the alien’s claim.
 
-([Pub. L. 105–292, title VI, § 601][/us/pl/105/292/s601], Oct. 27, 1998, [112 Stat. 2812][/us/stat/112/2812].)
+([Pub. L. 105–292, title VI][/us/pl/105/292/tVI], § 601, Oct. 27, 1998, [112 Stat. 2812][/us/stat/112/2812].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs601
+[/us/pl/105/292/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtVI
 [/us/stat/112/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2812
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

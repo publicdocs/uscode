@@ -25,7 +25,7 @@
 
     (4) Any other documents, references, or links to appropriate external Internet websites (such as websites of international or nongovernmental organizations), including references or links to training materials, narratives, and histories regarding successful democratic movements.
 
-([Pub. L. 110–53, title XXI, § 2132][/us/pl/110/53/s2132], Aug. 3, 2007, [121 Stat. 533][/us/stat/121/533].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2132, Aug. 3, 2007, [121 Stat. 533][/us/stat/121/533].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2132
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F533
 
 

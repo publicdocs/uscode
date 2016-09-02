@@ -23,7 +23,7 @@
 
         Each plan developed pursuant to this section shall, consistent with [section 7201 of title 5][/us/usc/t5/s7201], place particular emphasis on achieving significant increases in the numbers of minority group members and women who are in the mid-levels of the Foreign Service.
 
-([Pub. L. 99–93, title I, § 152][/us/pl/99/93/s152], Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428]; [Pub. L. 100–204, title I, § 185(c)(3)][/us/pl/100/204/s185/c/3], Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366].)
+([Pub. L. 99–93, title I][/us/pl/99/93/tI], § 152, Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 185(c)(3), Dec. 22, 1987, [101 Stat. 1366][/us/stat/101/1366].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Report Concerning Minorities and the Foreign Service__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2318, Oct. 21, 1998, [112 Stat. 2681–829][/us/stat/112/2681-829], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2318, Oct. 21, 1998, [112 Stat. 2681–829][/us/stat/112/2681-829], provided that: 
 
 > “The Secretary of State shall during each of calendar years 1998 and 1999 submit a report to the Congress concerning minorities and the Foreign Service officer corps. In addition to such other information as is relevant to this issue, the report shall include the following data for the last preceding examination and promotion cycles for which such information is available (reported in terms of real numbers and percentages and not as ratios):
 
@@ -53,7 +53,7 @@
 
  __Mid-Level Women and Minority Placement Program__ 
 
-[Pub. L. 103–236, title I, § 178][/us/pl/103/236/s178], Apr. 30, 1994, [108 Stat. 414][/us/stat/108/414], provided that:
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 178, Apr. 30, 1994, [108 Stat. 414][/us/stat/108/414], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -69,7 +69,7 @@
 
  __Women and Minorities in Foreign Service__ 
 
-[Pub. L. 100–204, title I, § 183][/us/pl/100/204/s183], Dec. 22, 1987, [101 Stat. 1364][/us/stat/101/1364], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 183, Dec. 22, 1987, [101 Stat. 1364][/us/stat/101/1364], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -104,18 +104,18 @@
 
 [/us/usc/t5/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7201
 [/us/usc/t5/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7201
-[/us/pl/99/93/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs152
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F428
-[/us/pl/100/204/s185/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs185%2Fc%2F3
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1366
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/usc/t22/s3905/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3905%2Fd%2F2
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-829
-[/us/pl/103/236/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs178
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F414
 [/us/usc/t22/s3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3946
-[/us/pl/100/204/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs183
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1364
 [/us/usc/t22/s3922a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3922a%2Fa
 [/us/usc/t22/s3905/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3905%2Fd%2F2

@@ -43,7 +43,7 @@
 
                 The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
-([Pub. L. 112–158, title VII, § 704][/us/pl/112/158/s704], Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
+([Pub. L. 112–158, title VII][/us/pl/112/158/tVII], § 704, Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
 
  __Termination of Section__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t22/s8791/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8791%2Fc
-[/us/pl/112/158/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs704
+[/us/pl/112/158/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVII
 [/us/stat/126/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1268
 [/us/usc/t22/s8795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8795
 

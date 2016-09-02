@@ -65,7 +65,7 @@
 
             Amounts authorized to be available under paragraph (1) shall be made available to cover the subsidy cost, as defined in [section 661a(5) of title 2][/us/usc/t2/s661a/5], for activities under this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 256, formerly § 108, as added [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; amended [Pub. L. 99–83, title III, § 308][/us/pl/99/83/s308], Aug. 8, 1985, [99 Stat. 215][/us/stat/99/215]; [Pub. L. 100–418, title II, § 2211][/us/pl/100/418/s2211], Aug. 23, 1988, [102 Stat. 1335][/us/stat/102/1335]; [Pub. L. 106–309, title I, § 106][/us/pl/106/309/s106], Oct. 17, 2000, [114 Stat. 1085][/us/stat/114/1085]; [Pub. L. 108–31, § 2][/us/pl/108/31/s2], June 17, 2003, [117 Stat. 775][/us/stat/117/775]; renumbered § 256 and amended [Pub. L. 108–484, § 4(a)][/us/pl/108/484/s4/a], (b), (c)(3), Dec. 23, 2004, [118 Stat. 3926][/us/stat/118/3926], 3927.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 256, formerly § 108, as added [Pub. L. 98–151][/us/pl/98/151], § 101(b)(2), Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; amended [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 308, Aug. 8, 1985, [99 Stat. 215][/us/stat/99/215]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2211, Aug. 23, 1988, [102 Stat. 1335][/us/stat/102/1335]; [Pub. L. 106–309, title I][/us/pl/106/309/tI], § 106, Oct. 17, 2000, [114 Stat. 1085][/us/stat/114/1085]; [Pub. L. 108–31][/us/pl/108/31], § 2, June 17, 2003, [117 Stat. 775][/us/stat/117/775]; renumbered § 256 and amended [Pub. L. 108–484][/us/pl/108/484], § 4(a), (b), (c)(3), Dec. 23, 2004, [118 Stat. 3926][/us/stat/118/3926], 3927.)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -79,19 +79,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 2212, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 252, as added [Pub. L. 87–565][/us/pl/87/565], pt. I, § 106, Aug. 1, 1962, [76 Stat. 258][/us/stat/76/258]; amended [Pub. L. 88–205][/us/pl/88/205], pt. I, § 106(b), Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383]; [Pub. L. 88–633][/us/pl/88/633], pt. I, § 105, Oct. 7, 1964, [78 Stat. 1010][/us/stat/78/1010]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 105, Sept. 6, 1965, [79 Stat. 655][/us/stat/79/655]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 105(b), Sept. 19, 1966, [80 Stat. 799][/us/stat/80/799]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 106(b), Nov. 14, 1967, [81 Stat. 451][/us/stat/81/451]; [Pub. L. 90–554][/us/pl/90/554], pt. I, § 105, Oct. 8, 1968, [82 Stat. 961][/us/stat/82/961]; [Pub. L. 91–175][/us/pl/91/175], pt. I, § 106, Dec. 30, 1969, [83 Stat. 818][/us/stat/83/818]; [Pub. L. 92–226][/us/pl/92/226], pt. I, § 105, Feb. 7, 1972, [86 Stat. 23][/us/stat/86/23]; [Pub. L. 93–189, § 7][/us/pl/93/189/s7], Dec. 17, 1973, [87 Stat. 718][/us/stat/87/718], related to authorization of appropriations for Alliance for Progress, prior to repeal by [Pub. L. 95–424, title I, § 102(g)(1)(A)][/us/pl/95/424/s102/g/1/A], title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
+    A prior section 2212, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 252, as added [Pub. L. 87–565][/us/pl/87/565], pt. I, § 106, Aug. 1, 1962, [76 Stat. 258][/us/stat/76/258]; amended [Pub. L. 88–205][/us/pl/88/205], pt. I, § 106(b), Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383]; [Pub. L. 88–633][/us/pl/88/633], pt. I, § 105, Oct. 7, 1964, [78 Stat. 1010][/us/stat/78/1010]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 105, Sept. 6, 1965, [79 Stat. 655][/us/stat/79/655]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 105(b), Sept. 19, 1966, [80 Stat. 799][/us/stat/80/799]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 106(b), Nov. 14, 1967, [81 Stat. 451][/us/stat/81/451]; [Pub. L. 90–554][/us/pl/90/554], pt. I, § 105, Oct. 8, 1968, [82 Stat. 961][/us/stat/82/961]; [Pub. L. 91–175][/us/pl/91/175], pt. I, § 106, Dec. 30, 1969, [83 Stat. 818][/us/stat/83/818]; [Pub. L. 92–226][/us/pl/92/226], pt. I, § 105, Feb. 7, 1972, [86 Stat. 23][/us/stat/86/23]; [Pub. L. 93–189][/us/pl/93/189], § 7, Dec. 17, 1973, [87 Stat. 718][/us/stat/87/718], related to authorization of appropriations for Alliance for Progress, prior to repeal by [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(1)(A), title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–484, § 4(c)(3)(A)][/us/pl/108/484/s4/c/3/A], substituted “Administrator of the Agency” for “Administrator of the agency primarily responsible for administering subchapter I of this chapter” in introductory provisions.
+    2004—Subsec. (c). [Pub. L. 108–484][/us/pl/108/484], § 4(c)(3)(A), substituted “Administrator of the Agency” for “Administrator of the agency primarily responsible for administering subchapter I of this chapter” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 108–484, § 4(c)(3)(B)][/us/pl/108/484/s4/c/3/B], substituted “subchapter I of this chapter” for “[section 2152a of this title][/us/usc/t22/s2152a]” and “such sums as may be necessary for each of the fiscal years 2005 through 2009” for “$1,500,000 for each of fiscal years 2001 through 2004”.
+    Subsec. (f)(1). [Pub. L. 108–484][/us/pl/108/484], § 4(c)(3)(B), substituted “subchapter I of this chapter” for “[section 2152a of this title][/us/usc/t22/s2152a]” and “such sums as may be necessary for each of the fiscal years 2005 through 2009” for “$1,500,000 for each of fiscal years 2001 through 2004”.
 
-    2003—[Pub. L. 108–31, § 2(f)][/us/pl/108/31/s2/f], substituted “Microenterprise development credits” for “Micro- and small enterprise development credits” in section catchline.
+    2003—[Pub. L. 108–31][/us/pl/108/31], § 2(f), substituted “Microenterprise development credits” for “Micro- and small enterprise development credits” in section catchline.
 
-    Subsec. (a)(2). [Pub. L. 108–31, § 2(a)][/us/pl/108/31/s2/a], substituted “the access to financial services and the development of microenterprises” for “the development of the enterprises of the poor”.
+    Subsec. (a)(2). [Pub. L. 108–31][/us/pl/108/31], § 2(a), substituted “the access to financial services and the development of microenterprises” for “the development of the enterprises of the poor”.
 
-    Subsec. (b). [Pub. L. 108–31, § 2(b)][/us/pl/108/31/s2/b], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “To carry out the policy set forth in subsection (a) of this section, the President is authorized to provide assistance to increase the availability of credit to micro- and small enterprises lacking full access to credit, including through—
+    Subsec. (b). [Pub. L. 108–31][/us/pl/108/31], § 2(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “To carry out the policy set forth in subsection (a) of this section, the President is authorized to provide assistance to increase the availability of credit to micro- and small enterprises lacking full access to credit, including through—
 
     “(1) loans and guarantees to credit institutions for the purpose of expanding the availability of credit to micro- and small enterprises;
 
@@ -99,13 +99,13 @@
 
     “(3) training programs for microentrepreneurs in order to enable them to make better use of credit and to better manage their enterprises.”
 
-    Subsec. (c). [Pub. L. 108–31, § 2(c)(1)][/us/pl/108/31/s2/c/1], substituted “microfinance institutions” for “credit institutions” and “microenterprise households” for “micro- and small enterprises” in introductory provisions.
+    Subsec. (c). [Pub. L. 108–31][/us/pl/108/31], § 2(c)(1), substituted “microfinance institutions” for “credit institutions” and “microenterprise households” for “micro- and small enterprises” in introductory provisions.
 
-    Subsec. (c)(1), (2). [Pub. L. 108–31, § 2(c)(2)][/us/pl/108/31/s2/c/2], substituted “financial services” for “credit”.
+    Subsec. (c)(1), (2). [Pub. L. 108–31][/us/pl/108/31], § 2(c)(2), substituted “financial services” for “credit”.
 
-    Subsec. (d). [Pub. L. 108–31, § 2(d)][/us/pl/108/31/s2/d], substituted “programs for microenterprise households” for “micro- and small enterprise programs”.
+    Subsec. (d). [Pub. L. 108–31][/us/pl/108/31], § 2(d), substituted “programs for microenterprise households” for “micro- and small enterprise programs”.
 
-    Subsec. (f)(1). [Pub. L. 108–31, § 2(e)][/us/pl/108/31/s2/e], substituted “for each of fiscal years 2001 through 2004” for “for each of fiscal years 2001 and 2002”.
+    Subsec. (f)(1). [Pub. L. 108–31][/us/pl/108/31], § 2(e), substituted “for each of fiscal years 2001 through 2004” for “for each of fiscal years 2001 and 2002”.
 
     2000—[Pub. L. 106–309][/us/pl/106/309] amended section catchline and text generally, substituting provisions promoting micro- and small enterprise development credits for provisions relating to the establishment, funding and uses of a private sector revolving fund to aid developing countries.
 
@@ -123,13 +123,13 @@
 
  __Report to Congress__ 
 
-[Pub. L. 108–31, § 4][/us/pl/108/31/s4], June 17, 2003, [117 Stat. 778][/us/stat/117/778], as amended by [Pub. L. 108–484, § 8(b)][/us/pl/108/484/s8/b], Dec. 23, 2004, [118 Stat. 3931][/us/stat/118/3931], provided that: 
+[Pub. L. 108–31][/us/pl/108/31], § 4, June 17, 2003, [117 Stat. 778][/us/stat/117/778], as amended by [Pub. L. 108–484][/us/pl/108/484], § 8(b), Dec. 23, 2004, [118 Stat. 3931][/us/stat/118/3931], provided that: 
 
 > “Not later than September 30, 2005, the Administrator of the United States Agency for International Development shall submit to Congress a report that documents the process of developing and applying poverty assessment procedures with its partners.”
 
  __Findings and Declarations of Policy of 2000 Amendment__ 
 
-[Pub. L. 106–309, title I, § 102][/us/pl/106/309/s102], Oct. 17, 2000, [114 Stat. 1079][/us/stat/114/1079], provided that: 
+[Pub. L. 106–309, title I][/us/pl/106/309/tI], § 102, Oct. 17, 2000, [114 Stat. 1079][/us/stat/114/1079], provided that: 
 
 > “Congress makes the following findings and declarations:
 
@@ -219,7 +219,7 @@
 
  __Purposes of 2000 Amendment__ 
 
-[Pub. L. 106–309, title I, § 103][/us/pl/106/309/s103], Oct. 17, 2000, [114 Stat. 1081][/us/stat/114/1081], as amended by [Pub. L. 108–31, § 1(a)][/us/pl/108/31/s1/a], June 17, 2003, [117 Stat. 775][/us/stat/117/775], provided that: 
+[Pub. L. 106–309, title I][/us/pl/106/309/tI], § 103, Oct. 17, 2000, [114 Stat. 1081][/us/stat/114/1081], as amended by [Pub. L. 108–31][/us/pl/108/31], § 1(a), June 17, 2003, [117 Stat. 775][/us/stat/117/775], provided that: 
 
 > “The purposes of this title \[see Short Title of 2000 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\] are—
 
@@ -237,7 +237,7 @@
 
  __Definitions__ 
 
-[Pub. L. 106–309, title I, § 104][/us/pl/106/309/s104], Oct. 17, 2000, [114 Stat. 1082][/us/stat/114/1082], as amended by [Pub. L. 108–31, § 1(b)][/us/pl/108/31/s1/b], June 17, 2003, [117 Stat. 775][/us/stat/117/775], provided that: 
+[Pub. L. 106–309, title I][/us/pl/106/309/tI], § 104, Oct. 17, 2000, [114 Stat. 1082][/us/stat/114/1082], as amended by [Pub. L. 108–31][/us/pl/108/31], § 1(b), June 17, 2003, [117 Stat. 775][/us/stat/117/775], provided that: 
 
 > “In this title \[see Short Title of 2000 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\]:
 
@@ -275,17 +275,17 @@
 [/us/usc/t22/s2354/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2354%2Fa
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/98/151/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Fb%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F972
-[/us/pl/99/83/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs308
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F215
-[/us/pl/100/418/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2211
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1335
-[/us/pl/106/309/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs106
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1085
-[/us/pl/108/31/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
 [/us/stat/117/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F775
-[/us/pl/108/484/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs4%2Fa
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3926
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -311,20 +311,20 @@
 [/us/stat/83/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F818
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F23
-[/us/pl/93/189/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs7
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F718
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
-[/us/pl/108/484/s4/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs4%2Fc%2F3%2FA
-[/us/pl/108/484/s4/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs4%2Fc%2F3%2FB
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/usc/t22/s2152a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152a
-[/us/pl/108/31/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Ff
-[/us/pl/108/31/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Fa
-[/us/pl/108/31/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Fb
-[/us/pl/108/31/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Fc%2F1
-[/us/pl/108/31/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Fc%2F2
-[/us/pl/108/31/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Fd
-[/us/pl/108/31/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs2%2Fe
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
 [/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
@@ -332,20 +332,20 @@
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/108/31/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs4
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
 [/us/stat/117/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F778
-[/us/pl/108/484/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs8%2Fb
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3931
-[/us/pl/106/309/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs102
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1079
-[/us/pl/106/309/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs103
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1081
-[/us/pl/108/31/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs1%2Fa
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
 [/us/stat/117/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F775
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/309/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs104
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1082
-[/us/pl/108/31/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31%2Fs1%2Fb
+[/us/pl/108/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F31
 [/us/stat/117/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F775
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

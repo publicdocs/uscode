@@ -17,7 +17,7 @@
 
     The agreement, including without limitation articles 41 through 50, shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon the acceptance of participation by the United States in, and the entry into force of, the Fund. The President, at the time of deposit of the instrument of acceptance of participation of the United States in the Fund, shall also deposit a declaration that the United States retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Fund to its citizens or nationals and may deposit a declaration providing for reservations on other matters set forth in article 58.
 
-([Pub. L. 94–302, title II, § 209][/us/pl/94/302/s209], May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 209, May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/302/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs209
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F594
 
 

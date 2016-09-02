@@ -23,7 +23,7 @@
 
         The committees referred to in subsection (a) are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-([Pub. L. 102–138, title I, § 196][/us/pl/102/138/s196], Oct. 28, 1991, [105 Stat. 684][/us/stat/105/684].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 196, Oct. 28, 1991, [105 Stat. 684][/us/stat/105/684].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs196
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F684
 
 

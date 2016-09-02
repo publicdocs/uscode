@@ -23,11 +23,11 @@
 
         The Congress finds that projects to construct basic infrastructure, to expand productive capacity (including private enterprise), and to address social problems can all meet the objectives of this section if they are designed and implemented properly. For the purposes of this title, “needy people” means those people living in “absolute” or “relative” poverty as determined under the standards employed by the International Bank for Reconstruction and Development and the International Development Association.
 
-([Pub. L. 95–118, title XI, § 1102][/us/pl/95/118/s1102], as added [Pub. L. 97–35, title XIII, § 1361(b)][/us/pl/97/35/s1361/b], Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
+([Pub. L. 95–118, title XI][/us/pl/95/118/tXI], § 1102, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1361(b), Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
 
  __References in Text__ 
 
-    This title, referred to in subsec. (b), is title XI (§§ 1101–1103) of [Pub. L. 95–118][/us/pl/95/118], as added by [Pub. L. 97–35, title XIII, § 1361(b)][/us/pl/97/35/s1361/b], Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745], which enacted sections 262g–1 and 262g–2 of this title and enacted a provision set out as a note below. For complete classification of title XI to the Code, see Tables.
+    This title, referred to in subsec. (b), is title XI (§§ 1101–1103) of [Pub. L. 95–118][/us/pl/95/118], as added by [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1361(b), Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745], which enacted sections 262g–1 and 262g–2 of this title and enacted a provision set out as a note below. For complete classification of title XI to the Code, see Tables.
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 
  __Reports to Congress__ 
 
-    [Pub. L. 95–118, title XI, § 1103][/us/pl/95/118/s1103], as added by [Pub. L. 97–35, title XIII, § 1361(b)][/us/pl/97/35/s1361/b], Aug. 13, 1981, [95 Stat. 746][/us/stat/95/746], required reports on the progress being made toward achieving the goals of this section, prior to repeal by [Pub. L. 101–240, title V, § 541(d)(4)][/us/pl/101/240/s541/d/4], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].
+    [Pub. L. 95–118, title XI][/us/pl/95/118/tXI], § 1103, as added by [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1361(b), Aug. 13, 1981, [95 Stat. 746][/us/stat/95/746], required reports on the progress being made toward achieving the goals of this section, prior to repeal by [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(4), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].
 
 ----------
 
@@ -44,18 +44,18 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1102
-[/us/pl/97/35/s1361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1361%2Fb
+[/us/pl/95/118/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXI
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F745
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
-[/us/pl/97/35/s1361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1361%2Fb
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F745
 [/us/pl/97/35/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1372
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i
-[/us/pl/95/118/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1103
-[/us/pl/97/35/s1361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1361%2Fb
+[/us/pl/95/118/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXI
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F746
-[/us/pl/101/240/s541/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F4
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 
 

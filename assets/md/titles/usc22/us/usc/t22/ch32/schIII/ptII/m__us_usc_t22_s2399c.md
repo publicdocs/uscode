@@ -33,7 +33,7 @@
 
         Programs authorized by this chapter shall be undertaken with the foreign policy guidance of the Secretary of State.
 
-    (d) __Repealed.__  __[__  __Pub. L. 95–424, title V, § 502(d)(1)__  __][/us/pl/95/424/s502/d/1]__  __,__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 959__  __][/us/stat/92/959]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 95–424, title V__  __][/us/pl/95/424/tV]__  __, § 502(d)(1),__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 959__  __][/us/stat/92/959]__ 
 
     (e) __Temporary assignment of employees__ 
 
@@ -51,7 +51,7 @@
 
         (4) arrange for the exchange of information and studies between such agencies and departments.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 640B, as added [Pub. L. 93–189, § 21][/us/pl/93/189/s21], Dec. 17, 1973, [87 Stat. 725][/us/stat/87/725]; amended [Pub. L. 95–88, title I, § 127][/us/pl/95/88/s127], Aug. 3, 1977, [91 Stat. 542][/us/stat/91/542]; [Pub. L. 95–424, title V, § 502(d)][/us/pl/95/424/s502/d], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]; [Pub. L. 96–53, title I, § 118][/us/pl/96/53/s118], Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 97–113, title VII, § 734(a)(1)][/us/pl/97/113/s734/a/1], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 640B, as added [Pub. L. 93–189][/us/pl/93/189], § 21, Dec. 17, 1973, [87 Stat. 725][/us/stat/87/725]; amended [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 127, Aug. 3, 1977, [91 Stat. 542][/us/stat/91/542]; [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(d), Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 118, Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(1), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -63,15 +63,15 @@
 
     1979—Subsec. (a). [Pub. L. 96–53][/us/pl/96/53] inserted reference to Department of Energy.
 
-    1978—Subsec. (d). [Pub. L. 95–424, § 502(d)(1)][/us/pl/95/424/s502/d/1], struck out subsec. (d) relating to annual reports to Congress by the President on United States actions affecting the development of less developed countries.
+    1978—Subsec. (d). [Pub. L. 95–424][/us/pl/95/424], § 502(d)(1), struck out subsec. (d) relating to annual reports to Congress by the President on United States actions affecting the development of less developed countries.
 
-    Subsec. (g). [Pub. L. 95–424, § 502(d)(2)][/us/pl/95/424/s502/d/2], substituted “[section 2394 of this title][/us/usc/t22/s2394], the Chairman of the Committee” for “subsection (d) of this section, the President”.
+    Subsec. (g). [Pub. L. 95–424][/us/pl/95/424], § 502(d)(2), substituted “[section 2394 of this title][/us/usc/t22/s2394], the Chairman of the Committee” for “subsection (d) of this section, the President”.
 
-    1977—Subsec. (a). [Pub. L. 95–88, § 127(a)][/us/pl/95/88/s127/a], provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
+    1977—Subsec. (a). [Pub. L. 95–88][/us/pl/95/88], § 127(a), provided that the Committee advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
 
-    Subsec. (d). [Pub. L. 95–88, § 127(b)][/us/pl/95/88/s127/b], substituted “less developed countries” for “low-income countries” in the description of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
+    Subsec. (d). [Pub. L. 95–88][/us/pl/95/88], § 127(b), substituted “less developed countries” for “low-income countries” in the description of the subject matter of the Presidential reports to Congress, designated existing provisions setting out the subject matter of the reports as cl. (2)(A), and added cls. (1) and (2)(B).
 
-    Subsecs. (e) to (g). [Pub. L. 95–88, § 127(c)][/us/pl/95/88/s127/c], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 95–88][/us/pl/95/88], § 127(c), added subsecs. (e) to (g).
 
  __Effective Date of 1979 Amendment__ 
 
@@ -96,30 +96,30 @@
 ----------
 ----------
 
-[/us/pl/95/424/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F1
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs21
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F725
-[/us/pl/95/88/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs127
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F542
-[/us/pl/95/424/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
-[/us/pl/96/53/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs118
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F365
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2394/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%2Fa
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
-[/us/pl/95/424/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F1
-[/us/pl/95/424/s502/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F2
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
-[/us/pl/95/88/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs127%2Fa
-[/us/pl/95/88/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs127%2Fb
-[/us/pl/95/88/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs127%2Fc
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

@@ -177,7 +177,7 @@
 
         Nothing in this section is intended to alter or supersede any notification requirement with respect to peacekeeping operations that is established under any other provision of law.
 
-([Dec. 20, 1945, ch. 583, § 4][/us/act/1945-12-20/ch583/s4], [59 Stat. 620][/us/stat/59/620]; [Pub. L. 103–236, title IV][/us/pl/103/236], §§ 406, 407(b), Apr. 30, 1994, [108 Stat. 448][/us/stat/108/448], 450; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 724(a)(1), (2), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–465, 1501A–467; [Pub. L. 107–228, div. A, title IV, § 405(a)][/us/pl/107/228/s405/a], Sept. 30, 2002, [116 Stat. 1390][/us/stat/116/1390].)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 4, [59 Stat. 620][/us/stat/59/620]; [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], §§ 406, 407(b), Apr. 30, 1994, [108 Stat. 448][/us/stat/108/448], 450; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 724(a)(1), (2), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–465, 1501A–467; [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 405(a), Sept. 30, 2002, [116 Stat. 1390][/us/stat/116/1390].)
 
  __References in Text__ 
 
@@ -191,19 +191,19 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b). [Pub. L. 107–228, § 405(a)(1)][/us/pl/107/228/s405/a/1], (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
+    2002—Subsec. (b). [Pub. L. 107–228][/us/pl/107/228], § 405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
 
-    Subsecs. (c), (d). [Pub. L. 107–228, § 405(a)(1)][/us/pl/107/228/s405/a/1], (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
+    Subsecs. (c), (d). [Pub. L. 107–228][/us/pl/107/228], § 405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
 
-    Subsec. (e). [Pub. L. 107–228, § 405(a)(4)][/us/pl/107/228/s405/a/4], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 107–228][/us/pl/107/228], § 405(a)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(5)(B). [Pub. L. 107–228, § 405(a)(3)][/us/pl/107/228/s405/a/3], added subpar. (B) and struck out former subpar. (B) which related to quarterly reports.
+    Subsec. (e)(5)(B). [Pub. L. 107–228][/us/pl/107/228], § 405(a)(3), added subpar. (B) and struck out former subpar. (B) which related to quarterly reports.
 
-    Subsecs. (f), (g). [Pub. L. 107–228, § 405(a)(4)][/us/pl/107/228/s405/a/4], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsecs. (f), (g). [Pub. L. 107–228][/us/pl/107/228], § 405(a)(4), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title VII, § 724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title VII, § 724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
 
-    Subsecs. (e) to (g). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title VII, § 724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
+    Subsecs. (e) to (g). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title VII, § 724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
 
     1994—[Pub. L. 103–236][/us/pl/103/236] designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
@@ -221,17 +221,17 @@
 
  __Consultations and Reports on United Nations Peacekeeping Operations__ 
 
-    [Pub. L. 103–236, title IV, § 407(a)][/us/pl/103/236/s407/a], Apr. 30, 1994, [108 Stat. 448][/us/stat/108/448], directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 724(a)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–467. See subsec. (e) of this section.
+    [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 407(a), Apr. 30, 1994, [108 Stat. 448][/us/stat/108/448], directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 724(a)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–467. See subsec. (e) of this section.
 
  __Designated Congressional Committees__ 
 
-[Pub. L. 103–236, title IV, § 415][/us/pl/103/236/s415], Apr. 30, 1994, [108 Stat. 456][/us/stat/108/456], provided that: 
+[Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 415, Apr. 30, 1994, [108 Stat. 456][/us/stat/108/456], provided that: 
 
 > “For purposes of this part \[part A (§§ 401 to 415) of title IV of [Pub. L. 103–236][/us/pl/103/236], enacting [section 2321n of this title][/us/usc/t22/s2321n], amending this section, enacting provisions set out as notes under this section and [section 287e of this title][/us/usc/t22/s287e], and amending provisions set out as notes under [section 287e of this title][/us/usc/t22/s287e]\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.”
 
  __Report on Policies Pursued by Other Countries in International Organizations__ 
 
-    [Pub. L. 98–164, title I, § 117][/us/pl/98/164/s117], Nov. 22, 1983, [97 Stat. 1022][/us/stat/97/1022], as amended by [Pub. L. 100–204, title VII, § 707][/us/pl/100/204/s707], Dec. 22, 1987, [101 Stat. 1390][/us/stat/101/1390], directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by [Pub. L. 103–236, title I, § 139(27)][/us/pl/103/236/s139/27], Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399].
+    [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 117, Nov. 22, 1983, [97 Stat. 1022][/us/stat/97/1022], as amended by [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 707, Dec. 22, 1987, [101 Stat. 1390][/us/stat/101/1390], directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(27), Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399].
 
 ----------
 
@@ -243,13 +243,13 @@
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
-[/us/act/1945-12-20/ch583/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs4
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F620
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F448
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fa
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1390
 [/us/pl/103/236/s407/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs407%2Fa%2F5%2FB
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -257,32 +257,32 @@
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/106/113/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs724
 [/us/pl/103/236/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs407%2Fa
-[/us/pl/107/228/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fa%2F1
-[/us/pl/107/228/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fa%2F1
-[/us/pl/107/228/s405/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fa%2F4
-[/us/pl/107/228/s405/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fa%2F3
-[/us/pl/107/228/s405/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fa%2F4
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/103/236/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs407%2Fa
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F448
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/103/236/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs415
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F456
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2321n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321n
 [/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e
 [/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e
-[/us/pl/98/164/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs117
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1022
-[/us/pl/100/204/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs707
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1390
-[/us/pl/103/236/s139/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F27
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F399
 
 

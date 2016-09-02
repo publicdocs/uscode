@@ -41,7 +41,7 @@
 
         Not later than 1 year after July 1, 2010, the Comptroller General of the United States shall submit to the appropriate congressional committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives, a report assessing the extent to which executive agencies would have entered into or renewed contracts for the procurement of goods or services with persons that export sensitive technology to Iran if the prohibition under subsection (a) were not in effect.
 
-([Pub. L. 111–195, title I, § 106][/us/pl/111/195/s106], July 1, 2010, [124 Stat. 1336][/us/stat/124/1336].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 106, July 1, 2010, [124 Stat. 1336][/us/stat/124/1336].)
 
  __Termination of Section__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t19/s2518/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2518%2F4
 [/us/usc/t19/s2511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fb
 [/us/usc/t50/s1702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702%2Fb%2F3
-[/us/pl/111/195/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs106
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1336
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501

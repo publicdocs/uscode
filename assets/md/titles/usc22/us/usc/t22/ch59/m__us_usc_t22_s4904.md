@@ -33,7 +33,7 @@
 
         Funds appropriated to the Department of State for “Salaries and Expenses” shall be used for the expenses incurred in carrying out this chapter.
 
-([Pub. L. 99–399, title X, § 1005][/us/pl/99/399/s1005], Aug. 27, 1986, [100 Stat. 894][/us/stat/100/894]; [Pub. L. 100–204, title I, § 187][/us/pl/100/204/s187], Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368]; [Pub. L. 101–454, § 9(d)][/us/pl/101/454/s9/d], Oct. 24, 1990, [104 Stat. 1066][/us/stat/104/1066].)
+([Pub. L. 99–399, title X][/us/pl/99/399/tX], § 1005, Aug. 27, 1986, [100 Stat. 894][/us/stat/100/894]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 187, Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368]; [Pub. L. 101–454][/us/pl/101/454], § 9(d), Oct. 24, 1990, [104 Stat. 1066][/us/stat/104/1066].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t22/s2669/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2669%2Fc
-[/us/pl/99/399/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1005
+[/us/pl/99/399/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtX
 [/us/stat/100/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F894
-[/us/pl/100/204/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs187
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1368
-[/us/pl/101/454/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs9%2Fd
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1066
 [/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204

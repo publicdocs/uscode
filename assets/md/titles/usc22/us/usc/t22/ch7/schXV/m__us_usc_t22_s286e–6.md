@@ -17,7 +17,7 @@
 
     The United States Governor of the Fund is directed to vote against the establishment of a Council authorized under Article XII, Section 1 of the Fund Articles of Agreement as amended, if under any circumstances the United States’ vote in the Council would be less than its weighted vote in the Fund.
 
-([July 31, 1945, ch. 339, § 26][/us/act/1945-07-31/ch339/s26], as added [Pub. L. 94–564, § 1][/us/pl/94/564/s1], Oct. 19, 1976, [90 Stat. 2660][/us/stat/90/2660].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 26, as added [Pub. L. 94–564][/us/pl/94/564], § 1, Oct. 19, 1976, [90 Stat. 2660][/us/stat/90/2660].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs26
-[/us/pl/94/564/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs1
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2660
 
 

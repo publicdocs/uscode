@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
+[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4803 _us_usc_t22_s4804.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
 
 ## § 4802. Responsibility of Secretary of State
 
@@ -107,11 +107,11 @@
 
         As used in this subchapter and subchapter III, the term “Federal agency” includes any department or agency of the United States Government.
 
-([Pub. L. 99–399, title I, § 103][/us/pl/99/399/s103], Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856]; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–141; [Pub. L. 100–461, title II, § 201][/us/pl/100/461/s201], Oct. 1, 1988, [102 Stat. 2268–10][/us/stat/102/2268-10]; [Pub. L. 101–246, title I, § 115(b)][/us/pl/101/246/s115/b], Feb. 16, 1990, [104 Stat. 22][/us/stat/104/22]; [Pub. L. 103–236, title I, § 162(g)(2)][/us/pl/103/236/s162/g/2], Apr. 30, 1994, [108 Stat. 406][/us/stat/108/406]; [Pub. L. 103–415, § 1(f)(4)(A)(i)][/us/pl/103/415/s1/f/4/A/i], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300]; [Pub. L. 107–228, div. A, title V, § 505(a)][/us/pl/107/228/s505/a], Sept. 30, 2002, [116 Stat. 1393][/us/stat/116/1393].)
+([Pub. L. 99–399, title I][/us/pl/99/399/tI], § 103, Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856]; [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–141; [Pub. L. 100–461, title II][/us/pl/100/461/tII], § 201, Oct. 1, 1988, [102 Stat. 2268–10][/us/stat/102/2268-10]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 115(b), Feb. 16, 1990, [104 Stat. 22][/us/stat/104/22]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(g)(2), Apr. 30, 1994, [108 Stat. 406][/us/stat/108/406]; [Pub. L. 103–415][/us/pl/103/415], § 1(f)(4)(A)(i), Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300]; [Pub. L. 107–228, div. A, title V][/us/pl/107/228/dA/tV], § 505(a), Sept. 30, 2002, [116 Stat. 1393][/us/stat/116/1393].)
 
  __References in Text__ 
 
-    [Section 2708 of this title][/us/usc/t22/s2708], referred to in subsec. (a)(2)(B)(xi), was amended generally by [Pub. L. 105–323, title I, § 101][/us/pl/105/323/s101], Oct. 30, 1998, [112 Stat. 3029][/us/stat/112/3029], and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
+    [Section 2708 of this title][/us/usc/t22/s2708], referred to in subsec. (a)(2)(B)(xi), was amended generally by [Pub. L. 105–323, title I][/us/pl/105/323/tI], § 101, Oct. 30, 1998, [112 Stat. 3029][/us/stat/112/3029], and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
     The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
@@ -137,7 +137,7 @@
 
  __Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense__ 
 
-[Pub. L. 114–92, div. A, title X, § 1091][/us/pl/114/92/s1091], Nov. 25, 2015, [129 Stat. 1018][/us/stat/129/1018], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1091, Nov. 25, 2015, [129 Stat. 1018][/us/stat/129/1018], provided that:
 
 >     “(a)  __Notification Requirement__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Personnel Security Program for Embassies in High Intelligence Threat Countries__ 
 
-[Pub. L. 100–204, title I, § 155][/us/pl/100/204/s155], Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 155, Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353], provided that:
 
 >     “(a)  __Special Security Program__  __.—__ 
 
@@ -185,40 +185,30 @@
 
     \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.\]
 
-§§ 4803, 4804. __Repealed.__  __[__  __Pub. L. 103–236, title I, § 162(g)(3)__  __][/us/pl/103/236/s162/g/3]__  __, (4),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 407__  __][/us/stat/108/407]__ 
-
-    Section 4803, [Pub. L. 99–399, title I, § 104(a)][/us/pl/99/399/s104/a], Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856], established Bureau of Diplomatic Security in Department of State.
-
-    Section 4804, [Pub. L. 99–399, title I, § 105][/us/pl/99/399/s105], Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856], set out responsibilities of Assistant Secretary of State for Diplomatic Security.
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of [Pub. L. 103–236][/us/pl/103/236] become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see [section 161(b) of Pub. L. 103–236][/us/pl/103/236/s161/b], as amended, set out as an Effective Date of 1994 Amendment note under [section 2651a of this title][/us/usc/t22/s2651a].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
+[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4801.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4803 _us_usc_t22_s4804.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802)
 
 ----------
 ----------
 
 [/us/usc/t22/s2349aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa
-[/us/pl/99/399/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs103
+[/us/pl/99/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtI
 [/us/stat/100/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F856
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/100/461/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs201
+[/us/pl/100/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtII
 [/us/stat/102/2268-10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-10
-[/us/pl/101/246/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs115%2Fb
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F22
-[/us/pl/103/236/s162/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fg%2F2
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F406
-[/us/pl/103/415/s1/f/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Ff%2F4%2FA%2Fi
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4300
-[/us/pl/107/228/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs505%2Fa
+[/us/pl/107/228/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtV
 [/us/stat/116/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1393
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
-[/us/pl/105/323/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2Fs101
+[/us/pl/105/323/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2FtI
 [/us/stat/112/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3029
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -234,21 +224,12 @@
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
-[/us/pl/114/92/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1091
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1018
-[/us/pl/100/204/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs155
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1353
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/103/236/s162/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fg%2F3
-[/us/stat/108/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F407
-[/us/pl/99/399/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs104%2Fa
-[/us/stat/100/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F856
-[/us/pl/99/399/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs105
-[/us/stat/100/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F856
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb
-[/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 
 

@@ -73,7 +73,7 @@
 
         If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
 
-([Pub. L. 96–465, title I, § 1016][/us/pl/96/465/s1016], Oct. 17, 1980, [94 Stat. 2139][/us/stat/94/2139].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1016, Oct. 17, 1980, [94 Stat. 2139][/us/stat/94/2139].)
 
 ----------
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t5/s5596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5596
 [/us/usc/t5/s5596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5596
-[/us/pl/96/465/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1016
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2139
 
 

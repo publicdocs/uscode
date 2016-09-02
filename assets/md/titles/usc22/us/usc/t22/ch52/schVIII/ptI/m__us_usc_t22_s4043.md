@@ -47,17 +47,17 @@
 
         An individual subject to the Foreign Service Pension System (described in part II) is not a participant in this System.
 
-([Pub. L. 96–465, title I, § 803][/us/pl/96/465/s803], Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV][/us/pl/99/335], §§ 402(a)(2), 414, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 614.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 803, Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], §§ 402(a)(2), 414, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 614.)
 
  __References in Text__ 
 
-    The Foreign Service Act of 1946, referred to in subsec. (c), is [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], titles I to X, [60 Stat. 999][/us/stat/60/999], as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by [Pub. L. 96–465, title II][/us/pl/96/465], 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    The Foreign Service Act of 1946, referred to in subsec. (c), is [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], titles I to X, [60 Stat. 999][/us/stat/60/999], as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
  __Amendments__ 
 
     1986—Subsec. (a). [Pub. L. 99–335][/us/pl/99/335], §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d), the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
 
-    Subsec. (d). [Pub. L. 99–335, § 414(2)][/us/pl/99/335/s414/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–335][/us/pl/99/335], § 414(2), added subsec. (d).
 
  __Effective Date of 1986 Amendment__ 
 
@@ -72,16 +72,16 @@
 
 [/us/usc/t22/s3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3946
 [/us/usc/t22/s4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045
-[/us/pl/96/465/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs803
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2102
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F999
-[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
-[/us/pl/99/335/s414/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs414%2F2
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401

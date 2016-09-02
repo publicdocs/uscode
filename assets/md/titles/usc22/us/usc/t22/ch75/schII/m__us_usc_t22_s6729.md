@@ -51,7 +51,7 @@
 
                 (ii) more than 200 metric tons of unscheduled discrete organic chemicals.
 
-([Pub. L. 105–277, div. I, title III, § 310][/us/pl/105/277/s310], Oct. 21, 1998, [112 Stat. 2681–880][/us/stat/112/2681-880].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 310, Oct. 21, 1998, [112 Stat. 2681–880][/us/stat/112/2681-880].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/105/277/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs310
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-880
 
 

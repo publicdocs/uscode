@@ -37,7 +37,7 @@
 
     (10) to initiate immediately the development of a comprehensive United States policy toward Cuba in a post-Castro era.
 
-([Pub. L. 102–484, div. A, title XVII, § 1703][/us/pl/102/484/s1703], Oct. 23, 1992, [106 Stat. 2576][/us/stat/106/2576].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1703, Oct. 23, 1992, [106 Stat. 2576][/us/stat/106/2576].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1703
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2576
 
 

@@ -17,7 +17,7 @@
 
     Any participant who voluntarily separates from the Service after obtaining at least 5 years of service credit toward retirement under the System (excluding military and naval service) may upon separation from the Service or at any time prior to becoming eligible for an annuity elect to have his or her contributions to the Fund returned in accordance with [section 4055 of this title][/us/usc/t22/s4055], or to leave his or her contributions in the Fund and receive an annuity, computed under [section 4046 of this title][/us/usc/t22/s4046], commencing at age 60.
 
-([Pub. L. 96–465, title I, § 810][/us/pl/96/465/s810], Oct. 17, 1980, [94 Stat. 2112][/us/stat/94/2112].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 810, Oct. 17, 1980, [94 Stat. 2112][/us/stat/94/2112].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4055
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
-[/us/pl/96/465/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs810
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2112
 
 

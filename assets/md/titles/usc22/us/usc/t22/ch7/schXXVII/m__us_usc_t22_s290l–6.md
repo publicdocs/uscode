@@ -17,7 +17,7 @@
 
     The Agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Bank and the entry into force of the Agreement.
 
-([Pub. L. 101–513, title V, § 562(c)(8)][/us/pl/101/513/s562/c/8], Nov. 5, 1990, [104 Stat. 2035][/us/stat/104/2035].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(8), Nov. 5, 1990, [104 Stat. 2035][/us/stat/104/2035].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/513/s562/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F8
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2035
 
 

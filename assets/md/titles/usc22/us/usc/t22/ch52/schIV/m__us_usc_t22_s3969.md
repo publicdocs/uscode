@@ -17,7 +17,7 @@
 
     The Secretary of State shall establish the salary rate for each consular agent. Such salary rate shall be established after taking into account the workload of the consular agency and the prevailing wage rates in the locality where the agency is located, except that, in the case of a consular agent who is a citizen of the United States, the salary rate may not be less than the then applicable minimum wage rate specified in [section 206(a)(1) of title 29][/us/usc/t29/s206/a/1].
 
-([Pub. L. 96–465, title I, § 409][/us/pl/96/465/s409], Oct. 17, 1980, [94 Stat. 2091][/us/stat/94/2091].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 409, Oct. 17, 1980, [94 Stat. 2091][/us/stat/94/2091].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/96/465/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs409
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2091
 
 

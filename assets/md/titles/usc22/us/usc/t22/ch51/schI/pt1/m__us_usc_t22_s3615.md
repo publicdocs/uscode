@@ -23,7 +23,7 @@
 
         The Consultative Committee shall function as a diplomatic forum for the exchange of views between the United States and the Republic of Panama. The Committee shall advise the United States Government and the Government of the Republic of Panama on matters of policy affecting the operation of the Panama Canal. The Committee shall have no authority to direct the Commission or any other department or agency of the United States to initiate or withhold action.
 
-([Pub. L. 96–70, title I, § 1105][/us/pl/96/70/s1105], Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1105, Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1105
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F457
 
 

@@ -85,7 +85,7 @@
 
     (14) “person” means an individual, a labor organization, or an agency to which this subchapter applies.
 
-([Pub. L. 96–465, title I, § 1002][/us/pl/96/465/s1002], Oct. 17, 1980, [94 Stat. 2129][/us/stat/94/2129]; [Pub. L. 103–236, title I, § 180(a)(9)][/us/pl/103/236/s180/a/9], Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1002, Oct. 17, 1980, [94 Stat. 2129][/us/stat/94/2129]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 180(a)(9), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416].)
 
  __Amendments__ 
 
@@ -108,9 +108,9 @@
 [/us/usc/t22/s4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131
 [/us/usc/t22/s3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929
 [/us/usc/t22/s4110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4110%2Fa
-[/us/pl/96/465/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1002
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2129
-[/us/pl/103/236/s180/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs180%2Fa%2F9
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F416
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951

@@ -27,7 +27,7 @@
 
         In carrying out the provisions of this section the President shall insure that the assistance provided by the United States shall, to the greatest extent possible, reach those most in need of relief and rehabilitation as a result of natural and manmade disasters.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 491, as added [Pub. L. 94–161, title I, § 101(3)][/us/pl/94/161/s101/3], Dec. 20, 1975, [89 Stat. 849][/us/stat/89/849]; amended [Pub. L. 95–424, title I, § 118(a)][/us/pl/95/424/s118/a], Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953]; [Pub. L. 96–533, title IV, § 404(b)][/us/pl/96/533/s404/b], Dec. 16, 1980, [94 Stat. 3150][/us/stat/94/3150].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 491, as added [Pub. L. 94–161, title I][/us/pl/94/161/tI], § 101(3), Dec. 20, 1975, [89 Stat. 849][/us/stat/89/849]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 118(a), Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953]; [Pub. L. 96–533, title IV][/us/pl/96/533/tIV], § 404(b), Dec. 16, 1980, [94 Stat. 3150][/us/stat/94/3150].)
 
  __References in Text__ 
 
@@ -60,11 +60,11 @@
 
 [/us/usc/t22/s2292a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2292a
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs101%2F3
+[/us/pl/94/161/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtI
 [/us/stat/89/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F849
-[/us/pl/95/424/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs118%2Fa
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F953
-[/us/pl/96/533/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs404%2Fb
+[/us/pl/96/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIV
 [/us/stat/94/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3150
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

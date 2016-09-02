@@ -49,7 +49,7 @@
 
         The President may furnish assistance and make contributions under this chapter notwithstanding any provision of law which restricts assistance to foreign countries.
 
-([Pub. L. 87–510, § 2][/us/pl/87/510/s2], June 28, 1962, [76 Stat. 121][/us/stat/76/121]; [Pub. L. 88–634, title II, § 201][/us/pl/88/634/s201], Oct. 7, 1964, [78 Stat. 1021][/us/stat/78/1021]; [Pub. L. 94–141, title V, § 501(a)][/us/pl/94/141/s501/a], Nov. 29, 1975, [89 Stat. 771][/us/stat/89/771]; [Pub. L. 96–212, title III, § 312(b)][/us/pl/96/212/s312/b], Mar. 17, 1980, [94 Stat. 116][/us/stat/94/116]; [Pub. L. 99–93, title I, § 111][/us/pl/99/93/s111], Aug. 16, 1985, [99 Stat. 410][/us/stat/99/410]; [Pub. L. 103–236, title IV, § 430(a)][/us/pl/103/236/s430/a], Apr. 30, 1994, [108 Stat. 459][/us/stat/108/459]; [Pub. L. 107–228, div. A, title II, § 242][/us/pl/107/228/s242], Sept. 30, 2002, [116 Stat. 1374][/us/stat/116/1374].)
+([Pub. L. 87–510][/us/pl/87/510], § 2, June 28, 1962, [76 Stat. 121][/us/stat/76/121]; [Pub. L. 88–634, title II][/us/pl/88/634/tII], § 201, Oct. 7, 1964, [78 Stat. 1021][/us/stat/78/1021]; [Pub. L. 94–141, title V][/us/pl/94/141/tV], § 501(a), Nov. 29, 1975, [89 Stat. 771][/us/stat/89/771]; [Pub. L. 96–212, title III][/us/pl/96/212/tIII], § 312(b), Mar. 17, 1980, [94 Stat. 116][/us/stat/94/116]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 111, Aug. 16, 1985, [99 Stat. 410][/us/stat/99/410]; [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 430(a), Apr. 30, 1994, [108 Stat. 459][/us/stat/108/459]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 242, Sept. 30, 2002, [116 Stat. 1374][/us/stat/116/1374].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
     The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2–11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101–103, ch. II, §§ 201–205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108, § 2][/us/pl/86/108/s2], ch. 1, § 101, ch. II, §§ 201–205(a)–(i), (k)–(n), ch. III, § 301, ch. IV, § 401(a)–(k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. I to V, [74 Stat. 134][/us/stat/74/134], which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by [act July 18, 1956, ch. 627, § 8(m)][/us/act/1956-07-18/ch627/s8/m], [70 Stat. 559][/us/stat/70/559], [Pub. L. 85–141][/us/pl/85/141], §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, [71 Stat. 356][/us/stat/71/356], [Pub. L. 86–108][/us/pl/86/108], ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, [73 Stat. 250][/us/stat/73/250], [Pub. L. 86–472][/us/pl/86/472], ch. II, §§ 203(d), 204(k), May 14, 1960, [74 Stat. 138][/us/stat/74/138], [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460], [Pub. L. 94–329, title II, § 212(b)(1)][/us/pl/94/329/s212/b/1], June 30, 1976, [90 Stat. 745][/us/stat/90/745], [Pub. L. 104–127, title II, § 228][/us/pl/104/127/s228], Apr. 4, 1996, [110 Stat. 963][/us/stat/110/963], except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of this title][/us/usc/t22/s1754] and Tables.
+    The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2–11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101–103, ch. II, §§ 201–205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108][/us/pl/86/108], § 2, ch. 1, § 101, ch. II, §§ 201–205(a)–(i), (k)–(n), ch. III, § 301, ch. IV, § 401(a)–(k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. I to V, [74 Stat. 134][/us/stat/74/134], which was principally classified to chapter 24 (§ 1750 et seq.) of this title and which was repealed by [act July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], § 8(m), [70 Stat. 559][/us/stat/70/559], [Pub. L. 85–141][/us/pl/85/141], §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, [71 Stat. 356][/us/stat/71/356], [Pub. L. 86–108][/us/pl/86/108], ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, [73 Stat. 250][/us/stat/73/250], [Pub. L. 86–472][/us/pl/86/472], ch. II, §§ 203(d), 204(k), May 14, 1960, [74 Stat. 138][/us/stat/74/138], [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460], [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 212(b)(1), June 30, 1976, [90 Stat. 745][/us/stat/90/745], [Pub. L. 104–127, title II][/us/pl/104/127/tII], § 228, Apr. 4, 1996, [110 Stat. 963][/us/stat/110/963], except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of this title][/us/usc/t22/s1754] and Tables.
 
     Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, as amended, referred to in subsec. (e), were sections of [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], and were repealed by [section 6 of Pub. L. 87–510][/us/pl/87/510/s6].
 
@@ -65,17 +65,17 @@
 
     2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
 
-    1994—Subsec. (a). [Pub. L. 103–236, § 430(a)(1)][/us/pl/103/236/s430/a/1]–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
+    1994—Subsec. (a). [Pub. L. 103–236][/us/pl/103/236], § 430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
 
-    Subsec. (b)(1). [Pub. L. 103–236, § 430(a)(1)][/us/pl/103/236/s430/a/1], substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”.
+    Subsec. (b)(1). [Pub. L. 103–236][/us/pl/103/236], § 430(a)(1), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”.
 
-    Subsec. (c)(2). [Pub. L. 103–236, § 430(a)(4)][/us/pl/103/236/s430/a/4], substituted “$100,000,000” for “$50,000,000”.
+    Subsec. (c)(2). [Pub. L. 103–236][/us/pl/103/236], § 430(a)(4), substituted “$100,000,000” for “$50,000,000”.
 
     1985—Subsec. (f). [Pub. L. 99–93][/us/pl/99/93] added subsec. (f).
 
-    1980—Subsec. (b). [Pub. L. 96–212, § 312(b)(1)][/us/pl/96/212/s312/b/1], in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
+    1980—Subsec. (b). [Pub. L. 96–212][/us/pl/96/212], § 312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
 
-    Subsec. (c)(2). [Pub. L. 96–212, § 312(b)(2)][/us/pl/96/212/s312/b/2], inserted provisions increasing amount from $25,000,000 to $50,000,000.
+    Subsec. (c)(2). [Pub. L. 96–212][/us/pl/96/212], § 312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
 
     1975—Subsec. (c). [Pub. L. 94–141][/us/pl/94/141] designated existing provision as par. (1), substituted provisions authorizing the President to furnish assistance on such terms and conditions as he determines, for provisions authorizing President to transfer not more than $10,000,000 in any fiscal year of the funds made available under the Foreign Assistance Act of 1961 for the purposes of this chapter, and added pars. (2) and (3).
 
@@ -87,13 +87,13 @@
 
  __Short Title__ 
 
-[Pub. L. 87–510, § 1][/us/pl/87/510/s1], June 28, 1962, [76 Stat. 121][/us/stat/76/121], provided: 
+[Pub. L. 87–510][/us/pl/87/510], § 1, June 28, 1962, [76 Stat. 121][/us/stat/76/121], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 1925 and 1951 of this title and [section 1104 of Title 8][/us/usc/t8/s1104], Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under [section 1182 of Title 8][/us/usc/t8/s1182]\] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”
 
  __United States Policy Regarding Involuntary Return of Refugees__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 251\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–431, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 251\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–431, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -109,11 +109,11 @@
 
     Similar provisions were contained in the following prior act:
 
-    [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2241, Oct. 21, 1998, [112 Stat. 2681–821][/us/stat/112/2681-821].
+    [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2241, Oct. 21, 1998, [112 Stat. 2681–821][/us/stat/112/2681-821].
 
  __United States Policy Concerning Overseas Assistance to Refugees and Displaced Persons__ 
 
-[Pub. L. 103–236, title V, § 501][/us/pl/103/236/s501], Apr. 30, 1994, [108 Stat. 460][/us/stat/108/460], provided that:
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 501, Apr. 30, 1994, [108 Stat. 460][/us/stat/108/460], provided that:
 
 >     “(a)  __Standards for Refugee Women and Children__  __.—__ 
 
@@ -167,15 +167,15 @@
 
  __United States Membership in Intergovernmental Committee for European Migration__ 
 
-    [Pub. L. 100–204, title VII, § 745][/us/pl/100/204/s745], Dec. 22, 1987, [101 Stat. 1396][/us/stat/101/1396], authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment of United States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by [Pub. L. 103–236, title IV, § 430(b)][/us/pl/103/236/s430/b], Apr. 30, 1994, [108 Stat. 459][/us/stat/108/459].
+    [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 745, Dec. 22, 1987, [101 Stat. 1396][/us/stat/101/1396], authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment of United States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 430(b), Apr. 30, 1994, [108 Stat. 459][/us/stat/108/459].
 
  __Indochina Migration and Refugee Assistance__ 
 
-    [Pub. L. 94–23][/us/pl/94/23], May 23, 1975, [89 Stat. 87][/us/stat/89/87], as amended by [Pub. L. 94–313][/us/pl/94/313], June 21, 1976, [90 Stat. 691][/us/stat/90/691]; [Pub. L. 95–145, title II][/us/pl/95/145], §§ 201, 202, Oct. 28, 1977, [91 Stat. 1224][/us/stat/91/1224], 1225; [Pub. L. 95–549, title II, § 201][/us/pl/95/549/s201], Oct. 30, 1978, [92 Stat. 2066][/us/stat/92/2066]; [Pub. L. 96–110, § 3(a)][/us/pl/96/110/s3/a], Nov. 13, 1979, [93 Stat. 844][/us/stat/93/844], which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled from Cambodia, Laos, and Vietnam, was repealed by [Pub. L. 96–212, title III, § 312(c)][/us/pl/96/212/s312/c], Mar. 17, 1980, [94 Stat. 117][/us/stat/94/117].
+    [Pub. L. 94–23][/us/pl/94/23], May 23, 1975, [89 Stat. 87][/us/stat/89/87], as amended by [Pub. L. 94–313][/us/pl/94/313], June 21, 1976, [90 Stat. 691][/us/stat/90/691]; [Pub. L. 95–145, title II][/us/pl/95/145/tII], §§ 201, 202, Oct. 28, 1977, [91 Stat. 1224][/us/stat/91/1224], 1225; [Pub. L. 95–549, title II][/us/pl/95/549/tII], § 201, Oct. 30, 1978, [92 Stat. 2066][/us/stat/92/2066]; [Pub. L. 96–110][/us/pl/96/110], § 3(a), Nov. 13, 1979, [93 Stat. 844][/us/stat/93/844], which set forth provisions respecting appropriations, etc., for migration and refugee assistance for aliens who fled from Cambodia, Laos, and Vietnam, was repealed by [Pub. L. 96–212, title III][/us/pl/96/212/tIII], § 312(c), Mar. 17, 1980, [94 Stat. 117][/us/stat/94/117].
 
  __Availability of Funds for Continuation of Activities__ 
 
-[Pub. L. 87–510, § 7][/us/pl/87/510/s7], June 28, 1962, [76 Stat. 124][/us/stat/76/124], provided that: 
+[Pub. L. 87–510][/us/pl/87/510], § 7, June 28, 1962, [76 Stat. 124][/us/stat/76/124], provided that: 
 
 > “Until the enactment of legislation appropriating funds for activities under this Act \[see Short Title note above\], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended \[[section 2261(a) of this title][/us/usc/t22/s2261/a]\].”
 
@@ -224,19 +224,19 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s1925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1925%2Fa
-[/us/pl/87/510/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs2
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121
-[/us/pl/88/634/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F634%2Fs201
+[/us/pl/88/634/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F634%2FtII
 [/us/stat/78/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1021
-[/us/pl/94/141/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs501%2Fa
+[/us/pl/94/141/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtV
 [/us/stat/89/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F771
-[/us/pl/96/212/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs312%2Fb
+[/us/pl/96/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtIII
 [/us/stat/94/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F116
-[/us/pl/99/93/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs111
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F410
-[/us/pl/103/236/s430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs430%2Fa
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F459
-[/us/pl/107/228/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs242
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1374
 [/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121
@@ -255,11 +255,11 @@
 [/us/stat/71/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F355
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/stat/72/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F261
-[/us/pl/86/108/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108%2Fs2
+[/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F246
 [/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
 [/us/stat/74/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F134
-[/us/act/1956-07-18/ch627/s8/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627%2Fs8%2Fm
+[/us/act/1956-07-18/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627
 [/us/stat/70/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F559
 [/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/stat/71/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F356
@@ -269,56 +269,56 @@
 [/us/stat/74/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F138
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
-[/us/pl/94/329/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs212%2Fb%2F1
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F745
-[/us/pl/104/127/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs228
+[/us/pl/104/127/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtII
 [/us/stat/110/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F963
 [/us/usc/t22/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1754
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/stat/68/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F832
 [/us/pl/87/510/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs6
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/103/236/s430/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs430%2Fa%2F1
-[/us/pl/103/236/s430/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs430%2Fa%2F1
-[/us/pl/103/236/s430/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs430%2Fa%2F4
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
-[/us/pl/96/212/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs312%2Fb%2F1
-[/us/pl/96/212/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs312%2Fb%2F2
+[/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
+[/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
 [/us/pl/94/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141
 [/us/pl/88/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F634
 [/us/pl/96/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212
 [/us/pl/96/212/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs313
 [/us/usc/t8/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522
-[/us/pl/87/510/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs1
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121
 [/us/usc/t8/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1104
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/usc/t22/s2601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2601%2Fc
 [/us/usc/t22/s2601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2601%2Fc
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-821
-[/us/pl/103/236/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs501
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F460
-[/us/pl/100/204/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs745
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1396
-[/us/pl/103/236/s430/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs430%2Fb
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F459
 [/us/pl/94/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F23
 [/us/stat/89/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F87
 [/us/pl/94/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F313
 [/us/stat/90/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F691
-[/us/pl/95/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F145
+[/us/pl/95/145/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F145%2FtII
 [/us/stat/91/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1224
-[/us/pl/95/549/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F549%2Fs201
+[/us/pl/95/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F549%2FtII
 [/us/stat/92/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2066
-[/us/pl/96/110/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F110%2Fs3%2Fa
+[/us/pl/96/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F110
 [/us/stat/93/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F844
-[/us/pl/96/212/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2Fs312%2Fc
+[/us/pl/96/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F212%2FtIII
 [/us/stat/94/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F117
-[/us/pl/87/510/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs7
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F124
 [/us/usc/t22/s2261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2261%2Fa
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

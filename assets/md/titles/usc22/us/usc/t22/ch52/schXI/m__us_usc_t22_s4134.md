@@ -35,23 +35,23 @@
 
             (B) the expiration of the 18-month period beginning on the date of the occurrence giving rise to the grievance or the last such occurrence, as the case may be.
 
-([Pub. L. 96–465, title I, § 1104][/us/pl/96/465/s1104], Oct. 17, 1980, [94 Stat. 2144][/us/stat/94/2144]; [Pub. L. 102–138, title I, § 153(b)][/us/pl/102/138/s153/b], Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 330(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–438; [Pub. L. 107–228, div. A, title III, § 317][/us/pl/107/228/s317], Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1104, Oct. 17, 1980, [94 Stat. 2144][/us/stat/94/2144]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 153(b), Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 330(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–438; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 317, Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379].)
 
  __Amendments__ 
 
     2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228] substituted “but in no case more than three years” for “but in no case less than two years”.
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 330(a)\], in first sentence, substituted “not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant’s rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case less than two years after the occurrence giving rise to the grievance.” for “within a period of 3 years after the occurrence or occurrences giving rise to the grievance or such shorter period as may be agreed to by the Department and the exclusive representative.”
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title III, § 330(a)\], in first sentence, substituted “not later than two years after the occurrence giving rise to the grievance or, in the case of a grievance with respect to the grievant’s rater or reviewer, one year after the date on which the grievant ceased to be subject to rating or review by that person, but in no case less than two years after the occurrence giving rise to the grievance.” for “within a period of 3 years after the occurrence or occurrences giving rise to the grievance or such shorter period as may be agreed to by the Department and the exclusive representative.”
 
-    Subsec. (c)(1). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 330(b)\], substituted “ ‘2 years’ ” for “ ‘3 years’ ”.
+    Subsec. (c)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title III, § 330(b)\], substituted “ ‘2 years’ ” for “ ‘3 years’ ”.
 
-    1991—Subsec. (a). [Pub. L. 102–138, § 153(b)(1)][/us/pl/102/138/s153/b/1], inserted “under this subchapter” before “unless”.
+    1991—Subsec. (a). [Pub. L. 102–138][/us/pl/102/138], § 153(b)(1), inserted “under this subchapter” before “unless”.
 
-    Subsec. (c). [Pub. L. 102–138, § 153(b)(2)][/us/pl/102/138/s153/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–138][/us/pl/102/138], § 153(b)(2), added subsec. (c).
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 330(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–438, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 330(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–438, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 29, 1999\] and shall apply to grievances which arise on or after such effective date.”
 
@@ -67,20 +67,20 @@
 ----------
 
 [/us/usc/t22/s4131/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131%2Fa%2F1%2FH
-[/us/pl/96/465/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1104
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2144
-[/us/pl/102/138/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F673
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs317
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1379
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/102/138/s153/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fb%2F1
-[/us/pl/102/138/s153/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fb%2F2
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t22/s4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131

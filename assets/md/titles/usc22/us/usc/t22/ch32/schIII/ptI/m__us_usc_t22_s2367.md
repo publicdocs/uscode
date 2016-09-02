@@ -35,7 +35,7 @@
 
         Unless specifically made inapplicable by another provision of law, the provisions of this section shall be applicable to the termination of assistance pursuant to any provision of law.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 617, Sept. 4, 1961, [75 Stat. 444][/us/stat/75/444]; [Pub. L. 93–189, § 14][/us/pl/93/189/s14], Dec. 17, 1973, [87 Stat. 722][/us/stat/87/722]; [Pub. L. 96–533, title III, § 310][/us/pl/96/533/s310], Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1221\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498; [Pub. L. 106–264, title III, § 302][/us/pl/106/264/s302], Aug. 19, 2000, [114 Stat. 760][/us/stat/114/760].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 617, Sept. 4, 1961, [75 Stat. 444][/us/stat/75/444]; [Pub. L. 93–189][/us/pl/93/189], § 14, Dec. 17, 1973, [87 Stat. 722][/us/stat/87/722]; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 310, Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1221\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498; [Pub. L. 106–264, title III][/us/pl/106/264/tIII], § 302, Aug. 19, 2000, [114 Stat. 760][/us/stat/114/760].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F444
-[/us/pl/93/189/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs14
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F722
-[/us/pl/96/533/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs310
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3148
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/264/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs302
+[/us/pl/106/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtIII
 [/us/stat/114/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F760
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -35,7 +35,7 @@
 
         The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
 
-([Pub. L. 101–610, title VI, § 602][/us/pl/101/610/s602], Nov. 16, 1990, [104 Stat. 3186][/us/stat/104/3186]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(c), Oct. 21, 1998, [112 Stat. 2681–787][/us/stat/112/2681-787].)
+([Pub. L. 101–610, title VI][/us/pl/101/610/tVI], § 602, Nov. 16, 1990, [104 Stat. 3186][/us/stat/104/3186]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(c), Oct. 21, 1998, [112 Stat. 2681–787][/us/stat/112/2681-787].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1335(c)(1)][/us/pl/105/277/s1335/c/1], substituted “Department of State” for “United States Information Agency” before period at end.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1335(c)(1), substituted “Department of State” for “United States Information Agency” before period at end.
 
-    Subsec. (b). [Pub. L. 105–277, § 1335(c)(2)][/us/pl/105/277/s1335/c/2], in first sentence, substituted “appropriate appropriations account of the Department of State” for “appropriations account of the United States Information Agency” and struck out “and the United States Information Agency” before “, as the President”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1335(c)(2), in first sentence, substituted “appropriate appropriations account of the Department of State” for “appropriations account of the United States Information Agency” and struck out “and the United States Information Agency” before “, as the President”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
-[/us/pl/101/610/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs602
+[/us/pl/101/610/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtVI
 [/us/stat/104/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3186
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-787
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
-[/us/pl/105/277/s1335/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fc%2F1
-[/us/pl/105/277/s1335/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fc%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

@@ -17,7 +17,7 @@
 
     The Agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Bank and the entry into force of the Agreement.
 
-([Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title VII, § 708\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–180.)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title VII, § 708\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–180.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 
 

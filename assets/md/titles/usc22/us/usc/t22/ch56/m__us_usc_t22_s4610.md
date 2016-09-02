@@ -17,7 +17,7 @@
 
     Upon dissolution or final liquidation of the Institute or of any legal entity created pursuant to this chapter, all income and assets of the Institute or other legal entity shall revert to the United States Treasury.
 
-([Pub. L. 98–525, title XVII, § 1711][/us/pl/98/525/s1711], Oct. 19, 1984, [98 Stat. 2659][/us/stat/98/2659].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1711, Oct. 19, 1984, [98 Stat. 2659][/us/stat/98/2659].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1711
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2659
 
 

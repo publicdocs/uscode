@@ -33,7 +33,7 @@
 
         Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex, the Secretary shall transmit to the Congress a report describing the licensed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. The requirement contained in the preceding sentence shall not apply to licenses for exports to countries that were members of the MTCR as of April 17, 1987.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 71, as added [Pub. L. 101–510, div. A, title XVII, § 1703][/us/pl/101/510/s1703], Nov. 5, 1990, [104 Stat. 1745][/us/stat/104/1745]; amended [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 714(a)(3)–(6), 735(c), Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497], 506; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(4)–(7), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–280, title VII, § 708(c)][/us/pl/106/280/s708/c], Oct. 6, 2000, [114 Stat. 863][/us/stat/114/863].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 71, as added [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1703, Nov. 5, 1990, [104 Stat. 1745][/us/stat/104/1745]; amended [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], §§ 714(a)(3)–(6), 735(c), Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497], 506; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(a)(4)–(7), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–280, title VII][/us/pl/106/280/tVII], § 708(c), Oct. 6, 2000, [114 Stat. 863][/us/stat/114/863].)
 
  __References in Text__ 
 
@@ -43,23 +43,23 @@
 
     2000—Subsec. (d). [Pub. L. 106–280][/us/pl/106/280] substituted “Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,” for “Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,”.
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1225(a)(4)][/us/pl/105/277/s1225/a/4], struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
 
-    Subsec. (b)(1). [Pub. L. 105–277, § 1225(a)(5)][/us/pl/105/277/s1225/a/5], struck out “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
+    Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277], § 1225(a)(5), struck out “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
-    Subsec. (b)(2). [Pub. L. 105–277, § 1225(a)(6)][/us/pl/105/277/s1225/a/6], substituted “and the Secretary of Commerce” for “the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” and struck out “or the Director” after “the relevant Secretary”.
+    Subsec. (b)(2). [Pub. L. 105–277][/us/pl/105/277], § 1225(a)(6), substituted “and the Secretary of Commerce” for “the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” and struck out “or the Director” after “the relevant Secretary”.
 
-    Subsec. (c). [Pub. L. 105–277, § 1225(a)(7)][/us/pl/105/277/s1225/a/7], struck out “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1225(a)(7), struck out “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
-    1994—Subsec. (a). [Pub. L. 103–236, § 714(a)(3)][/us/pl/103/236/s714/a/3], inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
+    1994—Subsec. (a). [Pub. L. 103–236][/us/pl/103/236], § 714(a)(3), inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
 
-    Subsec. (b)(1). [Pub. L. 103–236, § 714(a)(4)][/us/pl/103/236/s714/a/4], inserted “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
+    Subsec. (b)(1). [Pub. L. 103–236][/us/pl/103/236], § 714(a)(4), inserted “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
-    Subsec. (b)(2). [Pub. L. 103–236, § 714(a)(5)][/us/pl/103/236/s714/a/5], substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
+    Subsec. (b)(2). [Pub. L. 103–236][/us/pl/103/236], § 714(a)(5), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
 
-    Subsec. (c). [Pub. L. 103–236, § 714(a)(6)][/us/pl/103/236/s714/a/6], inserted “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
+    Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 714(a)(6), inserted “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
-    Subsec. (d). [Pub. L. 103–236, § 735(c)][/us/pl/103/236/s735/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–236][/us/pl/103/236], § 735(c), added subsec. (d).
 
  __Change of Name__ 
 
@@ -75,7 +75,7 @@
 
  __Policy and Sense of Congress on Nonproliferation of Ballistic Missiles__ 
 
-[Pub. L. 108–375, div. A, title XII, § 1212][/us/pl/108/375/s1212], Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087], provided that:
+[Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1212, Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -101,13 +101,13 @@
 
  __MTCR Report Transmittals__ 
 
-[Pub. L. 106–280, title VII, § 704][/us/pl/106/280/s704], Oct. 6, 2000, [114 Stat. 861][/us/stat/114/861], provided that: 
+[Pub. L. 106–280, title VII][/us/pl/106/280/tVII], § 704, Oct. 6, 2000, [114 Stat. 861][/us/stat/114/861], provided that: 
 
 > “For purposes of section 71(d) of the Arms Export Control Act ([22 U.S.C. 2797(d)][/us/usc/t22/s2797/d]), the requirement that reports under that section shall be transmitted to the Congress shall be considered to be a requirement that such reports shall be transmitted to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations and the Committee on Banking, Housing and Urban Affairs of the Senate.”
 
  __Report on Missile Proliferation__ 
 
-    [Pub. L. 101–510, div. A, title XVII, § 1704][/us/pl/101/510/s1704], Nov. 5, 1990, [104 Stat. 1749][/us/stat/104/1749], directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by [Pub. L. 102–190, div. A, title X, § 1097(g)][/us/pl/102/190/s1097/g], Dec. 5, 1991, [105 Stat. 1491][/us/stat/105/1491].
+    [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1704, Nov. 5, 1990, [104 Stat. 1749][/us/stat/104/1749], directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1097(g), Dec. 5, 1991, [105 Stat. 1491][/us/stat/105/1491].
 
  __Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities__ 
 
@@ -173,40 +173,40 @@ Sec. 2. Missile Proliferation Sanctions. (a) Arms Export Control Act. The author
 ----------
 
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/101/510/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1703
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1745
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F497
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-773
-[/us/pl/106/280/s708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs708%2Fc
+[/us/pl/106/280/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtVII
 [/us/stat/114/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F863
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
-[/us/pl/105/277/s1225/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fa%2F4
-[/us/pl/105/277/s1225/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fa%2F5
-[/us/pl/105/277/s1225/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fa%2F6
-[/us/pl/105/277/s1225/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1225%2Fa%2F7
-[/us/pl/103/236/s714/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs714%2Fa%2F3
-[/us/pl/103/236/s714/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs714%2Fa%2F4
-[/us/pl/103/236/s714/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs714%2Fa%2F5
-[/us/pl/103/236/s714/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs714%2Fa%2F6
-[/us/pl/103/236/s735/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs735%2Fc
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
-[/us/pl/108/375/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1212
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2087
-[/us/pl/106/280/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs704
+[/us/pl/106/280/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtVII
 [/us/stat/114/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F861
 [/us/usc/t22/s2797/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797%2Fd
-[/us/pl/101/510/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1704
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1749
-[/us/pl/102/190/s1097/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1097%2Fg
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1491
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

@@ -17,7 +17,7 @@
 
     The Commission is authorized and directed to report to the House of Representatives and the Senate with respect to the matters covered by this chapter on a periodic basis and to provide information to Members of the House and Senate as requested. For each fiscal year for which an appropriation is made the Commission shall submit to Congress a report on its expenditures under such appropriation.
 
-([Pub. L. 94–304, § 6][/us/pl/94/304/s6], June 3, 1976, [90 Stat. 662][/us/stat/90/662].)
+([Pub. L. 94–304][/us/pl/94/304], § 6, June 3, 1976, [90 Stat. 662][/us/stat/90/662].)
 
  __Termination of Reporting Requirements__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/304/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs6
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F662
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

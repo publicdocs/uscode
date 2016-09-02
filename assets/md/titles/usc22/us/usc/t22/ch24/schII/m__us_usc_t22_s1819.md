@@ -11,46 +11,27 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1818.md) | [Next](./../../../../..//us/usc/t22/ch24/schIII/m__us_usc_t22_ch24_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1819)
+[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1818.md) | [Next](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1831...1834.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1819)
 
-## § 1819. Repealed. [Pub. L. 95–148, title I][/us/pl/95/148], Oct. 31, 1977, [91 Stat. 1232][/us/stat/91/1232]
+## § 1819. Repealed. [Pub. L. 95–148, title I][/us/pl/95/148/tI], Oct. 31, 1977, [91 Stat. 1232][/us/stat/91/1232]
 
-    Section, [act Aug. 2, 1955, ch. 491, § 108][/us/act/1955-08-02/ch491/s108], [69 Stat. 438][/us/stat/69/438], related to an accounting for military assistance funds.
+    Section, [act Aug. 2, 1955, ch. 491][/us/act/1955-08-02/ch491], § 108, [69 Stat. 438][/us/stat/69/438], related to an accounting for military assistance funds.
 
  __Effective Date of Repeal__ 
 
     [Pub. L. 95–148][/us/pl/95/148] provided that the repeal of this section is effective Oct. 1, 1977.
 
-§§ 1831 to 1834. __Repealed.__  __[__  __Pub. L. 85–141, § 3__  __][/us/pl/85/141/s3]__  __,__  __Aug. 14, 1957__  __,__  __[__  __71 Stat. 356__  __][/us/stat/71/356]__ 
-
-    Section 1831, acts [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title 1, § 121, [68 Stat. 837][/us/stat/68/837]; [July 8, 1955, ch. 301, § 3(a)][/us/act/1955-07-08/ch301/s3/a], [69 Stat. 284][/us/stat/69/284], authorized appropriations for assistance for Southeast Asia and Western Pacific for the fiscal year 1955.
-
-    Sections 1832, 1833, [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title I, §§ 122, 123, [68 Stat. 837][/us/stat/68/837], 838, authorized appropriations for fiscal year 1955 for manufacture in United Kingdom of military aircraft, and for provision of any common-use equipment, materials, commodities, or services which are to be used by military forces of nations receiving assistance.
-
-    Section 1834, [act Aug. 20, 1954, ch. 937][/us/act/1954-08-20/ch937], title I, § 124, as added [July 8, 1955, ch. 301, § 3(b)][/us/act/1955-07-08/ch301/s3/b], [69 Stat. 284][/us/stat/69/284], authorized appropriations for fiscal year 1956 to provide assistance in form of direct forces support to be delivered or rendered directly to military forces of nations eligible for military assistance.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1818.md) | [Next](./../../../../..//us/usc/t22/ch24/schIII/m__us_usc_t22_ch24_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1819)
+[Previous](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1818.md) | [Next](./../../../../..//us/usc/t22/ch24/schII/m__us_usc_t22_s1831...1834.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1819)
 
 ----------
 ----------
 
-[/us/pl/95/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148
+[/us/pl/95/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148%2FtI
 [/us/stat/91/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1232
-[/us/act/1955-08-02/ch491/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-02%2Fch491%2Fs108
+[/us/act/1955-08-02/ch491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-02%2Fch491
 [/us/stat/69/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F438
 [/us/pl/95/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148
-[/us/pl/85/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141%2Fs3
-[/us/stat/71/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F356
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
-[/us/stat/68/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F837
-[/us/act/1955-07-08/ch301/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-08%2Fch301%2Fs3%2Fa
-[/us/stat/69/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F284
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
-[/us/stat/68/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F837
-[/us/act/1954-08-20/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch937
-[/us/act/1955-07-08/ch301/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-08%2Fch301%2Fs3%2Fb
-[/us/stat/69/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F284
 
 

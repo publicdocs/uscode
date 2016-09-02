@@ -55,11 +55,11 @@
 
         (3) the term “State” includes the District of Columbia and any commonwealth, territory, or possession of the United States.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 240B, as added [Pub. L. 102–549, title I, § 109][/us/pl/102/549/s109], Oct. 28, 1992, [106 Stat. 3654][/us/stat/106/3654].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 240B, as added [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 109, Oct. 28, 1992, [106 Stat. 3654][/us/stat/106/3654].)
 
  __Prior Provisions__ 
 
-    A prior section 2200b, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 240B, as added [Pub. L. 97–65, § 10][/us/pl/97/65/s10], Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024], related to return of appropriated funds, prior to repeal by [Pub. L. 99–204, § 15][/us/pl/99/204/s15], Dec. 23, 1985, [99 Stat. 1676][/us/stat/99/1676].
+    A prior section 2200b, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 240B, as added [Pub. L. 97–65][/us/pl/97/65], § 10, Oct. 16, 1981, [95 Stat. 1024][/us/stat/95/1024], related to return of appropriated funds, prior to repeal by [Pub. L. 99–204][/us/pl/99/204], § 15, Dec. 23, 1985, [99 Stat. 1676][/us/stat/99/1676].
 
 ----------
 
@@ -70,12 +70,12 @@
 
 [/us/usc/t19/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs109
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3654
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/97/65/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs10
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1024
-[/us/pl/99/204/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs15
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1676
 
 

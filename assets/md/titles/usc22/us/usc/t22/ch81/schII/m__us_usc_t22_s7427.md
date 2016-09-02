@@ -43,7 +43,7 @@
 
         This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b).
 
-([Pub. L. 107–206, title II, § 2008][/us/pl/107/206/s2008], Aug. 2, 2002, [116 Stat. 905][/us/stat/116/905].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2008, Aug. 2, 2002, [116 Stat. 905][/us/stat/116/905].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t10/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1037
-[/us/pl/107/206/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2008
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F905
 
 

@@ -17,7 +17,7 @@
 
     With respect to a foreign vessel of a country which has inspection laws approximating those of the United States, any such vessel having an unexpired certificate of inspection duly issued by the authorities of such country shall not be subject to an inspection other than that necessary to determine whether the vessel, its boilers, and its lifesaving equipment are as stated in the certificate of inspection. A certificate of inspection may not be accepted as evidence of lawful inspection under this section unless similar privileges are granted to vessels of the United States under the laws of the country to which the vessel belongs.
 
-([Pub. L. 96–70, title I, § 1812][/us/pl/96/70/s1812], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1812, Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1812
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 
 

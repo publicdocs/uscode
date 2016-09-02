@@ -71,19 +71,19 @@
 
             (B) with respect to a city in the United States, did not maintain a mission in that city.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 205, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 285][/us/stat/96/285]; amended [Pub. L. 99–93, title I, § 127(d)][/us/pl/99/93/s127/d], (e), Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 100–204, title I, § 161][/us/pl/100/204/s161], Dec. 22, 1987, [101 Stat. 1356][/us/stat/101/1356]; [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(5), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 205, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 285][/us/stat/96/285]; amended [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 127(d), (e), Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 161, Dec. 22, 1987, [101 Stat. 1356][/us/stat/101/1356]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(o)(5), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
+    1994—Subsec. (a). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(5)(B), struck out “authorize the Director to” before “dispose of”.
+    Subsec. (c)(2). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(5)(B), struck out “authorize the Director to” before “dispose of”.
 
     1987—Subsec. (d). [Pub. L. 100–204][/us/pl/100/204] added subsec. (d).
 
-    1985—Subsec. (a)(1). [Pub. L. 99–93, § 127(e)][/us/pl/99/93/s127/e], substituted “shall” for “may” and inserted “, including any mission to an international organization (as defined in [section 4309(b)(2) of this title][/us/usc/t22/s4309/b/2]),” after “foreign mission” in first sentence, and substituted “The” for “If such a notification is required, the” in second sentence.
+    1985—Subsec. (a)(1). [Pub. L. 99–93][/us/pl/99/93], § 127(e), substituted “shall” for “may” and inserted “, including any mission to an international organization (as defined in [section 4309(b)(2) of this title][/us/usc/t22/s4309/b/2]),” after “foreign mission” in first sentence, and substituted “The” for “If such a notification is required, the” in second sentence.
 
-    Subsec. (b)(3). [Pub. L. 99–93, § 127(d)][/us/pl/99/93/s127/d], added par. (3).
+    Subsec. (b)(3). [Pub. L. 99–93][/us/pl/99/93], § 127(d), added par. (3).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -100,20 +100,20 @@
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F285
-[/us/pl/99/93/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs127%2Fd
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F418
-[/us/pl/100/204/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs161
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1356
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F410
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/99/93/s127/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs127%2Fe
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/usc/t22/s4309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4309%2Fb%2F2
-[/us/pl/99/93/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs127%2Fd
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fb

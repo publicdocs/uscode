@@ -17,9 +17,9 @@
 
     (a) Any securities issued by International Bank for Reconstruction and Development (including any guaranty by the bank, whether or not limited in scope), and any securities guaranteed by the bank as to both principal and interest, shall be deemed to be exempted securities within the meaning of subsection (a)(2) of [section 77c of title 15][/us/usc/t15/s77c], and subsection (a)(12) of [section 78c of title 15][/us/usc/t15/s78c]. The bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the bank and its operations and necessary in the public interest or for the protection of investors.
 
-    (b) Repealed. [Pub. L. 101–240, title V, § 541(d)(1)][/us/pl/101/240/s541/d/1], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].
+    (b) Repealed. [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(1), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].
 
-([July 31, 1945, ch. 339, § 15][/us/act/1945-07-31/ch339/s15], as added [June 29, 1949, ch. 276, § 2][/us/act/1949-06-29/ch276/s2], [63 Stat. 298][/us/stat/63/298]; amended [Pub. L. 101–240, title V, § 541(d)(1)][/us/pl/101/240/s541/d/1], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 15, as added [June 29, 1949, ch. 276][/us/act/1949-06-29/ch276], § 2, [63 Stat. 298][/us/stat/63/298]; amended [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(1), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Amendments__ 
 
@@ -34,12 +34,12 @@
 
 [/us/usc/t15/s77c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/101/240/s541/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F1
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
-[/us/act/1945-07-31/ch339/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs15
-[/us/act/1949-06-29/ch276/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-29%2Fch276%2Fs2
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/act/1949-06-29/ch276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-29%2Fch276
 [/us/stat/63/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F298
-[/us/pl/101/240/s541/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F1
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b

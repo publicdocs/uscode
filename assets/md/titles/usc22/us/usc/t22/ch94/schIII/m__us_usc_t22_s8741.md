@@ -85,7 +85,7 @@
 
         Nothing in this section shall be construed to remove any sanction of the United States in force with respect to Iran’s Revolutionary Guard Corps as of August 10, 2012.
 
-([Pub. L. 112–158, title III, § 301][/us/pl/112/158/s301], Aug. 10, 2012, [126 Stat. 1241][/us/stat/126/1241].)
+([Pub. L. 112–158, title III][/us/pl/112/158/tIII], § 301, Aug. 10, 2012, [126 Stat. 1241][/us/stat/126/1241].)
 
  __Termination of Section__ 
 
@@ -105,7 +105,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8515%2Fc
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/158/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs301
+[/us/pl/112/158/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIII
 [/us/stat/126/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1241
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

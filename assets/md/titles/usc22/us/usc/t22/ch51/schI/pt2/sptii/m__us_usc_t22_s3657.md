@@ -15,7 +15,7 @@
 
 ## § 3657. Recruitment and retention remuneration
 
-    (a) __Repealed.__  __[__  __Pub. L. 105–261, div. C, title XXXV, § 3507(a)__  __][/us/pl/105/261/s3507/a]__  __,__  __Oct. 17, 1998__  __,__  __[__  __112 Stat. 2269__  __][/us/stat/112/2269]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 105–261, div. C, title XXXV__  __][/us/pl/105/261/dC/tXXXV]__  __, § 3507(a),__  __Oct. 17, 1998__  __,__  __[__  __112 Stat. 2269__  __][/us/stat/112/2269]__ 
 
     (b) __Restriction__ 
 
@@ -55,7 +55,7 @@
 
         Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.
 
-([Pub. L. 96–70, title I, § 1217][/us/pl/96/70/s1217], Sept. 27, 1979, [93 Stat. 465][/us/stat/93/465]; [Pub. L. 104–201, div. C, title XXXV, § 3533][/us/pl/104/201/s3533], Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863]; [Pub. L. 105–85, div. C, title XXXV, § 3525(a)][/us/pl/105/85/s3525/a], Nov. 18, 1997, [111 Stat. 2066][/us/stat/111/2066]; [Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1217, Sept. 27, 1979, [93 Stat. 465][/us/stat/93/465]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3533, Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3525(a), Nov. 18, 1997, [111 Stat. 2066][/us/stat/111/2066]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
 
  __Amendments__ 
 
@@ -69,19 +69,19 @@
 
     if, in the judgment of the head of the agency concerned, the recruitment or retention of the individual is essential.”
 
-    1997—Subsecs. (c), (d). [Pub. L. 105–85, § 3525(a)(3)][/us/pl/105/85/s3525/a/3], added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
+    1997—Subsecs. (c), (d). [Pub. L. 105–85][/us/pl/105/85], § 3525(a)(3), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
 
-    Subsec. (e). [Pub. L. 105–85, § 3525(a)(1)][/us/pl/105/85/s3525/a/1], (2), redesignated subsec. (c) as (e) and substituted “of the individual to whom the compensation is paid” for “for the same or similar work performed in the United States by individuals employed by the Government of the United States”.
+    Subsec. (e). [Pub. L. 105–85][/us/pl/105/85], § 3525(a)(1), (2), redesignated subsec. (c) as (e) and substituted “of the individual to whom the compensation is paid” for “for the same or similar work performed in the United States by individuals employed by the Government of the United States”.
 
     1996—Subsec. (d). [Pub. L. 104–201][/us/pl/104/201] struck out subsec. (d) which read as follows: “Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. C, title XXXV, § 3507(a)][/us/pl/105/261/s3507/a], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
+[Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(a), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
 
  __Savings Provision for Basic Pay__ 
 
-[Pub. L. 105–261, div. C, title XXXV, § 3507(b)][/us/pl/105/261/s3507/b], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that: 
+[Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3507(b), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], provided that: 
 
 > “Notwithstanding subsection (a) \[amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title\], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 \[[22 U.S.C. 3658(1)][/us/usc/t22/s3658/1], (2), (3), (5), (6)\], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act \[[22 U.S.C. 3657(a)][/us/usc/t22/s3657/a], 3671(a)(2)(A), (B)\] had been repealed effective 12:00 noon, December 31, 1999. The exception under the preceding sentence shall not apply to any pay for hours of work performed on December 31, 1999.”
 
@@ -96,24 +96,24 @@
 ----------
 ----------
 
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/usc/t5/s2302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fd
-[/us/pl/96/70/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1217
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F465
-[/us/pl/104/201/s3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3533
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2863
-[/us/pl/105/85/s3525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3525%2Fa
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2066
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/85/s3525/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3525%2Fa%2F3
-[/us/pl/105/85/s3525/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3525%2Fa%2F1
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/105/261/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fa
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
-[/us/pl/105/261/s3507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3507%2Fb
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/usc/t22/s3658/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3658%2F1
 [/us/usc/t22/s3657/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3657%2Fa

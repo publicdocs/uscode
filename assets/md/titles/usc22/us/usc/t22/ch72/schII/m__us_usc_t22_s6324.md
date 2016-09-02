@@ -29,7 +29,7 @@
 
     (6) the terms “IAEA safeguards”, “non-nuclear-weapon state”, “nuclear explosive device”, and “special nuclear material” have the meanings given those terms in [section 6305 of this title][/us/usc/t22/s6305].
 
-([Pub. L. 103–236, title VIII, § 844][/us/pl/103/236/s844], Apr. 30, 1994, [108 Stat. 524][/us/stat/108/524].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 844, Apr. 30, 1994, [108 Stat. 524][/us/stat/108/524].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305
-[/us/pl/103/236/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs844
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F524
 
 

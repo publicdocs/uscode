@@ -179,7 +179,7 @@
 
         The Judicial Conference of the United States shall establish a uniform fee that shall be imposed upon the plaintiff or plaintiffs in each action brought under this section. The fee should be established at a level sufficient to recover the costs to the courts of actions brought under this section. The fee under this subsection is in addition to any other fees imposed under title 28.
 
-([Pub. L. 104–114, title III, § 302][/us/pl/104/114/s302], Mar. 12, 1996, [110 Stat. 815][/us/stat/110/815].)
+([Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 302, Mar. 12, 1996, [110 Stat. 815][/us/stat/110/815].)
 
  __References in Text__ 
 
@@ -213,7 +213,7 @@
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
 [/us/usc/t22/s6064/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6064%2Fa
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
-[/us/pl/104/114/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs302
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F815
 [/us/usc/t22/s6085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6085
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54

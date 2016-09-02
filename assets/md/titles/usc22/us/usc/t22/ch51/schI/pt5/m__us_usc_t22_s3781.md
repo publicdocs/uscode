@@ -17,7 +17,7 @@
 
     All property and other assets of the Panama Canal Company shall revert to the United States on October 1, 1979, and, except as otherwise provided by law, the United States shall assume the liabilities, including contractual obligations, of the Panama Canal Company then outstanding. The Commission may use such property, facilities, and records of the Panama Canal Company as are necessary to carry out its functions.
 
-([Pub. L. 96–70, title I, § 1501][/us/pl/96/70/s1501], Sept. 27, 1979, [93 Stat. 487][/us/stat/93/487].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1501, Sept. 27, 1979, [93 Stat. 487][/us/stat/93/487].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1501
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F487
 
 

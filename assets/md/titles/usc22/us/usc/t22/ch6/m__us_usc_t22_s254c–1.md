@@ -19,7 +19,7 @@
 
     (b) Omitted.
 
-([Pub. L. 98–618, title VI, § 601(a)][/us/pl/98/618/s601/a], (b), Nov. 8, 1984, [98 Stat. 3303][/us/stat/98/3303].)
+([Pub. L. 98–618, title VI][/us/pl/98/618/tVI], § 601(a), (b), Nov. 8, 1984, [98 Stat. 3303][/us/stat/98/3303].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/618/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2Fs601%2Fa
+[/us/pl/98/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F618%2FtVI
 [/us/stat/98/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3303
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

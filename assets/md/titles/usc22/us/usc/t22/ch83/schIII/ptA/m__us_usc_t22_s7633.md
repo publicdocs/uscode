@@ -73,7 +73,7 @@
 
             (D) the ability to closely coordinate United States Government efforts with national malaria control plans of partner countries.
 
-([Pub. L. 108–25, title III, § 303][/us/pl/108/25/s303], May 27, 2003, [117 Stat. 736][/us/stat/117/736]; [Pub. L. 110–293, title III, § 303(b)][/us/pl/110/293/s303/b], July 30, 2008, [122 Stat. 2960][/us/stat/122/2960].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 303, May 27, 2003, [117 Stat. 736][/us/stat/117/736]; [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 303(b), July 30, 2008, [122 Stat. 2960][/us/stat/122/2960].)
 
  __References in Text__ 
 
@@ -87,11 +87,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–293, § 303(b)(1)(A)][/us/pl/110/293/s303/b/1/A], substituted “$5,000,000,000 during the 5-year period beginning on October 1, 2008” for “such sums as may be necessary for fiscal years 2004 through 2008”.
+    2008—Subsec. (b)(1). [Pub. L. 110–293][/us/pl/110/293], § 303(b)(1)(A), substituted “$5,000,000,000 during the 5-year period beginning on October 1, 2008” for “such sums as may be necessary for fiscal years 2004 through 2008”.
 
-    Subsec. (b)(3). [Pub. L. 110–293, § 303(b)(1)(B)][/us/pl/110/293/s303/b/1/B], substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+    Subsec. (b)(3). [Pub. L. 110–293][/us/pl/110/293], § 303(b)(1)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-    Subsecs. (c), (d). [Pub. L. 110–293, § 303(b)(2)][/us/pl/110/293/s303/b/2], added subsecs. (c) relating to statement of policy and (d).
+    Subsecs. (c), (d). [Pub. L. 110–293][/us/pl/110/293], § 303(b)(2), added subsecs. (c) relating to statement of policy and (d).
 
 ----------
 
@@ -105,9 +105,9 @@
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s2151b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%934
 [/us/usc/t22/s2151b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc
-[/us/pl/108/25/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs303
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F736
-[/us/pl/110/293/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs303%2Fb
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2960
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -119,8 +119,8 @@
 [/us/pl/108/25/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs303
 [/us/usc/t22/s2151b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%934
 [/us/usc/t22/s2151b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b
-[/us/pl/110/293/s303/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs303%2Fb%2F1%2FA
-[/us/pl/110/293/s303/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs303%2Fb%2F1%2FB
-[/us/pl/110/293/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs303%2Fb%2F2
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 
 

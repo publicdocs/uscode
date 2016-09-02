@@ -39,7 +39,7 @@
 
         For purposes of this section, the term “NATO ally” means a member country of the North Atlantic Treaty Organization (other than the United States).
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 65, as added [Pub. L. 100–456, div. A, title X, § 1003(a)][/us/pl/100/456/s1003/a], Sept. 29, 1988, [102 Stat. 2038][/us/stat/102/2038]; amended [Pub. L. 102–25, title VII, § 705(d)(2)][/us/pl/102/25/s705/d/2], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; [Pub. L. 104–164, title I, § 147(a)(3)(B)][/us/pl/104/164/s147/a/3/B], July 21, 1996, [110 Stat. 1435][/us/stat/110/1435].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 65, as added [Pub. L. 100–456, div. A, title X][/us/pl/100/456/dA/tX], § 1003(a), Sept. 29, 1988, [102 Stat. 2038][/us/stat/102/2038]; amended [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 705(d)(2), Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 147(a)(3)(B), July 21, 1996, [110 Stat. 1435][/us/stat/110/1435].)
 
  __Amendments__ 
 
@@ -57,11 +57,11 @@
 [/us/usc/t50/s98b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b
 [/us/usc/t50/s98b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98b%2Fa
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/100/456/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1003%2Fa
+[/us/pl/100/456/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtX
 [/us/stat/102/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2038
-[/us/pl/102/25/s705/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Fd%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F120
-[/us/pl/104/164/s147/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs147%2Fa%2F3%2FB
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1435
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/usc/t10/s2350a/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350a%2Fi%2F3

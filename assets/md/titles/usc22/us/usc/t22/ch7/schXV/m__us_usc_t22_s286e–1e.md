@@ -17,7 +17,7 @@
 
     The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 1,705 million Special Drawing Rights.
 
-([July 31, 1945, ch. 339, § 25][/us/act/1945-07-31/ch339/s25], as added [Pub. L. 94–564, § 1][/us/pl/94/564/s1], Oct. 19, 1976, [90 Stat. 2660][/us/stat/90/2660].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 25, as added [Pub. L. 94–564][/us/pl/94/564], § 1, Oct. 19, 1976, [90 Stat. 2660][/us/stat/90/2660].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs25
-[/us/pl/94/564/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs1
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2660
 
 

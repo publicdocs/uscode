@@ -53,25 +53,25 @@
 
         (10) otherwise enabling the Foreign Service to serve effectively the interests of the United States and to provide the highest caliber of representation in the conduct of foreign affairs.
 
-([Pub. L. 96–465, title I, § 101][/us/pl/96/465/s101], Oct. 17, 1980, [94 Stat. 2074][/us/stat/94/2074].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 101, Oct. 17, 1980, [94 Stat. 2074][/us/stat/94/2074].)
 
  __References in Text__ 
 
     Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is [act May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], [43 Stat. 140][/us/stat/43/140], as amended, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], [60 Stat. 1037][/us/stat/60/1037], known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
 
-    The Foreign Service Act of 1946, referred to in subsec. (a)(3), is [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], titles I to X, [60 Stat. 999][/us/stat/60/999], as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159], the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
+    The Foreign Service Act of 1946, referred to in subsec. (a)(3), is [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], titles I to X, [60 Stat. 999][/us/stat/60/999], as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159], the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
     This chapter, referred to in subsec. (b), was in the original “this Act”, meaning [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
  __Effective Date__ 
 
-[Pub. L. 96–465, title II, § 2403][/us/pl/96/465/s2403], Oct. 17, 1980, [94 Stat. 2169][/us/stat/94/2169], as amended by [Pub. L. 99–93, title I, § 119(b)][/us/pl/99/93/s119/b], Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412], provided that:
+[Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2403, Oct. 17, 1980, [94 Stat. 2169][/us/stat/94/2169], as amended by [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 119(b), Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412], provided that:
 
 >     “(a) Except as otherwise provided, this Act \[see Short Title note set out below\] shall take effect on February 15, 1981.
 
 >     “(b) Personnel actions may be taken on and after the effective date of this Act on the basis of any then current Foreign Service evaluation cycle as if this Act \[see Short Title note set out below\] had been in effect at the beginning of that cycle.
 
->     “\[(c) Repealed. [Pub. L. 99–93, title I, § 119(b)][/us/pl/99/93/s119/b], Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412], eff. Oct. 1, 1985\]
+>     “\[(c) Repealed. [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 119(b), Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412], eff. Oct. 1, 1985\]
 
 >     “(d)
 
@@ -87,25 +87,25 @@
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–50, § 1][/us/pl/110/50/s1], July 30, 2007, [121 Stat. 261][/us/stat/121/261], provided that: 
+[Pub. L. 110–50][/us/pl/110/50], § 1, July 30, 2007, [121 Stat. 261][/us/stat/121/261], provided that: 
 
 > “This Act \[amending [section 4064 of this title][/us/usc/t22/s4064]\] may be cited as the ‘Passport Backlog Reduction Act of 2007’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–382, § 1][/us/pl/105/382/s1], Nov. 13, 1998, [112 Stat. 3406][/us/stat/112/3406], provided that: 
+[Pub. L. 105–382][/us/pl/105/382], § 1, Nov. 13, 1998, [112 Stat. 3406][/us/stat/112/3406], provided that: 
 
 > “This Act \[amending sections 4044 to 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under [section 4044 of this title][/us/usc/t22/s4044]\] may be cited as the ‘Department of State Special Agents Retirement Act of 1998’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–335, title IV, § 401(a)][/us/pl/99/335/s401/a], June 6, 1986, [100 Stat. 609][/us/stat/100/609], provided that: 
+[Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 401(a), June 6, 1986, [100 Stat. 609][/us/stat/100/609], provided that: 
 
 > “This title \[enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under [section 4046 of this title][/us/usc/t22/s4046]\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 96–465, § 1][/us/pl/96/465/s1], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], provided that: 
+[Pub. L. 96–465][/us/pl/96/465], § 1, Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], provided that: 
 
 > “This Act \[enacting this chapter, sections 2697 to 2704 of this title, and sections 3597, 5927, and 5928 of Title 5, Government Organization and Employees, amending sections 285a, 287, 287e, 287n, 290a, 290g–l, 1928, 2021, 2024, 2056, 2385, 2389, 2391, 2454, 2504, 2506, 2512 to 2514, 2582, 2588, 2605, 2684, 3503 and 4223 of this title, sections 3323, 5102, 5301, 5303, 5304, 5313, 5522, 5523, 5541, 5595, 5596, 5724, 5727, 5924, 5925, 6301, 6304, 6305, 7103, 8332, and 8501 of Title 5, and Reorg. Plan No. 2 of 1939 set out in the Appendix to Title 5, sections 1765a and 1766c of Title 7, Agriculture, [section 2002 of Title 10][/us/usc/t10/s2002], Armed Forces, [section 906 of Title 20][/us/usc/t20/s906], Education, sections 104, 170, 912, and 2055 of Title 26, Internal Revenue Code, section 822a of former Title 31, Money and Finance, [section 405a of Title 37][/us/usc/t37/s405a], Pay and Allowances of the Uniformed Services, former [section 235 of Title 38][/us/usc/t38/s235], Veterans’ Benefits, and [section 5055 of Title 42][/us/usc/t42/s5055], The Public Health and Welfare, repealing subchapters I to X of chapter 14 (§ 801 et seq.) of this title and sections 1221 to 1234, 2679a, 2680a, and 2693 of this title, enacting provisions set out as notes under this section and [section 2651 of this title][/us/usc/t22/s2651], and repealing provisions set out as notes under sections 801, 808, 811a, 886, 889, 912, 913, 936, 1002, 1076, 1079d, 1229, and 2384 of this title\] may be cited as the ‘Foreign Service Act of 1980’.”
 
@@ -314,7 +314,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 ----------
 ----------
 
-[/us/pl/96/465/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs101
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2074
 [/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
 [/us/stat/43/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F140
@@ -322,31 +322,31 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/stat/60/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1037
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F999
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
-[/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2169
-[/us/pl/99/93/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs119%2Fb
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F412
-[/us/pl/99/93/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs119%2Fb
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F412
 [/us/usc/t22/s4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4052
 [/us/usc/t22/s2385/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385%2Fk
 [/us/usc/t22/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4151
 [/us/usc/t22/s4054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054%2Fa
 [/us/usc/t22/s4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4159
-[/us/pl/110/50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F50%2Fs1
+[/us/pl/110/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F50
 [/us/stat/121/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F261
 [/us/usc/t22/s4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4064
-[/us/pl/105/382/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs1
+[/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
 [/us/stat/112/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3406
 [/us/usc/t22/s4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4044
-[/us/pl/99/335/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs401%2Fa
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
-[/us/pl/96/465/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t10/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2002
 [/us/usc/t20/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs906

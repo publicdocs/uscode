@@ -79,11 +79,11 @@
 
         The term “wide-area environmental sampling” has the meaning set forth in Article 18g. of the Additional Protocol.
 
-([Pub. L. 109–401, title II, § 203][/us/pl/109/401/s203], Dec. 18, 2006, [120 Stat. 2742][/us/stat/120/2742].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 203, Dec. 18, 2006, [120 Stat. 2742][/us/stat/120/2742].)
 
  __Codification__ 
 
-    In par. (13)(C), “[section 70502(b) of title 46][/us/usc/t46/s70502/b]” substituted for “section 3(b) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(b))” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 70502 of Title 46][/us/usc/t46/s70502], Shipping.
+    In par. (13)(C), “[section 70502(b) of title 46][/us/usc/t46/s70502/b]” substituted for “section 3(b) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(b))” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 70502 of Title 46][/us/usc/t46/s70502], Shipping.
 
  __Change of Name__ 
 
@@ -99,10 +99,10 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/usc/t46/s70502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502%2Fb
-[/us/pl/109/401/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs203
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2742
 [/us/usc/t46/s70502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502%2Fb
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 

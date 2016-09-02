@@ -33,7 +33,7 @@
 
     (8) The United States should make every effort to ensure that the negotiations described in paragraph (7) lead to procompetitive air service agreements.
 
-([Pub. L. 102–383, title I, § 104][/us/pl/102/383/s104], Oct. 5, 1992, [106 Stat. 1451][/us/stat/106/1451].)
+([Pub. L. 102–383, title I][/us/pl/102/383/tI], § 104, Oct. 5, 1992, [106 Stat. 1451][/us/stat/106/1451].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/383/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs104
+[/us/pl/102/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtI
 [/us/stat/106/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1451
 
 

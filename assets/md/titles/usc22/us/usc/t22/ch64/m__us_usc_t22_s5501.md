@@ -39,7 +39,7 @@
 
         (2) A principal objective of bilateral and multilateral negotiations with foreign governments and the International Civil Aviation Organization shall be improved availability of passenger manifest information.
 
-([Pub. L. 101–604, title II, § 201][/us/pl/101/604/s201], Nov. 16, 1990, [104 Stat. 3081][/us/stat/104/3081].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 201, Nov. 16, 1990, [104 Stat. 3081][/us/stat/104/3081].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 101–604, § 2][/us/pl/101/604/s2], Nov. 16, 1990, [104 Stat. 3066][/us/stat/104/3066], provided that: 
+[Pub. L. 101–604][/us/pl/101/604], § 2, Nov. 16, 1990, [104 Stat. 3066][/us/stat/104/3066], provided that: 
 
 > “Congress finds that—
 
@@ -82,11 +82,11 @@
 ----------
 ----------
 
-[/us/pl/101/604/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs201
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3081
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/stat/99/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F222
-[/us/pl/101/604/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs2
+[/us/pl/101/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604
 [/us/stat/104/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3066
 
 

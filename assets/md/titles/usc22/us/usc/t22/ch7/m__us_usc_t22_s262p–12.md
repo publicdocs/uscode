@@ -33,7 +33,7 @@
 
         The Secretary of the Treasury and the Secretary of State should use all appropriate diplomatic influence to secure cancellation of any and all remaining bilateral, multilateral and private creditor debt owed by Haiti.
 
-([Pub. L. 95–118, title XVI, § 1628][/us/pl/95/118/s1628], as added [Pub. L. 111–158, § 2][/us/pl/111/158/s2], Apr. 26, 2010, [124 Stat. 1121][/us/stat/124/1121].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1628, as added [Pub. L. 111–158][/us/pl/111/158], § 2, Apr. 26, 2010, [124 Stat. 1121][/us/stat/124/1121].)
 
  __Definitions__ 
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t22/s262r/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F3
-[/us/pl/95/118/s1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1628
-[/us/pl/111/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F158%2Fs2
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/111/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F158
 [/us/stat/124/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1121
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 

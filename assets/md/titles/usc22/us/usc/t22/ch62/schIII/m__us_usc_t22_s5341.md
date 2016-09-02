@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Primary Dealers Act of 1988”.
 
-([Pub. L. 100–418, title III, § 3501][/us/pl/100/418/s3501], Aug. 23, 1988, [102 Stat. 1386][/us/stat/102/1386].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3501, Aug. 23, 1988, [102 Stat. 1386][/us/stat/102/1386].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3501
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1386
 
 

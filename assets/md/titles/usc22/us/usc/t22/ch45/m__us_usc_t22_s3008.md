@@ -41,11 +41,11 @@
 
         (3) The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
 
-([Pub. L. 94–304, § 8][/us/pl/94/304/s8], June 3, 1976, [90 Stat. 662][/us/stat/90/662]; [Pub. L. 99–7, § 5][/us/pl/99/7/s5], Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19]; [Pub. L. 104–186, title II, § 218(3)][/us/pl/104/186/s218/3], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747].)
+([Pub. L. 94–304][/us/pl/94/304], § 8, June 3, 1976, [90 Stat. 662][/us/stat/90/662]; [Pub. L. 99–7][/us/pl/99/7], § 5, Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 218(3), Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747].)
 
  __References in Text__ 
 
-    [Section 3304(c) of title 5][/us/usc/t5/s3304/c], referred to in subsec. (d)(2), was repealed and section 3304(d) was redesignated 3304(c) by [Pub. L. 104–65, § 16(a)][/us/pl/104/65/s16/a], (b), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703].
+    [Section 3304(c) of title 5][/us/usc/t5/s3304/c], referred to in subsec. (d)(2), was repealed and section 3304(d) was redesignated 3304(c) by [Pub. L. 104–65][/us/pl/104/65], § 16(a), (b), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703].
 
  __Amendments__ 
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/usc/t5/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2107
-[/us/pl/94/304/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs8
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F662
-[/us/pl/99/7/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs5
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/stat/99/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F19
-[/us/pl/104/186/s218/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs218%2F3
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1747
 [/us/usc/t5/s3304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304%2Fc
-[/us/pl/104/65/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs16%2Fa
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F703
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7

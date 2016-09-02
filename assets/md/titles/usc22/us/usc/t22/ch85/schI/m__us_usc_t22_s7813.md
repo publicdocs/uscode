@@ -27,7 +27,7 @@
 
         (2) outlines a plan for increasing such broadcasts to 12 hours per day, including a detailed description of the technical and fiscal requirements necessary to implement the plan.
 
-([Pub. L. 108–333, title I, § 103][/us/pl/108/333/s103], Oct. 18, 2004, [118 Stat. 1291][/us/stat/118/1291].)
+([Pub. L. 108–333, title I][/us/pl/108/333/tI], § 103, Oct. 18, 2004, [118 Stat. 1291][/us/stat/118/1291].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs103
+[/us/pl/108/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtI
 [/us/stat/118/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1291
 
 

@@ -145,7 +145,7 @@
 
             (C) shall indicate whether noneconomic policy options designed to resolve the pattern of noncompliance have reasonably been exhausted, including the consultations required under [section 9123 of this title][/us/usc/t22/s9123].
 
-([Pub. L. 113–150, title I, § 101][/us/pl/113/150/s101], Aug. 8, 2014, [128 Stat. 1813][/us/stat/128/1813].)
+([Pub. L. 113–150, title I][/us/pl/113/150/tI], § 101, Aug. 8, 2014, [128 Stat. 1813][/us/stat/128/1813].)
 
  __Codification__ 
 
@@ -162,7 +162,7 @@
 [/us/usc/t22/s9122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122%2Fd
 [/us/usc/t22/s9122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122%2Fe
 [/us/usc/t22/s9123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9123
-[/us/pl/113/150/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs101
+[/us/pl/113/150/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtI
 [/us/stat/128/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1813
 [/us/pl/113/150/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs101
 [/us/pl/113/150/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs101

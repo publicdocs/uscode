@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that the position of United States ambassador to a foreign country should be accorded to men and women possessing clearly demonstrated competence to perform ambassadorial duties. No individual should be accorded the position of United States ambassador to a foreign country primarily because of financial contributions to political campaigns.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 18, as added [Pub. L. 94–141, title I, § 104][/us/pl/94/141/s104], Nov. 29, 1975, [89 Stat. 757][/us/stat/89/757]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 18, as added [Pub. L. 94–141, title I][/us/pl/94/141/tI], § 104, Nov. 29, 1975, [89 Stat. 757][/us/stat/89/757]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282].)
 
 ----------
 
@@ -27,9 +27,9 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/94/141/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs104
+[/us/pl/94/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtI
 [/us/stat/89/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F757
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
 
 

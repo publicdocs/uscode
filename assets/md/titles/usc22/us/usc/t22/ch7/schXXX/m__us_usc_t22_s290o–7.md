@@ -23,7 +23,7 @@
 
         The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, may suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
 
-([Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title VII, § 709\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–180.)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title VII, § 709\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–180.)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/usc/t15/s78c/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F12
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 
 

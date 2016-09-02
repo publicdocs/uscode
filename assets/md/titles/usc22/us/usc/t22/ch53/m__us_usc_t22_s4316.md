@@ -35,7 +35,7 @@
 
         The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
-    (d) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 139(3)__  __][/us/pl/103/236/s139/3]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 397__  __][/us/stat/108/397]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 103–236, title I__  __][/us/pl/103/236/tI]__  __, § 139(3),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 397__  __][/us/stat/108/397]__ 
 
     (e) __Definitions__ 
 
@@ -53,7 +53,7 @@
 
             (B) any individual who is retained under contract or other arrangement to serve functions similar to those of an officer, employee, or other staff member.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 216, as added [Pub. L. 100–204, title I, § 162(a)][/us/pl/100/204/s162/a], Dec. 22, 1987, [101 Stat. 1357][/us/stat/101/1357]; amended [Pub. L. 103–236, title I, § 139(3)][/us/pl/103/236/s139/3], Apr. 30, 1994, [108 Stat. 397][/us/stat/108/397].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 216, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 162(a), Dec. 22, 1987, [101 Stat. 1357][/us/stat/101/1357]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(3), Apr. 30, 1994, [108 Stat. 397][/us/stat/108/397].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–204, title I, § 162(b)][/us/pl/100/204/s162/b], Dec. 22, 1987, [101 Stat. 1358][/us/stat/101/1358], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 162(b), Dec. 22, 1987, [101 Stat. 1358][/us/stat/101/1358], provided that: 
 
 > “Subsection (a) of the section enacted by this section \[this section\] shall take effect 90 days after the date of enactment of this Act \[Dec. 22, 1987\].”
 
@@ -80,18 +80,18 @@
 ----------
 ----------
 
-[/us/pl/103/236/s139/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F397
 [/us/usc/t22/s4309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4309%2Fb%2F1
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/204/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs162%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1357
-[/us/pl/103/236/s139/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F3
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F397
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/100/204/s162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs162%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1358
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

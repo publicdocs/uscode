@@ -49,7 +49,7 @@
 
         The President shall report to the Congress annually, in the reports required by [section 3281 of this title][/us/usc/t22/s3281], on the progress made during the preceding year in achieving the objectives described in this section.
 
-([Pub. L. 99–399, title VI, § 601][/us/pl/99/399/s601], Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874].)
+([Pub. L. 99–399, title VI][/us/pl/99/399/tVI], § 601, Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
  __Nuclear Terrorism Prevention__ 
 
-[Pub. L. 110–181, div. C, title XXXI][/us/pl/110/181], subtitle D, Jan. 28, 2008, [122 Stat. 586][/us/stat/122/586], provided that:
+[Pub. L. 110–181, div. C, title XXXI][/us/pl/110/181/dC/tXXXI], subtitle D, Jan. 28, 2008, [122 Stat. 586][/us/stat/122/586], provided that:
 
 > “SEC. 3131. __DEFINITIONS.__ 
 
@@ -163,9 +163,9 @@
 ----------
 
 [/us/usc/t22/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281
-[/us/pl/99/399/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs601
+[/us/pl/99/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVI
 [/us/stat/100/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F874
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXI
 [/us/stat/122/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F586
 [/us/usc/t50/s2569/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2569%2Fb
 [/us/pl/110/181/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3134

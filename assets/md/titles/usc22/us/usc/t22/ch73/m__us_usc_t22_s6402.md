@@ -97,13 +97,13 @@
 
         (B) any of the following acts if committed on account of an individual’s religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, beating, torture, mutilation, rape, enslavement, murder, and execution.
 
-([Pub. L. 105–292, § 3][/us/pl/105/292/s3], Oct. 27, 1998, [112 Stat. 2790][/us/stat/112/2790].)
+([Pub. L. 105–292][/us/pl/105/292], § 3, Oct. 27, 1998, [112 Stat. 2790][/us/stat/112/2790].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
 
-    [Section 3021(i) of title 50][/us/usc/t50/s3021/i], referred to in par. (12), was redesignated section 3021(k) by [Pub. L. 110–53, title XVIII, § 1841(g)(1)][/us/pl/110/53/s1841/g/1], Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500].
+    [Section 3021(i) of title 50][/us/usc/t50/s3021/i], referred to in par. (12), was redesignated section 3021(k) by [Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1841(g)(1), Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500].
 
  __Change of Name__ 
 
@@ -128,13 +128,13 @@
 [/us/usc/t50/s3021/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021%2Fi
 [/us/usc/t22/s6401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6401%2Fa%2F2
 [/us/usc/t22/s6401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6401%2Fa%2F3
-[/us/pl/105/292/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs3
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2790
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787
 [/us/usc/t22/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6401
 [/us/usc/t50/s3021/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021%2Fi
-[/us/pl/110/53/s1841/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1841%2Fg%2F1
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F500
 
 

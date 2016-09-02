@@ -21,7 +21,7 @@
 
         This section shall not apply if the National Defense Authorization Act for Fiscal Year 1993 enacts the same authorities and requirements as are contained in this section and authorizes the appropriation of the same (or a greater) amount to carry out such authorities.
 
-([Pub. L. 102–511, title V, § 509][/us/pl/102/511/s509], Oct. 24, 1992, [106 Stat. 3343][/us/stat/106/3343].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 509, Oct. 24, 1992, [106 Stat. 3343][/us/stat/106/3343].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs509
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3343
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2315

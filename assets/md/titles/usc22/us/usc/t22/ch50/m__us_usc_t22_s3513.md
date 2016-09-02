@@ -17,7 +17,7 @@
 
     The authorities contained in this chapter shall expire on September 30, 1984.
 
-([Pub. L. 96–53, title IV, § 414][/us/pl/96/53/s414], Aug. 14, 1979, [93 Stat. 377][/us/stat/93/377].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 414, Aug. 14, 1979, [93 Stat. 377][/us/stat/93/377].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/53/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs414
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F377
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371

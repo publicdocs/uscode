@@ -65,7 +65,7 @@
 
         The limitation set forth in subsection (a) that relates to [section 2348 of this title][/us/usc/t22/s2348] shall not apply to programs that support military professionalization, security sector reform, heightened respect for human rights, peacekeeping preparation, or the demobilization and reintegration of child soldiers.
 
-([Pub. L. 110–457, title IV, § 404][/us/pl/110/457/s404], Dec. 23, 2008, [122 Stat. 5089][/us/stat/122/5089]; [Pub. L. 113–4, title XII, § 1208][/us/pl/113/4/s1208], Mar. 7, 2013, [127 Stat. 142][/us/stat/127/142].)
+([Pub. L. 110–457, title IV][/us/pl/110/457/tIV], § 404, Dec. 23, 2008, [122 Stat. 5089][/us/stat/122/5089]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1208, Mar. 7, 2013, [127 Stat. 142][/us/stat/127/142].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–4, § 1208(1)][/us/pl/113/4/s1208/1], substituted “(b) through (f), the authorities contained in sections 2321j, 2347, and 2348 of this title” for “(b), (c), and (d), the authorities contained in section 2321j or 2347 of this title”.
+    2013—Subsec. (a). [Pub. L. 113–4][/us/pl/113/4], § 1208(1), substituted “(b) through (f), the authorities contained in sections 2321j, 2347, and 2348 of this title” for “(b), (c), and (d), the authorities contained in section 2321j or 2347 of this title”.
 
-    Subsec. (f). [Pub. L. 113–4, § 1208(2)][/us/pl/113/4/s1208/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 113–4][/us/pl/113/4], § 1208(2), added subsec. (f).
 
  __Effective Date__ 
 
@@ -96,15 +96,15 @@
 [/us/usc/t22/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb
 [/us/usc/t10/s2557/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2557%2Fd%2F1%2FB
 [/us/usc/t22/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2348
-[/us/pl/110/457/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs404
+[/us/pl/110/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIV
 [/us/stat/122/5089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5089
-[/us/pl/113/4/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1208
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F142
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/113/4/s1208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1208%2F1
-[/us/pl/113/4/s1208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1208%2F2
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/110/457/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs407
 [/us/usc/t22/s2370c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370c
 

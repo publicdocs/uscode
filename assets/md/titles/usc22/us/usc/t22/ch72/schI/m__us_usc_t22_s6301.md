@@ -113,7 +113,7 @@
 
             If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
-([Pub. L. 103–236, title VIII, § 821][/us/pl/103/236/s821], Apr. 30, 1994, [108 Stat. 508][/us/stat/108/508].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 821, Apr. 30, 1994, [108 Stat. 508][/us/stat/108/508].)
 
  __References in Text__ 
 
@@ -125,19 +125,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–236, title VIII, § 831][/us/pl/103/236/s831], Apr. 30, 1994, [108 Stat. 522][/us/stat/108/522], provided that: 
+[Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 831, Apr. 30, 1994, [108 Stat. 522][/us/stat/108/522], provided that: 
 
 > “The provisions of this part \[part B (§§ 821–831) of title VIII of [Pub. L. 103–236][/us/pl/103/236], enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, [section 635 of Title 12][/us/usc/t12/s635], Banks and Banking, and [section 2160c of Title 42][/us/usc/t42/s2160c], The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under [section 2799aa of this title][/us/usc/t22/s2799aa]\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
 
  __Short Title__ 
 
-[Pub. L. 103–236, title VIII, § 801][/us/pl/103/236/s801], Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507], provided that: 
+[Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 801, Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507], provided that: 
 
 > “This title \[enacting this chapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, 2780, and 3281 of this title, [section 635 of Title 12][/us/usc/t12/s635], Banks and Banking, and [section 2160c of Title 42][/us/usc/t42/s2160c], The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as notes under this section and [section 2799aa of this title][/us/usc/t22/s2799aa]\] may be cited as the ‘Nuclear Proliferation Prevention Act of 1994’.”
 
  __Termination Upon Enactment of Next Foreign Relations Act__ 
 
-    [Pub. L. 103–236, title VIII, § 851][/us/pl/103/236/s851], Apr. 30, 1994, [108 Stat. 525][/us/stat/108/525], which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of [Pub. L. 103–236][/us/pl/103/236], the provisions of parts A (amending [section 3281 of this title][/us/usc/t22/s3281]) and B (see Effective Date note above) of title VIII of [Pub. L. 103–236][/us/pl/103/236] were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by [Pub. L. 104–164, title I, § 157(a)][/us/pl/104/164/s157/a], July 21, 1996, [110 Stat. 1440][/us/stat/110/1440].
+    [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 851, Apr. 30, 1994, [108 Stat. 525][/us/stat/108/525], which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of [Pub. L. 103–236][/us/pl/103/236], the provisions of parts A (amending [section 3281 of this title][/us/usc/t22/s3281]) and B (see Effective Date note above) of title VIII of [Pub. L. 103–236][/us/pl/103/236] were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 157(a), July 21, 1996, [110 Stat. 1440][/us/stat/110/1440].
 
  __Assignment of Certain Functions Relating to Procurement Sanctions on Persons Engaging in Export Activities that Contribute to Proliferation__ 
 
@@ -162,26 +162,26 @@
 
 [/us/usc/t22/s6305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F2
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
-[/us/pl/103/236/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs821
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F508
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
-[/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F522
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t42/s2160c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160c
 [/us/usc/t22/s2799aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa
-[/us/pl/103/236/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs801
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F507
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t42/s2160c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160c
 [/us/usc/t22/s2799aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa
-[/us/pl/103/236/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs851
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F525
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/104/164/s157/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs157%2Fa
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1440
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301

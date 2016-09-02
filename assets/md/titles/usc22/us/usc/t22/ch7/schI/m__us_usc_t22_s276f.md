@@ -17,7 +17,7 @@
 
     The United States group of the Canada-United States Interparliamentary group shall submit to the Congress a report for each fiscal year for which an appropriation is made including its expenditures under such appropriation.
 
-([Pub. L. 86–42, § 3][/us/pl/86/42/s3], June 11, 1959, [73 Stat. 73][/us/stat/73/73].)
+([Pub. L. 86–42][/us/pl/86/42], § 3, June 11, 1959, [73 Stat. 73][/us/stat/73/73].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/42/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F42%2Fs3
+[/us/pl/86/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F42
 [/us/stat/73/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F73
 
 

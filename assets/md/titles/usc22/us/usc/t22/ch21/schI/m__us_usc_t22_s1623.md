@@ -87,7 +87,7 @@
 
         In exercising authority granted after October 8, 1986, under this chapter or any other Act, the Commission, in determining the value of claims of the Government of the United States or of nationals of the United States (as defined in this chapter or such other Act) against any foreign government for losses arising from the nationalization or other taking of property, shall comply with the principles set forth in subsection (a)(2) of this section.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title I, § 4, [64 Stat. 13][/us/stat/64/13]; [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], §§ 1, 2, [69 Stat. 562][/us/stat/69/562]; [Pub. L. 90–421, § 1(1)][/us/pl/90/421/s1/1], July 24, 1968, [82 Stat. 420][/us/stat/82/420]; [Pub. L. 99–451, § 1][/us/pl/99/451/s1], Oct. 8, 1986, [100 Stat. 1138][/us/stat/100/1138]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2211, Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title I, § 4, [64 Stat. 13][/us/stat/64/13]; [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], §§ 1, 2, [69 Stat. 562][/us/stat/69/562]; [Pub. L. 90–421][/us/pl/90/421], § 1(1), July 24, 1968, [82 Stat. 420][/us/stat/82/420]; [Pub. L. 99–451][/us/pl/99/451], § 1, Oct. 8, 1986, [100 Stat. 1138][/us/stat/100/1138]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2211, Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812].)
 
  __References to This Subchapter Deemed To Include Section 119 of H.R. 2076__ 
 
@@ -95,15 +95,15 @@
 
  __Codification__ 
 
-    In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act of 1946” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act of 1946” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
     1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277] added par. (1), redesignated second sentence as par. (2) and former pars. (1) and (2) as subpars. (A) and (B), respectively, and struck out former first sentence which read as follows: “The Commission shall have jurisdiction to receive, examine, adjudicate, and render final decisions with respect to claims of the Government of the United States and of nationals of the United States included within the terms of the Yugoslav Claims Agreement of 1948, or included within the terms of any claims agreement on and after March 10, 1954 concluded between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof.”
 
-    1986—Subsec. (a). [Pub. L. 99–451, § 1(a)][/us/pl/99/451/s1/a], amended second sentence generally. Prior to amendment, second sentence read as follows: “In the decision of claims under this subchapter, the Commission shall apply the following in the following order: (1) The provisions of the applicable claims agreement as provided in this subsection; and (2) the applicable principles of international law, justice, and equity.”
+    1986—Subsec. (a). [Pub. L. 99–451][/us/pl/99/451], § 1(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the decision of claims under this subchapter, the Commission shall apply the following in the following order: (1) The provisions of the applicable claims agreement as provided in this subsection; and (2) the applicable principles of international law, justice, and equity.”
 
-    Subsec. (k). [Pub. L. 99–451, § 1(b)][/us/pl/99/451/s1/b], added subsec. (k).
+    Subsec. (k). [Pub. L. 99–451][/us/pl/99/451], § 1(b), added subsec. (k).
 
     1968—Subsec. (f). [Pub. L. 90–421][/us/pl/90/421] struck out provisions which authorized the Commission to determine the amount of attorney’s fees, such fees not to exceed 10% of the award and any written agreement between attorney and claimant as to fees to be conclusive upon the Commission, if the agreed upon fees do not exceed 10% of the award, provisions which authorized the Secretary of the Treasury to deduct the fees from the amount of the award and to pay it directly to the attorney, any agreement to the contrary to be unlawful and void, provisions which authorized the Commission to give notice by mail to each claimant of the provisions of this subsection, and provisions which authorized the Commission to recover any fees paid in contravention of this subsection, the recipient to forfeit all rights under this subchapter.
 
@@ -113,7 +113,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–451, § 2][/us/pl/99/451/s2], Oct. 8, 1986, [100 Stat. 1139][/us/stat/100/1139], provided that: 
+[Pub. L. 99–451][/us/pl/99/451], § 2, Oct. 8, 1986, [100 Stat. 1139][/us/stat/100/1139], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall apply to any claim pending on the date of the enactment of this Act \[Oct. 8, 1986\] and to any other claim determined after such date.”
 
@@ -125,7 +125,7 @@
 
  __Protests Relating to Awards by Commission; Notice by Publication in Federal Register__ 
 
-[Act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title VI, § 615, as added [Pub. L. 94–542][/us/pl/94/542], Oct. 18, 1976, [90 Stat. 2512][/us/stat/90/2512], provided that: 
+[Act Mar. 10, 1950, ch. 54, title VI][/us/act/1950-03-10/ch54/tVI], § 615, as added [Pub. L. 94–542][/us/pl/94/542], Oct. 18, 1976, [90 Stat. 2512][/us/stat/90/2512], provided that: 
 
 > “Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by [Public Law 87–846][/us/pl/87/846] \[[50 U.S.C. 4140][/us/usc/t50/s4140], 4141\], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 ([68 Stat. 1279][/us/stat/68/1279]) \[set out under [section 1622 of this title][/us/usc/t22/s1622]\] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission’s mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment \[Oct. 18, 1976\]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modify awards made during the subject period in accordance with the procedures established by the War Claims Act of 1948 \[[50 U.S.C. 4101][/us/usc/t50/s4101] et seq.\], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act \[[50 U.S.C. 4143][/us/usc/t50/s4143]\].”
 
@@ -141,25 +141,25 @@
 [/us/stat/64/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F13
 [/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
-[/us/pl/90/421/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F1
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F420
-[/us/pl/99/451/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451%2Fs1
+[/us/pl/99/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451
 [/us/stat/100/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1138
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-812
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/usc/t22/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1644
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/99/451/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451%2Fs1%2Fa
-[/us/pl/99/451/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451%2Fs1%2Fb
+[/us/pl/99/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451
+[/us/pl/99/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451
 [/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
-[/us/pl/99/451/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451%2Fs2
+[/us/pl/99/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F451
 [/us/stat/100/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1139
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622
-[/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
+[/us/act/1950-03-10/ch54/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54%2FtVI
 [/us/pl/94/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F542
 [/us/stat/90/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2512
 [/us/pl/87/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F846

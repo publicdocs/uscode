@@ -27,7 +27,7 @@
 
         The Commission shall annually pay to each uniformed service amounts sufficient to reimburse that uniformed service for any basic pay paid by that uniformed service to any member of that service during any period of service in the Commission by the member.
 
-([Pub. L. 96–70, title I, § 1204][/us/pl/96/70/s1204], Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1204, Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1204
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F461
 
 

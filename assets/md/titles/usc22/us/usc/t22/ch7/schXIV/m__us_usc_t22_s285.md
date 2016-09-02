@@ -17,11 +17,11 @@
 
     The President is hereby authorized to accept membership for the United States in the Asian Development Bank (hereinafter referred to as the “Bank”) provided for by the agreement establishing the Bank (hereinafter referred to as the “agreement”) deposited in the archives of the United Nations.
 
-([Pub. L. 89–369, § 2][/us/pl/89/369/s2], Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71].)
+([Pub. L. 89–369][/us/pl/89/369], § 2, Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71].)
 
  __Short Title__ 
 
-[Pub. L. 89–369, § 1][/us/pl/89/369/s1], Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71], provided: 
+[Pub. L. 89–369][/us/pl/89/369], § 1, Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71], provided: 
 
 > “That this Act \[enacting this subchapter and amending [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking\] may be cited as the ‘Asian Development Bank Act’.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/89/369/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs2
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/stat/80/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F71
-[/us/pl/89/369/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs1
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/stat/80/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F71
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/usc/t31/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5152

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s445.md) | [Next](./../../../../..//us/usc/t22/ch9/schII/m__us_usc_t22_s447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs446)
 
-## § 446. Repealed. [Nov. 17, 1941, ch. 473, § 2][/us/act/1941-11-17/ch473/s2], [55 Stat. 764][/us/stat/55/764]
+## § 446. Repealed. [Nov. 17, 1941, ch. 473][/us/act/1941-11-17/ch473], § 2, [55 Stat. 764][/us/stat/55/764]
 
-    Section, Joint Res. [Nov. 4, 1939, ch. 2, § 6][/us/act/1939-11-04/ch2/s6], [54 Stat. 7][/us/stat/54/7], prohibited arming of American merchant vessels. Joint Res. Nov. 17, 1941, § 2, which repealed this section, was itself repealed, effective July 1, 1948, by Joint Res. [July 25, 1947, ch. 327, § 2(a)][/us/act/1947-07-25/ch327/s2/a], [61 Stat. 451][/us/stat/61/451], which provided that it should remain in full force and effect until such date.
+    Section, Joint Res. [Nov. 4, 1939, ch. 2][/us/act/1939-11-04/ch2], § 6, [54 Stat. 7][/us/stat/54/7], prohibited arming of American merchant vessels. Joint Res. Nov. 17, 1941, § 2, which repealed this section, was itself repealed, effective July 1, 1948, by Joint Res. [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 2(a), [61 Stat. 451][/us/stat/61/451], which provided that it should remain in full force and effect until such date.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/act/1941-11-17/ch473/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-17%2Fch473%2Fs2
+[/us/act/1941-11-17/ch473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-17%2Fch473
 [/us/stat/55/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F764
-[/us/act/1939-11-04/ch2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2%2Fs6
+[/us/act/1939-11-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-11-04%2Fch2
 [/us/stat/54/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F7
-[/us/act/1947-07-25/ch327/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs2%2Fa
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 
 

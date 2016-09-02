@@ -47,7 +47,7 @@
 
         The Board of Trustees should ensure full and prompt public disclosure of the proposed objectives, financial organization, and operations of the Trust Fund.
 
-([Pub. L. 106–264, title I, § 123][/us/pl/106/264/s123], Aug. 19, 2000, [114 Stat. 756][/us/stat/114/756].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 123, Aug. 19, 2000, [114 Stat. 756][/us/stat/114/756].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t22/s6821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6821%2Fa
-[/us/pl/106/264/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs123
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F756
 
 

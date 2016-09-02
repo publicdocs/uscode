@@ -69,13 +69,13 @@
 
         Projects and activities under the programs established pursuant to subsection (a) may include, among other things, training and technical assistance (including drafting of anti-corruption, privatization, and competitive statutory and administrative codes), drafting of anti-corruption, privatization, and competitive statutory and administrative codes, support for independent media and publications, financing of the program and operating costs of nongovernmental organizations that carry out such projects or activities, and assistance for travel of individuals to the United States and other countries for such projects and activities.
 
-    (d) __Repealed.__  __[__  __Pub. L. 112–74, div. I, title VII, § 7034(n)__  __][/us/pl/112/74/s7034/n]__  __,__  __Dec. 23, 2011__  __,__  __[__  __125 Stat. 1217__  __][/us/stat/125/1217]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 112–74, div. I, title VII__  __][/us/pl/112/74/dI/tVII]__  __, § 7034(n),__  __Dec. 23, 2011__  __,__  __[__  __125 Stat. 1217__  __][/us/stat/125/1217]__ 
 
     (e) __Funding__ 
 
         Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[[22 U.S.C. 5401][/us/usc/t22/s5401] et seq.\] shall be made available to carry out this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 133, as added [Pub. L. 106–309, title II, § 205(a)][/us/pl/106/309/s205/a], Oct. 17, 2000, [114 Stat. 1092][/us/stat/114/1092]; amended [Pub. L. 107–228, div. A, title VI, § 672(a)][/us/pl/107/228/s672/a], Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407]; [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 133, as added [Pub. L. 106–309, title II][/us/pl/106/309/tII], § 205(a), Oct. 17, 2000, [114 Stat. 1092][/us/stat/114/1092]; amended [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 672(a), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407]; [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 
     2011—Subsec. (d). [Pub. L. 112–74][/us/pl/112/74] struck out subsec. (d) which related to biennial reports.
 
-    2002—Subsec. (d). [Pub. L. 107–228, § 672(a)(1)][/us/pl/107/228/s672/a/1], substituted “Biennial reports” for “Annual report” in heading.
+    2002—Subsec. (d). [Pub. L. 107–228][/us/pl/107/228], § 672(a)(1), substituted “Biennial reports” for “Annual report” in heading.
 
-    Subsec. (d)(1). [Pub. L. 107–228, § 672(a)(2)][/us/pl/107/228/s672/a/2], substituted “a biennial report” for “an annual report” in introductory provisions and “preceding two-year period” for “prior year” in subpars. (A) and (B).
+    Subsec. (d)(1). [Pub. L. 107–228][/us/pl/107/228], § 672(a)(2), substituted “a biennial report” for “an annual report” in introductory provisions and “preceding two-year period” for “prior year” in subpars. (A) and (B).
 
  __Delegation of Functions__ 
 
@@ -101,13 +101,13 @@
 
  __Transition__ 
 
-[Pub. L. 107–228, div. A, title VI, § 672(b)][/us/pl/107/228/s672/b], Sept. 30, 2002, [116 Stat. 1408][/us/stat/116/1408], provided that: 
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 672(b), Sept. 30, 2002, [116 Stat. 1408][/us/stat/116/1408], provided that: 
 
 > “The first biennial report under section 133(d) of the Foreign Assistance Act of 1961 (\[former\] [22 U.S.C. 2152c(d)][/us/usc/t22/s2152c/d]), as amended by subsection (a), is required to be submitted not later than two years after the date of submission of the last annual report required under such section 133 (as in effect before the date of enactment of this Act \[Sept. 30, 2002\]).”
 
  __Findings and Purpose__ 
 
-[Pub. L. 106–309, title II, § 202][/us/pl/106/309/s202], Oct. 17, 2000, [114 Stat. 1090][/us/stat/114/1090], provided that:
+[Pub. L. 106–309, title II][/us/pl/106/309/tII], § 202, Oct. 17, 2000, [114 Stat. 1090][/us/stat/114/1090], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -119,7 +119,7 @@
 
 >         “(3) In January 1997 the United Nations General Assembly adopted a resolution urging member states to carefully consider the problems posed by the international aspects of corrupt practices and to study appropriate legislative and regulatory measures to ensure the transparency and integrity of financial systems.
 
->         “(4) The United States was the first country to criminalize international bribery through the enactment of the Foreign Corrupt Practices Act of 1977 \[[Pub. L. 95–213, title I][/us/pl/95/213], see Tables for classification\] and United States leadership was instrumental in the passage of the Organization for Economic Cooperation and Development (OECD) Convention on Combatting Bribery of Foreign Public Officials in International Business Transactions.
+>         “(4) The United States was the first country to criminalize international bribery through the enactment of the Foreign Corrupt Practices Act of 1977 \[[Pub. L. 95–213, title I][/us/pl/95/213/tI], see Tables for classification\] and United States leadership was instrumental in the passage of the Organization for Economic Cooperation and Development (OECD) Convention on Combatting Bribery of Foreign Public Officials in International Business Transactions.
 
 >         “(5) The Vice President, at the Global Forum on Fighting Corruption in 1999, declared corruption to be a direct threat to the rule of law and the Secretary of State declared corruption to be a matter of profound political and social consequence for our efforts to strengthen democratic governments.
 
@@ -157,7 +157,7 @@
 
  __Deadline for Initial Report__ 
 
-    [Pub. L. 106–309, title II, § 205(b)][/us/pl/106/309/s205/b], Oct. 17, 2000, [114 Stat. 1094][/us/stat/114/1094], required transmission of the initial annual report under former [22 U.S.C. 2152c(d)(1)][/us/usc/t22/s2152c/d/1] not later than 180 days after Oct. 17, 2000.
+    [Pub. L. 106–309, title II][/us/pl/106/309/tII], § 205(b), Oct. 17, 2000, [114 Stat. 1094][/us/stat/114/1094], required transmission of the initial annual report under former [22 U.S.C. 2152c(d)(1)][/us/usc/t22/s2152c/d/1] not later than 180 days after Oct. 17, 2000.
 
 ----------
 
@@ -168,15 +168,15 @@
 
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/309/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs205%2Fa
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1092
-[/us/pl/107/228/s672/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs672%2Fa
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1407
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
@@ -186,17 +186,17 @@
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/pl/107/228/s672/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs672%2Fa%2F1
-[/us/pl/107/228/s672/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs672%2Fa%2F2
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/107/228/s672/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs672%2Fb
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1408
 [/us/usc/t22/s2152c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152c%2Fd
-[/us/pl/106/309/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs202
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1090
-[/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
+[/us/pl/95/213/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2FtI
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/309/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs205%2Fb
+[/us/pl/106/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtII
 [/us/stat/114/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1094
 [/us/usc/t22/s2152c/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152c%2Fd%2F1
 

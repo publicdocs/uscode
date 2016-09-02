@@ -51,7 +51,7 @@
 
         shall in the case of their respective agencies exercise the functions vested in the Secretary by this chapter.
 
-([Pub. L. 96–465, title I, § 202][/us/pl/96/465/s202], Oct. 17, 1980, [94 Stat. 2078][/us/stat/94/2078]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(k)(1), title XIV, § 1422(b)(4)(A), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 332\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–439.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 202, Oct. 17, 1980, [94 Stat. 2078][/us/stat/94/2078]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(k)(1), title XIV, § 1422(b)(4)(A), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 332\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–439.)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 
     1999—Subsec. (a)(4). [Pub. L. 106–113][/us/pl/106/113] added par. (4).
 
-    1998—Subsec. (a)(1). [Pub. L. 105–277, § 1422(b)(4)(A)][/us/pl/105/277/s1422/b/4/A], substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+    1998—Subsec. (a)(1). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
-    [Pub. L. 105–277, § 1335(k)(1)][/us/pl/105/277/s1335/k/1], substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
  __Change of Name__ 
 
@@ -101,18 +101,18 @@ Section 1. The Director of the United States Information Agency is hereby author
 [/us/usc/t22/s3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3943
 [/us/usc/t22/s3951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951%2Fa
 [/us/usc/t22/s3921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3921%2Fb
-[/us/pl/96/465/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs202
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2078
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/277/s1422/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F4%2FA
-[/us/pl/105/277/s1335/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/pl/105/277/s1335/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F1

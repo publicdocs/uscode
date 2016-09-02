@@ -65,7 +65,7 @@
 
             Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
 
-([Pub. L. 87–293, title I, § 8E][/us/pl/87/293/s8E], as added [Pub. L. 112–57, § 2][/us/pl/112/57/s2], Nov. 21, 2011, [125 Stat. 740][/us/stat/125/740].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8E, as added [Pub. L. 112–57][/us/pl/112/57], § 2, Nov. 21, 2011, [125 Stat. 740][/us/stat/125/740].)
 
 ----------
 
@@ -76,8 +76,8 @@
 
 [/us/usc/t22/s2507a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507a
 [/us/usc/t22/s2507b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507b
-[/us/pl/87/293/s8E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8E
-[/us/pl/112/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F740
 
 

@@ -17,7 +17,7 @@
 
     Cost-of-living adjustments for annuitants under this System shall be granted under procedures in [section 8462 of title 5][/us/usc/t5/s8462] in the same manner as such adjustments are made for annuitants referred to in subsection (c)(3)(B)(ii) of such section.
 
-([Pub. L. 96–465, title I, § 858][/us/pl/96/465/s858], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 619][/us/stat/100/619].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 858, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 619][/us/stat/100/619].)
 
  __Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t5/s8462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8462
-[/us/pl/96/465/s858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs858
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F619
 [/us/pl/103/66/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11001
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340

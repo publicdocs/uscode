@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the payment by the United States of its share of the expenses of the United Nations as apportioned by the General Assembly in accordance with article 17 of the Charter, and for all necessary salaries and expenses of the representatives provided for in [section 287 of this title][/us/usc/t22/s287], and of their appropriate staffs, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; travel expenses without regard to the Standardized Government Travel Regulations, as amended, subchapter I of chapter 57 and [section 5731 of title 5][/us/usc/t5/s5731] and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; allowances for living quarters, including heat, fuel, and light, as authorized by [section 5912 of title 5][/us/usc/t5/s5912]; cost-of-living allowances for personnel stationed abroad under such rules and regulations as the Secretary of State may prescribe; communications services; stenographic reporting, translating, and other services, by contract; hire of passenger motor vehicles and other local transportation; rent of offices; printing and binding without regard to [section 501 of title 44][/us/usc/t44/s501]; allowances and expenses as provided in [section 287r of this title][/us/usc/t22/s287r], and allowances and expenses equivalent to those provided in [section 4085 of this title][/us/usc/t22/s4085]; the lease or rental (for periods not exceeding ten years) of living quarters for the use of the representatives provided for in [section 287 of this title][/us/usc/t22/s287] serving abroad and of their appropriate staffs the cost of installation and use of telephones in the same manner as telephone service is provided for use of the Foreign Service pursuant to [section 1348 of title 31][/us/usc/t31/s1348], and unusual expenses similar to those authorized by [section 5913 of title 5][/us/usc/t5/s5913], incident to the operation and maintenance of such living quarters abroad; and such other expenses as may be authorized by the Secretary of State; all without regard to [section 6101 of title 41][/us/usc/t41/s6101].
 
-([Dec. 20, 1945, ch. 583, § 8][/us/act/1945-12-20/ch583/s8], formerly § 7, [59 Stat. 621][/us/stat/59/621], renumbered and amended [Oct. 10, 1949, ch. 660, § 6][/us/act/1949-10-10/ch660/s6], [63 Stat. 736][/us/stat/63/736]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title II, § 202(2), title XI, § 1106(a), [63 Stat. 954][/us/stat/63/954], 972; [Pub. L. 86–707, title III, § 311(b)][/us/pl/86/707/s311/b], Sept. 6, 1960, [74 Stat. 797][/us/stat/74/797]; [Pub. L. 96–465, title II, § 2206(a)(2)(B)][/us/pl/96/465/s2206/a/2/B], Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161]; [Pub. L. 97–241, title I, § 119][/us/pl/97/241/s119], Aug. 24, 1982, [96 Stat. 280][/us/stat/96/280]; [Pub. L. 100–459, title III, § 304(a)][/us/pl/100/459/s304/a], Oct. 1, 1988, [102 Stat. 2207][/us/stat/102/2207].)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 8, formerly § 7, [59 Stat. 621][/us/stat/59/621], renumbered and amended [Oct. 10, 1949, ch. 660][/us/act/1949-10-10/ch660], § 6, [63 Stat. 736][/us/stat/63/736]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title II, § 202(2), title XI, § 1106(a), [63 Stat. 954][/us/stat/63/954], 972; [Pub. L. 86–707, title III][/us/pl/86/707/tIII], § 311(b), Sept. 6, 1960, [74 Stat. 797][/us/stat/74/797]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(2)(B), Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 119, Aug. 24, 1982, [96 Stat. 280][/us/stat/96/280]; [Pub. L. 100–459, title III][/us/pl/100/459/tIII], § 304(a), Oct. 1, 1988, [102 Stat. 2207][/us/stat/102/2207].)
 
  __References in Text__ 
 
@@ -25,17 +25,17 @@
 
  __Codification__ 
 
-    In text, “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], which Act enacted Title 5, Government Organization and Employees.
+    In text, “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], which Act enacted Title 5, Government Organization and Employees.
 
-    In text, “subchapter I of chapter 57 and [section 5731 of title 5][/us/usc/t5/s5731]” substituted for “the Travel Expense Act of 1949, and [section 10 of the Act of March 3, 1933][/us/act/1933-03-03/s10], as amended \[[5 U.S.C. 73b][/us/usc/t5/s73b]\]” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], which Act enacted Title 5.
+    In text, “subchapter I of chapter 57 and [section 5731 of title 5][/us/usc/t5/s5731]” substituted for “the Travel Expense Act of 1949, and [section 10 of the Act of March 3, 1933][/us/act/1933-03-03/s10], as amended \[[5 U.S.C. 73b][/us/usc/t5/s73b]\]” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], which Act enacted Title 5.
 
-    In text, “[section 5912 of title 5][/us/usc/t5/s5912]” and “[section 5913 of title 5][/us/usc/t5/s5913]” substituted for “the Act approved June 26, 1930 ([5 U.S.C. 118a][/us/usc/t5/s118a])” and “section 22 of the Administrative Expenses Act of 1946, as amended by section 311 of the Overseas Differentials and Allowances Act \[[5 U.S.C. 3039][/us/usc/t5/s3039]\]”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], which Act enacted Title 5.
+    In text, “[section 5912 of title 5][/us/usc/t5/s5912]” and “[section 5913 of title 5][/us/usc/t5/s5913]” substituted for “the Act approved June 26, 1930 ([5 U.S.C. 118a][/us/usc/t5/s118a])” and “section 22 of the Administrative Expenses Act of 1946, as amended by section 311 of the Overseas Differentials and Allowances Act \[[5 U.S.C. 3039][/us/usc/t5/s3039]\]”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], which Act enacted Title 5.
 
-    In text, “[section 501 of title 44][/us/usc/t44/s501]” substituted for “[section 11 of the Act of March 1, 1919][/us/act/1919-03-01/s11] ([44 U.S.C. 111][/us/usc/t44/s111])” on authority of [Pub. L. 90–620, § 2(b)][/us/pl/90/620/s2/b], Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], which Act enacted Title 44, Public Printing and Documents.
+    In text, “[section 501 of title 44][/us/usc/t44/s501]” substituted for “[section 11 of the Act of March 1, 1919][/us/act/1919-03-01/s11] ([44 U.S.C. 111][/us/usc/t44/s111])” on authority of [Pub. L. 90–620][/us/pl/90/620], § 2(b), Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], which Act enacted Title 44, Public Printing and Documents.
 
-    In text, “[section 1348 of title 31][/us/usc/t31/s1348]” substituted for “the Act of August 23, 1912, as amended ([31 U.S.C. 679][/us/usc/t31/s679])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance.
+    In text, “[section 1348 of title 31][/us/usc/t31/s1348]” substituted for “the Act of August 23, 1912, as amended ([31 U.S.C. 679][/us/usc/t31/s679])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], which Act enacted Title 31, Money and Finance.
 
-    In text, “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -69,29 +69,29 @@
 
  __Taxation of Internet or International Currency Transactions__ 
 
-[Pub. L. 107–77, title IV, § 404][/us/pl/107/77/s404], Nov. 28, 2001, [115 Stat. 789][/us/stat/115/789], provided that: 
+[Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 404, Nov. 28, 2001, [115 Stat. 789][/us/stat/115/789], provided that: 
 
 > “Hereafter, none of the funds appropriated or otherwise made available for the United Nations may be used by the United Nations for the promulgation or enforcement of any treaty, resolution, or regulation authorizing the United Nations, or any of its specialized agencies or affiliated organizations, to tax any aspect of the Internet or international currency transactions.”
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IV, § 405\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–96.
+    [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title IV, § 405\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–96.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title IV, § 406\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–45.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title IV, § 406\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–45.
 
  __Refund of Excess Contributions__ 
 
-[Pub. L. 107–228, div. A, title I, § 113(e)][/us/pl/107/228/s113/e], Sept. 30, 2002, [116 Stat. 1359][/us/stat/116/1359], provided that: 
+[Pub. L. 107–228, div. A, title I][/us/pl/107/228/dA/tI], § 113(e), Sept. 30, 2002, [116 Stat. 1359][/us/stat/116/1359], provided that: 
 
 > “The United States shall continue to insist that the United Nations and its specialized and affiliated agencies shall credit or refund to each member of the organization or agency concerned its proportionate share of the amount by which the total contributions to the organization or agency exceed the expenditures of the regular assessed budget of the organization or agency.”
 
     Similar provisions were contained in the following prior authorization act:
 
-    [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title I, § 106(g)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–416.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title I, § 106(g)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–416.
 
  __Reduction in Appropriations for Contributions to International Organizations If Official Status, Accreditation, or Recognition Is Granted to Organization Seeking Legalization of Pedophilia__ 
 
-[Pub. L. 103–236, title I, § 102(g)][/us/pl/103/236/s102/g], Apr. 30, 1994, [108 Stat. 389][/us/stat/108/389], as amended by [Pub. L. 103–415, § 1][/us/pl/103/415/s1](o), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 102(g), Apr. 30, 1994, [108 Stat. 389][/us/stat/108/389], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(o), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that: 
 
 > “Notwithstanding any other provision of law, the funds authorized to be appropriated for the United Nations and its affiliated agencies in ‘Contributions for International Organizations’ shall be reduced in the amount of $118,875,000 for fiscal year 1995, and for each year thereafter, until the President certifies to the Speaker of the House of Representatives and the President of the Senate that no United Nations agency or United Nations affiliated agency grants any official status, accreditation, or recognition to any organization which promotes and condones or seeks the legalization of pedophilia, or which includes as a subsidiary or member any such organization.”
 
@@ -99,7 +99,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Membership of Palestine Liberation Organization in United Nations Agencies__ 
 
-[Pub. L. 101–246, title IV, § 414][/us/pl/101/246/s414], Feb. 16, 1990, [104 Stat. 70][/us/stat/104/70], provided that:
+[Pub. L. 101–246, title IV][/us/pl/101/246/tIV], § 414, Feb. 16, 1990, [104 Stat. 70][/us/stat/104/70], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -111,7 +111,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Probable Exemptions to United Nations Employee Hiring Freeze__ 
 
-[Pub. L. 100–204, title VII, § 701][/us/pl/100/204/s701], Dec. 22, 1987, [101 Stat. 1383][/us/stat/101/1383], as amended by [Pub. L. 102–138, title I, § 163][/us/pl/102/138/s163], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676], provided that:
+[Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 701, Dec. 22, 1987, [101 Stat. 1383][/us/stat/101/1383], as amended by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 163, Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -181,7 +181,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Housing Allowances of International Civil Servants__ 
 
-[Pub. L. 100–204, title VII, § 703][/us/pl/100/204/s703], Dec. 22, 1987, [101 Stat. 1389][/us/stat/101/1389], provided that:
+[Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 703, Dec. 22, 1987, [101 Stat. 1389][/us/stat/101/1389], provided that:
 
 >     “(a)  __United States Policy__  __.—__ 
 
@@ -193,7 +193,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Reform in Budget Decision-Making Procedures of United Nations and its Specialized Agencies__ 
 
-[Pub. L. 103–236, title IV, § 409(a)][/us/pl/103/236/s409/a]–(d), Apr. 30, 1994, [108 Stat. 454][/us/stat/108/454], as amended by [Pub. L. 107–228, div. A, title IV, § 405(b)(2)][/us/pl/107/228/s405/b/2], Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391], provided that:
+[Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 409(a)–(d), Apr. 30, 1994, [108 Stat. 454][/us/stat/108/454], as amended by [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 405(b)(2), Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391], provided that:
 
 >     “(a)  __Assessed Contributions__  __.—__ 
 
@@ -207,21 +207,21 @@ Similar provisions were contained in the following appropriation acts:
 
 >     Subject to the availability of appropriations, payment of assessed contributions for prior years may be made to the United Nations or any of its specialized agencies notwithstanding subsection (a) if such payment would further United States interests in that organization.
 
->     “\[(d) Repealed. [Pub. L. 107–228, div. A, title IV, § 405(b)(2)][/us/pl/107/228/s405/b/2], Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391].\]”
+>     “\[(d) Repealed. [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 405(b)(2), Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391].\]”
 
     \[Functions of President under [section 409 of Pub. L. 103–236][/us/pl/103/236/s409], set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under [section 2370a of this title][/us/usc/t22/s2370a].\]
 
     Similar provisions were contained in the following prior authorization act:
 
-    [Pub. L. 102–138, title I, § 162(a)][/us/pl/102/138/s162/a]–(d), Oct. 28, 1991, [105 Stat. 675][/us/stat/105/675]; repealed by [Pub. L. 103–236, title I, § 139(21)][/us/pl/103/236/s139/21], title IV, § 409(e), Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399], 454, as amended by [Pub. L. 103–415, § 1(aa)][/us/pl/103/415/s1/aa], Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302].
+    [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 162(a)–(d), Oct. 28, 1991, [105 Stat. 675][/us/stat/105/675]; repealed by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(21), title IV, § 409(e), Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399], 454, as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(aa), Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302].
 
-    [Pub. L. 101–246, title IV, § 405][/us/pl/101/246/s405], Feb. 16, 1990, [104 Stat. 65][/us/stat/104/65], provided that progress had been made in formulation and implementation of budget reforms by United Nations and its specialized agencies but that limitation on United States assessed contributions would continue until President made specific determinations on continued implementation of decisionmaking procedures on budget matters, elimination of abuse of secondment in United Nations Secretariat, and reduction in staff of United Nations Secretariat, prior to repeal by [Pub. L. 102–138, title I, § 162(e)][/us/pl/102/138/s162/e], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].
+    [Pub. L. 101–246, title IV][/us/pl/101/246/tIV], § 405, Feb. 16, 1990, [104 Stat. 65][/us/stat/104/65], provided that progress had been made in formulation and implementation of budget reforms by United Nations and its specialized agencies but that limitation on United States assessed contributions would continue until President made specific determinations on continued implementation of decisionmaking procedures on budget matters, elimination of abuse of secondment in United Nations Secretariat, and reduction in staff of United Nations Secretariat, prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 162(e), Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].
 
-    [Pub. L. 99–93, title I, § 143][/us/pl/99/93/s143], Aug. 16, 1985, [99 Stat. 424][/us/stat/99/424], as amended by [Pub. L. 100–204, title VII, § 702(b)][/us/pl/100/204/s702/b], Dec. 22, 1987, [101 Stat. 1386][/us/stat/101/1386], provided for limitation on assessed contributions of United States until reform in budget decisionmaking procedures of United Nations and its specialized agencies had been formulated and implemented as determined by President and reported to Congress, prior to repeal by [Pub. L. 102–138, title I, § 162(e)][/us/pl/102/138/s162/e], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].
+    [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 143, Aug. 16, 1985, [99 Stat. 424][/us/stat/99/424], as amended by [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 702(b), Dec. 22, 1987, [101 Stat. 1386][/us/stat/101/1386], provided for limitation on assessed contributions of United States until reform in budget decisionmaking procedures of United Nations and its specialized agencies had been formulated and implemented as determined by President and reported to Congress, prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 162(e), Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].
 
  __Employees of the United Nations__ 
 
-[Pub. L. 99–93, title I, § 151][/us/pl/99/93/s151], Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428], provided that:
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 151, Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428], provided that:
 
 >     “(a)  __Initial Report__  __.—__ 
 
@@ -241,7 +241,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Restrictions Relating to the Palestine Liberation Organization and the South West Africa People’s Organization__ 
 
-[Pub. L. 98–164, title I, § 114][/us/pl/98/164/s114], Nov. 22, 1983, [97 Stat. 1020][/us/stat/97/1020], as amended by [Pub. L. 99–93, title I, § 144][/us/pl/99/93/s144], Aug. 16, 1985, [99 Stat. 424][/us/stat/99/424]; [Pub. L. 100–204, title VII, § 705][/us/pl/100/204/s705], Dec. 22, 1987, [101 Stat. 1390][/us/stat/101/1390], provided that:
+[Pub. L. 98–164, title I][/us/pl/98/164/tI], § 114, Nov. 22, 1983, [97 Stat. 1020][/us/stat/97/1020], as amended by [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 144, Aug. 16, 1985, [99 Stat. 424][/us/stat/99/424]; [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 705, Dec. 22, 1987, [101 Stat. 1390][/us/stat/101/1390], provided that:
 
 >     “(a)
 
@@ -277,7 +277,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Limit on Payments to United Nations and Affiliated Agencies__ 
 
-[Pub. L. 103–236, title IV, § 404(b)(1)][/us/pl/103/236/s404/b/1], (2), Apr. 30, 1994, [108 Stat. 447][/us/stat/108/447], as amended by [Pub. L. 107–228, div. A, title IV, § 402(a)][/us/pl/107/228/s402/a], Sept. 30, 2002, [116 Stat. 1388][/us/stat/116/1388]; [Pub. L. 110–161, div. J, title I, § 113][/us/pl/110/161/s113], Dec. 26, 2007, [121 Stat. 2288][/us/stat/121/2288]; [Pub. L. 111–8, div. H, title VII, § 7051][/us/pl/111/8/s7051], Mar. 11, 2009, [123 Stat. 893][/us/stat/123/893]; [Pub. L. 111–117, div. F, title VII, § 7051][/us/pl/111/117/s7051], Dec. 16, 2009, [123 Stat. 3378][/us/stat/123/3378], provided that:
+[Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 404(b)(1), (2), Apr. 30, 1994, [108 Stat. 447][/us/stat/108/447], as amended by [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 402(a), Sept. 30, 2002, [116 Stat. 1388][/us/stat/116/1388]; [Pub. L. 110–161, div. J, title I][/us/pl/110/161/dJ/tI], § 113, Dec. 26, 2007, [121 Stat. 2288][/us/stat/121/2288]; [Pub. L. 111–8, div. H, title VII][/us/pl/111/8/dH/tVII], § 7051, Mar. 11, 2009, [123 Stat. 893][/us/stat/123/893]; [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7051, Dec. 16, 2009, [123 Stat. 3378][/us/stat/123/3378], provided that:
 
 >     “(1)  __Fiscal years 1994 and 1995__  __.—__ 
 
@@ -305,11 +305,11 @@ Similar provisions were contained in the following appropriation acts:
 
 >             “(vi) For assessments made during calendar year 2010, 27.3 percent.”
 
-\[[Pub. L. 108–447, div. B, title IV, § 411][/us/pl/108/447/s411], Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905], provided that during fiscal year 2005, [section 404(b)(2)(B) of Pub. L. 103–236][/us/pl/103/236/s404/b/2/B], set out above, would be administered as though the final clause read as follows:
+\[[Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], § 411, Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905], provided that during fiscal year 2005, [section 404(b)(2)(B) of Pub. L. 103–236][/us/pl/103/236/s404/b/2/B], set out above, would be administered as though the final clause read as follows:
 
     \[“(v) For assessments made during calendar year 2005, 27.1 percent.”\]
 
-[Pub. L. 103–236, title IV, § 410][/us/pl/103/236/s410], Apr. 30, 1994, [108 Stat. 454][/us/stat/108/454], provided that: 
+[Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 410, Apr. 30, 1994, [108 Stat. 454][/us/stat/108/454], provided that: 
 
 > “The United States shall not make any voluntary or assessed contribution—
 
@@ -319,7 +319,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >     during any period in which such membership is effective.”
 
-[Pub. L. 92–544, title I, § 101][/us/pl/92/544/s101], Oct. 25, 1972, [86 Stat. 1110][/us/stat/86/1110], as amended by [Pub. L. 94–141, title II, § 203][/us/pl/94/141/s203], Nov. 29, 1975, [89 Stat. 762][/us/stat/89/762]; [Pub. L. 103–236, title IV, § 404(b)(3)][/us/pl/103/236/s404/b/3], Apr. 30, 1994, [108 Stat. 447][/us/stat/108/447]; [Pub. L. 107–228, div. A, title IV, § 402(b)][/us/pl/107/228/s402/b], Sept. 30, 2002, [116 Stat. 1389][/us/stat/116/1389], provided that: 
+[Pub. L. 92–544, title I][/us/pl/92/544/tI], § 101, Oct. 25, 1972, [86 Stat. 1110][/us/stat/86/1110], as amended by [Pub. L. 94–141, title II][/us/pl/94/141/tII], § 203, Nov. 29, 1975, [89 Stat. 762][/us/stat/89/762]; [Pub. L. 103–236, title IV][/us/pl/103/236/tIV], § 404(b)(3), Apr. 30, 1994, [108 Stat. 447][/us/stat/108/447]; [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 402(b), Sept. 30, 2002, [116 Stat. 1389][/us/stat/116/1389], provided that: 
 
 > “Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[[Pub. L. 103–236][/us/pl/103/236]\] ([22 U.S.C. 287e][/us/usc/t22/s287e] note), after December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 ([22 U.S.C. 287e][/us/usc/t22/s287e] note), appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 33⅓ per centum of the budget for the respective activity: the International Atomic Energy Agency, the joint financing program of the International Civil Aviation Organization, and contributions for international peacekeeping activities conducted by or under the auspices of the United Nations or through multilateral agreements.”
 
@@ -346,45 +346,45 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t31/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1348
 [/us/usc/t5/s5913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5913
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/act/1945-12-20/ch583/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs8
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F621
-[/us/act/1949-10-10/ch660/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660%2Fs6
+[/us/act/1949-10-10/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660
 [/us/stat/63/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F736
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F954
-[/us/pl/86/707/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs311%2Fb
+[/us/pl/86/707/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtIII
 [/us/stat/74/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F797
-[/us/pl/96/465/s2206/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F2%2FB
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2161
-[/us/pl/97/241/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs119
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F280
-[/us/pl/100/459/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs304%2Fa
+[/us/pl/100/459/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtIII
 [/us/stat/102/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2207
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5731
 [/us/act/1933-03-03/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs10
 [/us/usc/t5/s73b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s5912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5912
 [/us/usc/t5/s5913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5913
 [/us/usc/t5/s118a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs118a
 [/us/usc/t5/s3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3039
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
 [/us/act/1919-03-01/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-01%2Fs11
 [/us/usc/t44/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs111
-[/us/pl/90/620/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs2%2Fb
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1305
 [/us/usc/t31/s1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1348
 [/us/usc/t31/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs679
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287
@@ -408,89 +408,89 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t22/s269a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs269a
-[/us/pl/107/77/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs404
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F789
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/107/228/s113/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs113%2Fe
+[/us/pl/107/228/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtI
 [/us/stat/116/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1359
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/103/236/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs102%2Fg
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F389
-[/us/pl/103/415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4301
 [/us/pl/103/236/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs102%2Fg
 [/us/usc/t22/s2370a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370a
-[/us/pl/101/246/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs414
+[/us/pl/101/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIV
 [/us/stat/104/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F70
-[/us/pl/100/204/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs701
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1383
-[/us/pl/102/138/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs163
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F676
-[/us/pl/100/204/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs703
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1389
-[/us/pl/103/236/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs409%2Fa
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F454
-[/us/pl/107/228/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fb%2F2
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1391
 [/us/stat/108/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F382
-[/us/pl/107/228/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fb%2F2
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1391
 [/us/pl/103/236/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs409
 [/us/usc/t22/s2370a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370a
-[/us/pl/102/138/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs162%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F675
-[/us/pl/103/236/s139/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F21
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F399
-[/us/pl/103/415/s1/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Faa
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4302
-[/us/pl/101/246/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs405
+[/us/pl/101/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIV
 [/us/stat/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F65
-[/us/pl/102/138/s162/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs162%2Fe
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F676
-[/us/pl/99/93/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs143
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F424
-[/us/pl/100/204/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs702%2Fb
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1386
-[/us/pl/102/138/s162/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs162%2Fe
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F676
-[/us/pl/99/93/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs151
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F428
-[/us/pl/98/164/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs114
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1020
-[/us/pl/99/93/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs144
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F424
-[/us/pl/100/204/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs705
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1390
 [/us/pl/97/241/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs104%2Fc
 [/us/pl/97/241/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs104%2Fc
-[/us/pl/103/236/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs404%2Fb%2F1
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F447
-[/us/pl/107/228/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs402%2Fa
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1388
-[/us/pl/110/161/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs113
+[/us/pl/110/161/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtI
 [/us/stat/121/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2288
-[/us/pl/111/8/s7051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7051
+[/us/pl/111/8/dH/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdH%2FtVII
 [/us/stat/123/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F893
-[/us/pl/111/117/s7051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7051
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3378
 [/us/pl/92/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544
 [/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e
-[/us/pl/108/447/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs411
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2905
 [/us/pl/103/236/s404/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs404%2Fb%2F2%2FB
-[/us/pl/103/236/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs410
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F454
-[/us/pl/92/544/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544%2Fs101
+[/us/pl/92/544/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F544%2FtI
 [/us/stat/86/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1110
-[/us/pl/94/141/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs203
+[/us/pl/94/141/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtII
 [/us/stat/89/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F762
-[/us/pl/103/236/s404/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs404%2Fb%2F3
+[/us/pl/103/236/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIV
 [/us/stat/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F447
-[/us/pl/107/228/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs402%2Fb
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1389
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s287e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287e

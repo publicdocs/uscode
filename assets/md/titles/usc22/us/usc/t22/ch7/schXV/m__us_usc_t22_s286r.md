@@ -17,7 +17,7 @@
 
     The provisions of article XXI(b) of the Articles of Agreement of the Fund shall have full force and effect in the United States and its territories and possessions when the United States becomes a participant in the special drawing account.
 
-([Pub. L. 90–349, § 7][/us/pl/90/349/s7], June 19, 1968, [82 Stat. 189][/us/stat/82/189]; [Pub. L. 94–564, § 5(4)][/us/pl/94/564/s5/4], Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661].)
+([Pub. L. 90–349][/us/pl/90/349], § 7, June 19, 1968, [82 Stat. 189][/us/stat/82/189]; [Pub. L. 94–564][/us/pl/94/564], § 5(4), Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/90/349/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349%2Fs7
+[/us/pl/90/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349
 [/us/stat/82/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F189
-[/us/pl/94/564/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs5%2F4
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2661
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512

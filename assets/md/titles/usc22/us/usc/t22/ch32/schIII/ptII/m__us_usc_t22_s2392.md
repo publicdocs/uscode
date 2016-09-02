@@ -43,13 +43,13 @@
 
         Any appropriation or account available to carry out provisions of subchapter I of this chapter may initially be charged in any fiscal year, within the limit of available funds, to finance expenses for which funds are available in other appropriations or accounts under subchapter I of this chapter: Provided, That as of the end of such fiscal year such expenses shall be finally charged to applicable appropriations or accounts with proper credit to the appropriations or accounts initially utilized for financing purposes: Provided further, That such final charge to applicable appropriations or accounts shall not be required in the case of expenses (other than those provided for under [section 2397(a) of this title][/us/usc/t22/s2397/a]) incurred in furnishing assistance by the agency primarily responsible for administering subchapter I of this chapter where it is determined that the accounting costs of identifying the applicable appropriation or account to which such expenses should be charged would be disproportionate to the advantage to be gained.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 632, Sept. 4, 1961, [75 Stat. 453][/us/stat/75/453]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(g), Nov. 14, 1967, [81 Stat. 460][/us/stat/81/460]; [Pub. L. 90–267, § 1(a)][/us/pl/90/267/s1/a], Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(b)(3), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 94–329, title I, § 106(b)(4)][/us/pl/94/329/s106/b/4], June 30, 1976, [90 Stat. 733][/us/stat/90/733]; [Pub. L. 100–690, title IV, § 4506][/us/pl/100/690/s4506], Nov. 18, 1988, [102 Stat. 4286][/us/stat/102/4286]; [Pub. L. 101–165, title IX, § 9104(b)(2)][/us/pl/101/165/s9104/b/2], Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 632, Sept. 4, 1961, [75 Stat. 453][/us/stat/75/453]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(g), Nov. 14, 1967, [81 Stat. 460][/us/stat/81/460]; [Pub. L. 90–267][/us/pl/90/267], § 1(a), Mar. 13, 1968, [82 Stat. 47][/us/stat/82/47]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(b)(3), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(b)(4), June 30, 1976, [90 Stat. 733][/us/stat/90/733]; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4506, Nov. 18, 1988, [102 Stat. 4286][/us/stat/102/4286]; [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9104(b)(2), Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    The Assignment of Claims Act of 1940, as amended, referred to in subsec. (e), means [act Oct. 9, 1940, ch. 779][/us/act/1940-10-09/ch779], [54 Stat. 1029][/us/stat/54/1029], which added the second and third pars. to section 203 of former Title 31, Money and Finance, and the second and third pars. to section 15 of former Title 41, Public Contracts. Section 203 of former Title 31 was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as [section 3727 of Title 31][/us/usc/t31/s3727], Money and Finance. Such second and third pars. were restated in section 3727(b) (last sentence) and (c) of Title 31. Section 15 of former Title 41 was amended generally by [Pub. L. 103–355, title II, § 2451][/us/pl/103/355/s2451], Oct. 13, 1994, [108 Stat. 3324][/us/stat/108/3324], and was repealed and restated as [section 6305 of Title 41][/us/usc/t41/s6305], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855.
+    The Assignment of Claims Act of 1940, as amended, referred to in subsec. (e), means [act Oct. 9, 1940, ch. 779][/us/act/1940-10-09/ch779], [54 Stat. 1029][/us/stat/54/1029], which added the second and third pars. to section 203 of former Title 31, Money and Finance, and the second and third pars. to section 15 of former Title 41, Public Contracts. Section 203 of former Title 31 was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof as [section 3727 of Title 31][/us/usc/t31/s3727], Money and Finance. Such second and third pars. were restated in section 3727(b) (last sentence) and (c) of Title 31. Section 15 of former Title 41 was amended generally by [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2451, Oct. 13, 1994, [108 Stat. 3324][/us/stat/108/3324], and was repealed and restated as [section 6305 of Title 41][/us/usc/t41/s6305], Public Contracts, by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855.
 
     [Section 1782(a) of this title][/us/usc/t22/s1782/a], referred to in subsec. (f), was repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460].
 
@@ -63,11 +63,11 @@
 
     1988—Subsec. (c). [Pub. L. 100–690][/us/pl/100/690] inserted “or, in the case of services procured from the Department of Defense to carry out part VIII of subchapter I of this chapter, the amount of the additional costs incurred by the Department of Defense in providing such services,” after “at actual cost,”.
 
-    1976—Subsec. (a). [Pub. L. 94–329, § 106(b)(4)(A)][/us/pl/94/329/s106/b/4/A], inserted “military education and training” after “articles”.
+    1976—Subsec. (a). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(4)(A), inserted “military education and training” after “articles”.
 
-    Subsec. (b). [Pub. L. 94–329, § 106(b)(4)(B)][/us/pl/94/329/s106/b/4/B], substituted “defense articles, or military education and training” for “and defense articles”.
+    Subsec. (b). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(4)(B), substituted “defense articles, or military education and training” for “and defense articles”.
 
-    Subsec. (e). [Pub. L. 94–329, § 106(b)(4)(A)][/us/pl/94/329/s106/b/4/A], inserted “military education and training” after “articles”.
+    Subsec. (e). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(4)(A), inserted “military education and training” after “articles”.
 
     1968—Subsec. (d). [Pub. L. 90–629][/us/pl/90/629] struck out references to sections 2342 and 2343 of this title in the exception provision.
 
@@ -106,25 +106,25 @@
 [/us/stat/75/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F453
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F460
-[/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa
+[/us/pl/90/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267
 [/us/stat/82/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F47
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1327
-[/us/pl/94/329/s106/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F4
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F733
-[/us/pl/100/690/s4506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4506
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4286
-[/us/pl/101/165/s9104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9104%2Fb%2F2
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1152
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/act/1940-10-09/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch779
 [/us/stat/54/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1029
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/usc/t31/s3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3727
-[/us/pl/103/355/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2451
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3324
 [/us/usc/t41/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6305
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
@@ -136,9 +136,9 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/101/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/94/329/s106/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F4%2FA
-[/us/pl/94/329/s106/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F4%2FB
-[/us/pl/94/329/s106/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F4%2FA
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/90/267/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F267%2Fs1%2Fa

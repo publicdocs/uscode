@@ -71,7 +71,7 @@
 
         Each annual report required by [section 2394(a) of this title][/us/usc/t22/s2394/a] shall include, in a separate volume, a report on the implementation of this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 119, as added [Pub. L. 98–164, title VII, § 702][/us/pl/98/164/s702], Nov. 22, 1983, [97 Stat. 1045][/us/stat/97/1045]; amended [Pub. L. 99–529, title III, § 302][/us/pl/99/529/s302], Oct. 24, 1986, [100 Stat. 3017][/us/stat/100/3017]; [Pub. L. 101–167, title V, § 533(d)(4)(A)][/us/pl/101/167/s533/d/4/A], Nov. 21, 1989, [103 Stat. 1227][/us/stat/103/1227].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 119, as added [Pub. L. 98–164, title VII][/us/pl/98/164/tVII], § 702, Nov. 22, 1983, [97 Stat. 1045][/us/stat/97/1045]; amended [Pub. L. 99–529, title III][/us/pl/99/529/tIII], § 302, Oct. 24, 1986, [100 Stat. 3017][/us/stat/100/3017]; [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 533(d)(4)(A), Nov. 21, 1989, [103 Stat. 1227][/us/stat/103/1227].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -79,7 +79,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2151q, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 119, as added [Pub. L. 95–88, title I, § 114][/us/pl/95/88/s114], Aug. 3, 1977, [91 Stat. 538][/us/stat/91/538]; amended [Pub. L. 95–424, title I, § 111][/us/pl/95/424/s111], Oct. 6, 1978, [92 Stat. 948][/us/stat/92/948]; [Pub. L. 96–53, title I][/us/pl/96/53], §§ 104(c), 107, Aug. 14, 1979, [93 Stat. 362][/us/stat/93/362], related to renewable and unconventional energy technologies, prior to repeal by [Pub. L. 96–533, title III, § 304(g)][/us/pl/96/533/s304/g], Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147].
+    A prior section 2151q, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 119, as added [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 114, Aug. 3, 1977, [91 Stat. 538][/us/stat/91/538]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 111, Oct. 6, 1978, [92 Stat. 948][/us/stat/92/948]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], §§ 104(c), 107, Aug. 14, 1979, [93 Stat. 362][/us/stat/93/362], related to renewable and unconventional energy technologies, prior to repeal by [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 304(g), Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147].
 
  __Amendments__ 
 
@@ -114,22 +114,22 @@
 [/us/usc/t22/s2151b/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc%2F2
 [/us/usc/t22/s2394/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/98/164/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs702
+[/us/pl/98/164/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVII
 [/us/stat/97/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1045
-[/us/pl/99/529/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs302
+[/us/pl/99/529/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2FtIII
 [/us/stat/100/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3017
-[/us/pl/101/167/s533/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs533%2Fd%2F4%2FA
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1227
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/88/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs114
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F538
-[/us/pl/95/424/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs111
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F948
-[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F362
-[/us/pl/96/533/s304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fg
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3147
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
 [/us/usc/t22/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2420

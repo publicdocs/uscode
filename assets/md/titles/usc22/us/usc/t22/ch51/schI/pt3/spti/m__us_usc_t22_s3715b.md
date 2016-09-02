@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall, upon request of the Secretary of Labor, transfer funds from the Fund to the Employees’ Compensation Fund to reimburse the Employees’ Compensation Fund for the total cost of workers’ compensation benefits and other payments described in [section 3715a(a) of this title][/us/usc/t22/s3715a/a] that are provided on or after October 1, 1988.
 
-([Pub. L. 100–705, § 4][/us/pl/100/705/s4], Nov. 19, 1988, [102 Stat. 4685][/us/stat/102/4685].)
+([Pub. L. 100–705][/us/pl/100/705], § 4, Nov. 19, 1988, [102 Stat. 4685][/us/stat/102/4685].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s3715a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3715a%2Fa
-[/us/pl/100/705/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs4
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4685
 [/us/pl/100/705/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs10
 [/us/usc/t22/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612

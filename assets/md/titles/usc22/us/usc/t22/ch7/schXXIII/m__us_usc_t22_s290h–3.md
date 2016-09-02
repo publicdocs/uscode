@@ -39,7 +39,7 @@
 
         In making grants, loans, and loan guarantees under subsection (a) of this section, the Foundation shall give priority to projects which community groups undertake to foster their own development and in the initiation, design, implementation, and evaluation of which there is the maximum feasible participation of the poor. Where appropriate and in keeping with the purposes of this subchapter, the Foundation may make such grants, loans, and loan guarantees to African entities which are representative and knowledgeable of, and sensitive to, the needs and aspirations of the poor and which would disburse funds acquired under such grants, loans, and loan guarantees to other African entities to carry out the purposes of this subchapter.
 
-([Pub. L. 96–533, title V, § 505][/us/pl/96/533/s505], Dec. 16, 1980, [94 Stat. 3152][/us/stat/94/3152]; [Pub. L. 100–461, title II, § 201][/us/pl/100/461/s201], Oct. 1, 1988, [102 Stat. 2268–13][/us/stat/102/2268-13].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 505, Dec. 16, 1980, [94 Stat. 3152][/us/stat/94/3152]; [Pub. L. 100–461, title II][/us/pl/100/461/tII], § 201, Oct. 1, 1988, [102 Stat. 2268–13][/us/stat/102/2268-13].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t22/s290h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%932
 [/us/usc/t22/s290h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%932
-[/us/pl/96/533/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs505
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3152
-[/us/pl/100/461/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs201
+[/us/pl/100/461/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtII
 [/us/stat/102/2268-13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-13
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 

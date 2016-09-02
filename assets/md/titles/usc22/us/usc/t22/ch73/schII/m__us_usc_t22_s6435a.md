@@ -85,17 +85,17 @@
 
         In addition to providing the reports required under [section 6432 of this title][/us/usc/t22/s6432], the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
-([Pub. L. 105–292, title II, § 208][/us/pl/105/292/s208], as added [Pub. L. 106–55, § 1(b)(5)][/us/pl/106/55/s1/b/5], Aug. 17, 1999, [113 Stat. 403][/us/stat/113/403]; amended [Pub. L. 107–228, div. A, title VI, § 681(f)][/us/pl/107/228/s681/f], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75, § 5][/us/pl/112/75/s5], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 208, as added [Pub. L. 106–55][/us/pl/106/55], § 1(b)(5), Aug. 17, 1999, [113 Stat. 403][/us/stat/113/403]; amended [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 681(f), Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75][/us/pl/112/75], § 5, Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273].)
 
  __References in Text__ 
 
-    The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is [Pub. L. 89–673][/us/pl/89/673], Oct. 15, 1966, [80 Stat. 952][/us/stat/80/952], as amended, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title][/us/usc/t22/s2625], and with limited applicability, to [section 2621 of this title][/us/usc/t22/s2621], and was restated in [section 7342 of Title 5][/us/usc/t5/s7342], Government Organization and Employees, by [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [91 Stat. 224][/us/stat/91/224]. For complete classification of this Act to the Code, see Tables.
+    The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is [Pub. L. 89–673][/us/pl/89/673], Oct. 15, 1966, [80 Stat. 952][/us/stat/80/952], as amended, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title][/us/usc/t22/s2625], and with limited applicability, to [section 2621 of this title][/us/usc/t22/s2621], and was restated in [section 7342 of Title 5][/us/usc/t5/s7342], Government Organization and Employees, by [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [91 Stat. 224][/us/stat/91/224]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    2011—Subsec. (c)(1). [Pub. L. 112–75, § 5(1)][/us/pl/112/75/s5/1], substituted “$250,000” for “$100,000”.
+    2011—Subsec. (c)(1). [Pub. L. 112–75][/us/pl/112/75], § 5(1), substituted “$250,000” for “$100,000”.
 
-    Subsec. (e). [Pub. L. 112–75, § 5(2)][/us/pl/112/75/s5/2], substituted “Foreign Affairs” for “International Relations”.
+    Subsec. (e). [Pub. L. 112–75][/us/pl/112/75], § 5(2), substituted “Foreign Affairs” for “International Relations”.
 
     2002—Subsec. (c)(1). [Pub. L. 107–228][/us/pl/107/228] substituted “The Commission may procure temporary and intermittent services under the authority of [section 3109(b) of title 5][/us/usc/t5/s3109/b], except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b] or under other contracting authority other than that allowed under this subchapter.”
 
@@ -109,22 +109,22 @@
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t22/s6474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6474
 [/us/usc/t22/s6432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432
-[/us/pl/105/292/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs208
-[/us/pl/106/55/s1/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F5
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F403
-[/us/pl/107/228/s681/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs681%2Ff
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1409
-[/us/pl/112/75/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs5
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/stat/125/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1273
 [/us/pl/89/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F673
 [/us/stat/80/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F952
 [/us/usc/t22/s2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2625
 [/us/usc/t22/s2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2621
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/91/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F224
-[/us/pl/112/75/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs5%2F1
-[/us/pl/112/75/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs5%2F2
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb

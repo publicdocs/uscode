@@ -57,11 +57,11 @@
 
         The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title][/us/usc/t22/s6004] or [section 6006 of this title][/us/usc/t22/s6006] or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)(4)][/us/usc/t50/s4305/b/4]\].
 
-([Pub. L. 102–484, div. A, title XVII, § 1706][/us/pl/102/484/s1706], Oct. 23, 1992, [106 Stat. 2578][/us/stat/106/2578].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1706, Oct. 23, 1992, [106 Stat. 2578][/us/stat/106/2578].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 104–114, title II, § 204(d)(3)][/us/pl/104/114/s204/d/3], Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810], provided that on date on which President submits determination under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, this section is repealed.
+    [Pub. L. 104–114, title II][/us/pl/104/114/tII], § 204(d)(3), Mar. 12, 1996, [110 Stat. 810][/us/stat/110/810], provided that on date on which President submits determination under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3] that democratically elected government in Cuba is in power, this section is repealed.
 
 ----------
 
@@ -74,9 +74,9 @@
 [/us/usc/t22/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6004
 [/us/usc/t22/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6006
 [/us/usc/t50/s4305/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb%2F4
-[/us/pl/102/484/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1706
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2578
-[/us/pl/104/114/s204/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs204%2Fd%2F3
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F810
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 

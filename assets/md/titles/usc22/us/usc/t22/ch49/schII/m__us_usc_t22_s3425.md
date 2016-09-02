@@ -51,7 +51,7 @@
 
         (3) The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under [section 3424(a) of this title][/us/usc/t22/s3424/a] shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
 
-([Pub. L. 97–132, § 6][/us/pl/97/132/s6], Dec. 29, 1981, [95 Stat. 1695][/us/stat/95/1695].)
+([Pub. L. 97–132][/us/pl/97/132], § 6, Dec. 29, 1981, [95 Stat. 1695][/us/stat/95/1695].)
 
  __Ex. Ord. No. 12361. Delegation of Functions for Multinational Force and Observers Reports__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t22/s3424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3424%2Fa
-[/us/pl/97/132/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs6
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1695
 [/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1693

@@ -23,7 +23,7 @@
 
         Not more than 10 percent of the amounts appropriated pursuant to subsection (a) may be expended for the administrative costs of the United States Agency for International Development to manage the VfP Program.
 
-([Pub. L. 111–13, title V, § 5104][/us/pl/111/13/s5104], Apr. 21, 2009, [123 Stat. 1600][/us/stat/123/1600].)
+([Pub. L. 111–13, title V][/us/pl/111/13/tV], § 5104, Apr. 21, 2009, [123 Stat. 1600][/us/stat/123/1600].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/13/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs5104
+[/us/pl/111/13/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2FtV
 [/us/stat/123/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1600
 
 

@@ -111,7 +111,7 @@
 
         The Secretary of State may prescribe such regulations as may be necessary to carry out this section.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 43B, as added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 234(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–427.)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 43B, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 234(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–427.)
 
  __References in Text__ 
 
@@ -132,7 +132,7 @@
 [/us/usc/t22/s300/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs300%2Fa%2F3
 [/us/usc/t22/s2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377

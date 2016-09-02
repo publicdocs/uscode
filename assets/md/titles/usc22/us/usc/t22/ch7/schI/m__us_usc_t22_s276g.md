@@ -17,7 +17,7 @@
 
     The certificate of the Chairman of the House delegation or the Senate delegation of the Canada-United States Interparliamentary group shall hereafter be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group of the Canada-United States Interparliamentary group.
 
-([Pub. L. 86–42, § 4][/us/pl/86/42/s4], June 11, 1959, [73 Stat. 73][/us/stat/73/73].)
+([Pub. L. 86–42][/us/pl/86/42], § 4, June 11, 1959, [73 Stat. 73][/us/stat/73/73].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/42/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F42%2Fs4
+[/us/pl/86/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F42
 [/us/stat/73/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F73
 
 

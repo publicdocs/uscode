@@ -17,7 +17,7 @@
 
     Any Federal Reserve bank which is requested to do so by the Association shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
-([Pub. L. 86–565, § 6][/us/pl/86/565/s6], June 30, 1960, [74 Stat. 294][/us/stat/74/294].)
+([Pub. L. 86–565][/us/pl/86/565], § 6, June 30, 1960, [74 Stat. 294][/us/stat/74/294].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/565/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs6
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
 [/us/stat/74/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F294
 
 

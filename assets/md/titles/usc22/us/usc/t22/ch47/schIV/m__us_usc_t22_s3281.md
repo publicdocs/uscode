@@ -97,7 +97,7 @@
 
         In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to [section 2153 of title 42][/us/usc/t42/s2153], and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
 
-([Pub. L. 95–242, title VI, § 601][/us/pl/95/242/s601], Mar. 10, 1978, [92 Stat. 150][/us/stat/92/150]; [Pub. L. 103–236, title VIII, § 811][/us/pl/103/236/s811], Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507].)
+([Pub. L. 95–242, title VI][/us/pl/95/242/tVI], § 601, Mar. 10, 1978, [92 Stat. 150][/us/stat/92/150]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 811, Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507].)
 
  __References in Text__ 
 
@@ -159,9 +159,9 @@
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t50/s4614/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fc%2F1
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
-[/us/pl/95/242/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs601
+[/us/pl/95/242/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtVI
 [/us/stat/92/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F150
-[/us/pl/103/236/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs811
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F507
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

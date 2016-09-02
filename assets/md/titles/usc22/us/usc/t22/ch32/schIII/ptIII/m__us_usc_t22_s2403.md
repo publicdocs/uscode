@@ -45,7 +45,7 @@
 
     (h) “Function” includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
-    (i) Repealed. [Pub. L. 93–189, § 22(2)][/us/pl/93/189/s22/2], Dec. 17, 1973, [87 Stat. 726][/us/stat/87/726].
+    (i) Repealed. [Pub. L. 93–189][/us/pl/93/189], § 22(2), Dec. 17, 1973, [87 Stat. 726][/us/stat/87/726].
 
     (j) “Officer or employee” means civilian personnel and members of the Armed Forces of the United States Government.
 
@@ -75,13 +75,13 @@
 
     (q) “Major non-NATO ally” means a country which is designated in accordance with [section 2321k of this title][/us/usc/t22/s2321k] as a major non-NATO ally for purposes of this chapter and the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 644, Sept. 4, 1961, [75 Stat. 461][/us/stat/75/461]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 303(b), Aug. 1, 1962, [76 Stat. 263][/us/stat/76/263]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 303, Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 303(b), Sept. 6, 1965, [79 Stat. 661][/us/stat/79/661]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 303(a), Nov. 14, 1967, [81 Stat. 462][/us/stat/81/462]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(b)(5), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(c)(1), Feb. 7, 1972, [86 Stat. 32][/us/stat/86/32]; [Pub. L. 93–189, § 22][/us/pl/93/189/s22], Dec. 17, 1973, [87 Stat. 726][/us/stat/87/726]; [Pub. L. 94–329, title I, § 106(b)(6)][/us/pl/94/329/s106/b/6], June 30, 1976, [90 Stat. 733][/us/stat/90/733]; [Pub. L. 95–424, title I, § 103(b)][/us/pl/95/424/s103/b], Oct. 6, 1978, [92 Stat. 944][/us/stat/92/944]; [Pub. L. 96–92, § 22][/us/pl/96/92/s22], Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710]; [Pub. L. 96–533, title I, § 115(b)(1)][/us/pl/96/533/s115/b/1], Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 98–151, § 101(b)(2)][/us/pl/98/151/s101/b/2], Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; [Pub. L. 102–583, § 9(b)][/us/pl/102/583/s9/b], Nov. 2, 1992, [106 Stat. 4934][/us/stat/106/4934]; [Pub. L. 104–164, title I, § 147(a)(2)][/us/pl/104/164/s147/a/2], July 21, 1996, [110 Stat. 1435][/us/stat/110/1435].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 644, Sept. 4, 1961, [75 Stat. 461][/us/stat/75/461]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 303(b), Aug. 1, 1962, [76 Stat. 263][/us/stat/76/263]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 303, Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 303(b), Sept. 6, 1965, [79 Stat. 661][/us/stat/79/661]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 303(a), Nov. 14, 1967, [81 Stat. 462][/us/stat/81/462]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(b)(5), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(c)(1), Feb. 7, 1972, [86 Stat. 32][/us/stat/86/32]; [Pub. L. 93–189][/us/pl/93/189], § 22, Dec. 17, 1973, [87 Stat. 726][/us/stat/87/726]; [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(b)(6), June 30, 1976, [90 Stat. 733][/us/stat/90/733]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 103(b), Oct. 6, 1978, [92 Stat. 944][/us/stat/92/944]; [Pub. L. 96–92][/us/pl/96/92], § 22, Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 115(b)(1), Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 98–151][/us/pl/98/151], § 101(b)(2), Nov. 14, 1983, [97 Stat. 972][/us/stat/97/972]; [Pub. L. 102–583][/us/pl/102/583], § 9(b), Nov. 2, 1992, [106 Stat. 4934][/us/stat/106/4934]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 147(a)(2), July 21, 1996, [110 Stat. 1435][/us/stat/110/1435].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     The Arms Export Control Act, referred to in subsec. (q), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
@@ -103,15 +103,15 @@
 
     1978—Subsecs. (o), (p). [Pub. L. 95–424][/us/pl/95/424] added subsecs. (o) and (p).
 
-    1976—Subsec. (f). [Pub. L. 94–329, § 106(b)(6)(A)][/us/pl/94/329/s106/b/6/A], struck out “training” after “inspection, repair”, inserted “but does not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
+    1976—Subsec. (f). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(6)(A), struck out “training” after “inspection, repair”, inserted “but does not include military educational and training activities under part V of subchapter II”, and struck out definition of “Training”.
 
-    Subsec. (n). [Pub. L. 94–329, § 106(b)(6)(B)][/us/pl/94/329/s106/b/6/B], added subsec. (n).
+    Subsec. (n). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(6)(B), added subsec. (n).
 
-    1973—Subsec. (g). [Pub. L. 93–189, § 22(1)][/us/pl/93/189/s22/1], substituted “Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components” for “mobilization reserve”.
+    1973—Subsec. (g). [Pub. L. 93–189][/us/pl/93/189], § 22(1), substituted “Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components” for “mobilization reserve”.
 
-    Subsec. (i). [Pub. L. 93–189, § 22(2)][/us/pl/93/189/s22/2], struck out subsec. (i) which defined “mobilization reserve”.
+    Subsec. (i). [Pub. L. 93–189][/us/pl/93/189], § 22(2), struck out subsec. (i) which defined “mobilization reserve”.
 
-    Subsec. (m). [Pub. L. 93–189, § 22(3)][/us/pl/93/189/s22/3], amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “ ‘Value’ means, other than in [section 2417 of this title][/us/usc/t22/s2417]—
+    Subsec. (m). [Pub. L. 93–189][/us/pl/93/189], § 22(3), amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “ ‘Value’ means, other than in [section 2417 of this title][/us/usc/t22/s2417]—
 
     “(1) with respect to excess defense articles, the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying such articles;
 
@@ -125,15 +125,15 @@
 
     1968—Subsec. (m). [Pub. L. 90–629][/us/pl/90/629] struck out “and sales” before “programs” in text following par. (3).
 
-    1967—Subsec. (d). [Pub. L. 90–137, § 303(a)(1)][/us/pl/90/137/s303/a/1], excluded production facilities, utilization facilities, and articles involving Restricted Data from definition of “defense articles”.
+    1967—Subsec. (d). [Pub. L. 90–137][/us/pl/90/137], § 303(a)(1), excluded production facilities, utilization facilities, and articles involving Restricted Data from definition of “defense articles”.
 
-    Subsec. (e). [Pub. L. 90–137, § 303(a)(2)][/us/pl/90/137/s303/a/2], struck out “and formerly Restricted Data” before “as defined” and excluded data removed from the Restricted Data category under section 142d of the Atomic Energy Act of 1954 (classified to [section 2162(d) of Title 42][/us/usc/t42/s2162/d]) from definition of “defense information”.
+    Subsec. (e). [Pub. L. 90–137][/us/pl/90/137], § 303(a)(2), struck out “and formerly Restricted Data” before “as defined” and excluded data removed from the Restricted Data category under section 142d of the Atomic Energy Act of 1954 (classified to [section 2162(d) of Title 42][/us/usc/t42/s2162/d]) from definition of “defense information”.
 
-    Subsec. (f). [Pub. L. 90–137, § 303(a)(3)][/us/pl/90/137/s303/a/3], excluded the transfer of limited quantities of defense articles for test, evaluation, or standardization purposes from definition of “defense service” and defined “training”, incorporating existing references to orientation and training aid.
+    Subsec. (f). [Pub. L. 90–137][/us/pl/90/137], § 303(a)(3), excluded the transfer of limited quantities of defense articles for test, evaluation, or standardization purposes from definition of “defense service” and defined “training”, incorporating existing references to orientation and training aid.
 
-    1965—Subsec. (g). [Pub. L. 89–171, § 303(b)(1)][/us/pl/89/171/s303/b/1], inserted “and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order”, and struck out “as grant assistance” after “international organizations”.
+    1965—Subsec. (g). [Pub. L. 89–171][/us/pl/89/171], § 303(b)(1), inserted “and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order”, and struck out “as grant assistance” after “international organizations”.
 
-    Subsec. (m). [Pub. L. 89–171, § 303(b)(2)][/us/pl/89/171/s303/b/2], (3), in par. (2) substituted “Such standard price shall be the same price (including authorized reduced prices)” for “Such price shall be the same standard price”, and in unnumbered par. after par. (3) substituted “Military Assistance and sales programs” for “Military assistance programs” and struck out “by the military assistance program” after “supplying agency”.
+    Subsec. (m). [Pub. L. 89–171][/us/pl/89/171], § 303(b)(2), (3), in par. (2) substituted “Such standard price shall be the same price (including authorized reduced prices)” for “Such price shall be the same standard price”, and in unnumbered par. after par. (3) substituted “Military Assistance and sales programs” for “Military assistance programs” and struck out “by the military assistance program” after “supplying agency”.
 
     1963—Subsec. (f). [Pub. L. 88–205][/us/pl/88/205] inserted “including orientation”.
 
@@ -165,7 +165,7 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2162/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2162%2Fd
-[/us/pl/93/189/s22/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs22%2F2
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F726
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
 [/us/usc/t22/s2321k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k
@@ -184,27 +184,27 @@
 [/us/stat/82/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1327
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F32
-[/us/pl/93/189/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs22
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F726
-[/us/pl/94/329/s106/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F6
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F733
-[/us/pl/95/424/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs103%2Fb
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F944
-[/us/pl/96/92/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs22
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F710
-[/us/pl/96/533/s115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs115%2Fb%2F1
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3140
-[/us/pl/98/151/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs101%2Fb%2F2
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F972
-[/us/pl/102/583/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs9%2Fb
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4934
-[/us/pl/104/164/s147/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs147%2Fa%2F2
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1435
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
@@ -218,21 +218,21 @@
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/94/329/s106/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F6%2FA
-[/us/pl/94/329/s106/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F6%2FB
-[/us/pl/93/189/s22/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs22%2F1
-[/us/pl/93/189/s22/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs22%2F2
-[/us/pl/93/189/s22/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs22%2F3
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/usc/t22/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2417
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/usc/t22/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2417
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/90/137/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs303%2Fa%2F1
-[/us/pl/90/137/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs303%2Fa%2F2
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/usc/t42/s2162/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2162%2Fd
-[/us/pl/90/137/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs303%2Fa%2F3
-[/us/pl/89/171/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs303%2Fb%2F1
-[/us/pl/89/171/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs303%2Fb%2F2
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424

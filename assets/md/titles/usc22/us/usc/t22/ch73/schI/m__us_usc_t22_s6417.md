@@ -27,7 +27,7 @@
 
         The Secretary shall, as appropriate, provide religious freedom issue briefs under subsection (b) to executive branch officials and Members of Congress in anticipation of bilateral contacts with foreign leaders, both in the United States and abroad.
 
-([Pub. L. 105–292, title I, § 108][/us/pl/105/292/s108], Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 108, Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs108
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2796
 
 

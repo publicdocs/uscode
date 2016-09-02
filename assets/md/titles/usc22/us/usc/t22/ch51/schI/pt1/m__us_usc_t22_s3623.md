@@ -31,7 +31,7 @@
 
         The Office of Ombudsman shall terminate upon the termination of the Panama Canal Treaty of 1977.
 
-([Pub. L. 96–70, title I, § 1113][/us/pl/96/70/s1113], Sept. 27, 1979, [93 Stat. 460][/us/stat/93/460]; [Pub. L. 104–201, div. C, title XXXV, § 3525][/us/pl/104/201/s3525], Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1113, Sept. 27, 1979, [93 Stat. 460][/us/stat/93/460]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3525, Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1113
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F460
-[/us/pl/104/201/s3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3525
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2861
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452

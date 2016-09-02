@@ -27,7 +27,7 @@
 
     (5) to promote progress toward the peaceful reunification of the Korean peninsula under a democratic system of government.
 
-([Pub. L. 108–333, § 4][/us/pl/108/333/s4], Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290].)
+([Pub. L. 108–333][/us/pl/108/333], § 4, Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs4
+[/us/pl/108/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333
 [/us/stat/118/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1290
 
 

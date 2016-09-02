@@ -17,7 +17,7 @@
 
     The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than July 6, 1972.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 510, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1112][/us/stat/78/1112]; amended [Pub. L. 89–780, § 5][/us/pl/89/780/s5], Nov. 6, 1966, [80 Stat. 1365][/us/stat/80/1365]; [Pub. L. 91–157][/us/pl/91/157], Dec. 24, 1969, [83 Stat. 435][/us/stat/83/435].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 510, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1112][/us/stat/78/1112]; amended [Pub. L. 89–780][/us/pl/89/780], § 5, Nov. 6, 1966, [80 Stat. 1365][/us/stat/80/1365]; [Pub. L. 91–157][/us/pl/91/157], Dec. 24, 1969, [83 Stat. 435][/us/stat/83/435].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/88/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F666
 [/us/stat/78/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1112
-[/us/pl/89/780/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs5
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
 [/us/stat/80/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1365
 [/us/pl/91/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F157
 [/us/stat/83/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F435

@@ -35,11 +35,11 @@
 
     (3) For penalty costs to property owners for prepayment of mortgages incident to acquisition of the properties by the United States.
 
-([Pub. L. 88–300, § 3][/us/pl/88/300/s3], Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184].)
+([Pub. L. 88–300][/us/pl/88/300], § 3, Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184].)
 
  __Codification__ 
 
-    In par. b., “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In par. b., “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
 ----------
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/88/300/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs3
+[/us/pl/88/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300
 [/us/stat/78/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F184
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 
 

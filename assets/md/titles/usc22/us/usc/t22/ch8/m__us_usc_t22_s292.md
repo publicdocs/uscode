@@ -23,13 +23,13 @@
 
         Payments made for rent or otherwise by the United States from funds other than appropriations made to carry out this chapter may be credited toward the acquisition of property under this chapter without regard to limitations of amounts imposed by this chapter.
 
-([May 7, 1926, ch. 250, § 1][/us/act/1926-05-07/ch250/s1], [44 Stat. 403][/us/stat/44/403]; [May 29, 1928, ch. 876, § 1][/us/act/1928-05-29/ch876/s1], [45 Stat. 971][/us/stat/45/971]; [Pub. L. 88–94, § 2(b)][/us/pl/88/94/s2/b], Aug. 12, 1963, [77 Stat. 122][/us/stat/77/122]; [Pub. L. 89–636, § 2][/us/pl/89/636/s2], Oct. 10, 1966, [80 Stat. 881][/us/stat/80/881]; [Pub. L. 95–105, title I, § 106(a)][/us/pl/95/105/s106/a], Aug. 17, 1977, [91 Stat. 845][/us/stat/91/845].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 1, [44 Stat. 403][/us/stat/44/403]; [May 29, 1928, ch. 876][/us/act/1928-05-29/ch876], § 1, [45 Stat. 971][/us/stat/45/971]; [Pub. L. 88–94][/us/pl/88/94], § 2(b), Aug. 12, 1963, [77 Stat. 122][/us/stat/77/122]; [Pub. L. 89–636][/us/pl/89/636], § 2, Oct. 10, 1966, [80 Stat. 881][/us/stat/80/881]; [Pub. L. 95–105, title I][/us/pl/95/105/tI], § 106(a), Aug. 17, 1977, [91 Stat. 845][/us/stat/91/845].)
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–105, § 106(a)(1)][/us/pl/95/105/s106/a/1], substituted “to carry out” for “pursuant to”.
+    1977—Subsec. (a). [Pub. L. 95–105][/us/pl/95/105], § 106(a)(1), substituted “to carry out” for “pursuant to”.
 
-    Subsec. (b). [Pub. L. 95–105, § 106(a)(2)][/us/pl/95/105/s106/a/2], substituted “to carry out” for “under authority of”.
+    Subsec. (b). [Pub. L. 95–105][/us/pl/95/105], § 106(a)(2), substituted “to carry out” for “under authority of”.
 
     1966—[Pub. L. 89–636][/us/pl/89/636] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -39,7 +39,7 @@
 
  __Property Agreements__ 
 
-[Pub. L. 103–236, title I, § 134][/us/pl/103/236/s134], Apr. 30, 1994, [108 Stat. 396][/us/stat/108/396], as amended by [Pub. L. 103–415, § 1(z)][/us/pl/103/415/s1/z], Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302], provided that: 
+[Pub. L. 103–236, title I][/us/pl/103/236/tI], § 134, Apr. 30, 1994, [108 Stat. 396][/us/stat/108/396], as amended by [Pub. L. 103–415][/us/pl/103/415], § 1(z), Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302], provided that: 
 
 > “Whenever the Department of State enters into lease-purchase agreements involving property in foreign countries pursuant to section 1 of the Foreign Service Buildings Act, 1926 ([22 U.S.C. 292][/us/usc/t22/s292]), the Department shall account for such transactions in accordance with fiscal year obligations.”
 
@@ -50,23 +50,23 @@
 ----------
 ----------
 
-[/us/act/1926-05-07/ch250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs1
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F403
-[/us/act/1928-05-29/ch876/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch876%2Fs1
+[/us/act/1928-05-29/ch876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch876
 [/us/stat/45/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F971
-[/us/pl/88/94/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94%2Fs2%2Fb
+[/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
 [/us/stat/77/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F122
-[/us/pl/89/636/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs2
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
 [/us/stat/80/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F881
-[/us/pl/95/105/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs106%2Fa
+[/us/pl/95/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtI
 [/us/stat/91/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F845
-[/us/pl/95/105/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs106%2Fa%2F1
-[/us/pl/95/105/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs106%2Fa%2F2
+[/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
+[/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
 [/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
 [/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
-[/us/pl/103/236/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs134
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F396
-[/us/pl/103/415/s1/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fz
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4302
 [/us/usc/t22/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292
 

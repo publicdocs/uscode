@@ -23,11 +23,11 @@
 
     (3) section 4711  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 15 (relating to economic policy and trade practices).
 
-([Pub. L. 102–383, title III, § 302][/us/pl/102/383/s302], Oct. 5, 1992, [106 Stat. 1454][/us/stat/106/1454].)
+([Pub. L. 102–383, title III][/us/pl/102/383/tIII], § 302, Oct. 5, 1992, [106 Stat. 1454][/us/stat/106/1454].)
 
  __References in Text__ 
 
-    [Section 4711 of title 15][/us/usc/t15/s4711], referred to in par. (3), was repealed by [Pub. L. 107–228, div. A, title VI, § 671(1)][/us/pl/107/228/s671/1], Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407].
+    [Section 4711 of title 15][/us/usc/t15/s4711], referred to in par. (3), was repealed by [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 671(1), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407].
 
 ----------
 
@@ -37,10 +37,10 @@
 ----------
 
 [/us/usc/t19/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2241
-[/us/pl/102/383/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs302
+[/us/pl/102/383/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtIII
 [/us/stat/106/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1454
 [/us/usc/t15/s4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4711
-[/us/pl/107/228/s671/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs671%2F1
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1407
 
 

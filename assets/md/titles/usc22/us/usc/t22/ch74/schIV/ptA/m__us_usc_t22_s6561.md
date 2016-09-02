@@ -23,11 +23,11 @@
 
         Subsection (a) does not apply to the Agency for International Development or the Overseas Private Investment Corporation.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1411, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1411, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
 
  __Effective Date__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1401, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1401, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790], provided that: 
 
 > “This title \[see Tables for classification\], and the amendments made by this title, shall take effect on the earlier of—
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
 

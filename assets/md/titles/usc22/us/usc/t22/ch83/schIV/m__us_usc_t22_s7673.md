@@ -77,7 +77,7 @@
 
         (4) the prevention and care goals established in clauses (i) and (iv) of [section 2151b–2(b)(1)(A) of this title][/us/usc/t22/s2151b–2/b/1/A] shall be increased consistent with epidemiological evidence and available resources.
 
-([Pub. L. 108–25, title IV, § 403][/us/pl/108/25/s403], May 27, 2003, [117 Stat. 746][/us/stat/117/746]; [Pub. L. 110–293, title IV, § 403][/us/pl/110/293/s403], July 30, 2008, [122 Stat. 2966][/us/stat/122/2966]; [Pub. L. 113–56, § 6][/us/pl/113/56/s6], Dec. 2, 2013, [127 Stat. 654][/us/stat/127/654].)
+([Pub. L. 108–25, title IV][/us/pl/108/25/tIV], § 403, May 27, 2003, [117 Stat. 746][/us/stat/117/746]; [Pub. L. 110–293, title IV][/us/pl/110/293/tIV], § 403, July 30, 2008, [122 Stat. 2966][/us/stat/122/2966]; [Pub. L. 113–56][/us/pl/113/56], § 6, Dec. 2, 2013, [127 Stat. 654][/us/stat/127/654].)
 
  __References in Text__ 
 
@@ -85,15 +85,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 113–56, § 6(a)][/us/pl/113/56/s6/a], substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]”.
+    2013—Subsec. (b). [Pub. L. 113–56][/us/pl/113/56], § 6(a), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]”.
 
-    Subsec. (c). [Pub. L. 113–56, § 6(b)][/us/pl/113/56/s6/b], substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “amounts appropriated for bilateral global HIV/AIDS assistance pursuant to [section 7671 of this title][/us/usc/t22/s7671]” in introductory provisions.
+    Subsec. (c). [Pub. L. 113–56][/us/pl/113/56], § 6(b), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “amounts appropriated for bilateral global HIV/AIDS assistance pursuant to [section 7671 of this title][/us/usc/t22/s7671]” in introductory provisions.
 
-    2008—Subsec. (a). [Pub. L. 110–293, § 403(1)][/us/pl/110/293/s403/1], amended subsec. (a) generally. Prior to amendment, text read as follows: “For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS prevention consistent with [section 2151b–2(d) of this title][/us/usc/t22/s2151b–2/d] for each such fiscal year shall be expended for abstinence-until-marriage programs.”
+    2008—Subsec. (a). [Pub. L. 110–293][/us/pl/110/293], § 403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS prevention consistent with [section 2151b–2(d) of this title][/us/usc/t22/s2151b–2/d] for each such fiscal year shall be expended for abstinence-until-marriage programs.”
 
-    Subsec. (b). [Pub. L. 110–293, § 403(2)][/us/pl/110/293/s403/2], substituted “fiscal years 2009 through 2013” for “fiscal years 2006 through 2008” and “other children affected by, or vulnerable to,” for “vulnerable children affected by”.
+    Subsec. (b). [Pub. L. 110–293][/us/pl/110/293], § 403(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2006 through 2008” and “other children affected by, or vulnerable to,” for “vulnerable children affected by”.
 
-    Subsecs. (c), (d). [Pub. L. 110–293, § 403(3)][/us/pl/110/293/s403/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–293][/us/pl/110/293], § 403(3), added subsecs. (c) and (d).
 
 ----------
 
@@ -109,26 +109,26 @@
 [/us/usc/t22/s7672/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7672%2Fa%2F3
 [/us/usc/t22/s7672/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7672%2Fa%2F3
 [/us/usc/t22/s2151b–2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Fb%2F1%2FA
-[/us/pl/108/25/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs403
+[/us/pl/108/25/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIV
 [/us/stat/117/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F746
-[/us/pl/110/293/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs403
+[/us/pl/110/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIV
 [/us/stat/122/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2966
-[/us/pl/113/56/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs6
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/stat/127/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F654
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
-[/us/pl/113/56/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs6%2Fa
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/113/56/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs6%2Fb
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/110/293/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs403%2F1
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s2151b–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Fd
-[/us/pl/110/293/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs403%2F2
-[/us/pl/110/293/s403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs403%2F3
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 
 

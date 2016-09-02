@@ -39,7 +39,7 @@
 
         After the deduction for administrative expenses pursuant to subsection (e) of this section, and after payment of awards certified pursuant to [section 1642i of this title][/us/usc/t22/s1642i], the balance remaining in the Fund, if any, shall be paid to Czechoslovakia in accordance with instructions to be provided by the Secretary of State.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 402, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 527][/us/stat/72/527].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 402, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 527][/us/stat/72/527].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t22/s1642b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1642b
 [/us/usc/t22/s1642i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1642i
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F527
 
 

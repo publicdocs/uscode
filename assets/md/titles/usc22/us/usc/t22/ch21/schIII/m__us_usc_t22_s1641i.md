@@ -55,7 +55,7 @@
 
         With respect to any claim which, at the time of the award, is vested in persons other than the person to whom the claim originally accrued, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein; and all such claimants shall participate, in proportion to their indicated interests, in the payments provided by this section in all respects as if the award had been in favor of a single person.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 310, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 573][/us/stat/69/573]; amended [Pub. L. 90–421, § 1(13)][/us/pl/90/421/s1/13], July 24, 1968, [82 Stat. 423][/us/stat/82/423]; [Pub. L. 93–460, § 1(5)][/us/pl/93/460/s1/5], Oct. 20, 1974, [88 Stat. 1386][/us/stat/88/1386].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 310, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 573][/us/stat/69/573]; amended [Pub. L. 90–421][/us/pl/90/421], § 1(13), July 24, 1968, [82 Stat. 423][/us/stat/82/423]; [Pub. L. 93–460][/us/pl/93/460], § 1(5), Oct. 20, 1974, [88 Stat. 1386][/us/stat/88/1386].)
 
  __Amendments__ 
 
@@ -89,11 +89,11 @@
 [/us/usc/t22/s1641e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641e
 [/us/usc/t22/s1641e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641e
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F573
-[/us/pl/90/421/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F13
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F423
-[/us/pl/93/460/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460%2Fs1%2F5
+[/us/pl/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460
 [/us/stat/88/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1386
 [/us/pl/93/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F460
 [/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421

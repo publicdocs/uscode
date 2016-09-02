@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch27/m__us_usc_t22_ch27.md) | [Next](./../../../..//us/usc/t22/ch28/m__us_usc_t22_s2021.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch28)
+[Previous](./../../../..//us/usc/t22/ch27/m__us_usc_t22_s1991...2001.md) | [Next](./../../../..//us/usc/t22/ch28/m__us_usc_t22_s2021.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch28)
 
 ## CHAPTER 28—INTERNATIONAL ATOMIC ENERGY AGENCY PARTICIPATION
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch27/m__us_usc_t22_ch27.md) | [Next](./../../../..//us/usc/t22/ch28/m__us_usc_t22_s2021.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch28)
+[Previous](./../../../..//us/usc/t22/ch27/m__us_usc_t22_s1991...2001.md) | [Next](./../../../..//us/usc/t22/ch28/m__us_usc_t22_s2021.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch28)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     The President should continue to furnish facilities and military assistance, within the provisions of applicable law and established policies, to the United Nations Emergency Force in the Middle East, with a view to maintaining the truce in that region.
 
-([Pub. L. 85–7, § 4][/us/pl/85/7/s4], Mar. 9, 1957, [71 Stat. 6][/us/stat/71/6].)
+([Pub. L. 85–7][/us/pl/85/7], § 4, Mar. 9, 1957, [71 Stat. 6][/us/stat/71/6].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/7/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7%2Fs4
+[/us/pl/85/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7
 [/us/stat/71/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F6
 
 

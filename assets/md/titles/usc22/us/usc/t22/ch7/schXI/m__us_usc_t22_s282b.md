@@ -17,7 +17,7 @@
 
     The provisions of [section 286b of this title][/us/usc/t22/s286b], shall apply with respect to the Corporation to the same extent as with respect to the International Bank for Reconstruction and Development.
 
-([Aug. 11, 1955, ch. 788, § 4][/us/act/1955-08-11/ch788/s4], [69 Stat. 669][/us/stat/69/669]; [Pub. L. 101–240, title V, § 541(e)(1)][/us/pl/101/240/s541/e/1], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 4, [69 Stat. 669][/us/stat/69/669]; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(e)(1), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b
-[/us/act/1955-08-11/ch788/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs4
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
 [/us/stat/69/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F669
-[/us/pl/101/240/s541/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fe%2F1
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b

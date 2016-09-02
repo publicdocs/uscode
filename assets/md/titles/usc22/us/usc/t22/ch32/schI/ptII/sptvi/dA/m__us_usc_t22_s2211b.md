@@ -31,11 +31,11 @@
 
         (4) The monitoring system adopts the widespread use of proven and effective poverty assessment tools to successfully identify the very poor and ensure that they receive adequate access to microenterprise loans, savings, and assistance.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 253, as added [Pub. L. 108–484, § 3][/us/pl/108/484/s3], Dec. 23, 2004, [118 Stat. 3925][/us/stat/118/3925].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 253, as added [Pub. L. 108–484][/us/pl/108/484], § 3, Dec. 23, 2004, [118 Stat. 3925][/us/stat/118/3925].)
 
  __Prior Provisions__ 
 
-    A prior [section 253 of Pub. L. 87–195][/us/pl/87/195/s253] was classified to [section 2213 of this title][/us/usc/t22/s2213], prior to repeal by [Pub. L. 95–424, title I, § 102(g)(1)(A)][/us/pl/95/424/s102/g/1/A], title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
+    A prior [section 253 of Pub. L. 87–195][/us/pl/87/195/s253] was classified to [section 2213 of this title][/us/usc/t22/s2213], prior to repeal by [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(1)(A), title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
 
 ----------
 
@@ -47,11 +47,11 @@
 [/us/usc/t22/s2211a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2211a%2Fa
 [/us/usc/t22/s2211a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2211a
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/484/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs3
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3925
 [/us/pl/87/195/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs253
 [/us/usc/t22/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2213
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
 
 

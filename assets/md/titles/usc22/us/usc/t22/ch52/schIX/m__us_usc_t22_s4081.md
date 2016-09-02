@@ -89,7 +89,7 @@
 
         except that a payment under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
 
-([Pub. L. 96–465, title I, § 901][/us/pl/96/465/s901], Oct. 17, 1980, [94 Stat. 2124][/us/stat/94/2124]; [Pub. L. 101–246, title I, § 148][/us/pl/101/246/s148], Feb. 16, 1990, [104 Stat. 38][/us/stat/104/38]; [Pub. L. 102–138, title I][/us/pl/102/138], §§ 145, 146, Oct. 28, 1991, [105 Stat. 668][/us/stat/105/668], 669; [Pub. L. 107–228, div. A, title III][/us/pl/107/228], §§ 315(a), 328, Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379], 1387; [Pub. L. 109–234, title I, § 1602(d)(1)][/us/pl/109/234/s1602/d/1], June 15, 2006, [120 Stat. 442][/us/stat/120/442]; [Pub. L. 110–321, § 2(1)][/us/pl/110/321/s2/1], Sept. 19, 2008, [122 Stat. 3535][/us/stat/122/3535].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 901, Oct. 17, 1980, [94 Stat. 2124][/us/stat/94/2124]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 148, Feb. 16, 1990, [104 Stat. 38][/us/stat/104/38]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], §§ 145, 146, Oct. 28, 1991, [105 Stat. 668][/us/stat/105/668], 669; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], §§ 315(a), 328, Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379], 1387; [Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1602(d)(1), June 15, 2006, [120 Stat. 442][/us/stat/120/442]; [Pub. L. 110–321][/us/pl/110/321], § 2(1), Sept. 19, 2008, [122 Stat. 3535][/us/stat/122/3535].)
 
  __Amendments__ 
 
@@ -97,21 +97,21 @@
 
     2006—Par. (6). [Pub. L. 109–234][/us/pl/109/234], which directed amendment of section 901(6) of the Foreign Service Act by striking out “unbroken by home leave” wherever appearing, was executed by striking out those words after “2-year tour” and “3-year tour” in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
-    2002—Par. (8). [Pub. L. 107–228, § 315(a)][/us/pl/107/228/s315/a], substituted “Service, and members of his or her family,” for “Service”.
+    2002—Par. (8). [Pub. L. 107–228][/us/pl/107/228], § 315(a), substituted “Service, and members of his or her family,” for “Service”.
 
-    Par. (15). [Pub. L. 107–228, § 328][/us/pl/107/228/s328], in concluding provisions, substituted “residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
+    Par. (15). [Pub. L. 107–228][/us/pl/107/228], § 328, in concluding provisions, substituted “residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
 
-    1991—Par. (10). [Pub. L. 102–138, § 146][/us/pl/102/138/s146], inserted before semicolon “or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant”.
+    1991—Par. (10). [Pub. L. 102–138][/us/pl/102/138], § 146, inserted before semicolon “or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant”.
 
-    Par. (12)(B). [Pub. L. 102–138, § 145(1)][/us/pl/102/138/s145/1], inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
+    Par. (12)(B). [Pub. L. 102–138][/us/pl/102/138], § 145(1), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
 
-    Par. (12)(C). [Pub. L. 102–138, § 145(2)][/us/pl/102/138/s145/2], inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
+    Par. (12)(C). [Pub. L. 102–138][/us/pl/102/138], § 145(2), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
 
     1990—Par. (9). [Pub. L. 101–246][/us/pl/101/246] amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;”.
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–228, div. A, title III, § 315(c)][/us/pl/107/228/s315/c], Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379], provided that: 
+[Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 315(c), Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.”
 
@@ -121,7 +121,7 @@
 
  __Promulgation of Guidance__ 
 
-[Pub. L. 107–228, div. A, title III, § 315(b)][/us/pl/107/228/s315/b], Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379], provided that: 
+[Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 315(b), Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379], provided that: 
 
 > “The Secretary shall promulgate guidance for the implementation of the amendment made by subsection (a) \[amending this section\] to ensure its implementation in a manner which does not substantially increase the total amount of travel expenses paid or reimbursed by the Department for travel under section 901 of the Foreign Service Act of 1980 ([22 U.S.C. 4081][/us/usc/t22/s4081]).”
 
@@ -135,32 +135,32 @@
 ----------
 
 [/us/usc/t5/s5924/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924%2F4
-[/us/pl/96/465/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs901
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2124
-[/us/pl/101/246/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs148
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F38
-[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F668
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1379
-[/us/pl/109/234/s1602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1602%2Fd%2F1
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F442
-[/us/pl/110/321/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321%2Fs2%2F1
+[/us/pl/110/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321
 [/us/stat/122/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3535
 [/us/pl/110/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
-[/us/pl/107/228/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs315%2Fa
-[/us/pl/107/228/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs328
-[/us/pl/102/138/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs146
-[/us/pl/102/138/s145/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs145%2F1
-[/us/pl/102/138/s145/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs145%2F2
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
-[/us/pl/107/228/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs315%2Fc
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1379
 [/us/pl/107/228/s315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs315%2Fc
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/107/228/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs315%2Fb
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1379
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/pl/107/228/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs315%2Fb

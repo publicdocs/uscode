@@ -89,19 +89,19 @@
 
         Notwithstanding section 2399a  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: Provided, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 636, Sept. 4, 1961, [75 Stat. 457][/us/stat/75/457]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(f), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(h), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(j)–(o), Nov. 14, 1967, [81 Stat. 461][/us/stat/81/461], 462; [Pub. L. 90–554][/us/pl/90/554], pt. III, § 302(d), Oct. 8, 1968, [82 Stat. 965][/us/stat/82/965]; [Pub. L. 91–175][/us/pl/91/175], pt. III, § 306, Dec. 30, 1969, [83 Stat. 821][/us/stat/83/821]; [Pub. L. 94–329, title I, § 106(b)(5)][/us/pl/94/329/s106/b/5], June 30, 1976, [90 Stat. 733][/us/stat/90/733]; [Pub. L. 95–424, title I, § 102(g)(2)(H)][/us/pl/95/424/s102/g/2/H]–(J), title V, § 505, Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943], 960; [Pub. L. 99–83, title XII, § 1211(b)(1)][/us/pl/99/83/s1211/b/1], Aug. 8, 1985, [99 Stat. 279][/us/stat/99/279]; [Pub. L. 99–234, title I, § 107(b)][/us/pl/99/234/s107/b], Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759]; [Pub. L. 99–550, § 2(b)][/us/pl/99/550/s2/b], Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070]; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–141; [Pub. L. 101–167, title III][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1214][/us/stat/103/1214]; [Pub. L. 107–372, title II, § 271(7)][/us/pl/107/372/s271/7], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 636, Sept. 4, 1961, [75 Stat. 457][/us/stat/75/457]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(f), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(h), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(j)–(o), Nov. 14, 1967, [81 Stat. 461][/us/stat/81/461], 462; [Pub. L. 90–554][/us/pl/90/554], pt. III, § 302(d), Oct. 8, 1968, [82 Stat. 965][/us/stat/82/965]; [Pub. L. 91–175][/us/pl/91/175], pt. III, § 306, Dec. 30, 1969, [83 Stat. 821][/us/stat/83/821]; [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(b)(5), June 30, 1976, [90 Stat. 733][/us/stat/90/733]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(2)(H)–(J), title V, § 505, Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943], 960; [Pub. L. 99–83, title XII][/us/pl/99/83/tXII], § 1211(b)(1), Aug. 8, 1985, [99 Stat. 279][/us/stat/99/279]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 107(b), Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759]; [Pub. L. 99–550][/us/pl/99/550], § 2(b), Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070]; [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–141; [Pub. L. 101–167, title III][/us/pl/101/167/tIII], Nov. 21, 1989, [103 Stat. 1214][/us/stat/103/1214]; [Pub. L. 107–372, title II][/us/pl/107/372/tII], § 271(7), Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) to (e), (h), and (i), was in the original “this Act”, meaning [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    Section 3651 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543]), referred to in subsec. (a)(7), was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
+    Section 3651 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543]), referred to in subsec. (a)(7), was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
 
     The Foreign Service Act of 1980, referred to in subsec. (a)(14), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
-    [Section 2385(d) of this title][/us/usc/t22/s2385/d], referred to in subsec. (e), was amended by [Pub. L. 96–465, title II, § 2203(a)][/us/pl/96/465/s2203/a], Oct. 17, 1980, [94 Stat. 2158][/us/stat/94/2158], and as so amended does not contain a par. (2).
+    [Section 2385(d) of this title][/us/usc/t22/s2385/d], referred to in subsec. (e), was amended by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2203(a), Oct. 17, 1980, [94 Stat. 2158][/us/stat/94/2158], and as so amended does not contain a par. (2).
 
-    Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to the interchange of Department of Agriculture and State employees, were repealed by [Pub. L. 91–648, title IV, § 403][/us/pl/91/648/s403], Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925]. See section 3371 et seq. of Title 5, Government Organization and Employees.
+    Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to the interchange of Department of Agriculture and State employees, were repealed by [Pub. L. 91–648, title IV][/us/pl/91/648/tIV], § 403, Jan. 5, 1971, [84 Stat. 1925][/us/stat/84/1925]. See section 3371 et seq. of Title 5, Government Organization and Employees.
 
     The Food for Peace Act, as amended, referred to in subsec. (f), is [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], [68 Stat. 454][/us/stat/68/454], which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7][/us/usc/t7/s1691], and Tables.
 
@@ -121,9 +121,9 @@
 
  __Codification__ 
 
-    In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “[section 9 of Public Law 60–328][/us/pl/60/328/s9] ([31 U.S.C. 673][/us/usc/t31/s673]))” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “[section 9 of Public Law 60–328][/us/pl/60/328/s9] ([31 U.S.C. 673][/us/usc/t31/s673]))” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (g)(3), “[section 6303 of title 41][/us/usc/t41/s6303]” substituted for “section 3733 of the Revised Statutes ([41 U.S.C. 12][/us/usc/t41/s12])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g)(3), “[section 6303 of title 41][/us/usc/t41/s6303]” substituted for “section 3733 of the Revised Statutes ([41 U.S.C. 12][/us/usc/t41/s12])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -141,37 +141,37 @@
 
     1985—Subsec. (a)(14). [Pub. L. 99–83][/us/pl/99/83] substituted reference to Foreign Service Act of 1980 for reference to Foreign Service Act of 1946.
 
-    1978—Subsec. (a)(5). [Pub. L. 95–424, § 505][/us/pl/95/424/s505], substituted “the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right hand drive vehicle, 120 percent of that price)” for “$3,500”.
+    1978—Subsec. (a)(5). [Pub. L. 95–424][/us/pl/95/424], § 505, substituted “the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right hand drive vehicle, 120 percent of that price)” for “$3,500”.
 
-    Subsec. (c). [Pub. L. 95–424, § 102(g)(2)(H)][/us/pl/95/424/s102/g/2/H], struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter” in two places.
+    Subsec. (c). [Pub. L. 95–424][/us/pl/95/424], § 102(g)(2)(H), struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter” in two places.
 
-    Subsecs. (d), (e). [Pub. L. 95–424, § 102(g)(2)(I)][/us/pl/95/424/s102/g/2/I], struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter”.
+    Subsecs. (d), (e). [Pub. L. 95–424][/us/pl/95/424], § 102(g)(2)(I), struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter”.
 
-    Subsec. (f). [Pub. L. 95–424, § 102(g)(2)(J)][/us/pl/95/424/s102/g/2/J], substituted “available under part I of subchapter I of this chapter” for “[section 2172 of this title][/us/usc/t22/s2172]”, and “functions under part I” for “functions under subpart I of part II”.
+    Subsec. (f). [Pub. L. 95–424][/us/pl/95/424], § 102(g)(2)(J), substituted “available under part I of subchapter I of this chapter” for “[section 2172 of this title][/us/usc/t22/s2172]”, and “functions under part I” for “functions under subpart I of part II”.
 
-    1976—Subsec. (g)(1). [Pub. L. 94–329, § 106(b)(5)(A)][/us/pl/94/329/s106/b/5/A], inserted “military education and training” after “articles”.
+    1976—Subsec. (g)(1). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(5)(A), inserted “military education and training” after “articles”.
 
-    Subsec. (g)(2), (3). [Pub. L. 94–329, § 106(b)(5)(B)][/us/pl/94/329/s106/b/5/B], substituted “and related civilian personnel” for “personnel”.
+    Subsec. (g)(2), (3). [Pub. L. 94–329][/us/pl/94/329], § 106(b)(5)(B), substituted “and related civilian personnel” for “personnel”.
 
     1969—Subsec. (f). [Pub. L. 91–175][/us/pl/91/175] added Corporation established under sections 2191 to 2200a of this title to the enumeration of agencies administering programs.
 
     1968—Subsec. (g)(1). [Pub. L. 90–554][/us/pl/90/554] required that when funds are made available for operating expenses, such expenses be incurred in furnishing defense articles and defense services on a grant or sales basis by the agency primarily responsible for administering subchapter II of this chapter.
 
-    1967—Subsec. (a)(5). [Pub. L. 90–137, § 302(j)][/us/pl/90/137/s302/j], substituted “section 638a(c)(2) and [section 638c of title 31][/us/usc/t31/s638c]” for “section 78a(c)(2) and [section 78a–1 of title 5][/us/usc/t5/s78a–1]”.
+    1967—Subsec. (a)(5). [Pub. L. 90–137][/us/pl/90/137], § 302(j), substituted “section 638a(c)(2) and [section 638c of title 31][/us/usc/t31/s638c]” for “section 78a(c)(2) and [section 78a–1 of title 5][/us/usc/t5/s78a–1]”.
 
-    Subsec. (a)(16). [Pub. L. 90–137, § 302(k)][/us/pl/90/137/s302/k], substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in two places.
+    Subsec. (a)(16). [Pub. L. 90–137][/us/pl/90/137], § 302(k), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in two places.
 
-    Subsec. (d). [Pub. L. 90–137, § 302][/us/pl/90/137/s302](l), increased limitation on funds available for education of dependents from $1,500,000 to $2,500,000.
+    Subsec. (d). [Pub. L. 90–137][/us/pl/90/137], § 302(l), increased limitation on funds available for education of dependents from $1,500,000 to $2,500,000.
 
-    Subsec. (e). [Pub. L. 90–137, § 302(m)][/us/pl/90/137/s302/m], substituted reference to [section 5533 of title 5][/us/usc/t5/s5533] for section 301 of the Dual Compensation Act ([5 U.S.C. 3105][/us/usc/t5/s3105]).
+    Subsec. (e). [Pub. L. 90–137][/us/pl/90/137], § 302(m), substituted reference to [section 5533 of title 5][/us/usc/t5/s5533] for section 301 of the Dual Compensation Act ([5 U.S.C. 3105][/us/usc/t5/s3105]).
 
-    Subsec. (g)(2). [Pub. L. 90–137, § 302(n)][/us/pl/90/137/s302/n], substituted reference to [section 5702(c) of title 5][/us/usc/t5/s5702/c] for former [section 836 of title 5][/us/usc/t5/s836].
+    Subsec. (g)(2). [Pub. L. 90–137][/us/pl/90/137], § 302(n), substituted reference to [section 5702(c) of title 5][/us/usc/t5/s5702/c] for former [section 836 of title 5][/us/usc/t5/s836].
 
-    Subsec. (i). [Pub. L. 90–137, § 302][/us/pl/90/137/s302](o), added subsec. (i).
+    Subsec. (i). [Pub. L. 90–137][/us/pl/90/137], § 302(o), added subsec. (i).
 
-    1965—Subsec. (e). [Pub. L. 89–171, § 302(h)(1)][/us/pl/89/171/s302/h/1], substituted “section 301 of the Dual Compensation Act ([5 U.S.C. 3105][/us/usc/t5/s3105])” for “[section 2 of the Act of July 31, 1894][/us/act/1894-07-31/s2], as amended ([5 U.S.C. 62][/us/usc/t5/s62])”.
+    1965—Subsec. (e). [Pub. L. 89–171][/us/pl/89/171], § 302(h)(1), substituted “section 301 of the Dual Compensation Act ([5 U.S.C. 3105][/us/usc/t5/s3105])” for “[section 2 of the Act of July 31, 1894][/us/act/1894-07-31/s2], as amended ([5 U.S.C. 62][/us/usc/t5/s62])”.
 
-    Subsec. (f). [Pub. L. 89–171, § 302(h)(2)][/us/pl/89/171/s302/h/2], substituted “Latin American Development Act, as amended” for “Act to provide for assistance in the development of Latin America and in the reconstruction of Chile, and for other purposes”.
+    Subsec. (f). [Pub. L. 89–171][/us/pl/89/171], § 302(h)(2), substituted “Latin American Development Act, as amended” for “Act to provide for assistance in the development of Latin America and in the reconstruction of Chile, and for other purposes”.
 
     1963—Subsec. (h). [Pub. L. 88–205][/us/pl/88/205] added subsec. (h).
 
@@ -228,37 +228,37 @@
 [/us/stat/82/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F965
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F821
-[/us/pl/94/329/s106/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F5
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F733
-[/us/pl/95/424/s102/g/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FH
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F943
-[/us/pl/99/83/s1211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1211%2Fb%2F1
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F279
-[/us/pl/99/234/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs107%2Fb
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1759
-[/us/pl/99/550/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550%2Fs2%2Fb
+[/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/stat/100/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3070
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
+[/us/pl/101/167/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtIII
 [/us/stat/103/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1214
-[/us/pl/107/372/s271/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs271%2F7
+[/us/pl/107/372/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtII
 [/us/stat/116/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3094
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t31/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs543
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s2385/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385%2Fd
-[/us/pl/96/465/s2203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2203%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2158
-[/us/pl/91/648/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2Fs403
+[/us/pl/91/648/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648%2FtIV
 [/us/stat/84/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1925
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
@@ -280,11 +280,11 @@
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
 [/us/pl/60/328/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F60%2F328%2Fs9
 [/us/usc/t31/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs673
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t41/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6303
 [/us/usc/t41/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs12
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
@@ -297,32 +297,32 @@
 [/us/usc/t31/s638c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs638c
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/95/424/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs505
-[/us/pl/95/424/s102/g/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FH
-[/us/pl/95/424/s102/g/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FI
-[/us/pl/95/424/s102/g/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FJ
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/usc/t22/s2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2172
-[/us/pl/94/329/s106/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F5%2FA
-[/us/pl/94/329/s106/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fb%2F5%2FB
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
-[/us/pl/90/137/s302/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fj
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/usc/t31/s638c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs638c
 [/us/usc/t5/s78a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs78a%E2%80%931
-[/us/pl/90/137/s302/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fk
-[/us/pl/90/137/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302
-[/us/pl/90/137/s302/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fm
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/usc/t5/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
-[/us/pl/90/137/s302/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fn
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/usc/t5/s5702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702%2Fc
 [/us/usc/t5/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs836
-[/us/pl/90/137/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302
-[/us/pl/89/171/s302/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs302%2Fh%2F1
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/act/1894-07-31/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-31%2Fs2
 [/us/usc/t5/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs62
-[/us/pl/89/171/s302/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171%2Fs302%2Fh%2F2
+[/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

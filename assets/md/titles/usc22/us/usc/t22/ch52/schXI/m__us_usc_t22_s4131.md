@@ -67,21 +67,21 @@
 
     (c) This subchapter applies only with respect to the Department of State, Broadcasting  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “the Broadcasting”. </sup></sup>  Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
-([Pub. L. 96–465, title I, § 1101][/us/pl/96/465/s1101], Oct. 17, 1980, [94 Stat. 2142][/us/stat/94/2142]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 102–138, title I, § 153(a)][/us/pl/102/138/s153/a], Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673]; [Pub. L. 103–236, title I][/us/pl/103/236], §§ 180(a)(10), 181(a)(4)(A), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416], 417; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(k)(4), title XIV, § 1422(b)(4)(D), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1101, Oct. 17, 1980, [94 Stat. 2142][/us/stat/94/2142]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 153(a), Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], §§ 180(a)(10), 181(a)(4)(A), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416], 417; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(k)(4), title XIV, § 1422(b)(4)(D), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–793.)
 
  __Amendments__ 
 
-    1998—Subsec. (c). [Pub. L. 105–277, § 1422(b)(4)(D)][/us/pl/105/277/s1422/b/4/D], substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+    1998—Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(4)(D), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
 
-    [Pub. L. 105–277, § 1335(k)(4)][/us/pl/105/277/s1335/k/4], substituted “Broadcasting Board of Governors,” for “the United States Information Agency,”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(k)(4), substituted “Broadcasting Board of Governors,” for “the United States Information Agency,”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–236, § 180(a)(10)][/us/pl/103/236/s180/a/10], inserted “(other than a United States citizen employed under [section 3951 of this title][/us/usc/t22/s3951] who is not a family member)” after “citizen of the United States” in introductory provisions.
+    1994—Subsec. (a)(1). [Pub. L. 103–236][/us/pl/103/236], § 180(a)(10), inserted “(other than a United States citizen employed under [section 3951 of this title][/us/usc/t22/s3951] who is not a family member)” after “citizen of the United States” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 103–236, § 181(a)(4)][/us/pl/103/236/s181/a/4], made technical amendment to reference to [section 4011 of this title][/us/usc/t22/s4011] to reflect renumbering of corresponding section of original act.
+    Subsec. (b)(3). [Pub. L. 103–236][/us/pl/103/236], § 181(a)(4), made technical amendment to reference to [section 4011 of this title][/us/usc/t22/s4011] to reflect renumbering of corresponding section of original act.
 
-    1991—Subsec. (a)(1)(H). [Pub. L. 102–138, § 153(a)(1)][/us/pl/102/138/s153/a/1], added subpar. (H).
+    1991—Subsec. (a)(1)(H). [Pub. L. 102–138][/us/pl/102/138], § 153(a)(1), added subpar. (H).
 
-    Subsec. (b). [Pub. L. 102–138, § 153(a)(2)][/us/pl/102/138/s153/a/2], in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
+    Subsec. (b). [Pub. L. 102–138][/us/pl/102/138], § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
 
  __Change of Name__ 
 
@@ -113,24 +113,24 @@
 [/us/usc/t22/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4011
 [/us/usc/t22/s4007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4007%2Fb
 [/us/usc/t22/s4139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4139%2Fa%2F2
-[/us/pl/96/465/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1101
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2142
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/102/138/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F673
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F416
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
-[/us/pl/105/277/s1422/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F4%2FD
-[/us/pl/105/277/s1335/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F4
-[/us/pl/103/236/s180/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs180%2Fa%2F10
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951
-[/us/pl/103/236/s181/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fa%2F4
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4011
-[/us/pl/102/138/s153/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fa%2F1
-[/us/pl/102/138/s153/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fa%2F2
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/pl/105/277/s1335/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fk%2F4

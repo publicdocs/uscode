@@ -25,7 +25,7 @@
 
     (b) The Governor, or in his absence the Alternate Governor, on the instructions of the President, shall cast the votes of the United States for the Director to represent the United States in the Fund. The Director representing the United States and his Alternate, if they are citizens of the United States, may, in the discretion of the President, receive such compensation, allowances, and other benefits not exceeding those authorized for a chief of mission under the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\].
 
-([Pub. L. 94–302, title II, § 203][/us/pl/94/302/s203], May 31, 1976, [90 Stat. 593][/us/stat/90/593]; [Pub. L. 96–465, title II, § 2206(a)(5)][/us/pl/96/465/s2206/a/5], Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161]; [Pub. L. 112–166, § 2(bb)][/us/pl/112/166/s2/bb], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 203, May 31, 1976, [90 Stat. 593][/us/stat/90/593]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(5), Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161]; [Pub. L. 112–166][/us/pl/112/166], § 2(bb), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/94/302/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs203
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F593
-[/us/pl/96/465/s2206/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F5
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2161
-[/us/pl/112/166/s2/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fbb
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

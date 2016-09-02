@@ -127,7 +127,7 @@
 
             (I) the number of personnel trained as health workers and the training levels achieved.
 
-([Pub. L. 108–25, title III, § 304][/us/pl/108/25/s304], May 27, 2003, [117 Stat. 737][/us/stat/117/737]; [Pub. L. 110–293, title III, § 304][/us/pl/110/293/s304], July 30, 2008, [122 Stat. 2961][/us/stat/122/2961].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 304, May 27, 2003, [117 Stat. 737][/us/stat/117/737]; [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 304, July 30, 2008, [122 Stat. 2961][/us/stat/122/2961].)
 
  __References in Text__ 
 
@@ -150,9 +150,9 @@
 
 [/us/usc/t22/s2151b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%934
 [/us/usc/t22/s2151b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%934
-[/us/pl/108/25/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs304
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F737
-[/us/pl/110/293/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs304
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2961
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

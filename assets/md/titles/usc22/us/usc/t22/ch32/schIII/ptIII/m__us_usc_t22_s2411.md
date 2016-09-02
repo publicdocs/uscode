@@ -17,7 +17,7 @@
 
     The President shall not exercise any special authority granted to him under section 2318(a), 2348a(c)(2), or 2360(a) of this title unless the President, before he intends to exercise any such authority, notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate in writing of each such intended exercise, the section of this chapter under which such authority is to be exercised, and the justification for, and the extent of, the exercise of such authority.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 652, as added [Pub. L. 91–652, § 8][/us/pl/91/652/s8], Jan. 5, 1971, [84 Stat. 1943][/us/stat/84/1943]; amended [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(a)(1), Feb. 7, 1972, [86 Stat. 28][/us/stat/86/28]; [Pub. L. 96–533, title I, § 117(b)][/us/pl/96/533/s117/b], Dec. 16, 1980, [94 Stat. 3141][/us/stat/94/3141]; [Pub. L. 99–83, title I, § 105(b)(2)][/us/pl/99/83/s105/b/2], Aug. 8, 1985, [99 Stat. 196][/us/stat/99/196]; [Pub. L. 104–164, title I, § 103(c)][/us/pl/104/164/s103/c], July 21, 1996, [110 Stat. 1424][/us/stat/110/1424].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 652, as added [Pub. L. 91–652][/us/pl/91/652], § 8, Jan. 5, 1971, [84 Stat. 1943][/us/stat/84/1943]; amended [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(a)(1), Feb. 7, 1972, [86 Stat. 28][/us/stat/86/28]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 117(b), Dec. 16, 1980, [94 Stat. 3141][/us/stat/94/3141]; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 105(b)(2), Aug. 8, 1985, [99 Stat. 196][/us/stat/99/196]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 103(c), July 21, 1996, [110 Stat. 1424][/us/stat/110/1424].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Funds Not To Be Used To Finance Introduction of United States Ground Combat Troops Into Cambodia or Provide Advisers for Security or Intelligence Forces in Cambodia; Assistance to Cambodia Not To Be Construed as Commitment by United States to Cambodia for Its Defense__ 
 
-[Pub. L. 91–652, § 7][/us/pl/91/652/s7], Jan. 5, 1971, [84 Stat. 1943][/us/stat/84/1943], as amended by [Pub. L. 92–226][/us/pl/92/226], pt. IV, § 408, Feb. 7, 1972, [86 Stat. 35][/us/stat/86/35], provided that:
+[Pub. L. 91–652][/us/pl/91/652], § 7, Jan. 5, 1971, [84 Stat. 1943][/us/stat/84/1943], as amended by [Pub. L. 92–226][/us/pl/92/226], pt. IV, § 408, Feb. 7, 1972, [86 Stat. 35][/us/stat/86/35], provided that:
 
 >     “(a) In line with the expressed intention of the President of the United States, none of the funds authorized or appropriated pursuant to this or any other Act may be used to finance the introduction of United States ground combat troops into Cambodia, or to provide United States advisers to or for military, paramilitary, police, or other security or intelligence forces in Cambodia.
 
@@ -57,15 +57,15 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/91/652/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652%2Fs8
+[/us/pl/91/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652
 [/us/stat/84/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1943
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F28
-[/us/pl/96/533/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs117%2Fb
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3141
-[/us/pl/99/83/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs105%2Fb%2F2
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F196
-[/us/pl/104/164/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs103%2Fc
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1424
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -80,7 +80,7 @@
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/91/652/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652%2Fs7
+[/us/pl/91/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F652
 [/us/stat/84/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1943
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F35

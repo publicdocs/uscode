@@ -51,7 +51,7 @@
 
         For purposes of this section, defense articles and defense services sold, leased, or exported under this chapter or the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) includes defense articles and defense services that are transferred to a third country or other third party.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3A, § 40A, as added [Pub. L. 104–164, title I, § 150(a)][/us/pl/104/164/s150/a], July 21, 1996, [110 Stat. 1436][/us/stat/110/1436]; amended [Pub. L. 107–228, div. B, title XII, § 1205(b)][/us/pl/107/228/s1205/b], Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3A, § 40A, as added [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 150(a), July 21, 1996, [110 Stat. 1436][/us/stat/110/1436]; amended [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1205(b), Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–164, title I, § 150(b)][/us/pl/104/164/s150/b], July 21, 1996, [110 Stat. 1437][/us/stat/110/1437], provided that: 
+[Pub. L. 104–164, title I][/us/pl/104/164/tI], § 150(b), July 21, 1996, [110 Stat. 1437][/us/stat/110/1437], provided that: 
 
 > “Section 40A of the Arms Export Control Act, as added by subsection (a) \[[22 U.S.C. 2785][/us/usc/t22/s2785]\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\].”
 
@@ -89,9 +89,9 @@
 [/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/104/164/s150/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs150%2Fa
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1436
-[/us/pl/107/228/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1205%2Fb
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1428
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -102,7 +102,7 @@
 [/us/pl/90/629/s40A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs40A
 [/us/usc/t22/s2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2781
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/104/164/s150/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs150%2Fb
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1437
 [/us/usc/t22/s2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2785
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751

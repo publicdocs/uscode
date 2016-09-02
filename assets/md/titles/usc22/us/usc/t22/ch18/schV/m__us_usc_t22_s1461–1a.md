@@ -27,7 +27,7 @@
 
         The provisions of this section shall apply only to the Department of State and the Broadcasting Board of Governors and to no other department or agency of the Federal Government.
 
-([Pub. L. 99–93, title II, § 208][/us/pl/99/93/s208], Aug. 16, 1985, [99 Stat. 431][/us/stat/99/431]; [Pub. L. 103–236, title II, § 232][/us/pl/103/236/s232], Apr. 30, 1994, [108 Stat. 424][/us/stat/108/424]; [Pub. L. 112–239, div. A, title X, § 1078(c)][/us/pl/112/239/s1078/c], Jan. 2, 2013, [126 Stat. 1958][/us/stat/126/1958].)
+([Pub. L. 99–93, title II][/us/pl/99/93/tII], § 208, Aug. 16, 1985, [99 Stat. 431][/us/stat/99/431]; [Pub. L. 103–236, title II][/us/pl/103/236/tII], § 232, Apr. 30, 1994, [108 Stat. 424][/us/stat/108/424]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1078(c), Jan. 2, 2013, [126 Stat. 1958][/us/stat/126/1958].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 [/us/usc/t22/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465
 [/us/usc/t22/s1465aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465aa
 [/us/usc/t22/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1462
-[/us/pl/99/93/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs208
+[/us/pl/99/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtII
 [/us/stat/99/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F431
-[/us/pl/103/236/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs232
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F424
-[/us/pl/112/239/s1078/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fc
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1958
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F6

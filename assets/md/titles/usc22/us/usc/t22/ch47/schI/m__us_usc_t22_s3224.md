@@ -17,7 +17,7 @@
 
     The President shall take immediate initiatives to invite all nuclear supplier and recipient nations to reevaluate all aspects of the nuclear fuel cycle, with emphasis on alternatives to an economy based on the separation of pure plutonium or the presence of high enriched uranium, methods to deal with spent fuel storage, and methods to improve the safeguards for existing nuclear technology. The President shall, in the first report required by [section 3281 of this title][/us/usc/t22/s3281], detail the progress of such international reevaluation.
 
-([Pub. L. 95–242, title I, § 105][/us/pl/95/242/s105], Mar. 10, 1978, [92 Stat. 123][/us/stat/92/123].)
+([Pub. L. 95–242, title I][/us/pl/95/242/tI], § 105, Mar. 10, 1978, [92 Stat. 123][/us/stat/92/123].)
 
  __Delegation of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281
-[/us/pl/95/242/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs105
+[/us/pl/95/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtI
 [/us/stat/92/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F123
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 

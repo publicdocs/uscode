@@ -43,7 +43,7 @@
 
         (3) The Commission may promulgate the guidelines or amendments under this subsection in accordance with the procedures set forth in section 21(a) of the Sentencing Act of 1987, as though the authority under that Act had not expired.
 
-([Pub. L. 106–386, div. A, § 112][/us/pl/106/386/s112], Oct. 28, 2000, [114 Stat. 1486][/us/stat/114/1486].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112, Oct. 28, 2000, [114 Stat. 1486][/us/stat/114/1486].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1801
-[/us/pl/106/386/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1486
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

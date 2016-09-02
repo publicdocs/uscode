@@ -17,7 +17,7 @@
 
     Not later than 90 days after August 27, 1986, the Secretary of State shall submit a report to the Congress on the implementation of the 91 recommendations contained in the final report of the Advisory Panel on Overseas Security. If any such recommendation has been rejected, the Secretary shall provide the reasons why that recommendation was rejected.
 
-([Pub. L. 99–399, title IV, § 407][/us/pl/99/399/s407], Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 407, Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/399/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs407
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F866
 
 

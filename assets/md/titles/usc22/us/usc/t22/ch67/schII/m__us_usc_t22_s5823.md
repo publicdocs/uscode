@@ -41,7 +41,7 @@
 
         (7) Supporting the Business Information Service (BISNIS) and its related programs.
 
-([Pub. L. 102–511, title III, § 303][/us/pl/102/511/s303], Oct. 24, 1992, [106 Stat. 3333][/us/stat/106/3333].)
+([Pub. L. 102–511, title III][/us/pl/102/511/tIII], § 303, Oct. 24, 1992, [106 Stat. 3333][/us/stat/106/3333].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 [/us/usc/t15/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4723
-[/us/pl/102/511/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs303
+[/us/pl/102/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIII
 [/us/stat/106/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3333
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

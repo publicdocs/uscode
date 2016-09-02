@@ -41,7 +41,7 @@
 
         In this section, the term “reporting period” means, in the case of the initial report, the period since May 27, 2003, and, in the case of any subsequent report, the period since the date of submission of the most recent report.
 
-([Pub. L. 108–25, title III, § 313][/us/pl/108/25/s313], May 27, 2003, [117 Stat. 741][/us/stat/117/741]; [Pub. L. 110–293, title III, § 308][/us/pl/110/293/s308], July 30, 2008, [122 Stat. 2964][/us/stat/122/2964].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 313, May 27, 2003, [117 Stat. 741][/us/stat/117/741]; [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 308, July 30, 2008, [122 Stat. 2964][/us/stat/122/2964].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t22/s7652/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7652%2Fb%2F1
-[/us/pl/108/25/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs313
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F741
-[/us/pl/110/293/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs308
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2964
 [/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

@@ -25,7 +25,7 @@
 
     (b) In conducting any investigation pursuant to subsection (a) of this section, the Board of Local Inspectors established pursuant to such subsection may summon witnesses, administer oaths, and require the production of books and papers necessary for such investigation.
 
-([Pub. L. 96–70, title I, § 1418][/us/pl/96/70/s1418], Sept. 27, 1979, [93 Stat. 487][/us/stat/93/487].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1418, Sept. 27, 1979, [93 Stat. 487][/us/stat/93/487].)
 
  __Delegation of Functions__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3777
-[/us/pl/96/70/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1418
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F487
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 

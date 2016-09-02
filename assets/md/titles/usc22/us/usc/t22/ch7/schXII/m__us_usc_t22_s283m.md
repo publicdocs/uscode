@@ -27,7 +27,7 @@
 
         The voting power of the United States shall be exercised for the purpose of disapproving any loan which might assist the recipient country directly or indirectly to acquire sophisticated or heavy military equipment.
 
-([Pub. L. 86–147, § 16][/us/pl/86/147/s16], as added [Pub. L. 90–88, § 2][/us/pl/90/88/s2], Sept. 22, 1967, [81 Stat. 227][/us/stat/81/227].)
+([Pub. L. 86–147][/us/pl/86/147], § 16, as added [Pub. L. 90–88][/us/pl/90/88], § 2, Sept. 22, 1967, [81 Stat. 227][/us/stat/81/227].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs16
-[/us/pl/90/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F88%2Fs2
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/90/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F88
 [/us/stat/81/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F227
 
 

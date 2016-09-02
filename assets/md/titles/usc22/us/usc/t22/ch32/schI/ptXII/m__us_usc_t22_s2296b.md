@@ -37,7 +37,7 @@
 
         Activities that may be supported by programs under subsection (b) include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499B, as added [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–124.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499B, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–124.)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t22/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F526

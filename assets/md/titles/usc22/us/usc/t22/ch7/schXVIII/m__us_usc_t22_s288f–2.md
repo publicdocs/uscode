@@ -19,7 +19,7 @@
 
     (b) Under such terms and conditions as the President shall determine, consistent with the purposes of this subchapter, the President is authorized to extend, or enter into an agreement to extend, to the African Union Mission to the United States of America, and to its members, the privileges and immunities enjoyed by diplomatic missions accredited to the United States, and by members of such missions, subject to corresponding conditions and obligations.
 
-([Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 12, as added [Pub. L. 93–161][/us/pl/93/161], Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; amended [Pub. L. 96–60, title IV, § 404][/us/pl/96/60/s404], Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 406\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101; [Pub. L. 108–447, div. D, title V, § 569(h)][/us/pl/108/447/s569/h], Dec. 8, 2004, [118 Stat. 3026][/us/stat/118/3026]; [Pub. L. 108–497, § 8][/us/pl/108/497/s8], Dec. 23, 2004, [118 Stat. 4019][/us/stat/118/4019]; [Pub. L. 109–472, § 7(a)][/us/pl/109/472/s7/a], Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556].)
+([Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], title I, § 12, as added [Pub. L. 93–161][/us/pl/93/161], Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; amended [Pub. L. 96–60, title IV][/us/pl/96/60/tIV], § 404, Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IV, § 406\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101; [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 569(h), Dec. 8, 2004, [118 Stat. 3026][/us/stat/118/3026]; [Pub. L. 108–497][/us/pl/108/497], § 8, Dec. 23, 2004, [118 Stat. 4019][/us/stat/118/4019]; [Pub. L. 109–472][/us/pl/109/472], § 7(a), Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556].)
 
  __References in Text__ 
 
@@ -59,15 +59,15 @@
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/pl/93/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F161
 [/us/stat/87/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F635
-[/us/pl/96/60/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs404
+[/us/pl/96/60/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtIV
 [/us/stat/93/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F403
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/108/447/s569/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs569%2Fh
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3026
-[/us/pl/108/497/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497%2Fs8
+[/us/pl/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497
 [/us/stat/118/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F4019
-[/us/pl/109/472/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs7%2Fa
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3556
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669

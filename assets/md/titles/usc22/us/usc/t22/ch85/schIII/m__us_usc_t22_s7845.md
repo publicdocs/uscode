@@ -35,15 +35,15 @@
 
         (3) family links to the United States.
 
-([Pub. L. 108–333, title III, § 305][/us/pl/108/333/s305], Oct. 18, 2004, [118 Stat. 1297][/us/stat/118/1297]; [Pub. L. 110–346, § 11][/us/pl/110/346/s11], Oct. 7, 2008, [122 Stat. 3942][/us/stat/122/3942]; [Pub. L. 112–172, § 10][/us/pl/112/172/s10], Aug. 16, 2012, [126 Stat. 1309][/us/stat/126/1309].)
+([Pub. L. 108–333, title III][/us/pl/108/333/tIII], § 305, Oct. 18, 2004, [118 Stat. 1297][/us/stat/118/1297]; [Pub. L. 110–346][/us/pl/110/346], § 11, Oct. 7, 2008, [122 Stat. 3942][/us/stat/122/3942]; [Pub. L. 112–172][/us/pl/112/172], § 10, Aug. 16, 2012, [126 Stat. 1309][/us/stat/126/1309].)
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–172][/us/pl/112/172] substituted “2017” for “2012” in introductory provisions.
 
-    2008—Subsec. (a). [Pub. L. 110–346, § 11(1)][/us/pl/110/346/s11/1], (2), inserted “and refugee” before “information” in heading, and, in introductory provisions, substituted “through 2012” for “for each of the following 5 years” and “which shall include the following:” for “which shall include—”.
+    2008—Subsec. (a). [Pub. L. 110–346][/us/pl/110/346], § 11(1), (2), inserted “and refugee” before “information” in heading, and, in introductory provisions, substituted “through 2012” for “for each of the following 5 years” and “which shall include the following:” for “which shall include—”.
 
-    [Pub. L. 110–346, § 11(3)][/us/pl/110/346/s11/3]–(5), substituted “The number of aliens” for “the number of aliens” in pars. (1) and (2) and a period for “; and” in par. (1) and added par. (3).
+    [Pub. L. 110–346][/us/pl/110/346], § 11(3)–(5), substituted “The number of aliens” for “the number of aliens” in pars. (1) and (2) and a period for “; and” in par. (1) and added par. (3).
 
 ----------
 
@@ -55,14 +55,14 @@
 [/us/usc/t22/s7843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7843
 [/us/usc/t8/s1157/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157%2Fd
 [/us/usc/t22/s6442/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6442%2Fb
-[/us/pl/108/333/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs305
+[/us/pl/108/333/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtIII
 [/us/stat/118/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1297
-[/us/pl/110/346/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs11
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 [/us/stat/122/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3942
-[/us/pl/112/172/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172%2Fs10
+[/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
 [/us/stat/126/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1309
 [/us/pl/112/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F172
-[/us/pl/110/346/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs11%2F1
-[/us/pl/110/346/s11/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346%2Fs11%2F3
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
+[/us/pl/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F346
 
 

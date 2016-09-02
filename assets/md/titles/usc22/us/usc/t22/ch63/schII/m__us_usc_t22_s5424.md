@@ -21,7 +21,7 @@
 
     (2) to extend the technical skills described in [section 5423(a) of this title][/us/usc/t22/s5423/a] to the people of Poland and Hungary, using the Associate Volunteer Program to the extent practicable.
 
-([Pub. L. 101–179, title II, § 204][/us/pl/101/179/s204], Nov. 28, 1989, [103 Stat. 1310][/us/stat/103/1310].)
+([Pub. L. 101–179, title II][/us/pl/101/179/tII], § 204, Nov. 28, 1989, [103 Stat. 1310][/us/stat/103/1310].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t22/s5423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5423%2Fa
-[/us/pl/101/179/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs204
+[/us/pl/101/179/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtII
 [/us/stat/103/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1310
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

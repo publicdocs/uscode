@@ -45,7 +45,7 @@
 
         (4) Except as provided in paragraphs (1), (2), and (3), any employee representing an exclusive representative, or engaged in any other matter covered by this subchapter, shall be granted official time in any amount the Department and the exclusive representative agree to be reasonable, necessary, and in the public interest.
 
-([Pub. L. 96–465, title I, § 1018][/us/pl/96/465/s1018], Oct. 17, 1980, [94 Stat. 2141][/us/stat/94/2141].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1018, Oct. 17, 1980, [94 Stat. 2141][/us/stat/94/2141].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t22/s4111/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4111%2Fb%2F1%2FA
-[/us/pl/96/465/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1018
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2141
 
 

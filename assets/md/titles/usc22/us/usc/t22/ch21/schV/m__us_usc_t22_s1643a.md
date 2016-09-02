@@ -27,13 +27,13 @@
 
     (5) The term “Chinese Communist regime” means the so-called Peoples Republic of China, including any political subdivision, agency, or instrumentality thereof.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 502, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1110][/us/stat/78/1110]; amended [Pub. L. 89–780, § 2][/us/pl/89/780/s2], Nov. 6, 1966, [80 Stat. 1365][/us/stat/80/1365].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 502, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1110][/us/stat/78/1110]; amended [Pub. L. 89–780][/us/pl/89/780], § 2, Nov. 6, 1966, [80 Stat. 1365][/us/stat/80/1365].)
 
  __Amendments__ 
 
-    1966—Par. (3). [Pub. L. 89–780, § 2(1)][/us/pl/89/780/s2/1], inserted reference to the Chinese Communist regime in three places.
+    1966—Par. (3). [Pub. L. 89–780][/us/pl/89/780], § 2(1), inserted reference to the Chinese Communist regime in three places.
 
-    Par. (5). [Pub. L. 89–780, § 2(2)][/us/pl/89/780/s2/2], added par. (5).
+    Par. (5). [Pub. L. 89–780][/us/pl/89/780], § 2(2), added par. (5).
 
  __Transfer of Foreign Claims Settlement Commission of the United States as Separate Agency Within Department of Justice__ 
 
@@ -49,9 +49,9 @@
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/88/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F666
 [/us/stat/78/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1110
-[/us/pl/89/780/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs2
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
 [/us/stat/80/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1365
-[/us/pl/89/780/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs2%2F1
-[/us/pl/89/780/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs2%2F2
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
 
 

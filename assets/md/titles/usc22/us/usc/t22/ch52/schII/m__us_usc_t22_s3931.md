@@ -37,7 +37,7 @@
 
         Any vacancy or vacancies on the Board shall not impair the right of the remaining members to exercise the full powers of the Board.
 
-([Pub. L. 96–465, title I, § 211][/us/pl/96/465/s211], Oct. 17, 1980, [94 Stat. 2083][/us/stat/94/2083].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 211, Oct. 17, 1980, [94 Stat. 2083][/us/stat/94/2083].)
 
  __Establishment of Board of Examiners__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t22/s3941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3941%2Fb
 [/us/usc/t22/s3941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3941%2Fb
 [/us/usc/t22/s3941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3941%2Fb
-[/us/pl/96/465/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs211
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2083
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 

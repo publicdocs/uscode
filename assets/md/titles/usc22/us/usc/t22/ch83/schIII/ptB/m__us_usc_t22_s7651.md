@@ -33,7 +33,7 @@
 
     (8) HIV/AIDS also targets young people between the ages of 15 to 24, particularly young women, many of whom carry the burden of caring for family members living with HIV/AIDS. An estimated 10,300,000 young people are now living with HIV/AIDS. One-half of all new infections are occurring among this age group.
 
-([Pub. L. 108–25, title III, § 311][/us/pl/108/25/s311], May 27, 2003, [117 Stat. 740][/us/stat/117/740].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 311, May 27, 2003, [117 Stat. 740][/us/stat/117/740].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/25/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs311
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F740
 
 

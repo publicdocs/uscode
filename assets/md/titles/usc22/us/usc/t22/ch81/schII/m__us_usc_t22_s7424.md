@@ -33,7 +33,7 @@
 
         (3) the national interests of the United States justify participation by members of the Armed Forces of the United States in the peacekeeping or peace enforcement operation.
 
-([Pub. L. 107–206, title II, § 2005][/us/pl/107/206/s2005], Aug. 2, 2002, [116 Stat. 903][/us/stat/116/903].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2005, Aug. 2, 2002, [116 Stat. 903][/us/stat/116/903].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/206/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2005
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F903
 
 

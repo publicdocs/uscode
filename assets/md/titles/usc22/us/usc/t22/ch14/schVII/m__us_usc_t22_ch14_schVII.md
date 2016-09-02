@@ -11,67 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schVI/ptJ/m__us_usc_t22_ch14_schVI_ptJ.md) | [Next](./../../../../..//us/usc/t22/ch14/schVIII/m__us_usc_t22_ch14_schVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVII)
+[Previous](./../../../../..//us/usc/t22/ch14/schVI/ptJ/m__us_usc_t22_s1037...1037c.md) | [Next](./../../../../..//us/usc/t22/ch14/schVII/m__us_usc_t22_s1041...1048.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVII)
 
 ### SUBCHAPTER VII—THE FOREIGN SERVICE INSTITUTE
 
-§§ 1041 to 1048. __Repealed.__  __[__  __Pub. L. 96–465, title II, § 2205(1)__  __][/us/pl/96/465/s2205/1]__  __,__  __Oct. 17, 1980__  __,__  __[__  __94 Stat. 2159__  __][/us/stat/94/2159]__ 
-
-    Section 1041, acts [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 701, [60 Stat. 1018][/us/stat/60/1018]; Sept. 8, 1960, [Pub. L. 86–723, § 29][/us/pl/86/723/s29], [74 Stat. 837][/us/stat/74/837]; Sept. 4, 1961, [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 708(1), [75 Stat. 464][/us/stat/75/464], related to establishment, etc., of Foreign Service Institute.
-
-    Section 1042, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 702, [60 Stat. 1018][/us/stat/60/1018], related to appointment, salary, and duties of Director of Institute.
-
-    Section 1043, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 703, [60 Stat. 1018][/us/stat/60/1018], related to aid to nonprofit institutions.
-
-    Section 1044, acts [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 704, [60 Stat. 1018][/us/stat/60/1018]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; Sept. 8, 1960, [Pub. L. 86–723, § 30][/us/pl/86/723/s30], [74 Stat. 837][/us/stat/74/837], set forth provisions relating to appointment or assignment of personnel to faculty or staff of Institute.
-
-    Section 1045, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 705, [60 Stat. 1019][/us/stat/60/1019], related to instruction and education at localities other than Institute.
-
-    Section 1046, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 706, [60 Stat. 1019][/us/stat/60/1019], related to endowments and gifts.
-
-    Section 1047, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 707, [60 Stat. 1019][/us/stat/60/1019], related to acquisition of real property.
-
-    Section 1048, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title VII, § 708, as added Oct. 7, 1978, [Pub. L. 95–426, title IV, § 405(a)(1)][/us/pl/95/426/s405/a/1], [92 Stat. 979][/us/stat/92/979], authorized Institute to provide orientation and language training for family members of Government personnel.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Feb. 15, 1981, except as otherwise provided, see [section 2403 of Pub. L. 96–465][/us/pl/96/465/s2403], set out as an Effective Date note under [section 3901 of this title][/us/usc/t22/s3901].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch14/schVI/ptJ/m__us_usc_t22_ch14_schVI_ptJ.md) | [Next](./../../../../..//us/usc/t22/ch14/schVIII/m__us_usc_t22_ch14_schVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVII)
+[Previous](./../../../../..//us/usc/t22/ch14/schVI/ptJ/m__us_usc_t22_s1037...1037c.md) | [Next](./../../../../..//us/usc/t22/ch14/schVII/m__us_usc_t22_s1041...1048.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschVII)
 
 ----------
 ----------
 
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
-[/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1018
-[/us/pl/86/723/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs29
-[/us/stat/74/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F837
-[/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/stat/75/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F464
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1018
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1018
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1018
-[/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
-[/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/86/723/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs30
-[/us/stat/74/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F837
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1019
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1019
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/stat/60/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1019
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/pl/95/426/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs405%2Fa%2F1
-[/us/stat/92/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F979
-[/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
-[/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 
 

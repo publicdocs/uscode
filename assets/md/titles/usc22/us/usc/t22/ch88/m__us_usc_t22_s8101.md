@@ -37,11 +37,11 @@
 
     (10) Implementation of the Additional Protocol will conform to the principles set forth in the letter of April 30, 2002, from the United States Permanent Representative to the International Atomic Energy Agency and the Vienna Office of the United Nations to the Director General of the International Atomic Energy Agency.
 
-([Pub. L. 109–401, title II, § 202][/us/pl/109/401/s202], Dec. 18, 2006, [120 Stat. 2741][/us/stat/120/2741].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 202, Dec. 18, 2006, [120 Stat. 2741][/us/stat/120/2741].)
 
  __Short Title__ 
 
-[Pub. L. 109–401, title II, § 201][/us/pl/109/401/s201], Dec. 18, 2006, [120 Stat. 2741][/us/stat/120/2741], provided that: 
+[Pub. L. 109–401, title II][/us/pl/109/401/tII], § 201, Dec. 18, 2006, [120 Stat. 2741][/us/stat/120/2741], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘United States Additional Protocol Implementation Act’.”
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/109/401/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs202
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2741
-[/us/pl/109/401/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs201
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2741
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

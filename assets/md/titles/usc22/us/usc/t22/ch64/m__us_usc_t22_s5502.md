@@ -17,7 +17,7 @@
 
     The Coordinator for Counterterrorism shall be responsible for the coordination of international aviation security for the Department of State.
 
-([Pub. L. 101–604, title II, § 202][/us/pl/101/604/s202], Nov. 16, 1990, [104 Stat. 3082][/us/stat/104/3082].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 202, Nov. 16, 1990, [104 Stat. 3082][/us/stat/104/3082].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs202
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3082
 
 

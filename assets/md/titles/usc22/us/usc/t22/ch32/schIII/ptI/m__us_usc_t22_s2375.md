@@ -63,7 +63,7 @@
 
         Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under [section 4612 of title 50][/us/usc/t50/s4612] or [section 2797b of this title][/us/usc/t22/s2797b].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620E, as added [Pub. L. 97–113, title VII, § 736][/us/pl/97/113/s736], Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561]; amended [Pub. L. 99–83, title IX, § 902][/us/pl/99/83/s902], Aug. 8, 1985, [99 Stat. 267][/us/stat/99/267]; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 557\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–170; [Pub. L. 101–167, title V, § 591][/us/pl/101/167/s591], Nov. 21, 1989, [103 Stat. 1253][/us/stat/103/1253]; [Pub. L. 101–513, title V, § 574(a)][/us/pl/101/513/s574/a], Nov. 5, 1990, [104 Stat. 2042][/us/stat/104/2042]; [Pub. L. 102–145, § 118][/us/pl/102/145/s118], as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 93][/us/stat/106/93]; [Pub. L. 102–391, title V, § 570(a)][/us/pl/102/391/s570/a], Oct. 6, 1992, [106 Stat. 1681][/us/stat/106/1681]; [Pub. L. 103–87, title V, § 536(a)][/us/pl/103/87/s536/a], Sept. 30, 1993, [107 Stat. 955][/us/stat/107/955]; [Pub. L. 103–236, title VIII, § 822(b)(2)][/us/pl/103/236/s822/b/2], Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 104–107, title V, § 559(a)][/us/pl/104/107/s559/a], Feb. 12, 1996, [110 Stat. 743][/us/stat/110/743].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620E, as added [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 736, Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561]; amended [Pub. L. 99–83, title IX][/us/pl/99/83/tIX], § 902, Aug. 8, 1985, [99 Stat. 267][/us/stat/99/267]; [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 557\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–170; [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 591, Nov. 21, 1989, [103 Stat. 1253][/us/stat/103/1253]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 574(a), Nov. 5, 1990, [104 Stat. 2042][/us/stat/104/2042]; [Pub. L. 102–145][/us/pl/102/145], § 118, as added [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 93][/us/stat/106/93]; [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 570(a), Oct. 6, 1992, [106 Stat. 1681][/us/stat/106/1681]; [Pub. L. 103–87, title V][/us/pl/103/87/tV], § 536(a), Sept. 30, 1993, [107 Stat. 955][/us/stat/107/955]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 822(b)(2), Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 559(a), Feb. 12, 1996, [110 Stat. 743][/us/stat/110/743].)
 
  __References in Text__ 
 
@@ -73,13 +73,13 @@
 
  __Codification__ 
 
-    Amendment by [Pub. L. 102–145][/us/pl/102/145] is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by [Pub. L. 102–145, § 118][/us/pl/102/145/s118], as added by [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 93][/us/stat/106/93]. [Section 118 of Pub. L. 102–145][/us/pl/102/145/s118] provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by [Pub. L. 102–145][/us/pl/102/145] (and are hereby enacted) in lieu of the authority and conditions provided in [section 574 of Pub. L. 101–513][/us/pl/101/513/s574]. See 1990, 1991, and 1992 Amendment notes below.
+    Amendment by [Pub. L. 102–145][/us/pl/102/145] is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by [Pub. L. 102–145][/us/pl/102/145], § 118, as added by [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 93][/us/stat/106/93]. [Section 118 of Pub. L. 102–145][/us/pl/102/145/s118] provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by [Pub. L. 102–145][/us/pl/102/145] (and are hereby enacted) in lieu of the authority and conditions provided in [section 574 of Pub. L. 101–513][/us/pl/101/513/s574]. See 1990, 1991, and 1992 Amendment notes below.
 
  __Amendments__ 
 
-    1996—Subsec. (e). [Pub. L. 104–107, § 559(a)(1)][/us/pl/104/107/s559/a/1], designated existing provisions as par. (1), substituted “military assistance” for “assistance” wherever appearing, and added par. (2).
+    1996—Subsec. (e). [Pub. L. 104–107][/us/pl/104/107], § 559(a)(1), designated existing provisions as par. (1), substituted “military assistance” for “assistance” wherever appearing, and added par. (2).
 
-    Subsecs. (f) to (h). [Pub. L. 104–107, § 559(a)(2)][/us/pl/104/107/s559/a/2], added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 104–107][/us/pl/104/107], § 559(a)(2), added subsecs. (f) to (h).
 
     1994—Subsec. (d). [Pub. L. 103–236][/us/pl/103/236] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The President may waive the prohibitions of [section 2429 of this title][/us/usc/t22/s2429] at any time during the period beginning on December 29, 1981, and ending on September 30, 1994, to provide assistance to Pakistan during that period if he determines that to do so is in the national interest of the United States.”
 
@@ -87,9 +87,9 @@
 
     1992—Subsec. (d). [Pub. L. 102–391][/us/pl/102/391], which directed the substitution of “September 30, 1993” for the date specified in subsec. (d), was executed by substituting “September 30, 1993” for “April 1, 1993”. See 1991 Amendment note below.
 
-    [Pub. L. 102–266][/us/pl/102/266] added [Pub. L. 102–145, § 118][/us/pl/102/145/s118]. See 1991 Amendment note below.
+    [Pub. L. 102–266][/us/pl/102/266] added [Pub. L. 102–145][/us/pl/102/145], § 118. See 1991 Amendment note below.
 
-    1991—Subsec. (d). [Pub. L. 102–145, § 118][/us/pl/102/145/s118], as added by [Pub. L. 102–266][/us/pl/102/266], which directed the amendment of subsec. (d) by substituting “April 1, 1993” for “April 1, 1991” in lieu of amendment by [Pub. L. 101–513, § 574(a)][/us/pl/101/513/s574/a], was executed by substituting “April 1, 1993” for “April 1, 1992” to reflect the probable intent of Congress. See Codification note above and 1990 Amendment note below.
+    1991—Subsec. (d). [Pub. L. 102–145][/us/pl/102/145], § 118, as added by [Pub. L. 102–266][/us/pl/102/266], which directed the amendment of subsec. (d) by substituting “April 1, 1993” for “April 1, 1991” in lieu of amendment by [Pub. L. 101–513][/us/pl/101/513], § 574(a), was executed by substituting “April 1, 1993” for “April 1, 1992” to reflect the probable intent of Congress. See Codification note above and 1990 Amendment note below.
 
     1990—Subsec. (d). [Pub. L. 101–513][/us/pl/101/513] substituted “April 1, 1992” for “April 1, 1991”.
 
@@ -113,7 +113,7 @@
 
  __Strategy for the United States Relationship With Pakistan__ 
 
-[Pub. L. 110–53, title XX, § 2042(a)][/us/pl/110/53/s2042/a]–(f), Aug. 3, 2007, [121 Stat. 520–523][/us/stat/121/520-523], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2042(a)–(f), Aug. 3, 2007, [121 Stat. 520–523][/us/stat/121/520-523], provided that:
 
 >     “(a)  __Congressional Findings__  __.—__ 
 
@@ -304,26 +304,26 @@
 [/us/usc/t50/s4612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612
 [/us/usc/t22/s2797b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/97/113/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs736
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1561
-[/us/pl/99/83/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs902
+[/us/pl/99/83/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIX
 [/us/stat/99/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F267
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/101/167/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs591
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1253
-[/us/pl/101/513/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs574%2Fa
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2042
-[/us/pl/102/145/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs118
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F93
-[/us/pl/102/391/s570/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs570%2Fa
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1681
-[/us/pl/103/87/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2Fs536%2Fa
+[/us/pl/103/87/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87%2FtV
 [/us/stat/107/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F955
-[/us/pl/103/236/s822/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs822%2Fb%2F2
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F512
-[/us/pl/104/107/s559/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs559%2Fa
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F743
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
@@ -331,23 +331,23 @@
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
-[/us/pl/102/145/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs118
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F93
 [/us/pl/102/145/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs118
 [/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
 [/us/pl/101/513/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs574
-[/us/pl/104/107/s559/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs559%2Fa%2F1
-[/us/pl/104/107/s559/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs559%2Fa%2F2
+[/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
+[/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429
 [/us/pl/103/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F87
 [/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
 [/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
-[/us/pl/102/145/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs118
-[/us/pl/102/145/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs118
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
 [/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
-[/us/pl/101/513/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs574%2Fa
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
@@ -359,7 +359,7 @@
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/110/53/s2042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2042%2Fa
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/520-523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F520-523
 [/us/usc/t22/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2311
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763

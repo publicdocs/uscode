@@ -89,7 +89,7 @@
 
         Of the amounts made available to carry out this subchapter for a fiscal year, $200,000 is authorized to be made available to carry out audits and evaluations of programs under this subchapter, including personnel costs associated with such audits and evaluations.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 806, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 887][/us/stat/112/887]; amended [Pub. L. 107–26, § 2(a)][/us/pl/107/26/s2/a], Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206]; [Pub. L. 108–323][/us/pl/108/323], §§ 1–3(a), Oct. 6, 2004, [118 Stat. 1218][/us/stat/118/1218].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 806, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 887][/us/stat/112/887]; amended [Pub. L. 107–26][/us/pl/107/26], § 2(a), Aug. 17, 2001, [115 Stat. 206][/us/stat/115/206]; [Pub. L. 108–323][/us/pl/108/323], §§ 1–3(a), Oct. 6, 2004, [118 Stat. 1218][/us/stat/118/1218].)
 
  __References in Text__ 
 
@@ -107,11 +107,11 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–323, § 3(a)][/us/pl/108/323/s3/a], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+    2004—Subsec. (c). [Pub. L. 108–323][/us/pl/108/323], § 3(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-    Subsec. (d)(4) to (6). [Pub. L. 108–323, § 1][/us/pl/108/323/s1], added pars. (4) to (6).
+    Subsec. (d)(4) to (6). [Pub. L. 108–323][/us/pl/108/323], § 1, added pars. (4) to (6).
 
-    Subsec. (e). [Pub. L. 108–323, § 2][/us/pl/108/323/s2], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–323][/us/pl/108/323], § 2, added subsec. (e).
 
     2001—Subsec. (d). [Pub. L. 107–26][/us/pl/107/26] added subsec. (d).
 
@@ -138,9 +138,9 @@
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/usc/t22/s2431e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431e
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F887
-[/us/pl/107/26/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26%2Fs2%2Fa
+[/us/pl/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26
 [/us/stat/115/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F206
 [/us/pl/108/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323
 [/us/stat/118/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1218
@@ -155,9 +155,9 @@
 [/us/pl/87/195/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs806
 [/us/usc/t22/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2435
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
-[/us/pl/108/323/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323%2Fs3%2Fa
-[/us/pl/108/323/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323%2Fs1
-[/us/pl/108/323/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323%2Fs2
+[/us/pl/108/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323
+[/us/pl/108/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323
+[/us/pl/108/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323
 [/us/pl/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F26
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t7/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738

@@ -49,7 +49,7 @@
 
         For purposes of providing remedies and procedures to address alleged violations of rights and protections that pertain to employment discrimination, family and medical leave, fair labor standards, employee polygraph protection, worker adjustment and retraining, veterans’ employment and reemployment, intimidation or reprisal, protections under the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\], occupational safety and health, labor-management relations, and rights and protections that apply to employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, all employees of the Commission shall be treated as employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives and the Commission shall be treated as an employing office of the Senate or the House of Representatives.
 
-([Pub. L. 105–292, title II, § 204][/us/pl/105/292/s204], as added [Pub. L. 106–55, § 1(b)(3)][/us/pl/106/55/s1/b/3], Aug. 17, 1999, [113 Stat. 402][/us/stat/113/402]; amended [Pub. L. 112–75, § 3(a)][/us/pl/112/75/s3/a], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 204, as added [Pub. L. 106–55][/us/pl/106/55], § 1(b)(3), Aug. 17, 1999, [113 Stat. 402][/us/stat/113/402]; amended [Pub. L. 112–75][/us/pl/112/75], § 3(a), Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Pending Claims__ 
 
-[Pub. L. 112–75, § 3(b)][/us/pl/112/75/s3/b], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273], provided that: 
+[Pub. L. 112–75][/us/pl/112/75], § 3(b), Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273], provided that: 
 
 > “Any administrative or judicial claim or action pending on the date of the enactment of this Act \[Dec. 23, 2011\] may be maintained under section 204(g) of the International Religious Freedom Act of 1998 \[[22 U.S.C. 6432b(g)][/us/usc/t22/s6432b/g]\], as added by subsection (a).”
 
@@ -77,10 +77,10 @@
 ----------
 
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/105/292/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs204
-[/us/pl/106/55/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F3
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F402
-[/us/pl/112/75/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs3%2Fa
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/stat/125/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1273
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
@@ -88,7 +88,7 @@
 [/us/pl/105/292/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs204
 [/us/usc/t22/s6434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6434
 [/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
-[/us/pl/112/75/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs3%2Fb
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/stat/125/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1273
 [/us/usc/t22/s6432b/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432b%2Fg
 

@@ -37,7 +37,7 @@
 
         (3) the allocation of resources and the extension of credit by the respective institution takes into account the performance of recipient governments in the areas of good governance, ending excessive military involvement in the economy and reducing excessive military expenditures.
 
-([Pub. L. 95–118, title XV, § 1502][/us/pl/95/118/s1502], as added [Pub. L. 103–306, title V, § 526(d)][/us/pl/103/306/s526/d], Aug. 23, 1994, [108 Stat. 1633][/us/stat/108/1633].)
+([Pub. L. 95–118, title XV][/us/pl/95/118/tXV], § 1502, as added [Pub. L. 103–306, title V][/us/pl/103/306/tV], § 526(d), Aug. 23, 1994, [108 Stat. 1633][/us/stat/108/1633].)
 
  __Definitions__ 
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/95/118/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1502
-[/us/pl/103/306/s526/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs526%2Fd
+[/us/pl/95/118/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXV
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1633
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 

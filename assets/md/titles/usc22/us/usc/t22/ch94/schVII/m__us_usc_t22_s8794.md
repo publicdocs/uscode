@@ -21,7 +21,7 @@
 
     (2) submits to the appropriate congressional committees a report on the reasons for that determination.
 
-([Pub. L. 112–158, title VII, § 705][/us/pl/112/158/s705], Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
+([Pub. L. 112–158, title VII][/us/pl/112/158/tVII], § 705, Aug. 10, 2012, [126 Stat. 1268][/us/stat/126/1268].)
 
  __Termination of Section__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs705
+[/us/pl/112/158/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVII
 [/us/stat/126/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1268
 [/us/usc/t22/s8795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8795
 

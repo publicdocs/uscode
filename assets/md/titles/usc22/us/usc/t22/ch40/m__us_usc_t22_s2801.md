@@ -23,7 +23,7 @@
 
     (c) such orderly consideration is best achieved by the development of uniform standards, criteria, and procedures to establish the conditions under which the Government hereafter will (A) recognize international expositions proposed to be held in the United States, and (B) take part in such expositions.
 
-([Pub. L. 91–269, § 1][/us/pl/91/269/s1], May 27, 1970, [84 Stat. 271][/us/stat/84/271].)
+([Pub. L. 91–269][/us/pl/91/269], § 1, May 27, 1970, [84 Stat. 271][/us/stat/84/271].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs1
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F271
 
 

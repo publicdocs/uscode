@@ -25,7 +25,7 @@
 
     (4) direct overseas posts to ensure that all maintenance program fiscal transactions are properly encoded in the Department of State accounting system to enable compilation of actual expenditures on routine maintenance and specific maintenance funded by the Office of Foreign Buildings Operations.
 
-([Pub. L. 102–138, title I, § 125][/us/pl/102/138/s125], Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 125, Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs125
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F659
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

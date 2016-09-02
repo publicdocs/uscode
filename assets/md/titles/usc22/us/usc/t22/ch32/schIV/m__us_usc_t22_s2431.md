@@ -53,11 +53,11 @@
 
         (4) to rechannel existing resources to facilitate the protection of tropical forests.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 802, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 885][/us/stat/112/885].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 802, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 885][/us/stat/112/885].)
 
  __Prior Provisions__ 
 
-    A prior section 2431, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 801, as added [Pub. L. 93–189, § 24][/us/pl/93/189/s24], Dec. 17, 1973, [87 Stat. 728][/us/stat/87/728], authorized the President to furnish assistance for relief and reconstruction of South Vietnam, Cambodia, and Laos, prior to repeal by [Pub. L. 94–329, title IV, § 413(a)][/us/pl/94/329/s413/a], June 30, 1976, [90 Stat. 761][/us/stat/90/761].
+    A prior section 2431, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 801, as added [Pub. L. 93–189][/us/pl/93/189], § 24, Dec. 17, 1973, [87 Stat. 728][/us/stat/87/728], authorized the President to furnish assistance for relief and reconstruction of South Vietnam, Cambodia, and Laos, prior to repeal by [Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 413(a), June 30, 1976, [90 Stat. 761][/us/stat/90/761].
 
     A prior [section 802 of Pub. L. 87–195][/us/pl/87/195/s802], pt. V, was classified to [section 2432 of this title][/us/usc/t22/s2432] prior to repeal by [Pub. L. 94–329][/us/pl/94/329].
 
@@ -73,12 +73,12 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F885
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs24
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F728
-[/us/pl/94/329/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs413%2Fa
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F761
 [/us/pl/87/195/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs802
 [/us/usc/t22/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2432

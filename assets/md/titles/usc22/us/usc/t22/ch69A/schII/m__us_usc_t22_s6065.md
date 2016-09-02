@@ -73,7 +73,7 @@
 
         (4) has permitted the deployment throughout Cuba of independent and unfettered international human rights monitors.
 
-([Pub. L. 104–114, title II, § 205][/us/pl/104/114/s205], Mar. 12, 1996, [110 Stat. 811][/us/stat/110/811].)
+([Pub. L. 104–114, title II][/us/pl/104/114/tII], § 205, Mar. 12, 1996, [110 Stat. 811][/us/stat/110/811].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs205
+[/us/pl/104/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtII
 [/us/stat/110/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F811
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785

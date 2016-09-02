@@ -53,7 +53,7 @@
 
             Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) do not contravene international law.
 
-([Pub. L. 105–292, title VI, § 605][/us/pl/105/292/s605], Oct. 27, 1998, [112 Stat. 2814][/us/stat/112/2814].)
+([Pub. L. 105–292, title VI][/us/pl/105/292/tVI], § 605, Oct. 27, 1998, [112 Stat. 2814][/us/stat/112/2814].)
 
  __Change of Name__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t8/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225%2Fb
 [/us/usc/t8/s1225/b/1/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225%2Fb%2F1%2FB%2Fv
 [/us/usc/t8/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1225%2Fb
-[/us/pl/105/292/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs605
+[/us/pl/105/292/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtVI
 [/us/stat/112/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2814
 
 

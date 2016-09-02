@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of this chapter, the Secretary of State, with the concurrence of the head of the appropriate Federal agency exercising functions transferred under this chapter, may transfer the whole or part of such functions prior to the effective dates established in this chapter, including the transfer of personnel and funds associated with such functions.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XVI, § 1616, Oct. 21, 1998, [112 Stat. 2681–801][/us/stat/112/2681-801].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XVI, § 1616, Oct. 21, 1998, [112 Stat. 2681–801][/us/stat/112/2681-801].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-801
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

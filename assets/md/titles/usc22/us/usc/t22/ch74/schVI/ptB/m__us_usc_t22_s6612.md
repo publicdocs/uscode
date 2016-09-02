@@ -33,7 +33,7 @@
 
             Funds in any account appropriated to the Department of State may be transferred to another such account for the purposes of reorganization, subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706]. The authority in this paragraph is in addition to any other transfer authority available to the Secretary of State and shall expire September 30, 2000.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XVI, § 1612, Oct. 21, 1998, [112 Stat. 2681–798][/us/stat/112/2681-798].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XVI, § 1612, Oct. 21, 1998, [112 Stat. 2681–798][/us/stat/112/2681-798].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t22/s6615/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6615%2Fe
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-798
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

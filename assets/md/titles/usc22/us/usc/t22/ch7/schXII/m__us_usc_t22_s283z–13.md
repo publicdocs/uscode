@@ -37,7 +37,7 @@
 
             (B) $20,493,974,162 shall be for callable shares of the Bank.
 
-([Pub. L. 86–147, § 41][/us/pl/86/147/s41], as added [Pub. L. 112–74, div. I, title VII, § 7081(c)][/us/pl/112/74/s7081/c], Dec. 23, 2011, [125 Stat. 1260][/us/stat/125/1260].)
+([Pub. L. 86–147][/us/pl/86/147], § 41, as added [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7081(c), Dec. 23, 2011, [125 Stat. 1260][/us/stat/125/1260].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs41
-[/us/pl/112/74/s7081/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7081%2Fc
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1260
 
 

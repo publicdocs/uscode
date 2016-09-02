@@ -53,7 +53,7 @@
 
             (B) the term “Secretary” means the Secretary of the Treasury.
 
-([Dec. 20, 1945, ch. 583, § 5][/us/act/1945-12-20/ch583/s5], [59 Stat. 620][/us/stat/59/620]; [Oct. 10, 1949, ch. 660, § 3][/us/act/1949-10-10/ch660/s3], [63 Stat. 735][/us/stat/63/735]; [Pub. L. 95–12, § 1][/us/pl/95/12/s1], Mar. 18, 1977, [91 Stat. 22][/us/stat/91/22]; [Pub. L. 111–195, title I, § 107(a)(1)][/us/pl/111/195/s107/a/1], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 5, [59 Stat. 620][/us/stat/59/620]; [Oct. 10, 1949, ch. 660][/us/act/1949-10-10/ch660], § 3, [63 Stat. 735][/us/stat/63/735]; [Pub. L. 95–12][/us/pl/95/12], § 1, Mar. 18, 1977, [91 Stat. 22][/us/stat/91/22]; [Pub. L. 111–195, title I][/us/pl/111/195/tI], § 107(a)(1), July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
 
  __References in Text__ 
 
@@ -63,29 +63,29 @@
 
     2010—Subsec. (b). [Pub. L. 111–195][/us/pl/111/195] substituted “fined not more than $1,000,000” for “find not more than $10,000” and “20 years, or both.” for “ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.”
 
-    1977—Subsec. (a). [Pub. L. 95–12, § 1(1)][/us/pl/95/12/s1/1], inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
+    1977—Subsec. (a). [Pub. L. 95–12][/us/pl/95/12], § 1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
 
-    Subsec. (c). [Pub. L. 95–12, § 1(2)][/us/pl/95/12/s1/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–12][/us/pl/95/12], § 1(2), added subsec. (c).
 
     1949—Subsec. (b). Act Oct. 10, 1949, made aircraft subject to forfeiture.
 
  __Importation of Strategic and Critical Materials From Zimbabwe-Rhodesia__ 
 
-[Pub. L. 96–107, title VIII, § 818][/us/pl/96/107/s818], Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], provided that: 
+[Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 818, Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], provided that: 
 
 > “It is the sense of the Congress that the United States should have unlimited access to strategic and critical materials which are vital to the defense and security of the United States and that every effort should be made to remove artificial impediments against the importation of such materials into the United States from Zimbabwe-Rhodesia.”
 
  __Sanctions Against Zimbabwe-Rhodesia; Report to Congress__ 
 
-    [Pub. L. 96–60, title IV, § 408][/us/pl/96/60/s408], Aug. 15, 1979, [93 Stat. 405][/us/stat/93/405], provided for termination of sanctions against Zimbabwe-Rhodesia by Nov. 15, 1979, unless the President determined and reported to Congress that termination of sanctions would not be in the national interest, with provision authorizing Congress to reject such Presidential determination, prior to repeal by [Pub. L. 97–241, title V, § 505(a)(1)][/us/pl/97/241/s505/a/1], Aug. 24, 1982, [96 Stat. 298][/us/stat/96/298].
+    [Pub. L. 96–60, title IV][/us/pl/96/60/tIV], § 408, Aug. 15, 1979, [93 Stat. 405][/us/stat/93/405], provided for termination of sanctions against Zimbabwe-Rhodesia by Nov. 15, 1979, unless the President determined and reported to Congress that termination of sanctions would not be in the national interest, with provision authorizing Congress to reject such Presidential determination, prior to repeal by [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(1), Aug. 24, 1982, [96 Stat. 298][/us/stat/96/298].
 
  __Determinations Respecting Future Enforcement of Sanctions Against Rhodesia__ 
 
-    [Pub. L. 95–384, § 27][/us/pl/95/384/s27], Sept. 26, 1978, [92 Stat. 746][/us/stat/92/746], which related to enforcement of sanctions against Rhodesia, was repealed by [Pub. L. 97–113, title VII, § 734(a)(12)][/us/pl/97/113/s734/a/12], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 95–384][/us/pl/95/384], § 27, Sept. 26, 1978, [92 Stat. 746][/us/stat/92/746], which related to enforcement of sanctions against Rhodesia, was repealed by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(12), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
  __Suspension of Amendment Operation by President; Report to Congress__ 
 
-[Pub. L. 95–12, § 2][/us/pl/95/12/s2], Mar. 18, 1977, [91 Stat. 23][/us/stat/91/23], provided that:
+[Pub. L. 95–12][/us/pl/95/12], § 2, Mar. 18, 1977, [91 Stat. 23][/us/stat/91/23], provided that:
 
 >     “(a) Upon the enactment of this Act \[Mar. 18, 1977\], the President may suspend the operation of the amendments contained in this Act \[amending this section\] if he determines that such suspension would encourage meaningful negotiations and further the peaceful transfer of governing power from minority rule to majority rule in Southern Rhodesia. Such suspension shall remain in effect for such duration as deemed necessary by the President.
 
@@ -166,28 +166,28 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/act/1945-12-20/ch583/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs5
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F620
-[/us/act/1949-10-10/ch660/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660%2Fs3
+[/us/act/1949-10-10/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch660
 [/us/stat/63/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F735
-[/us/pl/95/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12%2Fs1
+[/us/pl/95/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12
 [/us/stat/91/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F22
-[/us/pl/111/195/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs107%2Fa%2F1
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1337
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
-[/us/pl/95/12/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12%2Fs1%2F1
-[/us/pl/95/12/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12%2Fs1%2F2
-[/us/pl/96/107/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs818
+[/us/pl/95/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12
+[/us/pl/95/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F818
-[/us/pl/96/60/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs408
+[/us/pl/96/60/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtIV
 [/us/stat/93/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F405
-[/us/pl/97/241/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F1
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F298
-[/us/pl/95/384/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs27
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F746
-[/us/pl/97/113/s734/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F12
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12%2Fs2
+[/us/pl/95/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F12
 [/us/stat/91/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F23
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c

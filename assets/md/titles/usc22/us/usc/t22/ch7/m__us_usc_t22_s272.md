@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 19, 1934, ch. 676, § 2][/us/act/1934-06-19/ch676/s2], [48 Stat. 1183][/us/stat/48/1183], provided that the President, in accepting membership in the International Labor Organization, was to assume no obligation under the covenant of the League of Nations.
+    Section, [act June 19, 1934, ch. 676][/us/act/1934-06-19/ch676], § 2, [48 Stat. 1183][/us/stat/48/1183], provided that the President, in accepting membership in the International Labor Organization, was to assume no obligation under the covenant of the League of Nations.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-19/ch676/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch676%2Fs2
+[/us/act/1934-06-19/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch676
 [/us/stat/48/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1183
 
 

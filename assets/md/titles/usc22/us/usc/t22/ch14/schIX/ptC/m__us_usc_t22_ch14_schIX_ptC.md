@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schIX/ptB/m__us_usc_t22_ch14_schIX_ptB.md) | [Next](./../../../../../..//us/usc/t22/ch14/schIX/ptC/m__us_usc_t22_s1139.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschIX%2FptC)
+[Previous](./../../../../../..//us/usc/t22/ch14/schIX/ptB/m__us_usc_t22_s1136...1138a.md) | [Next](./../../../../../..//us/usc/t22/ch14/schIX/ptC/m__us_usc_t22_s1139.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschIX%2FptC)
 
 #### Part C—Commissary and Mess Services and Recreation Facilities
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch14/schIX/ptB/m__us_usc_t22_ch14_schIX_ptB.md) | [Next](./../../../../../..//us/usc/t22/ch14/schIX/ptC/m__us_usc_t22_s1139.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschIX%2FptC)
+[Previous](./../../../../../..//us/usc/t22/ch14/schIX/ptB/m__us_usc_t22_s1136...1138a.md) | [Next](./../../../../../..//us/usc/t22/ch14/schIX/ptC/m__us_usc_t22_s1139.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch14%2FschIX%2FptC)
 
 ----------
 ----------

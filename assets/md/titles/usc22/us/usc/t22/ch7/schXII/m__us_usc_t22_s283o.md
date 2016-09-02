@@ -19,7 +19,7 @@
 
     (b) There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of (1) three annual installments of $50,000,000 each for the United States subscription to paid-in capital stock of the Bank; (2) two installments of $336,760,000 each for the United States subscription to the callable capital stock of the Bank; and (3) one installment of $100,000,000 for the United States share of the increase in the resources of the Fund for Special Operations of the Bank.
 
-([Pub. L. 86–147, § 18][/us/pl/86/147/s18], as added [Pub. L. 91–599][/us/pl/91/599], ch. 2, § 21(a), Dec. 30, 1970, [84 Stat. 1658][/us/stat/84/1658].)
+([Pub. L. 86–147][/us/pl/86/147], § 18, as added [Pub. L. 91–599][/us/pl/91/599], ch. 2, § 21(a), Dec. 30, 1970, [84 Stat. 1658][/us/stat/84/1658].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/86/147/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs18
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/pl/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F599
 [/us/stat/84/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1658
 

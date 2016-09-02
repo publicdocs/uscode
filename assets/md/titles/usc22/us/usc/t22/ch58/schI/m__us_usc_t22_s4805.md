@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4802.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4805)
+[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4803 _us_usc_t22_s4804.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4805)
 
 ## § 4805. Cooperation of other Federal agencies
 
@@ -27,7 +27,7 @@
 
         The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States as may be necessary for the Department of State to accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
 
-([Pub. L. 99–399, title I, § 106][/us/pl/99/399/s106], Aug. 27, 1986, [100 Stat. 857][/us/stat/100/857].)
+([Pub. L. 99–399, title I][/us/pl/99/399/tI], § 106, Aug. 27, 1986, [100 Stat. 857][/us/stat/100/857].)
 
  __References in Text__ 
 
@@ -37,14 +37,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4802.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4805)
+[Previous](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4803 _us_usc_t22_s4804.md) | [Next](./../../../../..//us/usc/t22/ch58/schI/m__us_usc_t22_s4806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4805)
 
 ----------
 ----------
 
 [/us/usc/t22/s4802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802%2Fa
 [/us/usc/t22/s4802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802%2Fa
-[/us/pl/99/399/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs106
+[/us/pl/99/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtI
 [/us/stat/100/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F857
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/stat/100/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F855

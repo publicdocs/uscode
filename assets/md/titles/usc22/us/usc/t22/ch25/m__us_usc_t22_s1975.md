@@ -33,7 +33,7 @@
 
         If a foreign country fails or refuses to make payment in full on any claim made under subsection (a)(2) of this section within one hundred and twenty days after the date on which such country is notified pursuant to subsection (a)(1) of this section, the Secretary of State shall transfer an amount equal to such unpaid claim or unpaid portion thereof from any funds appropriated by Congress and programed for the current fiscal year for assistance to the government of such country under the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] unless the President certifies to the Congress that it is in the national interest not to do so in the particular instance (and if such funds are insufficient to cover such claim, transfer shall be made from any funds so appropriated and programed for the next and any succeeding fiscal year) to (1) the Fishermen’s Protective Fund established pursuant to [section 1979 of this title][/us/usc/t22/s1979] if the amount is transferred with respect to an unpaid claim for a reimbursement made under [section 1973 of this title][/us/usc/t22/s1973], or (2) the separate account established in the Treasury of the United States pursuant to [section 1977(c) of this title][/us/usc/t22/s1977/c] if the amount is transferred with respect to an unpaid claim for a payment made under [section 1977(a) of this title][/us/usc/t22/s1977/a]. Amounts transferred under this section shall not constitute satisfaction of any such claim of the United States against such foreign country.
 
-([Aug. 27, 1954, ch. 1018, § 5][/us/act/1954-08-27/ch1018/s5], [68 Stat. 883][/us/stat/68/883]; [Pub. L. 90–482, § 3][/us/pl/90/482/s3], Aug. 12, 1968, [82 Stat. 730][/us/stat/82/730]; [Pub. L. 92–569, § 3][/us/pl/92/569/s3], Oct. 26, 1972, [86 Stat. 1182][/us/stat/86/1182]; [Pub. L. 98–364, title III, § 302(b)][/us/pl/98/364/s302/b], July 17, 1984, [98 Stat. 444][/us/stat/98/444].)
+([Aug. 27, 1954, ch. 1018][/us/act/1954-08-27/ch1018], § 5, [68 Stat. 883][/us/stat/68/883]; [Pub. L. 90–482][/us/pl/90/482], § 3, Aug. 12, 1968, [82 Stat. 730][/us/stat/82/730]; [Pub. L. 92–569][/us/pl/92/569], § 3, Oct. 26, 1972, [86 Stat. 1182][/us/stat/86/1182]; [Pub. L. 98–364, title III][/us/pl/98/364/tIII], § 302(b), July 17, 1984, [98 Stat. 444][/us/stat/98/444].)
 
  __References in Text__ 
 
@@ -73,13 +73,13 @@
 [/us/usc/t22/s1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1973
 [/us/usc/t22/s1977/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1977%2Fc
 [/us/usc/t22/s1977/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1977%2Fa
-[/us/act/1954-08-27/ch1018/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018%2Fs5
+[/us/act/1954-08-27/ch1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018
 [/us/stat/68/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F883
-[/us/pl/90/482/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F482%2Fs3
+[/us/pl/90/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F482
 [/us/stat/82/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F730
-[/us/pl/92/569/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F569%2Fs3
+[/us/pl/92/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F569
 [/us/stat/86/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1182
-[/us/pl/98/364/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs302%2Fb
+[/us/pl/98/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIII
 [/us/stat/98/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F444
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

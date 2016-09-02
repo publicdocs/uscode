@@ -21,7 +21,7 @@
 
     (2) to advance the international status of the health sciences through cooperative enterprises in health research, research planning, and research training.
 
-([Pub. L. 86–610, § 2][/us/pl/86/610/s2], July 12, 1960, [74 Stat. 364][/us/stat/74/364].)
+([Pub. L. 86–610][/us/pl/86/610], § 2, July 12, 1960, [74 Stat. 364][/us/stat/74/364].)
 
  __References in Text__ 
 
@@ -39,13 +39,13 @@
 
  __Short Title__ 
 
-[Pub. L. 86–610, § 1][/us/pl/86/610/s1], July 12, 1960, [74 Stat. 364][/us/stat/74/364], provided that: 
+[Pub. L. 86–610][/us/pl/86/610], § 1, July 12, 1960, [74 Stat. 364][/us/stat/74/364], provided that: 
 
 > “This joint resolution \[enacting this chapter and section 242l of Title 42, The Public Health and Welfare\] may be cited as the ‘International Health Research Act of 1960’.”
 
  __Swine Influenza Study__ 
 
-[Pub. L. 94–302, title III, § 301][/us/pl/94/302/s301], May 31, 1976, [90 Stat. 596][/us/stat/90/596], provided that:
+[Pub. L. 94–302, title III][/us/pl/94/302/tIII], § 301, May 31, 1976, [90 Stat. 596][/us/stat/90/596], provided that:
 
 >     “(a)
 
@@ -102,16 +102,16 @@
 ----------
 ----------
 
-[/us/pl/86/610/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610%2Fs2
+[/us/pl/86/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610
 [/us/stat/74/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F364
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/pl/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F353
 [/us/stat/88/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F367
 [/us/pl/86/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610
-[/us/pl/86/610/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610%2Fs1
+[/us/pl/86/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F610
 [/us/stat/74/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F364
-[/us/pl/94/302/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs301
+[/us/pl/94/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtIII
 [/us/stat/90/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F596
 
 

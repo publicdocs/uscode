@@ -135,7 +135,7 @@
 
         The reorganization plan described in this section shall be printed in the Federal Register after the date upon which it first becomes effective.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XVI, § 1601, Oct. 21, 1998, [112 Stat. 2681–795][/us/stat/112/2681-795].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XVI, § 1601, Oct. 21, 1998, [112 Stat. 2681–795][/us/stat/112/2681-795].)
 
  __References in Text__ 
 
@@ -166,7 +166,7 @@
 [/us/usc/t22/s6581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6581
 [/us/usc/t22/s6581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6581
 [/us/usc/t5/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs905%2Fb
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-795
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

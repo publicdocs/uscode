@@ -67,7 +67,7 @@
 
         (2) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
 
-([Pub. L. 95–118, title VII, § 701][/us/pl/95/118/s701], Oct. 3, 1977, [91 Stat. 1069][/us/stat/91/1069]; [Pub. L. 96–259, title V, § 501(a)][/us/pl/96/259/s501/a], (b), June 3, 1980, [94 Stat. 431][/us/stat/94/431], 432; [Pub. L. 97–35, title XIII, § 1342(b)][/us/pl/97/35/s1342/b], Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743]; [Pub. L. 97–375, title II, § 211][/us/pl/97/375/s211], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title X, § 1004\], Nov. 30, 1983, [97 Stat. 1286][/us/stat/97/1286]; [Pub. L. 101–240, title V, § 541(c)][/us/pl/101/240/s541/c], (d)(4), (e)(8), Dec. 19, 1989, [103 Stat. 2517–2519][/us/stat/103/2517-2519]; [Pub. L. 101–513, title V, § 562(b)(2)][/us/pl/101/513/s562/b/2], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034]; [Pub. L. 102–511, title X, § 1008][/us/pl/102/511/s1008], Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361]; [Pub. L. 103–236, title VIII, § 823(b)][/us/pl/103/236/s823/b], Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 105–292, title IV, § 422][/us/pl/105/292/s422], Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810]; [Pub. L. 106–569, title XI, § 1103(g)][/us/pl/106/569/s1103/g], Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 113–188, title XVI, § 1601(b)][/us/pl/113/188/s1601/b], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].)
+([Pub. L. 95–118, title VII][/us/pl/95/118/tVII], § 701, Oct. 3, 1977, [91 Stat. 1069][/us/stat/91/1069]; [Pub. L. 96–259, title V][/us/pl/96/259/tV], § 501(a), (b), June 3, 1980, [94 Stat. 431][/us/stat/94/431], 432; [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1342(b), Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 211, Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title X, § 1004\], Nov. 30, 1983, [97 Stat. 1286][/us/stat/97/1286]; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(c), (d)(4), (e)(8), Dec. 19, 1989, [103 Stat. 2517–2519][/us/stat/103/2517-2519]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(b)(2), Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034]; [Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1008, Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 823(b), Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 422, Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810]; [Pub. L. 106–569, title XI][/us/pl/106/569/tXI], § 1103(g), Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 113–188, title XVI][/us/pl/113/188/tXVI], § 1601(b), Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].)
 
  __Amendments__ 
 
@@ -79,17 +79,17 @@
 
     1994—Subsec. (b)(3). [Pub. L. 103–236][/us/pl/103/236] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “whether the recipient country has detonated a nuclear device or is not a State Party to the Treaty on Nonproliferation of Nuclear Weapons or both; and”.
 
-    1992—Subsec. (a). [Pub. L. 102–511, § 1008(a)][/us/pl/102/511/s1008/a], substituted “the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund,” for “and the African Development Bank,”.
+    1992—Subsec. (a). [Pub. L. 102–511][/us/pl/102/511], § 1008(a), substituted “the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund,” for “and the African Development Bank,”.
 
-    Subsec. (b)(4). [Pub. L. 102–511, § 1008(b)][/us/pl/102/511/s1008/b], inserted “Russia and the other independent states of the former Soviet Union (as defined in [section 5801 of this title][/us/usc/t22/s5801]),” after “Laos,”.
+    Subsec. (b)(4). [Pub. L. 102–511][/us/pl/102/511], § 1008(b), inserted “Russia and the other independent states of the former Soviet Union (as defined in [section 5801 of this title][/us/usc/t22/s5801]),” after “Laos,”.
 
     1990—Subsec. (g). [Pub. L. 101–513][/us/pl/101/513] struck out “(2)” before “The Secretary” and substituted “of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate” for “specified in paragraph (1)”.
 
-    1989—Subsec. (c). [Pub. L. 101–240, § 541(c)][/us/pl/101/240/s541/c], amended subsec. (c) generally, substituting provisions relating to quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
+    1989—Subsec. (c). [Pub. L. 101–240][/us/pl/101/240], § 541(c), amended subsec. (c) generally, substituting provisions relating to quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
 
-    Subsec. (d). [Pub. L. 101–240, § 541(e)(8)][/us/pl/101/240/s541/e/8], struck out at end “The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs.”
+    Subsec. (d). [Pub. L. 101–240][/us/pl/101/240], § 541(e)(8), struck out at end “The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs.”
 
-    Subsec. (g)(1). [Pub. L. 101–240, § 541(d)(4)][/us/pl/101/240/s541/d/4], struck out par. (1) which related to quarterly reporting requirements by Secretary of the Treasury in consultation with Secretary of State.
+    Subsec. (g)(1). [Pub. L. 101–240][/us/pl/101/240], § 541(d)(4), struck out par. (1) which related to quarterly reporting requirements by Secretary of the Treasury in consultation with Secretary of State.
 
     1983—Subsec. (a)(1). [Pub. L. 98–181][/us/pl/98/181] substituted “pattern” for “consistent pattern”.
 
@@ -99,9 +99,9 @@
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] inserted reference to the African Development Bank.
 
-    1980—Subsec. (c). [Pub. L. 96–259, § 501(a)][/us/pl/96/259/s501/a], designated existing provisions as par. (1) and added par. (2).
+    1980—Subsec. (c). [Pub. L. 96–259][/us/pl/96/259], § 501(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g). [Pub. L. 96–259, § 501(b)][/us/pl/96/259/s501/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 96–259][/us/pl/96/259], § 501(b), added subsec. (g).
 
  __Change of Name__ 
 
@@ -113,7 +113,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–240, title VIII, § 801][/us/pl/101/240/s801], Dec. 19, 1989, [103 Stat. 2524][/us/stat/103/2524], provided that: 
+[Pub. L. 101–240, title VIII][/us/pl/101/240/tVIII], § 801, Dec. 19, 1989, [103 Stat. 2524][/us/stat/103/2524], provided that: 
 
 > “Except as otherwise provided in this Act, this Act and the amendments made by this Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and [section 3904a of Title 12][/us/usc/t12/s3904a], Banks and Banking, amending this section, sections 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title, and sections 635 and 635i–3 of Title 12, transferring former [section 262q of this title][/us/usc/t22/s262q] to [section 262s of this title][/us/usc/t22/s262s] and former [section 4722 of Title 15][/us/usc/t15/s4722], Commerce and Trade, to [section 262s–2 of this title][/us/usc/t22/s262s–2], repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under sections 283z–6, 2151, and 2291 of this title and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262l of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -127,13 +127,13 @@
 
  __Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance__ 
 
-[Pub. L. 95–118, title VII, § 705][/us/pl/95/118/s705], as added by [Pub. L. 96–259, title V, § 501(c)][/us/pl/96/259/s501/c], June 3, 1980, [94 Stat. 432][/us/stat/94/432], provided that: 
+[Pub. L. 95–118, title VII][/us/pl/95/118/tVII], § 705, as added by [Pub. L. 96–259, title V][/us/pl/96/259/tV], § 501(c), June 3, 1980, [94 Stat. 432][/us/stat/94/432], provided that: 
 
 > “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
 
  __Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application__ 
 
-[Pub. L. 95–481, title VI, § 611][/us/pl/95/481/s611], Oct. 18, 1978, [92 Stat. 1602][/us/stat/92/1602], provided that: 
+[Pub. L. 95–481, title VI][/us/pl/95/481/tVI], § 611, Oct. 18, 1978, [92 Stat. 1602][/us/stat/92/1602], provided that: 
 
 > “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
 
@@ -148,29 +148,29 @@
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 [/us/usc/t22/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6402
-[/us/pl/95/118/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs701
+[/us/pl/95/118/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtVII
 [/us/stat/91/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1069
-[/us/pl/96/259/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs501%2Fa
+[/us/pl/96/259/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtV
 [/us/stat/94/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F431
-[/us/pl/97/35/s1342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1342%2Fb
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F743
-[/us/pl/97/375/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs211
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1286
-[/us/pl/101/240/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fc
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2517-2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2517-2519
-[/us/pl/101/513/s562/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fb%2F2
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2034
-[/us/pl/102/511/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1008
+[/us/pl/102/511/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtX
 [/us/stat/106/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3361
-[/us/pl/103/236/s823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs823%2Fb
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F512
-[/us/pl/105/292/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs422
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2810
-[/us/pl/106/569/s1103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1103%2Fg
+[/us/pl/106/569/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtXI
 [/us/stat/114/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3031
-[/us/pl/113/188/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1601%2Fb
+[/us/pl/113/188/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXVI
 [/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259
@@ -178,26 +178,26 @@
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/102/511/s1008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1008%2Fa
-[/us/pl/102/511/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1008%2Fb
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
+[/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
-[/us/pl/101/240/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fc
-[/us/pl/101/240/s541/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fe%2F8
-[/us/pl/101/240/s541/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F4
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/usc/t22/s262e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262e
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/96/259/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs501%2Fa
-[/us/pl/96/259/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs501%2Fb
+[/us/pl/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259
+[/us/pl/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
-[/us/pl/101/240/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs801
+[/us/pl/101/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVIII
 [/us/stat/103/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2524
 [/us/usc/t12/s3904a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3904a
 [/us/usc/t22/s262q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262q
@@ -209,10 +209,10 @@
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i
 [/us/pl/95/118/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1001
 [/us/usc/t22/s282i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs282i
-[/us/pl/95/118/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs705
-[/us/pl/96/259/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs501%2Fc
+[/us/pl/95/118/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtVII
+[/us/pl/96/259/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtV
 [/us/stat/94/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F432
-[/us/pl/95/481/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2Fs611
+[/us/pl/95/481/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2FtVI
 [/us/stat/92/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1602
 
 

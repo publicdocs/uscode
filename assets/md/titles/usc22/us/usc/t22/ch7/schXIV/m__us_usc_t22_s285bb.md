@@ -29,7 +29,7 @@
 
         For the contribution authorized by subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for payment by the Secretary of the Treasury, without fiscal year limitation.
 
-([Pub. L. 89–369, § 31][/us/pl/89/369/s31], as added [Pub. L. 108–199, div. D, title V, § 582][/us/pl/108/199/s582], Jan. 23, 2004, [118 Stat. 204][/us/stat/118/204].)
+([Pub. L. 89–369][/us/pl/89/369], § 31, as added [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 582, Jan. 23, 2004, [118 Stat. 204][/us/stat/118/204].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/89/369/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs31
-[/us/pl/108/199/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs582
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F204
 
 

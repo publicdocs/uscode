@@ -23,7 +23,7 @@
 
     (3) notwithstanding any provision of law to the contrary, to establish or maintain an office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States at the behest or direction of, or with funds provided by the Palestine Liberation Organization or any of its constituent groups, any successor to any of those, or any agents thereof.
 
-([Pub. L. 100–204, title X, § 1003][/us/pl/100/204/s1003], Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407].)
+([Pub. L. 100–204, title X][/us/pl/100/204/tX], § 1003, Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/100/204/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs1003
+[/us/pl/100/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtX
 [/us/stat/101/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1407
 [/us/pl/100/204/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs1005
 [/us/usc/t22/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5201

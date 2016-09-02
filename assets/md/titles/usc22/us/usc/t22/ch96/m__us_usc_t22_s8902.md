@@ -51,7 +51,7 @@
 
     (17) to ensure the United States maintains its predominant leadership position and influence within the International Monetary Fund, and to guarantee the International Monetary Fund has the resources and governance structure necessary to support structural reforms in Ukraine and respond to and prevent a potentially serious financial crisis in Ukraine or other foreign economic crises that threatens United States national security.
 
-([Pub. L. 113–95, § 3][/us/pl/113/95/s3], Apr. 3, 2014, [128 Stat. 1088][/us/stat/128/1088].)
+([Pub. L. 113–95][/us/pl/113/95], § 3, Apr. 3, 2014, [128 Stat. 1088][/us/stat/128/1088].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/113/95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs3
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1088
 
 

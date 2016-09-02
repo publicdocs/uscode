@@ -27,7 +27,7 @@
 
         Any Peace Corps volunteer or staff member who is responsible for maintaining confidentiality under subsection (a) and who breaches such duty shall be subject to disciplinary action, including termination, and in the case of a staff member, ineligibility for re-employment with the Peace Corps.
 
-([Pub. L. 87–293, title I, § 8G][/us/pl/87/293/s8G], as added [Pub. L. 112–57, § 2][/us/pl/112/57/s2], Nov. 21, 2011, [125 Stat. 742][/us/stat/125/742].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8G, as added [Pub. L. 112–57][/us/pl/112/57], § 2, Nov. 21, 2011, [125 Stat. 742][/us/stat/125/742].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/87/293/s8G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8G
-[/us/pl/112/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F742
 
 

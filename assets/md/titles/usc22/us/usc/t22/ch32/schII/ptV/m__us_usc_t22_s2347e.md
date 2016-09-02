@@ -23,7 +23,7 @@
 
         The high-income foreign countries described in this subsection are Austria, Finland, the Republic of Korea, Singapore, and Spain.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 546, as added [Pub. L. 104–164, title I, § 112(c)(1)][/us/pl/104/164/s112/c/1], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 546, as added [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 112(c)(1), July 21, 1996, [110 Stat. 1427][/us/stat/110/1427].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/164/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs112%2Fc%2F1
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1427
 
 

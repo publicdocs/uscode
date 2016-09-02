@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch7/schV/m__us_usc_t22_s278a.md) | [Next](./../../../../..//us/usc/t22/ch7/schVI/m__us_usc_t22_ch7_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs278b)
 
-## § 278b. Repealed. [Pub. L. 95–426, title VII, § 701(b)][/us/pl/95/426/s701/b], Oct. 7, 1978, [92 Stat. 991][/us/stat/92/991]
+## § 278b. Repealed. [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 701(b), Oct. 7, 1978, [92 Stat. 991][/us/stat/92/991]
 
-Section, [act June 28, 1944, ch. 294][/us/act/1944-06-28/ch294], title I, [58 Stat. 402][/us/stat/58/402], related to a report to Congress of the operation and work of the laboratory, including the statement of the receipts and expenditures, such a report to cover a fiscal year period ending on June 30 of the calendar year immediately preceding the convening of each such session. Similar provisions were contained in the following prior acts:
+Section, [act June 28, 1944, ch. 294, title I][/us/act/1944-06-28/ch294/tI], [58 Stat. 402][/us/stat/58/402], related to a report to Congress of the operation and work of the laboratory, including the statement of the receipts and expenditures, such a report to cover a fiscal year period ending on June 30 of the calendar year immediately preceding the convening of each such session. Similar provisions were contained in the following prior acts:
 
     [July 1, 1943, ch. 182][/us/act/1943-07-01/ch182], title I, [57 Stat. 277][/us/stat/57/277].
 
@@ -38,9 +38,9 @@ Section, [act June 28, 1944, ch. 294][/us/act/1944-06-28/ch294], title I, [58 St
 ----------
 ----------
 
-[/us/pl/95/426/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs701%2Fb
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F991
-[/us/act/1944-06-28/ch294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch294
+[/us/act/1944-06-28/ch294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch294%2FtI
 [/us/stat/58/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F402
 [/us/act/1943-07-01/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-01%2Fch182
 [/us/stat/57/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F277

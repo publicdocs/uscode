@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part XII, consisting of section 2296, related to the Enterprise for the Americas Initiative, prior to repeal by [Pub. L. 102–549, title VI, § 602(b)][/us/pl/102/549/s602/b], Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669].
+    A prior part XII, consisting of section 2296, related to the Enterprise for the Americas Initiative, prior to repeal by [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(b), Oct. 28, 1992, [106 Stat. 3669][/us/stat/106/3669].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/549/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fb
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3669
 
 

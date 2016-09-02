@@ -39,7 +39,7 @@
 
             The amendments made by section 1706 shall take effect upon the date of enactment and shall apply to conduct taking place on or after such date.
 
-([Pub. L. 112–239, div. A, title XVII, § 1708][/us/pl/112/239/s1708], Jan. 2, 2013, [126 Stat. 2098][/us/stat/126/2098].)
+([Pub. L. 112–239, div. A, title XVII][/us/pl/112/239/dA/tXVII], § 1708, Jan. 2, 2013, [126 Stat. 2098][/us/stat/126/2098].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t22/s7104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104%2Fg
-[/us/pl/112/239/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1708
+[/us/pl/112/239/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVII
 [/us/stat/126/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2098
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t18/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1351

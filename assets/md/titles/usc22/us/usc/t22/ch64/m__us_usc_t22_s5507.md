@@ -17,7 +17,7 @@
 
     It is the policy of the Department of State (pursuant to [section 2715 of this title][/us/usc/t22/s2715]) to provide liaison with foreign governments and persons and with United States air carriers concerning arrangements for the preparation and transport to the United States of the remains of citizens who die abroad, as well as the disposition of personal effects. The Secretary of State shall ensure that regulations and guidelines of the Department of State reflect such policy and that such assistance is rendered to the families of United States citizens who are killed in terrorist incidents and disasters abroad.
 
-([Pub. L. 101–604, title II, § 208][/us/pl/101/604/s208], Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 208, Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715
-[/us/pl/101/604/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs208
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3085
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t22/ch57/m__us_usc_t22_s4710.md) | [Next](./../../../..//us/usc/t22/ch57/m__us_usc_t22_s4712.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4711)
 
-## § 4711. Repealed. [Pub. L. 103–236, title I, § 139(13)][/us/pl/103/236/s139/13], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]
+## § 4711. Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(13), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]
 
-    Section, [Pub. L. 99–93, title VI, § 611][/us/pl/99/93/s611], Aug. 16, 1985, [99 Stat. 443][/us/stat/99/443], required annual report to Congress on activities and expenditures pursuant to this chapter.
+    Section, [Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 611, Aug. 16, 1985, [99 Stat. 443][/us/stat/99/443], required annual report to Congress on activities and expenditures pursuant to this chapter.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/103/236/s139/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F13
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/99/93/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs611
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F443
 
 

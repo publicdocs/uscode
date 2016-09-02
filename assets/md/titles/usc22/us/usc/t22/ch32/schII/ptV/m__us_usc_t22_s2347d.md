@@ -17,7 +17,7 @@
 
     The President is encouraged to allocate a portion of the funds made available each fiscal year to carry out this part for use in providing education and training in maritime search and rescue, operation and maintenance of aids to navigation, port security, at-sea law enforcement, international maritime law, and general maritime skills.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 545, as added [Pub. L. 99–83, title I, § 127(a)][/us/pl/99/83/s127/a], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 545, as added [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 127(a), Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs127%2Fa
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F205
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

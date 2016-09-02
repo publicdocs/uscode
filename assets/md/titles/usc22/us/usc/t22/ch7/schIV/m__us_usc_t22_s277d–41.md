@@ -17,7 +17,7 @@
 
     The Secretary of State, acting through the Commissioner, is hereby authorized to conclude with the appropriate official or officials of the Government of Mexico an agreement for a coordinated plan by the United States and Mexico for international flood control works for protection of lands along the international section of the Rio Grande in the United States and in Mexico in the Presidio-Ojinaga Valley.
 
-([Pub. L. 92–549, title II, § 201][/us/pl/92/549/s201], Oct. 25, 1972, [86 Stat. 1163][/us/stat/86/1163].)
+([Pub. L. 92–549, title II][/us/pl/92/549/tII], § 201, Oct. 25, 1972, [86 Stat. 1163][/us/stat/86/1163].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/549/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs201
+[/us/pl/92/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtII
 [/us/stat/86/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1163
 
 

@@ -139,7 +139,7 @@
 
         (2) a corporation, partnership, or other entity which is created or organized under the laws of a foreign country or which has its principal place of business outside the United States.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 8, § 81, as added and amended [Pub. L. 102–182, title III][/us/pl/102/182], §§ 305(b), 309(b)(2), Dec. 4, 1991, [105 Stat. 1250][/us/stat/105/1250], 1258.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 8, § 81, as added and amended [Pub. L. 102–182, title III][/us/pl/102/182/tIII], §§ 305(b), 309(b)(2), Dec. 4, 1991, [105 Stat. 1250][/us/stat/105/1250], 1258.)
 
  __References in Text__ 
 
@@ -147,11 +147,11 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter VIII, consisting of former section 2798, as added by [Pub. L. 102–138, title V, § 505(b)][/us/pl/102/138/s505/b], Oct. 28, 1991, [105 Stat. 727][/us/stat/105/727], was substantially identical to subchapter VIII, as added by [section 305(b) of Pub. L. 102–182][/us/pl/102/182/s305/b], prior to repeal by [Pub. L. 102–182, title III, § 309(a)][/us/pl/102/182/s309/a], Dec. 4, 1991, [105 Stat. 1258][/us/stat/105/1258].
+    A prior subchapter VIII, consisting of former section 2798, as added by [Pub. L. 102–138, title V][/us/pl/102/138/tV], § 505(b), Oct. 28, 1991, [105 Stat. 727][/us/stat/105/727], was substantially identical to subchapter VIII, as added by [section 305(b) of Pub. L. 102–182][/us/pl/102/182/s305/b], prior to repeal by [Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 309(a), Dec. 4, 1991, [105 Stat. 1258][/us/stat/105/1258].
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 101–182, § 309(b)(2)][/us/pl/101/182/s309/b/2], substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
+    1991—Subsec. (a)(1). [Pub. L. 101–182][/us/pl/101/182], § 309(b)(2), substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
 
  __Delegation of Functions__ 
 
@@ -167,16 +167,16 @@
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1250
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/pl/102/138/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs505%2Fb
+[/us/pl/102/138/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtV
 [/us/stat/105/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F727
 [/us/pl/102/182/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs305%2Fb
-[/us/pl/102/182/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs309%2Fa
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1258
-[/us/pl/101/182/s309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F182%2Fs309%2Fb%2F2
+[/us/pl/101/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F182
 [/us/usc/t22/s2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797
 
 

@@ -25,7 +25,7 @@
 
     (2) before considering the reinstitution of general licenses for travel to Cuba by individuals resident in the United States who are family members of Cuban nationals who are resident in Cuba, insist on such actions by the Cuban Government as abrogation of the sanction for departure from Cuba by refugees, release of political prisoners, recognition of the right of association, and other fundamental freedoms.
 
-([Pub. L. 104–114, title I, § 112][/us/pl/104/114/s112], Mar. 12, 1996, [110 Stat. 802][/us/stat/110/802].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 112, Mar. 12, 1996, [110 Stat. 802][/us/stat/110/802].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs112
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F802
 
 

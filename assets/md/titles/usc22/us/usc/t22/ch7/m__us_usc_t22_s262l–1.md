@@ -39,7 +39,7 @@
 
         (3) seek a commitment of these institutions to promote the conservation of wetlands, tropical forests, and other unique biological and highly productive ecosystems.
 
-    (c) __Repealed.__  __[__  __Pub. L. 101–240, title V, § 541(d)(8)__  __][/us/pl/101/240/s541/d/8]__  __,__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2518__  __][/us/stat/103/2518]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 101–240, title V__  __][/us/pl/101/240/tV]__  __, § 541(d)(8),__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2518__  __][/us/stat/103/2518]__ 
 
     (d) __Pest management__ 
 
@@ -85,7 +85,7 @@
 
         (3) an assessment of how the funds contributed by the United States to these agencies can best be used in the future to address these issues.
 
-([Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 537\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–161; [Pub. L. 101–240, title V, § 541(d)(8)][/us/pl/101/240/s541/d/8], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 537\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–161; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(8), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Codification__ 
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/101/240/s541/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F8
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/101/240/s541/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F8
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 

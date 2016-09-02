@@ -17,7 +17,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
-([Pub. L. 105–292, title II, § 206][/us/pl/105/292/s206], formerly § 204, Oct. 27, 1998, [112 Stat. 2799][/us/stat/112/2799]; renumbered § 206, [Pub. L. 106–55, § 1(b)(2)][/us/pl/106/55/s1/b/2], Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 206, formerly § 204, Oct. 27, 1998, [112 Stat. 2799][/us/stat/112/2799]; renumbered § 206, [Pub. L. 106–55][/us/pl/106/55], § 1(b)(2), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/105/292/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs206
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
 [/us/stat/112/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2799
-[/us/pl/106/55/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F2
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F401
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

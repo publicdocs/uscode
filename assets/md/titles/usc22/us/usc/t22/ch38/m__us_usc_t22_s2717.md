@@ -23,11 +23,11 @@
 
     (3) the enhancement of defense trade export compliance and enforcement activities, including compliance audits of United States and foreign parties, the conduct of administrative proceedings, monitoring of end-uses in cases of direct commercial arms sales or other transfers, and cooperation in proceedings for enforcement of criminal laws related to defense trade export controls.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 45, as added [Pub. L. 101–246, title I, § 118(2)][/us/pl/101/246/s118/2], Feb. 16, 1990, [104 Stat. 25][/us/stat/104/25]; amended [Pub. L. 102–138, title I, § 126][/us/pl/102/138/s126], Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659]; [Pub. L. 105–261, div. A, title XV, § 1513(b)][/us/pl/105/261/s1513/b], Oct. 17, 1998, [112 Stat. 2174][/us/stat/112/2174]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2203, Oct. 21, 1998, [112 Stat. 2681–808][/us/stat/112/2681-808].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 45, as added [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 118(2), Feb. 16, 1990, [104 Stat. 25][/us/stat/104/25]; amended [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 126, Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659]; [Pub. L. 105–261, div. A, title XV][/us/pl/105/261/dA/tXV], § 1513(b), Oct. 17, 1998, [112 Stat. 2174][/us/stat/112/2174]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2203, Oct. 21, 1998, [112 Stat. 2681–808][/us/stat/112/2681-808].)
 
  __Prior Provisions__ 
 
-    A prior section 45 of act Aug. 1, 1956, was renumbered section 46 by [section 118(1) of Pub. L. 101–246][/us/pl/101/246/s118/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 45 of act Aug. 1, 1956, was renumbered section 46 by [section 118(1) of Pub. L. 101–246][/us/pl/101/246/s118/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 
     [Pub. L. 105–261][/us/pl/105/261] designated subsec. (a) as entire section, struck out former subsec. (a) heading “Defense trade controls registration fees”, substituted “100 percent” for “$700,000”, and struck out heading and text of subsec. (b). Text read as follows: “The authority contained in subsection (a) of this section shall be exercised to such extent and in such amounts as are to be provided in an appropriation Act.”
 
-    1991—[Pub. L. 102–138, § 126(1)][/us/pl/102/138/s126/1], substituted “Defense trade controls registration fees” for “Munitions control registration fees” in section catchline.
+    1991—[Pub. L. 102–138][/us/pl/102/138], § 126(1), substituted “Defense trade controls registration fees” for “Munitions control registration fees” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–138, § 126][/us/pl/102/138/s126], substituted in heading “Defense trade controls registration fees” for “Munitions control registration fees” and in text “$700,000” for “$500,000”, “Defense Trade Controls” for “Munitions Control”, and “defense trade controls” for “munitions control” wherever appearing.
+    Subsec. (a). [Pub. L. 102–138][/us/pl/102/138], § 126, substituted in heading “Defense trade controls registration fees” for “Munitions control registration fees” and in text “$700,000” for “$500,000”, “Defense Trade Controls” for “Munitions Control”, and “defense trade controls” for “munitions control” wherever appearing.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -55,23 +55,23 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/101/246/s118/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs118%2F2
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F25
-[/us/pl/102/138/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs126
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F659
-[/us/pl/105/261/s1513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1513%2Fb
+[/us/pl/105/261/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXV
 [/us/stat/112/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2174
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-808
 [/us/pl/101/246/s118/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs118%2F1
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/102/138/s126/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs126%2F1
-[/us/pl/102/138/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs126
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/261/s1513/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1513%2Fc%2F2
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778

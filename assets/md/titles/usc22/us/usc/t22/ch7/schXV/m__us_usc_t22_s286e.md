@@ -21,15 +21,15 @@
 
     Any payment made to the United States by the Fund or the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
-([July 31, 1945, ch. 339, § 7(b)][/us/act/1945-07-31/ch339/s7/b]–(d), [59 Stat. 514][/us/stat/59/514]; [Pub. L. 86–48, § 2][/us/pl/86/48/s2], June 17, 1959, [73 Stat. 80][/us/stat/73/80]; [Pub. L. 87–490, § 2][/us/pl/87/490/s2], June 19, 1962, [76 Stat. 105][/us/stat/76/105].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 7(b)–(d), [59 Stat. 514][/us/stat/59/514]; [Pub. L. 86–48][/us/pl/86/48], § 2, June 17, 1959, [73 Stat. 80][/us/stat/73/80]; [Pub. L. 87–490][/us/pl/87/490], § 2, June 19, 1962, [76 Stat. 105][/us/stat/76/105].)
 
  __References in Text__ 
 
-    Subsection (a), referred to in the first par., means section 7(a) of [act July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], [59 Stat. 514][/us/stat/59/514], which generally amended subsec. (c) of section 822a of former Title 31, Money and Finance. Section 822a(c) of former Title 31 was repealed and reenacted as [section 5302(d) of Title 31][/us/usc/t31/s5302/d] by [Pub. L. 97–258, § 4(a)][/us/pl/97/258/s4/a], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31.
+    Subsection (a), referred to in the first par., means section 7(a) of [act July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], [59 Stat. 514][/us/stat/59/514], which generally amended subsec. (c) of section 822a of former Title 31, Money and Finance. Section 822a(c) of former Title 31 was repealed and reenacted as [section 5302(d) of Title 31][/us/usc/t31/s5302/d] by [Pub. L. 97–258][/us/pl/97/258], § 4(a), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31.
 
  __Codification__ 
 
-    In first and second pars., “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In first and second pars., “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section is based on subsecs. (b) to (d) of section 7 of act July 31, 1945. Subsec. (a) of section 7 amended section 822a of former Title 31. See References in Text note above.
 
@@ -60,18 +60,18 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs7%2Fb
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F514
-[/us/pl/86/48/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F48%2Fs2
+[/us/pl/86/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F48
 [/us/stat/73/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F80
-[/us/pl/87/490/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F490%2Fs2
+[/us/pl/87/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F490
 [/us/stat/76/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F105
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F514
 [/us/usc/t31/s5302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302%2Fd
-[/us/pl/97/258/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fa
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/87/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F490
 [/us/pl/86/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F48

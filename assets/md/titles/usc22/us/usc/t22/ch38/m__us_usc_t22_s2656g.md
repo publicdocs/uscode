@@ -27,7 +27,7 @@
 
         (2) the term “international terrorism” has the meaning given such term in [section 2656f(d) of this title][/us/usc/t22/s2656f/d].
 
-([Pub. L. 102–138, title III, § 304][/us/pl/102/138/s304], Oct. 28, 1991, [105 Stat. 710][/us/stat/105/710]; [Pub. L. 103–236, title I, § 133(b)(2)][/us/pl/103/236/s133/b/2], Apr. 30, 1994, [108 Stat. 396][/us/stat/108/396].)
+([Pub. L. 102–138, title III][/us/pl/102/138/tIII], § 304, Oct. 28, 1991, [105 Stat. 710][/us/stat/105/710]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 133(b)(2), Apr. 30, 1994, [108 Stat. 396][/us/stat/108/396].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t22/s2656f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd
-[/us/pl/102/138/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs304
+[/us/pl/102/138/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtIII
 [/us/stat/105/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F710
-[/us/pl/103/236/s133/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs133%2Fb%2F2
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F396
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

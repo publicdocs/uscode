@@ -23,7 +23,7 @@
 
         The Congress notes with approval that the Inter-American Development Bank, under the terms of its Fifth Replenishment, has adopted the target that 50 percent of its lending benefit the poorest groups and has developed a usable methodology for determining the proportion of its lending which benefits such groups.
 
-([Pub. L. 95–118, title XI, § 1101][/us/pl/95/118/s1101], as added [Pub. L. 97–35, title XIII, § 1361(b)][/us/pl/97/35/s1361/b], Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
+([Pub. L. 95–118, title XI][/us/pl/95/118/tXI], § 1101, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1361(b), Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1101
-[/us/pl/97/35/s1361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1361%2Fb
+[/us/pl/95/118/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXI
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F745
 [/us/pl/97/35/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1372
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i

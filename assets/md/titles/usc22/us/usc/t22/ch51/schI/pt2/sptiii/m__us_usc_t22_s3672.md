@@ -47,7 +47,7 @@
 
         The provisions of this section shall take effect on September 27, 1979.
 
-([Pub. L. 96–70, title I, § 1232][/us/pl/96/70/s1232], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1232, Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1232
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F470
 
 

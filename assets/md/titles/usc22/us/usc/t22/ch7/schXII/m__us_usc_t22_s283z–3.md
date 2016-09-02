@@ -53,7 +53,7 @@
 
         (2) $350,000,000 for the United States share of the increase in the resources of the Fund for Special Operations.
 
-([Pub. L. 86–147, § 31][/us/pl/86/147/s31], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title X, § 1001\], Nov. 30, 1983, [97 Stat. 1284][/us/stat/97/1284].)
+([Pub. L. 86–147][/us/pl/86/147], § 31, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title X, § 1001\], Nov. 30, 1983, [97 Stat. 1284][/us/stat/97/1284].)
 
 ----------
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs31
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1284
 
 

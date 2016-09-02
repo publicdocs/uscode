@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    Prior similar provisions were contained in [act June 29, 1939, ch. 248][/us/act/1939-06-29/ch248], title I, [53 Stat. 890][/us/stat/53/890].
+    Prior similar provisions were contained in [act June 29, 1939, ch. 248, title I][/us/act/1939-06-29/ch248/tI], [53 Stat. 890][/us/stat/53/890].
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/act/1940-05-14/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-14%2Fch189
 [/us/stat/54/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F186
-[/us/act/1939-06-29/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-29%2Fch248
+[/us/act/1939-06-29/ch248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-29%2Fch248%2FtI
 [/us/stat/53/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F890
 
 

@@ -107,7 +107,7 @@
 
         For purposes of this section, the term “excess defense articles” shall be deemed to include excess property of the Coast Guard, and the term “Department of Defense” shall be deemed, with respect to such excess property, to include the Coast Guard.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 516, as added [Pub. L. 99–661, div. A, title XI, § 1101][/us/pl/99/661/s1101], Nov. 14, 1986, [100 Stat. 3960][/us/stat/100/3960]; amended [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8143\], Dec. 22, 1987, [101 Stat. 1321–43][/us/stat/101/1321-43], 1329–89; [Pub. L. 101–189, div. A, title IX, § 934][/us/pl/101/189/s934], Nov. 29, 1989, [103 Stat. 1538][/us/stat/103/1538]; [Pub. L. 101–513, title V, § 589][/us/pl/101/513/s589], Nov. 5, 1990, [104 Stat. 2057][/us/stat/104/2057]; [Pub. L. 102–190, div. A, title X, § 1049(a)][/us/pl/102/190/s1049/a], Dec. 5, 1991, [105 Stat. 1469][/us/stat/105/1469]; [Pub. L. 102–391, title V, § 574][/us/pl/102/391/s574], Oct. 6, 1992, [106 Stat. 1683][/us/stat/106/1683]; [Pub. L. 102–484, div. A, title XIII, § 1313][/us/pl/102/484/s1313], Oct. 23, 1992, [106 Stat. 2548][/us/stat/106/2548]; [Pub. L. 103–160, div. A, title XI, § 1182(c)(2)][/us/pl/103/160/s1182/c/2], title XIV, § 1421, Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772], 1829; [Pub. L. 103–236, title VII, § 731(a)][/us/pl/103/236/s731/a], Apr. 30, 1994, [108 Stat. 502][/us/stat/108/502]; [Pub. L. 104–106, div. A, title X, § 1012(g)(1)][/us/pl/104/106/s1012/g/1], Feb. 10, 1996, [110 Stat. 422][/us/stat/110/422]; [Pub. L. 104–164, title I, § 104(a)][/us/pl/104/164/s104/a], July 21, 1996, [110 Stat. 1424][/us/stat/110/1424]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, §§ 1211(b), 1213\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–497, 1501A–498; [Pub. L. 106–280, title I, § 122][/us/pl/106/280/s122], Oct. 6, 2000, [114 Stat. 851][/us/stat/114/851]; [Pub. L. 107–228, div. B, title XII, § 1234][/us/pl/107/228/s1234], Sept. 30, 2002, [116 Stat. 1433][/us/stat/116/1433]; [Pub. L. 113–276, title II, § 202][/us/pl/113/276/s202], Dec. 18, 2014, [128 Stat. 2990][/us/stat/128/2990].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 516, as added [Pub. L. 99–661, div. A, title XI][/us/pl/99/661/dA/tXI], § 1101, Nov. 14, 1986, [100 Stat. 3960][/us/stat/100/3960]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8143\], Dec. 22, 1987, [101 Stat. 1321–43][/us/stat/101/1321-43], 1329–89; [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 934, Nov. 29, 1989, [103 Stat. 1538][/us/stat/103/1538]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 589, Nov. 5, 1990, [104 Stat. 2057][/us/stat/104/2057]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1049(a), Dec. 5, 1991, [105 Stat. 1469][/us/stat/105/1469]; [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 574, Oct. 6, 1992, [106 Stat. 1683][/us/stat/106/1683]; [Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1313, Oct. 23, 1992, [106 Stat. 2548][/us/stat/106/2548]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(c)(2), title XIV, § 1421, Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772], 1829; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 731(a), Apr. 30, 1994, [108 Stat. 502][/us/stat/108/502]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1012(g)(1), Feb. 10, 1996, [110 Stat. 422][/us/stat/110/422]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 104(a), July 21, 1996, [110 Stat. 1424][/us/stat/110/1424]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, §§ 1211(b), 1213\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–497, 1501A–498; [Pub. L. 106–280, title I][/us/pl/106/280/tI], § 122, Oct. 6, 2000, [114 Stat. 851][/us/stat/114/851]; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1234, Sept. 30, 2002, [116 Stat. 1433][/us/stat/116/1433]; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 202, Dec. 18, 2014, [128 Stat. 2990][/us/stat/128/2990].)
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2321j, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 516, as added [Pub. L. 94–329, title I, § 105][/us/pl/94/329/s105], June 30, 1976, [90 Stat. 732][/us/stat/90/732]; amended [Pub. L. 95–92][/us/pl/95/92], §§ 5(b), 7(b), Aug. 4, 1977, [91 Stat. 615][/us/stat/91/615], 617; [Pub. L. 95–384, § 7(b)][/us/pl/95/384/s7/b], Sept. 26, 1978, [92 Stat. 732][/us/stat/92/732]; [Pub. L. 96–92, § 5(c)][/us/pl/96/92/s5/c], Oct. 29, 1979, [93 Stat. 703][/us/stat/93/703]; [Pub. L. 96–533, title I, § 112(d)][/us/pl/96/533/s112/d], Dec. 16, 1980, [94 Stat. 3139][/us/stat/94/3139], provided for termination of authorities contained in this part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by [Pub. L. 97–113, title I, § 110(d)][/us/pl/97/113/s110/d], Dec. 29, 1981, [95 Stat. 1526][/us/stat/95/1526].
+    A prior section 2321j, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 516, as added [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 105, June 30, 1976, [90 Stat. 732][/us/stat/90/732]; amended [Pub. L. 95–92][/us/pl/95/92], §§ 5(b), 7(b), Aug. 4, 1977, [91 Stat. 615][/us/stat/91/615], 617; [Pub. L. 95–384][/us/pl/95/384], § 7(b), Sept. 26, 1978, [92 Stat. 732][/us/stat/92/732]; [Pub. L. 96–92][/us/pl/96/92], § 5(c), Oct. 29, 1979, [93 Stat. 703][/us/stat/93/703]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 112(d), Dec. 16, 1980, [94 Stat. 3139][/us/stat/94/3139], provided for termination of authorities contained in this part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 110(d), Dec. 29, 1981, [95 Stat. 1526][/us/stat/95/1526].
 
  __Amendments__ 
 
@@ -127,9 +127,9 @@
 
     2000—Subsec. (e)(2)(C). [Pub. L. 106–280][/us/pl/106/280] substituted “50,000” for “25,000”.
 
-    1999—Subsec. (b)(2). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XII, § 1211(b)\], inserted “and thereafter for the four-period beginning on October 1, 2000,” after “October 1, 1996,”.
+    1999—Subsec. (b)(2). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XII, § 1211(b)\], inserted “and thereafter for the four-period beginning on October 1, 2000,” after “October 1, 1996,”.
 
-    Subsec. (g)(1). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XII, § 1213\], substituted “$425,000,000” for “$350,000,000”.
+    Subsec. (g)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XII, § 1213\], substituted “$425,000,000” for “$350,000,000”.
 
     1996—[Pub. L. 104–164][/us/pl/104/164] amended section generally, expanding geographic scope of President’s authority to transfer excess defense articles, including Coast Guard property and permitting waiver of Department of Defense reimbursement, to any country for military assistance programs or international narcotics control, so long as such transfer is preferable to sale and is consistent within congressionally documented Eastern Mediterranean policy requirements, meets certain terms of transfer requirements including preference for NATO and non-NATO allies on southern flank, complies with advance notification to Congress for certain excess defense articles, and is within aggregate annual limitations of $350,000,000 in value, for provisions which authorized President to transfer excess defense articles to predominantly NATO countries on southern flank for purpose of modernization of their defense capabilities.
 
@@ -137,43 +137,43 @@
 
     1994—Subsec. (b)(4). [Pub. L. 103–236][/us/pl/103/236] added par. (4).
 
-    1993—Subsec. (a). [Pub. L. 103–160, § 1182(c)(2)][/us/pl/103/160/s1182/c/2], made technical amendment to [Pub. L. 102–484, § 1313(2)][/us/pl/102/484/s1313/2]. See 1992 Amendment note below.
+    1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], § 1182(c)(2), made technical amendment to [Pub. L. 102–484][/us/pl/102/484], § 1313(2). See 1992 Amendment note below.
 
-    Subsec. (a)(3). [Pub. L. 103–160, § 1421][/us/pl/103/160/s1421], inserted “or fiscal year 1992” after “fiscal year 1991”.
+    Subsec. (a)(3). [Pub. L. 103–160][/us/pl/103/160], § 1421, inserted “or fiscal year 1992” after “fiscal year 1991”.
 
-    1992—Subsec. (a). [Pub. L. 102–484, § 1313(4)][/us/pl/102/484/s1313/4], which directed the amendment of subsec. (a) by striking “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,”, could not be executed because that language did not appear subsequent to amendment by [Pub. L. 102–391][/us/pl/102/391]. See below.
+    1992—Subsec. (a). [Pub. L. 102–484][/us/pl/102/484], § 1313(4), which directed the amendment of subsec. (a) by striking “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,”, could not be executed because that language did not appear subsequent to amendment by [Pub. L. 102–391][/us/pl/102/391]. See below.
 
-    [Pub. L. 102–484, § 1313(3)][/us/pl/102/484/s1313/3], inserted “and (3) to those countries which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf, and which either received Foreign Military Financing (FMF) assistance in fiscal year 1990 or are in the Near East Region and received Foreign Military Financing (FMF) assistance in fiscal year 1991,” after “southeastern flank of NATO which are eligible for United States security assistance,”.
+    [Pub. L. 102–484][/us/pl/102/484], § 1313(3), inserted “and (3) to those countries which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf, and which either received Foreign Military Financing (FMF) assistance in fiscal year 1990 or are in the Near East Region and received Foreign Military Financing (FMF) assistance in fiscal year 1991,” after “southeastern flank of NATO which are eligible for United States security assistance,”.
 
-    [Pub. L. 102–484, § 1313(2)][/us/pl/102/484/s1313/2], as amended by [Pub. L. 103–160, § 1182(c)(2)][/us/pl/103/160/s1182/c/2], substituted “structure, (2)” for “structure, and”.
+    [Pub. L. 102–484][/us/pl/102/484], § 1313(2), as amended by [Pub. L. 103–160][/us/pl/103/160], § 1182(c)(2), substituted “structure, (2)” for “structure, and”.
 
-    [Pub. L. 102–484, § 1313(1)][/us/pl/102/484/s1313/1], inserted “(1)” after “may transfer”.
+    [Pub. L. 102–484][/us/pl/102/484], § 1313(1), inserted “(1)” after “may transfer”.
 
     [Pub. L. 102–391][/us/pl/102/391] repealed the amendment by [Pub. L. 101–513][/us/pl/101/513]. See 1990 Amendment note below.
 
-    1991—Subsec. (a). [Pub. L. 102–190, § 1049(a)(1)][/us/pl/102/190/s1049/a/1], struck out “during the fiscal years 1987 through 1991,” before “the President may transfer”.
+    1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 1049(a)(1), struck out “during the fiscal years 1987 through 1991,” before “the President may transfer”.
 
-    Subsec. (f). [Pub. L. 102–190, § 1049(a)(2)][/us/pl/102/190/s1049/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–190][/us/pl/102/190], § 1049(a)(2), added subsec. (f).
 
     1990—Subsec. (a). [Pub. L. 101–513][/us/pl/101/513], which directed amendment of subsec. (a) by inserting “and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,” after the second occurrence of the words “United States security assistance,”, was repealed by [Pub. L. 102–391][/us/pl/102/391]. See 1992 Amendment note above.
 
     1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189] substituted “during the fiscal years 1987 through 1991” for “during the fiscal years 1987, 1988, and 1989” and inserted at end “Transfers to recipient countries under this subsection shall be consistent with the policy framework for the Eastern Mediterranean region established in [section 2373 of this title][/us/usc/t22/s2373].”
 
-    1987—Subsec. (a). [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8143(a), (b), (c)(1)\], in first sentence substituted “, 1988, and 1989,” for “and 1988”, inserted “, and to major non-NATO allies on the southern and southeastern flank of NATO which are eligible for United States security assistance,” after “military structure”, and inserted “excess” before “defense articles”, and in second sentence inserted “excess defense” before “articles”.
+    1987—Subsec. (a). [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8143(a), (b), (c)(1)\], in first sentence substituted “, 1988, and 1989,” for “and 1988”, inserted “, and to major non-NATO allies on the southern and southeastern flank of NATO which are eligible for United States security assistance,” after “military structure”, and inserted “excess” before “defense articles”, and in second sentence inserted “excess defense” before “articles”.
 
-    Subsec. (b). [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8143(c)(2)\], in introductory text, inserted “excess” before “defense articles”.
+    Subsec. (b). [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8143(c)(2)\], in introductory text, inserted “excess” before “defense articles”.
 
-    Subsecs. (c), (d). [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8143(c)(2)\], inserted “excess” before “defense articles”.
+    Subsecs. (c), (d). [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8143(c)(2)\], inserted “excess” before “defense articles”.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, title X, § 1012(g)(2)][/us/pl/104/106/s1012/g/2], Feb. 10, 1996, [110 Stat. 422][/us/stat/110/422], provided that: 
+[Pub. L. 104–106, title X][/us/pl/104/106/tX], § 1012(g)(2), Feb. 10, 1996, [110 Stat. 422][/us/stat/110/422], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the transfer of a vessel on or after the date of the enactment of this Act \[Feb. 10, 1996\] (other than a vessel the transfer of which is authorized by subsection (a) \[[110 Stat. 421][/us/stat/110/421]\] or by law before the date of the enactment of this Act).”
 
  __Effective Date of 1993 Amendment__ 
 
-    [Pub. L. 103–160, title XI, § 1182(c)(2)][/us/pl/103/160/s1182/c/2], Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772], provided in part that the amendment made by that section is effective as of Oct. 23, 1992.
+    [Pub. L. 103–160, title XI][/us/pl/103/160/tXI], § 1182(c)(2), Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772], provided in part that the amendment made by that section is effective as of Oct. 23, 1992.
 
  __Transfer of Functions__ 
 
@@ -185,21 +185,21 @@
 
  __Mediterranean Excess Defense Articles__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 535\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–153, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 535\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–153, provided that: 
 
 > “For the four-year period beginning on October 1, 1996, the President shall ensure that excess defense articles will be made available under section\[s\] 516 and 519 of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2321j][/us/usc/t22/s2321j], 2321m\] consistent with the manner in which the President made available excess defense articles under those sections during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the Foreign Operations, Export Financing, Related Programs Appropriations Act, 1990 \[[Pub. L. 101–167][/us/pl/101/167], set out below\].”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 104–107, title V, § 536][/us/pl/104/107/s536], Feb. 12, 1996, [110 Stat. 735][/us/stat/110/735].
+    [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 536, Feb. 12, 1996, [110 Stat. 735][/us/stat/110/735].
 
  __Avoiding Duplicative Amendments__ 
 
-    [Pub. L. 102–190, title X, § 1049(b)][/us/pl/102/190/s1049/b], Dec. 5, 1991, [105 Stat. 1469][/us/stat/105/1469], which provided that if the International Cooperation Act of 1991 was enacted and made the same amendments to this section as did [section 1049(a) of Pub. L. 102–190][/us/pl/102/190/s1049/a], then the duplicative amendments enacted by section 1049(a) would not take effect, was repealed by [Pub. L. 102–484, div. A, title X, § 1053(7)][/us/pl/102/484/s1053/7], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502].
+    [Pub. L. 102–190, title X][/us/pl/102/190/tX], § 1049(b), Dec. 5, 1991, [105 Stat. 1469][/us/stat/105/1469], which provided that if the International Cooperation Act of 1991 was enacted and made the same amendments to this section as did [section 1049(a) of Pub. L. 102–190][/us/pl/102/190/s1049/a], then the duplicative amendments enacted by section 1049(a) would not take effect, was repealed by [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1053(7), Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502].
 
  __Modernization of Military Capabilities of Certain Countries__ 
 
-[Pub. L. 101–167, title V, § 573][/us/pl/101/167/s573], Nov. 21, 1989, [103 Stat. 1246][/us/stat/103/1246], as amended by [Pub. L. 102–391, title V, § 578(a)][/us/pl/102/391/s578/a], Oct. 6, 1992, [106 Stat. 1685][/us/stat/106/1685], provided that:
+[Pub. L. 101–167, title V][/us/pl/101/167/tV], § 573, Nov. 21, 1989, [103 Stat. 1246][/us/stat/103/1246], as amended by [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 578(a), Oct. 6, 1992, [106 Stat. 1685][/us/stat/106/1685], provided that:
 
 >     “(a) __Authority To Transfer Excess Defense Articles.—__ 
 
@@ -315,9 +315,9 @@
 
 Provisions similar to those appearing in [section 573(e) of Pub. L. 101–167][/us/pl/101/167/s573/e], set out above, were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–461, title V, § 569][/us/pl/100/461/s569], Oct. 1, 1988, [102 Stat. 2268–43][/us/stat/102/2268-43].
+    [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 569, Oct. 1, 1988, [102 Stat. 2268–43][/us/stat/102/2268-43].
 
-    [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 582\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–182.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 582\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–182.
 
 ----------
 
@@ -334,102 +334,102 @@ Provisions similar to those appearing in [section 573(e) of Pub. L. 101–167][/
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2394–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/661/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1101
+[/us/pl/99/661/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXI
 [/us/stat/100/3960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3960
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1321-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1321-43
-[/us/pl/101/189/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs934
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1538
-[/us/pl/101/513/s589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs589
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2057
-[/us/pl/102/190/s1049/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1049%2Fa
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1469
-[/us/pl/102/391/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs574
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1683
-[/us/pl/102/484/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1313
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2548
-[/us/pl/103/160/s1182/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fc%2F2
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1772
-[/us/pl/103/236/s731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs731%2Fa
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F502
-[/us/pl/104/106/s1012/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1012%2Fg%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F422
-[/us/pl/104/164/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs104%2Fa
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1424
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/280/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs122
+[/us/pl/106/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtI
 [/us/stat/114/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F851
-[/us/pl/107/228/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1234
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1433
-[/us/pl/113/276/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs202
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2990
 [/us/pl/101/167/s573/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs573%2Fe
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/329/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs105
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F732
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F615
-[/us/pl/95/384/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs7%2Fb
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F732
-[/us/pl/96/92/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs5%2Fc
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F703
-[/us/pl/96/533/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs112%2Fd
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3139
-[/us/pl/97/113/s110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs110%2Fd
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1526
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/103/160/s1182/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fc%2F2
-[/us/pl/102/484/s1313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1313%2F2
-[/us/pl/103/160/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1421
-[/us/pl/102/484/s1313/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1313%2F4
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
-[/us/pl/102/484/s1313/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1313%2F3
-[/us/pl/102/484/s1313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1313%2F2
-[/us/pl/103/160/s1182/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fc%2F2
-[/us/pl/102/484/s1313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1313%2F1
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
-[/us/pl/102/190/s1049/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1049%2Fa%2F1
-[/us/pl/102/190/s1049/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1049%2Fa%2F2
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t22/s2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2373
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
-[/us/pl/104/106/s1012/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1012%2Fg%2F2
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/104/106/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FtX
 [/us/stat/110/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F422
 [/us/stat/110/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F421
-[/us/pl/103/160/s1182/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fc%2F2
+[/us/pl/103/160/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FtXI
 [/us/stat/107/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1772
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 [/us/usc/t22/s2321j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321j
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
-[/us/pl/104/107/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs536
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F735
-[/us/pl/102/190/s1049/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1049%2Fb
+[/us/pl/102/190/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FtX
 [/us/stat/105/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1469
 [/us/pl/102/190/s1049/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1049%2Fa
-[/us/pl/102/484/s1053/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1053%2F7
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2502
-[/us/pl/101/167/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs573
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1246
-[/us/pl/102/391/s578/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs578%2Fa
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1685
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
 [/us/pl/87/195/s644/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs644%2Fg
@@ -437,9 +437,9 @@ Provisions similar to those appearing in [section 573(e) of Pub. L. 101–167][/
 [/us/pl/101/567/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F567%2Fs573
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/pl/101/167/s573/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs573%2Fe
-[/us/pl/100/461/s569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs569
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-43
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 
 

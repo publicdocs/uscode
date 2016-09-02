@@ -61,7 +61,7 @@
 
         The report required by subsection (a) and the updates required by subsection (c) may be submitted in classified form.
 
-([Pub. L. 111–195, title III, § 302][/us/pl/111/195/s302], July 1, 2010, [124 Stat. 1346][/us/stat/124/1346].)
+([Pub. L. 111–195, title III][/us/pl/111/195/tIII], § 302, July 1, 2010, [124 Stat. 1346][/us/stat/124/1346].)
 
  __Termination of Section__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/111/195/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs302
+[/us/pl/111/195/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtIII
 [/us/stat/124/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1346
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 

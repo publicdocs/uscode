@@ -39,7 +39,7 @@
 
         The President shall report his actions under this section promptly to the Congress.
 
-([Pub. L. 91–269, § 2][/us/pl/91/269/s2], May 27, 1970, [84 Stat. 271][/us/stat/84/271].)
+([Pub. L. 91–269][/us/pl/91/269], § 2, May 27, 1970, [84 Stat. 271][/us/stat/84/271].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/91/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs2
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F271
 
 

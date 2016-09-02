@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law (including any other provision of this Act), funds may not be obligated in any fiscal year for purposes of facilitating the conversion of military technologies and capabilities and defense industries of the former Soviet Union into civilian activities, as authorized by sections 5853(a)(6) and 5854(a)(6) of this title or any other provision of law, unless the President has previously obligated in the same fiscal year an amount equal to or greater than that amount of funds for defense conversion and defense transition activities in the United States. For purposes of this section, the term “defense conversion and defense transition activities in the United States” means those United States Government funded programs whose primary purpose is to assist United States private sector defense workers, United States companies that manufacture or otherwise provide defense goods or services, or United States communities adversely affected by reductions in United States defense spending, such as programs funded through the Office of Economic Adjustment in the Department of Defense or through the Economic Development Administration.
 
-([Pub. L. 102–511, title V, § 505][/us/pl/102/511/s505], Oct. 24, 1992, [106 Stat. 3340][/us/stat/106/3340]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title IV, § 405(d)(20)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–422.)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 505, Oct. 24, 1992, [106 Stat. 3340][/us/stat/106/3340]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title IV, § 405(d)(20)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–422.)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/102/511/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs505
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3340
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3320

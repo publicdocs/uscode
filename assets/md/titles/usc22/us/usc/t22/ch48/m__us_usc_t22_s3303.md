@@ -51,11 +51,11 @@
 
         Nothing in this chapter may be construed as a basis for supporting the exclusion or expulsion of Taiwan from continued membership in any international financial institution or any other international organization.
 
-([Pub. L. 96–8, § 4][/us/pl/96/8/s4], Apr. 10, 1979, [93 Stat. 15][/us/stat/93/15].)
+([Pub. L. 96–8][/us/pl/96/8], § 4, Apr. 10, 1979, [93 Stat. 15][/us/stat/93/15].)
 
  __References in Text__ 
 
-    The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
     The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is [Pub. L. 95–242][/us/pl/95/242], Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120], which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title][/us/usc/t22/s3201] and Tables.
 
@@ -63,11 +63,11 @@
 
  __Concerning the Participation of Taiwan in the International Civil Aviation Organization__ 
 
-    [Pub. L. 113–17, § 1][/us/pl/113/17/s1], July 12, 2013, [127 Stat. 480][/us/stat/127/480], directed the Secretary of State to develop a strategy to obtain observer status for Taiwan at the triennial International Civil Aviation Organization (ICAO) Assembly and other related meetings, activities, and mechanisms thereafter, to instruct the United States Mission to the ICAO to officially request observer status for Taiwan at such Assembly, meetings, activities, and mechanisms, to actively urge ICAO member states to support such observer status and participation for Taiwan, and to submit a report to Congress on the strategy developed by not later than 30 days after July 12, 2013.
+    [Pub. L. 113–17][/us/pl/113/17], § 1, July 12, 2013, [127 Stat. 480][/us/stat/127/480], directed the Secretary of State to develop a strategy to obtain observer status for Taiwan at the triennial International Civil Aviation Organization (ICAO) Assembly and other related meetings, activities, and mechanisms thereafter, to instruct the United States Mission to the ICAO to officially request observer status for Taiwan at such Assembly, meetings, activities, and mechanisms, to actively urge ICAO member states to support such observer status and participation for Taiwan, and to submit a report to Congress on the strategy developed by not later than 30 days after July 12, 2013.
 
  __Semiannual Reports on United States Support for Membership or Participation of Taiwan in International Organizations__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 704\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 704\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460, provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -99,10 +99,10 @@
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1152%2Fb
-[/us/pl/96/8/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs4
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F15
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
@@ -111,9 +111,9 @@
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/113/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F17%2Fs1
+[/us/pl/113/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F17
 [/us/stat/127/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F480
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

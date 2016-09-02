@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 5, 1947, ch. 498, § 13][/us/act/1947-08-05/ch498/s13], [61 Stat. 783][/us/stat/61/783], provided that Institute of Inter-American Affairs be subject to provisions of the Government Corporation Control Act. See Codification note set out under [section 281 of this title][/us/usc/t22/s281].
+    Section, [act Aug. 5, 1947, ch. 498][/us/act/1947-08-05/ch498], § 13, [61 Stat. 783][/us/stat/61/783], provided that Institute of Inter-American Affairs be subject to provisions of the Government Corporation Control Act. See Codification note set out under [section 281 of this title][/us/usc/t22/s281].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-05/ch498/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch498%2Fs13
+[/us/act/1947-08-05/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-05%2Fch498
 [/us/stat/61/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F783
 [/us/usc/t22/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs281
 

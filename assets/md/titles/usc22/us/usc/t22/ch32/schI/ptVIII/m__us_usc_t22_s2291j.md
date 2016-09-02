@@ -105,7 +105,7 @@
 
         Not later than November 1 of each year, the President shall notify the appropriate committees of the Congress of which countries have been determined to be major drug-transit countries, and which countries have been determined to be major illicit drug producing countries, for purposes of this chapter.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 490, as added [Pub. L. 102–583, § 5(a)][/us/pl/102/583/s5/a], Nov. 2, 1992, [106 Stat. 4924][/us/stat/106/4924]; amended [Pub. L. 103–447, title I, § 101(g)(1)][/us/pl/103/447/s101/g/1], Nov. 2, 1994, [108 Stat. 4692][/us/stat/108/4692]; [Pub. L. 104–66, title I, § 1112(d)][/us/pl/104/66/s1112/d], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 109–177, title VII, § 722(b)][/us/pl/109/177/s722/b], Mar. 9, 2006, [120 Stat. 268][/us/stat/120/268].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 490, as added [Pub. L. 102–583][/us/pl/102/583], § 5(a), Nov. 2, 1992, [106 Stat. 4924][/us/stat/106/4924]; amended [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 101(g)(1), Nov. 2, 1994, [108 Stat. 4692][/us/stat/108/4692]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1112(d), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 722(b), Mar. 9, 2006, [120 Stat. 268][/us/stat/120/268].)
 
  __References in Text__ 
 
@@ -115,29 +115,29 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–177, § 722(b)(1)][/us/pl/109/177/s722/b/1], substituted “major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of [section 2291h(a)(8)(A) of this title][/us/usc/t22/s2291h/a/8/A]” for “major illicit drug producing country or major drug-transit country”.
+    2006—Subsec. (a)(1). [Pub. L. 109–177][/us/pl/109/177], § 722(b)(1), substituted “major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of [section 2291h(a)(8)(A) of this title][/us/usc/t22/s2291h/a/8/A]” for “major illicit drug producing country or major drug-transit country”.
 
-    Subsec. (a)(2). [Pub. L. 109–177, § 722(b)(2)][/us/pl/109/177/s722/b/2], inserted “or country identified pursuant to clause (i) or (ii) of [section 2291h(a)(8)(A) of this title][/us/usc/t22/s2291h/a/8/A]” after “(as determined under subsection (h))”.
+    Subsec. (a)(2). [Pub. L. 109–177][/us/pl/109/177], § 722(b)(2), inserted “or country identified pursuant to clause (i) or (ii) of [section 2291h(a)(8)(A) of this title][/us/usc/t22/s2291h/a/8/A]” after “(as determined under subsection (h))”.
 
-    1995—[Pub. L. 104–66, § 1112(d)(1)][/us/pl/104/66/s1112/d/1], struck out “for fiscal year 1995” after “certification procedures” in section catchline.
+    1995—[Pub. L. 104–66][/us/pl/104/66], § 1112(d)(1), struck out “for fiscal year 1995” after “certification procedures” in section catchline.
 
-    Subsec. (i). [Pub. L. 104–66, § 1112(d)(2)][/us/pl/104/66/s1112/d/2], struck out heading and text of subsec. (i). Text read as follows: “This section applies only during fiscal year 1995. [Section 2291k of this title][/us/usc/t22/s2291k] does not apply during that fiscal year.”
+    Subsec. (i). [Pub. L. 104–66][/us/pl/104/66], § 1112(d)(2), struck out heading and text of subsec. (i). Text read as follows: “This section applies only during fiscal year 1995. [Section 2291k of this title][/us/usc/t22/s2291k] does not apply during that fiscal year.”
 
-    1994—[Pub. L. 103–447, § 101(g)(1)(A)][/us/pl/103/447/s101/g/1/A], substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
+    1994—[Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 103–447, § 101(g)(1)(B)][/us/pl/103/447/s101/g/1/B], struck out “(as determined under subsection (h) of this section)” after “drug-transit country”.
+    Subsec. (a)(1). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(B), struck out “(as determined under subsection (h) of this section)” after “drug-transit country”.
 
-    Subsec. (a)(2). [Pub. L. 103–447, § 101(g)(1)(C)][/us/pl/103/447/s101/g/1/C], substituted “March 1” for “April 1”.
+    Subsec. (a)(2). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(C), substituted “March 1” for “April 1”.
 
-    Subsec. (c). [Pub. L. 103–447, § 101(g)(1)(D)][/us/pl/103/447/s101/g/1/D], substituted “that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit markets and to prevent illicit cultivation and production.” for “that such country has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.”
+    Subsec. (c). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(D), substituted “that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit markets and to prevent illicit cultivation and production.” for “that such country has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.”
 
-    Subsec. (d). [Pub. L. 103–447, § 101(g)(1)(E)][/us/pl/103/447/s101/g/1/E], substituted “30 calendar days” for “45 calendar days”.
+    Subsec. (d). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(E), substituted “30 calendar days” for “45 calendar days”.
 
-    Subsec. (g). [Pub. L. 103–447, § 101(g)(1)(F)][/us/pl/103/447/s101/g/1/F], substituted “Senate procedures” for “Congressional review procedures” in heading, struck out designation and heading of par. (1), and struck out heading and text of par. (2). Text read as follows: “For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.”
+    Subsec. (g). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(F), substituted “Senate procedures” for “Congressional review procedures” in heading, struck out designation and heading of par. (1), and struck out heading and text of par. (2). Text read as follows: “For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.”
 
-    Subsec. (h). [Pub. L. 103–447, § 101(g)(1)(G)][/us/pl/103/447/s101/g/1/G], struck out “for fiscal years 1993 and 1994” after “drug producing countries” in heading and substituted “November 1” for “January 1” in text.
+    Subsec. (h). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(G), struck out “for fiscal years 1993 and 1994” after “drug producing countries” in heading and substituted “November 1” for “January 1” in text.
 
-    Subsec. (i). [Pub. L. 103–447, § 101(g)(1)(H)][/us/pl/103/447/s101/g/1/H], amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “This section applies only during fiscal years 1993 and 1994. During those fiscal years, [section 2291k of this title][/us/usc/t22/s2291k] does not apply and the definitions provided in section 2291(e)(2) and (5) of this title do not apply.”
+    Subsec. (i). [Pub. L. 103–447][/us/pl/103/447], § 101(g)(1)(H), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “This section applies only during fiscal years 1993 and 1994. During those fiscal years, [section 2291k of this title][/us/usc/t22/s2291k] does not apply and the definitions provided in section 2291(e)(2) and (5) of this title do not apply.”
 
  __Delegation of Functions__ 
 
@@ -224,34 +224,34 @@
 [/us/usc/t22/s2291h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa
 [/us/usc/t22/s2291h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/583/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs5%2Fa
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4924
-[/us/pl/103/447/s101/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4692
-[/us/pl/104/66/s1112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1112%2Fd
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
-[/us/pl/109/177/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs722%2Fb
+[/us/pl/109/177/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVII
 [/us/stat/120/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F268
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F765
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/109/177/s722/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs722%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t22/s2291h/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa%2F8%2FA
-[/us/pl/109/177/s722/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs722%2Fb%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t22/s2291h/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa%2F8%2FA
-[/us/pl/104/66/s1112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1112%2Fd%2F1
-[/us/pl/104/66/s1112/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1112%2Fd%2F2
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
+[/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t22/s2291k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291k
-[/us/pl/103/447/s101/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FA
-[/us/pl/103/447/s101/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FB
-[/us/pl/103/447/s101/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FC
-[/us/pl/103/447/s101/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FD
-[/us/pl/103/447/s101/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FE
-[/us/pl/103/447/s101/g/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FF
-[/us/pl/103/447/s101/g/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FG
-[/us/pl/103/447/s101/g/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs101%2Fg%2F1%2FH
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
+[/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
 [/us/usc/t22/s2291k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291k
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s2291j/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j%2Fb%2F1%2FA

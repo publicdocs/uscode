@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part 1, consisting of section 3861, related to cemeteries, prior to repeal by [Pub. L. 104–201, div. C, title XXXV, § 3546(a)(5)][/us/pl/104/201/s3546/a/5], Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868].
+    A prior part 1, consisting of section 3861, related to cemeteries, prior to repeal by [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3546(a)(5), Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s3546/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3546%2Fa%2F5
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2868
 
 

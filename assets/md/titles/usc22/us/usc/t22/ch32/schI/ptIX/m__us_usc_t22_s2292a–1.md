@@ -17,7 +17,7 @@
 
     The President shall submit quarterly reports to the Committee on Appropriations of the United States Senate and to the Committee on Appropriations of the House of Representatives on the programing and obligation of funds appropriated for International Disaster Assistance.
 
-([Pub. L. 94–330, title I, § 100][/us/pl/94/330/s100], June 30, 1976, [90 Stat. 773][/us/stat/90/773].)
+([Pub. L. 94–330, title I][/us/pl/94/330/tI], § 100, June 30, 1976, [90 Stat. 773][/us/stat/90/773].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/330/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F330%2Fs100
+[/us/pl/94/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F330%2FtI
 [/us/stat/90/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F773
 
 

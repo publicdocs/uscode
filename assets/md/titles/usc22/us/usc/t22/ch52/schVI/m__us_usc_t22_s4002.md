@@ -37,7 +37,7 @@
 
         No public members appointed pursuant to this section may be, at the time of their appointment or during their appointment, an agent of a foreign principal (as defined by [section 611(b) of this title][/us/usc/t22/s611/b]) or a lobbyist for a foreign entity (as defined in [section 1602(6) of title 2][/us/usc/t2/s1602/6]) or receive income from a government of a foreign country.
 
-([Pub. L. 96–465, title I, § 602][/us/pl/96/465/s602], Oct. 17, 1980, [94 Stat. 2095][/us/stat/94/2095]; [Pub. L. 101–246, title I, § 142][/us/pl/101/246/s142], Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36]; [Pub. L. 104–65, § 12(c)][/us/pl/104/65/s12/c], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 602, Oct. 17, 1980, [94 Stat. 2095][/us/stat/94/2095]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 142, Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36]; [Pub. L. 104–65][/us/pl/104/65], § 12(c), Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
 
  __Amendments__ 
 
@@ -62,11 +62,11 @@
 [/us/usc/t22/s4007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4007%2Fb
 [/us/usc/t22/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611%2Fb
 [/us/usc/t2/s1602/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602%2F6
-[/us/pl/96/465/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs602
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2095
-[/us/pl/101/246/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs142
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F36
-[/us/pl/104/65/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs12%2Fc
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/usc/t2/s1602/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602%2F6

@@ -35,11 +35,11 @@
 
     (9) Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
 
-([Pub. L. 112–150, § 4][/us/pl/112/150/s4], July 27, 2012, [126 Stat. 1147][/us/stat/126/1147].)
+([Pub. L. 112–150][/us/pl/112/150], § 4, July 27, 2012, [126 Stat. 1147][/us/stat/126/1147].)
 
  __Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing Requirements__ 
 
-[Pub. L. 113–296, § 6][/us/pl/113/296/s6], Dec. 19, 2014, [128 Stat. 4076][/us/stat/128/4076], provided that:
+[Pub. L. 113–296][/us/pl/113/296], § 6, Dec. 19, 2014, [128 Stat. 4076][/us/stat/128/4076], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/112/150/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs4
+[/us/pl/112/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150
 [/us/stat/126/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1147
-[/us/pl/113/296/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs6
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4076
 
 

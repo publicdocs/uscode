@@ -17,7 +17,7 @@
 
     No person shall be assigned to duty as a volunteer under this chapter in any foreign country or area unless at the time of such assignment he possesses such reasonable proficiency as his assignment requires in speaking the language of the country or area to which he is assigned.
 
-([Pub. L. 87–293, title I, § 24][/us/pl/87/293/s24], Sept. 22, 1961, [75 Stat. 624][/us/stat/75/624].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 24, Sept. 22, 1961, [75 Stat. 624][/us/stat/75/624].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/293/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs24
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F624
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

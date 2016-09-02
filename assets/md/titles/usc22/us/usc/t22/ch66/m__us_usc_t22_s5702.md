@@ -23,7 +23,7 @@
 
     (3) the term “laws of the United States” means provisions of law enacted by the Congress.
 
-([Pub. L. 102–383, § 3][/us/pl/102/383/s3], Oct. 5, 1992, [106 Stat. 1449][/us/stat/106/1449].)
+([Pub. L. 102–383][/us/pl/102/383], § 3, Oct. 5, 1992, [106 Stat. 1449][/us/stat/106/1449].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/383/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs3
+[/us/pl/102/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383
 [/us/stat/106/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1449
 
 

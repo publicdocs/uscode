@@ -17,7 +17,7 @@
 
     On and after June 30, 1958, Senate delegates to Conferences of the Interparliamentary Union shall be designated by the Presiding Officer of the Senate. Not less than two Senators so designated shall be members of the Committee on Foreign Relations.
 
-([Pub. L. 85–474, title I][/us/pl/85/474], June 30, 1958, [72 Stat. 246][/us/stat/72/246]; [Pub. L. 94–141, title II, § 204(c)][/us/pl/94/141/s204/c], Nov. 29, 1975, [89 Stat. 762][/us/stat/89/762].)
+([Pub. L. 85–474, title I][/us/pl/85/474/tI], June 30, 1958, [72 Stat. 246][/us/stat/72/246]; [Pub. L. 94–141, title II][/us/pl/94/141/tII], § 204(c), Nov. 29, 1975, [89 Stat. 762][/us/stat/89/762].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/85/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F474
+[/us/pl/85/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F474%2FtI
 [/us/stat/72/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F246
-[/us/pl/94/141/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs204%2Fc
+[/us/pl/94/141/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtII
 [/us/stat/89/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F762
 [/us/pl/94/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141
 

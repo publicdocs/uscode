@@ -51,7 +51,7 @@
 
  __Policy of the United States With Respect to Macau__ 
 
-[Pub. L. 106–570, title II][/us/pl/106/570], Dec. 27, 2000, [114 Stat. 3040][/us/stat/114/3040], provided that:
+[Pub. L. 106–570, title II][/us/pl/106/570/tII], Dec. 27, 2000, [114 Stat. 3040][/us/stat/114/3040], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -159,7 +159,7 @@
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/pl/107/228/s613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs613%2Fb
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/106/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570
+[/us/pl/106/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtII
 [/us/stat/114/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3040
 
 

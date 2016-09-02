@@ -69,37 +69,37 @@
 
         Any participant who is separated for cause under [section 4010 of this title][/us/usc/t22/s4010] shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-([Pub. L. 96–465, title I, § 855][/us/pl/96/465/s855], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 617][/us/stat/100/617]; amended [Pub. L. 99–556, title IV, § 406][/us/pl/99/556/s406], Oct. 27, 1986, [100 Stat. 3138][/us/stat/100/3138]; [Pub. L. 103–178, title II, § 204(b)(3)][/us/pl/103/178/s204/b/3], Dec. 3, 1993, [107 Stat. 2033][/us/stat/107/2033]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2312(b), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827]; [Pub. L. 105–382, § 2(d)(3)(B)][/us/pl/105/382/s2/d/3/B], Nov. 13, 1998, [112 Stat. 3408][/us/stat/112/3408]; [Pub. L. 107–228, div. A, title III, § 322(b)(1)][/us/pl/107/228/s322/b/1], Sept. 30, 2002, [116 Stat. 1384][/us/stat/116/1384]; [Pub. L. 112–96, title V, § 5001(c)(2)(F)][/us/pl/112/96/s5001/c/2/F], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 855, as added [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 415, June 6, 1986, [100 Stat. 617][/us/stat/100/617]; amended [Pub. L. 99–556, title IV][/us/pl/99/556/tIV], § 406, Oct. 27, 1986, [100 Stat. 3138][/us/stat/100/3138]; [Pub. L. 103–178, title II][/us/pl/103/178/tII], § 204(b)(3), Dec. 3, 1993, [107 Stat. 2033][/us/stat/107/2033]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIII, § 2312(b), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827]; [Pub. L. 105–382][/us/pl/105/382], § 2(d)(3)(B), Nov. 13, 1998, [112 Stat. 3408][/us/stat/112/3408]; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 322(b)(1), Sept. 30, 2002, [116 Stat. 1384][/us/stat/116/1384]; [Pub. L. 112–96, title V][/us/pl/112/96/tV], § 5001(c)(2)(F), Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
 
  __References in Text__ 
 
     [Section 8414 of title 5][/us/usc/t5/s8414], referred to in subsec. (a)(3), does not contain the term “average pay”. [Section 8415 of title 5][/us/usc/t5/s8415] relates to annuity computation, and [section 8401 of title 5][/us/usc/t5/s8401] defines “average pay”.
 
-    The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is [Pub. L. 88–643][/us/pl/88/643], as revised generally by [Pub. L. 102–496, title VIII, § 802][/us/pl/102/496/s802], Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001] and Tables.
+    The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is [Pub. L. 88–643][/us/pl/88/643], as revised generally by [Pub. L. 102–496, title VIII][/us/pl/102/496/tVIII], § 802, Oct. 24, 1992, [106 Stat. 3196][/us/stat/106/3196]. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001] and Tables.
 
  __Amendments__ 
 
-    2012—Subsec. (b)(2)(A). [Pub. L. 112–96, § 5001(c)(2)(F)(i)][/us/pl/112/96/s5001/c/2/F/i], substituted “section 8415(e)(1)” for “section 8415(d)(1)” in introductory provisions.
+    2012—Subsec. (b)(2)(A). [Pub. L. 112–96][/us/pl/112/96], § 5001(c)(2)(F)(i), substituted “section 8415(e)(1)” for “section 8415(d)(1)” in introductory provisions.
 
-    Subsec. (b)(5). [Pub. L. 112–96, § 5001(c)(2)(F)(ii)][/us/pl/112/96/s5001/c/2/F/ii], substituted “section 8415(g)(1)” for “section 8415(f)(1)”.
+    Subsec. (b)(5). [Pub. L. 112–96][/us/pl/112/96], § 5001(c)(2)(F)(ii), substituted “section 8415(g)(1)” for “section 8415(f)(1)”.
 
     2002—Subsec. (a)(3). [Pub. L. 107–228][/us/pl/107/228] added par. (3).
 
-    1998—Subsec. (b)(1). [Pub. L. 105–277, § 2312(b)(1)(A)][/us/pl/105/277/s2312/b/1/A], and [Pub. L. 105–382][/us/pl/105/382] amended par. (1) identically, inserting “4010a,” after “4008,”.
+    1998—Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277], § 2312(b)(1)(A), and [Pub. L. 105–382][/us/pl/105/382] amended par. (1) identically, inserting “4010a,” after “4008,”.
 
-    [Pub. L. 105–277, § 2312(b)(1)(C)][/us/pl/105/277/s2312/b/1/C], substituted “Service, shall” for “Service shall”.
+    [Pub. L. 105–277][/us/pl/105/277], § 2312(b)(1)(C), substituted “Service, shall” for “Service shall”.
 
-    [Pub. L. 105–277, § 2312(b)(1)(B)][/us/pl/105/277/s2312/b/1/B], inserted “or for participants in the Foreign Service Pension System,” after “Retirement and Disability System”.
+    [Pub. L. 105–277][/us/pl/105/277], § 2312(b)(1)(B), inserted “or for participants in the Foreign Service Pension System,” after “Retirement and Disability System”.
 
-    Subsec. (b)(3). [Pub. L. 105–382][/us/pl/105/382], which directed the insertion of “4010a,” after “4008,” in par. (3), was not executed to reflect the probable intent of Congress and the amendment by [Pub. L. 105–277, § 2312(b)(2)][/us/pl/105/277/s2312/b/2]. See below.
+    Subsec. (b)(3). [Pub. L. 105–382][/us/pl/105/382], which directed the insertion of “4010a,” after “4008,” in par. (3), was not executed to reflect the probable intent of Congress and the amendment by [Pub. L. 105–277][/us/pl/105/277], § 2312(b)(2). See below.
 
-    [Pub. L. 105–277, § 2312(b)(2)][/us/pl/105/277/s2312/b/2], substituted “4010, or 4010a” for “or 4010”.
+    [Pub. L. 105–277][/us/pl/105/277], § 2312(b)(2), substituted “4010, or 4010a” for “or 4010”.
 
     1993—Subsec. (b)(2)(A)(ii). [Pub. L. 103–178][/us/pl/103/178] substituted “under title II of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2011][/us/usc/t50/s2011] et seq.) or under section 302(a) or 303(b) of that Act ([50 U.S.C. 2152(a)][/us/usc/t50/s2152/a], 2153(b))” for “under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–556, § 406(a)][/us/pl/99/556/s406/a], substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
+    1986—Subsec. (b)(1). [Pub. L. 99–556][/us/pl/99/556], § 406(a), substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
 
-    Subsec. (b)(2). [Pub. L. 99–556, § 406(b)][/us/pl/99/556/s406/b], amended par. (2) by substituting subpars. (A) and (B) for former subpars. (A) to (C). Prior to amendment, subpars. (A) to (C) read as follows:
+    Subsec. (b)(2). [Pub. L. 99–556][/us/pl/99/556], § 406(b), amended par. (2) by substituting subpars. (A) and (B) for former subpars. (A) to (C). Prior to amendment, subpars. (A) to (C) read as follows:
 
     “(A) for all service earned while a participant in this System, at the rate stated in [section 8415(d) of title 5][/us/usc/t5/s8415/d]; and
 
@@ -107,7 +107,7 @@
 
     “(C) for all volunteer service creditable under [section 4071c(c) of this title][/us/usc/t22/s4071c/c], at the rate stated in [section 8415(a) of title 5][/us/usc/t5/s8415/a].”
 
-    Subsec. (b)(3) to (6). [Pub. L. 99–556, § 406(c)][/us/pl/99/556/s406/c], added pars. (3) to (6).
+    Subsec. (b)(3) to (6). [Pub. L. 99–556][/us/pl/99/556], § 406(c), added pars. (3) to (6).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -140,48 +140,48 @@
 [/us/usc/t22/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4051
 [/us/usc/t5/s8413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8413%2Fb
 [/us/usc/t22/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010
-[/us/pl/96/465/s855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs855
-[/us/pl/99/335/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs415
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F617
-[/us/pl/99/556/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs406
+[/us/pl/99/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtIV
 [/us/stat/100/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3138
-[/us/pl/103/178/s204/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs204%2Fb%2F3
+[/us/pl/103/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtII
 [/us/stat/107/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2033
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-827
-[/us/pl/105/382/s2/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382%2Fs2%2Fd%2F3%2FB
+[/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
 [/us/stat/112/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3408
-[/us/pl/107/228/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs322%2Fb%2F1
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1384
-[/us/pl/112/96/s5001/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FF
+[/us/pl/112/96/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtV
 [/us/stat/126/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F200
 [/us/usc/t5/s8414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8414
 [/us/usc/t5/s8415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8415
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
 [/us/pl/88/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F643
-[/us/pl/102/496/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs802
+[/us/pl/102/496/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtVIII
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
-[/us/pl/112/96/s5001/c/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FF%2Fi
-[/us/pl/112/96/s5001/c/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5001%2Fc%2F2%2FF%2Fii
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/105/277/s2312/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fb%2F1%2FA
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
-[/us/pl/105/277/s2312/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fb%2F1%2FC
-[/us/pl/105/277/s2312/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fb%2F1%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
-[/us/pl/105/277/s2312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fb%2F2
-[/us/pl/105/277/s2312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2312%2Fb%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178
 [/us/usc/t50/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2011
 [/us/usc/t50/s2152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2152%2Fa
-[/us/pl/99/556/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs406%2Fa
-[/us/pl/99/556/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs406%2Fb
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/usc/t5/s8415/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8415%2Fd
 [/us/usc/t22/s4071c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c%2Fd
 [/us/usc/t22/s4071c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c%2Fc
 [/us/usc/t5/s8415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8415%2Fa
-[/us/pl/99/556/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs406%2Fc
+[/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/107/228/s322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs322%2Fc%2F1
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046

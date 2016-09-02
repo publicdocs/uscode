@@ -67,13 +67,13 @@
 
             The coordinator designated under subsection (a), under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2]) to coordinate United States assistance for Afghanistan with international financial institutions.
 
-([Pub. L. 107–327, title I, § 104][/us/pl/107/327/s104], Dec. 4, 2002, [116 Stat. 2804][/us/stat/116/2804]; [Pub. L. 108–458, title VII, § 7104(c)(2)][/us/pl/108/458/s7104/c/2], (d), Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 104, Dec. 4, 2002, [116 Stat. 2804][/us/stat/116/2804]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(c)(2), (d), Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–458, § 7104(c)(2)][/us/pl/108/458/s7104/c/2], substituted “shall” for “is strongly urged to” in introductory provisions.
+    2004—Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 7104(c)(2), substituted “shall” for “is strongly urged to” in introductory provisions.
 
-    Subsecs. (c), (d). [Pub. L. 108–458, § 7104(d)][/us/pl/108/458/s7104/d], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 108–458][/us/pl/108/458], § 7104(d), added subsecs. (c) and (d).
 
  __Change of Name__ 
 
@@ -81,7 +81,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–458, title VII, § 7104(c)(1)][/us/pl/108/458/s7104/c/1], Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(c)(1), Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781], provided that: 
 
 > “Congress makes the following findings:
 
@@ -98,13 +98,13 @@
 
 [/us/usc/t22/s7554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7554
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/107/327/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs104
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2804
-[/us/pl/108/458/s7104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fc%2F2
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3781
-[/us/pl/108/458/s7104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fc%2F2
-[/us/pl/108/458/s7104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fd
-[/us/pl/108/458/s7104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fc%2F1
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3781
 [/us/usc/t22/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7501
 

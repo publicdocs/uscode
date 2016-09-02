@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1955—Sections 1621 to 1627 of this title which constituted the International Claims Settlement Act of 1949 were designated title I of such Act, herein referred to as subchapter I, for purposes of codification, by [act Aug. 9, 1955, ch. 645, § 1][/us/act/1955-08-09/ch645/s1], [69 Stat. 562][/us/stat/69/562].
+    1955—Sections 1621 to 1627 of this title which constituted the International Claims Settlement Act of 1949 were designated title I of such Act, herein referred to as subchapter I, for purposes of codification, by [act Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 1, [69 Stat. 562][/us/stat/69/562].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1955-08-09/ch645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs1
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
 
 

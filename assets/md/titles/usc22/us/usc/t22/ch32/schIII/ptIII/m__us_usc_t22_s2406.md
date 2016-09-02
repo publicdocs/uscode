@@ -21,11 +21,11 @@
 
  __Prohibition on Assistance for Nuclear Powerplants for Fiscal Year 1978__ 
 
-    [Pub. L. 95–92, § 14][/us/pl/95/92/s14], Aug. 4, 1977, [91 Stat. 622][/us/stat/91/622], which prohibited any funds made available to carry out this chapter for fiscal year 1978 from being used to finance the construction of, the operation or maintenance of, or the supply of fuel for any nuclear powerplant under an agreement of cooperation between the United States and any other country, was repealed by [Pub. L. 97–113, title VII, § 734(a)(13)][/us/pl/97/113/s734/a/13], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 95–92][/us/pl/95/92], § 14, Aug. 4, 1977, [91 Stat. 622][/us/stat/91/622], which prohibited any funds made available to carry out this chapter for fiscal year 1978 from being used to finance the construction of, the operation or maintenance of, or the supply of fuel for any nuclear powerplant under an agreement of cooperation between the United States and any other country, was repealed by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(13), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
  __Nuclear Powerplants in Israel or Egypt__ 
 
-    [Pub. L. 93–559, § 43][/us/pl/93/559/s43], Dec. 30, 1974, [88 Stat. 1813][/us/stat/88/1813], which prohibited any funds authorized under [Pub. L. 93–559][/us/pl/93/559] from being used to finance the construction of, the operation or maintenance of, or the supply of fuel for any nuclear powerplant in Israel or Egypt, was repealed by [Pub. L. 97–113, title VII, § 734(a)(8)][/us/pl/97/113/s734/a/8], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 93–559][/us/pl/93/559], § 43, Dec. 30, 1974, [88 Stat. 1813][/us/stat/88/1813], which prohibited any funds authorized under [Pub. L. 93–559][/us/pl/93/559] from being used to finance the construction of, the operation or maintenance of, or the supply of fuel for any nuclear powerplant in Israel or Egypt, was repealed by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(8), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
 ----------
 
@@ -36,14 +36,14 @@
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F462
-[/us/pl/95/92/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs14
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F622
-[/us/pl/97/113/s734/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F13
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/93/559/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs43
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1813
 [/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
-[/us/pl/97/113/s734/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F8
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 
 

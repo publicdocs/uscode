@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the United States in the United Nations Educational, Scientific, and Cultural Organization (hereinafter referred to as the “Organization”), the constitution of which was approved in London on November 16, 1945, by the United Nations Conference for the establishment of an Educational, Scientific, and Cultural Organization, and deposited in the Archives of the Government of the United Kingdom.
 
-([July 30, 1946, ch. 700, § 1][/us/act/1946-07-30/ch700/s1], [60 Stat. 712][/us/stat/60/712].)
+([July 30, 1946, ch. 700][/us/act/1946-07-30/ch700], § 1, [60 Stat. 712][/us/stat/60/712].)
 
  __Constitution of the United Nations Educational, Scientific, and Cultural Organization__ 
 
@@ -262,7 +262,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-30/ch700/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700%2Fs1
+[/us/act/1946-07-30/ch700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700
 [/us/stat/60/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F712
 
 

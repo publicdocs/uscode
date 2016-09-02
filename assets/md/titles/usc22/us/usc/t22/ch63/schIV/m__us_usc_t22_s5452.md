@@ -61,7 +61,7 @@
 
         It is the sense of the Congress that the Executive branch should work with the Government of Hungary to achieve environmentally safe alternative investments in energy efficiency, particularly with regard to projects along the Danube River.
 
-([Pub. L. 101–179, title V, § 502][/us/pl/101/179/s502], Nov. 28, 1989, [103 Stat. 1317][/us/stat/103/1317].)
+([Pub. L. 101–179, title V][/us/pl/101/179/tV], § 502, Nov. 28, 1989, [103 Stat. 1317][/us/stat/103/1317].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/101/179/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs502
+[/us/pl/101/179/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtV
 [/us/stat/103/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1317
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

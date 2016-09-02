@@ -57,7 +57,7 @@
 
         (13) the transportation of Peace Corps employees, Peace Corps volunteers, dependents of such employees and volunteers, and accompanying baggage, by a foreign air carrier when the transportation is between two places outside the United States without regard to [section 40118 of title 49][/us/usc/t49/s40118].
 
-([Pub. L. 87–293, title I, § 15][/us/pl/87/293/s15], Sept. 22, 1961, [75 Stat. 621][/us/stat/75/621]; [Pub. L. 89–134, § 7][/us/pl/89/134/s7], Aug. 24, 1965, [79 Stat. 551][/us/stat/79/551]; [Pub. L. 89–572, § 3][/us/pl/89/572/s3], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]; [Pub. L. 96–465, title II, § 2202(e)][/us/pl/96/465/s2202/e], Oct. 17, 1980, [94 Stat. 2158][/us/stat/94/2158]; [Pub. L. 96–533, title VI, § 601(c)][/us/pl/96/533/s601/c], Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155]; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–145; [Pub. L. 106–30, § 2(a)][/us/pl/106/30/s2/a], (b)(5)–(8), May 21, 1999, [113 Stat. 55][/us/stat/113/55], 56.)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 15, Sept. 22, 1961, [75 Stat. 621][/us/stat/75/621]; [Pub. L. 89–134][/us/pl/89/134], § 7, Aug. 24, 1965, [79 Stat. 551][/us/stat/79/551]; [Pub. L. 89–572][/us/pl/89/572], § 3, Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2202(e), Oct. 17, 1980, [94 Stat. 2158][/us/stat/94/2158]; [Pub. L. 96–533, title VI][/us/pl/96/533/tVI], § 601(c), Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155]; [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–145; [Pub. L. 106–30][/us/pl/106/30], § 2(a), (b)(5)–(8), May 21, 1999, [113 Stat. 55][/us/stat/113/55], 56.)
 
  __References in Text__ 
 
@@ -67,15 +67,15 @@
 
  __Amendments__ 
 
-    1999—Subsec. (c). [Pub. L. 106–30, § 2(b)(5)][/us/pl/106/30/s2/b/5], substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
+    1999—Subsec. (c). [Pub. L. 106–30][/us/pl/106/30], § 2(b)(5), substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
 
-    Subsec. (d)(2). [Pub. L. 106–30, § 2(b)(6)][/us/pl/106/30/s2/b/6], substituted “[section 1346 of title 31][/us/usc/t31/s1346]” for “[section 9 of Public Law 60–328][/us/pl/60/328/s9] ([31 U.S.C. 673][/us/usc/t31/s673])”.
+    Subsec. (d)(2). [Pub. L. 106–30][/us/pl/106/30], § 2(b)(6), substituted “[section 1346 of title 31][/us/usc/t31/s1346]” for “[section 9 of Public Law 60–328][/us/pl/60/328/s9] ([31 U.S.C. 673][/us/usc/t31/s673])”.
 
-    Subsec. (d)(6). [Pub. L. 106–30, § 2(b)(7)][/us/pl/106/30/s2/b/7], struck out “without regard to section 3561 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543])” after “exchange of funds”.
+    Subsec. (d)(6). [Pub. L. 106–30][/us/pl/106/30], § 2(b)(7), struck out “without regard to section 3561 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543])” after “exchange of funds”.
 
-    Subsec. (d)(11). [Pub. L. 106–30, § 2(b)(8)][/us/pl/106/30/s2/b/8], substituted “Foreign Service Act of 1980 ([22 U.S.C. 3901][/us/usc/t22/s3901] et seq.)” for “Foreign Service Act of 1946, as amended ([22 U.S.C. 801][/us/usc/t22/s801] et seq.)”.
+    Subsec. (d)(11). [Pub. L. 106–30][/us/pl/106/30], § 2(b)(8), substituted “Foreign Service Act of 1980 ([22 U.S.C. 3901][/us/usc/t22/s3901] et seq.)” for “Foreign Service Act of 1946, as amended ([22 U.S.C. 801][/us/usc/t22/s801] et seq.)”.
 
-    Subsec. (d)(13). [Pub. L. 106–30, § 2(a)][/us/pl/106/30/s2/a], added par. (13).
+    Subsec. (d)(13). [Pub. L. 106–30][/us/pl/106/30], § 2(a), added par. (13).
 
     1987—Subsec. (d)(4). [Pub. L. 100–202][/us/pl/100/202] substituted “the applicable cost limitation described in [section 2396(a)(5) of this title][/us/usc/t22/s2396/a/5]” for “$2,500” and inserted proviso that [section 1343 of title 31][/us/usc/t31/s1343] not apply to the purchase of vehicles for the transportation, maintenance, or direct support of volunteers overseas.
 
@@ -83,9 +83,9 @@
 
     Subsec. (d)(7). [Pub. L. 96–533][/us/pl/96/533] increased to $20,000 from $5,000 fiscal year expenditures limitation.
 
-    1966—Subsec. (c). [Pub. L. 89–572, § 3(a)][/us/pl/89/572/s3/a], substituted “2506(a)(2)” for “2506(c)(2)”.
+    1966—Subsec. (c). [Pub. L. 89–572][/us/pl/89/572], § 3(a), substituted “2506(a)(2)” for “2506(c)(2)”.
 
-    Subsec. (d)(4). [Pub. L. 89–572, § 3(b)][/us/pl/89/572/s3/b], substituted “2506(c)” for “2506(e)”.
+    Subsec. (d)(4). [Pub. L. 89–572][/us/pl/89/572], § 3(b), substituted “2506(c)” for “2506(e)”.
 
     1965—Subsec. (c). [Pub. L. 89–134][/us/pl/89/134] struck out provision that training not be considered employment or holding of office under [section 2 of the Act of July 31, 1894][/us/act/1894-07-31/s2], as amended ([5 U.S.C. 62][/us/usc/t5/s62]).
 
@@ -108,19 +108,19 @@
 [/us/usc/t31/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1343
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t49/s40118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40118
-[/us/pl/87/293/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs15
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F621
-[/us/pl/89/134/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134%2Fs7
+[/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/stat/79/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F551
-[/us/pl/89/572/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs3
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
-[/us/pl/96/465/s2202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2202%2Fe
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2158
-[/us/pl/96/533/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs601%2Fc
+[/us/pl/96/533/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtVI
 [/us/stat/94/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3155
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/106/30/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fa
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/stat/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F55
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -128,24 +128,24 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/106/30/s2/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fb%2F5
-[/us/pl/106/30/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fb%2F6
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/usc/t31/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1346
 [/us/pl/60/328/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F60%2F328%2Fs9
 [/us/usc/t31/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs673
-[/us/pl/106/30/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fb%2F7
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/usc/t31/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs543
-[/us/pl/106/30/s2/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fb%2F8
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs801
-[/us/pl/106/30/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fa
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t22/s2396/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2396%2Fa%2F5
 [/us/usc/t31/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1343
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
-[/us/pl/89/572/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs3%2Fa
-[/us/pl/89/572/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs3%2Fb
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/act/1894-07-31/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-31%2Fs2
 [/us/usc/t5/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs62

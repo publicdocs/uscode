@@ -237,7 +237,7 @@
 
             The termination date under paragraph (1) shall not apply with respect to the provisions of subsection (a) relating to the transfer of defense articles into Syria or sanctions imposed pursuant to such provisions.
 
-([Pub. L. 113–272, § 4][/us/pl/113/272/s4], Dec. 18, 2014, [128 Stat. 2953][/us/stat/128/2953].)
+([Pub. L. 113–272][/us/pl/113/272], § 4, Dec. 18, 2014, [128 Stat. 2953][/us/stat/128/2953].)
 
  __Termination of Section__ 
 
@@ -267,7 +267,7 @@
 [/us/usc/t22/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8511
 [/us/usc/t50/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
-[/us/pl/113/272/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs4
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2953
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503

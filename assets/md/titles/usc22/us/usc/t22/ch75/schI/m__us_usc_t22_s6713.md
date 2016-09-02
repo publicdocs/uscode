@@ -211,7 +211,7 @@
 
     (ii) through the United States Government or the conduct of an inspection on United States territory under the Convention.
 
-([Pub. L. 105–277, div. I, title I, § 103][/us/pl/105/277/s103], Oct. 21, 1998, [112 Stat. 2681–861][/us/stat/112/2681-861].)
+([Pub. L. 105–277, div. I, title I][/us/pl/105/277/dI/tI], § 103, Oct. 21, 1998, [112 Stat. 2681–861][/us/stat/112/2681-861].)
 
  __References in Text__ 
 
@@ -243,7 +243,7 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s6724/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6724%2Fe%2F2
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/105/277/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs103
+[/us/pl/105/277/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtI
 [/us/stat/112/2681-861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-861
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

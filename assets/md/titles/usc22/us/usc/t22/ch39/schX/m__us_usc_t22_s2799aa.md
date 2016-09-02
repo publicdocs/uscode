@@ -41,7 +41,7 @@
 
             (B) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 101, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 515][/us/stat/108/515]; amended [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 101, as added [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(a), Apr. 30, 1994, [108 Stat. 515][/us/stat/108/515]; amended [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(1), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __References to Sections 2429 and 2429a of This Title Deemed To Be References to Sections 2799aa and 2799aa–1 of This Title__ 
 
-[Pub. L. 103–236, title VIII, § 826(c)][/us/pl/103/236/s826/c], Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519], provided that: 
+[Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(c), Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519], provided that: 
 
 > “Any reference in law as of the date of enactment of this Act \[Apr. 30, 1994\] to section 669 or 670 of the Foreign Assistance Act of 1961 \[former [22 U.S.C. 2429][/us/usc/t22/s2429], 2429a\] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act \[[22 U.S.C. 2799aa][/us/usc/t22/s2799aa], 2799aa–1\].”
 
@@ -82,9 +82,9 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2348
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/103/236/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fa
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F515
-[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -94,7 +94,7 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/94/329/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601%2Fb
 [/us/stat/90/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F765
-[/us/pl/103/236/s826/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fc
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F519
 [/us/usc/t22/s2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2429
 [/us/usc/t22/s2799aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa

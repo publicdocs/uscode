@@ -57,17 +57,17 @@
 
         Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under [section 2452(b)(10) of this title][/us/usc/t22/s2452/b/10], not to exceed $10,000,000 for the fiscal year ending June 30, 1968, and not to exceed $15,000,000 for the fiscal year ending June 30, 1969.
 
-([Pub. L. 87–256, § 105][/us/pl/87/256/s105], Sept. 21, 1961, [75 Stat. 531][/us/stat/75/531]; [Pub. L. 89–698, title II, § 203(c)][/us/pl/89/698/s203/c], Oct. 29, 1966, [80 Stat. 1072][/us/stat/80/1072]; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637][/us/stat/91/1637]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 103–236, title II, § 227][/us/pl/103/236/s227], Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(S), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
+([Pub. L. 87–256][/us/pl/87/256], § 105, Sept. 21, 1961, [75 Stat. 531][/us/stat/75/531]; [Pub. L. 89–698, title II][/us/pl/89/698/tII], § 203(c), Oct. 29, 1966, [80 Stat. 1072][/us/stat/80/1072]; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637][/us/stat/91/1637]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 103–236, title II][/us/pl/103/236/tII], § 227, Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(S), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning [Pub. L. 87–256][/us/pl/87/256], Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527], as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title][/us/usc/t22/s2451] and Tables.
 
-    Section 3651 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543]), referred to in subsec. (b), was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
+    Section 3651 of the Revised Statutes ([31 U.S.C. 543][/us/usc/t31/s543]), referred to in subsec. (b), was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31, Money and Finance.
 
     The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], [68 Stat. 454][/us/stat/68/454], which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7][/us/usc/t7/s1691] and Tables.
 
-    Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a), [68 Stat. 861][/us/stat/68/861].
+    Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a), [68 Stat. 861][/us/stat/68/861].
 
     The acts of February 25, 1919, and February 9, 1922, referred to in subsec. (e), are not classified to the Code.
 
@@ -93,7 +93,7 @@
 
  __Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees__ 
 
-    [Pub. L. 97–241, title III, § 305(c)][/us/pl/97/241/s305/c], (d), Aug. 24, 1982, [96 Stat. 294][/us/stat/96/294], provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
+    [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 305(c), (d), Aug. 24, 1982, [96 Stat. 294][/us/stat/96/294], provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
 
 ----------
 
@@ -107,27 +107,27 @@
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
 [/us/usc/t22/s2452/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fb%2F10
-[/us/pl/87/256/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs105
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F531
-[/us/pl/89/698/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F698%2Fs203%2Fc
+[/us/pl/89/698/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F698%2FtII
 [/us/stat/80/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1072
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/103/236/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs227
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F423
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
 [/us/usc/t31/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs543
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/act/1954-08-26/ch937/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2FtV
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
@@ -141,7 +141,7 @@
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
 [/us/usc/t22/s2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2454
-[/us/pl/97/241/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs305%2Fc
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F294
 
 

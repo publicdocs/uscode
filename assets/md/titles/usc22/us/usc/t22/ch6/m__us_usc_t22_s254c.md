@@ -17,7 +17,7 @@
 
     The President may, on the basis of reciprocity and under such terms and conditions as he may determine, specify privileges and immunities for the mission, the members of the mission, their families, and the diplomatic couriers which result in more favorable treatment or less favorable treatment than is provided under the Vienna Convention.
 
-([Pub. L. 95–393, § 4][/us/pl/95/393/s4], Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; [Pub. L. 97–241, title II, § 203(b)(3)][/us/pl/97/241/s203/b/3], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
+([Pub. L. 95–393][/us/pl/95/393], § 4, Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 203(b)(3), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/393/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs4
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F809
-[/us/pl/97/241/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs203%2Fb%2F3
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241

@@ -11,41 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch19/schVI/m__us_usc_t22_ch19_schVI.md) | [Next](./../../../../..//us/usc/t22/ch19/schVII/m__us_usc_t22_ch19_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1557l)
+[Previous](./../../../../..//us/usc/t22/ch19/schVI/m__us_usc_t22_s1557...1557k.md) | [Next](./../../../../..//us/usc/t22/ch19/schVI/m__us_usc_t22_s1557m...1557o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1557l)
 
 ## § 1557l. Repealed. [Oct. 10, 1951, ch. 479][/us/act/1951-10-10/ch479], title V, § 528(c), [65 Stat. 386][/us/stat/65/386]
 
-    Section, [act June 5, 1950, ch. 220][/us/act/1950-06-05/ch220], title IV, § 414, [64 Stat. 208][/us/stat/64/208], related to personnel investigations by the Federal Bureau of Investigation.
-
-§§ 1557m to 1557o. __Repealed.__  __[__  __Aug. 26, 1954, ch. 937__  __][/us/act/1954-08-26/ch937]__  __, title V, § 542(a)(6),__  __[__  __68 Stat. 861__  __][/us/stat/68/861]__ 
-
-    Section 1557m, [act June 5, 1950, ch. 220][/us/act/1950-06-05/ch220], title IV, § 415, [64 Stat. 208][/us/stat/64/208], required the President to submit an annual report to Congress. See [section 2394 of this title][/us/usc/t22/s2394].
-
-    Section 1557n, [act June 5, 1950, ch. 220][/us/act/1950-06-05/ch220], title IV, § 416, [64 Stat. 208][/us/stat/64/208], related to authorization for appropriations; original appropriation; and express or implied commitments. See [section 2404 of this title][/us/usc/t22/s2404].
-
-    Section 1557o, [act June 5, 1950, ch. 220][/us/act/1950-06-05/ch220], title IV, § 418, [64 Stat. 209][/us/stat/64/209], defined the terms “technical cooperation programs,” “United States Government agency” and “international organization.” See [section 2403 of this title][/us/usc/t22/s2403].
+    Section, [act June 5, 1950, ch. 220, title IV][/us/act/1950-06-05/ch220/tIV], § 414, [64 Stat. 208][/us/stat/64/208], related to personnel investigations by the Federal Bureau of Investigation.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch19/schVI/m__us_usc_t22_ch19_schVI.md) | [Next](./../../../../..//us/usc/t22/ch19/schVII/m__us_usc_t22_ch19_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1557l)
+[Previous](./../../../../..//us/usc/t22/ch19/schVI/m__us_usc_t22_s1557...1557k.md) | [Next](./../../../../..//us/usc/t22/ch19/schVI/m__us_usc_t22_s1557m...1557o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1557l)
 
 ----------
 ----------
 
 [/us/act/1951-10-10/ch479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-10%2Fch479
 [/us/stat/65/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F386
-[/us/act/1950-06-05/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-05%2Fch220
+[/us/act/1950-06-05/ch220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-05%2Fch220%2FtIV
 [/us/stat/64/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F208
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
-[/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
-[/us/act/1950-06-05/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-05%2Fch220
-[/us/stat/64/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F208
-[/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
-[/us/act/1950-06-05/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-05%2Fch220
-[/us/stat/64/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F208
-[/us/usc/t22/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2404
-[/us/act/1950-06-05/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-05%2Fch220
-[/us/stat/64/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F209
-[/us/usc/t22/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403
 
 

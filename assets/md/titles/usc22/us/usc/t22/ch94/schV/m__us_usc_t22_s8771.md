@@ -23,7 +23,7 @@
 
         Subsection (a) applies with respect to visa applications filed on or after August 10, 2012.
 
-([Pub. L. 112–158, title V, § 501][/us/pl/112/158/s501], Aug. 10, 2012, [126 Stat. 1258][/us/stat/126/1258].)
+([Pub. L. 112–158, title V][/us/pl/112/158/tV], § 501, Aug. 10, 2012, [126 Stat. 1258][/us/stat/126/1258].)
 
  __Termination of Section__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/112/158/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs501
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1258
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 

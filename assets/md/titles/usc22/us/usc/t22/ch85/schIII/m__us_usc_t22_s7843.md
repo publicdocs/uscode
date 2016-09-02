@@ -17,7 +17,7 @@
 
     The Secretary of State shall undertake to facilitate the submission of applications under [section 1157 of title 8][/us/usc/t8/s1157] by citizens of North Korea seeking protection as refugees (as defined in [section 1101(a)(42) of title 8][/us/usc/t8/s1101/a/42]).
 
-([Pub. L. 108–333, title III, § 303][/us/pl/108/333/s303], Oct. 18, 2004, [118 Stat. 1296][/us/stat/118/1296].)
+([Pub. L. 108–333, title III][/us/pl/108/333/tIII], § 303, Oct. 18, 2004, [118 Stat. 1296][/us/stat/118/1296].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t8/s1101/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F42
-[/us/pl/108/333/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs303
+[/us/pl/108/333/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtIII
 [/us/stat/118/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1296
 
 

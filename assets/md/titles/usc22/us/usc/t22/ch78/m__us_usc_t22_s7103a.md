@@ -101,7 +101,7 @@
 
                 The Secretary may reinstate assistance for a country or entity suspended or terminated under this paragraph only if the Secretary determines that the country or entity has demonstrated a commitment to correcting each condition for which assistance was suspended or terminated under subparagraph (A).
 
-([Pub. L. 106–386, div. A, § 105A][/us/pl/106/386/s105A], as added [Pub. L. 113–4, title XII, § 1202][/us/pl/113/4/s1202], Mar. 7, 2013, [127 Stat. 136][/us/stat/127/136].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 105A, as added [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1202, Mar. 7, 2013, [127 Stat. 136][/us/stat/127/136].)
 
  __References in Text__ 
 
@@ -116,8 +116,8 @@
 
 [/us/usc/t22/s7103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103%2Fe%2F1
 [/us/usc/t22/s7103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103%2Fe%2F1
-[/us/pl/106/386/s105A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs105A
-[/us/pl/113/4/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1202
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F136
 [/us/pl/113/4/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1202
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386

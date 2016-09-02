@@ -31,7 +31,7 @@
 
         An Executive order issued under subsection (a) may be terminated by the President with respect to a particular law or provision of law whenever the President determines that Hong Kong has regained sufficient autonomy to justify different treatment under the law or provision of law in question. Notice of any such termination shall be published in the Federal Register.
 
-([Pub. L. 102–383, title II, § 202][/us/pl/102/383/s202], Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
+([Pub. L. 102–383, title II][/us/pl/102/383/tII], § 202, Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s5721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5721%2Fa
-[/us/pl/102/383/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs202
+[/us/pl/102/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtII
 [/us/stat/106/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1453
 
 

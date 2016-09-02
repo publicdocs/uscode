@@ -41,11 +41,11 @@
 
         At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the House Members as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members as Cochairman of the Commission.
 
-([Pub. L. 94–304, § 3][/us/pl/94/304/s3], June 3, 1976, [90 Stat. 661][/us/stat/90/661]; [Pub. L. 99–7, § 1(a)][/us/pl/99/7/s1/a], (b), Mar. 27, 1985, [99 Stat. 18][/us/stat/99/18].)
+([Pub. L. 94–304][/us/pl/94/304], § 3, June 3, 1976, [90 Stat. 661][/us/stat/90/661]; [Pub. L. 99–7][/us/pl/99/7], § 1(a), (b), Mar. 27, 1985, [99 Stat. 18][/us/stat/99/18].)
 
  __Amendments__ 
 
-    1985—Subsecs. (a), (b). [Pub. L. 99–7, § 1(a)][/us/pl/99/7/s1/a], in amending section generally, designated existing provisions as subsec. (a) and added subsec. (b). Prior to amendment, section read as follows: “The Commission shall be composed of fifteen members as follows:
+    1985—Subsecs. (a), (b). [Pub. L. 99–7][/us/pl/99/7], § 1(a), in amending section generally, designated existing provisions as subsec. (a) and added subsec. (b). Prior to amendment, section read as follows: “The Commission shall be composed of fifteen members as follows:
 
     “(1) Six Members of the House of Representatives appointed by the Speaker of the House of Representatives. Four members shall be selected from the majority party and two shall be selected, after consultation with the minority leader of the House, from the minority party. The Speaker shall designate one of the House Members as chairman.
 
@@ -57,7 +57,7 @@
 
     “(5) One member of the Commerce Department appointed by the President of the United States.”
 
-    Subsecs. (c), (d). [Pub. L. 99–7, § 1(b)][/us/pl/99/7/s1/b], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 99–7][/us/pl/99/7], § 1(b), added subsecs. (c) and (d).
 
  __Effective Date of 1985 Amendment__ 
 
@@ -67,7 +67,7 @@
 
  __Designation of Chairman and Cochairman for Duration of 99th Congress__ 
 
-[Pub. L. 99–7, § 1(c)][/us/pl/99/7/s1/c], Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19], provided that: 
+[Pub. L. 99–7][/us/pl/99/7], § 1(c), Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19], provided that: 
 
 > “On the effective date of this subsection \[Apr. 15, 1985\], the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members to serve as Chairman of the Commission for the duration of the Ninety-ninth Congress, and the Speaker of the House of Representatives shall designate one of the House Members to serve as Cochairman of the Commission for the duration of the Ninety-ninth Congress.”
 
@@ -78,19 +78,19 @@
 ----------
 ----------
 
-[/us/pl/94/304/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs3
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F661
-[/us/pl/99/7/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs1%2Fa
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/stat/99/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F18
-[/us/pl/99/7/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs1%2Fa
-[/us/pl/99/7/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs1%2Fb
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/pl/99/7/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs1%2Fa
 [/us/pl/99/7/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs6%2Fa
 [/us/usc/t22/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3002
 [/us/pl/99/7/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs1%2Fb
 [/us/pl/99/7/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs6%2Fb%2F1
 [/us/usc/t22/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3002
-[/us/pl/99/7/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs1%2Fc
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/stat/99/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F19
 
 

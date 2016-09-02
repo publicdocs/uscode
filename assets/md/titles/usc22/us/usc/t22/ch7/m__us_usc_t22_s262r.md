@@ -93,7 +93,7 @@
 
             The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
 
-([Pub. L. 95–118, title XVII, § 1701][/us/pl/95/118/s1701], as added [Pub. L. 101–240, title V, § 541(a)][/us/pl/101/240/s541/a], Dec. 19, 1989, [103 Stat. 2514][/us/stat/103/2514]; amended [Pub. L. 101–513, title V, § 562(c)(10)(A)][/us/pl/101/513/s562/c/10/A], Nov. 5, 1990, [104 Stat. 2036][/us/stat/104/2036]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title VII, § 710(a)\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–181; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 610(b)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228.)
+([Pub. L. 95–118, title XVII][/us/pl/95/118/tXVII], § 1701, as added [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(a), Dec. 19, 1989, [103 Stat. 2514][/us/stat/103/2514]; amended [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(10)(A), Nov. 5, 1990, [104 Stat. 2036][/us/stat/104/2036]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title VII, § 710(a)\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–181; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 610(b)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228.)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
     This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of [Pub. L. 95–118][/us/pl/95/118]. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under [section 262c of this title][/us/usc/t22/s262c]. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to [section 262t of this title][/us/usc/t22/s262t]. For complete classification of these titles to the Code, see Tables.
 
-    [Section 262d(c) of this title][/us/usc/t22/s262d/c], referred to in subsec. (b)(9), was repealed by [Pub. L. 113–188, title XVI, § 1601(b)][/us/pl/113/188/s1601/b], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].
+    [Section 262d(c) of this title][/us/usc/t22/s262d/c], referred to in subsec. (b)(9), was repealed by [Pub. L. 113–188, title XVI][/us/pl/113/188/tXVI], § 1601(b), Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].
 
     Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -119,7 +119,7 @@
 
  __Contents of Reports; Applicability of Statutory Requirements__ 
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 583\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–202, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 583\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–202, provided that:
 
 >     “(a)
 
@@ -141,7 +141,7 @@
 
  __International Financial Institution Advisory Commission__ 
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 603\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–220, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 603\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–220, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -233,7 +233,7 @@
 
  __Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System__ 
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 606\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–223, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 606\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–223, provided that: 
 
 > “Not later than July 15, 1999, and July 15, 2000, the Secretary of the Treasury shall report to the Chairmen and Ranking Members of the appropriate committees on the progress of efforts to reform the architecture of the international monetary system. The reports shall include a discussion of the substance of the United States position in consultations with other governments and the degree of progress in achieving international acceptance and implementation of such position with respect to the following issues:
 
@@ -259,7 +259,7 @@
 
  __Definitions__ 
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 607\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224, as amended by [Pub. L. 106–200, title IV, § 404(a)][/us/pl/106/200/s404/a], May 18, 2000, [114 Stat. 291][/us/stat/114/291], provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 607\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224, as amended by [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 404(a), May 18, 2000, [114 Stat. 291][/us/stat/114/291], provided that: 
 
 > “For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.”
 
@@ -277,14 +277,14 @@
 [/us/usc/t22/s262e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262e
 [/us/usc/t22/s262p–4h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934h
 [/us/usc/t22/s262p–4g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934g%2Fb
-[/us/pl/95/118/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1701
-[/us/pl/101/240/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fa
+[/us/pl/95/118/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVII
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2514
-[/us/pl/101/513/s562/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F10%2FA
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2036
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/pl/99/570/s2018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2018%2Fc
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
@@ -292,14 +292,14 @@
 [/us/usc/t22/s262c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262c
 [/us/usc/t22/s262t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262t
 [/us/usc/t22/s262d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d%2Fc
-[/us/pl/113/188/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1601%2Fb
+[/us/pl/113/188/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXVI
 [/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
 [/us/usc/t22/s262r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r
@@ -313,7 +313,7 @@
 [/us/usc/t22/s283j–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs283j%E2%80%931%2Fc
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/usc/t22/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
@@ -321,11 +321,11 @@
 [/us/usc/t22/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs261
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/106/200/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs404%2Fa
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F291
 
 

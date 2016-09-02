@@ -31,7 +31,7 @@
 
         After being selected to serve as Counselor, any person so selected shall spend not less than 10 months in language training courses at the Foreign Service Institute, <sup>\[1\]</sup>  <sup><sup> 1 See Change of Name note below. </sup></sup>  or in technical courses administered by the Department of Defense, the Department of Energy, or other appropriate departments and agencies of the United States, except that such requirement for training may be waived by the Secretary.
 
-([Pub. L. 107–228, div. B, title XVI, § 1604][/us/pl/107/228/s1604], Sept. 30, 2002, [116 Stat. 1460][/us/stat/116/1460].)
+([Pub. L. 107–228, div. B, title XVI][/us/pl/107/228/dB/tXVI], § 1604, Sept. 30, 2002, [116 Stat. 1460][/us/stat/116/1460].)
 
  __Change of Name__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/228/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1604
+[/us/pl/107/228/dB/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXVI
 [/us/stat/116/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1460
 [/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
 [/us/usc/t22/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021

@@ -29,7 +29,7 @@
 
         (3) any similar institution established after April 24, 1996.
 
-([Pub. L. 95–118, title XVI, § 1621][/us/pl/95/118/s1621], as added [Pub. L. 104–132, title III, § 327][/us/pl/104/132/s327], Apr. 24, 1996, [110 Stat. 1257][/us/stat/110/1257].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1621, as added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 327, Apr. 24, 1996, [110 Stat. 1257][/us/stat/110/1257].)
 
  __Codification__ 
 
@@ -52,8 +52,8 @@
 
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
-[/us/pl/95/118/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1621
-[/us/pl/104/132/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs327
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1257
 [/us/pl/95/118/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1621
 [/us/usc/t22/s262p–4p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934p

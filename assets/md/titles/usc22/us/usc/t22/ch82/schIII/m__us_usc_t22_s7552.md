@@ -23,7 +23,7 @@
 
     (3) such a protection force should be limited in duration and should be succeeded by qualified Afghan security forces as soon as practicable.
 
-([Pub. L. 107–327, title III, § 302][/us/pl/107/327/s302], Dec. 4, 2002, [116 Stat. 2812][/us/stat/116/2812].)
+([Pub. L. 107–327, title III][/us/pl/107/327/tIII], § 302, Dec. 4, 2002, [116 Stat. 2812][/us/stat/116/2812].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/327/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs302
+[/us/pl/107/327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtIII
 [/us/stat/116/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2812
 
 

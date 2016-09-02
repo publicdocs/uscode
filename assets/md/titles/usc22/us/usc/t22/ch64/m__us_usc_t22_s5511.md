@@ -17,7 +17,7 @@
 
     Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and regulations as may be necessary to establish, under the Bureau of Consular Affairs, an electronic bulletin board accessible to the general public. Such bulletin board shall contain all information, updated daily, which is available on the Overseas Security Electronic Bulletin Board of the Bureau of Diplomatic Security.
 
-([Pub. L. 101–604, title II, § 212][/us/pl/101/604/s212], Nov. 16, 1990, [104 Stat. 3086][/us/stat/104/3086].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 212, Nov. 16, 1990, [104 Stat. 3086][/us/stat/104/3086].)
 
  __Authority of Secretary of State__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs212
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3086
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

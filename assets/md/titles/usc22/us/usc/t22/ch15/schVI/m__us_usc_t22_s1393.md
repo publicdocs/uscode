@@ -29,7 +29,7 @@
 
         (5) On and after July 4, 1946, the Secretary of the Treasury of the United States is authorized, with the approval of the independent Government of the Philippines, to purchase at the market price for the special trust account bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress. The Secretary of the Treasury of the United States is also authorized, with the approval of the independent Government of the Philippines, to invest all or any part of such special trust account in any interest-bearing obligations of the United States or in any obligations guaranteed as to both principal and interest by the United States. Such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the market price, and any obligations acquired by the special trust account may, with the approval of the independent Government of the Philippines, be sold by the Secretary of the Treasury at the market price, and the proceeds of the payment upon maturity or redemption of such obligations shall be held as a part of such special trust account. Whenever the special trust account is determined by the Secretary of the Treasury of the United States to be adequate to meet interest and principal payments on all outstanding bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress, the Secretary of the Treasury is authorized to pay from such trust account the principal of such outstanding bonds and to pay all interest due and owing on such bonds. All such bonds and interest coupons paid or purchased by the special trust account shall be canceled and destroyed by the Secretary of the Treasury of the United States. From time to time after July 4, 1946, any moneys in such special trust account found by the Secretary of the Treasury of the United States to be in excess of an amount adequate to meet interest and principal payments on all such bonds shall be turned over to the treasurer of the independent Government of the Philippines.
 
-([Mar. 24, 1934, ch. 84, § 6][/us/act/1934-03-24/ch84/s6], [48 Stat. 459][/us/stat/48/459]; [Aug. 7, 1939, ch. 502, § 1][/us/act/1939-08-07/ch502/s1], [53 Stat. 1226][/us/stat/53/1226]; [Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 511(2), [60 Stat. 158][/us/stat/60/158]; [Pub. L. 86–346, title I, § 104(1)][/us/pl/86/346/s104/1], Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622].)
+([Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 6, [48 Stat. 459][/us/stat/48/459]; [Aug. 7, 1939, ch. 502][/us/act/1939-08-07/ch502], § 1, [53 Stat. 1226][/us/stat/53/1226]; [Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 511(2), [60 Stat. 158][/us/stat/60/158]; [Pub. L. 86–346, title I][/us/pl/86/346/tI], § 104(1), Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Prior Provisions__ 
 
-    Similar provisions were contained in [act Jan. 17, 1933, ch. 11, § 6][/us/act/1933-01-17/ch11/s6], [47 Stat. 764][/us/stat/47/764].
+    Similar provisions were contained in [act Jan. 17, 1933, ch. 11][/us/act/1933-01-17/ch11], § 6, [47 Stat. 764][/us/stat/47/764].
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Termination of Acceptance of Deposits of Export Taxes__ 
 
-    Authority of Secretary of the Treasury to accept deposits of proceeds of export taxes in accordance with [section 1333 of this title][/us/usc/t22/s1333] terminated on July 1, 1951, under the provisions of [act Aug. 7, 1946, ch. 809, § 2][/us/act/1946-08-07/ch809/s2], [60 Stat. 901][/us/stat/60/901].
+    Authority of Secretary of the Treasury to accept deposits of proceeds of export taxes in accordance with [section 1333 of this title][/us/usc/t22/s1333] terminated on July 1, 1951, under the provisions of [act Aug. 7, 1946, ch. 809][/us/act/1946-08-07/ch809], § 2, [60 Stat. 901][/us/stat/60/901].
 
 ----------
 
@@ -64,21 +64,21 @@
 
 [/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
 [/us/stat/60/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F158
-[/us/act/1934-03-24/ch84/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs6
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F459
-[/us/act/1939-08-07/ch502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch502%2Fs1
+[/us/act/1939-08-07/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-07%2Fch502
 [/us/stat/53/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1226
 [/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
 [/us/stat/60/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F158
-[/us/pl/86/346/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2Fs104%2F1
+[/us/pl/86/346/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2FtI
 [/us/stat/73/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F622
 [/us/usc/t22/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1333
-[/us/act/1933-01-17/ch11/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11%2Fs6
+[/us/act/1933-01-17/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-01-17%2Fch11
 [/us/stat/47/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F764
 [/us/pl/86/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346
 [/us/usc/t22/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1354
 [/us/usc/t22/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1333
-[/us/act/1946-08-07/ch809/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch809%2Fs2
+[/us/act/1946-08-07/ch809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch809
 [/us/stat/60/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F901
 
 

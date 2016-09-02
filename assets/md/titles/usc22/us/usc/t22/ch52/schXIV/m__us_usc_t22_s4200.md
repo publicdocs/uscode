@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1715 derived from [act Aug. 18, 1856, ch. 127, § 27][/us/act/1856-08-18/ch127/s27], [11 Stat. 62][/us/stat/11/62].
+    R.S. § 1715 derived from [act Aug. 18, 1856, ch. 127][/us/act/1856-08-18/ch127], § 27, [11 Stat. 62][/us/stat/11/62].
 
     Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1856-08-18/ch127/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127%2Fs27
+[/us/act/1856-08-18/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127
 [/us/stat/11/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F62
 [/us/usc/t22/s1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1180
 [/us/usc/t22/s83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs83

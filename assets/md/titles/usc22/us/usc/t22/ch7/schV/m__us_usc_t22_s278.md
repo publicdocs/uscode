@@ -17,7 +17,7 @@
 
     There is hereby authorized to be permanently appropriated for each year, out of any money in the Treasury not otherwise appropriated, the sum of not to exceed $2,000,000 to be paid to the Gorgas Memorial Institute of Tropical and Preventive Medicine, Incorporated (hereinafter referred to as the Gorgas Memorial Institute), for the maintenance and operation by its, of a laboratory to be known as the Gorgas Memorial Laboratory, upon condition (1) that the necessary building or quarters for said laboratory shall be constructed within the five years next ensuing after this subchapter shall become a law, either upon the site offered by the Republic of Panama therefor, at, or adjacent to, the city of Panama, or upon a site in the Canal Zone to be provided by the United States; and (2) that the said Gorgas Memorial Institute be, and it is, authorized within its discretion, henceforth to accept from any of the Latin American Governments, or from any other sources, any funds which may be offered or given for the use of the Gorgas Memorial Institute for the maintenance and operation of the Gorgas Memorial Laboratory, and for carrying on the work of said Laboratory wherever deemed by the said Institute to be necessary or desirable.
 
-([May 7, 1928, ch. 505, § 1][/us/act/1928-05-07/ch505/s1], [45 Stat. 491][/us/stat/45/491]; [July 1, 1948, ch. 787][/us/act/1948-07-01/ch787], [62 Stat. 1213][/us/stat/62/1213]; [Apr. 19, 1954, ch. 160][/us/act/1954-04-19/ch160], [68 Stat. 57][/us/stat/68/57]; [Pub. L. 86–296, § 1][/us/pl/86/296/s1], Sept. 21, 1959, [73 Stat. 572][/us/stat/73/572]; [Pub. L. 89–181][/us/pl/89/181], Sept. 11, 1965, [79 Stat. 679][/us/stat/79/679]; [Pub. L. 93–559, § 47][/us/pl/93/559/s47], Dec. 30, 1974, [88 Stat. 1816][/us/stat/88/1816].)
+([May 7, 1928, ch. 505][/us/act/1928-05-07/ch505], § 1, [45 Stat. 491][/us/stat/45/491]; [July 1, 1948, ch. 787][/us/act/1948-07-01/ch787], [62 Stat. 1213][/us/stat/62/1213]; [Apr. 19, 1954, ch. 160][/us/act/1954-04-19/ch160], [68 Stat. 57][/us/stat/68/57]; [Pub. L. 86–296][/us/pl/86/296], § 1, Sept. 21, 1959, [73 Stat. 572][/us/stat/73/572]; [Pub. L. 89–181][/us/pl/89/181], Sept. 11, 1965, [79 Stat. 679][/us/stat/79/679]; [Pub. L. 93–559][/us/pl/93/559], § 47, Dec. 30, 1974, [88 Stat. 1816][/us/stat/88/1816].)
 
  __References in Text__ 
 
@@ -41,11 +41,11 @@
 
  __Effective Date of 1959 Amendment__ 
 
-    [Pub. L. 86–296, § 1][/us/pl/86/296/s1], Sept. 21, 1959, [73 Stat. 572][/us/stat/73/572], provided that the amendment made by that section is effective for fiscal years ending after June 30, 1960.
+    [Pub. L. 86–296][/us/pl/86/296], § 1, Sept. 21, 1959, [73 Stat. 572][/us/stat/73/572], provided that the amendment made by that section is effective for fiscal years ending after June 30, 1960.
 
  __Additional Appropriation for the Fiscal Year Ending__  __June 30, 1970__ 
 
-    [Pub. L. 90–574, title V, § 505][/us/pl/90/574/s505], Oct. 15, 1968, [82 Stat. 1013][/us/stat/82/1013], provided that the annual appropriation for the maintenance and operation of the Gorgas Memorial Laboratory for the fiscal year ending June 30, 1970 would be increased by $500,000.
+    [Pub. L. 90–574, title V][/us/pl/90/574/tV], § 505, Oct. 15, 1968, [82 Stat. 1013][/us/stat/82/1013], provided that the annual appropriation for the maintenance and operation of the Gorgas Memorial Laboratory for the fiscal year ending June 30, 1970 would be increased by $500,000.
 
  __Annual Appropriations__ 
 
@@ -103,7 +103,7 @@ An annual appropriation was contained in the following appropriation acts:
 
  __Appropriation for Construction of Facilities__ 
 
-    [Act May 7, 1928, ch. 505, § 4][/us/act/1928-05-07/ch505/s4], as added by [Pub. L. 86–296, § 2][/us/pl/86/296/s2], Sept. 21, 1959, [73 Stat. 573][/us/stat/73/573], and amended [Pub. L. 86–617][/us/pl/86/617], July 12, 1960, [74 Stat. 396][/us/stat/74/396], provided that a sum not to exceed $500,000 be appropriated for construction and equipment of facilities for Gorgas Memorial Laboratory, including preparation of plans and specifications, remodeling of buildings, and site improvement, but excluding the cost of acquisition of land.
+    [Act May 7, 1928, ch. 505][/us/act/1928-05-07/ch505], § 4, as added by [Pub. L. 86–296][/us/pl/86/296], § 2, Sept. 21, 1959, [73 Stat. 573][/us/stat/73/573], and amended [Pub. L. 86–617][/us/pl/86/617], July 12, 1960, [74 Stat. 396][/us/stat/74/396], provided that a sum not to exceed $500,000 be appropriated for construction and equipment of facilities for Gorgas Memorial Laboratory, including preparation of plans and specifications, remodeling of buildings, and site improvement, but excluding the cost of acquisition of land.
 
 ----------
 
@@ -112,17 +112,17 @@ An annual appropriation was contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/act/1928-05-07/ch505/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch505%2Fs1
+[/us/act/1928-05-07/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch505
 [/us/stat/45/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F491
 [/us/act/1948-07-01/ch787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-01%2Fch787
 [/us/stat/62/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1213
 [/us/act/1954-04-19/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-19%2Fch160
 [/us/stat/68/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F57
-[/us/pl/86/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296%2Fs1
+[/us/pl/86/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296
 [/us/stat/73/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F572
 [/us/pl/89/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F181
 [/us/stat/79/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F679
-[/us/pl/93/559/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs47
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1816
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
@@ -130,9 +130,9 @@ An annual appropriation was contained in the following appropriation acts:
 [/us/pl/86/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296
 [/us/pl/89/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F181
 [/us/pl/89/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F181
-[/us/pl/86/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296%2Fs1
+[/us/pl/86/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296
 [/us/stat/73/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F572
-[/us/pl/90/574/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2Fs505
+[/us/pl/90/574/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F574%2FtV
 [/us/stat/82/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1013
 [/us/act/1953-08-05/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-05%2Fch328
 [/us/stat/67/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F368
@@ -184,8 +184,8 @@ An annual appropriation was contained in the following appropriation acts:
 [/us/stat/46/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F173
 [/us/act/1929-01-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-25%2Fch102
 [/us/stat/45/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1094
-[/us/act/1928-05-07/ch505/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch505%2Fs4
-[/us/pl/86/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296%2Fs2
+[/us/act/1928-05-07/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-07%2Fch505
+[/us/pl/86/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F296
 [/us/stat/73/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F573
 [/us/pl/86/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F617
 [/us/stat/74/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F396

@@ -17,7 +17,7 @@
 
     The Secretary of Energy is directed to initiate construction planning and design, construction, and operation activities for expansion of uranium enrichment capacity, as elsewhere provided by law. Further the Secretary as well as the Nuclear Regulatory Commission and the Secretary of State are directed to establish and implement procedures which will ensure to the maximum extent feasible, consistent with this chapter, orderly processing of subsequent arrangements and export licenses with minimum time delay.
 
-([Pub. L. 95–242, title I, § 102][/us/pl/95/242/s102], Mar. 10, 1978, [92 Stat. 122][/us/stat/92/122]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(e)(2), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
+([Pub. L. 95–242, title I][/us/pl/95/242/tI], § 102, Mar. 10, 1978, [92 Stat. 122][/us/stat/92/122]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(e)(2), Oct. 21, 1998, [112 Stat. 2681–775][/us/stat/112/2681-775].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/242/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs102
+[/us/pl/95/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtI
 [/us/stat/92/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F122
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-775
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

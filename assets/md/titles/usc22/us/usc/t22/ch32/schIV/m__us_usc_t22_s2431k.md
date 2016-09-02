@@ -31,19 +31,19 @@
 
         Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 813, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 893][/us/stat/112/893].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 813, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 893][/us/stat/112/893].)
 
  __Prior Provisions__ 
 
-    Prior sections 2432 to 2435 were repealed by [Pub. L. 94–329, title IV, § 413(a)][/us/pl/94/329/s413/a], June 30, 1976, [90 Stat. 761][/us/stat/90/761].
+    Prior sections 2432 to 2435 were repealed by [Pub. L. 94–329, title IV][/us/pl/94/329/tIV], § 413(a), June 30, 1976, [90 Stat. 761][/us/stat/90/761].
 
-    Section 2432, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 802, as added [Pub. L. 93–189, § 24][/us/pl/93/189/s24], Dec. 17, 1973, [87 Stat. 728][/us/stat/87/728], authorized appropriation of $504,000,000 for fiscal year 1974 to remain available until expended for relief and reconstruction of South Vietnam, Cambodia, and Laos.
+    Section 2432, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 802, as added [Pub. L. 93–189][/us/pl/93/189], § 24, Dec. 17, 1973, [87 Stat. 728][/us/stat/87/728], authorized appropriation of $504,000,000 for fiscal year 1974 to remain available until expended for relief and reconstruction of South Vietnam, Cambodia, and Laos.
 
-    Section 2433, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 803, as added [Pub. L. 93–189, § 24][/us/pl/93/189/s24], Dec. 17, 1973, [87 Stat. 728][/us/stat/87/728], provided for assistance to South Vietnamese children.
+    Section 2433, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 803, as added [Pub. L. 93–189][/us/pl/93/189], § 24, Dec. 17, 1973, [87 Stat. 728][/us/stat/87/728], provided for assistance to South Vietnamese children.
 
-    Section 2434, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 804, as added [Pub. L. 93–189, § 24][/us/pl/93/189/s24], Dec. 17, 1973, [87 Stat. 729][/us/stat/87/729], made provision for assistance to the Center for Plastic and Reconstructive Surgery in Saigon.
+    Section 2434, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 804, as added [Pub. L. 93–189][/us/pl/93/189], § 24, Dec. 17, 1973, [87 Stat. 729][/us/stat/87/729], made provision for assistance to the Center for Plastic and Reconstructive Surgery in Saigon.
 
-    Section 2435, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 806, as added [Pub. L. 93–559, § 41][/us/pl/93/559/s41], Dec. 30, 1974, [88 Stat. 1812][/us/stat/88/1812], directed that provisions covering special programs for relief of South Vietnam, Cambodia, and Laos not apply to programs related to population growth, narcotics control, humanitarian programs by international organizations, and regional programs.
+    Section 2435, [Pub. L. 87–195][/us/pl/87/195], pt. V, § 806, as added [Pub. L. 93–559][/us/pl/93/559], § 41, Dec. 30, 1974, [88 Stat. 1812][/us/stat/88/1812], directed that provisions covering special programs for relief of South Vietnam, Cambodia, and Laos not apply to programs related to population growth, narcotics control, humanitarian programs by international organizations, and regional programs.
 
  __Delegation of Functions__ 
 
@@ -59,21 +59,21 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F893
-[/us/pl/94/329/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs413%2Fa
+[/us/pl/94/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtIV
 [/us/stat/90/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F761
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs24
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F728
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs24
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F728
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs24
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F729
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs41
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1812
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t7/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1738

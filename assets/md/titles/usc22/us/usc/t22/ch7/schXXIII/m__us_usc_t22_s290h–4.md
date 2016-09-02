@@ -55,7 +55,7 @@
 
         Upon termination of the corporate life of the Foundation its assets shall be liquidated and, unless otherwise provided by Congress, shall be transferred to the United States Treasury as the property of the United States.
 
-([Pub. L. 96–533, title V, § 506][/us/pl/96/533/s506], Dec. 16, 1980, [94 Stat. 3153][/us/stat/94/3153].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 506, Dec. 16, 1980, [94 Stat. 3153][/us/stat/94/3153].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/96/533/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs506
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3153
 
 

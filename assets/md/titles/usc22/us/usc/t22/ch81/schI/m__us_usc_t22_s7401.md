@@ -27,7 +27,7 @@
 
         In this section, the term “International Criminal Court” means the court established by the Rome Statute of the International Criminal Court, adopted by the United Nations Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court on July 17, 1998.
 
-([Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 705\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 705\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 107–206, title II, § 2001][/us/pl/107/206/s2001], Aug. 2, 2002, [116 Stat. 899][/us/stat/116/899], provided that: 
+[Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2001, Aug. 2, 2002, [116 Stat. 899][/us/stat/116/899], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘American Servicemembers’ Protection Act of 2002’.”
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s262–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262%E2%80%931
-[/us/pl/107/206/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2001
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F899
 
 

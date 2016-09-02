@@ -77,7 +77,7 @@
 
         Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).
 
-([Pub. L. 106–386, div. A, § 111][/us/pl/106/386/s111], Oct. 28, 2000, [114 Stat. 1484][/us/stat/114/1484].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 111, Oct. 28, 2000, [114 Stat. 1484][/us/stat/114/1484].)
 
  __Codification__ 
 
@@ -93,7 +93,7 @@
 [/us/usc/t50/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
-[/us/pl/106/386/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs111
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1484
 [/us/pl/106/386/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs111
 [/us/pl/106/386/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs111

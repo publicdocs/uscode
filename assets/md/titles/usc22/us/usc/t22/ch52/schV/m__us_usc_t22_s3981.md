@@ -17,7 +17,7 @@
 
     The Secretary shall designate and classify positions in the Department and at Foreign Service posts which are to be occupied by members of the Service (other than by chiefs of mission and ambassadors at large). Positions designated under this section are excepted from the competitive service. Position classifications under this section shall be established, without regard to chapter 51 of title 5, in relation to the salaries established under subchapter IV. In classifying positions at Foreign Service posts abroad, the Secretary shall give appropriate weight to job factors relating to service abroad and to the compensation practices applicable to United States citizens employed abroad by United States corporations.
 
-([Pub. L. 96–465, title I, § 501][/us/pl/96/465/s501], Oct. 17, 1980, [94 Stat. 2092][/us/stat/94/2092].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 501, Oct. 17, 1980, [94 Stat. 2092][/us/stat/94/2092].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs501
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2092
 
 

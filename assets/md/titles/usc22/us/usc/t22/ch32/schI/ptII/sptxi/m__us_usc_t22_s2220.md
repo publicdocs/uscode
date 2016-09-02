@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptxi/m__us_usc_t22_ch32_schI_ptII_sptxi.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptxii/m__us_usc_t22_ch32_schI_ptII_sptxii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220)
 
-## § 2220. Repealed. [Pub. L. 95–424, title V, § 502(d)(1)][/us/pl/95/424/s502/d/1], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]
+## § 2220. Repealed. [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(d)(1), Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]
 
     Section, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 295, as added [Pub. L. 90–137][/us/pl/90/137], pt. I, § 109, Nov. 14, 1967, [81 Stat. 453][/us/stat/81/453], related to reports and recommendations to Congress by the President for each country receiving assistance under this chapter which the President finds has a substantial food deficit.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/424/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F1
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137

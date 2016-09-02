@@ -25,7 +25,7 @@
 
     (b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $1,568,856,318 for payment by the Secretary of the Treasury.
 
-([July 31, 1945, ch. 339, § 27][/us/act/1945-07-31/ch339/s27], as added [Pub. L. 95–118, title II, § 201][/us/pl/95/118/s201], Oct. 3, 1977, [91 Stat. 1067][/us/stat/91/1067]; amended [Pub. L. 97–35, title XIII, § 1312][/us/pl/97/35/s1312], Aug. 13, 1981, [95 Stat. 740][/us/stat/95/740].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 27, as added [Pub. L. 95–118, title II][/us/pl/95/118/tII], § 201, Oct. 3, 1977, [91 Stat. 1067][/us/stat/91/1067]; amended [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1312, Aug. 13, 1981, [95 Stat. 740][/us/stat/95/740].)
 
  __Amendments__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs27
-[/us/pl/95/118/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs201
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/95/118/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtII
 [/us/stat/91/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1067
-[/us/pl/97/35/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1312
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F740
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

@@ -27,7 +27,7 @@
 
         No construction of a sea level canal by the United States in the Republic of Panama shall be undertaken except with express congressional authorization after submission of the study by the President as provided in subsection (b) of this section.
 
-([Pub. L. 96–70, title I, § 1109][/us/pl/96/70/s1109], Sept. 27, 1979, [93 Stat. 459][/us/stat/93/459].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1109, Sept. 27, 1979, [93 Stat. 459][/us/stat/93/459].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1109
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F459
 
 

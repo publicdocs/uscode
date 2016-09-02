@@ -17,11 +17,11 @@
 
     The President is authorized, by proclamation or in such other manner as he may deem proper, to invite the several States of the United States and foreign countries to take part in Interama, except that no Communist de facto government holding any people in subjugation shall be invited to participate.
 
-([Pub. L. 89–355, § 2(a)][/us/pl/89/355/s2/a], Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6].)
+([Pub. L. 89–355][/us/pl/89/355], § 2(a), Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6].)
 
  __Report to Congress by__  __May 15, 1966__ 
 
-    [Pub. L. 89–355, § 2(b)][/us/pl/89/355/s2/b], Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6], provided that the department or agency, designated by the President pursuant to [section 2081 of this title][/us/usc/t22/s2081], submit a report to the Senate Committees on Foreign Relations and Appropriations and the Speaker of the House, on the proposed nature, extent and cost of United States participation in Interama and of the extent of participation of foreign countries and private industries.
+    [Pub. L. 89–355][/us/pl/89/355], § 2(b), Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6], provided that the department or agency, designated by the President pursuant to [section 2081 of this title][/us/usc/t22/s2081], submit a report to the Senate Committees on Foreign Relations and Appropriations and the Speaker of the House, on the proposed nature, extent and cost of United States participation in Interama and of the extent of participation of foreign countries and private industries.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/355/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs2%2Fa
+[/us/pl/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355
 [/us/stat/80/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F6
-[/us/pl/89/355/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs2%2Fb
+[/us/pl/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355
 [/us/stat/80/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F6
 [/us/usc/t22/s2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2081
 

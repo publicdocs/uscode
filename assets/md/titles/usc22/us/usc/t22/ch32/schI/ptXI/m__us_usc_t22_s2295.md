@@ -133,19 +133,19 @@
 
         Protecting and caring for refugees, displaced persons, and other migrants; addressing the root causes of migration; and promoting the development of appropriate immigration and emigration laws and procedures.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498, as added [Pub. L. 102–511, title II, § 201][/us/pl/102/511/s201], Oct. 24, 1992, [106 Stat. 3324][/us/stat/106/3324]; amended [Pub. L. 107–246, § 4(a)][/us/pl/107/246/s4/a], Oct. 23, 2002, [116 Stat. 1514][/us/stat/116/1514].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498, as added [Pub. L. 102–511, title II][/us/pl/102/511/tII], § 201, Oct. 24, 1992, [106 Stat. 3324][/us/stat/106/3324]; amended [Pub. L. 107–246][/us/pl/107/246], § 4(a), Oct. 23, 2002, [116 Stat. 1514][/us/stat/116/1514].)
 
  __Amendments__ 
 
-    2002—Par. (2). [Pub. L. 107–246, § 4(a)(1)(A)][/us/pl/107/246/s4/a/1/A], substituted “Democracy and rule of law” for “Democracy” in heading.
+    2002—Par. (2). [Pub. L. 107–246][/us/pl/107/246], § 4(a)(1)(A), substituted “Democracy and rule of law” for “Democracy” in heading.
 
-    Par. (2)(E) to (J). [Pub. L. 107–246, § 4(a)(1)(B)][/us/pl/107/246/s4/a/1/B]–(E), added subpars. (E) to (H) and (J), redesignated former subpar. (F) as (I), and struck out former subpars. (E) and (G) which read as follows:
+    Par. (2)(E) to (J). [Pub. L. 107–246][/us/pl/107/246], § 4(a)(1)(B)–(E), added subpars. (E) to (H) and (J), redesignated former subpar. (F) as (I), and struck out former subpars. (E) and (G) which read as follows:
 
     “(E) the development of a free and independent media;
 
     “(G) strengthened administration of justice through programs and activities carried out in accordance with [section 2295b(e) of this title][/us/usc/t22/s2295b/e].”
 
-    Pars. (3) to (14). [Pub. L. 107–246, § 4(a)(2)][/us/pl/107/246/s4/a/2], added par. (3) and redesignated former pars. (3) to (13) as (4) to (14), respectively.
+    Pars. (3) to (14). [Pub. L. 107–246][/us/pl/107/246], § 4(a)(2), added par. (3) and redesignated former pars. (3) to (13) as (4) to (14), respectively.
 
  __Delegation of Functions__ 
 
@@ -153,7 +153,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 107–246, § 2][/us/pl/107/246/s2], Oct. 23, 2002, [116 Stat. 1511][/us/stat/116/1511], provided that:
+[Pub. L. 107–246][/us/pl/107/246], § 2, Oct. 23, 2002, [116 Stat. 1511][/us/stat/116/1511], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -217,7 +217,7 @@
 
  __United States Policy Toward the Russian Federation__ 
 
-[Pub. L. 107–246, § 3][/us/pl/107/246/s3], Oct. 23, 2002, [116 Stat. 1513][/us/stat/116/1513], provided that:
+[Pub. L. 107–246][/us/pl/107/246], § 3, Oct. 23, 2002, [116 Stat. 1513][/us/stat/116/1513], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -251,7 +251,7 @@
 
  __Activities To Support the Russian Federation__ 
 
-[Pub. L. 107–246, § 5][/us/pl/107/246/s5], Oct. 23, 2002, [116 Stat. 1515][/us/stat/116/1515], provided that:
+[Pub. L. 107–246][/us/pl/107/246], § 5, Oct. 23, 2002, [116 Stat. 1515][/us/stat/116/1515], provided that:
 
 >     “(a)  __Assistance Programs__  __.—__ 
 
@@ -276,22 +276,22 @@
 
 [/us/usc/t22/s2295b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295b%2Fe
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/511/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs201
+[/us/pl/102/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtII
 [/us/stat/106/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3324
-[/us/pl/107/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs4%2Fa
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/stat/116/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1514
-[/us/pl/107/246/s4/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs4%2Fa%2F1%2FA
-[/us/pl/107/246/s4/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs4%2Fa%2F1%2FB
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/usc/t22/s2295b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295b%2Fe
-[/us/pl/107/246/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs4%2Fa%2F2
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s5812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5812
-[/us/pl/107/246/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs2
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/stat/116/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1511
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/107/246/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs3
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/stat/116/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1513
-[/us/pl/107/246/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246%2Fs5
+[/us/pl/107/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F246
 [/us/stat/116/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1515
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 

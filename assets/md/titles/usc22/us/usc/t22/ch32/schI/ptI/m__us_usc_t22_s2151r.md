@@ -33,7 +33,7 @@
 
         (3) begin such planning immediately.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 120, formerly pt. III, § 639B, as added [Pub. L. 93–189, § 20][/us/pl/93/189/s20], Dec. 17, 1973, [87 Stat. 725][/us/stat/87/725]; renumbered pt. I, § 494B and amended [Pub. L. 94–161, title I, § 101(5)][/us/pl/94/161/s101/5], (7), Dec. 20, 1975, [89 Stat. 850][/us/stat/89/850]; renumbered pt. I, § 120 and amended [Pub. L. 95–88, title I, § 115(1)][/us/pl/95/88/s115/1], (2), Aug. 3, 1977, [91 Stat. 539][/us/stat/91/539]; [Pub. L. 95–424, title V, § 502(d)(1)][/us/pl/95/424/s502/d/1], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 120, formerly pt. III, § 639B, as added [Pub. L. 93–189][/us/pl/93/189], § 20, Dec. 17, 1973, [87 Stat. 725][/us/stat/87/725]; renumbered pt. I, § 494B and amended [Pub. L. 94–161, title I][/us/pl/94/161/tI], § 101(5), (7), Dec. 20, 1975, [89 Stat. 850][/us/stat/89/850]; renumbered pt. I, § 120 and amended [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 115(1), (2), Aug. 3, 1977, [91 Stat. 539][/us/stat/91/539]; [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(d)(1), Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959].)
 
  __Codification__ 
 
@@ -43,13 +43,13 @@
 
     1978—Subsec. (d). [Pub. L. 95–424][/us/pl/95/424] struck out subsec. (d) authorizing appropriations for development of a long-term African Sahel development program.
 
-    1977—[Pub. L. 95–88, § 115(2)][/us/pl/95/88/s115/2], substituted “Sahel” for “African” in section catchline.
+    1977—[Pub. L. 95–88][/us/pl/95/88], § 115(2), substituted “Sahel” for “African” in section catchline.
 
-    1975—[Pub. L. 94–161, § 101(7)(A)][/us/pl/94/161/s101/7/A], struck out “Sahel” after “African” in section catchline.
+    1975—[Pub. L. 94–161][/us/pl/94/161], § 101(7)(A), struck out “Sahel” after “African” in section catchline.
 
-    Subsec. (a). [Pub. L. 94–161, § 101(7)(B)][/us/pl/94/161/s101/7/B], (C), designated existing provisions as subsec. (a) and substituted “Congress reaffirms its support of” for “Congress supports”.
+    Subsec. (a). [Pub. L. 94–161][/us/pl/94/161], § 101(7)(B), (C), designated existing provisions as subsec. (a) and substituted “Congress reaffirms its support of” for “Congress supports”.
 
-    Subsecs. (b) to (d). [Pub. L. 94–161, § 101(7)(D)][/us/pl/94/161/s101/7/D], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 94–161][/us/pl/94/161], § 101(7)(D), added subsecs. (b) to (d).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -67,19 +67,19 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs20
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F725
-[/us/pl/94/161/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs101%2F5
+[/us/pl/94/161/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtI
 [/us/stat/89/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F850
-[/us/pl/95/88/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs115%2F1
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F539
-[/us/pl/95/424/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fd%2F1
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/95/88/s115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs115%2F2
-[/us/pl/94/161/s101/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs101%2F7%2FA
-[/us/pl/94/161/s101/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs101%2F7%2FB
-[/us/pl/94/161/s101/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs101%2F7%2FD
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

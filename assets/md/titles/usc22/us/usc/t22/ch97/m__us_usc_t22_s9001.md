@@ -45,7 +45,7 @@
 
         (4) The Convention and this chapter empower courts in the United States to determine only rights under the Convention and not the merits of any underlying child custody claims.
 
-([Pub. L. 100–300, § 2][/us/pl/100/300/s2], Apr. 29, 1988, [102 Stat. 437][/us/stat/102/437].)
+([Pub. L. 100–300][/us/pl/100/300], § 2, Apr. 29, 1988, [102 Stat. 437][/us/stat/102/437].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–370, § 1][/us/pl/108/370/s1], Oct. 25, 2004, [118 Stat. 1750][/us/stat/118/1750], provided that: 
+[Pub. L. 108–370][/us/pl/108/370], § 1, Oct. 25, 2004, [118 Stat. 1750][/us/stat/118/1750], provided that: 
 
 > “This Act \[amending [section 9006 of this title][/us/usc/t22/s9006]\] may be cited as the ‘Prevention of Child Abduction Partnership Act’.”
 
  __Short Title__ 
 
-[Pub. L. 100–300, § 1][/us/pl/100/300/s1], Apr. 29, 1988, [102 Stat. 437][/us/stat/102/437], provided that: 
+[Pub. L. 100–300][/us/pl/100/300], § 1, Apr. 29, 1988, [102 Stat. 437][/us/stat/102/437], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 663 of Title 42][/us/usc/t42/s663], The Public Health and Welfare\] may be cited as the ‘International Child Abduction Remedies Act’.”
 
@@ -74,15 +74,15 @@
 ----------
 ----------
 
-[/us/pl/100/300/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs2
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437
 [/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437
 [/us/usc/t42/s11601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11601
-[/us/pl/108/370/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F370%2Fs1
+[/us/pl/108/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F370
 [/us/stat/118/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1750
 [/us/usc/t22/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9006
-[/us/pl/100/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs1
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437
 [/us/usc/t42/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs663
 

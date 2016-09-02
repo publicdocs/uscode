@@ -31,7 +31,7 @@
 
         (2) the President reports such determination to the Congress at least 15 days in advance of any resumption of assistance to that state.
 
-([Pub. L. 103–236, title V, § 530][/us/pl/103/236/s530], Apr. 30, 1994, [108 Stat. 479][/us/stat/108/479].)
+([Pub. L. 103–236, title V][/us/pl/103/236/tV], § 530, Apr. 30, 1994, [108 Stat. 479][/us/stat/108/479].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/103/236/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs530
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F479
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

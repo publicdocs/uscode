@@ -31,7 +31,7 @@
 
     (7) Consular agents, appointed under [section 3943 of this title][/us/usc/t22/s3943] by the Secretary of State, who provide consular and related services as authorized by the Secretary of State at specified locations abroad where no Foreign Service posts are situated.
 
-([Pub. L. 96–465, title I, § 103][/us/pl/96/465/s103], Oct. 17, 1980, [94 Stat. 2076][/us/stat/94/2076].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 103, Oct. 17, 1980, [94 Stat. 2076][/us/stat/94/2076].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t22/s3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3943
 [/us/usc/t22/s3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3943
 [/us/usc/t22/s3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3943
-[/us/pl/96/465/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs103
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2076
 
 

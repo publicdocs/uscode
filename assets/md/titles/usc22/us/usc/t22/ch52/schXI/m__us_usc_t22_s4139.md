@@ -43,13 +43,13 @@
 
             (B) initiates in writing a proceeding under such other provision of law, regulation, or Executive order.
 
-([Pub. L. 96–465, title I, § 1109][/us/pl/96/465/s1109], Oct. 17, 1980, [94 Stat. 2148][/us/stat/94/2148]; [Pub. L. 101–12, § 9(a)(3)][/us/pl/101/12/s9/a/3], Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35]; [Pub. L. 102–138, title I, § 153(d)(1)][/us/pl/102/138/s153/d/1], Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1109, Oct. 17, 1980, [94 Stat. 2148][/us/stat/94/2148]; [Pub. L. 101–12][/us/pl/101/12], § 9(a)(3), Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 153(d)(1), Oct. 28, 1991, [105 Stat. 673][/us/stat/105/673].)
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–138, § 153(d)(1)(A)][/us/pl/102/138/s153/d/1/A], (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted “paragraph (1)” for “subsection (a) of this section” and “under this subsection” for “under this section”, and added par. (3).
+    1991—Subsec. (a). [Pub. L. 102–138][/us/pl/102/138], § 153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted “paragraph (1)” for “subsection (a) of this section” and “under this subsection” for “under this section”, and added par. (3).
 
-    Subsec. (b). [Pub. L. 102–138, § 153(d)(1)(C)][/us/pl/102/138/s153/d/1/C], added subsec. (b). Former subsec. (b) redesignated (a)(2).
+    Subsec. (b). [Pub. L. 102–138][/us/pl/102/138], § 153(d)(1)(C), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
     1989—Subsec. (a). [Pub. L. 101–12][/us/pl/101/12] substituted “1214 or 1221” for “1206”.
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/usc/t22/s4131/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131%2Fa%2F1%2FH
-[/us/pl/96/465/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1109
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2148
-[/us/pl/101/12/s9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs9%2Fa%2F3
+[/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/stat/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F35
-[/us/pl/102/138/s153/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fd%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F673
-[/us/pl/102/138/s153/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fd%2F1%2FA
-[/us/pl/102/138/s153/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs153%2Fd%2F1%2FC
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t22/s4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4131

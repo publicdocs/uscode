@@ -17,7 +17,7 @@
 
     This chapter shall expire when the President shall determine that the peace and security of the nations in the general area of the Middle East are reasonably assured by international conditions created by action of the United Nations or otherwise except that it may be terminated earlier by a concurrent resolution of the two Houses of Congress.
 
-([Pub. L. 85–7, § 6][/us/pl/85/7/s6], Mar. 9, 1957, [71 Stat. 6][/us/stat/71/6].)
+([Pub. L. 85–7][/us/pl/85/7], § 6, Mar. 9, 1957, [71 Stat. 6][/us/stat/71/6].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/7/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7%2Fs6
+[/us/pl/85/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7
 [/us/stat/71/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F6
 
 

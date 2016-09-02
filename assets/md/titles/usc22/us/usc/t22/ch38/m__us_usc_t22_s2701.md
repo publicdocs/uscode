@@ -17,7 +17,7 @@
 
     Whenever the Secretary of State determines that educational facilities are not available, or that existing educational facilities are inadequate, to meet the needs of children of United States citizens stationed outside the United States who are engaged in carrying out Government activities, the Secretary may, in such manner as he deems appropriate and under such regulations as he may prescribe, establish, operate, and maintain primary schools, and school dormitories and related educational facilities for primary and secondary schools, outside the United States, make grants of funds for such purposes, or otherwise provide for such educational facilities. The authorities of the Foreign Service Buildings Act, 1926 \[[22 U.S.C. 292][/us/usc/t22/s292] et seq.\], and of paragraphs (h) and (i) of [section 2670 of this title][/us/usc/t22/s2670], may be utilized by the Secretary in providing assistance for educational facilities. Such assistance may include hiring, transporting, and payment of teachers and other necessary personnel. Notwithstanding any other provision of law, where the child of a United States citizen employee of an agency of the United States Government who is stationed outside the United States attends an educational facility assisted by the Secretary of State under this section, the head of that agency is authorized to reimburse, or credit with advance payment, the Department of State for funds used in providing assistance to such educational facilities, by grant or otherwise, under this section.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 29, as added [Pub. L. 96–465, title II, § 2201(a)][/us/pl/96/465/s2201/a], Oct. 17, 1980, [94 Stat. 2154][/us/stat/94/2154]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2201, Oct. 21, 1998, [112 Stat. 2681–804][/us/stat/112/2681-804].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 29, as added [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2201(a), Oct. 17, 1980, [94 Stat. 2154][/us/stat/94/2154]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2201, Oct. 21, 1998, [112 Stat. 2681–804][/us/stat/112/2681-804].)
 
  __References in Text__ 
 
@@ -41,11 +41,11 @@
 [/us/usc/t22/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs292
 [/us/usc/t22/s2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2670
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/96/465/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2201%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2154
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-804
 [/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F403

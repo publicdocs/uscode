@@ -17,7 +17,7 @@
 
     For each fiscal year for which an appropriation is made to the Commission, the Commission shall issue a report to the Congress on its expenditures under that appropriation.
 
-([Pub. L. 106–286, div. B, title III, § 305][/us/pl/106/286/s305], Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 305, Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs305
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F899
 
 

@@ -31,7 +31,7 @@
 
         Any award on a claim under subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant bears to the entire ownership interest thereof.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 406, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 529][/us/stat/72/529].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 406, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 529][/us/stat/72/529].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t22/s1642c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1642c
 [/us/usc/t22/s1642c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1642c
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F529
 
 

@@ -23,7 +23,7 @@
 
         Subsection (a) applies with respect to funds made available for fiscal year 1991 or any fiscal year thereafter.
 
-([Pub. L. 101–623, § 6][/us/pl/101/623/s6], Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355].)
+([Pub. L. 101–623][/us/pl/101/623], § 6, Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/101/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs6
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3355
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

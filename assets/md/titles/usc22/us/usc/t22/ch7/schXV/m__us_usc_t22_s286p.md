@@ -19,7 +19,7 @@
 
     (b) Special Drawing Right certificates owned by the Federal Reserve banks shall be redeemed from the resources of the Exchange Stabilization Fund at such times and in such amounts as the Secretary of the Treasury may determine.
 
-([Pub. L. 90–349, § 4][/us/pl/90/349/s4], June 19, 1968, [82 Stat. 188][/us/stat/82/188].)
+([Pub. L. 90–349][/us/pl/90/349], § 4, June 19, 1968, [82 Stat. 188][/us/stat/82/188].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/90/349/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349%2Fs4
+[/us/pl/90/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F349
 [/us/stat/82/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F188
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512

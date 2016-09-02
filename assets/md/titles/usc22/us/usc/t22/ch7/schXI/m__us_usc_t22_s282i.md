@@ -25,11 +25,11 @@
 
     (b) In order to pay for the increase in the United States subscription to the Corporation provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $111,493,000 for payment by the Secretary of the Treasury.
 
-([Aug. 11, 1955, ch. 788, § 11][/us/act/1955-08-11/ch788/s11], as added [Pub. L. 95–118, title III, § 301][/us/pl/95/118/s301], Oct. 3, 1977, [91 Stat. 1068][/us/stat/91/1068].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 11, as added [Pub. L. 95–118, title III][/us/pl/95/118/tIII], § 301, Oct. 3, 1977, [91 Stat. 1068][/us/stat/91/1068].)
 
  __Effective Date__ 
 
-[Pub. L. 95–118, title X, § 1001][/us/pl/95/118/s1001], Oct. 3, 1977, [91 Stat. 1072][/us/stat/91/1072], provided that: 
+[Pub. L. 95–118, title X][/us/pl/95/118/tX], § 1001, Oct. 3, 1977, [91 Stat. 1072][/us/stat/91/1072], provided that: 
 
 > “This Act \[enacting this section and sections 262c, 262d, 262e to 262g, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealing sections 283y, 284m, 290g–9 of this title, and enacting provisions set out as a note under [section 262c of this title][/us/usc/t22/s262c]\] shall take effect on the date of its enactment \[Oct. 3, 1977\], except that no funds authorized to be appropriated by any amendment contained in title II, III, IV, V, or VI \[enacting this section and sections 286e–1f, 284n, 285s, 285t, or 290g–10 of this title\] may be available for use or obligation prior to October 1, 1977”.
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch788/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs11
-[/us/pl/95/118/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs301
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/95/118/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtIII
 [/us/stat/91/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1068
-[/us/pl/95/118/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1001
+[/us/pl/95/118/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtX
 [/us/stat/91/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1072
 [/us/usc/t22/s262c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262c
 

@@ -17,11 +17,11 @@
 
     The Department of State shall assume all obligations of the Reconstruction Finance Corporation covering operations of said facilities, equipment, and appurtenant property outstanding at the date of transfer.
 
-([July 9, 1949, ch. 301, § 3][/us/act/1949-07-09/ch301/s3], [63 Stat. 408][/us/stat/63/408].)
+([July 9, 1949, ch. 301][/us/act/1949-07-09/ch301], § 3, [63 Stat. 408][/us/stat/63/408].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 170c of Title 5][/us/usc/t5/s170c] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170c of Title 5][/us/usc/t5/s170c] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Abolition of Reconstruction Finance Corporation__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1949-07-09/ch301/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-09%2Fch301%2Fs3
+[/us/act/1949-07-09/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-09%2Fch301
 [/us/stat/63/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F408
 [/us/usc/t5/s170c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170c
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/71/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F647
 [/us/usc/t15/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs601

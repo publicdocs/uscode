@@ -21,7 +21,7 @@
 
     (2) the severe human rights violations within North Korea warrant country-specific attention and reporting by the United Nations Working Group on Arbitrary Detention, the Working Group on Enforced and Involuntary Disappearances, the Special Rapporteur on Extrajudicial, Summary, or Arbitrary Executions, the Special Rapporteur on the Right to Food, the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, the Special Rapporteur on Freedom of Religion or Belief, and the Special Rapporteur on Violence Against Women.
 
-([Pub. L. 108–333, title I, § 105][/us/pl/108/333/s105], Oct. 18, 2004, [118 Stat. 1291][/us/stat/118/1291].)
+([Pub. L. 108–333, title I][/us/pl/108/333/tI], § 105, Oct. 18, 2004, [118 Stat. 1291][/us/stat/118/1291].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs105
+[/us/pl/108/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtI
 [/us/stat/118/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1291
 
 

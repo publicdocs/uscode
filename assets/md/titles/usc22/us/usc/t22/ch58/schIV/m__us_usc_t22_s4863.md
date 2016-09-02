@@ -23,7 +23,7 @@
 
         The Secretary of State shall conduct a study of the feasibility and necessity of requiring that, in the case of certain United States diplomatic facilities abroad, no contractor shall be hired to perform maintenance or repair services in an area intended for the storage of classified materials or the conduct of classified activities unless such contractor has been granted an appropriate United States security clearance. Such study shall include, but is not limited to, United States facilities located in Cairo, New Delhi, Riyadh, and Tokyo. Not later than 180 days after February 16, 1990, the Secretary of State shall report the results of such study to the Chairman of the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-([Pub. L. 99–399, title IV, § 415][/us/pl/99/399/s415], as added [Pub. L. 101–246, title I, § 133(a)][/us/pl/101/246/s133/a], Feb. 16, 1990, [104 Stat. 32][/us/stat/104/32].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 415, as added [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 133(a), Feb. 16, 1990, [104 Stat. 32][/us/stat/104/32].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/99/399/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs415
-[/us/pl/101/246/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs133%2Fa
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F32
 
 

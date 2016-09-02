@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284l.md) | [Next](./../../../../..//us/usc/t22/ch7/schXIII/m__us_usc_t22_s284n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs284m)
 
-## § 284m. Repealed. [Pub. L. 95–118, title VII, § 702][/us/pl/95/118/s702], Oct. 3, 1977, [91 Stat. 1070][/us/stat/91/1070]
+## § 284m. Repealed. [Pub. L. 95–118, title VII][/us/pl/95/118/tVII], § 702, Oct. 3, 1977, [91 Stat. 1070][/us/stat/91/1070]
 
-    Section, [Pub. L. 86–565, § 15][/us/pl/86/565/s15], as added [Pub. L. 93–373, § 3][/us/pl/93/373/s3], Aug. 14, 1974, [88 Stat. 445][/us/stat/88/445], set forth provisions relating to United States participation in loans by the International Development Association to any country developing any nuclear explosive device. See [section 262d of this title][/us/usc/t22/s262d].
+    Section, [Pub. L. 86–565][/us/pl/86/565], § 15, as added [Pub. L. 93–373][/us/pl/93/373], § 3, Aug. 14, 1974, [88 Stat. 445][/us/stat/88/445], set forth provisions relating to United States participation in loans by the International Development Association to any country developing any nuclear explosive device. See [section 262d of this title][/us/usc/t22/s262d].
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/95/118/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs702
+[/us/pl/95/118/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtVII
 [/us/stat/91/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1070
-[/us/pl/86/565/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs15
-[/us/pl/93/373/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F373%2Fs3
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
+[/us/pl/93/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F373
 [/us/stat/88/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F445
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
 [/us/pl/95/118/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1001

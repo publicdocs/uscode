@@ -125,19 +125,19 @@
 
             The term “Stop Tuberculosis Partnership” means the partnership of the World Health Organization, donors including the United States, high tuberculosis burden countries, multilateral agencies, and nongovernmental and technical agencies committed to short- and long-term measures required to control and eventually eliminate tuberculosis as a public health problem in the world.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 104B, as added [Pub. L. 108–25, title III, § 302(a)][/us/pl/108/25/s302/a], May 27, 2003, [117 Stat. 734][/us/stat/117/734]; amended [Pub. L. 110–293, title III, § 302(a)][/us/pl/110/293/s302/a]–(e), July 30, 2008, [122 Stat. 2957–2959][/us/stat/122/2957-2959].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 104B, as added [Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 302(a), May 27, 2003, [117 Stat. 734][/us/stat/117/734]; amended [Pub. L. 110–293, title III][/us/pl/110/293/tIII], § 302(a)–(e), July 30, 2008, [122 Stat. 2957–2959][/us/stat/122/2957-2959].)
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–293, § 302(a)][/us/pl/110/293/s302/a], amended subsec. (b) generally. Prior to amendment, text read as follows: “It is a major objective of the foreign assistance program of the United States to control tuberculosis, including the detection of at least 70 percent of the cases of infectious tuberculosis, and the cure of at least 85 percent of the cases detected, not later than December 31, 2005, in those countries classified by the World Health Organization as among the highest tuberculosis burden, and not later than December 31, 2010, in all countries in which the United States Agency for International Development has established development programs.”
+    2008—Subsec. (b). [Pub. L. 110–293][/us/pl/110/293], § 302(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “It is a major objective of the foreign assistance program of the United States to control tuberculosis, including the detection of at least 70 percent of the cases of infectious tuberculosis, and the cure of at least 85 percent of the cases detected, not later than December 31, 2005, in those countries classified by the World Health Organization as among the highest tuberculosis burden, and not later than December 31, 2010, in all countries in which the United States Agency for International Development has established development programs.”
 
-    Subsec. (e). [Pub. L. 110–293, § 302(b)][/us/pl/110/293/s302/b], amended subsec. (e) generally. Prior to amendment, text read as follows: “In furnishing assistance under subsection (c) of this section, the President shall give priority to activities that increase Directly Observed Treatment Short-course (DOTS) coverage and treatment of multi-drug resistant tuberculosis where needed using DOTS-Plus, including funding for the Global Tuberculosis Drug Facility, the Stop Tuberculosis Partnership, and the Global Alliance for TB Drug Development. In order to meet the requirement of the preceding sentence, the President should ensure that not less than 75 percent of the amount made available to carry out this section for a fiscal year should be expended for antituberculosis drugs, supplies, direct patient services, and training in diagnosis and treatment for Directly Observed Treatment Short-course (DOTS) coverage and treatment of multi-drug resistant tuberculosis using DOTS-Plus, including substantially increased funding for the Global Tuberculosis Drug Facility.”
+    Subsec. (e). [Pub. L. 110–293][/us/pl/110/293], § 302(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “In furnishing assistance under subsection (c) of this section, the President shall give priority to activities that increase Directly Observed Treatment Short-course (DOTS) coverage and treatment of multi-drug resistant tuberculosis where needed using DOTS-Plus, including funding for the Global Tuberculosis Drug Facility, the Stop Tuberculosis Partnership, and the Global Alliance for TB Drug Development. In order to meet the requirement of the preceding sentence, the President should ensure that not less than 75 percent of the amount made available to carry out this section for a fiscal year should be expended for antituberculosis drugs, supplies, direct patient services, and training in diagnosis and treatment for Directly Observed Treatment Short-course (DOTS) coverage and treatment of multi-drug resistant tuberculosis using DOTS-Plus, including substantially increased funding for the Global Tuberculosis Drug Facility.”
 
-    Subsecs. (f) to (h). [Pub. L. 110–293, § 302(c)][/us/pl/110/293/s302/c], (d), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+    Subsecs. (f) to (h). [Pub. L. 110–293][/us/pl/110/293], § 302(c), (d), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 
-    Subsec. (h)(1). [Pub. L. 110–293, § 302(e)(1)][/us/pl/110/293/s302/e/1], substituted “tuberculosis including—” for “tuberculosis.” and added subpars. (A) to (H).
+    Subsec. (h)(1). [Pub. L. 110–293][/us/pl/110/293], § 302(e)(1), substituted “tuberculosis including—” for “tuberculosis.” and added subpars. (A) to (H).
 
-    Subsec. (h)(5), (6). [Pub. L. 110–293, § 302(e)(2)][/us/pl/110/293/s302/e/2], (3), added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (h)(5), (6). [Pub. L. 110–293][/us/pl/110/293], § 302(e)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
  __Delegation of Functions__ 
 
@@ -152,15 +152,15 @@
 
 [/us/usc/t22/s2151b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/25/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs302%2Fa
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F734
-[/us/pl/110/293/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs302%2Fa
+[/us/pl/110/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIII
 [/us/stat/122/2957-2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2957-2959
-[/us/pl/110/293/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs302%2Fa
-[/us/pl/110/293/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs302%2Fb
-[/us/pl/110/293/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs302%2Fc
-[/us/pl/110/293/s302/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs302%2Fe%2F1
-[/us/pl/110/293/s302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs302%2Fe%2F2
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 
 

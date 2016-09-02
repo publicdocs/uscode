@@ -31,7 +31,7 @@
 
         (5) as a foreign national employee.
 
-([Pub. L. 96–465, title I, § 309][/us/pl/96/465/s309], Oct. 17, 1980, [94 Stat. 2086][/us/stat/94/2086]; [Pub. L. 100–204, title I, § 176][/us/pl/100/204/s176], Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361]; [Pub. L. 103–236, title I, § 180(a)(1)][/us/pl/103/236/s180/a/1], Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415]; [Pub. L. 103–415, § 1(hh)][/us/pl/103/415/s1/hh], Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 309, Oct. 17, 1980, [94 Stat. 2086][/us/stat/94/2086]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 176, Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 180(a)(1), Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415]; [Pub. L. 103–415][/us/pl/103/415], § 1(hh), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t22/s3951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951%2Fa
-[/us/pl/96/465/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs309
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2086
-[/us/pl/100/204/s176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs176
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1361
-[/us/pl/103/236/s180/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs180%2Fa%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F415
-[/us/pl/103/415/s1/hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fhh
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415

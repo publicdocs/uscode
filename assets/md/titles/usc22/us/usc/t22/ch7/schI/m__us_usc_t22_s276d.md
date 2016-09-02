@@ -21,7 +21,7 @@
 
     The Chairman or Vice Chairman of the House delegation shall be a Member from the Foreign Affairs Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation shall be a Member from the Foreign Relations Committee.
 
-([Pub. L. 86–42, § 1][/us/pl/86/42/s1], June 11, 1959, [73 Stat. 72][/us/stat/73/72]; [Pub. L. 95–45, § 4(a)][/us/pl/95/45/s4/a], June 15, 1977, [91 Stat. 222][/us/stat/91/222]; [Pub. L. 103–437, § 9(a)(3)][/us/pl/103/437/s9/a/3], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
+([Pub. L. 86–42][/us/pl/86/42], § 1, June 11, 1959, [73 Stat. 72][/us/stat/73/72]; [Pub. L. 95–45][/us/pl/95/45], § 4(a), June 15, 1977, [91 Stat. 222][/us/stat/91/222]; [Pub. L. 103–437][/us/pl/103/437], § 9(a)(3), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/86/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F42%2Fs1
+[/us/pl/86/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F42
 [/us/stat/73/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F72
-[/us/pl/95/45/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45%2Fs4%2Fa
+[/us/pl/95/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45
 [/us/stat/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F222
-[/us/pl/103/437/s9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs9%2Fa%2F3
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F45

@@ -17,7 +17,7 @@
 
     The Service shall be administered to the extent practicable in conformity with general policies and regulations of the Government. The Secretary shall consult with the Director of the Office of Personnel Management, the Director of the Office of Management and Budget, and the heads of such other agencies as the President shall determine, in order to assure compatibility of the Foreign Service personnel system with other Government personnel systems to the extent practicable.
 
-([Pub. L. 96–465, title I, § 205][/us/pl/96/465/s205], Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 205, Oct. 17, 1980, [94 Stat. 2079][/us/stat/94/2079].)
 
  __Delegation of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs205
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2079
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

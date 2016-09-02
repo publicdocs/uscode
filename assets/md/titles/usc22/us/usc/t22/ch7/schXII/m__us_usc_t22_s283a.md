@@ -27,7 +27,7 @@
 
         No person shall be entitled to receive any salary or other compensation from the United States for services as a governor, alternate governor, or executive director.
 
-([Pub. L. 86–147, § 3][/us/pl/86/147/s3], Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299]; [Pub. L. 91–599][/us/pl/91/599], ch. 2, § 21(b), Dec. 30, 1970, [84 Stat. 1658][/us/stat/84/1658].)
+([Pub. L. 86–147][/us/pl/86/147], § 3, Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299]; [Pub. L. 91–599][/us/pl/91/599], ch. 2, § 21(b), Dec. 30, 1970, [84 Stat. 1658][/us/stat/84/1658].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/86/147/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs3
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F299
 [/us/pl/91/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F599
 [/us/stat/84/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1658

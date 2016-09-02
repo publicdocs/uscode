@@ -71,7 +71,7 @@
 
             (B) if the country has its own foreign assistance programs which finance the procurement of construction or engineering services, permits United States firms to compete for those services.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 604, Sept. 4, 1961, [75 Stat. 439][/us/stat/75/439]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(b), Sept. 19, 1966, [80 Stat. 804][/us/stat/80/804]; [Pub. L. 90–554][/us/pl/90/554], pt. III, § 301(a), Oct. 8, 1968, [82 Stat. 963][/us/stat/82/963]; [Pub. L. 96–533, title VII, § 705][/us/pl/96/533/s705], Dec. 16, 1980, [94 Stat. 3157][/us/stat/94/3157]; [Pub. L. 99–83, title XII, § 1207][/us/pl/99/83/s1207], Aug. 8, 1985, [99 Stat. 278][/us/stat/99/278]; [Pub. L. 102–391, title V, § 597][/us/pl/102/391/s597], Oct. 6, 1992, [106 Stat. 1694][/us/stat/106/1694]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 604, Sept. 4, 1961, [75 Stat. 439][/us/stat/75/439]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(b), Sept. 19, 1966, [80 Stat. 804][/us/stat/80/804]; [Pub. L. 90–554][/us/pl/90/554], pt. III, § 301(a), Oct. 8, 1968, [82 Stat. 963][/us/stat/82/963]; [Pub. L. 96–533, title VII][/us/pl/96/533/tVII], § 705, Dec. 16, 1980, [94 Stat. 3157][/us/stat/94/3157]; [Pub. L. 99–83, title XII][/us/pl/99/83/tXII], § 1207, Aug. 8, 1985, [99 Stat. 278][/us/stat/99/278]; [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 597, Oct. 6, 1992, [106 Stat. 1694][/us/stat/106/1694]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -95,15 +95,15 @@
 
     1985—Subsec. (g). [Pub. L. 99–83][/us/pl/99/83] designated existing provisions as par. (1) and added par. (2).
 
-    1980—Subsec. (e). [Pub. L. 96–533, § 705(a)][/us/pl/96/533/s705/a], authorized use of funds for procurement of a commodity outside the United States when the commodity to be financed could not reasonably be procured in the United States in fulfillment of objectives of a particular assistance program under which such commodity procurement is to be financed.
+    1980—Subsec. (e). [Pub. L. 96–533][/us/pl/96/533], § 705(a), authorized use of funds for procurement of a commodity outside the United States when the commodity to be financed could not reasonably be procured in the United States in fulfillment of objectives of a particular assistance program under which such commodity procurement is to be financed.
 
-    Subsec. (g). [Pub. L. 96–533, § 705(b)][/us/pl/96/533/s705/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 96–533][/us/pl/96/533], § 705(b), added subsec. (g).
 
     1968—Subsec. (f). [Pub. L. 90–554][/us/pl/90/554] added subsec. (f).
 
-    1966—Subsec. (c). [Pub. L. 89–583, § 301(b)(1)][/us/pl/89/583/s301/b/1], struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
+    1966—Subsec. (c). [Pub. L. 89–583][/us/pl/89/583], § 301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
 
-    Subsec. (e). [Pub. L. 89–583, § 301(b)(2)][/us/pl/89/583/s301/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 89–583][/us/pl/89/583], § 301(b)(2), added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -131,13 +131,13 @@
 [/us/stat/80/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F804
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/stat/82/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F963
-[/us/pl/96/533/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs705
+[/us/pl/96/533/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtVII
 [/us/stat/94/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3157
-[/us/pl/99/83/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1207
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F278
-[/us/pl/102/391/s597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs597
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1694
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -152,11 +152,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/102/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/96/533/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs705%2Fa
-[/us/pl/96/533/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs705%2Fb
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
-[/us/pl/89/583/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs301%2Fb%2F1
-[/us/pl/89/583/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs301%2Fb%2F2
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701

@@ -83,17 +83,17 @@
 
         As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with [section 7707(b) of this title][/us/usc/t22/s7707/b].
 
-([Pub. L. 108–199, div. D, title VI, § 607][/us/pl/108/199/s607], Jan. 23, 2004, [118 Stat. 216][/us/stat/118/216]; [Pub. L. 110–161, div. J, title VI, § 699I(a)][/us/pl/110/161/s699I/a], Dec. 26, 2007, [121 Stat. 2372][/us/stat/121/2372].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 607, Jan. 23, 2004, [118 Stat. 216][/us/stat/118/216]; [Pub. L. 110–161, div. J, title VI][/us/pl/110/161/dJ/tVI], § 699I(a), Dec. 26, 2007, [121 Stat. 2372][/us/stat/121/2372].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (c)(2)(C), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
+    This chapter, referred to in subsec. (c)(2)(C), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199/dD], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
 
  __Amendments__ 
 
-    2007—Subsec. (b)(2)(B). [Pub. L. 110–161, § 699I(a)(1)][/us/pl/110/161/s699I/a/1], struck out “and the sustainable management of natural resources” after “growth”.
+    2007—Subsec. (b)(2)(B). [Pub. L. 110–161][/us/pl/110/161], § 699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
 
-    Subsec. (b)(3)(C). [Pub. L. 110–161, § 699I(a)(2)][/us/pl/110/161/s699I/a/2], added subpar. (C).
+    Subsec. (b)(3)(C). [Pub. L. 110–161][/us/pl/110/161], § 699I(a)(2), added subpar. (C).
 
 ----------
 
@@ -105,14 +105,14 @@
 [/us/usc/t22/s7708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7708
 [/us/usc/t22/s7707/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7707%2Fb%2F2
 [/us/usc/t22/s7707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7707%2Fb
-[/us/pl/108/199/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs607
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F216
-[/us/pl/110/161/s699I/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs699I%2Fa
+[/us/pl/110/161/dJ/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtVI
 [/us/stat/121/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2372
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/usc/t22/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7701
-[/us/pl/110/161/s699I/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs699I%2Fa%2F1
-[/us/pl/110/161/s699I/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs699I%2Fa%2F2
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 
 

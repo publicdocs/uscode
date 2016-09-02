@@ -21,7 +21,7 @@
 
     (2) the term “Treaty of Peace” means the Treaty of Peace between the Arab Republic of Egypt and the State of Israel signed on March 26, 1979, including the Annexes thereto.
 
-([Pub. L. 97–132, § 8][/us/pl/97/132/s8], Dec. 29, 1981, [95 Stat. 1697][/us/stat/95/1697].)
+([Pub. L. 97–132][/us/pl/97/132], § 8, Dec. 29, 1981, [95 Stat. 1697][/us/stat/95/1697].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/132/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs8
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1697
 
 

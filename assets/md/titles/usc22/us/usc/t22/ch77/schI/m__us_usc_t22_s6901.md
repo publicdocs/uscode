@@ -41,17 +41,17 @@
 
     (12) The Congress deplores violations by the Government of the People’s Republic of China of human rights, religious freedoms, and worker rights that are referred to in the Department of State’s 1999 Country Reports on Human Rights Practices for the People’s Republic of China, including the banning of the Falun Gong spiritual movement, denial in many cases, particularly politically sensitive ones, of effective representation by counsel and public trials, extrajudicial killings and torture, forced abortion and sterilization, restriction of access to Tibet and Xinjiang, perpetuation of “reeducation through labor”, denial of the right of workers to organize labor unions or bargain collectively with their employers, and failure to implement a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
 
-([Pub. L. 106–286, div. B, title II, § 202][/us/pl/106/286/s202], Oct. 10, 2000, [114 Stat. 892][/us/stat/114/892].)
+([Pub. L. 106–286, div. B, title II][/us/pl/106/286/dB/tII], § 202, Oct. 10, 2000, [114 Stat. 892][/us/stat/114/892].)
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. P, § 1][/us/pl/108/7/s1], Feb. 20, 2003, [117 Stat. 552][/us/stat/117/552], provided that: 
+[Pub. L. 108–7, div. P][/us/pl/108/7/dP], § 1, Feb. 20, 2003, [117 Stat. 552][/us/stat/117/552], provided that: 
 
 > “This division \[amending [section 7002 of this title][/us/usc/t22/s7002] and enacting provisions set out as notes under [section 7002 of this title][/us/usc/t22/s7002]\] may be cited as the ‘United States-China Economic and Security Review Commission’.”
 
  __Short Title__ 
 
-[Pub. L. 106–286, div. B, title II, § 201(a)][/us/pl/106/286/s201/a], Oct. 10, 2000, [114 Stat. 891][/us/stat/114/891], provided that: 
+[Pub. L. 106–286, div. B, title II][/us/pl/106/286/dB/tII], § 201(a), Oct. 10, 2000, [114 Stat. 891][/us/stat/114/891], provided that: 
 
 > “This division \[enacting this chapter\] may be cited as the ‘U.S.-China Relations Act of 2000’.”
 
@@ -61,7 +61,7 @@
 
  __Monitoring of Implementation of 1979 Agreement Between the United States and China on Cooperation in Science and Technology__ 
 
-[Pub. L. 107–314, div. A, title XII, § 1207][/us/pl/107/314/s1207], Dec. 2, 2002, [116 Stat. 2666][/us/stat/116/2666], provided that:
+[Pub. L. 107–314, div. A, title XII][/us/pl/107/314/dA/tXII], § 1207, Dec. 2, 2002, [116 Stat. 2666][/us/stat/116/2666], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -129,7 +129,7 @@
 
  __Tibetan Policy__ 
 
-[Pub. L. 107–228, div. A, title VI][/us/pl/107/228], subtitle B, Sept. 30, 2002, [116 Stat. 1396][/us/stat/116/1396], provided that:
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], subtitle B, Sept. 30, 2002, [116 Stat. 1396][/us/stat/116/1396], provided that:
 
 > “SEC. 611. __SHORT TITLE.__ 
 
@@ -176,20 +176,20 @@
 
 [/us/usc/t19/s2435/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2435%2Fc
 [/us/usc/t19/s2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2434
-[/us/pl/106/286/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs202
+[/us/pl/106/286/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtII
 [/us/stat/114/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F892
-[/us/pl/108/7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1
+[/us/pl/108/7/dP]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdP
 [/us/stat/117/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F552
 [/us/usc/t22/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7002
 [/us/usc/t22/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7002
-[/us/pl/106/286/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs201%2Fa
+[/us/pl/106/286/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtII
 [/us/stat/114/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F891
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/314/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1207
+[/us/pl/107/314/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXII
 [/us/stat/116/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2666
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1396
 [/us/usc/t22/s2151m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151m
 [/us/usc/t22/s6412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6412%2Fb

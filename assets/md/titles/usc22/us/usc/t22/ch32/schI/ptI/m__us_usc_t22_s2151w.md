@@ -17,9 +17,9 @@
 
     (a) The Administrator of the agency primarily responsible for administering subchapter I of this chapter is directed to improve the assessment and evaluation of the programs and projects carried out by that agency under this part. The Administrator shall consult with the appropriate committees of the Congress in establishing standards for such evaluations.
 
-    (b) Repealed. [Pub. L. 97–113, title VII, § 734(a)(1)][/us/pl/97/113/s734/a/1], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    (b) Repealed. [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(1), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 125, as added [Pub. L. 95–424, title I, § 113][/us/pl/95/424/s113], Oct. 6, 1978, [92 Stat. 950][/us/stat/92/950]; amended [Pub. L. 97–113, title VII, § 734(a)(1)][/us/pl/97/113/s734/a/1], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 125, as added [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 113, Oct. 6, 1978, [92 Stat. 950][/us/stat/92/950]; amended [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(1), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/424/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs113
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F950
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

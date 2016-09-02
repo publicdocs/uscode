@@ -29,7 +29,7 @@
 
     (6) Provide to the Customs Service all information obtained by the departments represented on the Task Force relating to the use of convict labor, forced labor, or/and indentured labor under penal sanctions in the mining, production, or manufacture of goods which may be imported into the United States.
 
-([Pub. L. 106–286, div. B, title V, § 502][/us/pl/106/286/s502], Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 502, Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
 
  __Transfer of Functions__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
-[/us/pl/106/286/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs502
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F903
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

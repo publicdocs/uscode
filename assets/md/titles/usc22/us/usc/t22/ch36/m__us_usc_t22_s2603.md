@@ -17,7 +17,7 @@
 
     The President is authorized to designate the head of any department or agency of the United States Government, or any official thereof who is required to be appointed by the President by and with the advice and consent of the Senate, to perform any functions conferred upon the President by this chapter. If the President shall so specify, any individual so designated under this section is authorized to redelegate to any of his subordinates any functions authorized to be performed by him under this section, except the function of exercising the waiver authority specified in [section 2602(b) of this title][/us/usc/t22/s2602/b].
 
-([Pub. L. 87–510, § 4(a)(1)][/us/pl/87/510/s4/a/1], June 28, 1962, [76 Stat. 123][/us/stat/76/123].)
+([Pub. L. 87–510][/us/pl/87/510], § 4(a)(1), June 28, 1962, [76 Stat. 123][/us/stat/76/123].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@ Sec. 3. Waivers. (a) In accordance with Section 3(b) of the Act \[[section 2602(
 ----------
 
 [/us/usc/t22/s2602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2602%2Fb
-[/us/pl/87/510/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs4%2Fa%2F1
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F123
 [/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121

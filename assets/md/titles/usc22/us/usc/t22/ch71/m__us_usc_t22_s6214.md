@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, funds derived from the sale of real property assets of RFE/RL in Munich, Germany, may be retained, obligated, and expended to meet one-time costs associated with the consolidation of United States Government broadcasting activities in accordance with this chapter, including the costs of relocating RFE/RL offices and operations.
 
-([Pub. L. 103–236, title III, § 315(d)][/us/pl/103/236/s315/d], as added [Pub. L. 103–415, § 1][/us/pl/103/415/s1](ll), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 315(d), as added [Pub. L. 103–415][/us/pl/103/415], § 1(ll), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/103/236/s315/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs315%2Fd
-[/us/pl/103/415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432

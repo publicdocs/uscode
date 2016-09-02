@@ -65,7 +65,7 @@
 
         (2) if the Secretary determines it to be in the public interest, the Secretary may extend temporarily the career appointment of a career member of the Service whose maximum time in class or limited career extension expires, but in no case may any extension under this paragraph exceed one year and such extensions may be granted only in special circumstances.
 
-([Pub. L. 96–465, title I, § 607][/us/pl/96/465/s607], Oct. 17, 1980, [94 Stat. 2096][/us/stat/94/2096].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 607, Oct. 17, 1980, [94 Stat. 2096][/us/stat/94/2096].)
 
 ----------
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t22/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4002
 [/us/usc/t22/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4009
-[/us/pl/96/465/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs607
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2096
 
 

@@ -53,7 +53,7 @@
 
             Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
 
-([Pub. L. 108–25, title III, § 314][/us/pl/108/25/s314], May 27, 2003, [117 Stat. 742][/us/stat/117/742].)
+([Pub. L. 108–25, title III][/us/pl/108/25/tIII], § 314, May 27, 2003, [117 Stat. 742][/us/stat/117/742].)
 
  __Delegation of Functions__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/108/25/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs314
+[/us/pl/108/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIII
 [/us/stat/117/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F742
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 109–401, title II, § 281][/us/pl/109/401/s281], Dec. 18, 2006, [120 Stat. 2753][/us/stat/120/2753].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 281, Dec. 18, 2006, [120 Stat. 2753][/us/stat/120/2753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs281
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2753
 
 

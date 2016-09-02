@@ -109,7 +109,7 @@
 
                 (ii) the term “multilateral development bank” has the meaning given that term in [section 262r(c) of this title][/us/usc/t22/s262r/c].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 661, as added [Pub. L. 93–559, § 31][/us/pl/93/559/s31], Dec. 30, 1974, [88 Stat. 1804][/us/stat/88/1804]; amended [Pub. L. 94–161, title III, § 316][/us/pl/94/161/s316], Dec. 20, 1975, [89 Stat. 867][/us/stat/89/867]; [Pub. L. 95–88, title I, § 128][/us/pl/95/88/s128], Aug. 3, 1977, [91 Stat. 543][/us/stat/91/543]; [Pub. L. 95–424, title I, § 121][/us/pl/95/424/s121], Oct. 6, 1978, [92 Stat. 954][/us/stat/92/954]; [Pub. L. 96–53, title I, § 119][/us/pl/96/53/s119], Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 96–533, title III, § 311][/us/pl/96/533/s311], Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148]; [Pub. L. 97–113, title III, § 312][/us/pl/97/113/s312], Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536]; [Pub. L. 99–83, title IV, § 405][/us/pl/99/83/s405], Aug. 8, 1985, [99 Stat. 219][/us/stat/99/219]; [Pub. L. 100–418, title II, § 2204(b)(1)][/us/pl/100/418/s2204/b/1], (2), Aug. 23, 1988, [102 Stat. 1329][/us/stat/102/1329]; [Pub. L. 102–549, title II, § 201][/us/pl/102/549/s201], Oct. 28, 1992, [106 Stat. 3655][/us/stat/106/3655]; [Pub. L. 103–392, title II, § 201][/us/pl/103/392/s201], Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099]; [Pub. L. 106–158, § 5][/us/pl/106/158/s5], Dec. 9, 1999, [113 Stat. 1746][/us/stat/113/1746]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 661, as added [Pub. L. 93–559][/us/pl/93/559], § 31, Dec. 30, 1974, [88 Stat. 1804][/us/stat/88/1804]; amended [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 316, Dec. 20, 1975, [89 Stat. 867][/us/stat/89/867]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 128, Aug. 3, 1977, [91 Stat. 543][/us/stat/91/543]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 121, Oct. 6, 1978, [92 Stat. 954][/us/stat/92/954]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 119, Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 311, Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 312, Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536]; [Pub. L. 99–83, title IV][/us/pl/99/83/tIV], § 405, Aug. 8, 1985, [99 Stat. 219][/us/stat/99/219]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2204(b)(1), (2), Aug. 23, 1988, [102 Stat. 1329][/us/stat/102/1329]; [Pub. L. 102–549, title II][/us/pl/102/549/tII], § 201, Oct. 28, 1992, [106 Stat. 3655][/us/stat/106/3655]; [Pub. L. 103–392, title II][/us/pl/103/392/tII], § 201, Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099]; [Pub. L. 106–158][/us/pl/106/158], § 5, Dec. 9, 1999, [113 Stat. 1746][/us/stat/113/1746]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -119,25 +119,25 @@
 
     2004—Subsec. (e)(4). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1999—Subsec. (a). [Pub. L. 106–158, § 5(a)][/us/pl/106/158/s5/a], inserted before period at end: “, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment”.
+    1999—Subsec. (a). [Pub. L. 106–158][/us/pl/106/158], § 5(a), inserted before period at end: “, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment”.
 
-    Subsec. (b)(5). [Pub. L. 106–158, § 5(b)][/us/pl/106/158/s5/b], added par. (5).
+    Subsec. (b)(5). [Pub. L. 106–158][/us/pl/106/158], § 5(b), added par. (5).
 
-    Subsec. (f)(1)(A). [Pub. L. 106–158, § 5(c)(1)][/us/pl/106/158/s5/c/1], substituted “$48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter” for “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996”.
+    Subsec. (f)(1)(A). [Pub. L. 106–158][/us/pl/106/158], § 5(c)(1), substituted “$48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter” for “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996”.
 
-    Subsec. (f)(2)(A). [Pub. L. 106–158, § 5(c)(2)][/us/pl/106/158/s5/c/2], substituted “in carrying out its program, provide, as appropriate, funds” for “in fiscal years 1993 and 1994, substantially increase the amount of funds it provides”.
+    Subsec. (f)(2)(A). [Pub. L. 106–158][/us/pl/106/158], § 5(c)(2), substituted “in carrying out its program, provide, as appropriate, funds” for “in fiscal years 1993 and 1994, substantially increase the amount of funds it provides”.
 
     1994—Subsec. (f)(1). [Pub. L. 103–392][/us/pl/103/392] redesignated existing provisions as subpar. (A), substituted “$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996.” for “$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.”, and added subpar. (B).
 
     1992—[Pub. L. 102–549][/us/pl/102/549] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 2204(b)(1)][/us/pl/100/418/s2204/b/1], inserted sentence providing for use of funds for project planning, development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 2204(b)(1), inserted sentence providing for use of funds for project planning, development, management, and procurement for bilateral and multilateral projects, for purpose of promoting use of United States exports in such projects.
 
-    Subsecs. (b) to (d). [Pub. L. 100–418, § 2204(b)(2)][/us/pl/100/418/s2204/b/2], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 100–418][/us/pl/100/418], § 2204(b)(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
     1985—Subsec. (b). [Pub. L. 99–83][/us/pl/99/83] amended subsec. (b) generally, substituting provisions authorizing appropriations of $20,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $6,907,000 for fiscal years 1982 and 1983.
 
-    1981—[Pub. L. 97–113, § 312(b)][/us/pl/97/113/s312/b], designated existing provisions as subsec. (a), struck out provision for use of $4,000,000 of funds made available for fiscal year 1981 for purposes of this chapter, and added subsec. (b).
+    1981—[Pub. L. 97–113][/us/pl/97/113], § 312(b), designated existing provisions as subsec. (a), struck out provision for use of $4,000,000 of funds made available for fiscal year 1981 for purposes of this chapter, and added subsec. (b).
 
     1980—[Pub. L. 96–533][/us/pl/96/533] substituted authorization for use of $4,000,000 of available funds for fiscal year 1981 for such authorization for use of $3,800,000 of available funds for fiscal year 1980 for reimbursable development programs.
 
@@ -151,7 +151,7 @@
 
  __Change of Name__ 
 
-[Pub. L. 102–549, title II, § 202(a)][/us/pl/102/549/s202/a], (e), Oct. 28, 1992, [106 Stat. 3657][/us/stat/106/3657], 3658, provided that:
+[Pub. L. 102–549, title II][/us/pl/102/549/tII], § 202(a), (e), Oct. 28, 1992, [106 Stat. 3657][/us/stat/106/3657], 3658, provided that:
 
 >     “(a)  __Renaming of Trade and Development Program__  __.—__ 
 
@@ -179,17 +179,17 @@
 
  __Appointment of Present Director Not Affected__ 
 
-[Pub. L. 102–549, title II, § 202(b)][/us/pl/102/549/s202/b], Oct. 28, 1992, [106 Stat. 3657][/us/stat/106/3657], provided that: 
+[Pub. L. 102–549, title II][/us/pl/102/549/tII], § 202(b), Oct. 28, 1992, [106 Stat. 3657][/us/stat/106/3657], provided that: 
 
 > “The enactment of this title \[amending this section and [section 5401 of this title][/us/usc/t22/s5401], [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under [section 2151 of this title][/us/usc/t22/s2151]\] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section \[Oct. 28, 1992\].”
 
  __Trade and Development Program Activities for Poland and Hungary__ 
 
-    [Pub. L. 101–179, title III, § 305][/us/pl/101/179/s305], Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], authorized appropriation of an additional $6,000,000 for the 3-year period beginning Oct. 1, 1989, to carry out this section, in order to permit expansion of the Trade and Development Program \[now Agency\] into Poland and Hungary.
+    [Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 305, Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], authorized appropriation of an additional $6,000,000 for the 3-year period beginning Oct. 1, 1989, to carry out this section, in order to permit expansion of the Trade and Development Program \[now Agency\] into Poland and Hungary.
 
  __Trade and Development Program; Reaffirmation of Support__ 
 
-[Pub. L. 100–418, title II, § 2204(a)][/us/pl/100/418/s2204/a], Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328], provided that: 
+[Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2204(a), Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328], provided that: 
 
 > “The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program’s \[Agency’s\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program’s status as a separate component of the International Development Cooperation Agency.”
 
@@ -203,51 +203,51 @@
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
 [/us/usc/t22/s262r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs31
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1804
-[/us/pl/94/161/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs316
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F867
-[/us/pl/95/88/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs128
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F543
-[/us/pl/95/424/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs121
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F954
-[/us/pl/96/53/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs119
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F365
-[/us/pl/96/533/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs311
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3148
-[/us/pl/97/113/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs312
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1536
-[/us/pl/99/83/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs405
+[/us/pl/99/83/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIV
 [/us/stat/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F219
-[/us/pl/100/418/s2204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fb%2F1
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1329
-[/us/pl/102/549/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs201
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3655
-[/us/pl/103/392/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs201
+[/us/pl/103/392/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2FtII
 [/us/stat/108/4099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4099
-[/us/pl/106/158/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs5
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1746
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/106/158/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs5%2Fa
-[/us/pl/106/158/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs5%2Fb
-[/us/pl/106/158/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs5%2Fc%2F1
-[/us/pl/106/158/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs5%2Fc%2F2
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
-[/us/pl/100/418/s2204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fb%2F1
-[/us/pl/100/418/s2204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fb%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/97/113/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs312%2Fb
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
-[/us/pl/102/549/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fa
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3657
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
@@ -259,14 +259,14 @@
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/102/549/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fb
+[/us/pl/102/549/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtII
 [/us/stat/106/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3657
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/101/179/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs305
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1314
-[/us/pl/100/418/s2204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2204%2Fa
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1328
 
 

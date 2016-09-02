@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title II, § 231, [60 Stat. 148][/us/stat/60/148], which provided that certain Philippine citizens be granted non-quota status, was omitted on authority of former [section 1345 of this title][/us/usc/t22/s1345] which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+    Section, [act Apr. 30, 1946, ch. 244, title II][/us/act/1946-04-30/ch244/tII], § 231, [60 Stat. 148][/us/stat/60/148], which provided that certain Philippine citizens be granted non-quota status, was omitted on authority of former [section 1345 of this title][/us/usc/t22/s1345] which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
  __Philippine Traders as Nonimmigrants__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
+[/us/act/1946-04-30/ch244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244%2FtII
 [/us/stat/60/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F148
 [/us/usc/t22/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1345
 [/us/usc/t8/s1184a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184a

@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the United States in the Inter-American Investment Corporation (hereinafter in this subchapter referred to as the “Corporation”) provided for by the agreement establishing the Corporation (hereinafter in this subchapter referred to as the “agreement”) deposited in the archives of the Inter-American Development Bank.
 
-([Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, and as enacted into permanent law by [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title I\], Oct. 12, 1984, [98 Stat. 1885][/us/stat/98/1885], provided that: 
+Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, and as enacted into permanent law by [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title I\], Oct. 12, 1984, [98 Stat. 1885][/us/stat/98/1885], provided that: 
 
 > “This title \[enacting this subchapter and amending [section 276c–2 of this title][/us/usc/t22/s276c–2] and [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking\] may be cited as the ‘Inter-American Investment Corporation Act’.”
 
@@ -36,10 +36,10 @@ Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, a
 ----------
 ----------
 
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1885
 [/us/usc/t22/s276c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs276c%E2%80%932
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24

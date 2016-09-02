@@ -71,7 +71,7 @@
 
         Of the amounts authorized to be appropriated to carry out this part, $5,000,000 for fiscal year 1986 and $5,000,000 for fiscal year 1987 shall be used to finance cooperative projects among the United States, Israel, and developing countries.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 106, as added [Pub. L. 94–161, title III, § 306(2)][/us/pl/94/161/s306/2], Dec. 20, 1975, [89 Stat. 858][/us/stat/89/858]; amended [Pub. L. 95–88, title I, § 105][/us/pl/95/88/s105], Aug. 3, 1977, [91 Stat. 535][/us/stat/91/535]; [Pub. L. 95–424, title I, § 106][/us/pl/95/424/s106], Oct. 6, 1978, [92 Stat. 947][/us/stat/92/947]; [Pub. L. 96–53, title I][/us/pl/96/53], §§ 104(b), 105, Aug. 14, 1979, [93 Stat. 360][/us/stat/93/360], 362; [Pub. L. 96–533, title III, § 304(b)][/us/pl/96/533/s304/b]–(f), Dec. 16, 1980, [94 Stat. 3146][/us/stat/94/3146]; [Pub. L. 97–113, title III, § 304][/us/pl/97/113/s304], Dec. 29, 1981, [95 Stat. 1533][/us/stat/95/1533]; [Pub. L. 99–83, title III, § 307][/us/pl/99/83/s307], title XII, § 1211(a)(2), Aug. 8, 1985, [99 Stat. 215][/us/stat/99/215], 279.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 106, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 306(2), Dec. 20, 1975, [89 Stat. 858][/us/stat/89/858]; amended [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 105, Aug. 3, 1977, [91 Stat. 535][/us/stat/91/535]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 106, Oct. 6, 1978, [92 Stat. 947][/us/stat/92/947]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], §§ 104(b), 105, Aug. 14, 1979, [93 Stat. 360][/us/stat/93/360], 362; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 304(b)–(f), Dec. 16, 1980, [94 Stat. 3146][/us/stat/94/3146]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 304, Dec. 29, 1981, [95 Stat. 1533][/us/stat/95/1533]; [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 307, title XII, § 1211(a)(2), Aug. 8, 1985, [99 Stat. 215][/us/stat/99/215], 279.)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -79,29 +79,29 @@
 
  __Prior Provisions__ 
 
-    A prior section 2151d, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 106, as added [Pub. L. 93–189, § 2(3)][/us/pl/93/189/s2/3], Dec. 17, 1973, [87 Stat. 715][/us/stat/87/715], authorized additional appropriations of $53,000,000 for fiscal years 1974, and 1975, for assistance to solve selected development problems in such fields as transportation, power, industry, urban development, and export development, prior to repeal by [section 306(1) of Pub. L. 94–161][/us/pl/94/161/s306/1].
+    A prior section 2151d, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 106, as added [Pub. L. 93–189][/us/pl/93/189], § 2(3), Dec. 17, 1973, [87 Stat. 715][/us/stat/87/715], authorized additional appropriations of $53,000,000 for fiscal years 1974, and 1975, for assistance to solve selected development problems in such fields as transportation, power, industry, urban development, and export development, prior to repeal by [section 306(1) of Pub. L. 94–161][/us/pl/94/161/s306/1].
 
  __Amendments__ 
 
-    1985—Subsec. (b)(1). [Pub. L. 99–83, § 1211(a)(2)][/us/pl/99/83/s1211/a/2], struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
+    1985—Subsec. (b)(1). [Pub. L. 99–83][/us/pl/99/83], § 1211(a)(2), struck out par. (A) designation, and struck out par. (B) which related to use of funds in fiscal year 1981 for geological and geophysical survey work.
 
-    Subsec. (e)(1). [Pub. L. 99–83, § 307(a)][/us/pl/99/83/s307/a], amended par. (1) generally, substituting provisions authorizing appropriations of $207,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of $147,200,000 for fiscal years 1982 and 1983.
+    Subsec. (e)(1). [Pub. L. 99–83][/us/pl/99/83], § 307(a), amended par. (1) generally, substituting provisions authorizing appropriations of $207,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of $147,200,000 for fiscal years 1982 and 1983.
 
-    Subsec. (f). [Pub. L. 99–83, § 307(b)][/us/pl/99/83/s307/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–83][/us/pl/99/83], § 307(b), added subsec. (f).
 
-    1981—Subsec. (d)(3). [Pub. L. 97–113, § 304(a)][/us/pl/97/113/s304/a], authorized assistance for programs of disaster preparedness, including the prediction of and contingency planning for natural disasters abroad.
+    1981—Subsec. (d)(3). [Pub. L. 97–113][/us/pl/97/113], § 304(a), authorized assistance for programs of disaster preparedness, including the prediction of and contingency planning for natural disasters abroad.
 
-    Subsec. (e)(1). [Pub. L. 97–113, § 304(b)][/us/pl/97/113/s304/b], substituted appropriations of $147,200,000 for fiscal years 1982 and 1983, for appropriations of $140,000,000 for fiscal year 1981.
+    Subsec. (e)(1). [Pub. L. 97–113][/us/pl/97/113], § 304(b), substituted appropriations of $147,200,000 for fiscal years 1982 and 1983, for appropriations of $140,000,000 for fiscal year 1981.
 
-    1980—Subsec. (a). [Pub. L. 96–533, § 304(b)][/us/pl/96/533/s304/b], designated existing provisions as subpar. (1)(A), substituted subpar. (B), (C), and (D) for par. (2), (3), and (4) designations, substituted in subpar. (C), cl. (i), (ii), and (iii) for (A), (B), and (C) designations, and added par. (2).
+    1980—Subsec. (a). [Pub. L. 96–533][/us/pl/96/533], § 304(b), designated existing provisions as subpar. (1)(A), substituted subpar. (B), (C), and (D) for par. (2), (3), and (4) designations, substituted in subpar. (C), cl. (i), (ii), and (iii) for (A), (B), and (C) designations, and added par. (2).
 
-    Subsec. (b). [Pub. L. 96–533, § 304(c)][/us/pl/96/533/s304/c], (d), designated existing provisions as subpar. (1)(A), substituted subpar. (B) for par. (2) designation, substituted in subpar. (1)(B) “fiscal year 1981 shall be used for purposes of subparagraph (A)” for “fiscal year 1980 shall be used for purposes of paragraph (1)” and added par. (2).
+    Subsec. (b). [Pub. L. 96–533][/us/pl/96/533], § 304(c), (d), designated existing provisions as subpar. (1)(A), substituted subpar. (B) for par. (2) designation, substituted in subpar. (1)(B) “fiscal year 1981 shall be used for purposes of subparagraph (A)” for “fiscal year 1980 shall be used for purposes of paragraph (1)” and added par. (2).
 
-    Subsecs. (c) to (e). [Pub. L. 96–533, § 304(d)][/us/pl/96/533/s304/d]–(f), added subsec. (c), redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (e) designated text as pars. (1) and (2), and in par. (1) as so designated, substituted appropriations authorization of “$140,000,000 for the fiscal year 1981” for such appropriation of “$125,000,000 for the fiscal year 1980”.
+    Subsecs. (c) to (e). [Pub. L. 96–533][/us/pl/96/533], § 304(d)–(f), added subsec. (c), redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (e) designated text as pars. (1) and (2), and in par. (1) as so designated, substituted appropriations authorization of “$140,000,000 for the fiscal year 1981” for such appropriation of “$125,000,000 for the fiscal year 1980”.
 
-    1979—Subsecs. (a), (b). [Pub. L. 96–53, § 104(b)(2)][/us/pl/96/53/s104/b/2], (3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
+    1979—Subsecs. (a), (b). [Pub. L. 96–53][/us/pl/96/53], § 104(b)(2), (3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
 
-    Subsec. (c). [Pub. L. 96–53, § 104(b)(1)][/us/pl/96/53/s104/b/1], (2), redesignated former subsec. (a) as (c), struck out par. (2), relating to programs to increase energy production and conservation, and redesignated pars. (3) to (6) as (2) to (5), respectively.
+    Subsec. (c). [Pub. L. 96–53][/us/pl/96/53], § 104(b)(1), (2), redesignated former subsec. (a) as (c), struck out par. (2), relating to programs to increase energy production and conservation, and redesignated pars. (3) to (6) as (2) to (5), respectively.
 
     Subsec. (d). [Pub. L. 96–53][/us/pl/96/53], §§ 104(b)(2), 105, redesignated former subsec. (b) as (d) and substituted provisions authorizing appropriations for fiscal year 1980 of $125,000,000, for provisions author­izing appropriations for fiscal year 1979 of $126,244,000, and setting forth requirements for appropriations available to private voluntary agencies of the United States.
 
@@ -134,36 +134,36 @@
 
 [/us/usc/t22/s2151a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151a
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs306%2F2
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F858
-[/us/pl/95/88/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs105
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F535
-[/us/pl/95/424/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs106
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F947
-[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F360
-[/us/pl/96/533/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fb
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3146
-[/us/pl/97/113/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs304
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1533
-[/us/pl/99/83/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs307
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F215
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F3
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F715
 [/us/pl/94/161/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs306%2F1
-[/us/pl/99/83/s1211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1211%2Fa%2F2
-[/us/pl/99/83/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs307%2Fa
-[/us/pl/99/83/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs307%2Fb
-[/us/pl/97/113/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs304%2Fa
-[/us/pl/97/113/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs304%2Fb
-[/us/pl/96/533/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fb
-[/us/pl/96/533/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fc
-[/us/pl/96/533/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs304%2Fd
-[/us/pl/96/53/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs104%2Fb%2F2
-[/us/pl/96/53/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs104%2Fb%2F1
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88

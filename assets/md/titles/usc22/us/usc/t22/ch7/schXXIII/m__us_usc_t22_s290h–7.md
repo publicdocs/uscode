@@ -17,7 +17,7 @@
 
     Any authority provided by this subchapter involving the expenditure of funds (other than the funds made available pursuant to [section 290h–8 of this title][/us/usc/t22/s290h–8]) shall be effective for a fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 96–533, title V, § 509][/us/pl/96/533/s509], Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155].)
+([Pub. L. 96–533, title V][/us/pl/96/533/tV], § 509, Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s290h–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%938
-[/us/pl/96/533/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs509
+[/us/pl/96/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtV
 [/us/stat/94/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3155
 
 

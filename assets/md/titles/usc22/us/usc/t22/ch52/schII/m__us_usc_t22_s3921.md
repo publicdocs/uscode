@@ -19,7 +19,7 @@
 
     (b) The Secretary of State alone among the heads of agencies utilizing the Foreign Service personnel system shall perform the functions expressly vested in the Secretary of State by this chapter.
 
-([Pub. L. 96–465, title I, § 201][/us/pl/96/465/s201], Oct. 17, 1980, [94 Stat. 2078][/us/stat/94/2078].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 201, Oct. 17, 1980, [94 Stat. 2078][/us/stat/94/2078].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs201
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2078
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

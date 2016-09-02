@@ -17,7 +17,7 @@
 
     Paragraph 5 of article 49, articles 50 through 59, and the other provisions of the agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Bank. The President, at the time of deposit of the instrument of acceptance of membership by the United States in the Bank, shall also deposit a declaration as provided in article 64, paragraph 3, of the agreement that the United States retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to United States citizens or nationals.
 
-([Pub. L. 97–35, title XIII, § 1340][/us/pl/97/35/s1340], Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1340, Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1340
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F743
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i
 

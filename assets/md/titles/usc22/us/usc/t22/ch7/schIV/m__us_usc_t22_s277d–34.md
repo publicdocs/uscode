@@ -43,7 +43,7 @@
 
     (3) to remove, modify, or repair the damages caused to Mexico by works constructed in the United States which the International Boundary and Water Commission, United States and Mexico, as determined have an adverse effect on Mexico, or to compensate Mexico for such damages.
 
-([Pub. L. 92–549, title I, § 101][/us/pl/92/549/s101], Oct. 25, 1972, [86 Stat. 1161][/us/stat/86/1161].)
+([Pub. L. 92–549, title I][/us/pl/92/549/tI], § 101, Oct. 25, 1972, [86 Stat. 1161][/us/stat/86/1161].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Short Title__ 
 
-[Pub. L. 92–549, § 1][/us/pl/92/549/s1], Oct. 25, 1972, [86 Stat. 1161][/us/stat/86/1161], provided: 
+[Pub. L. 92–549][/us/pl/92/549], § 1, Oct. 25, 1972, [86 Stat. 1161][/us/stat/86/1161], provided: 
 
 > “That this Act \[enacting this section and sections 277d–35 to 277d–42 of this title and amending [section 1322 of Title 19][/us/usc/t19/s1322], Customs Duties\] may be cited as the ‘American-Mexican Boundary Treaty Act of 1972’.”
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/92/549/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs101
+[/us/pl/92/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtI
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161
 [/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161
 [/us/usc/t19/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1322
-[/us/pl/92/549/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs1
+[/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161
 [/us/usc/t19/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1322
 

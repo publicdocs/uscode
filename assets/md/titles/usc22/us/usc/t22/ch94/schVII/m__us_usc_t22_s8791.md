@@ -51,7 +51,7 @@
 
         The sanctions described in this subsection are sanctions pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation of property, subject to such regulations as the President may prescribe.
 
-([Pub. L. 112–158, title VII, § 702][/us/pl/112/158/s702], Aug. 10, 2012, [126 Stat. 1265][/us/stat/126/1265].)
+([Pub. L. 112–158, title VII][/us/pl/112/158/tVII], § 702, Aug. 10, 2012, [126 Stat. 1265][/us/stat/126/1265].)
 
  __Termination of Section__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/158/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs702
+[/us/pl/112/158/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVII
 [/us/stat/126/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1265
 [/us/usc/t22/s8795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8795
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

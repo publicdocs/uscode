@@ -31,7 +31,7 @@
 
         For purposes of this chapter, the term “institution of higher education” has the same meaning as given to such term by [section 1001 of title 20][/us/usc/t20/s1001].
 
-([Pub. L. 99–93, title VI, § 603][/us/pl/99/93/s603], Aug. 16, 1985, [99 Stat. 440][/us/stat/99/440]; [Pub. L. 105–244, title I, § 102(a)(7)(D)][/us/pl/105/244/s102/a/7/D], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 603, Aug. 16, 1985, [99 Stat. 440][/us/stat/99/440]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(7)(D), Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t22/s4704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4704
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/93/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs603
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F440
-[/us/pl/105/244/s102/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F7%2FD
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

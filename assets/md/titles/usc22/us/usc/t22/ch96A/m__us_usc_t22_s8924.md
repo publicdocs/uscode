@@ -55,7 +55,7 @@
 
         This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in [section 8923(h) of this title][/us/usc/t22/s8923/h].
 
-([Pub. L. 113–272, § 5][/us/pl/113/272/s5], Dec. 18, 2014, [128 Stat. 2958][/us/stat/128/2958].)
+([Pub. L. 113–272][/us/pl/113/272], § 5, Dec. 18, 2014, [128 Stat. 2958][/us/stat/128/2958].)
 
  __Termination of Section__ 
 
@@ -82,7 +82,7 @@
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t50/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705%2Fa
 [/us/usc/t22/s8923/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8923%2Fh
-[/us/pl/113/272/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs5
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2958
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

@@ -23,7 +23,7 @@
 
         The Director of the Office of Foreign Buildings shall require each person awarded a contract for work under the diplomatic construction program to post a surety bond or guarantee, in such amount as the Director may determine, to assure performance under such contract.
 
-([Pub. L. 99–399, title IV, § 406][/us/pl/99/399/s406], Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866]; [Pub. L. 109–472, § 8][/us/pl/109/472/s8], Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 406, Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866]; [Pub. L. 109–472][/us/pl/109/472], § 8, Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/99/399/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs406
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F866
-[/us/pl/109/472/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs8
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3556
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/usc/t3/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs208

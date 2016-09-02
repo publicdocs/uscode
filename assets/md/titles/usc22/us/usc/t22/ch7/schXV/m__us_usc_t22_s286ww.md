@@ -17,7 +17,7 @@
 
     The United States Governor of the Fund may accept the amendments to the Articles of Agreement of the Fund as proposed in resolution 66–2 of the Board of Governors of the Fund.
 
-([July 31, 1945, ch. 339, § 71][/us/act/1945-07-31/ch339/s71], as added [Pub. L. 114–113, div. K, title IX, § 9002][/us/pl/114/113/s9002], Dec. 18, 2015, [129 Stat. 2830][/us/stat/129/2830].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 71, as added [Pub. L. 114–113, div. K, title IX][/us/pl/114/113/dK/tIX], § 9002, Dec. 18, 2015, [129 Stat. 2830][/us/stat/129/2830].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs71
-[/us/pl/114/113/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9002
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/114/113/dK/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtIX
 [/us/stat/129/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2830
 
 

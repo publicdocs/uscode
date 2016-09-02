@@ -31,7 +31,7 @@
 
         (4) the status of implementation of international anti-money laundering and counterterrorist financing standards by the International Monetary Fund, the multilateral development banks, and other multilateral financial policymaking bodies.
 
-([Pub. L. 95–118, title XVII, § 1705][/us/pl/95/118/s1705], as added [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 613\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–230; amended [Pub. L. 106–200, title IV, § 404(c)][/us/pl/106/200/s404/c], May 18, 2000, [114 Stat. 292][/us/stat/114/292]; [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VIII, § 803(c)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–67; [Pub. L. 108–458, title VII, § 7703(b)][/us/pl/108/458/s7703/b], Dec. 17, 2004, [118 Stat. 3860][/us/stat/118/3860].)
+([Pub. L. 95–118, title XVII][/us/pl/95/118/tXVII], § 1705, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 613\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–230; amended [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 404(c), May 18, 2000, [114 Stat. 292][/us/stat/114/292]; [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title VIII, § 803(c)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–67; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7703(b), Dec. 17, 2004, [118 Stat. 3860][/us/stat/118/3860].)
 
  __References in Text__ 
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1705
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/95/118/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVII
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/106/200/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs404%2Fc
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F292
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/108/458/s7703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7703%2Fb
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3860
 [/us/pl/106/429/s801/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs801%2Fc%2F1%2FB
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900

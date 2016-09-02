@@ -23,15 +23,15 @@
 
         The Secretary of State is authorized to use Worldnet broadcasts for the purposes of continuing interactive dialogues with foreign media and other similar overseas public diplomacy programs sponsored by the Department of State. The Chairman of the Broadcasting Board of Governors shall provide access to Worldnet for this purpose on a nonreimbursable basis.
 
-([Pub. L. 103–236, title III, § 306][/us/pl/103/236/s306], Apr. 30, 1994, [108 Stat. 436][/us/stat/108/436]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1323(j), Oct. 21, 1998, [112 Stat. 2681–780][/us/stat/112/2681-780].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 306, Apr. 30, 1994, [108 Stat. 436][/us/stat/108/436]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1323(j), Oct. 21, 1998, [112 Stat. 2681–780][/us/stat/112/2681-780].)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–277, § 1323(j)(1)][/us/pl/105/277/s1323/j/1], substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 1323(j)(1), substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–277, § 1323(j)(2)][/us/pl/105/277/s1323/j/2]–(4), designated existing provisions as subsec. (a), inserted heading, substituted “State” for “State, acting through the Director of the United States Information Agency,”, and inserted before period at end “, as the Secretary may deem appropriate”.
+    Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1323(j)(2)–(4), designated existing provisions as subsec. (a), inserted heading, substituted “State” for “State, acting through the Director of the United States Information Agency,”, and inserted before period at end “, as the Secretary may deem appropriate”.
 
-    Subsec. (b). [Pub. L. 105–277, § 1323(j)(5)][/us/pl/105/277/s1323/j/5], added subsec. (b).
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1323(j)(5), added subsec. (b).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/103/236/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs306
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F436
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-780
-[/us/pl/105/277/s1323/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fj%2F1
-[/us/pl/105/277/s1323/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fj%2F2
-[/us/pl/105/277/s1323/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fj%2F5
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

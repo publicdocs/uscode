@@ -35,7 +35,7 @@
 
         (3) staffing levels for United States country-level HIV/AIDS teams should be adequately maintained to fulfill oversight and other obligations of the positions.
 
-([Pub. L. 108–25, title I, § 102][/us/pl/108/25/s102], May 27, 2003, [117 Stat. 721][/us/stat/117/721]; [Pub. L. 110–293, title I, § 103][/us/pl/110/293/s103], July 30, 2008, [122 Stat. 2935][/us/stat/122/2935].)
+([Pub. L. 108–25, title I][/us/pl/108/25/tI], § 102, May 27, 2003, [117 Stat. 721][/us/stat/117/721]; [Pub. L. 110–293, title I][/us/pl/110/293/tI], § 103, July 30, 2008, [122 Stat. 2935][/us/stat/122/2935].)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/108/25/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs102
+[/us/pl/108/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtI
 [/us/stat/117/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F721
-[/us/pl/110/293/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs103
+[/us/pl/110/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtI
 [/us/stat/122/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2935
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

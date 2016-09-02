@@ -27,7 +27,7 @@
 
     (5) The Support for East European Democracy Act ([22 U.S.C. 5401][/us/usc/t22/s5401] et seq.).
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XV, § 1521, Oct. 21, 1998, [112 Stat. 2681–794][/us/stat/112/2681-794].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XV, § 1521, Oct. 21, 1998, [112 Stat. 2681–794][/us/stat/112/2681-794].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 [/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-794
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

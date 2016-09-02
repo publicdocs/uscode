@@ -23,7 +23,7 @@
 
         In addition to amounts otherwise available to carry out this part, up to $50,000,000 in any fiscal year may be obligated against appropriations under subchapter I of this chapter (other than this part) for use in providing assistance in accordance with the authorities and general policies of [section 2292 of this title][/us/usc/t22/s2292]. Amounts subsequently appropriated under this part with respect to a disaster may be used to reimburse any appropriation account against which obligations were incurred under this subsection with respect to that disaster.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 492, as added [Pub. L. 94–161, title I, § 101(3)][/us/pl/94/161/s101/3], Dec. 20, 1975, [89 Stat. 849][/us/stat/89/849]; amended [Pub. L. 95–88, title I, § 119][/us/pl/95/88/s119], Aug. 3, 1977, [91 Stat. 541][/us/stat/91/541]; [Pub. L. 95–424, title I, § 118(b)][/us/pl/95/424/s118/b], Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953]; [Pub. L. 96–53, title I, § 115][/us/pl/96/53/s115], Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 96–533, title IV][/us/pl/96/533], §§ 403, 404(a), Dec. 16, 1980, [94 Stat. 3150][/us/stat/94/3150]; [Pub. L. 97–113, title V, § 503][/us/pl/97/113/s503], Dec. 29, 1981, [95 Stat. 1539][/us/stat/95/1539]; [Pub. L. 99–83, title IV, § 404][/us/pl/99/83/s404], Aug. 8, 1985, [99 Stat. 219][/us/stat/99/219].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 492, as added [Pub. L. 94–161, title I][/us/pl/94/161/tI], § 101(3), Dec. 20, 1975, [89 Stat. 849][/us/stat/89/849]; amended [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 119, Aug. 3, 1977, [91 Stat. 541][/us/stat/91/541]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 118(b), Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 115, Aug. 14, 1979, [93 Stat. 365][/us/stat/93/365]; [Pub. L. 96–533, title IV][/us/pl/96/533/tIV], §§ 403, 404(a), Dec. 16, 1980, [94 Stat. 3150][/us/stat/94/3150]; [Pub. L. 97–113, title V][/us/pl/97/113/tV], § 503, Dec. 29, 1981, [95 Stat. 1539][/us/stat/95/1539]; [Pub. L. 99–83, title IV][/us/pl/99/83/tIV], § 404, Aug. 8, 1985, [99 Stat. 219][/us/stat/99/219].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -37,7 +37,7 @@
 
     1980—Subsec. (a). [Pub. L. 96–533][/us/pl/96/533], §§ 403, 404(a)(1), substituted appropriations authorization of “$25,000,000 for the fiscal year 1981” for such authorization of “$21,800,000 for the fiscal year 1980” and designated existing provisions as subsec. (a).
 
-    Subsec. (b). [Pub. L. 96–533, § 404(a)(2)][/us/pl/96/533/s404/a/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 96–533][/us/pl/96/533], § 404(a)(2), added subsec. (b).
 
     1979—[Pub. L. 96–53][/us/pl/96/53] substituted “$21,800,000” for “$25,000,000” and “1980” for “1979”.
 
@@ -71,26 +71,26 @@
 [/us/usc/t22/s2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2292
 [/us/usc/t22/s2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2292
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs101%2F3
+[/us/pl/94/161/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtI
 [/us/stat/89/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F849
-[/us/pl/95/88/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs119
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F541
-[/us/pl/95/424/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs118%2Fb
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F953
-[/us/pl/96/53/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs115
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F365
-[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIV
 [/us/stat/94/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3150
-[/us/pl/97/113/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs503
+[/us/pl/97/113/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtV
 [/us/stat/95/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1539
-[/us/pl/99/83/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs404
+[/us/pl/99/83/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIV
 [/us/stat/99/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F219
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
-[/us/pl/96/533/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs404%2Fa%2F2
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88

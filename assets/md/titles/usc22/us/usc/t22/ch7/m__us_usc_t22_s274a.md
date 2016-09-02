@@ -27,7 +27,7 @@
 
         In view of the urgency of the problem, the Congress finds and declares that the provision by the United States of adequate financial and other support for the international biological program is a matter of first priority.
 
-([Pub. L. 91–438, § 1][/us/pl/91/438/s1], Oct. 7, 1970, [84 Stat. 889][/us/stat/84/889].)
+([Pub. L. 91–438][/us/pl/91/438], § 1, Oct. 7, 1970, [84 Stat. 889][/us/stat/84/889].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/91/438/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F438%2Fs1
+[/us/pl/91/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F438
 [/us/stat/84/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F889
 
 

@@ -39,7 +39,7 @@
 
         (3) The Agency 1 shall suspend payments under any such grant which remains in noncompliance 90 days after notification under paragraph (2).
 
-([Pub. L. 102–138, title II, § 212][/us/pl/102/138/s212], Oct. 28, 1991, [105 Stat. 695][/us/stat/105/695]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(b), Oct. 21, 1998, [112 Stat. 2681–787][/us/stat/112/2681-787].)
+([Pub. L. 102–138, title II][/us/pl/102/138/tII], § 212, Oct. 28, 1991, [105 Stat. 695][/us/stat/105/695]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(b), Oct. 21, 1998, [112 Stat. 2681–787][/us/stat/112/2681-787].)
 
  __References in Text__ 
 
@@ -51,19 +51,19 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1335(b)(1)][/us/pl/105/277/s1335/b/1], (2), substituted “Department of State” for “United States Information Agency” and inserted “for carrying out its overseas public diplomacy functions” after “grants”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(1), (2), substituted “Department of State” for “United States Information Agency” and inserted “for carrying out its overseas public diplomacy functions” after “grants”.
 
-    Subsec. (b). [Pub. L. 105–277, § 1335(b)(1)][/us/pl/105/277/s1335/b/1], (3)(A), in introductory provisions, substituted “Department of State” for “United States Information Agency” and “an overseas public diplomacy grant” for “a grant”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(1), (3)(A), in introductory provisions, substituted “Department of State” for “United States Information Agency” and “an overseas public diplomacy grant” for “a grant”.
 
-    Subsec. (b)(1). [Pub. L. 105–277, § 1335(b)(3)(B)][/us/pl/105/277/s1335/b/3/B], inserted “such” after “(1)”.
+    Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(3)(B), inserted “such” after “(1)”.
 
-    Subsec. (c)(1). [Pub. L. 105–277, § 1335(b)(1)][/us/pl/105/277/s1335/b/1], (4), inserted “overseas public diplomacy” before “grants” and substituted “Department of State” for “United States Information Agency” in two places.
+    Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(1), (4), inserted “overseas public diplomacy” before “grants” and substituted “Department of State” for “United States Information Agency” in two places.
 
-    Subsec. (c)(2). [Pub. L. 105–277, § 1335(b)(1)][/us/pl/105/277/s1335/b/1], substituted “Department of State” for “United States Information Agency”.
+    Subsec. (c)(2). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(1), substituted “Department of State” for “United States Information Agency”.
 
-    Subsec. (c)(3). [Pub. L. 105–277, § 1335(b)(5)][/us/pl/105/277/s1335/b/5], inserted “such” before “grant”.
+    Subsec. (c)(3). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(5), inserted “such” before “grant”.
 
-    Subsec. (d). [Pub. L. 105–277, § 1335(b)(6)][/us/pl/105/277/s1335/b/6], struck out heading and text of subsec. (d). Text read as follows: “Not later than 90 days after October 28, 1991, the Director of the United States Information Agency shall submit a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on United States Information Agency action to comply with subsection (a) of this section.”
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1335(b)(6), struck out heading and text of subsec. (d). Text read as follows: “Not later than 90 days after October 28, 1991, the Director of the United States Information Agency shall submit a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on United States Information Agency action to comply with subsection (a) of this section.”
 
  __Effective Date of 1998 Amendment__ 
 
@@ -77,20 +77,20 @@
 ----------
 
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
-[/us/pl/102/138/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs212
+[/us/pl/102/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtII
 [/us/stat/105/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F695
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-787
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
-[/us/pl/105/277/s1335/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F1
-[/us/pl/105/277/s1335/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F1
-[/us/pl/105/277/s1335/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F3%2FB
-[/us/pl/105/277/s1335/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F1
-[/us/pl/105/277/s1335/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F1
-[/us/pl/105/277/s1335/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F5
-[/us/pl/105/277/s1335/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fb%2F6
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

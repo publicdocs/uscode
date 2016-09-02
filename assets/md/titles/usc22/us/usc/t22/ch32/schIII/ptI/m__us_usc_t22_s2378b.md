@@ -111,7 +111,7 @@
 
             The term “Palestinian Authority” means the interim Palestinian administrative organization that governs part of the West Bank and all of the Gaza Strip (or any successor Palestinian governing entity), including the Palestinian Legislative Council.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620K, as added, [Pub. L. 109–446, § 2(b)(2)][/us/pl/109/446/s2/b/2], Dec. 21, 2006, [120 Stat. 3318][/us/stat/120/3318].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620K, as added, [Pub. L. 109–446][/us/pl/109/446], § 2(b)(2), Dec. 21, 2006, [120 Stat. 3318][/us/stat/120/3318].)
 
  __References in Text__ 
 
@@ -336,7 +336,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t8/s1189/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/109/446/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F446%2Fs2%2Fb%2F2
+[/us/pl/109/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F446
 [/us/stat/120/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3318
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

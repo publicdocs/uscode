@@ -41,7 +41,7 @@
 
         It is the sense of the Congress that the President should pursue a policy which seeks a regional negotiated solution to the issue of nuclear non-proliferation in South Asia at the earliest possible time, including a protocol to be signed by all nuclear weapons states, prohibiting nuclear attacks by nuclear weapons states on countries in the region. Such a policy should have as its ultimate goal concurrent accession by Pakistan and India to the Nuclear Non-Proliferation Treaty, and should also include as needed a phased approach to that goal through a series of agreements among the parties on nuclear issues, such as the agreement reached by Pakistan and India not to attack one another’s nuclear facilities.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620F, as added [Pub. L. 102–391, title V, § 585(a)][/us/pl/102/391/s585/a], Oct. 6, 1992, [106 Stat. 1688][/us/stat/106/1688]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2219(b), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817]; [Pub. L. 113–188, title XIV, § 1401][/us/pl/113/188/s1401], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620F, as added [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 585(a), Oct. 6, 1992, [106 Stat. 1688][/us/stat/106/1688]; amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2219(b), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817]; [Pub. L. 113–188, title XIV][/us/pl/113/188/tXIV], § 1401, Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
 
  __Amendments__ 
 
@@ -65,11 +65,11 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/391/s585/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs585%2Fa
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1688
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-817
-[/us/pl/113/188/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1401
+[/us/pl/113/188/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXIV
 [/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

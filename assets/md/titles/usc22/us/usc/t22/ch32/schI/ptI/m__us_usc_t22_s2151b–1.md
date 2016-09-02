@@ -39,7 +39,7 @@
 
             Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-([Pub. L. 106–570, title I, § 103][/us/pl/106/570/s103], Dec. 27, 2000, [114 Stat. 3039][/us/stat/114/3039].)
+([Pub. L. 106–570, title I][/us/pl/106/570/tI], § 103, Dec. 27, 2000, [114 Stat. 3039][/us/stat/114/3039].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–570, title I, § 102][/us/pl/106/570/s102], Dec. 27, 2000, [114 Stat. 3039][/us/stat/114/3039], provided that: 
+[Pub. L. 106–570, title I][/us/pl/106/570/tI], § 102, Dec. 27, 2000, [114 Stat. 3039][/us/stat/114/3039], provided that: 
 
 > “Congress makes the following findings:
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/106/570/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2Fs103
+[/us/pl/106/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtI
 [/us/stat/114/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3039
-[/us/pl/106/570/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2Fs102
+[/us/pl/106/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtI
 [/us/stat/114/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3039
 
 

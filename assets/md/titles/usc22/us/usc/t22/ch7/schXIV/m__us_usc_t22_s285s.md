@@ -19,7 +19,7 @@
 
     (b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated without fiscal year limitation $814,286,250 for payment by the Secretary of the Treasury.
 
-([Pub. L. 89–369, § 22][/us/pl/89/369/s22], as added [Pub. L. 95–118, title V, § 501][/us/pl/95/118/s501], Oct. 3, 1977, [91 Stat. 1068][/us/stat/91/1068]; amended [Pub. L. 97–35, title XIII, § 1353][/us/pl/97/35/s1353], Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
+([Pub. L. 89–369][/us/pl/89/369], § 22, as added [Pub. L. 95–118, title V][/us/pl/95/118/tV], § 501, Oct. 3, 1977, [91 Stat. 1068][/us/stat/91/1068]; amended [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1353, Aug. 13, 1981, [95 Stat. 745][/us/stat/95/745].)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/89/369/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs22
-[/us/pl/95/118/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs501
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/95/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtV
 [/us/stat/91/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1068
-[/us/pl/97/35/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1353
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F745
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

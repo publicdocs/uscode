@@ -77,7 +77,7 @@
 
         (2) “provided by the United States Government” includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 634, Sept. 4, 1961, [75 Stat. 455][/us/stat/75/455]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 302(e), (f), Aug. 1, 1962, [76 Stat. 262][/us/stat/76/262]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 302(c), Sept. 19, 1966, [80 Stat. 807][/us/stat/80/807]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(h), Nov. 14, 1967, [81 Stat. 460][/us/stat/81/460]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(a), (b)(4), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 91–175][/us/pl/91/175], pt. III, § 305, Dec. 30, 1969, [83 Stat. 821][/us/stat/83/821]; [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(a)(3), (c)(2), Feb. 7, 1972, [86 Stat. 28][/us/stat/86/28], 32; [Pub. L. 93–189, § 17][/us/pl/93/189/s17], Dec. 17, 1973, [87 Stat. 724][/us/stat/87/724]; [Pub. L. 93–559, § 14][/us/pl/93/559/s14], Dec. 30, 1974, [88 Stat. 1799][/us/stat/88/1799]; [Pub. L. 94–273, § 6(1)][/us/pl/94/273/s6/1], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–329, title II, § 209(b)][/us/pl/94/329/s209/b], June 30, 1976, [90 Stat. 739][/us/stat/90/739]; [Pub. L. 95–424, title V, § 502(a)(1)][/us/pl/95/424/s502/a/1], (2), Oct. 6, 1978, [92 Stat. 957][/us/stat/92/957]; [Pub. L. 96–533, title VII, § 707][/us/pl/96/533/s707], Dec. 16, 1980, [94 Stat. 3159][/us/stat/94/3159]; [Pub. L. 97–113, title VII, § 733][/us/pl/97/113/s733], Dec. 29, 1981, [95 Stat. 1559][/us/stat/95/1559]; [Pub. L. 99–83, title III, § 312(b)][/us/pl/99/83/s312/b], Aug. 8, 1985, [99 Stat. 216][/us/stat/99/216]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 634, Sept. 4, 1961, [75 Stat. 455][/us/stat/75/455]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 302(e), (f), Aug. 1, 1962, [76 Stat. 262][/us/stat/76/262]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 302(c), Sept. 19, 1966, [80 Stat. 807][/us/stat/80/807]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(h), Nov. 14, 1967, [81 Stat. 460][/us/stat/81/460]; [Pub. L. 90–629][/us/pl/90/629], ch. 4, § 45(a), (b)(4), Oct. 22, 1968, [82 Stat. 1327][/us/stat/82/1327]; [Pub. L. 91–175][/us/pl/91/175], pt. III, § 305, Dec. 30, 1969, [83 Stat. 821][/us/stat/83/821]; [Pub. L. 92–226][/us/pl/92/226], pt. III, § 304(a)(3), (c)(2), Feb. 7, 1972, [86 Stat. 28][/us/stat/86/28], 32; [Pub. L. 93–189][/us/pl/93/189], § 17, Dec. 17, 1973, [87 Stat. 724][/us/stat/87/724]; [Pub. L. 93–559][/us/pl/93/559], § 14, Dec. 30, 1974, [88 Stat. 1799][/us/stat/88/1799]; [Pub. L. 94–273][/us/pl/94/273], § 6(1), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 209(b), June 30, 1976, [90 Stat. 739][/us/stat/90/739]; [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 502(a)(1), (2), Oct. 6, 1978, [92 Stat. 957][/us/stat/92/957]; [Pub. L. 96–533, title VII][/us/pl/96/533/tVII], § 707, Dec. 16, 1980, [94 Stat. 3159][/us/stat/94/3159]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 733, Dec. 29, 1981, [95 Stat. 1559][/us/stat/95/1559]; [Pub. L. 99–83, title III][/us/pl/99/83/tIII], § 312(b), Aug. 8, 1985, [99 Stat. 216][/us/stat/99/216]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -101,29 +101,29 @@
 
     1985—Subsec. (a)(1)(B). [Pub. L. 99–83][/us/pl/99/83] inserted provisions relating to evaluation of whether programs are benefiting the poor majority.
 
-    1981—Subsec. (a). [Pub. L. 97–113, § 733(1)][/us/pl/97/113/s733/1], substituted provision requiring information regarding American foreign policy and effectiveness of assistance to other countries for provision requiring information regarding United States development policy and effectiveness of assistance to developing countries and provision directing the Chairman prepare and transmit to Congress as part of the annual presentation materials for foreign assistance a report as described in this subsection for provision directing the Chairman to transmit a report on foreign assistance for the fiscal year ending the previous Sept. 30.
+    1981—Subsec. (a). [Pub. L. 97–113][/us/pl/97/113], § 733(1), substituted provision requiring information regarding American foreign policy and effectiveness of assistance to other countries for provision requiring information regarding United States development policy and effectiveness of assistance to developing countries and provision directing the Chairman prepare and transmit to Congress as part of the annual presentation materials for foreign assistance a report as described in this subsection for provision directing the Chairman to transmit a report on foreign assistance for the fiscal year ending the previous Sept. 30.
 
-    Subsec. (a)(1)(B). [Pub. L. 97–113, § 733(2)][/us/pl/97/113/s733/2], struck out “the progress developing countries are making toward achieving those objectives which are indicative of improved well-being of the poor majority, which objectives shall include but not be limited to” before “increasing life expectancy and literacy”.
+    Subsec. (a)(1)(B). [Pub. L. 97–113][/us/pl/97/113], § 733(2), struck out “the progress developing countries are making toward achieving those objectives which are indicative of improved well-being of the poor majority, which objectives shall include but not be limited to” before “increasing life expectancy and literacy”.
 
-    Subsec. (a)(2)(F). [Pub. L. 97–113, § 733(3)][/us/pl/97/113/s733/3], added subpar. (F).
+    Subsec. (a)(2)(F). [Pub. L. 97–113][/us/pl/97/113], § 733(3), added subpar. (F).
 
-    Subsec. (a)(4). [Pub. L. 97–113, § 733(4)][/us/pl/97/113/s733/4], struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
+    Subsec. (a)(4). [Pub. L. 97–113][/us/pl/97/113], § 733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
 
-    Subsec. (a)(7). [Pub. L. 97–113, § 733(5)][/us/pl/97/113/s733/5], struck out “and” after the semicolon.
+    Subsec. (a)(7). [Pub. L. 97–113][/us/pl/97/113], § 733(5), struck out “and” after the semicolon.
 
-    Subsec. (a)(8). [Pub. L. 97–113, § 733(6)][/us/pl/97/113/s733/6], substituted provision that the report contain the amount of all foreign currencies acquired without payment of dollars on hand of each foreign country as of Sept. 30 of the preceding fiscal year for provision that the report contain such other matters relating to foreign assistance provided under subchapter I of this chapter as the Chairman of the Development Coordination Committee considers appropriate.
+    Subsec. (a)(8). [Pub. L. 97–113][/us/pl/97/113], § 733(6), substituted provision that the report contain the amount of all foreign currencies acquired without payment of dollars on hand of each foreign country as of Sept. 30 of the preceding fiscal year for provision that the report contain such other matters relating to foreign assistance provided under subchapter I of this chapter as the Chairman of the Development Coordination Committee considers appropriate.
 
-    Subsec. (a)(9) to (12). [Pub. L. 97–113, § 733(6)][/us/pl/97/113/s733/6], added pars. (9) to (12).
+    Subsec. (a)(9) to (12). [Pub. L. 97–113][/us/pl/97/113], § 733(6), added pars. (9) to (12).
 
     1980—Subsec. (a)(6) to (8). [Pub. L. 96–533][/us/pl/96/533] added pars. (6) and (7) and redesignated former par. (6) as (8).
 
-    1978—Subsec. (a). [Pub. L. 95–424, § 502(a)(2)][/us/pl/95/424/s502/a/2], added subsec. (a).
+    1978—Subsec. (a). [Pub. L. 95–424][/us/pl/95/424], § 502(a)(2), added subsec. (a).
 
-    Subsec. (b). [Pub. L. 95–424, § 502(a)(2)][/us/pl/95/424/s502/a/2], substituted definitions of “foreign assistance” and “provided by the United States Government” for provisions requiring public disclosure of all information concerning operations under this chapter except that which is deemed incompatible with the Security of the United States.
+    Subsec. (b). [Pub. L. 95–424][/us/pl/95/424], § 502(a)(2), substituted definitions of “foreign assistance” and “provided by the United States Government” for provisions requiring public disclosure of all information concerning operations under this chapter except that which is deemed incompatible with the Security of the United States.
 
-    Subsec. (c). [Pub. L. 95–424, § 502(a)(1)][/us/pl/95/424/s502/a/1], struck out “(c)” at beginning of subsection and transferred the remainder of subsection to [section 2393a of this title][/us/usc/t22/s2393a].
+    Subsec. (c). [Pub. L. 95–424][/us/pl/95/424], § 502(a)(1), struck out “(c)” at beginning of subsection and transferred the remainder of subsection to [section 2393a of this title][/us/usc/t22/s2393a].
 
-    Subsecs. (d) to (h). [Pub. L. 95–424, § 502(a)(2)][/us/pl/95/424/s502/a/2], struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President’s recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating to military assistance to South Vietnam, Thailand, and Laos.
+    Subsecs. (d) to (h). [Pub. L. 95–424][/us/pl/95/424], § 502(a)(2), struck out subsecs. (d), relating to presentation of programs to Congressional committees; (e), relating to inclusion of a specific plan in the President’s recommendations to Congress; (f), relating to a report by the President to Congress showing the status of each outstanding loan; (g), relating to a report by the President to Congress showing debt-servicing problems; and (h), relating to military assistance to South Vietnam, Thailand, and Laos.
 
     1976—Subsec. (d). [Pub. L. 94–329][/us/pl/94/329] struck out provisions under which sales pursuant to the Foreign Assistance Act of 1961 or any other Act were included in the enumeration of factors used in developing, for purpose of presentation material, a chart showing the full extent of United States assistance planned or expected for each such country for the next fiscal year.
 
@@ -135,25 +135,25 @@
 
     Subsec. (g). [Pub. L. 93–189][/us/pl/93/189] added subsec. (g).
 
-    1972—Subsec. (a). [Pub. L. 92–226, § 304(c)(2)][/us/pl/92/226/s304/c/2], struck out provisions for annual report to Congress concerning operations under this chapter, including information on the progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of [section 2417 of this title][/us/usc/t22/s2417].
+    1972—Subsec. (a). [Pub. L. 92–226][/us/pl/92/226], § 304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information on the progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of [section 2417 of this title][/us/usc/t22/s2417].
 
-    Subsec. (d). [Pub. L. 92–226, § 304(a)(3)][/us/pl/92/226/s304/a/3], substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
+    Subsec. (d). [Pub. L. 92–226][/us/pl/92/226], § 304(a)(3), substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
 
     1969—Subsec. (a). [Pub. L. 91–175][/us/pl/91/175] excluded operations reported to Congress pursuant to [section 2200a of this title][/us/usc/t22/s2200a] from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
 
-    1968—Subsec. (d). [Pub. L. 90–629, § 45(b)(4)][/us/pl/90/629/s45/b/4], required the presentation material to include in the chart foreign assistance data under any other Act.
+    1968—Subsec. (d). [Pub. L. 90–629][/us/pl/90/629], § 45(b)(4), required the presentation material to include in the chart foreign assistance data under any other Act.
 
-    Subsec. (g). [Pub. L. 90–629, § 45(a)][/us/pl/90/629/s45/a], repealed provisions of subsec. (g) which related to exports of defense articles, contents of reports, and utilization of statistics and information of Government agencies, and is now covered by [section 2776(a) of this title][/us/usc/t22/s2776/a].
+    Subsec. (g). [Pub. L. 90–629][/us/pl/90/629], § 45(a), repealed provisions of subsec. (g) which related to exports of defense articles, contents of reports, and utilization of statistics and information of Government agencies, and is now covered by [section 2776(a) of this title][/us/usc/t22/s2776/a].
 
-    1967—Subsec. (d). [Pub. L. 90–137, § 302(h)(1)][/us/pl/90/137/s302/h/1], inserted introductory provision for presentation of programs to Congressional Committees in connection with requests for appropriations for fiscal year 1969, penultimate provision for inclusion of foreign assistance data (an assistance chart, contribution details, and a statement of projects), and provision for notification as to findings and reasons therefor under section 2311 or 2341(c) of this title.
+    1967—Subsec. (d). [Pub. L. 90–137][/us/pl/90/137], § 302(h)(1), inserted introductory provision for presentation of programs to Congressional Committees in connection with requests for appropriations for fiscal year 1969, penultimate provision for inclusion of foreign assistance data (an assistance chart, contribution details, and a statement of projects), and provision for notification as to findings and reasons therefor under section 2311 or 2341(c) of this title.
 
-    Subsecs. (g), (h). [Pub. L. 90–137, § 302(h)(2)][/us/pl/90/137/s302/h/2], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 90–137][/us/pl/90/137], § 302(h)(2), added subsecs. (g) and (h).
 
     1966—Subsec. (f). [Pub. L. 89–583][/us/pl/89/583] added subsec. (f).
 
-    1962—Subsec. (a). [Pub. L. 87–565, § 302(e)][/us/pl/87/565/s302/e], required reports to include information on progress under the freedom of navigation and nondiscriminatory declaration contained in [section 2151 of this title][/us/usc/t22/s2151].
+    1962—Subsec. (a). [Pub. L. 87–565][/us/pl/87/565], § 302(e), required reports to include information on progress under the freedom of navigation and nondiscriminatory declaration contained in [section 2151 of this title][/us/usc/t22/s2151].
 
-    Subsec. (d). [Pub. L. 87–565, § 302(f)][/us/pl/87/565/s302/f], substituted “At the end of each fiscal year” and “fiscal year” for “In January of each year” and “preceding twelve months”, respectively, and provided that the presentation material submitted to Congress during its consideration of amendments to this chapter, or of any Act appropriating funds pursuant to authorizations contained in this chapter, should include a comparison of the current fiscal year programs and activities with those presented to Congress in the previous year and an explanation of any substantial changes.
+    Subsec. (d). [Pub. L. 87–565][/us/pl/87/565], § 302(f), substituted “At the end of each fiscal year” and “fiscal year” for “In January of each year” and “preceding twelve months”, respectively, and provided that the presentation material submitted to Congress during its consideration of amendments to this chapter, or of any Act appropriating funds pursuant to authorizations contained in this chapter, should include a comparison of the current fiscal year programs and activities with those presented to Congress in the previous year and an explanation of any substantial changes.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -183,7 +183,7 @@
 
  __Annual Report on Economic and Social Growth__ 
 
-    [Pub. L. 104–107, title V, § 574][/us/pl/104/107/s574], Feb. 12, 1996, [110 Stat. 749][/us/stat/110/749], required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of [Pub. L. 104–107][/us/pl/104/107], prior to repeal by [Pub. L. 107–228, div. A, title VI, § 671(2)][/us/pl/107/228/s671/2], Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407].
+    [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 574, Feb. 12, 1996, [110 Stat. 749][/us/stat/110/749], required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of [Pub. L. 104–107][/us/pl/104/107], prior to repeal by [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 671(2), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407].
 
  __Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs__ 
 
@@ -217,23 +217,23 @@
 [/us/stat/83/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F821
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F28
-[/us/pl/93/189/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs17
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F724
-[/us/pl/93/559/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs14
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1799
-[/us/pl/94/273/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs6%2F1
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
-[/us/pl/94/329/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs209%2Fb
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F739
-[/us/pl/95/424/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fa%2F1
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F957
-[/us/pl/96/533/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs707
+[/us/pl/96/533/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtVII
 [/us/stat/94/3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3159
-[/us/pl/97/113/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1559
-[/us/pl/99/83/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs312%2Fb
+[/us/pl/99/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIII
 [/us/stat/99/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F216
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
@@ -251,38 +251,38 @@
 [/us/usc/t22/s2393a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393a
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/97/113/s733/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F1
-[/us/pl/97/113/s733/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F2
-[/us/pl/97/113/s733/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F3
-[/us/pl/97/113/s733/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F4
-[/us/pl/97/113/s733/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F5
-[/us/pl/97/113/s733/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F6
-[/us/pl/97/113/s733/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs733%2F6
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
-[/us/pl/95/424/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fa%2F2
-[/us/pl/95/424/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fa%2F2
-[/us/pl/95/424/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fa%2F1
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/usc/t22/s2393a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393a
-[/us/pl/95/424/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs502%2Fa%2F2
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
-[/us/pl/92/226/s304/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs304%2Fc%2F2
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/usc/t22/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2417
-[/us/pl/92/226/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs304%2Fa%2F3
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/usc/t22/s2200a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200a
-[/us/pl/90/629/s45/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs45%2Fb%2F4
-[/us/pl/90/629/s45/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs45%2Fa
+[/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
+[/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/usc/t22/s2776/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fa
-[/us/pl/90/137/s302/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fh%2F1
-[/us/pl/90/137/s302/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fh%2F2
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
-[/us/pl/87/565/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565%2Fs302%2Fe
+[/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/87/565/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565%2Fs302%2Ff
+[/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
@@ -301,10 +301,10 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/90/629/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs46
 [/us/usc/t22/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2341
-[/us/pl/104/107/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs574
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F749
 [/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
-[/us/pl/107/228/s671/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs671%2F2
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1407
 [/us/usc/t22/s2151b/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%2Fc%2F3
 [/us/pl/99/83/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs305%2Fb

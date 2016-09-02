@@ -73,7 +73,7 @@
 
         (4) the Comptroller General of the United States has access to all documents of the Bank on the same terms and under the same conditions as such documents are made available to the United States Executive Director of the Bank.
 
-([Pub. L. 86–147, § 33][/us/pl/86/147/s33], as added [Pub. L. 101–240, title II, § 201][/us/pl/101/240/s201], Dec. 19, 1989, [103 Stat. 2496][/us/stat/103/2496].)
+([Pub. L. 86–147][/us/pl/86/147], § 33, as added [Pub. L. 101–240, title II][/us/pl/101/240/tII], § 201, Dec. 19, 1989, [103 Stat. 2496][/us/stat/103/2496].)
 
 ----------
 
@@ -82,8 +82,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs33
-[/us/pl/101/240/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs201
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/101/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtII
 [/us/stat/103/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2496
 
 

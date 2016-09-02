@@ -17,7 +17,7 @@
 
     Of each amount transferred to the Bureau of Educational and Cultural Affairs out of appropriations other than appropriations under the heading “Educational and Cultural Exchange Programs” for support of an educational or cultural exchange program, notwithstanding any other provision of law, not more than 7.5 percent shall be made available to cover administrative expenses incurred in connection with support of the program. Amounts made available to cover administrative expenses shall be credited to the appropriations under the heading “Educational and Cultural Exchange Programs” and shall remain available until expended.
 
-([Pub. L. 87–256, § 114][/us/pl/87/256/s114], as added [Pub. L. 107–77, title IV, § 406][/us/pl/107/77/s406], Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].)
+([Pub. L. 87–256][/us/pl/87/256], § 114, as added [Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 406, Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/256/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs114
-[/us/pl/107/77/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs406
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
 
 

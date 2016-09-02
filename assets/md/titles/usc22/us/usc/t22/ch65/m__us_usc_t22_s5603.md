@@ -23,7 +23,7 @@
 
     that the President determines would assist the government of any foreign country in acquiring the capability to develop, produce, stockpile, deliver, or use chemical or biological weapons.
 
-([Pub. L. 102–182, title III, § 304(a)][/us/pl/102/182/s304/a], Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246].)
+([Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 304(a), Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/102/182/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs304%2Fa
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320

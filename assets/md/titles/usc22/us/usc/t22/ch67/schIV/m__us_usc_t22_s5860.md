@@ -23,7 +23,7 @@
 
     (3) a discussion of how highly enriched uranium stocks could be diluted for reactor fuel.
 
-([Pub. L. 102–511, title V, § 510][/us/pl/102/511/s510], Oct. 24, 1992, [106 Stat. 3344][/us/stat/106/3344].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 510, Oct. 24, 1992, [106 Stat. 3344][/us/stat/106/3344].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs510
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3344
 
 

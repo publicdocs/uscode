@@ -95,7 +95,7 @@
 
         (2) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 111–73, title III, § 302][/us/pl/111/73/s302], Oct. 15, 2009, [123 Stat. 2077][/us/stat/123/2077].)
+([Pub. L. 111–73, title III][/us/pl/111/73/tIII], § 302, Oct. 15, 2009, [123 Stat. 2077][/us/stat/123/2077].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t22/s8423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8423%2Fc
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/stat/123/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1906
-[/us/pl/111/73/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs302
+[/us/pl/111/73/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtIII
 [/us/stat/123/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2077
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/stat/123/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1906

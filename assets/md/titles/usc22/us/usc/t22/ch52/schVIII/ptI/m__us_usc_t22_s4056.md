@@ -97,7 +97,7 @@
 
             (C) any military or naval service performed prior to 1977 by any individual who first became a participant before October 17, 1983, or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under [section 4045(e) of this title][/us/usc/t22/s4045/e].
 
-([Pub. L. 96–465, title I, § 816][/us/pl/96/465/s816], Oct. 17, 1980, [94 Stat. 2118][/us/stat/94/2118]; Ex. Ord. No. 12446, § 4(b), (c), Oct. 17, 1983, 48 F.R. 48444, 48445; [Pub. L. 99–335, title IV, § 402(a)(2)][/us/pl/99/335/s402/a/2], June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 101–246, title I, § 145(a)][/us/pl/101/246/s145/a], Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 816, Oct. 17, 1980, [94 Stat. 2118][/us/stat/94/2118]; Ex. Ord. No. 12446, § 4(b), (c), Oct. 17, 1983, 48 F.R. 48444, 48445; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(2), June 6, 1986, [100 Stat. 609][/us/stat/100/609]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 145(a), Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36].)
 
  __Amendment of Section__ 
 
@@ -172,11 +172,11 @@
 [/us/usc/t5/s8332/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332%2Fj
 [/us/usc/t22/s4045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fe
 [/us/usc/t22/s4045/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fe
-[/us/pl/96/465/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs816
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2118
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/101/246/s145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs145%2Fa
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F36
 [/us/usc/t22/s4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067
 [/us/usc/t22/s4056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4056%2Fa

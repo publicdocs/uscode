@@ -195,7 +195,7 @@
 
         (5) the term “unsafeguarded special nuclear material” has the meaning given that term in [section 6305(8) of this title][/us/usc/t22/s6305/8].
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40, as added [Pub. L. 99–399, title V, § 509(a)][/us/pl/99/399/s509/a], Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874]; amended [Pub. L. 101–222, § 2(a)][/us/pl/101/222/s2/a], Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892]; [Pub. L. 102–138, title III, § 321][/us/pl/102/138/s321], Oct. 28, 1991, [105 Stat. 710][/us/stat/105/710]; [Pub. L. 103–236, title VIII, § 822(a)(2)][/us/pl/103/236/s822/a/2], Apr. 30, 1994, [108 Stat. 511][/us/stat/108/511]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XIII, § 1303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–511; [Pub. L. 107–228, div. B, title XII, § 1204][/us/pl/107/228/s1204], Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427]; [Pub. L. 111–195, title I, § 107(a)(3)][/us/pl/111/195/s107/a/3], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337]; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40, as added [Pub. L. 99–399, title V][/us/pl/99/399/tV], § 509(a), Aug. 27, 1986, [100 Stat. 874][/us/stat/100/874]; amended [Pub. L. 101–222][/us/pl/101/222], § 2(a), Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892]; [Pub. L. 102–138, title III][/us/pl/102/138/tIII], § 321, Oct. 28, 1991, [105 Stat. 710][/us/stat/105/710]; [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 822(a)(2), Apr. 30, 1994, [108 Stat. 511][/us/stat/108/511]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XIII, § 1303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–511; [Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1204, Sept. 30, 2002, [116 Stat. 1427][/us/stat/116/1427]; [Pub. L. 111–195, title I][/us/pl/111/195/tI], § 107(a)(3), July 1, 2010, [124 Stat. 1337][/us/stat/124/1337]; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(1), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -205,7 +205,7 @@
 
     Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), is classified to subsec. (d) of this section.
 
-    Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in [Public Law 98–473][/us/pl/98/473]), referred to in subsec. (f)(2)(B), is [Pub. L. 98–473, title I, § 101(h)][/us/pl/98/473/s101/h] \[title VIII, § 8066(c)(3)–(7)\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1936, 1937, which is not classified to the Code.
+    Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in [Public Law 98–473][/us/pl/98/473]), referred to in subsec. (f)(2)(B), is [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(h) \[title VIII, § 8066(c)(3)–(7)\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1936, 1937, which is not classified to the Code.
 
     The National Security Act of 1947, referred to in subsec. (h), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -221,11 +221,11 @@
 
     1999—Subsec. (k). [Pub. L. 106–113][/us/pl/106/113] inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
-    1994—Subsec. (d). [Pub. L. 103–236, § 822(a)(2)(A)][/us/pl/103/236/s822/a/2/A], inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
+    1994—Subsec. (d). [Pub. L. 103–236][/us/pl/103/236], § 822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
 
-    Subsec. (l). [Pub. L. 103–236, § 822(a)(2)(B)][/us/pl/103/236/s822/a/2/B], amended subsec. (l) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
+    Subsec. (l). [Pub. L. 103–236][/us/pl/103/236], § 822(a)(2)(B), amended subsec. (l) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
 
-    1991—Subsec. (f). [Pub. L. 102–138, § 321][/us/pl/102/138/s321], designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of [Pub. L. 102–138, § 321(1)][/us/pl/102/138/s321/1], as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
+    1991—Subsec. (f). [Pub. L. 102–138][/us/pl/102/138], § 321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of [Pub. L. 102–138][/us/pl/102/138], § 321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
 
     1989—[Pub. L. 101–222][/us/pl/101/222] substituted “Transactions with” for “Exports to” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -260,21 +260,21 @@
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
 [/us/usc/t22/s6305/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F8
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/99/399/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs509%2Fa
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F874
-[/us/pl/101/222/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs2%2Fa
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1892
-[/us/pl/102/138/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs321
+[/us/pl/102/138/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtIII
 [/us/stat/105/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F710
-[/us/pl/103/236/s822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs822%2Fa%2F2
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F511
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1204
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1427
-[/us/pl/111/195/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs107%2Fa%2F3
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1337
-[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -283,7 +283,7 @@
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/98/473/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fh
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1904
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -293,10 +293,10 @@
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/103/236/s822/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs822%2Fa%2F2%2FA
-[/us/pl/103/236/s822/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs822%2Fa%2F2%2FB
-[/us/pl/102/138/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs321
-[/us/pl/102/138/s321/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs321%2F1
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831

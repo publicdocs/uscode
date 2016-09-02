@@ -41,11 +41,11 @@
 
         In accordance with [section 2905(4) of this title][/us/usc/t22/s2905/4], the Secretary shall pay out of the Fund such amounts, including expenses of the Commission, as the Commission considers necessary to carry out the provisions of this chapter; except that amounts in the Fund, other than amounts which have been appropriated and amounts received (including amounts earned as interest on, and proceeds from the sale or redemption of, obligations purchased with amounts received) by the Commission pursuant to sections 2905(2) and (3) of this title, shall be subject to the appropriation process.
 
-([Pub. L. 94–118, § 7][/us/pl/94/118/s7], Oct. 20, 1975, [89 Stat. 606][/us/stat/89/606]; [Pub. L. 94–350, title IV, § 401(3)(B)][/us/pl/94/350/s401/3/B], July 12, 1976, [90 Stat. 833][/us/stat/90/833]; [Pub. L. 97–241, title V, § 503(b)][/us/pl/97/241/s503/b], Aug. 24, 1982, [96 Stat. 298][/us/stat/96/298]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 404(b)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101.)
+([Pub. L. 94–118][/us/pl/94/118], § 7, Oct. 20, 1975, [89 Stat. 606][/us/stat/89/606]; [Pub. L. 94–350, title IV][/us/pl/94/350/tIV], § 401(3)(B), July 12, 1976, [90 Stat. 833][/us/stat/90/833]; [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 503(b), Aug. 24, 1982, [96 Stat. 298][/us/stat/96/298]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IV, § 404(b)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101.)
 
  __Codification__ 
 
-    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t22/s2905/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2905%2F4
-[/us/pl/94/118/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs7
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F606
-[/us/pl/94/350/s401/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs401%2F3%2FB
+[/us/pl/94/350/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtIV
 [/us/stat/90/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F833
-[/us/pl/97/241/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs503%2Fb
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F298
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2902%2Fd

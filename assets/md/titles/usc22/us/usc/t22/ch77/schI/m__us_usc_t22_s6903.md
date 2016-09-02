@@ -45,7 +45,7 @@
 
         The term “WTO member” has the meaning given that term in [section 3501(10) of title 19][/us/usc/t19/s3501/10].
 
-([Pub. L. 106–286, div. B, title II, § 204][/us/pl/106/286/s204], Oct. 10, 2000, [114 Stat. 894][/us/stat/114/894].)
+([Pub. L. 106–286, div. B, title II][/us/pl/106/286/dB/tII], § 204, Oct. 10, 2000, [114 Stat. 894][/us/stat/114/894].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t19/s2467/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F4
 [/us/usc/t19/s2467/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F6
 [/us/usc/t19/s3501/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F10
-[/us/pl/106/286/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs204
+[/us/pl/106/286/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtII
 [/us/stat/114/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F894
 
 

@@ -23,7 +23,7 @@
 
         The President is authorized to employ such other personnel as he deems necessary to carry out the provisions and purposes of this chapter, and of such personnel not to exceed ten may be compensated without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, but not in excess of the highest rate of grade 18 of the General Schedule. Such positions shall be in addition to the number authorized by [section 5108 of title 5][/us/usc/t5/s5108].
 
-    (c) __Repealed.__  __[__  __Pub. L. 96–465, title II, § 2205(7)__  __][/us/pl/96/465/s2205/7]__  __,__  __Oct. 17, 1980__  __,__  __[__  __94 Stat. 2160__  __][/us/stat/94/2160]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 96–465, title II__  __][/us/pl/96/465/tII]__  __, § 2205(7),__  __Oct. 17, 1980__  __,__  __[__  __94 Stat. 2160__  __][/us/stat/94/2160]__ 
 
     (d) __Extension of benefits__ 
 
@@ -39,7 +39,7 @@
 
         (4) The Director of the United States Information Agency is authorized to provide for publicity and promotion (including representation) abroad of activities of the type provided for in this chapter, and of similar services and opportunities for interchange not supported by the United States Government.
 
-    (f) __Repealed.__  __[__  __Pub. L. 96–60, title II, § 203(a)(1)__  __][/us/pl/96/60/s203/a/1]__  __,__  __Aug. 15, 1979__  __,__  __[__  __93 Stat. 398__  __][/us/stat/93/398]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 96–60, title II__  __][/us/pl/96/60/tII]__  __, § 203(a)(1),__  __Aug. 15, 1979__  __,__  __[__  __93 Stat. 398__  __][/us/stat/93/398]__ 
 
     (g) __Currency exchange for foreign students and teachers coming temporarily to the United States__ 
 
@@ -53,7 +53,7 @@
 
         (5) As used in [section 2452(b)(10) of this title][/us/usc/t22/s2452/b/10], the term “excess foreign currencies” means foreign currencies, which if acquired by the United States (A) would be in excess of the normal requirements of departments, agencies, and embassies of the United States for such currencies, as determined by the President, and (B) would be available for the use of the United States Government under applicable agreements with the foreign country concerned.
 
-([Pub. L. 87–256, § 104][/us/pl/87/256/s104], Sept. 21, 1961, [75 Stat. 529][/us/stat/75/529]; [Pub. L. 87–793, § 1001(j)][/us/pl/87/793/s1001/j], Oct. 11, 1962, [76 Stat. 865][/us/stat/76/865]; [Pub. L. 89–698, title II, § 203(b)][/us/pl/89/698/s203/b], Oct. 29, 1966, [80 Stat. 1071][/us/stat/80/1071]; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637][/us/stat/91/1637]; [Pub. L. 95–426, title II, § 204(a)][/us/pl/95/426/s204/a], Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973]; [Pub. L. 96–60, title II, § 203(a)(1)][/us/pl/96/60/s203/a/1], Aug. 15, 1979, [93 Stat. 398][/us/stat/93/398]; [Pub. L. 96–465, title II][/us/pl/96/465], §§ 2205(7), 2206(a)(9), Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160], 2162; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 103–236, title II, § 231][/us/pl/103/236/s231], Apr. 30, 1994, [108 Stat. 424][/us/stat/108/424].)
+([Pub. L. 87–256][/us/pl/87/256], § 104, Sept. 21, 1961, [75 Stat. 529][/us/stat/75/529]; [Pub. L. 87–793][/us/pl/87/793], § 1001(j), Oct. 11, 1962, [76 Stat. 865][/us/stat/76/865]; [Pub. L. 89–698, title II][/us/pl/89/698/tII], § 203(b), Oct. 29, 1966, [80 Stat. 1071][/us/stat/80/1071]; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637][/us/stat/91/1637]; [Pub. L. 95–426, title II][/us/pl/95/426/tII], § 204(a), Oct. 7, 1978, [92 Stat. 973][/us/stat/92/973]; [Pub. L. 96–60, title II][/us/pl/96/60/tII], § 203(a)(1), Aug. 15, 1979, [93 Stat. 398][/us/stat/93/398]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], §§ 2205(7), 2206(a)(9), Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160], 2162; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 103–236, title II][/us/pl/103/236/tII], § 231, Apr. 30, 1994, [108 Stat. 424][/us/stat/108/424].)
 
  __References in Text__ 
 
@@ -63,15 +63,15 @@
 
  __Codification__ 
 
-    In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 5108 of title 5][/us/usc/t5/s5108]” substituted for “the Classification Act of 1949, as amended” and “section 505 of the Classification Act of 1949, as amended”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. In the original, [section 1105 of title 5][/us/usc/t5/s1105] read section 505 of the Classification Act of 1949, as amended.
+    In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 5108 of title 5][/us/usc/t5/s5108]” substituted for “the Classification Act of 1949, as amended” and “section 505 of the Classification Act of 1949, as amended”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees. In the original, [section 1105 of title 5][/us/usc/t5/s1105] read section 505 of the Classification Act of 1949, as amended.
 
  __Amendments__ 
 
     1994—Subsec. (e)(4). [Pub. L. 103–236][/us/pl/103/236] inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
 
-    1980—Subsec. (c). [Pub. L. 96–465, § 2205(7)][/us/pl/96/465/s2205/7], struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
+    1980—Subsec. (c). [Pub. L. 96–465][/us/pl/96/465], § 2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
 
-    Subsec. (d). [Pub. L. 96–465, § 2206(a)(9)][/us/pl/96/465/s2206/a/9], among other changes, substituted reference to [section 3950 of this title][/us/usc/t22/s3950] for reference to [section 928 of this title][/us/usc/t22/s928] and struck out provisions relating to the applicability of [section 807 of this title][/us/usc/t22/s807].
+    Subsec. (d). [Pub. L. 96–465][/us/pl/96/465], § 2206(a)(9), among other changes, substituted reference to [section 3950 of this title][/us/usc/t22/s3950] for reference to [section 928 of this title][/us/usc/t22/s928] and struck out provisions relating to the applicability of [section 807 of this title][/us/usc/t22/s807].
 
     1979—Subsec. (f). [Pub. L. 96–60][/us/pl/96/60] struck out subsec. (f) relating to investigation-of-employees requirement.
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 1962 Amendment__ 
 
-    Amendment by [Pub. L. 87–793][/us/pl/87/793] effective on first day of first pay period which begins on or after Oct. 11, 1962, see [Pub. L. 87–793, § 1008][/us/pl/87/793/s1008], Oct. 11, 1962, [76 Stat. 868][/us/stat/76/868].
+    Amendment by [Pub. L. 87–793][/us/pl/87/793] effective on first day of first pay period which begins on or after Oct. 11, 1962, see [Pub. L. 87–793][/us/pl/87/793], § 1008, Oct. 11, 1962, [76 Stat. 868][/us/stat/76/868].
 
  __Transfer of Functions__ 
 
@@ -281,11 +281,11 @@ By virtue of the authority vested in me by section 104 of the Mutual Educational
 ----------
 
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
-[/us/pl/96/465/s2205/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F7
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2160
 [/us/usc/t22/s3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3950
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/96/60/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs203%2Fa%2F1
+[/us/pl/96/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtII
 [/us/stat/93/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F398
 [/us/usc/t22/s2452/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fb%2F10
 [/us/usc/t22/s2452/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fb%2F10
@@ -293,22 +293,22 @@ By virtue of the authority vested in me by section 104 of the Mutual Educational
 [/us/usc/t22/s2452/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fb%2F10
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t22/s2452/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452%2Fb%2F10
-[/us/pl/87/256/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs104
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F529
-[/us/pl/87/793/s1001/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1001%2Fj
+[/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F865
-[/us/pl/89/698/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F698%2Fs203%2Fb
+[/us/pl/89/698/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F698%2FtII
 [/us/stat/80/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1071
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
-[/us/pl/95/426/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs204%2Fa
+[/us/pl/95/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtII
 [/us/stat/92/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F973
-[/us/pl/96/60/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs203%2Fa%2F1
+[/us/pl/96/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtII
 [/us/stat/93/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F398
-[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2160
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/103/236/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs231
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F424
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
@@ -317,12 +317,12 @@ By virtue of the authority vested in me by section 104 of the Mutual Educational
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1105
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/96/465/s2205/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F7
-[/us/pl/96/465/s2206/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F9
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s3950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3950
 [/us/usc/t22/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs928
 [/us/usc/t22/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs807
@@ -337,7 +337,7 @@ By virtue of the authority vested in me by section 104 of the Mutual Educational
 [/us/pl/96/60/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs209
 [/us/usc/t22/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1471
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
-[/us/pl/87/793/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1008
+[/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F868
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291

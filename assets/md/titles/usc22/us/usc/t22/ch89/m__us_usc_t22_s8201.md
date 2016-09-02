@@ -29,11 +29,11 @@
 
     (6) The promotion of democracy requires a broad-based effort with cooperation between all democratic countries, including through the Community of Democracies.
 
-([Pub. L. 110–53, title XXI, § 2102][/us/pl/110/53/s2102], Aug. 3, 2007, [121 Stat. 526][/us/stat/121/526].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2102, Aug. 3, 2007, [121 Stat. 526][/us/stat/121/526].)
 
  __Short Title__ 
 
-[Pub. L. 110–53, title XXI, § 2101][/us/pl/110/53/s2101], Aug. 3, 2007, [121 Stat. 526][/us/stat/121/526], provided that: 
+[Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2101, Aug. 3, 2007, [121 Stat. 526][/us/stat/121/526], provided that: 
 
 > “This title \[enacting this chapter and amending provisions set out as a note under [section 2151n of this title][/us/usc/t22/s2151n]\] may be cited as the ‘Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007’ or the ‘ADVANCE Democracy Act of 2007’.”
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2102
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F526
-[/us/pl/110/53/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2101
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F526
 [/us/usc/t22/s2151n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n
 

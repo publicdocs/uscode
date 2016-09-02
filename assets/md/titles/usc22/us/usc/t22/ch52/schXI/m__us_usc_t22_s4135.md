@@ -55,7 +55,7 @@
 
         (2) The report required under paragraph (1) shall be submitted to the Director General of the Foreign Service and the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
 
-([Pub. L. 96–465, title I, § 1105][/us/pl/96/465/s1105], Oct. 17, 1980, [94 Stat. 2144][/us/stat/94/2144]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 331\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–439.)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1105, Oct. 17, 1980, [94 Stat. 2144][/us/stat/94/2144]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 331\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–439.)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/96/465/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1105
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2144
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

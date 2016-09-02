@@ -27,11 +27,11 @@
 
         Notwithstanding any other provision of this section, the authority of the Secretary to enter into agreements making resources available under this section shall be limited to such amounts as are appropriated in advance in appropriation Acts. Effective October 1, 1978, there are hereby authorized to be appropriated to the Secretary of the Treasury, without fiscal year limitation, such sums as are necessary to carry out subsection (a) of this section, but not to exceed an amount of dollars equivalent to 1,450 million Special Drawing Rights.
 
-([July 31, 1945, ch. 339, § 28][/us/act/1945-07-31/ch339/s28], as added [Pub. L. 95–435, § 1][/us/pl/95/435/s1], Oct. 10, 1978, [92 Stat. 1051][/us/stat/92/1051].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 28, as added [Pub. L. 95–435][/us/pl/95/435], § 1, Oct. 10, 1978, [92 Stat. 1051][/us/stat/92/1051].)
 
  __Codification__ 
 
-    In subsec. (b), “[section 5302 of title 31][/us/usc/t31/s5302]” substituted for “section 10 of the Gold Reserve Act of 1934, as amended ([31 U.S.C. 822a][/us/usc/t31/s822a])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “[section 5302 of title 31][/us/usc/t31/s5302]” substituted for “section 10 of the Gold Reserve Act of 1934, as amended ([31 U.S.C. 822a][/us/usc/t31/s822a])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t31/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302
-[/us/act/1945-07-31/ch339/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs28
-[/us/pl/95/435/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435%2Fs1
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435
 [/us/stat/92/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1051
 [/us/usc/t31/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302
 [/us/usc/t31/s822a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs822a
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

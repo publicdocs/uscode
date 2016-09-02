@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall affect or limit the authority of Federal departments and agencies to participate in international expositions or events otherwise authorized by law.
 
-([Pub. L. 91–269, § 6][/us/pl/91/269/s6], May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
+([Pub. L. 91–269][/us/pl/91/269], § 6, May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/269/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs6
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F272
 
 

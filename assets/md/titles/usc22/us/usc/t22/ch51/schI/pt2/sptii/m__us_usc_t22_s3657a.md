@@ -53,7 +53,7 @@
 
         The provisions of this section shall apply without regard to whether any election by the Department of Defense under [section 3652(b) of this title][/us/usc/t22/s3652/b] is then in effect.
 
-([Pub. L. 96–70, title I, § 1217a][/us/pl/96/70/s1217a], as added [Pub. L. 98–600, § 1(a)][/us/pl/98/600/s1/a], Oct. 30, 1984, [98 Stat. 3145][/us/stat/98/3145].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1217a, as added [Pub. L. 98–600][/us/pl/98/600], § 1(a), Oct. 30, 1984, [98 Stat. 3145][/us/stat/98/3145].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–600, § 2][/us/pl/98/600/s2], Oct. 30, 1984, [98 Stat. 3146][/us/stat/98/3146], provided that: 
+[Pub. L. 98–600][/us/pl/98/600], § 2, Oct. 30, 1984, [98 Stat. 3146][/us/stat/98/3146], provided that: 
 
 > “The amendments made by this Act \[enacting this section\] shall take effect on October 1, 1984, and shall apply with respect to utility costs incurred, and rent payable for any period beginning, on or after that date.”
 
@@ -87,11 +87,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3651
 [/us/usc/t22/s3652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3652%2Fb
 [/us/usc/t22/s3652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3652%2Fb
-[/us/pl/96/70/s1217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1217a
-[/us/pl/98/600/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F600%2Fs1%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/98/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F600
 [/us/stat/98/3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3145
 [/us/pl/98/600/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F600%2Fs2
-[/us/pl/98/600/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F600%2Fs2
+[/us/pl/98/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F600
 [/us/stat/98/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3146
 [/us/usc/t22/s3657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3657a
 [/us/usc/t22/s3657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3657a

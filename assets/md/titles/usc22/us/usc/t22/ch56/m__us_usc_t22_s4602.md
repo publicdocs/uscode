@@ -21,7 +21,7 @@
 
     (2) “Board” means the Board of Directors of the Institute.
 
-([Pub. L. 98–525, title XVII, § 1703][/us/pl/98/525/s1703], Oct. 19, 1984, [98 Stat. 2651][/us/stat/98/2651].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1703, Oct. 19, 1984, [98 Stat. 2651][/us/stat/98/2651].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1703
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2651
 
 

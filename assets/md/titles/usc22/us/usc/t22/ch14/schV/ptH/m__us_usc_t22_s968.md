@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch14/schV/ptH/m__us_usc_t22_s967.md) | [Next](./../../../../../..//us/usc/t22/ch14/schVI/m__us_usc_t22_ch14_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs968)
 
-## § 968. Repealed. [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
+## § 968. Repealed. [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
 
-    Section, [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title V, § 578, as added Sept. 8, 1960, [Pub. L. 86–723, § 16][/us/pl/86/723/s16], [74 Stat. 834][/us/stat/74/834], related to foreign language knowledge as condition for assignment.
+    Section, [act Aug. 13, 1946, ch. 957, title V][/us/act/1946-08-13/ch957/tV], § 578, as added Sept. 8, 1960, [Pub. L. 86–723][/us/pl/86/723], § 16, [74 Stat. 834][/us/stat/74/834], related to foreign language knowledge as condition for assignment.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
-[/us/pl/86/723/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs16
+[/us/act/1946-08-13/ch957/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957%2FtV
+[/us/pl/86/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723
 [/us/stat/74/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F834
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

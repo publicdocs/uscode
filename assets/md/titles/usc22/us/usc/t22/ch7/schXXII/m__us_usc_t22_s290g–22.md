@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $585,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 94–302, title II, § 223][/us/pl/94/302/s223], as added [Pub. L. 113–235, div. J, title VII, § 7083(c)][/us/pl/113/235/s7083/c], Dec. 16, 2014, [128 Stat. 2684][/us/stat/128/2684].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 223, as added [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7083(c), Dec. 16, 2014, [128 Stat. 2684][/us/stat/128/2684].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs223
-[/us/pl/113/235/s7083/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7083%2Fc
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2684
 
 

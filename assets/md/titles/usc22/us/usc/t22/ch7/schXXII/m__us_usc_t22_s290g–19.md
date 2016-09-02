@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $26,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 94–302, title II, § 220][/us/pl/94/302/s220], as added [Pub. L. 111–32, title XI, § 1109(b)][/us/pl/111/32/s1109/b], June 24, 2009, [123 Stat. 1901][/us/stat/123/1901].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 220, as added [Pub. L. 111–32, title XI][/us/pl/111/32/tXI], § 1109(b), June 24, 2009, [123 Stat. 1901][/us/stat/123/1901].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs220
-[/us/pl/111/32/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1109%2Fb
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/111/32/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXI
 [/us/stat/123/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1901
 
 

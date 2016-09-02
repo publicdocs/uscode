@@ -17,7 +17,7 @@
 
     Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States approve any amendment under article XIII of the constitution of the Organization involving any new obligation for the United States.
 
-([July 30, 1946, ch. 700, § 7][/us/act/1946-07-30/ch700/s7], [60 Stat. 714][/us/stat/60/714].)
+([July 30, 1946, ch. 700][/us/act/1946-07-30/ch700], § 7, [60 Stat. 714][/us/stat/60/714].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-30/ch700/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700%2Fs7
+[/us/act/1946-07-30/ch700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700
 [/us/stat/60/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F714
 [/us/usc/t22/s287m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287m
 

@@ -21,13 +21,13 @@
 
  __Codification__ 
 
-    R.S. § 2000 derived from [Act July 27, 1868, ch. 249, § 2][/us/act/1868-07-27/ch249/s2], [15 Stat. 224][/us/stat/15/224].
+    R.S. § 2000 derived from [Act July 27, 1868, ch. 249][/us/act/1868-07-27/ch249], § 2, [15 Stat. 224][/us/stat/15/224].
 
     Section was formerly classified to [section 903a of Title 8][/us/usc/t8/s903a], Aliens and Nationality.
 
  __Equitable Treatment by United States of Its Citizens Living Abroad__ 
 
-[Pub. L. 95–426, title VI, § 611][/us/pl/95/426/s611], Oct. 7, 1978, [92 Stat. 989][/us/stat/92/989], as amended by [Pub. L. 96–60, title IV, § 407][/us/pl/96/60/s407], Aug. 15, 1979, [93 Stat. 405][/us/stat/93/405]; [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], (b)(1), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that: 
+[Pub. L. 95–426, title VI][/us/pl/95/426/tVI], § 611, Oct. 7, 1978, [92 Stat. 989][/us/stat/92/989], as amended by [Pub. L. 96–60, title IV][/us/pl/96/60/tIV], § 407, Aug. 15, 1979, [93 Stat. 405][/us/stat/93/405]; [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(2), (b)(1), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that: 
 
 > “The Congress finds that—
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/act/1868-07-27/ch249/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch249%2Fs2
+[/us/act/1868-07-27/ch249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch249
 [/us/stat/15/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F224
 [/us/usc/t8/s903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs903a
-[/us/pl/95/426/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs611
+[/us/pl/95/426/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVI
 [/us/stat/92/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F989
-[/us/pl/96/60/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs407
+[/us/pl/96/60/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtIV
 [/us/stat/93/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F405
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
 
 

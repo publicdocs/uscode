@@ -17,7 +17,7 @@
 
     The United States Governor of the Fund may agree to and accept the amendment to the Articles of Agreement of the Fund as proposed in the resolution numbered 52–4 of the Board of Governors of the Fund which was approved by such Board on October 22, 1997: Provided, That not more than one year after the acceptance of such amendments to the Fund’s Articles of Agreement, the Secretary of the Treasury shall submit a report to the appropriate congressional committees analyzing Special Drawing Rights, to include a discussion of how those countries that significantly use or acquire Special Drawing Rights in accordance with Article XIX, Section 2(c), use or acquire them; the extent to which countries experiencing balance of payment difficulties exchange or use their Special Drawing Rights to acquire reserve currencies; and the manner in which those reserve currencies are acquired when utilizing Special Drawing Rights.
 
-([July 31, 1945, ch. 339, § 67][/us/act/1945-07-31/ch339/s67], as added [Pub. L. 111–32, title XIV, § 1402][/us/pl/111/32/s1402], June 24, 2009, [123 Stat. 1918][/us/stat/123/1918]; amended [Pub. L. 111–117, div. F, title VII, § 7034(q)(1)(A)][/us/pl/111/117/s7034/q/1/A], Dec. 16, 2009, [123 Stat. 3363][/us/stat/123/3363].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 67, as added [Pub. L. 111–32, title XIV][/us/pl/111/32/tXIV], § 1402, June 24, 2009, [123 Stat. 1918][/us/stat/123/1918]; amended [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7034(q)(1)(A), Dec. 16, 2009, [123 Stat. 3363][/us/stat/123/3363].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–117, div. F, title VII, § 7034(q)(1)(B)][/us/pl/111/117/s7034/q/1/B], Dec. 16, 2009, [123 Stat. 3363][/us/stat/123/3363], provided that: 
+[Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7034(q)(1)(B), Dec. 16, 2009, [123 Stat. 3363][/us/stat/123/3363], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of [section 1402 of Public Law 111–32][/us/pl/111/32/s1402].”
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs67
-[/us/pl/111/32/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1402
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/111/32/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXIV
 [/us/stat/123/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1918
-[/us/pl/111/117/s7034/q/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7034%2Fq%2F1%2FA
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3363
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
-[/us/pl/111/117/s7034/q/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7034%2Fq%2F1%2FB
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3363
 [/us/pl/111/32/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1402
 

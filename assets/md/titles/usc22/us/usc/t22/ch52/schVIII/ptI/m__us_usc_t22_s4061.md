@@ -31,7 +31,7 @@
 
         There is authorized to be appropriated to the Fund for each fiscal year an amount equal to the amount of the Foreign Service normal cost for that year which is not met by contributions to the Fund under [section 4045(a) of this title][/us/usc/t22/s4045/a].
 
-([Pub. L. 96–465, title I, § 821][/us/pl/96/465/s821], Oct. 17, 1980, [94 Stat. 2121][/us/stat/94/2121]; [Pub. L. 99–335, title IV, § 402(a)(3)][/us/pl/99/335/s402/a/3], June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 821, Oct. 17, 1980, [94 Stat. 2121][/us/stat/94/2121]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(3), June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t22/s4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4065
 [/us/usc/t22/s4045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fa
-[/us/pl/96/465/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs821
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2121
-[/us/pl/99/335/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F3
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

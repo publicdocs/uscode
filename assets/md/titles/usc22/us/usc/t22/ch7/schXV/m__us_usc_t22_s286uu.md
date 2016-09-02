@@ -17,7 +17,7 @@
 
     The United States Governor of the Bank may accept on behalf of the United States the amendment to the Articles of Agreement of the Bank as proposed in resolution No. 596, entitled “Enhancing Voice and Participation of Developing and Transition Countries,” of the Board of Governors of the Bank that was approved by such Board on January 30, 2009.
 
-([July 31, 1945, ch. 339, § 69][/us/act/1945-07-31/ch339/s69], as added [Pub. L. 112–74, div. I, title VII, § 7081(a)][/us/pl/112/74/s7081/a], Dec. 23, 2011, [125 Stat. 1258][/us/stat/125/1258].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 69, as added [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7081(a), Dec. 23, 2011, [125 Stat. 1258][/us/stat/125/1258].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs69
-[/us/pl/112/74/s7081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7081%2Fa
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1258
 
 

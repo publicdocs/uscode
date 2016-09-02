@@ -17,7 +17,7 @@
 
     In addition to funds otherwise available to carry out the provisions of this chapter, there are authorized to be appropriated to the Secretary of State for the fiscal year 1980 such funds as may be necessary to carry out such provisions. Such funds are authorized to remain available until expended.
 
-([Pub. L. 96–8, § 16][/us/pl/96/8/s16], Apr. 10, 1979, [93 Stat. 21][/us/stat/93/21].)
+([Pub. L. 96–8][/us/pl/96/8], § 16, Apr. 10, 1979, [93 Stat. 21][/us/stat/93/21].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs16
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F21
 
 

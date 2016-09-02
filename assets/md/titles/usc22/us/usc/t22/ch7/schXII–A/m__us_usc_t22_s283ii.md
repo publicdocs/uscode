@@ -23,7 +23,7 @@
 
         The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Corporation during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
-([Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
+([Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(1) \[title I\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1885.)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/usc/t15/s78c/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F12
-[/us/pl/98/473/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2F1
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1884
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 

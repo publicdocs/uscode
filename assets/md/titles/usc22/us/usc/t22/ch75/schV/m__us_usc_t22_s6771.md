@@ -37,7 +37,7 @@
 
         (3) deleterious alteration of the environment.
 
-([Pub. L. 105–277, div. I, title VI, § 602][/us/pl/105/277/s602], Oct. 21, 1998, [112 Stat. 2681–886][/us/stat/112/2681-886].)
+([Pub. L. 105–277, div. I, title VI][/us/pl/105/277/dI/tVI], § 602, Oct. 21, 1998, [112 Stat. 2681–886][/us/stat/112/2681-886].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t22/s6701/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6701%2F8
-[/us/pl/105/277/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs602
+[/us/pl/105/277/dI/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtVI
 [/us/stat/112/2681-886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-886
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

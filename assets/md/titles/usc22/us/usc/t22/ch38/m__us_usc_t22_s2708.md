@@ -221,7 +221,7 @@
 
             (B) an alien lawfully present in the United States.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 36, as added [Pub. L. 98–533, title I, § 102][/us/pl/98/533/s102], Oct. 19, 1984, [98 Stat. 2708][/us/stat/98/2708]; amended [Pub. L. 99–399, title V, § 502][/us/pl/99/399/s502], Aug. 27, 1986, [100 Stat. 869][/us/stat/100/869]; [Pub. L. 100–690, title IV, § 4602][/us/pl/100/690/s4602], Nov. 18, 1988, [102 Stat. 4287][/us/stat/102/4287]; [Pub. L. 101–231, § 13(a)][/us/pl/101/231/s13/a], Dec. 13, 1989, [103 Stat. 1963][/us/stat/103/1963]; [Pub. L. 101–246, title X, § 1001][/us/pl/101/246/s1001], Feb. 16, 1990, [104 Stat. 86][/us/stat/104/86]; [Pub. L. 103–236, title I, § 133(a)(1)][/us/pl/103/236/s133/a/1], title VIII, § 827, Apr. 30, 1994, [108 Stat. 395][/us/stat/108/395], 519; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title IV, § 406\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–45; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2202, Oct. 21, 1998, [112 Stat. 2681–805][/us/stat/112/2681-805]; [Pub. L. 105–323, title I, § 101][/us/pl/105/323/s101], Oct. 30, 1998, [112 Stat. 3029][/us/stat/112/3029]; [Pub. L. 107–56, title V, § 502][/us/pl/107/56/s502], Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 108–447, div. B, title IV, § 405(a)][/us/pl/108/447/s405/a]–(d), Dec. 8, 2004, [118 Stat. 2902][/us/stat/118/2902], 2903; [Pub. L. 110–181, div. A, title XII, § 1255(a)][/us/pl/110/181/s1255/a], Jan. 28, 2008, [122 Stat. 402][/us/stat/122/402]; [Pub. L. 112–283][/us/pl/112/283], §§ 3, 4, Jan. 15, 2013, [126 Stat. 2493][/us/stat/126/2493], 2494.)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 36, as added [Pub. L. 98–533, title I][/us/pl/98/533/tI], § 102, Oct. 19, 1984, [98 Stat. 2708][/us/stat/98/2708]; amended [Pub. L. 99–399, title V][/us/pl/99/399/tV], § 502, Aug. 27, 1986, [100 Stat. 869][/us/stat/100/869]; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4602, Nov. 18, 1988, [102 Stat. 4287][/us/stat/102/4287]; [Pub. L. 101–231][/us/pl/101/231], § 13(a), Dec. 13, 1989, [103 Stat. 1963][/us/stat/103/1963]; [Pub. L. 101–246, title X][/us/pl/101/246/tX], § 1001, Feb. 16, 1990, [104 Stat. 86][/us/stat/104/86]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 133(a)(1), title VIII, § 827, Apr. 30, 1994, [108 Stat. 395][/us/stat/108/395], 519; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title IV, § 406\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–45; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2202, Oct. 21, 1998, [112 Stat. 2681–805][/us/stat/112/2681-805]; [Pub. L. 105–323, title I][/us/pl/105/323/tI], § 101, Oct. 30, 1998, [112 Stat. 3029][/us/stat/112/3029]; [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 502, Oct. 26, 2001, [115 Stat. 364][/us/stat/115/364]; [Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], § 405(a)–(d), Dec. 8, 2004, [118 Stat. 2902][/us/stat/118/2902], 2903; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1255(a), Jan. 28, 2008, [122 Stat. 402][/us/stat/122/402]; [Pub. L. 112–283][/us/pl/112/283], §§ 3, 4, Jan. 15, 2013, [126 Stat. 2493][/us/stat/126/2493], 2494.)
 
  __References in Text__ 
 
@@ -229,55 +229,55 @@
 
  __Prior Provisions__ 
 
-    A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by [section 102 of Pub. L. 98–533][/us/pl/98/533/s102], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by [section 102 of Pub. L. 98–533][/us/pl/98/533/s102], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 112–283, § 3(1)][/us/pl/112/283/s3/1], inserted “serious violations of international humanitarian law, transnational organized crime,” after “international narcotics trafficking,”.
+    2013—Subsec. (a)(2). [Pub. L. 112–283][/us/pl/112/283], § 3(1), inserted “serious violations of international humanitarian law, transnational organized crime,” after “international narcotics trafficking,”.
 
-    Subsec. (b). [Pub. L. 112–283, § 3(2)(A)][/us/pl/112/283/s3/2/A], substituted “heads of other relevant departments or agencies” for “Attorney General” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(A), substituted “heads of other relevant departments or agencies” for “Attorney General” in introductory provisions.
 
-    Subsec. (b)(4), (5). [Pub. L. 112–283, § 3(2)(B)][/us/pl/112/283/s3/2/B], substituted “paragraph (1), (2), (3), (8), or (9)” for “paragraph (1), (2), or (3)”.
+    Subsec. (b)(4), (5). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(B), substituted “paragraph (1), (2), (3), (8), or (9)” for “paragraph (1), (2), or (3)”.
 
-    Subsec. (b)(6). [Pub. L. 112–283, § 3(2)(C)(i)][/us/pl/112/283/s3/2/C/i], inserted “or transnational organized crime group” after “terrorist organization”.
+    Subsec. (b)(6). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(C)(i), inserted “or transnational organized crime group” after “terrorist organization”.
 
-    Subsec. (b)(7). [Pub. L. 112–283, § 3(2)(D)(i)][/us/pl/112/283/s3/2/D/i], substituted “or transnational organized crime group, including the use by such organization or group of illicit narcotics production or international narcotics trafficking” for “, including the use by the organization of illicit narcotics production or international narcotics trafficking” in introductory provisions.
+    Subsec. (b)(7). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(D)(i), substituted “or transnational organized crime group, including the use by such organization or group of illicit narcotics production or international narcotics trafficking” for “, including the use by the organization of illicit narcotics production or international narcotics trafficking” in introductory provisions.
 
-    Subsec. (b)(7)(A). [Pub. L. 112–283, § 3(2)(D)(ii)][/us/pl/112/283/s3/2/D/ii], inserted “or transnational organized crime” after “international terrorism”.
+    Subsec. (b)(7)(A). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(D)(ii), inserted “or transnational organized crime” after “international terrorism”.
 
-    Subsec. (b)(7)(B). [Pub. L. 112–283, § 3(2)(D)(iii)(I)][/us/pl/112/283/s3/2/D/iii/I], inserted “or transnational organized crime group” after “terrorist organization”.
+    Subsec. (b)(7)(B). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(D)(iii)(I), inserted “or transnational organized crime group” after “terrorist organization”.
 
-    Subsec. (b)(8) to (10). [Pub. L. 112–283, § 3(2)(C)(ii)][/us/pl/112/283/s3/2/C/ii], (D)(iii)(II), (E), added pars. (8) to (10).
+    Subsec. (b)(8) to (10). [Pub. L. 112–283][/us/pl/112/283], § 3(2)(C)(ii), (D)(iii)(II), (E), added pars. (8) to (10).
 
-    Subsec. (e)(1). [Pub. L. 112–283, § 4][/us/pl/112/283/s4], struck out at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
+    Subsec. (e)(1). [Pub. L. 112–283][/us/pl/112/283], § 4, struck out at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
 
-    Subsec. (g)(3). [Pub. L. 112–283, § 3(3)][/us/pl/112/283/s3/3], added par. (3).
+    Subsec. (g)(3). [Pub. L. 112–283][/us/pl/112/283], § 3(3), added par. (3).
 
-    Subsec. (k)(5) to (8). [Pub. L. 112–283, § 3(4)][/us/pl/112/283/s3/4], added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
+    Subsec. (k)(5) to (8). [Pub. L. 112–283][/us/pl/112/283], § 3(4), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
 
     2008—Subsec. (e)(1). [Pub. L. 110–181][/us/pl/110/181] inserted at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
 
-    2004—Subsec. (b)(7). [Pub. L. 108–447, § 405(a)][/us/pl/108/447/s405/a], added par. (7).
+    2004—Subsec. (b)(7). [Pub. L. 108–447][/us/pl/108/447], § 405(a), added par. (7).
 
-    Subsec. (e)(1). [Pub. L. 108–447, § 405(b)][/us/pl/108/447/s405/b], substituted “$25,000,000” for “$5,000,000”, struck out period after “terrorist acts.”, and inserted at end “Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.”
+    Subsec. (e)(1). [Pub. L. 108–447][/us/pl/108/447], § 405(b), substituted “$25,000,000” for “$5,000,000”, struck out period after “terrorist acts.”, and inserted at end “Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.”
 
-    Subsec. (e)(6). [Pub. L. 108–447, § 405(c)][/us/pl/108/447/s405/c], added par. (6).
+    Subsec. (e)(6). [Pub. L. 108–447][/us/pl/108/447], § 405(c), added par. (6).
 
-    Subsecs. (i) to (k). [Pub. L. 108–447, § 405(d)][/us/pl/108/447/s405/d], added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
+    Subsecs. (i) to (k). [Pub. L. 108–447][/us/pl/108/447], § 405(d), added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-    2001—Subsec. (b)(4). [Pub. L. 107–56, § 502(1)(A)][/us/pl/107/56/s502/1/A], struck out “or” at end.
+    2001—Subsec. (b)(4). [Pub. L. 107–56][/us/pl/107/56], § 502(1)(A), struck out “or” at end.
 
-    Subsec. (b)(5). [Pub. L. 107–56, § 502(1)(B)][/us/pl/107/56/s502/1/B], substituted “, including by dismantling an organization in whole or significant part; or” for period at end.
+    Subsec. (b)(5). [Pub. L. 107–56][/us/pl/107/56], § 502(1)(B), substituted “, including by dismantling an organization in whole or significant part; or” for period at end.
 
-    Subsec. (b)(6). [Pub. L. 107–56, § 502(1)(C)][/us/pl/107/56/s502/1/C], added par. (6).
+    Subsec. (b)(6). [Pub. L. 107–56][/us/pl/107/56], § 502(1)(C), added par. (6).
 
-    Subsec. (d)(2) to (4). [Pub. L. 107–56, § 502(2)][/us/pl/107/56/s502/2], redesignated par. (4) as (2) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (d)(2) to (4). [Pub. L. 107–56][/us/pl/107/56], § 502(2), redesignated par. (4) as (2) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) Limitation.—No amount of funds may be appropriated under paragraph (1) which, when added to the unobligated balance of amounts previously appropriated to carry out this section, would cause such amounts to exceed $15,000,000.
 
     “(3) Allocation of funds.—To the maximum extent practicable, funds made available to carry out this section should be distributed equally for the purpose of preventing acts of international terrorism and for the purpose of preventing international narcotics trafficking.”
 
-    Subsec. (e)(1). [Pub. L. 107–56, § 502(3)][/us/pl/107/56/s502/3], inserted “, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.” after “$5,000,000”.
+    Subsec. (e)(1). [Pub. L. 107–56][/us/pl/107/56], § 502(3), inserted “, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.” after “$5,000,000”.
 
     1998—[Pub. L. 105–323][/us/pl/105/323] generally amended section substantially similar to general amendment by [Pub. L. 105–277][/us/pl/105/277], except that the maximum reward in subsec. (e)(1) was increased from $2,000,000 to $5,000,000.
 
@@ -285,9 +285,9 @@
 
     1996—Subsec. (a)(1). [Pub. L. 104–134][/us/pl/104/134] which directed substitution of “shall establish and publicize a program under which rewards may be paid” for “may pay a reward” in section 36(a)(1) of the State Department Authorities Act of 1956 was executed to subsec. (a)(1) of this section, section 36(a)(1) of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
-    1994—Subsec. (a). [Pub. L. 103–236, § 827][/us/pl/103/236/s827], designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+    1994—Subsec. (a). [Pub. L. 103–236][/us/pl/103/236], § 827, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-    [Pub. L. 103–236, § 133(a)(1)][/us/pl/103/236/s133/a/1], struck out “and is primarily outside the territorial jurisdiction of the United States” after “United States property” in concluding provisions.
+    [Pub. L. 103–236][/us/pl/103/236], § 133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the United States” after “United States property” in concluding provisions.
 
     1990—Subsec. (c). [Pub. L. 101–246][/us/pl/101/246], which directed amendment of subsec. (c) by substituting “$2,000,000” for “$500,000”, could not be executed because “$500,000” did not appear after execution of the amendment by [Pub. L. 101–231][/us/pl/101/231]. See 1989 Amendment note below.
 
@@ -295,17 +295,17 @@
 
     1988—Subsec. (g). [Pub. L. 100–690][/us/pl/100/690] amended second sentence generally. Prior to amendment, second sentence read as follows: “In addition to the amount authorized by the preceding sentence, there are authorized to be appropriated $10,000,000 for fiscal year 1987 for ‘Administration of Foreign Affairs’ for use in paying rewards under this section, up to $5,000,000 of which may be used for rewards for information described in subsection (b)(1) of this section.”
 
-    1986—Subsecs. (b), (c). [Pub. L. 99–399, § 502(a)][/us/pl/99/399/s502/a], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    1986—Subsecs. (b), (c). [Pub. L. 99–399][/us/pl/99/399], § 502(a), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 99–399, § 502(a)(1)][/us/pl/99/399/s502/a/1], (c)(1), redesignated former subsec. (c) as (d), and substituted “subsection (a) of this section” for “this section”. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 99–399][/us/pl/99/399], § 502(a)(1), (c)(1), redesignated former subsec. (c) as (d), and substituted “subsection (a) of this section” for “this section”. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 99–399, § 502(a)(1)][/us/pl/99/399/s502/a/1], redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 99–399][/us/pl/99/399], § 502(a)(1), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 99–399, § 502(a)(1)][/us/pl/99/399/s502/a/1], (c)(2), redesignated former subsec. (e) as (f), and inserted “or (b)”. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 99–399][/us/pl/99/399], § 502(a)(1), (c)(2), redesignated former subsec. (e) as (f), and inserted “or (b)”. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 99–399, § 502(a)(1)][/us/pl/99/399/s502/a/1], (b), redesignated former subsec. (f) as (g), and inserted provision authorizing up to $2,000,000 for rewards for information described in subsec. (b)(1) of this section and appropriating $10,000,000 for fiscal year 1987, of which up to $5,000,000 may be used for rewards for information described in subsec. (b)(1) of this section.
+    Subsec. (g). [Pub. L. 99–399][/us/pl/99/399], § 502(a)(1), (b), redesignated former subsec. (f) as (g), and inserted provision authorizing up to $2,000,000 for rewards for information described in subsec. (b)(1) of this section and appropriating $10,000,000 for fiscal year 1987, of which up to $5,000,000 may be used for rewards for information described in subsec. (b)(1) of this section.
 
-    Subsecs. (h), (i). [Pub. L. 99–399, § 502(d)][/us/pl/99/399/s502/d], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 99–399][/us/pl/99/399], § 502(d), added subsecs. (h) and (i).
 
  __Change of Name__ 
 
@@ -317,13 +317,13 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 112–283, § 5][/us/pl/112/283/s5], Jan. 15, 2013, [126 Stat. 2494][/us/stat/126/2494], provided that: 
+[Pub. L. 112–283][/us/pl/112/283], § 5, Jan. 15, 2013, [126 Stat. 2494][/us/stat/126/2494], provided that: 
 
 > “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section and [section 2651 of this title][/us/usc/t22/s2651]\] or the amendments made by this Act shall be construed as authorizing the use of activity precluded under the American Servicemembers’ Protection Act of 2002 (title II of [Public Law 107–206][/us/pl/107/206]; [22 U.S.C. 7421][/us/usc/t22/s7421] et seq.).”
 
  __Findings; Sense of Congress__ 
 
-[Pub. L. 112–283, § 2][/us/pl/112/283/s2], Jan. 15, 2013, [126 Stat. 2492][/us/stat/126/2492], provided that:
+[Pub. L. 112–283][/us/pl/112/283], § 2, Jan. 15, 2013, [126 Stat. 2492][/us/stat/126/2492], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -353,13 +353,13 @@
 
  __Funding__ 
 
-[Pub. L. 112–283, § 6][/us/pl/112/283/s6], Jan. 15, 2013, [126 Stat. 2494][/us/stat/126/2494], provided that: 
+[Pub. L. 112–283][/us/pl/112/283], § 6, Jan. 15, 2013, [126 Stat. 2494][/us/stat/126/2494], provided that: 
 
 > “The Secretary of State shall use amounts appropriated or otherwise made available to the Emergencies in the Diplomatic and Consular Services account of the Department of State to pay rewards authorized pursuant to this Act \[amending this section and enacting provisions set out as notes under this section and [section 2651 of this title][/us/usc/t22/s2651]\] and to carry out other activities related to such rewards authorized under section 36 of the State Department Basic Authorities Act \[of 1956\] ([22 U.S.C. 2708][/us/usc/t22/s2708]).”
 
  __Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda__ 
 
-[Pub. L. 105–323, title I, § 102][/us/pl/105/323/s102], Oct. 30, 1998, [112 Stat. 3032][/us/stat/112/3032], as amended by [Pub. L. 106–277, § 1][/us/pl/106/277/s1], Oct. 2, 2000, [114 Stat. 813][/us/stat/114/813]; [Pub. L. 107–228, div. A, title VI, § 697(d)][/us/pl/107/228/s697/d], Sept. 30, 2002, [116 Stat. 1418][/us/stat/116/1418], provided that:
+[Pub. L. 105–323, title I][/us/pl/105/323/tI], § 102, Oct. 30, 1998, [112 Stat. 3032][/us/stat/112/3032], as amended by [Pub. L. 106–277][/us/pl/106/277], § 1, Oct. 2, 2000, [114 Stat. 813][/us/stat/114/813]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 697(d), Sept. 30, 2002, [116 Stat. 1418][/us/stat/116/1418], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -415,13 +415,13 @@
 
  __Avoiding Duplicative Amendments__ 
 
-[Pub. L. 101–231, § 13(b)][/us/pl/101/231/s13/b], Dec. 13, 1989, [103 Stat. 1963][/us/stat/103/1963], provided that: 
+[Pub. L. 101–231][/us/pl/101/231], § 13(b), Dec. 13, 1989, [103 Stat. 1963][/us/stat/103/1963], provided that: 
 
 > “If the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 \[[Pub. L. 101–246][/us/pl/101/246], Feb. 16, 1990, [104 Stat. 87][/us/stat/104/87]\], is enacted before this Act \[Dec. 13, 1989\], and that Act makes the same amendment as is described in subsection (a) \[amending this section\], then subsection (a) shall not take effect. If, however, this Act is enacted before the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and that Act would make the same amendment as is made by subsection (a), then that amendment as proposed to be made by that Act shall not take effect.”
 
  __Rewards for International Terrorists__ 
 
-[Pub. L. 99–399, title V, § 501][/us/pl/99/399/s501], Aug. 27, 1986, [100 Stat. 869][/us/stat/100/869], provided that: 
+[Pub. L. 99–399, title V][/us/pl/99/399/tV], § 501, Aug. 27, 1986, [100 Stat. 869][/us/stat/100/869], provided that: 
 
 > “It is the sense of the Congress that the Secretary of State should more vigorously utilize the moneys available under section 36(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2708(a)][/us/usc/t22/s2708/a]; relating to rewards for information on international terrorism) to more effectively apprehend and prosecute international terrorists. It is further the sense of the Congress that the Secretary of State should consider widely publicizing the sizable rewards available under present law so that major international terrorist figures may be brought to justice.”
 
@@ -439,31 +439,31 @@
 [/us/usc/t18/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1961
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/98/533/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs102
+[/us/pl/98/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2FtI
 [/us/stat/98/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2708
-[/us/pl/99/399/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F869
-[/us/pl/100/690/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4602
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4287
-[/us/pl/101/231/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs13%2Fa
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1963
-[/us/pl/101/246/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs1001
+[/us/pl/101/246/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtX
 [/us/stat/104/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F86
-[/us/pl/103/236/s133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs133%2Fa%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F395
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-805
-[/us/pl/105/323/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2Fs101
+[/us/pl/105/323/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2FtI
 [/us/stat/112/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3029
-[/us/pl/107/56/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs502
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F364
-[/us/pl/108/447/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs405%2Fa
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2902
-[/us/pl/110/181/s1255/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1255%2Fa
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F402
 [/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
 [/us/stat/126/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2493
@@ -471,72 +471,72 @@
 [/us/stat/99/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F408
 [/us/pl/98/533/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs102
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
-[/us/pl/112/283/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F1
-[/us/pl/112/283/s3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FA
-[/us/pl/112/283/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FB
-[/us/pl/112/283/s3/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FC%2Fi
-[/us/pl/112/283/s3/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FD%2Fi
-[/us/pl/112/283/s3/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FD%2Fii
-[/us/pl/112/283/s3/2/D/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FD%2Fiii%2FI
-[/us/pl/112/283/s3/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F2%2FC%2Fii
-[/us/pl/112/283/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs4
-[/us/pl/112/283/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F3
-[/us/pl/112/283/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs3%2F4
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/108/447/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs405%2Fa
-[/us/pl/108/447/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs405%2Fb
-[/us/pl/108/447/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs405%2Fc
-[/us/pl/108/447/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs405%2Fd
-[/us/pl/107/56/s502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs502%2F1%2FA
-[/us/pl/107/56/s502/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs502%2F1%2FB
-[/us/pl/107/56/s502/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs502%2F1%2FC
-[/us/pl/107/56/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs502%2F2
-[/us/pl/107/56/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs502%2F3
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/105/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/103/236/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs827
-[/us/pl/103/236/s133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs133%2Fa%2F1
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/99/399/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502%2Fa
-[/us/pl/99/399/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502%2Fa%2F1
-[/us/pl/99/399/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502%2Fa%2F1
-[/us/pl/99/399/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502%2Fa%2F1
-[/us/pl/99/399/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502%2Fa%2F1
-[/us/pl/99/399/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs502%2Fd
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
+[/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/pl/103/236/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs827
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
-[/us/pl/112/283/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs5
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
 [/us/stat/126/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2494
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
 [/us/usc/t22/s7421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7421
-[/us/pl/112/283/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs2
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
 [/us/stat/126/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2492
-[/us/pl/112/283/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283%2Fs6
+[/us/pl/112/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F283
 [/us/stat/126/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2494
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
-[/us/pl/105/323/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2Fs102
+[/us/pl/105/323/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2FtI
 [/us/stat/112/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3032
-[/us/pl/106/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F277%2Fs1
+[/us/pl/106/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F277
 [/us/stat/114/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F813
-[/us/pl/107/228/s697/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs697%2Fd
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1418
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
-[/us/pl/101/231/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231%2Fs13%2Fb
+[/us/pl/101/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F231
 [/us/stat/103/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1963
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/stat/104/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F87
-[/us/pl/99/399/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs501
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F869
 [/us/usc/t22/s2708/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708%2Fa
 

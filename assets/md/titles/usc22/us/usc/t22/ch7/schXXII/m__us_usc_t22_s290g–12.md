@@ -23,7 +23,7 @@
 
     (b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $150,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 94–302, title II, § 213][/us/pl/94/302/s213], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title X, § 1003\], Nov. 30, 1983, [97 Stat. 1286][/us/stat/97/1286].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 213, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title X, § 1003\], Nov. 30, 1983, [97 Stat. 1286][/us/stat/97/1286].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs213
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1286
 
 

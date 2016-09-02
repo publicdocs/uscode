@@ -47,7 +47,7 @@
 
                 The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
-([Pub. L. 111–195, title I, § 105B][/us/pl/111/195/s105B], as added [Pub. L. 112–158, title IV, § 403(b)][/us/pl/112/158/s403/b], Aug. 10, 2012, [126 Stat. 1254][/us/stat/126/1254].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 105B, as added [Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 403(b), Aug. 10, 2012, [126 Stat. 1254][/us/stat/126/1254].)
 
 ----------
 
@@ -58,8 +58,8 @@
 
 [/us/usc/t22/s8514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fc
 [/us/usc/t22/s8514/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fb%2F2%2FA
-[/us/pl/111/195/s105B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs105B
-[/us/pl/112/158/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs403%2Fb
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1254
 
 

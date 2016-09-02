@@ -97,7 +97,7 @@
 
         (2) Omitted.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 27, as added [Pub. L. 96–92, § 15][/us/pl/96/92/s15], Oct. 29, 1979, [93 Stat. 706][/us/stat/93/706]; amended [Pub. L. 99–83, title I, § 115(a)][/us/pl/99/83/s115/a], Aug. 8, 1985, [99 Stat. 199][/us/stat/99/199]; [Pub. L. 99–145, title XI, § 1102(a)(1)][/us/pl/99/145/s1102/a/1], (5), Nov. 8, 1985, [99 Stat. 708][/us/stat/99/708], 710; [Pub. L. 99–661, div. A, title XI, § 1103(a)][/us/pl/99/661/s1103/a], title XIII, § 1342(e), Nov. 14, 1986, [100 Stat. 3962][/us/stat/100/3962], 3991; [Pub. L. 100–180, div. A, title X, § 1022][/us/pl/100/180/s1022], Dec. 4, 1987, [101 Stat. 1144][/us/stat/101/1144]; [Pub. L. 102–484, div. A, title VIII, § 843(a)][/us/pl/102/484/s843/a], Oct. 23, 1992, [106 Stat. 2468][/us/stat/106/2468]; [Pub. L. 113–276, title II, § 208(a)(4)][/us/pl/113/276/s208/a/4], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 27, as added [Pub. L. 96–92][/us/pl/96/92], § 15, Oct. 29, 1979, [93 Stat. 706][/us/stat/93/706]; amended [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 115(a), Aug. 8, 1985, [99 Stat. 199][/us/stat/99/199]; [Pub. L. 99–145, title XI][/us/pl/99/145/tXI], § 1102(a)(1), (5), Nov. 8, 1985, [99 Stat. 708][/us/stat/99/708], 710; [Pub. L. 99–661, div. A, title XI][/us/pl/99/661/dA/tXI], § 1103(a), title XIII, § 1342(e), Nov. 14, 1986, [100 Stat. 3962][/us/stat/100/3962], 3991; [Pub. L. 100–180, div. A, title X][/us/pl/100/180/dA/tX], § 1022, Dec. 4, 1987, [101 Stat. 1144][/us/stat/101/1144]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 843(a), Oct. 23, 1992, [106 Stat. 2468][/us/stat/106/2468]; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(4), Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
@@ -119,23 +119,23 @@
 
     1987—Subsec. (b)(1)(C). [Pub. L. 100–180][/us/pl/100/180] inserted “or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization” after “member country”.
 
-    1986—[Pub. L. 99–661, § 1342(e)][/us/pl/99/661/s1342/e], repealed [section 1102(a)(1) of Pub. L. 99–145][/us/pl/99/145/s1102/a/1] and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
+    1986—[Pub. L. 99–661][/us/pl/99/661], § 1342(e), repealed [section 1102(a)(1) of Pub. L. 99–145][/us/pl/99/145/s1102/a/1] and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-    [Pub. L. 99–661, § 1103(a)(2)][/us/pl/99/661/s1103/a/2], substituted “Authority of President to enter into cooperative projects with friendly foreign countries” for “North Atlantic Treaty Organization cooperative projects” in section catchline.
+    [Pub. L. 99–661][/us/pl/99/661], § 1103(a)(2), substituted “Authority of President to enter into cooperative projects with friendly foreign countries” for “North Atlantic Treaty Organization cooperative projects” in section catchline.
 
-    Subsec. (b)(1). [Pub. L. 99–661, § 1103(a)(1)(A)(i)][/us/pl/99/661/s1103/a/1/A/i], inserted “, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization,” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 99–661][/us/pl/99/661], § 1103(a)(1)(A)(i), inserted “, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization,” in introductory provisions.
 
-    Subsec. (b)(2), (3). [Pub. L. 99–661, § 1103(a)(1)(A)(ii)][/us/pl/99/661/s1103/a/1/A/ii]–(iv), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (b)(2), (3). [Pub. L. 99–661][/us/pl/99/661], § 1103(a)(1)(A)(ii)–(iv), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (f)(3). [Pub. L. 99–661, § 1103(a)(1)(B)][/us/pl/99/661/s1103/a/1/B], inserted “, including an estimate of the costs as a result of waivers of section 2761(e)(1)(A) and 2792(b) of this title,”.
+    Subsec. (f)(3). [Pub. L. 99–661][/us/pl/99/661], § 1103(a)(1)(B), inserted “, including an estimate of the costs as a result of waivers of section 2761(e)(1)(A) and 2792(b) of this title,”.
 
-    Subsec. (g). [Pub. L. 99–661, § 1103(a)(1)(C)][/us/pl/99/661/s1103/a/1/C], substituted “In the case of a cooperative project with a North Atlantic Treaty Organization country, section,” for “Section”.
+    Subsec. (g). [Pub. L. 99–661][/us/pl/99/661], § 1103(a)(1)(C), substituted “In the case of a cooperative project with a North Atlantic Treaty Organization country, section,” for “Section”.
 
-    Subsec. (j). [Pub. L. 99–661, § 1103(a)(1)(D)][/us/pl/99/661/s1103/a/1/D], added subsec. (j).
+    Subsec. (j). [Pub. L. 99–661][/us/pl/99/661], § 1103(a)(1)(D), added subsec. (j).
 
     1985—[Pub. L. 99–83][/us/pl/99/83] amended section generally, substituting in subsec. (a) provisions relating to authority of the President, for provisions defining “cooperative project”, substituting in subsec. (b) provisions defining “cooperative project” and “other participant”, for provisions relating to reduction or waiver of charges, sales not subject to compensatory increases in administrative surcharges, and contribution requirements, substituting in subsec. (c) provisions relating to agreements for equitable share of costs and limiting the nature of such agreements, for provisions relating to transmission of numbered certification of proposed agreement, contents of such certification, and statutory provisions applicable to sales, and adding subsecs. (d) to (i).
 
-    [Pub. L. 99–145, § 1102(a)(1)][/us/pl/99/145/s1102/a/1], which enacted a general amendment of this section similar to that provided in [Pub. L. 99–83][/us/pl/99/83] was repealed. See 1986 Amendments note above and former [section 1105(a)(5) of Pub. L. 99–145][/us/pl/99/145/s1105/a/5] set out as a Repeals; Effective Date note under [section 2752 of this title][/us/usc/t22/s2752].
+    [Pub. L. 99–145][/us/pl/99/145], § 1102(a)(1), which enacted a general amendment of this section similar to that provided in [Pub. L. 99–83][/us/pl/99/83] was repealed. See 1986 Amendments note above and former [section 1105(a)(5) of Pub. L. 99–145][/us/pl/99/145/s1105/a/5] set out as a Repeals; Effective Date note under [section 2752 of this title][/us/usc/t22/s2752].
 
  __Effective Date of 1985 Amendment__ 
 
@@ -147,7 +147,7 @@
 
  __Assessment of Risk Associated With Development of Major Weapon Systems To Be Procured Under Cooperative Projects With Friendly Foreign Countries__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 836][/us/pl/112/81/s836], Dec. 31, 2011, [125 Stat. 1508][/us/stat/125/1508], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 836, Dec. 31, 2011, [125 Stat. 1508][/us/stat/125/1508], provided that:
 
 >     “(a) __Assessment of Risk Required.—__ 
 
@@ -191,19 +191,19 @@
 [/us/usc/t22/s2776/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fc
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/96/92/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs15
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F706
-[/us/pl/99/83/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs115%2Fa
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F199
-[/us/pl/99/145/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fa%2F1
+[/us/pl/99/145/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXI
 [/us/stat/99/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F708
-[/us/pl/99/661/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa
+[/us/pl/99/661/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXI
 [/us/stat/100/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3962
-[/us/pl/100/180/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1022
+[/us/pl/100/180/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtX
 [/us/stat/101/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1144
-[/us/pl/102/484/s843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs843%2Fa
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2468
-[/us/pl/113/276/s208/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F4
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
@@ -216,16 +216,16 @@
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/661/s1342/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1342%2Fe
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fa%2F1
-[/us/pl/99/661/s1103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa%2F2
-[/us/pl/99/661/s1103/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa%2F1%2FA%2Fi
-[/us/pl/99/661/s1103/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa%2F1%2FA%2Fii
-[/us/pl/99/661/s1103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa%2F1%2FB
-[/us/pl/99/661/s1103/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa%2F1%2FC
-[/us/pl/99/661/s1103/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fa%2F1%2FD
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/99/145/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fa%2F1
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/145/s1105/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1105%2Fa%2F5
 [/us/usc/t22/s2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2752
@@ -234,7 +234,7 @@
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/112/81/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs836
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1508
 [/us/usc/t22/s2767/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2767%2Ff
 [/us/usc/t10/s2379/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2379%2Ff

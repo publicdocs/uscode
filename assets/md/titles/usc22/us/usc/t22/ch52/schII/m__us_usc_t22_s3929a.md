@@ -17,7 +17,7 @@
 
     Notwithstanding [section 3929 of this title][/us/usc/t22/s3929], the Inspector General of the Department of State and the Foreign Service is hereby abolished.
 
-([Pub. L. 99–93, title I, § 150(b)][/us/pl/99/93/s150/b], Aug. 16, 1985, [99 Stat. 427][/us/stat/99/427]; [Pub. L. 99–399, title IV, § 413(c)][/us/pl/99/399/s413/c], Aug. 27, 1986, [100 Stat. 868][/us/stat/100/868].)
+([Pub. L. 99–93, title I][/us/pl/99/93/tI], § 150(b), Aug. 16, 1985, [99 Stat. 427][/us/stat/99/427]; [Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 413(c), Aug. 27, 1986, [100 Stat. 868][/us/stat/100/868].)
 
  __Codification__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t22/s3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929
-[/us/pl/99/93/s150/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs150%2Fb
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F427
-[/us/pl/99/399/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs413%2Fc
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F868
 [/us/pl/99/399/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs413
 [/us/usc/t22/s4861/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4861%2Fc

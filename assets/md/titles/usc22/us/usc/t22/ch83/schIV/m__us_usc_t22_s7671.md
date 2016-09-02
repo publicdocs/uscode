@@ -27,7 +27,7 @@
 
         Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made.
 
-([Pub. L. 108–25, title IV, § 401][/us/pl/108/25/s401], May 27, 2003, [117 Stat. 745][/us/stat/117/745]; [Pub. L. 110–293, title IV, § 401(a)][/us/pl/110/293/s401/a], July 30, 2008, [122 Stat. 2966][/us/stat/122/2966].)
+([Pub. L. 108–25, title IV][/us/pl/108/25/tIV], § 401, May 27, 2003, [117 Stat. 745][/us/stat/117/745]; [Pub. L. 110–293, title IV][/us/pl/110/293/tIV], § 401(a), July 30, 2008, [122 Stat. 2966][/us/stat/122/2966].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/108/25/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs401
+[/us/pl/108/25/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIV
 [/us/stat/117/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F745
-[/us/pl/110/293/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs401%2Fa
+[/us/pl/110/293/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtIV
 [/us/stat/122/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2966
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

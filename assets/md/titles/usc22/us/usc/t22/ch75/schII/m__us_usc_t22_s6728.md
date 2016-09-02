@@ -43,7 +43,7 @@
 
         The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-([Pub. L. 105–277, div. I, title III, § 309][/us/pl/105/277/s309], Oct. 21, 1998, [112 Stat. 2681–879][/us/stat/112/2681-879].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 309, Oct. 21, 1998, [112 Stat. 2681–879][/us/stat/112/2681-879].)
 
  __Change of Name__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs309
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-879
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

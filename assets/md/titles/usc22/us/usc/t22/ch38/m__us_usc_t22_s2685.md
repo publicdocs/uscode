@@ -19,7 +19,7 @@
 
     (b) For purposes of this section, “Executive agency” has the same meaning given that term by [section 105 of title 5][/us/usc/t5/s105].
 
-([Pub. L. 93–126, § 11][/us/pl/93/126/s11], Oct. 18, 1973, [87 Stat. 453][/us/stat/87/453]; [Pub. L. 95–426, title I, § 118][/us/pl/95/426/s118], Oct. 7, 1978, [92 Stat. 969][/us/stat/92/969]; [Pub. L. 99–93, title I, § 117][/us/pl/99/93/s117], Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412].)
+([Pub. L. 93–126][/us/pl/93/126], § 11, Oct. 18, 1973, [87 Stat. 453][/us/stat/87/453]; [Pub. L. 95–426, title I][/us/pl/95/426/tI], § 118, Oct. 7, 1978, [92 Stat. 969][/us/stat/92/969]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 117, Aug. 16, 1985, [99 Stat. 412][/us/stat/99/412].)
 
  __Amendments__ 
 
@@ -35,11 +35,11 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/93/126/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs11
+[/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126
 [/us/stat/87/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F453
-[/us/pl/95/426/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs118
+[/us/pl/95/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtI
 [/us/stat/92/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F969
-[/us/pl/99/93/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs117
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F412
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426

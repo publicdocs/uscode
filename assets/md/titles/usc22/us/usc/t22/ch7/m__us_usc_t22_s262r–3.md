@@ -63,7 +63,7 @@
 
         Not later than March 15, 1999, and semiannually thereafter, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services, Ways and Means, and International Relations of the House of Representatives and the Committees on Finance, Foreign Relations, and Banking, Housing, and Urban Affairs of the Senate a report on the matters described in subsection (a) of this section.
 
-([Pub. L. 95–118, title XVII, § 1704][/us/pl/95/118/s1704], as added [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 612\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228; amended [Pub. L. 106–200, title IV, § 404(b)][/us/pl/106/200/s404/b], May 18, 2000, [114 Stat. 292][/us/stat/114/292].)
+([Pub. L. 95–118, title XVII][/us/pl/95/118/tXVII], § 1704, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 612\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228; amended [Pub. L. 106–200, title IV][/us/pl/106/200/tIV], § 404(b), May 18, 2000, [114 Stat. 292][/us/stat/114/292].)
 
  __Amendments__ 
 
@@ -88,10 +88,10 @@
 
 [/us/usc/t31/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302
 [/us/usc/t31/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302
-[/us/pl/95/118/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1704
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/95/118/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVII
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/106/200/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs404%2Fb
+[/us/pl/106/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtIV
 [/us/stat/114/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F292
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/usc/t22/s262r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r

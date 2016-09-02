@@ -39,7 +39,7 @@
 
         Subject to the provisions of any claims agreement hereafter concluded between the Governments of Czechoslovakia and the United States, payment of any award pursuant to this subchapter shall not, unless such payment is for the full amount of the claim, as determined by the Commission to be valid, with respect to which the award is made, extinguish such claim, or be construed to have divested any claimant, or the United States on his behalf, of any rights against any foreign government for the unpaid balance of his claim.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 413, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 530][/us/stat/72/530].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 413, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 530][/us/stat/72/530].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F530
 
 

@@ -27,7 +27,7 @@
 
     (5) To provide productive research and development opportunities within the independent states of the former Soviet Union that offer scientists and engineers alternatives to emigration and help prevent proliferation of weapons technologies and the dissolution of the technological infrastructure of those states.
 
-([Pub. L. 102–484, div. A, title XIV, § 1441][/us/pl/102/484/s1441], Oct. 23, 1992, [106 Stat. 2566][/us/stat/106/2566]; [Pub. L. 103–160, div. A, title XI, § 1182(c)(4)][/us/pl/103/160/s1182/c/4], Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772].)
+([Pub. L. 102–484, div. A, title XIV][/us/pl/102/484/dA/tXIV], § 1441, Oct. 23, 1992, [106 Stat. 2566][/us/stat/106/2566]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(c)(4), Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t22/s5861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5861
 [/us/usc/t22/s5911/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5911%2Fa%2F1%2FC
-[/us/pl/102/484/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1441
+[/us/pl/102/484/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIV
 [/us/stat/106/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2566
-[/us/pl/103/160/s1182/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fc%2F4
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1772
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t22/s5861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5861

@@ -57,7 +57,7 @@
 
         Within a year after March 4, 2010, and periodically thereafter as appropriate, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Foreign Relations, the House of Representatives Committee on Energy and Commerce, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on Foreign Affairs describing the Office’s work with the Corporation, the Secretary of State and the Secretary of Homeland Security to carry out subsection (c)(2).
 
-([Pub. L. 87–63, title II, § 202][/us/pl/87/63/s202], as added [Pub. L. 111–145, § 9(i)][/us/pl/111/145/s9/i], formerly § 9(g), Mar. 4, 2010, [124 Stat. 63][/us/stat/124/63]; renumbered 9(i), [Pub. L. 113–235, div. B, title VI, § 606(1)][/us/pl/113/235/s606/1], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219].)
+([Pub. L. 87–63, title II][/us/pl/87/63/tII], § 202, as added [Pub. L. 111–145][/us/pl/111/145], § 9(i), formerly § 9(g), Mar. 4, 2010, [124 Stat. 63][/us/stat/124/63]; renumbered 9(i), [Pub. L. 113–235, div. B, title VI][/us/pl/113/235/dB/tVI], § 606(1), Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2123, [Pub. L. 87–63, title II, § 202][/us/pl/87/63/s202], formerly § 3, June 29, 1961, [75 Stat. 130][/us/stat/75/130]; [Pub. L. 91–477][/us/pl/91/477], §§ 1, 2, Oct. 21, 1970, [84 Stat. 1071][/us/stat/84/1071], 1072; renumbered and amended [Pub. L. 97–63, § 3(c)][/us/pl/97/63/s3/c], (d), (e)(1), Oct. 16, 1981, [95 Stat. 1012][/us/stat/95/1012], 1013; [Pub. L. 102–372][/us/pl/102/372], §§ 4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, [106 Stat. 1174][/us/stat/106/1174], 1176, 1178, enumerated duties of Secretary of Commerce in carrying out national tourism policy, prior to repeal by [Pub. L. 104–288, § 9(a)][/us/pl/104/288/s9/a], Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407].
+    A prior section 2123, [Pub. L. 87–63, title II][/us/pl/87/63/tII], § 202, formerly § 3, June 29, 1961, [75 Stat. 130][/us/stat/75/130]; [Pub. L. 91–477][/us/pl/91/477], §§ 1, 2, Oct. 21, 1970, [84 Stat. 1071][/us/stat/84/1071], 1072; renumbered and amended [Pub. L. 97–63][/us/pl/97/63], § 3(c), (d), (e)(1), Oct. 16, 1981, [95 Stat. 1012][/us/stat/95/1012], 1013; [Pub. L. 102–372][/us/pl/102/372], §§ 4(n), 6(b), (c), 7, 8(b), Sept. 30, 1992, [106 Stat. 1174][/us/stat/106/1174], 1176, 1178, enumerated duties of Secretary of Commerce in carrying out national tourism policy, prior to repeal by [Pub. L. 104–288][/us/pl/104/288], § 9(a), Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407].
 
 ----------
 
@@ -74,21 +74,21 @@
 ----------
 ----------
 
-[/us/pl/87/63/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs202
-[/us/pl/111/145/s9/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9%2Fi
+[/us/pl/87/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2FtII
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F63
-[/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
+[/us/pl/113/235/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVI
 [/us/stat/128/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2219
 [/us/usc/t22/s2131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2131%2Fb
-[/us/pl/87/63/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2Fs202
+[/us/pl/87/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F63%2FtII
 [/us/stat/75/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F130
 [/us/pl/91/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F477
 [/us/stat/84/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1071
-[/us/pl/97/63/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs3%2Fc
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1012
 [/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
 [/us/stat/106/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1174
-[/us/pl/104/288/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs9%2Fa
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
 
 

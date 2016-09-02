@@ -71,33 +71,33 @@
 
         The Administrator shall establish and carry out special programs under this subpart as part of ongoing programs for child survival, democratization, development of free enterprise, environmental and natural resource management, and other related programs.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 297, as added [Pub. L. 94–161, title III, § 312][/us/pl/94/161/s312], Dec. 20, 1975, [89 Stat. 863][/us/stat/89/863]; amended [Pub. L. 96–53, title I, § 113][/us/pl/96/53/s113], Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 106–373, § 3][/us/pl/106/373/s3], Oct. 27, 2000, [114 Stat. 1431][/us/stat/114/1431].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 297, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 312, Dec. 20, 1975, [89 Stat. 863][/us/stat/89/863]; amended [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 113, Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 106–373][/us/pl/106/373], § 3, Oct. 27, 2000, [114 Stat. 1431][/us/stat/114/1431].)
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–373, § 3(a)(1)][/us/pl/106/373/s3/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to strengthen the capabilities of universities in teaching, research, and extension work to enable them to implement current programs authorized by paragraphs (2), (3), (4), and (5) of this subsection, and those proposed in the report required by [section 2220e of this title][/us/usc/t22/s2220e];”.
+    2000—Subsec. (a)(1). [Pub. L. 106–373][/us/pl/106/373], § 3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to strengthen the capabilities of universities in teaching, research, and extension work to enable them to implement current programs authorized by paragraphs (2), (3), (4), and (5) of this subsection, and those proposed in the report required by [section 2220e of this title][/us/usc/t22/s2220e];”.
 
-    Subsec. (a)(3). [Pub. L. 106–373, § 3(a)(2)][/us/pl/106/373/s3/a/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to provide program support for long-term collaborative university research, in the developing countries themselves to the maximum extent practicable, on food production, distribution, storage, marketing, and consumption;”.
+    Subsec. (a)(3). [Pub. L. 106–373][/us/pl/106/373], § 3(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to provide program support for long-term collaborative university research, in the developing countries themselves to the maximum extent practicable, on food production, distribution, storage, marketing, and consumption;”.
 
-    Subsec. (a)(4). [Pub. L. 106–373, § 3(a)(3)][/us/pl/106/373/s3/a/3], inserted “United States” before “universities” and “agricultural” before “research centers” and substituted “multilateral banks, the institutions of agriculturally developing nations, and United States and foreign nongovernmental organizations supporting extension and other productivity-enhancing programs” for “and the institutions of agriculturally developing nations”.
+    Subsec. (a)(4). [Pub. L. 106–373][/us/pl/106/373], § 3(a)(3), inserted “United States” before “universities” and “agricultural” before “research centers” and substituted “multilateral banks, the institutions of agriculturally developing nations, and United States and foreign nongovernmental organizations supporting extension and other productivity-enhancing programs” for “and the institutions of agriculturally developing nations”.
 
-    Subsec. (b)(1). [Pub. L. 106–373, § 3(b)(1)(A)][/us/pl/106/373/s3/b/1/A], substituted “United States universities with public and private partners of universities” for “universities” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 106–373][/us/pl/106/373], § 3(b)(1)(A), substituted “United States universities with public and private partners of universities” for “universities” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 106–373, § 3(b)(1)(B)][/us/pl/106/373/s3/b/1/B], inserted “, environment,” before “and related” and substituted “agriculturalists” for “farmers and farm families”.
+    Subsec. (b)(1)(C). [Pub. L. 106–373][/us/pl/106/373], § 3(b)(1)(B), inserted “, environment,” before “and related” and substituted “agriculturalists” for “farmers and farm families”.
 
-    Subsec. (b)(2). [Pub. L. 106–373, § 3(b)(2)][/us/pl/106/373/s3/b/2], inserted “, including resources of the private sector,” after “Federal or State resources”.
+    Subsec. (b)(2). [Pub. L. 106–373][/us/pl/106/373], § 3(b)(2), inserted “, including resources of the private sector,” after “Federal or State resources”.
 
-    Subsec. (b)(3). [Pub. L. 106–373, § 3(b)(3)][/us/pl/106/373/s3/b/3], substituted “, the Department of Agriculture, State agricultural agencies, the Department of Commerce, the Department of the Interior, the Environmental Protection Agency, the Office of the United States Trade Representative, the Food and Drug Administration, other appropriate Federal agencies, and appropriate nongovernmental and business organizations.” for “and the United States Department of Agriculture and the United States Department of Commerce.”
+    Subsec. (b)(3). [Pub. L. 106–373][/us/pl/106/373], § 3(b)(3), substituted “, the Department of Agriculture, State agricultural agencies, the Department of Commerce, the Department of the Interior, the Environmental Protection Agency, the Office of the United States Trade Representative, the Food and Drug Administration, other appropriate Federal agencies, and appropriate nongovernmental and business organizations.” for “and the United States Department of Agriculture and the United States Department of Commerce.”
 
-    Subsec. (c)(2). [Pub. L. 106–373, § 3(c)(1)][/us/pl/106/373/s3/c/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be carried out within the developing countries;”.
+    Subsec. (c)(2). [Pub. L. 106–373][/us/pl/106/373], § 3(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “be carried out within the developing countries;”.
 
-    Subsec. (c)(4). [Pub. L. 106–373, § 3(c)(2)][/us/pl/106/373/s3/c/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide for the most effective interrelationship between research, education, and extension in promoting agricultural development in developing countries; and”.
+    Subsec. (c)(4). [Pub. L. 106–373][/us/pl/106/373], § 3(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “provide for the most effective interrelationship between research, education, and extension in promoting agricultural development in developing countries; and”.
 
-    Subsec. (e). [Pub. L. 106–373, § 3(d)][/us/pl/106/373/s3/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–373][/us/pl/106/373], § 3(d), added subsec. (e).
 
-    1979—Subsec. (a)(3). [Pub. L. 96–53, § 113(1)][/us/pl/96/53/s113/1], inserted provision relating to the scope of effort in developing countries.
+    1979—Subsec. (a)(3). [Pub. L. 96–53][/us/pl/96/53], § 113(1), inserted provision relating to the scope of effort in developing countries.
 
-    Subsec. (c). [Pub. L. 96–53, § 113(2)][/us/pl/96/53/s113/2], reworked activity objectives through revising terminology and structure and expanding such objectives to include requirement for a direct relationship between activities and the food and agricultural needs of developing countries.
+    Subsec. (c). [Pub. L. 96–53][/us/pl/96/53], § 113(2), reworked activity objectives through revising terminology and structure and expanding such objectives to include requirement for a direct relationship between activities and the food and agricultural needs of developing countries.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -115,25 +115,25 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs312
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F863
-[/us/pl/96/53/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs113
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F364
-[/us/pl/106/373/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/stat/114/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1431
-[/us/pl/106/373/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fa%2F1
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/usc/t22/s2220e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220e
-[/us/pl/106/373/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fa%2F2
-[/us/pl/106/373/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fa%2F3
-[/us/pl/106/373/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fb%2F1%2FA
-[/us/pl/106/373/s3/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fb%2F1%2FB
-[/us/pl/106/373/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fb%2F2
-[/us/pl/106/373/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fb%2F3
-[/us/pl/106/373/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fc%2F1
-[/us/pl/106/373/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fc%2F2
-[/us/pl/106/373/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs3%2Fd
-[/us/pl/96/53/s113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs113%2F1
-[/us/pl/96/53/s113/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs113%2F2
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

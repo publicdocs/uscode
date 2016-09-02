@@ -43,11 +43,11 @@
 
         This section shall cease to be effective when the Secretary of State determines that there are internationally-agree-upon  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “internationally-agreed-upon”. </sup></sup>  rules in effect on bidding for construction contracts.
 
-([May 7, 1926, ch. 250, § 11][/us/act/1926-05-07/ch250/s11], as added [Pub. L. 98–164, title I, § 136][/us/pl/98/164/s136], Nov. 22, 1983, [97 Stat. 1029][/us/stat/97/1029]; amended [Pub. L. 107–228, div. A, title II, § 206(a)][/us/pl/107/228/s206/a], Sept. 30, 2002, [116 Stat. 1364][/us/stat/116/1364].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 11, as added [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 136, Nov. 22, 1983, [97 Stat. 1029][/us/stat/97/1029]; amended [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 206(a), Sept. 30, 2002, [116 Stat. 1364][/us/stat/116/1364].)
 
  __References in Text__ 
 
-    Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. Section 202(a)(4) of title II was redesignated section 202(a)(3), and former section 202(a)(5) was redesignated section 202(a)(4), by [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(1), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409]. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
+    Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. Section 202(a)(4) of title II was redesignated section 202(a)(3), and former section 202(a)(5) was redesignated section 202(a)(4), by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(o)(1), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409]. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
 
  __Amendments__ 
 
@@ -62,15 +62,15 @@
 
 [/us/usc/t22/s4302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4302%2Fa%2F4
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
-[/us/act/1926-05-07/ch250/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs11
-[/us/pl/98/164/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs136
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1029
-[/us/pl/107/228/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs206%2Fa
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1364
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F283
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F409
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228

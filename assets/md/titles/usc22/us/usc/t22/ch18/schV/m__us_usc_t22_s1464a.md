@@ -53,27 +53,27 @@
 
         (3) Of the funds authorized to be appropriated to the Broadcasting Board of Governors, $1,500,000 for the fiscal year 1990 and $1,500,000 for the fiscal year 1991 shall be available only for the purchase or use of programs produced with grants from the Corporation for Public Broadcasting or produced by United States public broadcasters.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 505, as added [Pub. L. 101–246, title II, § 205(a)][/us/pl/101/246/s205/a], Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(a)(1), Oct. 21, 1998, [112 Stat. 2681–786][/us/stat/112/2681-786].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 505, as added [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 205(a), Feb. 16, 1990, [104 Stat. 50][/us/stat/104/50]; amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(a)(1), Oct. 21, 1998, [112 Stat. 2681–786][/us/stat/112/2681-786].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1335(a)(1)(A)][/us/pl/105/277/s1335/a/1/A], substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
-    Subsec. (b). [Pub. L. 105–277, § 1335(a)(1)(B)][/us/pl/105/277/s1335/a/1/B], (C)(i), in introductory provisions, substituted “Broadcasting Board of Governors” for “United States Information Agency” and “television broadcasts of the United States International Television Service” for “Agency’s television broadcasts (hereinafter in this section referred to as ‘USIA–TV’)”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(B), (C)(i), in introductory provisions, substituted “Broadcasting Board of Governors” for “United States Information Agency” and “television broadcasts of the United States International Television Service” for “Agency’s television broadcasts (hereinafter in this section referred to as ‘USIA–TV’)”.
 
-    Subsec. (b)(1) to (3). [Pub. L. 105–277, § 1335(a)(1)(C)(ii)][/us/pl/105/277/s1335/a/1/C/ii], substituted “The United States International Television Service” for “USIA–TV”, wherever appearing.
+    Subsec. (b)(1) to (3). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(C)(ii), substituted “The United States International Television Service” for “USIA–TV”, wherever appearing.
 
-    Subsec. (c). [Pub. L. 105–277, § 1335(a)(1)(A)][/us/pl/105/277/s1335/a/1/A], substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” in introductory provisions.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(A), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 105–277, § 1335(a)(1)(A)][/us/pl/105/277/s1335/a/1/A], (D), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and substituted “the United States International Television Service” for “USIA–TV” in two places.
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(A), (D), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and substituted “the United States International Television Service” for “USIA–TV” in two places.
 
-    Subsec. (e)(1). [Pub. L. 105–277, § 1335(a)(1)(B)][/us/pl/105/277/s1335/a/1/B], (D), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the United States International Television Service” for “USIA–TV”.
+    Subsec. (e)(1). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(B), (D), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the United States International Television Service” for “USIA–TV”.
 
-    Subsec. (e)(2). [Pub. L. 105–277, § 1335(a)(1)(D)][/us/pl/105/277/s1335/a/1/D], substituted “the United States International Television Service” for “USIA–TV”, wherever appearing.
+    Subsec. (e)(2). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(D), substituted “the United States International Television Service” for “USIA–TV”, wherever appearing.
 
-    [Pub. L. 105–277, § 1335(a)(1)(A)][/us/pl/105/277/s1335/a/1/A], (B), in first sentence, substituted “Broadcasting Board of Governors” for “United States Information Agency”, and in last sentence, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” after “statement by the” and for “United States Information Agency” after “available to the”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(A), (B), in first sentence, substituted “Broadcasting Board of Governors” for “United States Information Agency”, and in last sentence, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” after “statement by the” and for “United States Information Agency” after “available to the”.
 
-    Subsec. (e)(3). [Pub. L. 105–277, § 1335(a)(1)(B)][/us/pl/105/277/s1335/a/1/B], substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+    Subsec. (e)(3). [Pub. L. 105–277][/us/pl/105/277], § 1335(a)(1)(B), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Television Service of USIA__ 
 
-    [Pub. L. 100–204, title II, § 207][/us/pl/100/204/s207], Dec. 22, 1987, [101 Stat. 1374][/us/stat/101/1374], which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specified for Voice of America by [section 1463 of this title][/us/usc/t22/s1463], was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(7), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
+    [Pub. L. 100–204, title II][/us/pl/100/204/tII], § 207, Dec. 22, 1987, [101 Stat. 1374][/us/stat/101/1374], which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specified for Voice of America by [section 1463 of this title][/us/usc/t22/s1463], was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(7), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
 
 ----------
 
@@ -91,26 +91,26 @@
 ----------
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
-[/us/pl/101/246/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs205%2Fa
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F50
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-786
-[/us/pl/105/277/s1335/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FA
-[/us/pl/105/277/s1335/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FB
-[/us/pl/105/277/s1335/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FC%2Fii
-[/us/pl/105/277/s1335/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FA
-[/us/pl/105/277/s1335/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FA
-[/us/pl/105/277/s1335/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FB
-[/us/pl/105/277/s1335/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FD
-[/us/pl/105/277/s1335/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FA
-[/us/pl/105/277/s1335/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335%2Fa%2F1%2FB
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531
-[/us/pl/100/204/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs207
+[/us/pl/100/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtII
 [/us/stat/101/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1374
 [/us/usc/t22/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1463
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 
 

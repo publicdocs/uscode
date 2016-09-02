@@ -61,7 +61,7 @@
 
         (2) The President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a copy of the text of any agreement, which he proposes to sign, that would provide for the establishment of and United States participation in the Organization no less than sixty days prior to his signature. During that sixty-day period there shall be full and formal consultations with and review by those committees in accordance with procedures applicable to reprogramming notifications pursuant to [section 2394–1 of this title][/us/usc/t22/s2394–1].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 464, as added [Pub. L. 99–83, title VII, § 701][/us/pl/99/83/s701], Aug. 8, 1985, [99 Stat. 235][/us/stat/99/235].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 464, as added [Pub. L. 99–83, title VII][/us/pl/99/83/tVII], § 701, Aug. 8, 1985, [99 Stat. 235][/us/stat/99/235].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs701
+[/us/pl/99/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVII
 [/us/stat/99/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F235
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

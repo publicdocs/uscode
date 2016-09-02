@@ -21,7 +21,7 @@
 
     (2) appropriate measures have been taken to ensure that information of direct national security significance will not be compromised at any such site, location, facility, or activity in connection with an IAEA inspection.
 
-([Pub. L. 109–401, title II, § 273][/us/pl/109/401/s273], Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 273, Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t22/s8171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8171
 [/us/usc/t22/s8172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8172
-[/us/pl/109/401/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs273
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2752
 
 

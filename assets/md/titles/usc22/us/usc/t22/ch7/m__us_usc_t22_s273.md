@@ -23,7 +23,7 @@
 
     (3) the sum of $386,050 for payment by the United States of its assessed annual contributions for the period beginning July 1, 1964, and extending through the fiscal year expiring June 30, 1969.
 
-([Aug. 2, 1935, ch. 430, § 1][/us/act/1935-08-02/ch430/s1], [49 Stat. 512][/us/stat/49/512]; [Aug. 31, 1954, ch. 1154][/us/act/1954-08-31/ch1154], [68 Stat. 1008][/us/stat/68/1008]; [Pub. L. 89–646][/us/pl/89/646], Oct. 13, 1966, [80 Stat. 893][/us/stat/80/893]; [Pub. L. 91–340][/us/pl/91/340], July 17, 1970, [84 Stat. 438][/us/stat/84/438]; [Pub. L. 97–241, title I, § 113][/us/pl/97/241/s113], Aug. 24, 1982, [96 Stat. 278][/us/stat/96/278].)
+([Aug. 2, 1935, ch. 430][/us/act/1935-08-02/ch430], § 1, [49 Stat. 512][/us/stat/49/512]; [Aug. 31, 1954, ch. 1154][/us/act/1954-08-31/ch1154], [68 Stat. 1008][/us/stat/68/1008]; [Pub. L. 89–646][/us/pl/89/646], Oct. 13, 1966, [80 Stat. 893][/us/stat/80/893]; [Pub. L. 91–340][/us/pl/91/340], July 17, 1970, [84 Stat. 438][/us/stat/84/438]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 113, Aug. 24, 1982, [96 Stat. 278][/us/stat/96/278].)
 
  __Amendments__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-02/ch430/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-02%2Fch430%2Fs1
+[/us/act/1935-08-02/ch430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-02%2Fch430
 [/us/stat/49/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F512
 [/us/act/1954-08-31/ch1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1154
 [/us/stat/68/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1008
@@ -54,7 +54,7 @@
 [/us/stat/80/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F893
 [/us/pl/91/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F340
 [/us/stat/84/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F438
-[/us/pl/97/241/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs113
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F278
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/91/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F340

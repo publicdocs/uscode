@@ -127,7 +127,7 @@
 
         (5) that includes diplomatic and programmatic initiatives.
 
-([Pub. L. 106–386, div. A, § 106][/us/pl/106/386/s106], Oct. 28, 2000, [114 Stat. 1474][/us/stat/114/1474]; [Pub. L. 108–193, § 3][/us/pl/108/193/s3], Dec. 19, 2003, [117 Stat. 2875][/us/stat/117/2875]; [Pub. L. 109–164, title I, § 101(a)][/us/pl/109/164/s101/a], title II, § 201(b), Jan. 10, 2006, [119 Stat. 3560][/us/stat/119/3560], 3569; [Pub. L. 110–457, title I, § 103(a)][/us/pl/110/457/s103/a], Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046]; [Pub. L. 112–239, div. A, title XVII, § 1702][/us/pl/112/239/s1702], Jan. 2, 2013, [126 Stat. 2093][/us/stat/126/2093]; [Pub. L. 113–4, title XII, § 1207(a)][/us/pl/113/4/s1207/a], Mar. 7, 2013, [127 Stat. 141][/us/stat/127/141].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 106, Oct. 28, 2000, [114 Stat. 1474][/us/stat/114/1474]; [Pub. L. 108–193][/us/pl/108/193], § 3, Dec. 19, 2003, [117 Stat. 2875][/us/stat/117/2875]; [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 101(a), title II, § 201(b), Jan. 10, 2006, [119 Stat. 3560][/us/stat/119/3560], 3569; [Pub. L. 110–457, title I][/us/pl/110/457/tI], § 103(a), Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046]; [Pub. L. 112–239, div. A, title XVII][/us/pl/112/239/dA/tXVII], § 1702, Jan. 2, 2013, [126 Stat. 2093][/us/stat/126/2093]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1207(a), Mar. 7, 2013, [127 Stat. 141][/us/stat/127/141].)
 
  __Amendments__ 
 
@@ -137,13 +137,13 @@
 
     2008—Subsec. (i). [Pub. L. 110–457][/us/pl/110/457] added subsec. (i).
 
-    2006—Subsec. (g). [Pub. L. 109–164, § 201(b)][/us/pl/109/164/s201/b], struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
+    2006—Subsec. (g). [Pub. L. 109–164][/us/pl/109/164], § 201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
 
-    Subsec. (h). [Pub. L. 109–164, § 101(a)][/us/pl/109/164/s101/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 109–164][/us/pl/109/164], § 101(a), added subsec. (h).
 
-    2003—Subsecs. (c) to (f). [Pub. L. 108–193, § 3(a)][/us/pl/108/193/s3/a], added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
+    2003—Subsecs. (c) to (f). [Pub. L. 108–193][/us/pl/108/193], § 3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
 
-    Subsec. (g). [Pub. L. 108–193, § 3(b)][/us/pl/108/193/s3/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–193][/us/pl/108/193], § 3(b), added subsec. (g).
 
  __Change of Name__ 
 
@@ -166,26 +166,26 @@
 
 [/us/usc/t18/s2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2423
 [/us/usc/t22/s7104b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104b%2Fc
-[/us/pl/106/386/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs106
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1474
-[/us/pl/108/193/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs3
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2875
-[/us/pl/109/164/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs101%2Fa
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3560
-[/us/pl/110/457/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs103%2Fa
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5046
-[/us/pl/112/239/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1702
+[/us/pl/112/239/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVII
 [/us/stat/126/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2093
-[/us/pl/113/4/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1207%2Fa
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F141
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t22/s7104b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104b%2Fc
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
-[/us/pl/109/164/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs201%2Fb
-[/us/pl/109/164/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs101%2Fa
-[/us/pl/108/193/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs3%2Fa
-[/us/pl/108/193/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs3%2Fb
+[/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
+[/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t22/s7104d/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104d%2Fc%2F1%2FB
 [/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103

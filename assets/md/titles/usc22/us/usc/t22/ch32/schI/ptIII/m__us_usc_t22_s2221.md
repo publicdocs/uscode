@@ -19,7 +19,7 @@
 
         When he determines it to be in the national interest, the President is authorized to make voluntary contributions on a grant basis to international organizations and to programs administered by such organizations, and in the case of the Indus Basin Development Fund administered by the International Bank for Reconstruction and Development to make grants and loans payable as to principal and interest in United States dollars and subject to the provisions of [section 2151t(b) of this title][/us/usc/t22/s2151t/b], on such terms and conditions as he may determine, in order to further the purposes of subchapter I of this chapter.
 
-    (b) __Repealed.__  __[__  __Pub. L. 97–113, title VII, § 734(a)(1)__  __][/us/pl/97/113/s734/a/1]__  __,__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 97–113, title VII__  __][/us/pl/97/113/tVII]__  __, § 734(a)(1),__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__ 
 
     (c) __Palestine refugees; considerations and conditions for furnishing assistance__ 
 
@@ -47,7 +47,7 @@
 
         The President is authorized to permit the United States to participate in and to use any of the funds made available under subchapter I of this chapter after December 29, 1981, for the purpose of furnishing assistance (on such terms and conditions as the President may determine) to the International Food Policy Research Institute.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 301, Sept. 4, 1961, [75 Stat. 433][/us/stat/75/433]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 106 (a), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 107(a)–(c), Sept. 19, 1966, [80 Stat. 800][/us/stat/80/800]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 110(a), Nov. 14, 1967, [81 Stat. 453][/us/stat/81/453]; [Pub. L. 91–175][/us/pl/91/175], pt. I, § 108(a), Dec. 30, 1969, [83 Stat. 819][/us/stat/83/819]; [Pub. L. 93–189, § 9(1)][/us/pl/93/189/s9/1], Dec. 17, 1973, [87 Stat. 718][/us/stat/87/718]; [Pub. L. 94–161, title III, § 313(c)][/us/pl/94/161/s313/c], Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866]; [Pub. L. 95–424, title I][/us/pl/95/424], §§ 102(b)(2)(A), 117(d), Oct. 6, 1978, [92 Stat. 941][/us/stat/92/941], 953; [Pub. L. 96–533, title VII, § 702][/us/pl/96/533/s702], Dec. 16, 1980, [94 Stat. 3156][/us/stat/94/3156]; [Pub. L. 97–113, title III, § 311(a)][/us/pl/97/113/s311/a], title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536], 1560.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 301, Sept. 4, 1961, [75 Stat. 433][/us/stat/75/433]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 106 (a), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 107(a)–(c), Sept. 19, 1966, [80 Stat. 800][/us/stat/80/800]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 110(a), Nov. 14, 1967, [81 Stat. 453][/us/stat/81/453]; [Pub. L. 91–175][/us/pl/91/175], pt. I, § 108(a), Dec. 30, 1969, [83 Stat. 819][/us/stat/83/819]; [Pub. L. 93–189][/us/pl/93/189], § 9(1), Dec. 17, 1973, [87 Stat. 718][/us/stat/87/718]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 313(c), Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], §§ 102(b)(2)(A), 117(d), Oct. 6, 1978, [92 Stat. 941][/us/stat/92/941], 953; [Pub. L. 96–533, title VII][/us/pl/96/533/tVII], § 702, Dec. 16, 1980, [94 Stat. 3156][/us/stat/94/3156]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 311(a), title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536], 1560.)
 
  __References in Text__ 
 
@@ -59,19 +59,19 @@
 
  __Amendments__ 
 
-    1981—Subsec. (b). [Pub. L. 97–113, § 734(a)(1)][/us/pl/97/113/s734/a/1], struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See [section 2370(f) of this title][/us/usc/t22/s2370/f].
+    1981—Subsec. (b). [Pub. L. 97–113][/us/pl/97/113], § 734(a)(1), struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See [section 2370(f) of this title][/us/usc/t22/s2370/f].
 
-    Subsec. (e)(3). [Pub. L. 97–113, § 734(a)(1)][/us/pl/97/113/s734/a/1], struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United States representatives on those organizations. See [section 2394 of this title][/us/usc/t22/s2394].
+    Subsec. (e)(3). [Pub. L. 97–113][/us/pl/97/113], § 734(a)(1), struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United States representatives on those organizations. See [section 2394 of this title][/us/usc/t22/s2394].
 
-    Subsec. (h). [Pub. L. 97–113, § 311(a)][/us/pl/97/113/s311/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 97–113][/us/pl/97/113], § 311(a), added subsec. (h).
 
-    1980—Subsec. (d). [Pub. L. 96–533, § 702(a)][/us/pl/96/533/s702/a], required the Comptroller General to report to Congress and the President the results of the audits.
+    1980—Subsec. (d). [Pub. L. 96–533][/us/pl/96/533], § 702(a), required the Comptroller General to report to Congress and the President the results of the audits.
 
-    Subsec. (e)(1). [Pub. L. 96–533, § 702(b)(1)][/us/pl/96/533/s702/b/1]–(3), substituted “organizations of external, professionally” for “organizations a single professionally”, “groups” for “group” in three places, “evaluation, and audits” for “and evaluation”, and “evaluation, or audit” for “and evaluation”.
+    Subsec. (e)(1). [Pub. L. 96–533][/us/pl/96/533], § 702(b)(1)–(3), substituted “organizations of external, professionally” for “organizations a single professionally”, “groups” for “group” in three places, “evaluation, and audits” for “and evaluation”, and “evaluation, or audit” for “and evaluation”.
 
-    Subsec. (e)(2). [Pub. L. 96–533, § 702(b)(4)][/us/pl/96/533/s702/b/4], (5), required audits of programs and activities and reports of professionally qualified groups to include such audits.
+    Subsec. (e)(2). [Pub. L. 96–533][/us/pl/96/533], § 702(b)(4), (5), required audits of programs and activities and reports of professionally qualified groups to include such audits.
 
-    Subsec. (e)(3). [Pub. L. 96–533, § 702(b)(6)][/us/pl/96/533/s702/b/6], required the Comptroller General to include in the reports to Congress and the President his evaluation of the reports received by the United States representatives to the international organizations and related information.
+    Subsec. (e)(3). [Pub. L. 96–533][/us/pl/96/533], § 702(b)(6), required the Comptroller General to include in the reports to Congress and the President his evaluation of the reports received by the United States representatives to the international organizations and related information.
 
     1978—Subsec. (a). [Pub. L. 95–424][/us/pl/95/424] substituted “[section 2151t(b) of this title][/us/usc/t22/s2151t/b]” for “[section 2161(d) of this title][/us/usc/t22/s2161/d]”.
 
@@ -85,11 +85,11 @@
 
     1967—Subsec. (d). [Pub. L. 90–137][/us/pl/90/137] added subsec. (d).
 
-    1966—Subsec. (a). [Pub. L. 89–583, § 107(a)][/us/pl/89/583/s107/a], authorized in the case of the Indus Basin Development Executive grants and loans payable as to principal and interest in United States dollars and subject to the provisions of [section 2161(d) of this title][/us/usc/t22/s2161/d].
+    1966—Subsec. (a). [Pub. L. 89–583][/us/pl/89/583], § 107(a), authorized in the case of the Indus Basin Development Executive grants and loans payable as to principal and interest in United States dollars and subject to the provisions of [section 2161(d) of this title][/us/usc/t22/s2161/d].
 
-    Subsec. (b). [Pub. L. 89–583, § 107(b)][/us/pl/89/583/s107/b], substituted “United Nations Development Program” for “United Nations Expanded Program of Technical Assistance and the United States Special Fund” and restricted economic or technical assistance to Cuba.
+    Subsec. (b). [Pub. L. 89–583][/us/pl/89/583], § 107(b), substituted “United Nations Development Program” for “United Nations Expanded Program of Technical Assistance and the United States Special Fund” and restricted economic or technical assistance to Cuba.
 
-    Subsec. (c). [Pub. L. 89–583, § 107(c)][/us/pl/89/583/s107/c], substituted provisions limiting contributions by the United States for fiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
+    Subsec. (c). [Pub. L. 89–583][/us/pl/89/583], § 107(c), substituted provisions limiting contributions by the United States for fiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
 
     1965—Subsec. (c). [Pub. L. 89–171][/us/pl/89/171] limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
 
@@ -103,11 +103,11 @@
 
  __Use of Contributions for Projects in Cuba__ 
 
-[Pub. L. 91–194, title I, § 100][/us/pl/91/194/s100], Feb. 9, 1970, [84 Stat. 5][/us/stat/84/5], provided in part: 
+[Pub. L. 91–194, title I][/us/pl/91/194/tI], § 100, Feb. 9, 1970, [84 Stat. 5][/us/stat/84/5], provided in part: 
 
 > “That the President shall seek to assure that no contribution to the United Nations Development Program authorized by the Foreign Assistance Act of 1961, as amended \[section 2151 et seq. of this title\], shall be used for projects for economic or technical assistance to the Government of Cuba, so long as Cuba is governed by the Castro regime.”
 
-    Similar provisions were contained in [Pub. L. 89–691, title I, § 100][/us/pl/89/691/s100], Oct. 15, 1966, [80 Stat. 1018][/us/stat/80/1018]; [Pub. L. 90–249, title I, § 100][/us/pl/90/249/s100], Jan. 2, 1968, [81 Stat. 936][/us/stat/81/936]; [Pub. L. 90–581, title I, § 100][/us/pl/90/581/s100], Oct. 17, 1968, [82 Stat. 1137][/us/stat/82/1137].
+    Similar provisions were contained in [Pub. L. 89–691, title I][/us/pl/89/691/tI], § 100, Oct. 15, 1966, [80 Stat. 1018][/us/stat/80/1018]; [Pub. L. 90–249, title I][/us/pl/90/249/tI], § 100, Jan. 2, 1968, [81 Stat. 936][/us/stat/81/936]; [Pub. L. 90–581, title I][/us/pl/90/581/tI], § 100, Oct. 17, 1968, [82 Stat. 1137][/us/stat/82/1137].
 
 ----------
 
@@ -117,7 +117,7 @@
 ----------
 
 [/us/usc/t22/s2151t/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151t%2Fb
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F433
@@ -129,30 +129,30 @@
 [/us/stat/81/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F453
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F819
-[/us/pl/93/189/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs9%2F1
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F718
-[/us/pl/94/161/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fc
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F866
-[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F941
-[/us/pl/96/533/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs702
+[/us/pl/96/533/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtVII
 [/us/stat/94/3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3156
-[/us/pl/97/113/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs311%2Fa
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1536
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
-[/us/pl/97/113/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs311%2Fa
-[/us/pl/96/533/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs702%2Fa
-[/us/pl/96/533/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs702%2Fb%2F1
-[/us/pl/96/533/s702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs702%2Fb%2F4
-[/us/pl/96/533/s702/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs702%2Fb%2F6
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/usc/t22/s2151t/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151t%2Fb
 [/us/usc/t22/s2161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2161%2Fd
@@ -161,22 +161,22 @@
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
-[/us/pl/89/583/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs107%2Fa
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/usc/t22/s2161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2161%2Fd
-[/us/pl/89/583/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs107%2Fb
-[/us/pl/89/583/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs107%2Fc
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/91/194/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2Fs100
+[/us/pl/91/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2FtI
 [/us/stat/84/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F5
-[/us/pl/89/691/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F691%2Fs100
+[/us/pl/89/691/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F691%2FtI
 [/us/stat/80/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1018
-[/us/pl/90/249/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2Fs100
+[/us/pl/90/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2FtI
 [/us/stat/81/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F936
-[/us/pl/90/581/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2Fs100
+[/us/pl/90/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2FtI
 [/us/stat/82/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1137
 
 

@@ -21,7 +21,7 @@
 
     (2) the establishment of procedures which ensure the inclusion, in future economic reform programs approved by the Fund, of policy options which eliminate or reduce the potential adverse impact on the well-being of the poor or the environment resulting from such programs.
 
-([July 31, 1945, ch. 339, § 55][/us/act/1945-07-31/ch339/s55], as added [Pub. L. 101–240, title III, § 302][/us/pl/101/240/s302], Dec. 19, 1989, [103 Stat. 2500][/us/stat/103/2500].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 55, as added [Pub. L. 101–240, title III][/us/pl/101/240/tIII], § 302, Dec. 19, 1989, [103 Stat. 2500][/us/stat/103/2500].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs55
-[/us/pl/101/240/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs302
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/101/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtIII
 [/us/stat/103/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2500
 
 

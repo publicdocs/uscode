@@ -49,7 +49,7 @@
 
         (E) requiring all members seeking new loans from the Fund to provide to the Fund detailed information regarding their internal control procedures, financial reporting and audit mechanisms and, in cases where there are questions about the adequacy of these systems, undertaking an on-site review and identifying needed remedies.
 
-([July 31, 1945, ch. 339, § 63][/us/act/1945-07-31/ch339/s63], as added [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VIII, § 805\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–67.)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 63, as added [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title VIII, § 805\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–67.)
 
  __Codification__ 
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs63
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 [/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 

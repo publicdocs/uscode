@@ -57,7 +57,7 @@
 
             (B) the Committee on Armed Services, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 114–92, div. A, title X, § 1092][/us/pl/114/92/s1092], Nov. 25, 2015, [129 Stat. 1018][/us/stat/129/1018].)
+([Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1092, Nov. 25, 2015, [129 Stat. 1018][/us/stat/129/1018].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1092
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1018
 
 

@@ -33,7 +33,7 @@
 
         The Secretary of the Treasury shall analyze on an annual basis the exchange rate policies of foreign countries, in consultation with the International Monetary Fund, and consider whether countries manipulate the rate of exchange between their currency and the United States dollar for purposes of preventing effective balance of payments adjustments or gaining unfair competitive advantage in international trade. If the Secretary considers that such manipulation is occurring with respect to countries that (1) have material global current account surpluses; and (2) have significant bilateral trade surpluses with the United States, the Secretary of the Treasury shall take action to initiate negotiations with such foreign countries on an expedited basis, in the International Monetary Fund or bilaterally, for the purpose of ensuring that such countries regularly and promptly adjust the rate of exchange between their currencies and the United States dollar to permit effective balance of payments adjustments and to eliminate the unfair advantage. The Secretary shall not be required to initiate negotiations in cases where such negotiations would have a serious detrimental impact on vital national economic and security interests; in such cases, the Secretary shall inform the chairman and the ranking minority member of the Committee on Banking, Housing, and Urban Affairs of the Senate and of the Committee on Banking, Finance and Urban Affairs of the House of Representatives of his determination.
 
-([Pub. L. 100–418, title III, § 3004][/us/pl/100/418/s3004], Aug. 23, 1988, [102 Stat. 1373][/us/stat/102/1373].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3004, Aug. 23, 1988, [102 Stat. 1373][/us/stat/102/1373].)
 
  __Change of Name__ 
 
@@ -41,7 +41,7 @@
 
  __Negotiations on Currency Exchange Rates__ 
 
-[Pub. L. 100–418, title I, § 1124][/us/pl/100/418/s1124], Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1124, Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3004
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1373
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/100/418/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1124
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1146
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t22/s5304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5304%2Fb

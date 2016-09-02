@@ -51,7 +51,7 @@
 
         (3) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 607, Sept. 4, 1961, [75 Stat. 441][/us/stat/75/441]; [Pub. L. 90–554][/us/pl/90/554], pt. III, § 301(b), Oct. 8, 1968, [82 Stat. 963][/us/stat/82/963]; [Pub. L. 94–161, title III, § 315][/us/pl/94/161/s315], Dec. 20, 1975, [89 Stat. 867][/us/stat/89/867]; [Pub. L. 95–88, title I, § 122(a)][/us/pl/95/88/s122/a], Aug. 3, 1977, [91 Stat. 541][/us/stat/91/541]; [Pub. L. 95–424, title V, § 503][/us/pl/95/424/s503], Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 96–53, title I, § 121][/us/pl/96/53/s121], Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 99–93, title I, § 129][/us/pl/99/93/s129], Aug. 16, 1985, [99 Stat. 419][/us/stat/99/419].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 607, Sept. 4, 1961, [75 Stat. 441][/us/stat/75/441]; [Pub. L. 90–554][/us/pl/90/554], pt. III, § 301(b), Oct. 8, 1968, [82 Stat. 963][/us/stat/82/963]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 315, Dec. 20, 1975, [89 Stat. 867][/us/stat/89/867]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 122(a), Aug. 3, 1977, [91 Stat. 541][/us/stat/91/541]; [Pub. L. 95–424, title V][/us/pl/95/424/tV], § 503, Oct. 6, 1978, [92 Stat. 959][/us/stat/92/959]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 121, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 129, Aug. 16, 1985, [99 Stat. 419][/us/stat/99/419].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 
  __Amendments__ 
 
-    1985—Subsec. (c)(1). [Pub. L. 99–93, § 129(1)(A)][/us/pl/99/93/s129/1/A], (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d), no” for “No”.
+    1985—Subsec. (c)(1). [Pub. L. 99–93][/us/pl/99/93], § 129(1)(A), (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d), no” for “No”.
 
-    Subsec. (c)(2). [Pub. L. 99–93, § 129(1)(C)][/us/pl/99/93/s129/1/C], added par. (2).
+    Subsec. (c)(2). [Pub. L. 99–93][/us/pl/99/93], § 129(1)(C), added par. (2).
 
-    Subsec. (d). [Pub. L. 99–93, § 129(2)][/us/pl/99/93/s129/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–93][/us/pl/99/93], § 129(2), added subsec. (d).
 
     1979—Subsec. (a). [Pub. L. 96–53][/us/pl/96/53] substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
@@ -93,7 +93,7 @@
 
  __Regulations__ 
 
-[Pub. L. 95–88, title I, § 122(b)][/us/pl/95/88/s122/b], Aug. 3, 1977, [91 Stat. 541][/us/stat/91/541], provided that: 
+[Pub. L. 95–88, title I][/us/pl/95/88/tI], § 122(b), Aug. 3, 1977, [91 Stat. 541][/us/stat/91/541], provided that: 
 
 > “For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies.”
 
@@ -151,16 +151,16 @@
 [/us/stat/75/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F441
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/stat/82/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F963
-[/us/pl/94/161/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs315
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F867
-[/us/pl/95/88/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs122%2Fa
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F541
-[/us/pl/95/424/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs503
+[/us/pl/95/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtV
 [/us/stat/92/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F959
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/96/53/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs121
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F366
-[/us/pl/99/93/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs129
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F419
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -169,9 +169,9 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
-[/us/pl/99/93/s129/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs129%2F1%2FA
-[/us/pl/99/93/s129/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs129%2F1%2FC
-[/us/pl/99/93/s129/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs129%2F2
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
@@ -183,7 +183,7 @@
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/88/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs122%2Fb
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F541
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

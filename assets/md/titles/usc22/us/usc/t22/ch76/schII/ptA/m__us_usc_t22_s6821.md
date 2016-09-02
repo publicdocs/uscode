@@ -53,7 +53,7 @@
 
                     The position established by subparagraph (A) is abolished upon the date of termination of the Trust Fund.
 
-([Pub. L. 106–264, title I, § 121][/us/pl/106/264/s121], Aug. 19, 2000, [114 Stat. 754][/us/stat/114/754].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 121, Aug. 19, 2000, [114 Stat. 754][/us/stat/114/754].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t22/s6824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6824
-[/us/pl/106/264/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs121
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F754
 
 

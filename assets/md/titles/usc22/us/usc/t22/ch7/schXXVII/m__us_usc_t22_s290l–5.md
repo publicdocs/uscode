@@ -23,7 +23,7 @@
 
         For purposes of [section 1391(b) of title 28][/us/usc/t28/s1391/b], the Bank shall be deemed to be a resident of the judicial district in which the principal office of the Bank in the United States, or its agent appointed for the purpose of accepting service or notice of service, is located.
 
-([Pub. L. 101–513, title V, § 562(c)(7)][/us/pl/101/513/s562/c/7], Nov. 5, 1990, [104 Stat. 2035][/us/stat/104/2035].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(7), Nov. 5, 1990, [104 Stat. 2035][/us/stat/104/2035].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t28/s1391/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391%2Fb
-[/us/pl/101/513/s562/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F7
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2035
 
 

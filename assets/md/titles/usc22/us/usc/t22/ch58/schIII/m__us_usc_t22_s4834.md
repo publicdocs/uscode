@@ -59,7 +59,7 @@
 
             (B) the decision by the Federal agency or instrumentality to take disciplinary or other appropriate action against that individual or the reasons for deciding not to take disciplinary or other action with respect to that individual.
 
-([Pub. L. 99–399, title III, § 304][/us/pl/99/399/s304], Aug. 27, 1986, [100 Stat. 861][/us/stat/100/861]; [Pub. L. 100–204, title I, § 156(b)][/us/pl/100/204/s156/b], Dec. 22, 1987, [101 Stat. 1354][/us/stat/101/1354].)
+([Pub. L. 99–399, title III][/us/pl/99/399/tIII], § 304, Aug. 27, 1986, [100 Stat. 861][/us/stat/100/861]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 156(b), Dec. 22, 1987, [101 Stat. 1354][/us/stat/101/1354].)
 
  __Amendments__ 
 
@@ -73,9 +73,9 @@
 ----------
 
 [/us/usc/t22/s4833/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4833%2Fa%2F1%2FB
-[/us/pl/99/399/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs304
+[/us/pl/99/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIII
 [/us/stat/100/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F861
-[/us/pl/100/204/s156/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs156%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1354
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 

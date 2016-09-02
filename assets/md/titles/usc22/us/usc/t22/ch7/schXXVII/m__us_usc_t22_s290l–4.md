@@ -33,7 +33,7 @@
 
         Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
-([Pub. L. 101–513, title V, § 562(c)(6)][/us/pl/101/513/s562/c/6], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(6), Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __First General Capital Increase__ 
 
-    [Pub. L. 105–118, title V, § 560(a)][/us/pl/105/118/s560/a], Nov. 26, 1997, [111 Stat. 2425][/us/stat/111/2425], provided in part that the Secretary of the Treasury may, to effect the United States participation in the first general capital increase of the European Bank for Reconstruction and Development, subscribe to and make payment for 100,000 additional shares of the capital stock of the Bank on behalf of the United States, and authorized $285,772,500 for paid-in capital and $984,327,500 for callable capital of the European Bank for Reconstruction and Development to be appropriated without fiscal year limitation, subject to obtaining the necessary appropriations.
+    [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 560(a), Nov. 26, 1997, [111 Stat. 2425][/us/stat/111/2425], provided in part that the Secretary of the Treasury may, to effect the United States participation in the first general capital increase of the European Bank for Reconstruction and Development, subscribe to and make payment for 100,000 additional shares of the capital stock of the Bank on behalf of the United States, and authorized $285,772,500 for paid-in capital and $984,327,500 for callable capital of the European Bank for Reconstruction and Development to be appropriated without fiscal year limitation, subject to obtaining the necessary appropriations.
 
 ----------
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/101/513/s562/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F6
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2034
-[/us/pl/105/118/s560/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs560%2Fa
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2425
 
 

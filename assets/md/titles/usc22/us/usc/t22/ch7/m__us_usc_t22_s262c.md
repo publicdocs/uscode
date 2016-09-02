@@ -33,7 +33,7 @@
 
         The Congress recognizes that economic development is a long-term process needing funding commitments to international financial institutions. It also notes that the availability of funds for the United States contribution to international financial institutions is subject to the appropriations process.
 
-([Pub. L. 95–118, title I, § 101][/us/pl/95/118/s101], Oct. 3, 1977, [91 Stat. 1067][/us/stat/91/1067].)
+([Pub. L. 95–118, title I][/us/pl/95/118/tI], § 101, Oct. 3, 1977, [91 Stat. 1067][/us/stat/91/1067].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Future United States Contributions to the International Financial Institutions__ 
 
-[Pub. L. 96–536, § 101(b)][/us/pl/96/536/s101/b] \[H.J. Res. 637, § 101(b); H.R. 4473, title I\], Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167], provided in part that: 
+[Pub. L. 96–536][/us/pl/96/536], § 101(b) \[H.J. Res. 637, § 101(b); H.R. 4473, title I\], Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167], provided in part that: 
 
 > “It is the sense of the Congress that the United States share of contributions to future replenishments of the International Financial Institutions should not exceed the percentages enumerated below for each of the respective accounts within these institutions:
 
@@ -81,15 +81,15 @@
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 96–123, § 101(a)][/us/pl/96/123/s101/a] \[incorporating [Pub. L. 95–481, title III][/us/pl/95/481]\], Nov. 20, 1979, [93 Stat. 923][/us/stat/93/923].
+    [Pub. L. 96–123][/us/pl/96/123], § 101(a) \[incorporating [Pub. L. 95–481, title III][/us/pl/95/481/tIII]\], Nov. 20, 1979, [93 Stat. 923][/us/stat/93/923].
 
-    [Pub. L. 95–481, title III][/us/pl/95/481], Oct. 18, 1978, [92 Stat. 1599][/us/stat/92/1599].
+    [Pub. L. 95–481, title III][/us/pl/95/481/tIII], Oct. 18, 1978, [92 Stat. 1599][/us/stat/92/1599].
 
-    [Pub. L. 95–148, title III][/us/pl/95/148], Oct. 31, 1977, [91 Stat. 1238][/us/stat/91/1238].
+    [Pub. L. 95–148, title III][/us/pl/95/148/tIII], Oct. 31, 1977, [91 Stat. 1238][/us/stat/91/1238].
 
  __Standards for Human Needs and Protection of Human Rights; Consultation for Development of Criteria; Report to Congress__ 
 
-[Pub. L. 95–118, title VII, § 703][/us/pl/95/118/s703], Oct. 3, 1977, [91 Stat. 1070][/us/stat/91/1070], provided that:
+[Pub. L. 95–118, title VII][/us/pl/95/118/tVII], § 703, Oct. 3, 1977, [91 Stat. 1070][/us/stat/91/1070], provided that:
 
 >     “(a) The Secretary of State and the Secretary of the Treasury shall initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards and are seen to be moving toward making them effective in their own systems of governance.
 
@@ -102,23 +102,23 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/pl/95/118/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs101
+[/us/pl/95/118/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtI
 [/us/stat/91/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1067
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
 [/us/stat/91/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1067
 [/us/usc/t22/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs261
 [/us/pl/95/118/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1001
 [/us/usc/t22/s282i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs282i
-[/us/pl/96/536/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fb
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3167
-[/us/pl/96/123/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F123%2Fs101%2Fa
-[/us/pl/95/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481
+[/us/pl/96/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F123
+[/us/pl/95/481/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2FtIII
 [/us/stat/93/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F923
-[/us/pl/95/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481
+[/us/pl/95/481/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F481%2FtIII
 [/us/stat/92/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1599
-[/us/pl/95/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148
+[/us/pl/95/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F148%2FtIII
 [/us/stat/91/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1238
-[/us/pl/95/118/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs703
+[/us/pl/95/118/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtVII
 [/us/stat/91/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1070
 
 

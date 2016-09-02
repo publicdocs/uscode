@@ -131,7 +131,7 @@
 
         The Institute may obtain administrative support services from the Administrator of General Services and use all sources of supply and services of the General Services Administration on a reimbursable basis.
 
-([Pub. L. 98–525, title XVII, § 1705][/us/pl/98/525/s1705], Oct. 19, 1984, [98 Stat. 2651][/us/stat/98/2651]; [Pub. L. 100–50, § 25][/us/pl/100/50/s25], June 3, 1987, [101 Stat. 363][/us/stat/101/363]; [Pub. L. 100–418, title VI, § 6272][/us/pl/100/418/s6272], Aug. 23, 1988, [102 Stat. 1523][/us/stat/102/1523]; [Pub. L. 101–520, title III, § 319(a)][/us/pl/101/520/s319/a], Nov. 5, 1990, [104 Stat. 2284][/us/stat/104/2284]; [Pub. L. 102–325, title XV, § 1554(b)][/us/pl/102/325/s1554/b], (c), July 23, 1992, [106 Stat. 839][/us/stat/106/839]; [Pub. L. 105–244, title IX, § 931(1)][/us/pl/105/244/s931/1], Oct. 7, 1998, [112 Stat. 1834][/us/stat/112/1834]; [Pub. L. 110–315, title IX, § 921(a)][/us/pl/110/315/s921/a], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1705, Oct. 19, 1984, [98 Stat. 2651][/us/stat/98/2651]; [Pub. L. 100–50][/us/pl/100/50], § 25, June 3, 1987, [101 Stat. 363][/us/stat/101/363]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6272, Aug. 23, 1988, [102 Stat. 1523][/us/stat/102/1523]; [Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 319(a), Nov. 5, 1990, [104 Stat. 2284][/us/stat/104/2284]; [Pub. L. 102–325, title XV][/us/pl/102/325/tXV], § 1554(b), (c), July 23, 1992, [106 Stat. 839][/us/stat/106/839]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 931(1), Oct. 7, 1998, [112 Stat. 1834][/us/stat/112/1834]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 921(a), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].)
 
  __References in Text__ 
 
@@ -141,13 +141,13 @@
 
     2008—Subsec. (b)(3). [Pub. L. 110–315][/us/pl/110/315] struck out “the Arms Control and Disarmament Agency,” after “Defense,”.
 
-    1998—Subsec. (f). [Pub. L. 105–244, § 931(1)(A)][/us/pl/105/244/s931/1/A], inserted “personal service and other” after “may enter into”.
+    1998—Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 931(1)(A), inserted “personal service and other” after “may enter into”.
 
-    Subsec. (o). [Pub. L. 105–244, § 931(1)(B)][/us/pl/105/244/s931/1/B], inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
+    Subsec. (o). [Pub. L. 105–244][/us/pl/105/244], § 931(1)(B), inserted “and use all sources of supply and services of the General Services Administration” after “Services”.
 
-    1992—Subsec. (b)(10). [Pub. L. 102–325, § 1554(b)][/us/pl/102/325/s1554/b], added par. (10).
+    1992—Subsec. (b)(10). [Pub. L. 102–325][/us/pl/102/325], § 1554(b), added par. (10).
 
-    Subsec. (h)(2). [Pub. L. 102–325, § 1554(c)(1)][/us/pl/102/325/s1554/c/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
+    Subsec. (h)(2). [Pub. L. 102–325][/us/pl/102/325], § 1554(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Institute may not accept any gift, contribution, or grant from, or enter into any contract with, a foreign government, any agency or instrumentality of such government, any international organization, or any foreign national, except that the Institute may accept the payment of tuition by foreign nationals for instruction provided by the Institute. For purposes of this paragraph, the term—
 
     “(A) ‘foreign national’ means—
 
@@ -157,11 +157,11 @@
 
     “(B) ‘person’ means a natural person, partnership, association, other unincorporated body, or corporation.”
 
-    Subsec. (h)(3). [Pub. L. 102–325, § 1554(c)(2)][/us/pl/102/325/s1554/c/2], substituted at end “individual, except such Institute or legal entity may accept such a gift or contribution to—” for “individual.” and added subpars. (A) and (B).
+    Subsec. (h)(3). [Pub. L. 102–325][/us/pl/102/325], § 1554(c)(2), substituted at end “individual, except such Institute or legal entity may accept such a gift or contribution to—” for “individual.” and added subpars. (A) and (B).
 
-    1990—Subsec. (b)(9), (10). [Pub. L. 101–520, § 319(a)(1)][/us/pl/101/520/s319/a/1], redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
+    1990—Subsec. (b)(9), (10). [Pub. L. 101–520][/us/pl/101/520], § 319(a)(1), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “recommend to the Congress the establishment of a United States Medal of Peace to be awarded under such procedures as the Congress may determine, except that no person associated with the Institute may receive the United States Medal of Peace; and”.
 
-    Subsecs. (c) to (o). [Pub. L. 101–520, § 319(a)(2)][/us/pl/101/520/s319/a/2], (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (o), respectively.
+    Subsecs. (c) to (o). [Pub. L. 101–520][/us/pl/101/520], § 319(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (n) as (d) to (o), respectively.
 
     1988—Subsec. (b)(3). [Pub. L. 100–418][/us/pl/100/418] made technical amendment to directory language of [Pub. L. 100–50][/us/pl/100/50], see 1987 Amendment note below.
 
@@ -201,30 +201,30 @@
 [/us/usc/t22/s4603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4603%2Fc
 [/us/usc/t22/s4603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4603%2Fc
 [/us/usc/t22/s4603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4603%2Fc
-[/us/pl/98/525/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1705
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2651
-[/us/pl/100/50/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs25
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F363
-[/us/pl/100/418/s6272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6272
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1523
-[/us/pl/101/520/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs319%2Fa
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2284
-[/us/pl/102/325/s1554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1554%2Fb
+[/us/pl/102/325/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXV
 [/us/stat/106/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F839
-[/us/pl/105/244/s931/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs931%2F1
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1834
-[/us/pl/110/315/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs921%2Fa
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/105/244/s931/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs931%2F1%2FA
-[/us/pl/105/244/s931/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs931%2F1%2FB
-[/us/pl/102/325/s1554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1554%2Fb
-[/us/pl/102/325/s1554/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1554%2Fc%2F1
-[/us/pl/102/325/s1554/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1554%2Fc%2F2
-[/us/pl/101/520/s319/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs319%2Fa%2F1
-[/us/pl/101/520/s319/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs319%2Fa%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
+[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50

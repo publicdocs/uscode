@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that in providing assistance through loans or other means to any nation, in particular El Salvador and Nicaragua, the Fund and the Bank should encourage programs which assist the private sector to create an environment which will stabilize the economy of the nation; and that the United States representatives to the Fund and the Bank shall promote the use of assistance by the Fund and the Bank to encourage such programs.
 
-([July 31, 1945, ch. 339, § 38][/us/act/1945-07-31/ch339/s38], as added [Pub. L. 96–389, § 8][/us/pl/96/389/s8], Oct. 7, 1980, [94 Stat. 1554][/us/stat/94/1554].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 38, as added [Pub. L. 96–389][/us/pl/96/389], § 8, Oct. 7, 1980, [94 Stat. 1554][/us/stat/94/1554].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs38
-[/us/pl/96/389/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs8
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/96/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389
 [/us/stat/94/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1554
 [/us/pl/96/389/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs12
 [/us/usc/t22/s286s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286s

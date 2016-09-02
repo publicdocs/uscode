@@ -25,7 +25,7 @@
 
     (4) spouses and minor children of volunteer leaders accompanying them may receive such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine.
 
-([Pub. L. 87–293, title I, § 6][/us/pl/87/293/s6], Sept. 22, 1961, [75 Stat. 615][/us/stat/75/615]; [Pub. L. 88–200, § 3][/us/pl/88/200/s3], Dec. 13, 1963, [77 Stat. 360][/us/stat/77/360]; [Pub. L. 89–134, § 3][/us/pl/89/134/s3], Aug. 24, 1965, [79 Stat. 549][/us/stat/79/549]; [Pub. L. 91–352, § 4][/us/pl/91/352/s4], July 24, 1970, [84 Stat. 465][/us/stat/84/465]; [Pub. L. 97–387, § 1(a)][/us/pl/97/387/s1/a], Dec. 23, 1982, [96 Stat. 1947][/us/stat/96/1947].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 6, Sept. 22, 1961, [75 Stat. 615][/us/stat/75/615]; [Pub. L. 88–200][/us/pl/88/200], § 3, Dec. 13, 1963, [77 Stat. 360][/us/stat/77/360]; [Pub. L. 89–134][/us/pl/89/134], § 3, Aug. 24, 1965, [79 Stat. 549][/us/stat/79/549]; [Pub. L. 91–352][/us/pl/91/352], § 4, July 24, 1970, [84 Stat. 465][/us/stat/84/465]; [Pub. L. 97–387][/us/pl/97/387], § 1(a), Dec. 23, 1982, [96 Stat. 1947][/us/stat/96/1947].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–387, § 1(b)][/us/pl/97/387/s1/b], Dec. 23, 1982, [96 Stat. 1947][/us/stat/96/1947], provided that: 
+[Pub. L. 97–387][/us/pl/97/387], § 1(b), Dec. 23, 1982, [96 Stat. 1947][/us/stat/96/1947], provided that: 
 
 > “This amendment \[amending this section\] shall be effective as of December 29, 1981.”
 
@@ -64,15 +64,15 @@
 
 [/us/usc/t22/s2504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Fe
 [/us/usc/t22/s2504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Fe
-[/us/pl/87/293/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs6
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F615
-[/us/pl/88/200/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200%2Fs3
+[/us/pl/88/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200
 [/us/stat/77/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F360
-[/us/pl/89/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134%2Fs3
+[/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/stat/79/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F549
-[/us/pl/91/352/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352%2Fs4
+[/us/pl/91/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352
 [/us/stat/84/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F465
-[/us/pl/97/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F387%2Fs1%2Fa
+[/us/pl/97/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F387
 [/us/stat/96/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1947
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -81,7 +81,7 @@
 [/us/pl/91/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352
 [/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/pl/88/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200
-[/us/pl/97/387/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F387%2Fs1%2Fb
+[/us/pl/97/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F387
 [/us/stat/96/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1947
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t22/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504

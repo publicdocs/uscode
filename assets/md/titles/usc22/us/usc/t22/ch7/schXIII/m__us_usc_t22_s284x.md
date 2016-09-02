@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $4,075,500,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 86–565, § 26][/us/pl/86/565/s26], as added [Pub. L. 112–74, div. I, title VII, § 7083(a)][/us/pl/112/74/s7083/a], Dec. 23, 2011, [125 Stat. 1262][/us/stat/125/1262].)
+([Pub. L. 86–565][/us/pl/86/565], § 26, as added [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7083(a), Dec. 23, 2011, [125 Stat. 1262][/us/stat/125/1262].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/86/565/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs26
-[/us/pl/112/74/s7083/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7083%2Fa
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1262
 
 

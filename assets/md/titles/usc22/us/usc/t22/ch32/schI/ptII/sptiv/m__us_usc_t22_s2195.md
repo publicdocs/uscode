@@ -27,7 +27,7 @@
 
             The authority of subsections (a), (b), and (c) of [section 2194 of this title][/us/usc/t22/s2194] shall continue until September 30, 2007.
 
-    (b) __Repealed.__  __[__  __Pub. L. 102–549, title I, § 104(a)(3)__  __][/us/pl/102/549/s104/a/3]__  __,__  __Oct. 28, 1992__  __,__  __[__  __106 Stat. 3652__  __][/us/stat/106/3652]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 102–549, title I__  __][/us/pl/102/549/tI]__  __, § 104(a)(3),__  __Oct. 28, 1992__  __,__  __[__  __106 Stat. 3652__  __][/us/stat/106/3652]__ 
 
     (c) __Insurance Reserve; Guaranty Reserve__ 
 
@@ -45,29 +45,29 @@
 
         There are authorized to be appropriated to the Corporation, to remain available until expended, such amounts as may be necessary from time to time to replenish or increase the noncredit account revolving fund, to discharge the liabilities under insurance, reinsurance, or guaranties issued by the Corporation or issued under predecessor guaranty authority, or to discharge obligations of the Corporation purchased by the Secretary of the Treasury pursuant to this subsection. However, no appropriations shall be made to augment the noncredit account revolving fund until the amount of funds in the noncredit account revolving fund is less than $25,000,000. Any appropriations to augment the noncredit account revolving fund shall then only be made either pursuant to specific authorization enacted after August 27, 1974, or to satisfy the full faith and credit provision of [section 2197(c) of this title][/us/usc/t22/s2197/c]. In order to discharge liabilities under investment insurance or reinsurance, the Corporation is authorized to issue from time to time for purchase by the Secretary of the Treasury its notes, debentures, bonds, or other obligations; but the aggregate amount of such obligations outstanding at any one time shall not exceed $100,000,000. Any such obligation shall be repaid to the Treasury within one year after the date of issue of such obligation. Any such obligation shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of any obligation authorized by this subsection. The Secretary of the Treasury shall purchase any obligation of the Corporation issued under this subsection, and for such purchase he may use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31 after August 27, 1974. The purpose for which securities may be issued under such chapter shall include any such purchase.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 235, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 813][/us/stat/83/813]; amended [Pub. L. 93–189, § 6(1)][/us/pl/93/189/s6/1], Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–390, § 2(3)][/us/pl/93/390/s2/3], Aug. 27, 1974, [88 Stat. 766][/us/stat/88/766]; [Pub. L. 95–268, § 4][/us/pl/95/268/s4], Apr. 24, 1978, [92 Stat. 214][/us/stat/92/214]; [Pub. L. 97–65, § 5(a)][/us/pl/97/65/s5/a], (b)(1), (c), Oct. 16, 1981, [95 Stat. 1022][/us/stat/95/1022], 1023; [Pub. L. 99–204][/us/pl/99/204], §§ 9(b)(1), 10, 17(b), Dec. 23, 1985, [99 Stat. 1673][/us/stat/99/1673], 1676; [Pub. L. 100–418, title II, § 2203(b)][/us/pl/100/418/s2203/b], Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328]; [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I, § 104][/us/pl/102/549/s104], Oct. 28, 1992, [106 Stat. 3652][/us/stat/106/3652]; [Pub. L. 103–392, title I][/us/pl/103/392], §§ 101–104, Oct. 22, 1994, [108 Stat. 4098][/us/stat/108/4098]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title I\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–123; [Pub. L. 105–118, title V, § 581][/us/pl/105/118/s581], Nov. 26, 1997, [111 Stat. 2435][/us/stat/111/2435]; [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 599E\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–132; [Pub. L. 106–158, § 2][/us/pl/106/158/s2], Dec. 9, 1999, [113 Stat. 1745][/us/stat/113/1745]; [Pub. L. 108–158][/us/pl/108/158], §§ 2, 3(a)–(d), Dec. 3, 2003, [117 Stat. 1949][/us/stat/117/1949].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 235, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 813][/us/stat/83/813]; amended [Pub. L. 93–189][/us/pl/93/189], § 6(1), Dec. 17, 1973, [87 Stat. 717][/us/stat/87/717]; [Pub. L. 93–390][/us/pl/93/390], § 2(3), Aug. 27, 1974, [88 Stat. 766][/us/stat/88/766]; [Pub. L. 95–268][/us/pl/95/268], § 4, Apr. 24, 1978, [92 Stat. 214][/us/stat/92/214]; [Pub. L. 97–65][/us/pl/97/65], § 5(a), (b)(1), (c), Oct. 16, 1981, [95 Stat. 1022][/us/stat/95/1022], 1023; [Pub. L. 99–204][/us/pl/99/204], §§ 9(b)(1), 10, 17(b), Dec. 23, 1985, [99 Stat. 1673][/us/stat/99/1673], 1676; [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2203(b), Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328]; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 104, Oct. 28, 1992, [106 Stat. 3652][/us/stat/106/3652]; [Pub. L. 103–392, title I][/us/pl/103/392/tI], §§ 101–104, Oct. 22, 1994, [108 Stat. 4098][/us/stat/108/4098]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title I\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–123; [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 581, Nov. 26, 1997, [111 Stat. 2435][/us/stat/111/2435]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 599E\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–132; [Pub. L. 106–158][/us/pl/106/158], § 2, Dec. 9, 1999, [113 Stat. 1745][/us/stat/113/1745]; [Pub. L. 108–158][/us/pl/108/158], §§ 2, 3(a)–(d), Dec. 3, 2003, [117 Stat. 1949][/us/stat/117/1949].)
 
  __References in Text__ 
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (d), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (d), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
  __Codification__ 
 
     Amendment by [Pub. L. 100–461][/us/pl/100/461] is based on sections 106 and 107 of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 106 and 107 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by [Pub. L. 100–461][/us/pl/100/461].
 
-    In subsec. (f), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act” and “such Bond Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (f), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act” and “such Bond Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2003—Subsec. (a)(1)(B). [Pub. L. 108–158, § 3(a)][/us/pl/108/158/s3/a], substituted “subsidy and administrative costs” for “subsidy cost”.
+    2003—Subsec. (a)(1)(B). [Pub. L. 108–158][/us/pl/108/158], § 3(a), substituted “subsidy and administrative costs” for “subsidy cost”.
 
-    Subsec. (a)(2). [Pub. L. 108–158, § 2][/us/pl/108/158/s2], substituted “2007” for “November 1, 2000”.
+    Subsec. (a)(2). [Pub. L. 108–158][/us/pl/108/158], § 2, substituted “2007” for “November 1, 2000”.
 
-    Subsec. (c). [Pub. L. 108–158, § 3(b)][/us/pl/108/158/s3/b], substituted “a noncredit account revolving fund, which” for “an insurance and guaranty fund, which shall have separate accounts to be known as the Insurance Reserve and the Guaranty Reserve, which reserves” and “of the fund has” for “such reserves have” in first sentence, struck out third sentence which read: “The allocation of such funds to each such reserve shall be determined by the Board after consultation with the Secretary of the Treasury.”, and substituted “fund” for “reserves” in last sentence.
+    Subsec. (c). [Pub. L. 108–158][/us/pl/108/158], § 3(b), substituted “a noncredit account revolving fund, which” for “an insurance and guaranty fund, which shall have separate accounts to be known as the Insurance Reserve and the Guaranty Reserve, which reserves” and “of the fund has” for “such reserves have” in first sentence, struck out third sentence which read: “The allocation of such funds to each such reserve shall be determined by the Board after consultation with the Secretary of the Treasury.”, and substituted “fund” for “reserves” in last sentence.
 
-    Subsec. (d). [Pub. L. 108–158, § 3(c)][/us/pl/108/158/s3/c], in first sentence, substituted “noncredit account revolving fund, as long as such fund” for “Insurance Reserve, as long as such reserve” and, in second sentence, substituted “or 2194(c) of this title shall be paid in accordance with the Federal Credit Reform Act of 1990” for “or under similar predecessor guaranty authority shall be paid first out of the Guaranty Reserve as long as such reserve remains available, and thereafter out of funds made available pursuant to subsection (f) of this section”.
+    Subsec. (d). [Pub. L. 108–158][/us/pl/108/158], § 3(c), in first sentence, substituted “noncredit account revolving fund, as long as such fund” for “Insurance Reserve, as long as such reserve” and, in second sentence, substituted “or 2194(c) of this title shall be paid in accordance with the Federal Credit Reform Act of 1990” for “or under similar predecessor guaranty authority shall be paid first out of the Guaranty Reserve as long as such reserve remains available, and thereafter out of funds made available pursuant to subsection (f) of this section”.
 
-    Subsec. (f). [Pub. L. 108–158, § 3(d)][/us/pl/108/158/s3/d], substituted “noncredit account revolving fund” for “insurance and guaranty fund” in first sentence and for “Insurance Reserve” wherever appearing.
+    Subsec. (f). [Pub. L. 108–158][/us/pl/108/158], § 3(d), substituted “noncredit account revolving fund” for “insurance and guaranty fund” in first sentence and for “Insurance Reserve” wherever appearing.
 
     1999—Subsec. (a)(2). [Pub. L. 106–158][/us/pl/106/158], which directed the amendment of par. (2) by substituting “2003” for “1999” could not be executed because “1999” did not appear in text subsequent to amendment by [Pub. L. 106–113][/us/pl/106/113]. See below.
 
@@ -81,9 +81,9 @@
 
     1996—Subsec. (a)(3). [Pub. L. 104–208][/us/pl/104/208] substituted “1997” for “1996”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–392, § 101][/us/pl/103/392/s101], substituted “$13,500,000,000” for “$9,000,000,000”.
+    1994—Subsec. (a)(1). [Pub. L. 103–392][/us/pl/103/392], § 101, substituted “$13,500,000,000” for “$9,000,000,000”.
 
-    Subsec. (a)(2). [Pub. L. 103–392, § 102][/us/pl/103/392/s102], amended heading and text of par. (2). Prior to amendment, text read as follows:
+    Subsec. (a)(2). [Pub. L. 103–392][/us/pl/103/392], § 102, amended heading and text of par. (2). Prior to amendment, text read as follows:
 
     “(A) The maximum contingent liability outstanding at any one time pursuant to guarantees issued under [section 2194(b) of this title][/us/usc/t22/s2194/b] shall not exceed in the aggregate $2,500,000,000.
 
@@ -93,17 +93,17 @@
 
     “(ii) to transfer such sums as are necessary from its noncredit account revolving fund to pay for the subsidy cost of a program level for the loan and loan guarantee program under subsections (b) and (c) of [section 2194 of this title][/us/usc/t22/s2194] of $850,000,000 for fiscal year 1994.”
 
-    Subsec. (a)(3). [Pub. L. 103–392, § 103][/us/pl/103/392/s103], substituted “1996” for “1994”.
+    Subsec. (a)(3). [Pub. L. 103–392][/us/pl/103/392], § 103, substituted “1996” for “1994”.
 
-    Subsec. (g). [Pub. L. 103–392, § 104][/us/pl/103/392/s104], struck out heading and text of subsec. (g). Text read as follows: “Subject to spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
+    Subsec. (g). [Pub. L. 103–392][/us/pl/103/392], § 104, struck out heading and text of subsec. (g). Text read as follows: “Subject to spending authority provided in appropriations Acts, the Corporation is authorized to draw from its noncredit account revolving fund for the administrative costs of its direct loan and loan guarantee programs—
 
     “(1) $8,128,000 for fiscal year 1993; and
 
     “(2) $11,000,000 for fiscal year 1994.”
 
-    1992—[Pub. L. 102–549, § 104(a)(1)][/us/pl/102/549/s104/a/1], amended section catchline.
+    1992—[Pub. L. 102–549][/us/pl/102/549], § 104(a)(1), amended section catchline.
 
-    Subsec. (a). [Pub. L. 102–549, § 104(a)(2)][/us/pl/102/549/s104/a/2], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    Subsec. (a). [Pub. L. 102–549][/us/pl/102/549], § 104(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(1) The maximum contingent liability outstanding at any one time pursuant to insurance issued under [section 2194(a) of this title][/us/usc/t22/s2194/a] shall not exceed $7,500,000,000.
 
@@ -117,49 +117,49 @@
 
     “(6) The authority of section 2194(a) and (b) of this title shall continue until September 30, 1992.”
 
-    Subsec. (b). [Pub. L. 102–549, § 104(a)(3)][/us/pl/102/549/s104/a/3], struck out subsec. (b) which provided for establishment of a revolving fund, known as the Direct Investment Fund, to be held by the Corporation.
+    Subsec. (b). [Pub. L. 102–549][/us/pl/102/549], § 104(a)(3), struck out subsec. (b) which provided for establishment of a revolving fund, known as the Direct Investment Fund, to be held by the Corporation.
 
-    Subsec. (g). [Pub. L. 102–549, § 104(b)][/us/pl/102/549/s104/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–549][/us/pl/102/549], § 104(b), added subsec. (g).
 
     1988—Subsec. (a)(2). [Pub. L. 100–461][/us/pl/100/461] substituted “$1,500,000,000” for “$1,000,000,000”.
 
-    [Pub. L. 100–418, § 2203(b)(1)(A)][/us/pl/100/418/s2203/b/1/A], substituted “$1,000,000,000” for “$750,000,000”.
+    [Pub. L. 100–418][/us/pl/100/418], § 2203(b)(1)(A), substituted “$1,000,000,000” for “$750,000,000”.
 
-    Subsec. (a)(5). [Pub. L. 100–418, § 2203(b)(1)(C)][/us/pl/100/418/s2203/b/1/C], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 100–418][/us/pl/100/418], § 2203(b)(1)(C), added par. (5). Former par. (5) redesignated (6).
 
     Subsec. (a)(6). [Pub. L. 100–461][/us/pl/100/461] substituted “1992” for “1988”.
 
-    [Pub. L. 100–418, § 2203(b)(1)(B)][/us/pl/100/418/s2203/b/1/B], redesignated par. (5) as (6).
+    [Pub. L. 100–418][/us/pl/100/418], § 2203(b)(1)(B), redesignated par. (5) as (6).
 
-    Subsec. (b). [Pub. L. 100–418, § 2203(b)(2)][/us/pl/100/418/s2203/b/2], in cl. (2), substituted “1981.” for “1981,”, and in closing provisions substituted “The Corporation shall make loans under [section 2194(c) of this title][/us/usc/t22/s2194/c] in an aggregate amount of not less than $25,000,000 in each fiscal year, to the extent that there are eligible projects which meet the Corporation’s criteria for such loans” for “and the Corporation shall use the funds so transferred to make loans under [section 2194(c) of this title][/us/usc/t22/s2194/c] to the extent that there are eligible projects which meet the Corporation’s criteria for funding”.
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 2203(b)(2), in cl. (2), substituted “1981.” for “1981,”, and in closing provisions substituted “The Corporation shall make loans under [section 2194(c) of this title][/us/usc/t22/s2194/c] in an aggregate amount of not less than $25,000,000 in each fiscal year, to the extent that there are eligible projects which meet the Corporation’s criteria for such loans” for “and the Corporation shall use the funds so transferred to make loans under [section 2194(c) of this title][/us/usc/t22/s2194/c] to the extent that there are eligible projects which meet the Corporation’s criteria for funding”.
 
-    1985—Subsec. (a)(5). [Pub. L. 99–204, § 10][/us/pl/99/204/s10], substituted “1988” for “1985”.
+    1985—Subsec. (a)(5). [Pub. L. 99–204][/us/pl/99/204], § 10, substituted “1988” for “1985”.
 
-    Subsec. (c). [Pub. L. 99–204, § 17(b)(1)][/us/pl/99/204/s17/b/1], substituted references to subsecs. (d), (e), and (f) of this section for references to sections 2195(d), 2194(e), and 2195(f), respectively, of this title.
+    Subsec. (c). [Pub. L. 99–204][/us/pl/99/204], § 17(b)(1), substituted references to subsecs. (d), (e), and (f) of this section for references to sections 2195(d), 2194(e), and 2195(f), respectively, of this title.
 
-    Subsec. (d). [Pub. L. 99–204, § 9(b)(1)][/us/pl/99/204/s9/b/1], substituted “, under similar predecessor guaranty authority, or under [section 2194b of this title][/us/usc/t22/s2194b]” for “or under similar predecessor guaranty authority”.
+    Subsec. (d). [Pub. L. 99–204][/us/pl/99/204], § 9(b)(1), substituted “, under similar predecessor guaranty authority, or under [section 2194b of this title][/us/usc/t22/s2194b]” for “or under similar predecessor guaranty authority”.
 
-    [Pub. L. 99–204, § 17(b)(2)][/us/pl/99/204/s17/b/2], substituted reference to subsec. (f) of this section for reference to [section 2195(f) of this title][/us/usc/t22/s2195/f] wherever appearing.
+    [Pub. L. 99–204][/us/pl/99/204], § 17(b)(2), substituted reference to subsec. (f) of this section for reference to [section 2195(f) of this title][/us/usc/t22/s2195/f] wherever appearing.
 
-    1981—Subsec. (a)(2). [Pub. L. 97–65, § 5(a)(1)][/us/pl/97/65/s5/a/1], substituted provisions that commitments to guarantee loans are authorized for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts for provisions that the Corporation not make any commitment to issue any guaranty which would result in a fractional reserve less than 25 per centum of the maximum contingent liability then outstanding against guaranties issued or commitments made pursuant to [section 2194(b) of this title][/us/usc/t22/s2194/b] or similar predecessor guaranty authority. See par. (3).
+    1981—Subsec. (a)(2). [Pub. L. 97–65][/us/pl/97/65], § 5(a)(1), substituted provisions that commitments to guarantee loans are authorized for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts for provisions that the Corporation not make any commitment to issue any guaranty which would result in a fractional reserve less than 25 per centum of the maximum contingent liability then outstanding against guaranties issued or commitments made pursuant to [section 2194(b) of this title][/us/usc/t22/s2194/b] or similar predecessor guaranty authority. See par. (3).
 
-    Subsec. (a)(3). [Pub. L. 97–65, § 5(a)(2)][/us/pl/97/65/s5/a/2], added par. (3) which consisted of provisions formerly contained in par. (2). Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 97–65][/us/pl/97/65], § 5(a)(2), added par. (3) which consisted of provisions formerly contained in par. (2). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 97–65, § 5(a)(2)(A)][/us/pl/97/65/s5/a/2/A], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 97–65][/us/pl/97/65], § 5(a)(2)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 97–65, § 5(a)(2)(A)][/us/pl/97/65/s5/a/2/A], (b)(1), redesignated former par. (4) as (5) and substituted “September 30, 1985” for “September 30, 1981”.
+    Subsec. (a)(5). [Pub. L. 97–65][/us/pl/97/65], § 5(a)(2)(A), (b)(1), redesignated former par. (4) as (5) and substituted “September 30, 1985” for “September 30, 1981”.
 
-    Subsec. (b). [Pub. L. 97–65, § 5(c)][/us/pl/97/65/s5/c], inserted provisions relating to the transfer to the Fund of certain moneys in fiscal year 1982 and in each fiscal year thereafter and the making of loans from those moneys under [section 2194(c) of this title][/us/usc/t22/s2194/c] to the extent that there are eligible projects which meet the Corporation’s criteria for funding.
+    Subsec. (b). [Pub. L. 97–65][/us/pl/97/65], § 5(c), inserted provisions relating to the transfer to the Fund of certain moneys in fiscal year 1982 and in each fiscal year thereafter and the making of loans from those moneys under [section 2194(c) of this title][/us/usc/t22/s2194/c] to the extent that there are eligible projects which meet the Corporation’s criteria for funding.
 
-    1978—Subsec. (a)(2). [Pub. L. 95–268, § 4(1)][/us/pl/95/268/s4/1], struck out limitation on guaranties by credit unions of not to exceed $1,250,000.
+    1978—Subsec. (a)(2). [Pub. L. 95–268][/us/pl/95/268], § 4(1), struck out limitation on guaranties by credit unions of not to exceed $1,250,000.
 
-    Subsec. (a)(4). [Pub. L. 95–268, § 4(2)][/us/pl/95/268/s4/2], substituted “September 30, 1981” for “December 31, 1977”.
+    Subsec. (a)(4). [Pub. L. 95–268][/us/pl/95/268], § 4(2), substituted “September 30, 1981” for “December 31, 1977”.
 
-    1974—Subsec. (a)(4). [Pub. L. 93–390, § 2(3)(A)][/us/pl/93/390/s2/3/A], substituted “December 31, 1977” for “December 31, 1974”.
+    1974—Subsec. (a)(4). [Pub. L. 93–390][/us/pl/93/390], § 2(3)(A), substituted “December 31, 1977” for “December 31, 1974”.
 
-    Subsec. (d). [Pub. L. 93–390, § 2(3)(B)][/us/pl/93/390/s2/3/B], substituted “insurance or reinsurance issued under [section 2194 of this title][/us/usc/t22/s2194]” for “insurance issued under [section 2194(a) of this title][/us/usc/t22/s2194/a]”.
+    Subsec. (d). [Pub. L. 93–390][/us/pl/93/390], § 2(3)(B), substituted “insurance or reinsurance issued under [section 2194 of this title][/us/usc/t22/s2194]” for “insurance issued under [section 2194(a) of this title][/us/usc/t22/s2194/a]”.
 
-    Subsec. (f). [Pub. L. 93–390, § 2(3)(C)][/us/pl/93/390/s2/3/C], inserted provisions authorizing appropriations to discharge liabilities under reinsurance or obligations of the Corporation purchased by the Secretary of the Treasury, provisions relating to appropriations to augment the Insurance Reserve, and provisions relating to the issuance, sale, etc., of notes, debentures, bonds, or other obligations by the Corporation for purchase by the Secretary of the Treasury.
+    Subsec. (f). [Pub. L. 93–390][/us/pl/93/390], § 2(3)(C), inserted provisions authorizing appropriations to discharge liabilities under reinsurance or obligations of the Corporation purchased by the Secretary of the Treasury, provisions relating to appropriations to augment the Insurance Reserve, and provisions relating to the issuance, sale, etc., of notes, debentures, bonds, or other obligations by the Corporation for purchase by the Secretary of the Treasury.
 
     1973—Subsec. (a)(4). [Pub. L. 93–189][/us/pl/93/189] substituted “December 31, 1974” for “June 30, 1974”.
 
@@ -178,7 +178,7 @@
 [/us/usc/t2/s661c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661c%2Fb
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194
-[/us/pl/102/549/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs104%2Fa%2F3
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3652
 [/us/usc/t22/s2183/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2183%2Fb
 [/us/usc/t22/s2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2196
@@ -191,47 +191,47 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F813
-[/us/pl/93/189/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs6%2F1
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F717
-[/us/pl/93/390/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F3
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F766
-[/us/pl/95/268/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs4
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F214
-[/us/pl/97/65/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fa
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1022
 [/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1673
-[/us/pl/100/418/s2203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fb
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1328
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/102/549/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs104
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3652
-[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
+[/us/pl/103/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2FtI
 [/us/stat/108/4098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4098
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/105/118/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs581
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2435
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs2
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1745
 [/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/stat/117/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1949
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/108/158/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs3%2Fa
-[/us/pl/108/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs2
-[/us/pl/108/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs3%2Fb
-[/us/pl/108/158/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs3%2Fc
-[/us/pl/108/158/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs3%2Fd
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -241,51 +241,51 @@
 [/us/usc/t22/s2194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fa
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/392/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs101
-[/us/pl/103/392/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs102
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
 [/us/usc/t22/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fb
 [/us/usc/t2/s661c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661c%2Fb
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194
-[/us/pl/103/392/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs103
-[/us/pl/103/392/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs104
-[/us/pl/102/549/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs104%2Fa%2F1
-[/us/pl/102/549/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs104%2Fa%2F2
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/usc/t22/s2194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fa
 [/us/usc/t22/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fb
 [/us/usc/t22/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fb
 [/us/usc/t31/s9104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9104
 [/us/usc/t22/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fb
-[/us/pl/102/549/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs104%2Fa%2F3
-[/us/pl/102/549/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs104%2Fb
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/100/418/s2203/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fb%2F1%2FA
-[/us/pl/100/418/s2203/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fb%2F1%2FC
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/100/418/s2203/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fb%2F1%2FB
-[/us/pl/100/418/s2203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fb%2F2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t22/s2194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fc
 [/us/usc/t22/s2194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fc
-[/us/pl/99/204/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs10
-[/us/pl/99/204/s17/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs17%2Fb%2F1
-[/us/pl/99/204/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs9%2Fb%2F1
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/usc/t22/s2194b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194b
-[/us/pl/99/204/s17/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs17%2Fb%2F2
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/usc/t22/s2195/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2195%2Ff
-[/us/pl/97/65/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fa%2F1
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/usc/t22/s2194/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fb
-[/us/pl/97/65/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fa%2F2
-[/us/pl/97/65/s5/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fa%2F2%2FA
-[/us/pl/97/65/s5/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fa%2F2%2FA
-[/us/pl/97/65/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs5%2Fc
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/usc/t22/s2194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fc
-[/us/pl/95/268/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs4%2F1
-[/us/pl/95/268/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs4%2F2
-[/us/pl/93/390/s2/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F3%2FA
-[/us/pl/93/390/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F3%2FB
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194
 [/us/usc/t22/s2194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194%2Fa
-[/us/pl/93/390/s2/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F3%2FC
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/pl/111/117/s7079/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7079%2Fc
 [/us/usc/t22/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2194

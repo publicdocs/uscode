@@ -51,7 +51,7 @@
 
         The President is authorized to use the authority provided under [section 286f of this title][/us/usc/t22/s286f] to require any person (as defined in such section) subject to the jurisdiction of the United States to provide such information as the Fund determines to be necessary in order to carry out the provisions of this section.
 
-([July 31, 1945, ch. 339, § 42][/us/act/1945-07-31/ch339/s42], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 802(a)(4)\], Nov. 30, 1983, [97 Stat. 1269][/us/stat/97/1269].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 42, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 802(a)(4)\], Nov. 30, 1983, [97 Stat. 1269][/us/stat/97/1269].)
 
 ----------
 
@@ -61,8 +61,8 @@
 ----------
 
 [/us/usc/t22/s286f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286f
-[/us/act/1945-07-31/ch339/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs42
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1269
 
 

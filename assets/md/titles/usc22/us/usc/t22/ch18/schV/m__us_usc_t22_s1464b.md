@@ -35,7 +35,7 @@
 
         (2) the efforts made by the Voice of America to recruit such individuals for employment.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 506, as added [Pub. L. 101–246, title II, § 232][/us/pl/101/246/s232], Feb. 16, 1990, [104 Stat. 57][/us/stat/104/57]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(a)(2), Oct. 21, 1998, [112 Stat. 2681–787][/us/stat/112/2681-787].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 506, as added [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 232, Feb. 16, 1990, [104 Stat. 57][/us/stat/104/57]; amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(a)(2), Oct. 21, 1998, [112 Stat. 2681–787][/us/stat/112/2681-787].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
-[/us/pl/101/246/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs232
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F57
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-787
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

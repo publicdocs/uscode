@@ -27,11 +27,11 @@
 
     (5) it is in the interest of the United States, and the further strengthening of Asian-American friendship and cooperation, to establish a more permanent mechanism for United States Government financial support for the ongoing activities of The Asia Foundation, while preserving the independent character of the Foundation.
 
-([Pub. L. 98–164, title IV, § 402][/us/pl/98/164/s402], Nov. 22, 1983, [97 Stat. 1038][/us/stat/97/1038].)
+([Pub. L. 98–164, title IV][/us/pl/98/164/tIV], § 402, Nov. 22, 1983, [97 Stat. 1038][/us/stat/97/1038].)
 
  __Short Title__ 
 
-[Pub. L. 98–164, title IV, § 401][/us/pl/98/164/s401], Nov. 22, 1983, [97 Stat. 1038][/us/stat/97/1038], provided that: 
+[Pub. L. 98–164, title IV][/us/pl/98/164/tIV], § 401, Nov. 22, 1983, [97 Stat. 1038][/us/stat/97/1038], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as ‘The Asia Foundation Act’.”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/98/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs402
+[/us/pl/98/164/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtIV
 [/us/stat/97/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1038
-[/us/pl/98/164/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs401
+[/us/pl/98/164/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtIV
 [/us/stat/97/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1038
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/pl/98/164/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs501

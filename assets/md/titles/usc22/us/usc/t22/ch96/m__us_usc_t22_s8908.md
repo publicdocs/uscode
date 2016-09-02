@@ -67,7 +67,7 @@
 
         The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
-([Pub. L. 113–95, § 9][/us/pl/113/95/s9], Apr. 3, 2014, [128 Stat. 1094][/us/stat/128/1094].)
+([Pub. L. 113–95][/us/pl/113/95], § 9, Apr. 3, 2014, [128 Stat. 1094][/us/stat/128/1094].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/113/95/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs9
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1094
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626

@@ -21,7 +21,7 @@
 
     (2) assistance that has been or should be provided by the United States to the IAEA in order to promote the effective implementation of additional protocols to existing safeguards agreements signed by non-nuclear-weapon State Parties and the verification of the compliance of such parties with IAEA obligations, with a plan for providing any needed additional funding.
 
-([Pub. L. 109–401, title II, § 274][/us/pl/109/401/s274], Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 274, Dec. 18, 2006, [120 Stat. 2752][/us/stat/120/2752].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs274
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2752
 
 

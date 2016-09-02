@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 4, 1920, ch. 223, § 2][/us/act/1920-06-04/ch223/s2], [41 Stat. 750][/us/stat/41/750], provided for fees of $1 for each application for a visa and $9 for each visa. It was superseded by sections 2(h) and 7(h) of the Immigration Act of 1924 ([act May 26, 1924, ch. 190][/us/act/1924-05-26/ch190], [43 Stat. 154][/us/stat/43/154], 157) which provided for fees in the same amounts. The 1924 Act was repealed by section 403(a)(23) of the Immigration and Nationality Act ([act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 279][/us/stat/66/279]). See [section 1351 of Title 8][/us/usc/t8/s1351], Aliens and Nationality, and [section 9701 of Title 31][/us/usc/t31/s9701], Money and Finance.
+    Section, [act June 4, 1920, ch. 223][/us/act/1920-06-04/ch223], § 2, [41 Stat. 750][/us/stat/41/750], provided for fees of $1 for each application for a visa and $9 for each visa. It was superseded by sections 2(h) and 7(h) of the Immigration Act of 1924 ([act May 26, 1924, ch. 190][/us/act/1924-05-26/ch190], [43 Stat. 154][/us/stat/43/154], 157) which provided for fees in the same amounts. The 1924 Act was repealed by section 403(a)(23) of the Immigration and Nationality Act ([act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 279][/us/stat/66/279]). See [section 1351 of Title 8][/us/usc/t8/s1351], Aliens and Nationality, and [section 9701 of Title 31][/us/usc/t31/s9701], Money and Finance.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-04/ch223/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch223%2Fs2
+[/us/act/1920-06-04/ch223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-04%2Fch223
 [/us/stat/41/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F750
 [/us/act/1924-05-26/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-26%2Fch190
 [/us/stat/43/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F154

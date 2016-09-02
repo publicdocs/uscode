@@ -21,13 +21,13 @@
 
  __Separability__ 
 
-[Act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title VI, § 614, as added by [Pub. L. 94–542][/us/pl/94/542], Oct. 18, 1976, [90 Stat. 2512][/us/stat/90/2512], provided that: 
+[Act Mar. 10, 1950, ch. 54, title VI][/us/act/1950-03-10/ch54/tVI], § 614, as added by [Pub. L. 94–542][/us/pl/94/542], Oct. 18, 1976, [90 Stat. 2512][/us/stat/90/2512], provided that: 
 
 > “If any provisions of this Act \[enacting this subchapter\] or the application thereof to any person or circumstances shall be held invalid, the remainder of the Act or the application of such provision to other persons or circumstances shall not be affected.”
 
  __Authority of Foreign Claims Settlement Commission__ 
 
-Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], as amended by [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37], provided that:
+Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by [Pub. L. 104–91, title I][/us/pl/104/91/tI], § 101(a), Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], as amended by [Pub. L. 104–99, title II][/us/pl/104/99/tII], § 211, Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37], provided that:
 
 >     “(a)  __Authority of the Foreign Claims Settlement Commission__  __.—__ 
 
@@ -61,12 +61,12 @@ Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/94/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F542
 [/us/stat/90/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2509
-[/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
+[/us/act/1950-03-10/ch54/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54%2FtVI
 [/us/pl/94/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F542
 [/us/stat/90/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2512
-[/us/pl/104/91/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs101%2Fa
+[/us/pl/104/91/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2FtI
 [/us/stat/110/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F11
-[/us/pl/104/99/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs211
+[/us/pl/104/99/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtII
 [/us/stat/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F37
 [/us/usc/t22/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621
 [/us/usc/t22/s1626/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1626%2Fb

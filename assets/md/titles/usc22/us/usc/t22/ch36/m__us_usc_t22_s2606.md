@@ -27,7 +27,7 @@
 
         The first program audit pursuant to subsection (a)(1) shall begin not later than June 1, 1986.
 
-([Pub. L. 87–510, § 8][/us/pl/87/510/s8], as added [Pub. L. 99–93, title I, § 113][/us/pl/99/93/s113], Aug. 16, 1985, [99 Stat. 411][/us/stat/99/411]; amended [Pub. L. 101–246, title VII, § 701][/us/pl/101/246/s701], Feb. 16, 1990, [104 Stat. 74][/us/stat/104/74]; [Pub. L. 104–66, title I, § 1111(a)][/us/pl/104/66/s1111/a], Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723].)
+([Pub. L. 87–510][/us/pl/87/510], § 8, as added [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 113, Aug. 16, 1985, [99 Stat. 411][/us/stat/99/411]; amended [Pub. L. 101–246, title VII][/us/pl/101/246/tVII], § 701, Feb. 16, 1990, [104 Stat. 74][/us/stat/104/74]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1111(a), Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723].)
 
  __References in Text__ 
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/87/510/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510%2Fs8
-[/us/pl/99/93/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs113
+[/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F411
-[/us/pl/101/246/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs701
+[/us/pl/101/246/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtVII
 [/us/stat/104/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F74
-[/us/pl/104/66/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1111%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F723
 [/us/pl/87/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F510
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121

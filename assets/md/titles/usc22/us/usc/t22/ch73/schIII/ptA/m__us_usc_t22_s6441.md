@@ -77,7 +77,7 @@
 
             (B) the humanitarian activities of United States and foreign nongovernmental organizations in such country.
 
-([Pub. L. 105–292, title IV, § 401][/us/pl/105/292/s401], Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 401, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800].)
 
  __Delegation of Responsibilities Under the International Religious Freedom Act of 1998__ 
 
@@ -109,7 +109,7 @@
 [/us/usc/t22/s6445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fa
 [/us/usc/t22/s6442/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6442%2Fc%2F3
 [/us/usc/t22/s6445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fa
-[/us/pl/105/292/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs401
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2800
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t22/s6441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6441

@@ -21,7 +21,7 @@
 
     (2) the term “Taiwan” includes, as the context may require, the islands of Taiwan and the Pescadores, the people on those islands, corporations and other entities and associations created or organized under the laws applied on those islands, and the governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979, and any successor governing authorities (including political subdivisions, agencies, and instrumentalities thereof).
 
-([Pub. L. 96–8, § 15][/us/pl/96/8/s15], Apr. 10, 1979, [93 Stat. 20][/us/stat/93/20].)
+([Pub. L. 96–8][/us/pl/96/8], § 15, Apr. 10, 1979, [93 Stat. 20][/us/stat/93/20].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs15
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F20
 
 

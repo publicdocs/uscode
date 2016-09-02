@@ -37,7 +37,7 @@
 
         (5) The establishment of assessment procedures which allow affected parties and nongovernmental organizations to review information describing a prospective project or policy loan design, in a timely manner, before the loan is submitted to the Executive Board for approval.
 
-([Pub. L. 95–118, title XVI, § 1617][/us/pl/95/118/s1617], as added [Pub. L. 101–513, title V, § 562(a)(2)][/us/pl/101/513/s562/a/2], Nov. 5, 1990, [104 Stat. 2032][/us/stat/104/2032].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1617, as added [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(a)(2), Nov. 5, 1990, [104 Stat. 2032][/us/stat/104/2032].)
 
  __Prior Provisions__ 
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t22/s262p–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%931%2Fa
-[/us/pl/95/118/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1617
-[/us/pl/101/513/s562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fa%2F2
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2032
 [/us/pl/95/118/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1617
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935

@@ -83,7 +83,7 @@
 
             (F) reducing the extensive reliance of DTS–PO on the full-time services of contractors.
 
-([Pub. L. 103–317, title V, § 507][/us/pl/103/317/s507], Aug. 26, 1994, [108 Stat. 1766][/us/stat/108/1766]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(m), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789].)
+([Pub. L. 103–317, title V][/us/pl/103/317/tV], § 507, Aug. 26, 1994, [108 Stat. 1766][/us/stat/108/1766]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(m), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789].)
 
  __Amendments__ 
 
@@ -100,9 +100,9 @@
 ----------
 ----------
 
-[/us/pl/103/317/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2Fs507
+[/us/pl/103/317/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtV
 [/us/stat/108/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1766
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

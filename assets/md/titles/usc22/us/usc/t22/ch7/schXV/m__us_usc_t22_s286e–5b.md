@@ -17,7 +17,7 @@
 
     The United States Governor of the Fund may agree to and accept the amendments to the Articles of Agreement of the Fund as proposed in the resolution numbered 45–3 of the Board of Governors of the Fund that was approved by such Board on June 28, 1990.
 
-([July 31, 1945, ch. 339, § 57][/us/act/1945-07-31/ch339/s57], as added [Pub. L. 102–511, title X, § 1001][/us/pl/102/511/s1001], Oct. 24, 1992, [106 Stat. 3357][/us/stat/106/3357].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 57, as added [Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1001, Oct. 24, 1992, [106 Stat. 3357][/us/stat/106/3357].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs57
-[/us/pl/102/511/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1001
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/102/511/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtX
 [/us/stat/106/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3357
 
 

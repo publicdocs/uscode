@@ -21,7 +21,7 @@
 
     (2) promoting or taking any other action with respect to any volunteer or any person assigned to such a duty station.
 
-([Pub. L. 87–293, title I, § 25][/us/pl/87/293/s25], as added [Pub. L. 99–83, title XI, § 1105(a)(2)][/us/pl/99/83/s1105/a/2], Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 25, as added [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1105(a)(2), Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276].)
 
  __References in Text__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/87/293/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs25
-[/us/pl/99/83/s1105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1105%2Fa%2F2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F276
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

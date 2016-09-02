@@ -69,7 +69,7 @@
 
         The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\].
 
-([Pub. L. 108–25, § 3][/us/pl/108/25/s3], May 27, 2003, [117 Stat. 717][/us/stat/117/717]; [Pub. L. 110–293, § 3][/us/pl/110/293/s3], July 30, 2008, [122 Stat. 2921][/us/stat/122/2921].)
+([Pub. L. 108–25][/us/pl/108/25], § 3, May 27, 2003, [117 Stat. 717][/us/stat/117/717]; [Pub. L. 110–293][/us/pl/110/293], § 3, July 30, 2008, [122 Stat. 2921][/us/stat/122/2921].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/108/25/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs3
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F717
-[/us/pl/110/293/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs3
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/stat/122/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2921
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

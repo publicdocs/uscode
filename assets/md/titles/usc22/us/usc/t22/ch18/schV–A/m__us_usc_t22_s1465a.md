@@ -39,7 +39,7 @@
 
         In the event broadcasting facilities located at Marathon, Florida, are rendered inoperable by natural disaster or by unlawful destruction, the Broadcasting Board of Governors may, for the period in which the facilities are inoperable but not to exceed one hundred and fifty days, use other United States Government-owned transmission facilities for Voice of America broadcasts to Cuba authorized by this subchapter.
 
-([Pub. L. 98–111, § 3][/us/pl/98/111/s3], Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1324(1)–(3), Oct. 21, 1998, [112 Stat. 2681–780][/us/stat/112/2681-780], 2681–781.)
+([Pub. L. 98–111][/us/pl/98/111], § 3, Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1324(1)–(3), Oct. 21, 1998, [112 Stat. 2681–780][/us/stat/112/2681-780], 2681–781.)
 
  __Repeal of Section__ 
 
@@ -47,7 +47,7 @@
 
  __References in Text__ 
 
-    [Section 1463 of this title][/us/usc/t22/s1463], referred to in subsecs. (c) and (d), was repealed by [Pub. L. 103–236, title III, § 315(a)][/us/pl/103/236/s315/a], Apr. 30, 1994, [108 Stat. 445][/us/stat/108/445].
+    [Section 1463 of this title][/us/usc/t22/s1463], referred to in subsecs. (c) and (d), was repealed by [Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 315(a), Apr. 30, 1994, [108 Stat. 445][/us/stat/108/445].
 
  __Codification__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1324(1)][/us/pl/105/277/s1324/1], (2), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “Board” for “Agency”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1324(1), (2), substituted “Broadcasting Board of Governors” for “United States Information Agency” and “Board” for “Agency”.
 
-    Subsecs. (d), (f). [Pub. L. 105–277, § 1324(3)][/us/pl/105/277/s1324/3], substituted “the Broadcasting Board of Governors” for “the Director of the United States Information Agency”.
+    Subsecs. (d), (f). [Pub. L. 105–277][/us/pl/105/277], § 1324(3), substituted “the Broadcasting Board of Governors” for “the Director of the United States Information Agency”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -71,17 +71,17 @@
 ----------
 
 [/us/usc/t22/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465
-[/us/pl/98/111/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111%2Fs3
+[/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F749
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-780
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s6037/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6037%2Fc
 [/us/usc/t22/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1463
-[/us/pl/103/236/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs315%2Fa
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F445
-[/us/pl/105/277/s1324/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1324%2F1
-[/us/pl/105/277/s1324/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1324%2F3
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

@@ -21,7 +21,7 @@
 
     (2) the term “designated congressional committees” means the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 102–511, title VI, § 604][/us/pl/102/511/s604], Oct. 24, 1992, [106 Stat. 3348][/us/stat/106/3348].)
+([Pub. L. 102–511, title VI][/us/pl/102/511/tVI], § 604, Oct. 24, 1992, [106 Stat. 3348][/us/stat/106/3348].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs604
+[/us/pl/102/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVI
 [/us/stat/106/3348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3348
 
 

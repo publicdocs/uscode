@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person willfully to fail or refuse to permit entry or inspection, or to disrupt, delay, or otherwise impede an inspection, authorized by this chapter.
 
-([Pub. L. 105–277, div. I, title III, § 306][/us/pl/105/277/s306], Oct. 21, 1998, [112 Stat. 2681–878][/us/stat/112/2681-878].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 306, Oct. 21, 1998, [112 Stat. 2681–878][/us/stat/112/2681-878].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs306
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-878
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

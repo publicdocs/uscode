@@ -31,15 +31,15 @@
 
         The Advisory Committee shall recommend grant policies for the advancement of the objectives of this chapter. In proposing recipients for grants under this chapter, the Advisory Committee shall give the highest priority to national organizations with an interest and expertise in conducting research and training concerning the countries of Eastern Europe and the independent states of the former Soviet Union and in disseminating the results of such research. In making its recommendations, the Advisory Committee shall emphasize the development of a stable, long-term research program.
 
-([Pub. L. 98–164, title VIII, § 804][/us/pl/98/164/s804], Nov. 22, 1983, [97 Stat. 1048][/us/stat/97/1048]; [Pub. L. 103–199, title III, § 302(5)][/us/pl/103/199/s302/5], Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322].)
+([Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 804, Nov. 22, 1983, [97 Stat. 1048][/us/stat/97/1048]; [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 302(5), Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322].)
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–199, § 302(5)(A)][/us/pl/103/199/s302/5/A], substituted “Establishment of Advisory Committee” for “Establishment of the Soviet-Eastern European Studies Advisory Committee” in section catchline.
+    1993—[Pub. L. 103–199][/us/pl/103/199], § 302(5)(A), substituted “Establishment of Advisory Committee” for “Establishment of the Soviet-Eastern European Studies Advisory Committee” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–199, § 302(5)(B)][/us/pl/103/199/s302/5/B], substituted “Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union” for “Soviet-Eastern European Studies Advisory Committee”.
+    Subsec. (a). [Pub. L. 103–199][/us/pl/103/199], § 302(5)(B), substituted “Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union” for “Soviet-Eastern European Studies Advisory Committee”.
 
-    Subsec. (d). [Pub. L. 103–199, § 302(5)(C)][/us/pl/103/199/s302/5/C], substituted “the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European countries”.
+    Subsec. (d). [Pub. L. 103–199][/us/pl/103/199], § 302(5)(C), substituted “the countries of Eastern Europe and the independent states of the former Soviet Union” for “Soviet and Eastern European countries”.
 
  __Termination of Advisory Committees__ 
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/pl/98/164/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs804
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1048
-[/us/pl/103/199/s302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F5
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2322
-[/us/pl/103/199/s302/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F5%2FA
-[/us/pl/103/199/s302/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F5%2FB
-[/us/pl/103/199/s302/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F5%2FC
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801

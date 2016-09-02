@@ -27,7 +27,7 @@
 
         In order to ensure that due account is taken of local conditions, including applicable laws, markets, exchange rate factors, and accommodation exchange facilities, such regulations may authorize the chief of mission to each foreign country to establish more detailed policies, rules, or procedures for the application of this chapter within that country to employees under the chief of mission’s jurisdiction.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title III, § 303, as added [Pub. L. 100–204, title I, § 186(a)][/us/pl/100/204/s186/a], Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title III, § 303, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 186(a), Dec. 22, 1987, [101 Stat. 1368][/us/stat/101/1368].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/204/s186/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs186%2Fa
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1368
 [/us/pl/100/204/s186/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs186%2Fb
 [/us/usc/t22/s4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4341

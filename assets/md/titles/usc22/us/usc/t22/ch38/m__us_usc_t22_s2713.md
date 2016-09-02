@@ -43,15 +43,15 @@
 
         For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State’s offices (seventh floor), the Deputy Secretary of State’s offices (seventh floor), and the seventh floor reception area.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 41, as added [Pub. L. 100–204, title I, § 126(a)(2)][/us/pl/100/204/s126/a/2], Dec. 22, 1987, [101 Stat. 1341][/us/stat/101/1341]; amended [Pub. L. 106–218, § 2][/us/pl/106/218/s2], June 20, 2000, [114 Stat. 345][/us/stat/114/345].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 41, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 126(a)(2), Dec. 22, 1987, [101 Stat. 1341][/us/stat/101/1341]; amended [Pub. L. 106–218][/us/pl/106/218], § 2, June 20, 2000, [114 Stat. 345][/us/stat/114/345].)
 
  __Codification__ 
 
-    In subsec. (b)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by [section 126(a)(1) of Pub. L. 100–204][/us/pl/100/204/s126/a/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by [section 126(a)(1) of Pub. L. 100–204][/us/pl/100/204/s126/a/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
@@ -77,15 +77,15 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/100/204/s126/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs126%2Fa%2F2
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1341
-[/us/pl/106/218/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F218%2Fs2
+[/us/pl/106/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F218
 [/us/stat/114/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F345
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/100/204/s126/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs126%2Fa%2F1
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 [/us/pl/106/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F218
 [/us/pl/106/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F218

@@ -29,11 +29,11 @@
 
         The term “Governance Board” means the Diplomatic Telecommunications Service Governance Board established under [section 7302(a)(1) of this title][/us/usc/t22/s7302/a/1].
 
-([Pub. L. 106–567, title III, § 324][/us/pl/106/567/s324], as added [Pub. L. 111–259, title V, § 501(a)(1)][/us/pl/111/259/s501/a/1], Oct. 7, 2010, [124 Stat. 2738][/us/stat/124/2738].)
+([Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 324, as added [Pub. L. 111–259, title V][/us/pl/111/259/tV], § 501(a)(1), Oct. 7, 2010, [124 Stat. 2738][/us/stat/124/2738].)
 
  __Prior Provisions__ 
 
-    A prior section 7304, [Pub. L. 106–567, title III, § 324][/us/pl/106/567/s324], Dec. 27, 2000, [114 Stat. 2846][/us/stat/114/2846], which related to general provisions, was repealed by [Pub. L. 111–259, title V, § 501(a)(1)][/us/pl/111/259/s501/a/1], Oct. 7, 2010, [124 Stat. 2735][/us/stat/124/2735].
+    A prior section 7304, [Pub. L. 106–567, title III][/us/pl/106/567/tIII], § 324, Dec. 27, 2000, [114 Stat. 2846][/us/stat/114/2846], which related to general provisions, was repealed by [Pub. L. 111–259, title V][/us/pl/111/259/tV], § 501(a)(1), Oct. 7, 2010, [124 Stat. 2735][/us/stat/124/2735].
 
 ----------
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/usc/t22/s7302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7302%2Fa%2F1
-[/us/pl/106/567/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs324
-[/us/pl/111/259/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs501%2Fa%2F1
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
+[/us/pl/111/259/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtV
 [/us/stat/124/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2738
-[/us/pl/106/567/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2Fs324
+[/us/pl/106/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F567%2FtIII
 [/us/stat/114/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2846
-[/us/pl/111/259/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs501%2Fa%2F1
+[/us/pl/111/259/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtV
 [/us/stat/124/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2735
 
 

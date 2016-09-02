@@ -35,7 +35,7 @@
 
             Paragraph (1) shall not apply to the construction of facilities which would require the obligation of less than $750,000 under this part.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 488, as added [Pub. L. 100–690, title IV, § 4505][/us/pl/100/690/s4505], Nov. 18, 1988, [102 Stat. 4285][/us/stat/102/4285]; amended [Pub. L. 102–583, § 4(g)][/us/pl/102/583/s4/g], Nov. 2, 1992, [106 Stat. 4917][/us/stat/106/4917]; [Pub. L. 107–228, div. A, title VI, § 671(3)][/us/pl/107/228/s671/3], Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 488, as added [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4505, Nov. 18, 1988, [102 Stat. 4285][/us/stat/102/4285]; amended [Pub. L. 102–583][/us/pl/102/583], § 4(g), Nov. 2, 1992, [106 Stat. 4917][/us/stat/106/4917]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 671(3), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/100/690/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4505
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4285
-[/us/pl/102/583/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Fg
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4917
-[/us/pl/107/228/s671/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs671%2F3
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1407
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583

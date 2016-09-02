@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch17/m__us_usc_t22_ch17.md) | [Next](./../../../..//us/usc/t22/ch18/schI/m__us_usc_t22_ch18_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch18)
+[Previous](./../../../..//us/usc/t22/ch17/m__us_usc_t22_s1411...1417.md) | [Next](./../../../..//us/usc/t22/ch18/schI/m__us_usc_t22_ch18_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch18)
 
 ## CHAPTER 18—UNITED STATES INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS
 
@@ -635,7 +635,7 @@ SUBCHAPTER VIII—APPROPRIATIONS AND OTHER FUNDS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch17/m__us_usc_t22_ch17.md) | [Next](./../../../..//us/usc/t22/ch18/schI/m__us_usc_t22_ch18_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch18)
+[Previous](./../../../..//us/usc/t22/ch17/m__us_usc_t22_s1411...1417.md) | [Next](./../../../..//us/usc/t22/ch18/schI/m__us_usc_t22_ch18_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fch18)
 
 ----------
 ----------

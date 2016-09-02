@@ -49,7 +49,7 @@
 
         (2) the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Corporation.
 
-([Pub. L. 108–199, div. D, title VI, § 617][/us/pl/108/199/s617], Jan. 23, 2004, [118 Stat. 224][/us/stat/118/224].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 617, Jan. 23, 2004, [118 Stat. 224][/us/stat/118/224].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/108/199/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs617
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F224
 
 

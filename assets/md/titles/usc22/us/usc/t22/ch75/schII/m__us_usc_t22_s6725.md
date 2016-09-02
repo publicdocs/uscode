@@ -117,7 +117,7 @@
 
                 (viii) the identities of the representatives of the Technical Secretariat on the inspection teams and the Federal Government employees accompanying the inspection team.
 
-([Pub. L. 105–277, div. I, title III, § 305][/us/pl/105/277/s305], Oct. 21, 1998, [112 Stat. 2681–875][/us/stat/112/2681-875].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 305, Oct. 21, 1998, [112 Stat. 2681–875][/us/stat/112/2681-875].)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 ----------
 
 [/us/usc/t22/s6724/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6724%2Fa
-[/us/pl/105/277/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs305
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-875
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

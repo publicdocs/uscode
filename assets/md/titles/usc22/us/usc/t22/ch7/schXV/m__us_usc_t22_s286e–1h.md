@@ -25,7 +25,7 @@
 
     (b) In order to pay for the paid-in portion of the United States subscription to the Bank provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $658,305,195 for payment by the Secretary of the Treasury: Provided, however, That not more than $109,720,549 of such sum may be made available for each of the fiscal years 1982, 1983, and 1984.
 
-([July 31, 1945, ch. 339, § 39][/us/act/1945-07-31/ch339/s39], as added [Pub. L. 97–35, title XIII, § 1311][/us/pl/97/35/s1311], Aug. 13, 1981, [95 Stat. 740][/us/stat/95/740].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 39, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1311, Aug. 13, 1981, [95 Stat. 740][/us/stat/95/740].)
 
  __Effective Date__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs39
-[/us/pl/97/35/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1311
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F740
 [/us/pl/97/35/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1372
 [/us/usc/t22/s290i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290i

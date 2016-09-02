@@ -35,7 +35,7 @@
 
         The Governor, or in the Governor’s absence the Alternate Governor, on the instructions of the President, shall cast the votes of the United States for the Director to represent the United States in the Bank.
 
-([Pub. L. 97–35, title XIII, § 1333][/us/pl/97/35/s1333], Aug. 13, 1981, [95 Stat. 741][/us/stat/95/741]; [Pub. L. 101–513, title V, § 562(b)(3)][/us/pl/101/513/s562/b/3], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034]; [Pub. L. 112–166, § 2(z)(1)][/us/pl/112/166/s2/z/1], Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1333, Aug. 13, 1981, [95 Stat. 741][/us/stat/95/741]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(b)(3), Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034]; [Pub. L. 112–166][/us/pl/112/166], § 2(z)(1), Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
 
  __Amendments__ 
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1333
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F741
-[/us/pl/101/513/s562/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fb%2F3
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2034
-[/us/pl/112/166/s2/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fz%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1289
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513

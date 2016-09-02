@@ -23,7 +23,7 @@
 
         Reimbursements shall be paid in advance of the goods or services ordered and shall be for the estimated or actual cost as determined by the United States section of the International Boundary and Water Commission. Proper adjustment of amounts paid in advance shall be made as determined by the United States section of the International Boundary and Water Commission on the basis of the actual cost of goods or services provided. Reimbursements received by the United States section of the International Boundary and Water Commission for providing services under this section shall be credited to the appropriation from which the cost of providing the services is charged.
 
-([Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 702\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–459.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 702\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–459.)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

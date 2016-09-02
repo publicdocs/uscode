@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1934.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1935 _us_usc_t22_s1936.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
 
 ## § 1937. Irish counterpart account; approval of disposition
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1934.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
+[Previous](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1935 _us_usc_t22_s1936.md) | [Next](./../../../../../..//us/usc/t22/ch24/schIII/ptD/m__us_usc_t22_s1938.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1937)
 
 ----------
 ----------

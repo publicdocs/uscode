@@ -17,7 +17,7 @@
 
     The authority to provide assistance under this subchapter is in addition to any other authority to provide assistance to the Government of Afghanistan.
 
-([Pub. L. 107–327, title I, § 107][/us/pl/107/327/s107], Dec. 4, 2002, [116 Stat. 2806][/us/stat/116/2806].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 107, Dec. 4, 2002, [116 Stat. 2806][/us/stat/116/2806].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/327/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs107
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2806
 
 

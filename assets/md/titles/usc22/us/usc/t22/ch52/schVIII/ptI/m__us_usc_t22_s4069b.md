@@ -83,7 +83,7 @@
 
         (2) the marriage included at least five years during which the employee was assigned overseas.
 
-([Pub. L. 96–465, title I, § 831][/us/pl/96/465/s831], as added [Pub. L. 100–204, title I, § 188(a)][/us/pl/100/204/s188/a], Dec. 22, 1987, [101 Stat. 1370][/us/stat/101/1370]; amended [Pub. L. 101–246, title I, § 146(b)][/us/pl/101/246/s146/b], Feb. 16, 1990, [104 Stat. 37][/us/stat/104/37].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 831, as added [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 188(a), Dec. 22, 1987, [101 Stat. 1370][/us/stat/101/1370]; amended [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 146(b), Feb. 16, 1990, [104 Stat. 37][/us/stat/104/37].)
 
  __Codification__ 
 
@@ -104,10 +104,10 @@
 ----------
 ----------
 
-[/us/pl/96/465/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs831
-[/us/pl/100/204/s188/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs188%2Fa
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1370
-[/us/pl/101/246/s146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs146%2Fb
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F37
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t22/s4069a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4069a%E2%80%931

@@ -17,7 +17,7 @@
 
     After negotiation with the President of the Commonwealth of the Philippines, or the President of the Filipino Republic, the President of the United States is authorized by such means as he finds appropriate to withhold or to acquire and to retain such bases, necessary appurtenances to such bases, and the rights incident thereto, in addition to any provided for by the Act of March 24, 1934, as he may deem necessary for the mutual protection of the Philippine Islands and of the United States.
 
-([June 29, 1944, ch. 322, § 2][/us/act/1944-06-29/ch322/s2], [58 Stat. 626][/us/stat/58/626].)
+([June 29, 1944, ch. 322][/us/act/1944-06-29/ch322], § 2, [58 Stat. 626][/us/stat/58/626].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1944-06-29/ch322/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-29%2Fch322%2Fs2
+[/us/act/1944-06-29/ch322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-29%2Fch322
 [/us/stat/58/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F626
 [/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F456

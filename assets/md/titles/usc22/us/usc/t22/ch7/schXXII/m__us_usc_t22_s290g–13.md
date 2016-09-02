@@ -23,7 +23,7 @@
 
     (b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $225,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 94–302, title II, § 214][/us/pl/94/302/s214], as added [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title I, (a)\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294.)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 214, as added [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title I, (a)\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294.)
 
  __Codification__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs214
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
 [/us/pl/94/302/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs214
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190

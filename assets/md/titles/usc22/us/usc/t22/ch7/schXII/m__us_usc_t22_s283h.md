@@ -23,7 +23,7 @@
 
         The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
-([Pub. L. 86–147, § 11][/us/pl/86/147/s11], Aug. 7, 1959, [73 Stat. 301][/us/stat/73/301]; [Pub. L. 94–302, title I, § 103(a)(3)][/us/pl/94/302/s103/a/3], May 31, 1976, [90 Stat. 593][/us/stat/90/593].)
+([Pub. L. 86–147][/us/pl/86/147], § 11, Aug. 7, 1959, [73 Stat. 301][/us/stat/73/301]; [Pub. L. 94–302, title I][/us/pl/94/302/tI], § 103(a)(3), May 31, 1976, [90 Stat. 593][/us/stat/90/593].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t15/s77c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/86/147/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs11
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F301
-[/us/pl/94/302/s103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs103%2Fa%2F3
+[/us/pl/94/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtI
 [/us/stat/90/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F593
 [/us/pl/94/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302
 [/us/pl/94/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302

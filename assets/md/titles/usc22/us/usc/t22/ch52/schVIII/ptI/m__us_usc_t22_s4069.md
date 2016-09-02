@@ -17,7 +17,7 @@
 
     Participants in this System shall be deemed to be employees for the purposes of [section 8351 of title 5][/us/usc/t5/s8351]. Any reference in such section 8351 or in subchapter III of chapter 84 of such title 5 to retirement or separation under subchapter III of chapter 83 or chapter 84 of such title 5 shall be deemed to be references to retirement or separation under part I or II of this subchapter with similar benefits or entitlements with respect to participants under such part I or II, respectively.
 
-([Pub. L. 96–465, title I, § 829][/us/pl/96/465/s829], as added [Pub. L. 99–556, title IV, § 404(a)][/us/pl/99/556/s404/a], Oct. 27, 1986, [100 Stat. 3137][/us/stat/100/3137].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 829, as added [Pub. L. 99–556, title IV][/us/pl/99/556/tIV], § 404(a), Oct. 27, 1986, [100 Stat. 3137][/us/stat/100/3137].)
 
  __Effective Date__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/96/465/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs829
-[/us/pl/99/556/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs404%2Fa
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/99/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2FtIV
 [/us/stat/100/3137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3137
 [/us/pl/99/556/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs408
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046

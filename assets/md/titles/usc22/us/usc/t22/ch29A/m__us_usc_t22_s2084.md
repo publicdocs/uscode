@@ -21,7 +21,7 @@
 
     (2) to make available to the head of the designated department or agency, on a reimbursable basis, such personnel as may be necessary to assist him in carrying out his functions under this chapter.
 
-([Pub. L. 89–355, § 4][/us/pl/89/355/s4], Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6].)
+([Pub. L. 89–355][/us/pl/89/355], § 4, Feb. 19, 1966, [80 Stat. 6][/us/stat/80/6].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/355/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs4
+[/us/pl/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355
 [/us/stat/80/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F6
 
 

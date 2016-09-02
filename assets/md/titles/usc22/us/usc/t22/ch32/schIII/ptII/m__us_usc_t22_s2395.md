@@ -103,7 +103,7 @@
 
         (5) The fund may be charged with the current value of supplies and equipment returned to the working capital of the fund by a post, activity, or agency, and the proceeds shall he  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “be”. </sup></sup>  credited to current applicable appropriations.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 635, Sept. 4, 1961, [75 Stat. 456][/us/stat/75/456]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 302(g), Aug. 1, 1962, [76 Stat. 262][/us/stat/76/262]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(e), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(g), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 302(d), Sept. 19, 1966, [80 Stat. 807][/us/stat/80/807]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(i), Nov. 14, 1967, [81 Stat. 461][/us/stat/81/461]; [Pub. L. 95–424, title I, § 102(g)(2)(G)][/us/pl/95/424/s102/g/2/G], Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943]; [Pub. L. 96–53, title I, § 121][/us/pl/96/53/s121], Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 106–264, title III, § 301][/us/pl/106/264/s301], Aug. 19, 2000, [114 Stat. 760][/us/stat/114/760]; [Pub. L. 106–309, title IV, § 404][/us/pl/106/309/s404], Oct. 17, 2000, [114 Stat. 1098][/us/stat/114/1098]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 635, Sept. 4, 1961, [75 Stat. 456][/us/stat/75/456]; [Pub. L. 87–565][/us/pl/87/565], pt. III, § 302(g), Aug. 1, 1962, [76 Stat. 262][/us/stat/76/262]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(e), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(g), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 302(d), Sept. 19, 1966, [80 Stat. 807][/us/stat/80/807]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(i), Nov. 14, 1967, [81 Stat. 461][/us/stat/81/461]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(2)(G), Oct. 6, 1978, [92 Stat. 943][/us/stat/92/943]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 121, Aug. 14, 1979, [93 Stat. 366][/us/stat/93/366]; [Pub. L. 106–264, title III][/us/pl/106/264/tIII], § 301, Aug. 19, 2000, [114 Stat. 760][/us/stat/114/760]; [Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 404, Oct. 17, 2000, [114 Stat. 1098][/us/stat/114/1098]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
  __Codification__ 
 
-    In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Government Corporation Control Act, as amended ([31 U.S.C. 841][/us/usc/t31/s841] et seq.)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Government Corporation Control Act, as amended ([31 U.S.C. 841][/us/usc/t31/s841] et seq.)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -133,9 +133,9 @@
 
     1978—Subsec. (h). [Pub. L. 95–424][/us/pl/95/424] substituted “part I (except development loans) and subpart II of part II of subchapter I” for “subparts II, V, and VI of part II of subchapter I (except development loans)”.
 
-    1967—Subsec. (e). [Pub. L. 90–137, § 302(i)(1)][/us/pl/90/137/s302/i/1], designated existing provisions as par. (1) and added par. (2).
+    1967—Subsec. (e). [Pub. L. 90–137][/us/pl/90/137], § 302(i)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g). [Pub. L. 90–137, § 302(i)(2)][/us/pl/90/137/s302/i/2], struck out “and sales” after “loans” in introductory clause.
+    Subsec. (g). [Pub. L. 90–137][/us/pl/90/137], § 302(i)(2), struck out “and sales” after “loans” in introductory clause.
 
     1966—Subsec. (h). [Pub. L. 89–583][/us/pl/89/583] excluded development loans under the Alliance for Progress from the provision that contracts or agreements which entail commitments for the expenditure of funds may not extend for more than five years.
 
@@ -167,7 +167,7 @@
 
  __Information to Congressional Committees on Negotiations Regarding Debts Owed United States by Foreign Governments; Transmittal to Congress of Debt Modification Proposals__ 
 
-    [Pub. L. 93–333, § 4][/us/pl/93/333/s4], July 8, 1974, [88 Stat. 290][/us/stat/88/290], relating to cancellation, renegotiation, etc., of any debt owed by a foreign government, was repealed by [Pub. L. 95–424, title VI, § 603(b)][/us/pl/95/424/s603/b], Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961].
+    [Pub. L. 93–333][/us/pl/93/333], § 4, July 8, 1974, [88 Stat. 290][/us/stat/88/290], relating to cancellation, renegotiation, etc., of any debt owed by a foreign government, was repealed by [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 603(b), Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961].
 
  __Termination of Advisory Committees__ 
 
@@ -195,15 +195,15 @@
 [/us/stat/80/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F807
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F461
-[/us/pl/95/424/s102/g/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F2%2FG
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F943
-[/us/pl/96/53/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs121
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F366
-[/us/pl/106/264/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs301
+[/us/pl/106/264/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtIII
 [/us/stat/114/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F760
-[/us/pl/106/309/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs404
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1098
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -213,15 +213,15 @@
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
 [/us/usc/t31/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs841
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/pl/106/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/90/137/s302/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fi%2F1
-[/us/pl/90/137/s302/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs302%2Fi%2F2
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
@@ -237,9 +237,9 @@
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t1/s112b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112b
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/93/333/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F333%2Fs4
+[/us/pl/93/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F333
 [/us/stat/88/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F290
-[/us/pl/95/424/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs603%2Fb
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

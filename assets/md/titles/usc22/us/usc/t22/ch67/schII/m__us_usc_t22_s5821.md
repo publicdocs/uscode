@@ -61,7 +61,7 @@
 
             Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2295][/us/usc/t22/s2295] et seq.\], up to $12,000,000 for fiscal year 1993 are authorized to be appropriated to carry out this section, in addition to amounts otherwise available for such purpose.
 
-([Pub. L. 102–511, title III, § 301][/us/pl/102/511/s301], Oct. 24, 1992, [106 Stat. 3332][/us/stat/106/3332].)
+([Pub. L. 102–511, title III][/us/pl/102/511/tIII], § 301, Oct. 24, 1992, [106 Stat. 3332][/us/stat/106/3332].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
-[/us/pl/102/511/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs301
+[/us/pl/102/511/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIII
 [/us/stat/106/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3332
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -25,7 +25,7 @@
 
     (b) In order to pay for the increase in the United States subscription to the Corporation provided for in this section, there are authorized to be appropriated, without fiscal year limitation, § 175,162,000 for payment by the Secretary of the Treasury.
 
-([Aug. 11, 1955, ch. 788, § 12][/us/act/1955-08-11/ch788/s12], as added [Pub. L. 99–190, § 101(i)][/us/pl/99/190/s101/i] \[title I, (a)\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294.)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 12, as added [Pub. L. 99–190][/us/pl/99/190], § 101(i) \[title I, (a)\], Dec. 19, 1985, [99 Stat. 1291][/us/stat/99/1291], 1294.)
 
  __Codification__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch788/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs12
-[/us/pl/99/190/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fi
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1291
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 

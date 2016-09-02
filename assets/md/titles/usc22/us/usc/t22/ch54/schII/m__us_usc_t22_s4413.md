@@ -67,7 +67,7 @@
 
         After January 31, 1993, no member of the Board of the Endowment may be a member of the board of directors or an officer of any grantee of the National Endowment for Democracy which receives more than 5 percent of the funds of the Endowment for any fiscal year.
 
-([Pub. L. 98–164, title V, § 504][/us/pl/98/164/s504], Nov. 22, 1983, [97 Stat. 1040][/us/stat/97/1040]; [Pub. L. 99–93, title II, § 210(b)][/us/pl/99/93/s210/b], (d), Aug. 16, 1985, [99 Stat. 432][/us/stat/99/432]; [Pub. L. 100–204, title II, § 211][/us/pl/100/204/s211], Dec. 22, 1987, [101 Stat. 1376][/us/stat/101/1376]; [Pub. L. 102–138, title II][/us/pl/102/138], §§ 211(d), 215, Oct. 28, 1991, [105 Stat. 695][/us/stat/105/695], 697; [Pub. L. 103–236, title II, § 228][/us/pl/103/236/s228], Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 98–164, title V][/us/pl/98/164/tV], § 504, Nov. 22, 1983, [97 Stat. 1040][/us/stat/97/1040]; [Pub. L. 99–93, title II][/us/pl/99/93/tII], § 210(b), (d), Aug. 16, 1985, [99 Stat. 432][/us/stat/99/432]; [Pub. L. 100–204, title II][/us/pl/100/204/tII], § 211, Dec. 22, 1987, [101 Stat. 1376][/us/stat/101/1376]; [Pub. L. 102–138, title II][/us/pl/102/138/tII], §§ 211(d), 215, Oct. 28, 1991, [105 Stat. 695][/us/stat/105/695], 697; [Pub. L. 103–236, title II][/us/pl/103/236/tII], § 228, Apr. 30, 1994, [108 Stat. 423][/us/stat/108/423]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -75,9 +75,9 @@
 
     1994—Subsec. (h)(1). [Pub. L. 103–236][/us/pl/103/236] substituted “bank accounts or separate self-balancing ledger accounts” for “accounts”.
 
-    1991—Subsec. (g). [Pub. L. 102–138, § 211(d)][/us/pl/102/138/s211/d], substituted “shall” for “may also” before “be audited”.
+    1991—Subsec. (g). [Pub. L. 102–138][/us/pl/102/138], § 211(d), substituted “shall” for “may also” before “be audited”.
 
-    Subsec. (j). [Pub. L. 102–138, § 215][/us/pl/102/138/s215], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–138][/us/pl/102/138], § 215, added subsec. (j).
 
     1987—Subsec. (h)(1). [Pub. L. 100–204][/us/pl/100/204] inserted “separate accounts with respect to such assistance and” after “keeps”.
 
@@ -95,22 +95,22 @@
 ----------
 
 [/us/usc/t22/s4411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4411%2Fb
-[/us/pl/98/164/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs504
+[/us/pl/98/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtV
 [/us/stat/97/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1040
-[/us/pl/99/93/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs210%2Fb
+[/us/pl/99/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtII
 [/us/stat/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F432
-[/us/pl/100/204/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs211
+[/us/pl/100/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtII
 [/us/stat/101/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1376
-[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtII
 [/us/stat/105/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F695
-[/us/pl/103/236/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs228
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F423
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/102/138/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs211%2Fd
-[/us/pl/102/138/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs215
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 

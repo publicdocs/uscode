@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch49/schI/m__us_usc_t22_s3406.md) | [Next](./../../../../..//us/usc/t22/ch49/schI/m__us_usc_t22_s3408.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3407)
 
-## § 3407. Repealed. [Pub. L. 97–113, title VII, § 734(a)(4)][/us/pl/97/113/s734/a/4], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560]
+## § 3407. Repealed. [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(4), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560]
 
-    Section, [Pub. L. 96–35, § 9][/us/pl/96/35/s9], July 20, 1979, [93 Stat. 92][/us/stat/93/92], required submission of a Presidential report to Congress ninety days after July 20, 1979, respecting costs of implementation of the peace treaty between Egypt and Israel.
+    Section, [Pub. L. 96–35][/us/pl/96/35], § 9, July 20, 1979, [93 Stat. 92][/us/stat/93/92], required submission of a Presidential report to Congress ninety days after July 20, 1979, respecting costs of implementation of the peace treaty between Egypt and Israel.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/113/s734/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F4
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/96/35/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs9
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F92
 
 

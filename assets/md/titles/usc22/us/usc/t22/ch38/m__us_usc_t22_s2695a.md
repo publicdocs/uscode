@@ -23,7 +23,7 @@
 
         Funds collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing translation or interpretation services in any foreign language. Such funds may remain available until expended.
 
-([Pub. L. 103–236, title I, § 193][/us/pl/103/236/s193], Apr. 30, 1994, [108 Stat. 419][/us/stat/108/419].)
+([Pub. L. 103–236, title I][/us/pl/103/236/tI], § 193, Apr. 30, 1994, [108 Stat. 419][/us/stat/108/419].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs193
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F419
 
 

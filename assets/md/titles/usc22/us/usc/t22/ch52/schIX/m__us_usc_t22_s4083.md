@@ -27,7 +27,7 @@
 
         While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretary may prescribe, but the time of such work or duties shall not be counted as leave.
 
-([Pub. L. 96–465, title I, § 903][/us/pl/96/465/s903], Oct. 17, 1980, [94 Stat. 2127][/us/stat/94/2127]; [Pub. L. 103–236, title I, § 180(a)(8)][/us/pl/103/236/s180/a/8], Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416]; [Pub. L. 109–234, title I, § 1602(d)(2)][/us/pl/109/234/s1602/d/2], June 15, 2006, [120 Stat. 442][/us/stat/120/442]; [Pub. L. 110–321, § 2(2)][/us/pl/110/321/s2/2], Sept. 19, 2008, [122 Stat. 3535][/us/stat/122/3535].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 903, Oct. 17, 1980, [94 Stat. 2127][/us/stat/94/2127]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 180(a)(8), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416]; [Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1602(d)(2), June 15, 2006, [120 Stat. 442][/us/stat/120/442]; [Pub. L. 110–321][/us/pl/110/321], § 2(2), Sept. 19, 2008, [122 Stat. 3535][/us/stat/122/3535].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 [/us/usc/t22/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951
 [/us/usc/t5/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6305
 [/us/usc/t22/s3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3951
-[/us/pl/96/465/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs903
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2127
-[/us/pl/103/236/s180/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs180%2Fa%2F8
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F416
-[/us/pl/109/234/s1602/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1602%2Fd%2F2
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F442
-[/us/pl/110/321/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321%2Fs2%2F2
+[/us/pl/110/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321
 [/us/stat/122/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3535
 [/us/pl/110/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F321
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234

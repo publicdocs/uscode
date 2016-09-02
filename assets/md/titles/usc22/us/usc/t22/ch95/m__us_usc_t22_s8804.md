@@ -109,7 +109,7 @@
 
         For purposes of this section, the term “national balance sheet of Iran” refers to the ratio of the assets of the Government of Iran to the liabilities of that Government.
 
-([Pub. L. 112–239, div. A, title XII, § 1245][/us/pl/112/239/s1245], Jan. 2, 2013, [126 Stat. 2009][/us/stat/126/2009].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1245, Jan. 2, 2013, [126 Stat. 2009][/us/stat/126/2009].)
 
  __Delegation of Functions__ 
 
@@ -124,7 +124,7 @@
 
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/239/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1245
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2009
 [/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 

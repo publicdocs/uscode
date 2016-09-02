@@ -17,7 +17,7 @@
 
     No award shall be made on any claim under [section 1642c of this title][/us/usc/t22/s1642c] to or for the benefit of (1) any person who has been convicted of a violation of any provision of chapter 115 of title 18, or of any other crime involving disloyalty to the United States, or (2) any claimant whose claim under this subchapter is within the scope of subchapter III of this chapter.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 409, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 529][/us/stat/72/529].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title IV, § 409, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 529][/us/stat/72/529].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s1642c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1642c
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F529
 
 

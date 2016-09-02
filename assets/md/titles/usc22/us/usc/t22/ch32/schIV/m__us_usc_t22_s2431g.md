@@ -103,7 +103,7 @@
 
         In the event that a country ceases to meet the eligibility requirements set forth in [section 2431c(a) of this title][/us/usc/t22/s2431c/a], as determined by the President pursuant to [section 2431c(b) of this title][/us/usc/t22/s2431c/b], then grants from the Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in [section 2431c(a) of this title][/us/usc/t22/s2431c/a].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 809, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 890][/us/stat/112/890].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 809, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 890][/us/stat/112/890].)
 
 ----------
 
@@ -120,7 +120,7 @@
 [/us/usc/t22/s2431c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431c%2Fb
 [/us/usc/t22/s2431c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431c%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F890
 
 

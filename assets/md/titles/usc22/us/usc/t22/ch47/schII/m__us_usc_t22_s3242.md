@@ -17,7 +17,7 @@
 
     The Department of Energy, in consultation with the Commission, shall establish and operate a safeguards and physical security training program to be made available to persons from nations and groups of nations which have developed or acquired, or may be expected to develop or acquire, nuclear materials and equipment for use for peaceful purposes. Any such program shall include training in the most advanced safeguards and physical security techniques and technology, consistent with the national security interests of the United States.
 
-([Pub. L. 95–242, title II, § 202][/us/pl/95/242/s202], Mar. 10, 1978, [92 Stat. 124][/us/stat/92/124].)
+([Pub. L. 95–242, title II][/us/pl/95/242/tII], § 202, Mar. 10, 1978, [92 Stat. 124][/us/stat/92/124].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/242/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs202
+[/us/pl/95/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtII
 [/us/stat/92/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F124
 
 

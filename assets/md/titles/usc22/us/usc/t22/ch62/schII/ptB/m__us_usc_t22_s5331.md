@@ -63,7 +63,7 @@
 
         On the conclusion of the study or of discussions described in subsection (a), the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
 
-([Pub. L. 100–418, title III, § 3111][/us/pl/100/418/s3111], Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3111, Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
 
  __Change of Name__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t22/s5332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5332%2Fa
-[/us/pl/100/418/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3111
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1376
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

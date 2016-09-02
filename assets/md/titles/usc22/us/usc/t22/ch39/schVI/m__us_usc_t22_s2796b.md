@@ -35,7 +35,7 @@
 
         For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 63, as added [Pub. L. 97–113, title I, § 109(a)][/us/pl/97/113/s109/a], Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 99–247, § 1(d)][/us/pl/99/247/s1/d], Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 104–164, title I, § 141(e)(2)][/us/pl/104/164/s141/e/2], July 21, 1996, [110 Stat. 1433][/us/stat/110/1433]; [Pub. L. 107–228, div. B, title XIV, § 1405(a)(3)][/us/pl/107/228/s1405/a/3], Sept. 30, 2002, [116 Stat. 1457][/us/stat/116/1457]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 63, as added [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 109(a), Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 99–247][/us/pl/99/247], § 1(d), Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 141(e)(2), July 21, 1996, [110 Stat. 1433][/us/stat/110/1433]; [Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1405(a)(3), Sept. 30, 2002, [116 Stat. 1457][/us/stat/116/1457]; [Pub. L. 110–429, title II][/us/pl/110/429/tII], § 203(b)(1), Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III][/us/pl/111/266/tIII], § 301(1), Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 
     1996—Subsec. (a). [Pub. L. 104–164][/us/pl/104/164] redesignated par. (1) as entire subsec. (a), substituted “the 15-day or 30-day period specified in section 2796a(c)(1) or (2) of this title, as the case may be” for “30 calendar days after receiving the certification with respect to that proposed agreement pursuant to [section 2796a(a) of this title][/us/usc/t22/s2796a/a]”, and struck out par. (2) which read as follows: “This section shall not apply with respect to a loan or lease to the North Atlantic Treaty Organization, any member country of that Organization, Japan, Australia, or New Zealand.”
 
-    1986—Subsec. (a)(1). [Pub. L. 99–247, § 1(d)(1)][/us/pl/99/247/s1/d/1], substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
+    1986—Subsec. (a)(1). [Pub. L. 99–247][/us/pl/99/247], § 1(d)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
 
-    Subsec. (b). [Pub. L. 99–247, § 1(d)(2)][/us/pl/99/247/s1/d/2], inserted “joint” before “resolution”.
+    Subsec. (b). [Pub. L. 99–247][/us/pl/99/247], § 1(d)(2), inserted “joint” before “resolution”.
 
-    Subsec. (c). [Pub. L. 99–247, § 1(d)(3)][/us/pl/99/247/s1/d/3], substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
+    Subsec. (c). [Pub. L. 99–247][/us/pl/99/247], § 1(d)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -72,17 +72,17 @@
 
 [/us/usc/t22/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2311
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/97/113/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs109%2Fa
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1525
-[/us/pl/99/247/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fd
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
 [/us/stat/100/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F9
-[/us/pl/104/164/s141/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Fe%2F2
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1433
-[/us/pl/107/228/s1405/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1405%2Fa%2F3
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1457
-[/us/pl/110/429/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F1
+[/us/pl/110/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2FtII
 [/us/stat/122/4845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4845
-[/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
+[/us/pl/111/266/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtIII
 [/us/stat/124/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2804
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -94,9 +94,9 @@
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/usc/t22/s2796a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2796a%2Fa
-[/us/pl/99/247/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fd%2F1
-[/us/pl/99/247/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fd%2F2
-[/us/pl/99/247/s1/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247%2Fs1%2Fd%2F3
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
+[/us/pl/99/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F247
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/104/164/s141/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs141%2Ff
 [/us/usc/t22/s2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753

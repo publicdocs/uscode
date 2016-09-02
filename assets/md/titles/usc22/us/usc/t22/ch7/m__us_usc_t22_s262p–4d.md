@@ -35,7 +35,7 @@
 
         The Secretary of the Treasury shall instruct the United States Executive Director of the African Development Bank and the African Development Fund to initiate discussions with the directors of such institutions and propose that such institutions, jointly with the International Bank for Reconstruction and Development, the International Development Association, and the International Finance Corporation, as appropriate, provide advice and assistance to government creditors holding sovereign debt of any sub-Saharan government, and to sub-Saharan governments which desire to finance programs with local currencies obtained through debt reduction and conversion to promote charitable, educational, and scientific (including conservation and restoration of natural resources) purposes, as a condition of reducing or converting such sovereign debt.
 
-([Pub. L. 95–118, title XVI, § 1609][/us/pl/95/118/s1609], as added [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1609, as added [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36].)
 
  __Codification__ 
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1609
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
 [/us/pl/95/118/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1609
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461

@@ -41,7 +41,7 @@
 
         (2) the term “United States agency” has the meaning given the term “agency” in [section 551(1) of title 5][/us/usc/t5/s551/1].
 
-([Pub. L. 104–114, title I, § 103][/us/pl/104/114/s103], Mar. 12, 1996, [110 Stat. 794][/us/stat/110/794].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 103, Mar. 12, 1996, [110 Stat. 794][/us/stat/110/794].)
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/usc/t22/s6063/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F1
 [/us/usc/t22/s6064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6064
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/104/114/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs103
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F794
 
 

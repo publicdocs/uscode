@@ -35,13 +35,13 @@
 
             (C) VOA enhancements, including the opening of new news bureaus in Taipei and Shanghai, enhancement of TV Mandarin, and an increase of stringer presence abroad.
 
-([Pub. L. 106–286, div. B, title VII, § 701][/us/pl/106/286/s701], Oct. 10, 2000, [114 Stat. 907][/us/stat/114/907]; [Pub. L. 107–228, div. A, title I, § 121(b)][/us/pl/107/228/s121/b], Sept. 30, 2002, [116 Stat. 1361][/us/stat/116/1361].)
+([Pub. L. 106–286, div. B, title VII][/us/pl/106/286/dB/tVII], § 701, Oct. 10, 2000, [114 Stat. 907][/us/stat/114/907]; [Pub. L. 107–228, div. A, title I][/us/pl/107/228/dA/tI], § 121(b), Sept. 30, 2002, [116 Stat. 1361][/us/stat/116/1361].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–228, § 121(b)(1)][/us/pl/107/228/s121/b/1], substituted “2003” for “2001”.
+    2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228], § 121(b)(1), substituted “2003” for “2001”.
 
-    Subsec. (b)(1). [Pub. L. 107–228, § 121(b)(2)][/us/pl/107/228/s121/b/2], substituted “2001, 2002, and 2003” for “2001 and 2002”.
+    Subsec. (b)(1). [Pub. L. 107–228][/us/pl/107/228], § 121(b)(2), substituted “2001, 2002, and 2003” for “2001 and 2002”.
 
 ----------
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/106/286/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs701
+[/us/pl/106/286/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtVII
 [/us/stat/114/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F907
-[/us/pl/107/228/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs121%2Fb
+[/us/pl/107/228/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtI
 [/us/stat/116/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1361
-[/us/pl/107/228/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs121%2Fb%2F1
-[/us/pl/107/228/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs121%2Fb%2F2
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 
 

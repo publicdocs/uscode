@@ -27,7 +27,7 @@
 
         Prior to making any determination under subsection (b), the President shall notify the Committee on International Relations, the Committee on Foreign Relations, and the Committees on Appropriations of the Senate and House of Representatives of his intention to make such a determination, the effective date of the determination, and the reasons for making the determination.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620I, as added [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 559\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–161.)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620I, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 559\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–161.)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

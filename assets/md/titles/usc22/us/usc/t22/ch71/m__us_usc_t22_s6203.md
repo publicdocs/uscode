@@ -69,7 +69,7 @@
 
         Notwithstanding any other provision of law, any and all limitations on liability that apply to the members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
 
-([Pub. L. 103–236, title III, § 304][/us/pl/103/236/s304], Apr. 30, 1994, [108 Stat. 434][/us/stat/108/434]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, §§ 1322, 1323(b), (c), Oct. 21, 1998, [112 Stat. 2681–777][/us/stat/112/2681-777], 2681–778; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, §§ 502, 504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451.)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 304, Apr. 30, 1994, [108 Stat. 434][/us/stat/108/434]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, §§ 1322, 1323(b), (c), Oct. 21, 1998, [112 Stat. 2681–777][/us/stat/112/2681-777], 2681–778; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title V, §§ 502, 504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451.)
 
  __References in Text__ 
 
@@ -81,19 +81,19 @@
 
  __Amendments__ 
 
-    1999—Subsec. (b)(2). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, § 502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+    1999—Subsec. (b)(2). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title V, § 502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
-    [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, § 502(1)\], substituted “appoint” for “designate”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title V, § 502(1)\], substituted “appoint” for “designate”.
 
-    Subsec. (g). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, § 504\], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title V, § 504\], added subsec. (g).
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 1322][/us/pl/105/277/s1322], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the ‘Board’).”
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 1322, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby established within the United States Information Agency a Broadcasting Board of Governors (hereafter in this chapter referred to as the ‘Board’).”
 
-    Subsec. (b). [Pub. L. 105–277, § 1323(b)][/us/pl/105/277/s1323/b], substituted “Secretary of State” for “Director of the United States Information Agency” wherever appearing.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1323(b), substituted “Secretary of State” for “Director of the United States Information Agency” wherever appearing.
 
-    Subsec. (c). [Pub. L. 105–277, § 1323(b)][/us/pl/105/277/s1323/b], (c), in first sentence, substituted “Secretary of State” for “Director of the United States Information Agency”, and in last sentence, substituted “no Secretary of State” for “no Director of the United States Information Agency” and “Acting Secretary of State” for “acting Director of the agency”.
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1323(b), (c), in first sentence, substituted “Secretary of State” for “Director of the United States Information Agency”, and in last sentence, substituted “no Secretary of State” for “no Director of the United States Information Agency” and “Acting Secretary of State” for “acting Director of the agency”.
 
-    Subsec. (e). [Pub. L. 105–277, § 1323(b)][/us/pl/105/277/s1323/b], substituted “Secretary of State” for “Director of the United States Information Agency”.
+    Subsec. (e). [Pub. L. 105–277][/us/pl/105/277], § 1323(b), substituted “Secretary of State” for “Director of the United States Information Agency”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -110,11 +110,11 @@
 [/us/usc/t22/s3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3929
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/103/236/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs304
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F434
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-777
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
@@ -124,13 +124,13 @@
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
 [/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/105/277/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1322
-[/us/pl/105/277/s1323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fb
-[/us/pl/105/277/s1323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fb
-[/us/pl/105/277/s1323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fb
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531

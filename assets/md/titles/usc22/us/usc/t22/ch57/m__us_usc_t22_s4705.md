@@ -17,7 +17,7 @@
 
     The President may enter into agreements with foreign governments in furtherance of the purposes of this chapter. Such agreements may provide for the creation or continuation of binational or multinational educational and cultural foundations and commissions for the purposes of administering programs under this chapter.
 
-([Pub. L. 99–93, title VI, § 605][/us/pl/99/93/s605], Aug. 16, 1985, [99 Stat. 441][/us/stat/99/441].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 605, Aug. 16, 1985, [99 Stat. 441][/us/stat/99/441].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/93/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs605
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F441
 
 

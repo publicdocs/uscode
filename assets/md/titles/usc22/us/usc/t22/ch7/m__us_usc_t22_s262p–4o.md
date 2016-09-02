@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall direct the United States Executive Directors of the international financial institutions (as defined in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2]) and the United States representative to the council of the Global Environment Facility administered by the International Bank for Reconstruction and Development to use the voice and vote of the United States to bring about the creation and full implementation of policies designed to promote respect for and full protection of the territorial rights, traditional economies, cultural integrity, traditional knowledge and human rights of indigenous peoples.
 
-([Pub. L. 95–118, title XVI, § 1620][/us/pl/95/118/s1620], as added [Pub. L. 103–306, title V, § 526(e)][/us/pl/103/306/s526/e], Aug. 23, 1994, [108 Stat. 1633][/us/stat/108/1633].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1620, as added [Pub. L. 103–306, title V][/us/pl/103/306/tV], § 526(e), Aug. 23, 1994, [108 Stat. 1633][/us/stat/108/1633].)
 
  __Prior Provisions__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/95/118/s1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1620
-[/us/pl/103/306/s526/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs526%2Fe
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1633
 [/us/pl/95/118/s1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1620
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935

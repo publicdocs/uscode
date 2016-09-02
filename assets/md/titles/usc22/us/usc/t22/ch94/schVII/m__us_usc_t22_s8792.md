@@ -99,7 +99,7 @@
 
                 The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
-([Pub. L. 112–158, title VII, § 703][/us/pl/112/158/s703], Aug. 10, 2012, [126 Stat. 1266][/us/stat/126/1266].)
+([Pub. L. 112–158, title VII][/us/pl/112/158/tVII], § 703, Aug. 10, 2012, [126 Stat. 1266][/us/stat/126/1266].)
 
  __Termination of Section__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t22/s8791/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8791%2Fc
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t50/s1702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702%2Fb%2F3
-[/us/pl/112/158/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs703
+[/us/pl/112/158/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVII
 [/us/stat/126/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1266
 [/us/usc/t22/s8795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8795
 

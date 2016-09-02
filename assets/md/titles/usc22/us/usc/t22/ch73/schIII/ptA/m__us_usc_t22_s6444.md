@@ -59,7 +59,7 @@
 
         If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
 
-([Pub. L. 105–292, title IV, § 404][/us/pl/105/292/s404], Oct. 27, 1998, [112 Stat. 2805][/us/stat/112/2805].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 404, Oct. 27, 1998, [112 Stat. 2805][/us/stat/112/2805].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t22/s6442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6442
 [/us/usc/t22/s6445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fa
 [/us/usc/t22/s6443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6443
-[/us/pl/105/292/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs404
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2805
 
 

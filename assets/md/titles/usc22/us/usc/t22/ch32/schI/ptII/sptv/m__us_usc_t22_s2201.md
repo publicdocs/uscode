@@ -23,7 +23,7 @@
 
         Accordingly, the President is authorized to expend up to $3,000,000 of funds made available under part I of this subchapter, in addition to funds otherwise available for such purposes, to help meet the needs of these disadvantaged children in Asia by assisting in the expansion and improvement of orphanages, hostels, day care centers, school feeding programs, and health, education, and welfare programs. Assistance provided under this section shall be furnished under the auspices of and by international organizations or private voluntary agencies operating within, and in cooperation with, the countries of Asia where these disadvantaged children reside.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 241, as added [Pub. L. 95–424, title I, § 116][/us/pl/95/424/s116], Oct. 6, 1978, [92 Stat. 952][/us/stat/92/952]; amended [Pub. L. 99–83, title IX, § 903(a)][/us/pl/99/83/s903/a], Aug. 8, 1985, [99 Stat. 268][/us/stat/99/268].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 241, as added [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 116, Oct. 6, 1978, [92 Stat. 952][/us/stat/92/952]; amended [Pub. L. 99–83, title IX][/us/pl/99/83/tIX], § 903(a), Aug. 8, 1985, [99 Stat. 268][/us/stat/99/268].)
 
  __References to Part I Deemed To Include Section 2293__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2201, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 241, Sept. 4, 1961, [75 Stat. 433][/us/stat/75/433]; [Pub. L. 88–205][/us/pl/88/205], pt. I, § 105, Dec. 16, 1963, [77 Stat. 382][/us/stat/77/382], related to general authority of President respecting development research and use of funds for research into problems of population growth, prior to repeal by [Pub. L. 94–161, title III, § 306(1)][/us/pl/94/161/s306/1], Dec. 20, 1975, [89 Stat. 858][/us/stat/89/858].
+    A prior section 2201, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 241, Sept. 4, 1961, [75 Stat. 433][/us/stat/75/433]; [Pub. L. 88–205][/us/pl/88/205], pt. I, § 105, Dec. 16, 1963, [77 Stat. 382][/us/stat/77/382], related to general authority of President respecting development research and use of funds for research into problems of population growth, prior to repeal by [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 306(1), Dec. 20, 1975, [89 Stat. 858][/us/stat/89/858].
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/424/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs116
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F952
-[/us/pl/99/83/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs903%2Fa
+[/us/pl/99/83/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIX
 [/us/stat/99/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F268
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
@@ -67,7 +67,7 @@
 [/us/stat/75/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F433
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F382
-[/us/pl/94/161/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs306%2F1
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F858
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83

@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “International Debt Management Act of 1988”.
 
-([Pub. L. 100–418, title III, § 3101][/us/pl/100/418/s3101], Aug. 23, 1988, [102 Stat. 1375][/us/stat/102/1375].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3101, Aug. 23, 1988, [102 Stat. 1375][/us/stat/102/1375].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3101
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375

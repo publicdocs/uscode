@@ -27,7 +27,7 @@
 
         The authority described in subsection (b) does not supersede or otherwise modify any existing authority of any Federal department or agency already having such authority.
 
-([Pub. L. 109–401, title II, § 211][/us/pl/109/401/s211], Dec. 18, 2006, [120 Stat. 2743][/us/stat/120/2743].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 211, Dec. 18, 2006, [120 Stat. 2743][/us/stat/120/2743].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs211
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2743
 
 

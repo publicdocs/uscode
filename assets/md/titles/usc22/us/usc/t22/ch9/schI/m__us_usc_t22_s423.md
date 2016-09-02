@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 14, 1943, ch. 122, § 2][/us/act/1943-06-14/ch122/s2], [57 Stat. 152][/us/stat/57/152], related to retention for defense of United States of certain articles, information or service procured for foreign governments from funds appropriated by act June 14, 1943 or prior acts appropriating funds to the President for such purposes.
+    Section, [act June 14, 1943, ch. 122][/us/act/1943-06-14/ch122], § 2, [57 Stat. 152][/us/stat/57/152], related to retention for defense of United States of certain articles, information or service procured for foreign governments from funds appropriated by act June 14, 1943 or prior acts appropriating funds to the President for such purposes.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1943-06-14/ch122/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-14%2Fch122%2Fs2
+[/us/act/1943-06-14/ch122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-14%2Fch122
 [/us/stat/57/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F152
 
 

@@ -33,7 +33,7 @@
 
         (2) the beneficiaries of the financing.
 
-([Pub. L. 111–195, title I, § 111][/us/pl/111/195/s111], July 1, 2010, [124 Stat. 1339][/us/stat/124/1339].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 111, July 1, 2010, [124 Stat. 1339][/us/stat/124/1339].)
 
  __Termination of Section__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/111/195/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs111
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1339
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/104/172/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172%2Fs5

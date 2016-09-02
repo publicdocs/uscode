@@ -17,7 +17,7 @@
 
     The Secretary of State shall reimburse the appropriate appropriations account of the Department of the Treasury out of funds appropriated pursuant to [section 4851(a)(1) of this title][/us/usc/t22/s4851/a/1] for the actual costs incurred by the United States Secret Service, as agreed to by the Secretary of the Treasury, for providing protection for the spouses of foreign heads of state during fiscal years 1986 and 1987.
 
-([Pub. L. 99–399, title IV, § 411][/us/pl/99/399/s411], Aug. 27, 1986, [100 Stat. 867][/us/stat/100/867].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 411, Aug. 27, 1986, [100 Stat. 867][/us/stat/100/867].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s4851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4851%2Fa%2F1
-[/us/pl/99/399/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs411
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F867
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

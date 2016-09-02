@@ -33,7 +33,7 @@
 
         Notwithstanding subsection (b), proceeds from the disposition of furniture, furnishings, and equipment from diplomatic and consular establishments in foreign countries shall be deposited into the Foreign Service Building Fund to be available for obligation or expenditure as directed by the Secretary.
 
-([May 7, 1926, ch. 250, § 9][/us/act/1926-05-07/ch250/s9], as added [Apr. 19, 1945, ch. 78][/us/act/1945-04-19/ch78], [59 Stat. 53][/us/stat/59/53]; amended [Pub. L. 88–94, § 2(e)][/us/pl/88/94/s2/e], Aug. 12, 1963, [77 Stat. 122][/us/stat/77/122]; [Pub. L. 89–636, § 3][/us/pl/89/636/s3], Oct. 10, 1966, [80 Stat. 882][/us/stat/80/882]; [Pub. L. 99–399, title IV, § 401(h)(2)][/us/pl/99/399/s401/h/2], Aug. 27, 1986, [100 Stat. 863][/us/stat/100/863]; [Pub. L. 101–246, title I, § 116(c)][/us/pl/101/246/s116/c], Feb. 16, 1990, [104 Stat. 25][/us/stat/104/25].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 9, as added [Apr. 19, 1945, ch. 78][/us/act/1945-04-19/ch78], [59 Stat. 53][/us/stat/59/53]; amended [Pub. L. 88–94][/us/pl/88/94], § 2(e), Aug. 12, 1963, [77 Stat. 122][/us/stat/77/122]; [Pub. L. 89–636][/us/pl/89/636], § 3, Oct. 10, 1966, [80 Stat. 882][/us/stat/80/882]; [Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 401(h)(2), Aug. 27, 1986, [100 Stat. 863][/us/stat/100/863]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 116(c), Feb. 16, 1990, [104 Stat. 25][/us/stat/104/25].)
 
  __Amendments__ 
 
@@ -59,16 +59,16 @@
 ----------
 
 [/us/usc/t22/s4304/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4304%2Fb%2F5
-[/us/act/1926-05-07/ch250/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs9
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/act/1945-04-19/ch78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-04-19%2Fch78
 [/us/stat/59/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F53
-[/us/pl/88/94/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94%2Fs2%2Fe
+[/us/pl/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F94
 [/us/stat/77/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F122
-[/us/pl/89/636/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636%2Fs3
+[/us/pl/89/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F636
 [/us/stat/80/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F882
-[/us/pl/99/399/s401/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs401%2Fh%2F2
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F863
-[/us/pl/101/246/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs116%2Fc
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F25
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/usc/t22/s4304/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4304%2Fb%2F5

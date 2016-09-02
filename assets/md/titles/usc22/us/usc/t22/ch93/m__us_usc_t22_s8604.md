@@ -35,7 +35,7 @@
 
         (3) Actions to integrate Israel into the defense of the Eastern Mediterranean.
 
-([Pub. L. 112–150, § 6][/us/pl/112/150/s6], July 27, 2012, [126 Stat. 1148][/us/stat/126/1148].)
+([Pub. L. 112–150][/us/pl/112/150], § 6, July 27, 2012, [126 Stat. 1148][/us/stat/126/1148].)
 
  __Delegation of Certain Functions Under__  __[__  __Section 6 of Public Law 112–150__  __][/us/pl/112/150/s6]__ 
 
@@ -58,7 +58,7 @@
 
 [/us/pl/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429
 [/us/usc/t22/s2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776
-[/us/pl/112/150/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs6
+[/us/pl/112/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150
 [/us/stat/126/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1148
 [/us/pl/112/150/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs6
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t22/ch18/schII/m__us_usc_t22_ch18_schII.md) | [Next](./../../../../..//us/usc/t22/ch18/schII/m__us_usc_t22_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1446)
 
-## § 1446. Repealed. [Pub. L. 87–256, § 111(a)(2)][/us/pl/87/256/s111/a/2], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538]
+## § 1446. Repealed. [Pub. L. 87–256][/us/pl/87/256], § 111(a)(2), Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538]
 
     Section, acts [Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title II, § 201, [62 Stat. 7][/us/stat/62/7]; [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(f), [66 Stat. 276][/us/stat/66/276]; [June 4, 1956, ch. 356][/us/act/1956-06-04/ch356], [70 Stat. 241][/us/stat/70/241], authorized the interchange of persons on a reciprocal basis between the United States and other countries, provided for orientation courses, admission as nonimmigrant visitors, deportation, and eligibility requirements for reentry under changed status. See section 2451 et seq. of this title.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/256/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fa%2F2
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F7

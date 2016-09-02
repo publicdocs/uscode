@@ -27,7 +27,7 @@
 
         The President may establish up to two additional positions in the Institute to be compensated at the rate payable for level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316].
 
-([Pub. L. 96–53, title IV, § 406][/us/pl/96/53/s406], Aug. 14, 1979, [93 Stat. 374][/us/stat/93/374].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 406, Aug. 14, 1979, [93 Stat. 374][/us/stat/93/374].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/96/53/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs406
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F374
 
 

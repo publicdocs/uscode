@@ -23,7 +23,7 @@
 
     (c) “United States” means the United States, its Territories, its insular possessions, the Canal Zone, and any other place subject to the jurisdiction of the United States.
 
-([June 30, 1944, ch. 326, § 1][/us/act/1944-06-30/ch326/s1], [58 Stat. 643][/us/stat/58/643]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
+([June 30, 1944, ch. 326][/us/act/1944-06-30/ch326], § 1, [58 Stat. 643][/us/stat/58/643]; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t22/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs706
-[/us/act/1944-06-30/ch326/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326%2Fs1
+[/us/act/1944-06-30/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch326
 [/us/stat/58/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F643
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

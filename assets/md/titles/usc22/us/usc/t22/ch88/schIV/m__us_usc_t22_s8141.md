@@ -23,7 +23,7 @@
 
     (3) to permit access to or copying of any record by the United States Government in accordance with any regulation prescribed under this chapter.
 
-([Pub. L. 109–401, title II, § 241][/us/pl/109/401/s241], Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 241, Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs241
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2747
 
 

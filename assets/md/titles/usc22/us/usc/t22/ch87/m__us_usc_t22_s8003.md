@@ -403,7 +403,7 @@
 
             Each report submitted under this subsection shall be submitted in unclassified form, but may contain a classified annex.
 
-([Pub. L. 109–401, title I, § 104][/us/pl/109/401/s104], Dec. 18, 2006, [120 Stat. 2729][/us/stat/120/2729]; [Pub. L. 110–369, title I][/us/pl/110/369], §§ 101(c), 105, Oct. 8, 2008, [122 Stat. 4029][/us/stat/122/4029], 4030.)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 104, Dec. 18, 2006, [120 Stat. 2729][/us/stat/120/2729]; [Pub. L. 110–369, title I][/us/pl/110/369/tI], §§ 101(c), 105, Oct. 8, 2008, [122 Stat. 4029][/us/stat/122/4029], 4030.)
 
  __References in Text__ 
 
@@ -411,7 +411,7 @@
 
     Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, referred to in subsec. (g)(2)(M), is [section 101(a) of Pub. L. 110–369][/us/pl/110/369/s101/a], which is set out in a note under [section 8001 of this title][/us/usc/t22/s8001].
 
-    [Section 2376(c) of this title][/us/usc/t22/s2376/c], referred to in subsec. (g)(3)(B), was repealed by [Pub. L. 113–188, title XIV, § 1401][/us/pl/113/188/s1401], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].
+    [Section 2376(c) of this title][/us/usc/t22/s2376/c], referred to in subsec. (g)(3)(B), was repealed by [Pub. L. 113–188, title XIV][/us/pl/113/188/tXIV], § 1401, Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].
 
  __Codification__ 
 
@@ -419,11 +419,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (f). [Pub. L. 110–369, § 101(c)][/us/pl/110/369/s101/c], substituted “October 8, 2008” for “the enactment of a joint resolution under [section 2153(d) of title 42][/us/usc/t42/s2153/d] approving such an agreement”.
+    2008—Subsec. (f). [Pub. L. 110–369][/us/pl/110/369], § 101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under [section 2153(d) of title 42][/us/usc/t42/s2153/d] approving such an agreement”.
 
-    Subsec. (g)(1)(B) to (E). [Pub. L. 110–369, § 105(a)][/us/pl/110/369/s105/a], added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+    Subsec. (g)(1)(B) to (E). [Pub. L. 110–369][/us/pl/110/369], § 105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-    Subsec. (g)(2)(M). [Pub. L. 110–369, § 105(b)][/us/pl/110/369/s105/b], added subpar. (M).
+    Subsec. (g)(2)(M). [Pub. L. 110–369][/us/pl/110/369], § 105(b), added subpar. (M).
 
  __Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy__ 
 
@@ -498,9 +498,9 @@ I therefore hereby (1) exempt the proposed Agreement for Cooperation Between the
 [/us/usc/t42/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/usc/t22/s3281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281%2Fa
-[/us/pl/109/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2729
-[/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
+[/us/pl/110/369/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2FtI
 [/us/stat/122/4029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4029
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/stat/120/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2726
@@ -508,15 +508,15 @@ I therefore hereby (1) exempt the proposed Agreement for Cooperation Between the
 [/us/pl/110/369/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs101%2Fa
 [/us/usc/t22/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8001
 [/us/usc/t22/s2376/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2376%2Fc
-[/us/pl/113/188/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1401
+[/us/pl/113/188/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXIV
 [/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/pl/109/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104
 [/us/pl/109/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104
 [/us/usc/t42/s2153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2Fd
-[/us/pl/110/369/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs101%2Fc
+[/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
 [/us/usc/t42/s2153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2Fd
-[/us/pl/110/369/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs105%2Fa
-[/us/pl/110/369/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs105%2Fb
+[/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
+[/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
 [/us/usc/t42/s2153/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2FB
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153

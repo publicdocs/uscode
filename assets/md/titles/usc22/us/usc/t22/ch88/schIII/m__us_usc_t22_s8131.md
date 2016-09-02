@@ -17,7 +17,7 @@
 
     Information reported to, or otherwise acquired by, the United States Government under this chapter or under the Additional Protocol shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-([Pub. L. 109–401, title II, § 231][/us/pl/109/401/s231], Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 231, Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/109/401/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs231
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2747
 
 

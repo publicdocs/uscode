@@ -23,7 +23,7 @@
 
         Any person who serves as a Governor of the Bank or as an alternate for the Governor may not receive any salary or other compensation from the United States by reason of such service.
 
-([Pub. L. 101–513, title V, § 562(c)(3)][/us/pl/101/513/s562/c/3], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(3), Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/101/513/s562/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F3
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2034
 [/us/pl/101/513/s562/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F3
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293

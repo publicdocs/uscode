@@ -17,7 +17,7 @@
 
     In authorizing international information activities under this chapter, it is the sense of the Congress (1) that the Secretary and the Broadcasting Board of Governors shall reduce such Government information activities whenever corresponding private information dissemination is found to be adequate; (2) that nothing in this chapter shall be construed to give the Department or the Broadcasting Board of Governors a monopoly in the production or sponsorship on the air of short-wave broadcasting programs, or a monopoly in any other medium of information.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 502, [62 Stat. 10][/us/stat/62/10]; [Pub. L. 112–239, div. A, title X, § 1078(d)(1)][/us/pl/112/239/s1078/d/1], Jan. 2, 2013, [126 Stat. 1958][/us/stat/126/1958].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title V, § 502, [62 Stat. 10][/us/stat/62/10]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1078(d)(1), Jan. 2, 2013, [126 Stat. 1958][/us/stat/126/1958].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F10
-[/us/pl/112/239/s1078/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1078%2Fd%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1958
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

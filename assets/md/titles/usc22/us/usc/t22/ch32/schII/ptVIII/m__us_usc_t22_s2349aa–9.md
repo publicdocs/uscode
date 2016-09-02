@@ -41,7 +41,7 @@
 
         For purposes of this section, the term “United States” includes territories and possessions of the United States.
 
-([Pub. L. 99–83, title V, § 505][/us/pl/99/83/s505], Aug. 8, 1985, [99 Stat. 221][/us/stat/99/221].)
+([Pub. L. 99–83, title V][/us/pl/99/83/tV], § 505, Aug. 8, 1985, [99 Stat. 221][/us/stat/99/221].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/99/83/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs505
+[/us/pl/99/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtV
 [/us/stat/99/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F221
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

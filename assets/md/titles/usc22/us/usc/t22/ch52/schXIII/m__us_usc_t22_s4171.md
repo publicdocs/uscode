@@ -27,17 +27,17 @@
 
         The Secretary of State may authorize exceptions to the requirements of this section if he determines that unanticipated exigencies so require.
 
-([Pub. L. 96–465, title II, § 2207][/us/pl/96/465/s2207], Oct. 17, 1980, [94 Stat. 2163][/us/stat/94/2163]; [Pub. L. 103–236, title I, § 139(7)][/us/pl/103/236/s139/7], (25), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], 399; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2207, Oct. 17, 1980, [94 Stat. 2163][/us/stat/94/2163]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(7), (25), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], 399; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
 
  __Amendments__ 
 
     2002—Subsec. (a). [Pub. L. 107–132][/us/pl/107/132] substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 
-    1994—Subsec. (c). [Pub. L. 103–236, § 139(7)][/us/pl/103/236/s139/7], (25), amended subsec. (c) identically, striking out at end “Such exceptions shall be annually reported to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate.”
+    1994—Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 139(7), (25), amended subsec. (c) identically, striking out at end “Such exceptions shall be annually reported to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
  __Expansion of Model Foreign Language Competence Posts__ 
 
-[Pub. L. 101–246, title I, § 161][/us/pl/101/246/s161], Feb. 16, 1990, [104 Stat. 46][/us/stat/104/46], as amended by [Pub. L. 101–302, title III, § 320(b)(3)][/us/pl/101/302/s320/b/3], May 25, 1990, [104 Stat. 247][/us/stat/104/247]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XXII, § 2219(a)(1), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412], provided that:
+[Pub. L. 101–246, title I][/us/pl/101/246/tI], § 161, Feb. 16, 1990, [104 Stat. 46][/us/stat/104/46], as amended by [Pub. L. 101–302, title III][/us/pl/101/302/tIII], § 320(b)(3), May 25, 1990, [104 Stat. 247][/us/stat/104/247]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XXII, § 2219(a)(1), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817]; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412], provided that:
 
 >     “(a)  __Designation of Posts__  __.—__ 
 
@@ -75,21 +75,21 @@
 ----------
 
 [/us/usc/t22/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4022
-[/us/pl/96/465/s2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2207
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2163
-[/us/pl/103/236/s139/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F7
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
-[/us/pl/103/236/s139/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F7
-[/us/pl/101/246/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs161
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F46
-[/us/pl/101/302/s320/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs320%2Fb%2F3
+[/us/pl/101/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtIII
 [/us/stat/104/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F247
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-817
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/usc/t22/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4022
 [/us/usc/t22/s4171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4171

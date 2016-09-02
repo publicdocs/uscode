@@ -27,11 +27,11 @@
 
         The Secretary of State shall ensure that the FRUS series shall be published not more than 30 years after the events recorded.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 401, as added [Pub. L. 102–138, title I, § 198(a)][/us/pl/102/138/s198/a], Oct. 28, 1991, [105 Stat. 685][/us/stat/105/685].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 401, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(a), Oct. 28, 1991, [105 Stat. 685][/us/stat/105/685].)
 
  __Compliance With Deadline for Publication of FRUS Series; Notification to Congressional Committees on Failure To Comply; Final Deadline__ 
 
-[Pub. L. 102–138, title I, § 198(c)(2)][/us/pl/102/138/s198/c/2], Oct. 28, 1991, [105 Stat. 691][/us/stat/105/691], provided that:
+[Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(c)(2), Oct. 28, 1991, [105 Stat. 691][/us/stat/105/691], provided that:
 
 >     “(A) In order to come into compliance with section 401(c) of the State Department Basic Authorities Act of 1956 \[[22 U.S.C. 4351(c)][/us/usc/t22/s4351/c]\] (as amended by this section) the Secretary of State shall ensure that, by the end of the 3-year period beginning on the date of the enactment of this Act \[Oct. 28, 1991\], all volumes of the Foreign Relations of the United States historical series (FRUS) for the years that are more than 30 years before the end of that 3-year period have been published.
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F685
-[/us/pl/102/138/s198/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fc%2F2
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F691
 [/us/usc/t22/s4351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4351%2Fc
 

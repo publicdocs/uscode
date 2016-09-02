@@ -19,7 +19,7 @@
 
     (b) The United States Governor of the Bank is authorized (1) to vote for increases in the capital stock of the Bank under article II, section 2, of the articles of agreement of the Bank, as recommended in the resolution of the Board of Governors of the Bank dated February 2, 1959, and (2) if such increases become effective, to subscribe on behalf of the United States to thirty-one thousand seven hundred and fifty additional shares of stock under article II, section 3, of the articles of agreement of the Bank.
 
-([July 31, 1945, ch. 339, § 16][/us/act/1945-07-31/ch339/s16], as added [Pub. L. 86–48, § 1][/us/pl/86/48/s1], June 17, 1959, [73 Stat. 80][/us/stat/73/80].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 16, as added [Pub. L. 86–48][/us/pl/86/48], § 1, June 17, 1959, [73 Stat. 80][/us/stat/73/80].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs16
-[/us/pl/86/48/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F48%2Fs1
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/86/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F48
 [/us/stat/73/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F80
 
 

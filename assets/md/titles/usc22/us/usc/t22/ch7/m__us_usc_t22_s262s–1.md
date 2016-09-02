@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development institutions to take all possible steps to ensure that information relating to potential procurement opportunities for United States firms is expeditiously communicated to the Secretary of the Treasury, the Secretary of State, and the Secretary of Commerce, and is disseminated as widely as possible to large and small businesses.
 
-([Pub. L. 95–118, title XVIII, § 1802][/us/pl/95/118/s1802], as added [Pub. L. 101–240, title V, § 541(a)][/us/pl/101/240/s541/a], Dec. 19, 1989, [103 Stat. 2516][/us/stat/103/2516].)
+([Pub. L. 95–118, title XVIII][/us/pl/95/118/tXVIII], § 1802, as added [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(a), Dec. 19, 1989, [103 Stat. 2516][/us/stat/103/2516].)
 
  __Definitions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1802
-[/us/pl/101/240/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fa
+[/us/pl/95/118/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVIII
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2516
 [/us/usc/t22/s262r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r
 

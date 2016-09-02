@@ -23,11 +23,11 @@
 
         In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $135,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 94–302, title II, § 216][/us/pl/94/302/s216], as added [Pub. L. 102–145, § 125(c)][/us/pl/102/145/s125/c], as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 98][/us/stat/106/98].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 216, as added [Pub. L. 102–145][/us/pl/102/145], § 125(c), as added [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 98][/us/stat/106/98].)
 
  __Subsequent Replenishment__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may contribute on behalf of the United States to the eighth replenishment of the resources of the African Development Fund, and authorized $300,000,000 to be appropriated without fiscal year limitation.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may contribute on behalf of the United States to the eighth replenishment of the resources of the African Development Fund, and authorized $300,000,000 to be appropriated without fiscal year limitation.
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/94/302/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs216
-[/us/pl/102/145/s125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs125%2Fc
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F98
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 
 

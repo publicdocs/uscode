@@ -27,7 +27,7 @@
 
         The Secretary of the Treasury, upon the request of the Secretary of Labor, shall invest moneys in the Fund in public debt securities which shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity. Such interest shall be credited to and form a part of the Fund.
 
-([Pub. L. 100–705, § 3][/us/pl/100/705/s3], Nov. 19, 1988, [102 Stat. 4685][/us/stat/102/4685].)
+([Pub. L. 100–705][/us/pl/100/705], § 3, Nov. 19, 1988, [102 Stat. 4685][/us/stat/102/4685].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s8146a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8146a
-[/us/pl/100/705/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs3
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4685
 [/us/pl/100/705/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs10
 [/us/usc/t22/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612

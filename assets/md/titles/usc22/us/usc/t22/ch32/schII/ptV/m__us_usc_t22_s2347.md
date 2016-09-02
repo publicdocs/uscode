@@ -27,7 +27,7 @@
 
     (b) The President shall seek reimbursement for military education and training furnished under this part from countries using assistance under [section 2763 of this title][/us/usc/t22/s2763] (relating to the Foreign Military Financing Program) to purchase such military education and training at a rate comparable to the rate charged to countries receiving grant assistance for military education and training under this part.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 541, as added [Pub. L. 94–329, title I, § 106(a)][/us/pl/94/329/s106/a], June 30, 1976, [90 Stat. 732][/us/stat/90/732]; amended [Pub. L. 101–513, title III][/us/pl/101/513], Nov. 5, 1990, [104 Stat. 1997][/us/stat/104/1997]; [Pub. L. 102–583, § 10][/us/pl/102/583/s10], Nov. 2, 1992, [106 Stat. 4934][/us/stat/106/4934]; [Pub. L. 104–164, title I, § 112(a)][/us/pl/104/164/s112/a], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427]; [Pub. L. 109–102, title V, § 534][/us/pl/109/102/s534](l)(3), Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 541, as added [Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(a), June 30, 1976, [90 Stat. 732][/us/stat/90/732]; amended [Pub. L. 101–513, title III][/us/pl/101/513/tIII], Nov. 5, 1990, [104 Stat. 1997][/us/stat/104/1997]; [Pub. L. 102–583][/us/pl/102/583], § 10, Nov. 2, 1992, [106 Stat. 4934][/us/stat/106/4934]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 112(a), July 21, 1996, [110 Stat. 1427][/us/stat/110/1427]; [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 534(l)(3), Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Funds Made Available Pursuant to Other Provisions of Law__ 
 
-[Pub. L. 94–329, title I, § 106(d)][/us/pl/94/329/s106/d], June 30, 1976, [90 Stat. 734][/us/stat/90/734], provided that: 
+[Pub. L. 94–329, title I][/us/pl/94/329/tI], § 106(d), June 30, 1976, [90 Stat. 734][/us/stat/90/734], provided that: 
 
 > “Funds made available pursuant to other provisions of law for foreign military educational and training activities shall remain available for obligation and expenditure for their original purposes in accordance with the provisions of law originally applicable to those purposes or in accordance with the provisions of law currently applicable to those purposes.”
 
@@ -62,15 +62,15 @@
 
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/329/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fa
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F732
-[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtIII
 [/us/stat/104/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1997
-[/us/pl/102/583/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs10
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4934
-[/us/pl/104/164/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs112%2Fa
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1427
-[/us/pl/109/102/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs534
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2211
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -80,7 +80,7 @@
 [/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/94/329/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs106%2Fd
+[/us/pl/94/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtI
 [/us/stat/90/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F734
 
 

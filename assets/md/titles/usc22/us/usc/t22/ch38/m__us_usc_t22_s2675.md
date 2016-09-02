@@ -17,7 +17,7 @@
 
     The Secretary of State may allocate or transfer to any department, agency, or independent establishment of the United States Government (with the consent of the head of such department, agency, or establishment) any funds appropriated to the Department of State, for direct expenditure by such department, agency, or independent establishment for the purposes for which the funds were appropriated in accordance with authority granted in this Act or under authority governing the activities of such department, agency, or independent establishment.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 8, [70 Stat. 891][/us/stat/70/891]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 98–164, title I, § 121][/us/pl/98/164/s121], Nov. 22, 1983, [97 Stat. 1023][/us/stat/97/1023].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 8, [70 Stat. 891][/us/stat/70/891]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 121, Nov. 22, 1983, [97 Stat. 1023][/us/stat/97/1023].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 170m of Title 5][/us/usc/t5/s170m] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170m of Title 5][/us/usc/t5/s170m] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -40,15 +40,15 @@
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/stat/70/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F891
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/98/164/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs121
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1023
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/stat/70/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F890
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/usc/t5/s170m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170m
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 

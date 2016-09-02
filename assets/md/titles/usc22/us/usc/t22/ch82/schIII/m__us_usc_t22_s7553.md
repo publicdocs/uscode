@@ -33,7 +33,7 @@
 
             Each report, which shall be unclassified and posted upon the Department of State’s Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
 
-([Pub. L. 107–327, title III, § 303][/us/pl/107/327/s303], Dec. 4, 2002, [116 Stat. 2812][/us/stat/116/2812].)
+([Pub. L. 107–327, title III][/us/pl/107/327/tIII], § 303, Dec. 4, 2002, [116 Stat. 2812][/us/stat/116/2812].)
 
  __Change of Name__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/107/327/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs303
+[/us/pl/107/327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtIII
 [/us/stat/116/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2812
 
 

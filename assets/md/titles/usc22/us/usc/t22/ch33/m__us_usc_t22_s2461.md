@@ -23,7 +23,7 @@
 
         Funds made available for the purposes of this section shall be available only to the extent and in the amounts provided for in an appropriation Act.
 
-([Pub. L. 87–256, § 113][/us/pl/87/256/s113], as added [Pub. L. 101–246, title II, § 224][/us/pl/101/246/s224], Feb. 16, 1990, [104 Stat. 56][/us/stat/104/56]; amended [Pub. L. 103–199, title III, § 301(2)][/us/pl/103/199/s301/2], Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322].)
+([Pub. L. 87–256][/us/pl/87/256], § 113, as added [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 224, Feb. 16, 1990, [104 Stat. 56][/us/stat/104/56]; amended [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 301(2), Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–199, § 301(2)(A)][/us/pl/103/199/s301/2/A], substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
+    1993—[Pub. L. 103–199][/us/pl/103/199], § 301(2)(A), substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–199, § 301(2)(B)][/us/pl/103/199/s301/2/B]–(E), substituted “agreements with the independent states of the former Soviet Union” for “an agreement with the Union of Soviet Socialist Republics”, “made by the independent states” for “made by the Soviet Union”, “and the independent states” for “and the Soviet Union”, and “in the United States by citizens of the independent states” for “by Soviet citizens in the United States”.
+    Subsec. (a). [Pub. L. 103–199][/us/pl/103/199], § 301(2)(B)–(E), substituted “agreements with the independent states of the former Soviet Union” for “an agreement with the Union of Soviet Socialist Republics”, “made by the independent states” for “made by the Soviet Union”, “and the independent states” for “and the Soviet Union”, and “in the United States by citizens of the independent states” for “by Soviet citizens in the United States”.
 
  __Definitions__ 
 
@@ -46,16 +46,16 @@
 ----------
 ----------
 
-[/us/pl/87/256/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs113
-[/us/pl/101/246/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs224
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F56
-[/us/pl/103/199/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs301%2F2
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2322
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
-[/us/pl/103/199/s301/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs301%2F2%2FA
-[/us/pl/103/199/s301/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs301%2F2%2FB
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 [/us/pl/103/199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs3
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801

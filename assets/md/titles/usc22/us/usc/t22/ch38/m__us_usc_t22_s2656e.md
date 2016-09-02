@@ -17,7 +17,7 @@
 
     The Secretary of State shall promptly advise the Congress whenever the Department of State issues a travel advisory, or other public warning notice for United States citizens traveling abroad, because of a terrorist threat or other security concern.
 
-([Pub. L. 99–399, title V, § 505][/us/pl/99/399/s505], Aug. 27, 1986, [100 Stat. 871][/us/stat/100/871].)
+([Pub. L. 99–399, title V][/us/pl/99/399/tV], § 505, Aug. 27, 1986, [100 Stat. 871][/us/stat/100/871].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/399/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs505
+[/us/pl/99/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtV
 [/us/stat/100/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F871
 
 

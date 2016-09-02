@@ -23,7 +23,7 @@
 
         Not later than 60 days after November 16, 1990, the Secretary of State shall issue such regulations, guidelines, and circulars as are necessary to ensure that the policy under subsection (a) is fully implemented.
 
-([Pub. L. 101–604, title II, § 204][/us/pl/101/604/s204], Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 204, Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t22/s2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2715
-[/us/pl/101/604/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs204
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3083
 
 

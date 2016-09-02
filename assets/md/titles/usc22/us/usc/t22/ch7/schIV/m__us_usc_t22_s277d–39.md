@@ -17,7 +17,7 @@
 
     Upon transfer of sovereignty from Mexico to the United States of the 481.68 acres of land acquired by the United States from Mexico near Hidalgo-Reynosa, administration over the portion of that land which is determined by the Commissioner not to be required for the construction and maintenance of the relocated river channel shall be assumed by the Department of the Interior; and the Department of the Interior, United States Fish and Wildlife Service, is authorized to plan, establish, develop, and administer such portion of the acquired lands as a part of the national wildlife refuge system.
 
-([Pub. L. 92–549, title I, § 106][/us/pl/92/549/s106], Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162]; [Pub. L. 93–271, § 1(3)][/us/pl/93/271/s1/3], Apr. 22, 1974, [88 Stat. 92][/us/stat/88/92].)
+([Pub. L. 92–549, title I][/us/pl/92/549/tI], § 106, Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162]; [Pub. L. 93–271][/us/pl/93/271], § 1(3), Apr. 22, 1974, [88 Stat. 92][/us/stat/88/92].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/549/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs106
+[/us/pl/92/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtI
 [/us/stat/86/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1162
-[/us/pl/93/271/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F271%2Fs1%2F3
+[/us/pl/93/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F271
 [/us/stat/88/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F92
 [/us/pl/93/271/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F271%2Fs1%2F3
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b

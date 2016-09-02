@@ -31,11 +31,11 @@
 
         (2) they agree in writing to accept availability for worldwide assignment as a condition of continued employment.
 
-([Pub. L. 96–465, title II, § 2102][/us/pl/96/465/s2102], Oct. 17, 1980, [94 Stat. 2148][/us/stat/94/2148].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2102, Oct. 17, 1980, [94 Stat. 2148][/us/stat/94/2148].)
 
  __References in Text__ 
 
-    Sections 412, 414 and 415 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867, 869 and 870, respectively, of this title, were repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    Sections 412, 414 and 415 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867, 869 and 870, respectively, of this title, were repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
  __Codification__ 
 
@@ -52,9 +52,9 @@
 [/us/usc/t22/s3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3963
 [/us/usc/t22/s4156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4156
 [/us/usc/t22/s3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3963
-[/us/pl/96/465/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2102
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2148
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

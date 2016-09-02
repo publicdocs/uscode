@@ -29,7 +29,7 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 104–114, title I, § 106][/us/pl/104/114/s106], Mar. 12, 1996, [110 Stat. 795][/us/stat/110/795].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 106, Mar. 12, 1996, [110 Stat. 795][/us/stat/110/795].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
-[/us/pl/104/114/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F795
 [/us/pl/104/114/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106
 [/us/pl/104/114/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106

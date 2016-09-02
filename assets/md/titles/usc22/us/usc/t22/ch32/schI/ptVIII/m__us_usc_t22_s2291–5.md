@@ -41,7 +41,7 @@
 
         (2) all Mexican narcotics law enforcement personnel serving in the United States should be accorded the same diplomatic status as Drug Enforcement Administration personnel serving in Mexico.
 
-([Pub. L. 105–277, div. C, title VIII, § 843][/us/pl/105/277/s843], Oct. 21, 1998, [112 Stat. 2681–704][/us/stat/112/2681-704].)
+([Pub. L. 105–277, div. C, title VIII][/us/pl/105/277/dC/tVIII], § 843, Oct. 21, 1998, [112 Stat. 2681–704][/us/stat/112/2681-704].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
-[/us/pl/105/277/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs843
+[/us/pl/105/277/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtVIII
 [/us/stat/112/2681-704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-704
 
 

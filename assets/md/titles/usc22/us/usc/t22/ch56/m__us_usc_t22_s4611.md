@@ -17,7 +17,7 @@
 
     Beginning two years after October 19, 1984, and at intervals of two years thereafter, the Chairman of the Board shall prepare and transmit to the Congress and the President a report detailing the progress the Institute has made in carrying out the purposes of this chapter during the preceding two-year period. The President may prepare and transmit to the Congress within a reasonable time after the receipt of such report the written comments and recommendations of the appropriate agencies of the United States with respect to the contents of such report and their recommendations with respect to any legislation which may be required concerning the Institute. After receipt of such report by the Congress, the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives and the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate may hold hearings to review the findings and recommendations of such report and the written comments received from the President.
 
-([Pub. L. 98–525, title XVII, § 1712][/us/pl/98/525/s1712], Oct. 19, 1984, [98 Stat. 2659][/us/stat/98/2659]; [Pub. L. 105–244, title IX, § 931(3)][/us/pl/105/244/s931/3], Oct. 7, 1998, [112 Stat. 1834][/us/stat/112/1834].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1712, Oct. 19, 1984, [98 Stat. 2659][/us/stat/98/2659]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 931(3), Oct. 7, 1998, [112 Stat. 1834][/us/stat/112/1834].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1712
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2659
-[/us/pl/105/244/s931/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs931%2F3
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1834
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

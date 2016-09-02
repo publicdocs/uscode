@@ -23,7 +23,7 @@
 
         The President may waive the prohibition set forth in subsection (a) with respect to a specific transaction if the President determines that the transaction is important to the national interests of the United States.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40A, as added [Pub. L. 104–132, title III, § 330][/us/pl/104/132/s330], Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40A, as added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 330, Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/104/132/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs330
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1258
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321

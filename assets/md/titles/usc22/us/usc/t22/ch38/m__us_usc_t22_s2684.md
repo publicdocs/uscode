@@ -23,23 +23,23 @@
 
         The current value of supplies returned to the working capital fund by a post, activity, or agency may be charged to the fund. The proceeds thereof shall, if otherwise authorized, be credited to current applicable appropriations and shall remain available for expenditures for the same purposes for which those appropriations are available. Credits may not be made to appropriations under this subsection as the result of capitalization of inventories.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 13, as added [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 405, Dec. 16, 1963, [77 Stat. 391][/us/stat/77/391]; amended 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 92–226][/us/pl/92/226], pt. IV, § 407(c), Feb. 7, 1972, [86 Stat. 35][/us/stat/86/35]; [Pub. L. 95–426, title I, § 109(a)][/us/pl/95/426/s109/a], Oct. 7, 1978, [92 Stat. 966][/us/stat/92/966]; [Pub. L. 96–465, title II, § 2201(b)][/us/pl/96/465/s2201/b], Oct. 17, 1980, [94 Stat. 2157][/us/stat/94/2157]; renumbered title I and amended [Pub. L. 97–241, title II][/us/pl/97/241], §§ 202(a), 203(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], 290; [Pub. L. 101–246, title I, § 112][/us/pl/101/246/s112], Feb. 16, 1990, [104 Stat. 21][/us/stat/104/21].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 13, as added [Pub. L. 88–205][/us/pl/88/205], pt. IV, § 405, Dec. 16, 1963, [77 Stat. 391][/us/stat/77/391]; amended 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 92–226][/us/pl/92/226], pt. IV, § 407(c), Feb. 7, 1972, [86 Stat. 35][/us/stat/86/35]; [Pub. L. 95–426, title I][/us/pl/95/426/tI], § 109(a), Oct. 7, 1978, [92 Stat. 966][/us/stat/92/966]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2201(b), Oct. 17, 1980, [94 Stat. 2157][/us/stat/94/2157]; renumbered title I and amended [Pub. L. 97–241, title II][/us/pl/97/241/tII], §§ 202(a), 203(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], 290; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 112, Feb. 16, 1990, [104 Stat. 21][/us/stat/104/21].)
 
  __References in Text__ 
 
     The Foreign Service Act of 1980, referred to in subsec. (a), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
-    Title II of this Act, referred to in subsec. (a), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
+    Title II of this Act, referred to in subsec. (a), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
 
  __Codification__ 
 
-    Section was formerly classified to [section 170u of Title 5][/us/usc/t5/s170u] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170u of Title 5][/us/usc/t5/s170u] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
     1990—Subsec. (a). [Pub. L. 101–246][/us/pl/101/246] inserted “and” before “(4)”, struck out “; and (5) services and supplies to carry out title II of this Act”, and inserted provision that the fund also be available without fiscal year limitation to carry out the purposes of title II of this Act.
 
-    1982—Subsec. (a)(5). [Pub. L. 97–241, § 203(a)][/us/pl/97/241/s203/a], added cl. (5).
+    1982—Subsec. (a)(5). [Pub. L. 97–241][/us/pl/97/241], § 203(a), added cl. (5).
 
     1980—Subsec. (a). [Pub. L. 96–465][/us/pl/96/465] substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended”.
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–426, title I, § 109(b)][/us/pl/95/426/s109/b], Oct. 7, 1978, [92 Stat. 967][/us/stat/92/967], provided that: 
+[Pub. L. 95–426, title I][/us/pl/95/426/tI], § 109(b), Oct. 7, 1978, [92 Stat. 967][/us/stat/92/967], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
 
@@ -80,26 +80,26 @@
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F35
-[/us/pl/95/426/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs109%2Fa
+[/us/pl/95/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtI
 [/us/stat/92/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F966
-[/us/pl/96/465/s2201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2201%2Fb
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2157
-[/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/101/246/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs112
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F21
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F283
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
 [/us/usc/t5/s170u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170u
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
-[/us/pl/97/241/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs203%2Fa
+[/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
@@ -110,7 +110,7 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/95/426/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs109%2Fb
+[/us/pl/95/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtI
 [/us/stat/92/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F967
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 

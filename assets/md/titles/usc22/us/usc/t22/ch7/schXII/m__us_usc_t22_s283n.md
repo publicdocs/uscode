@@ -19,7 +19,7 @@
 
     (b) There is hereby authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the increased United States subscription to the capital stock of the Inter-American Development Bank, $411,760,000.
 
-([Pub. L. 86–147, § 17][/us/pl/86/147/s17], as added [Pub. L. 90–325][/us/pl/90/325], June 4, 1968, [82 Stat. 168][/us/stat/82/168].)
+([Pub. L. 86–147][/us/pl/86/147], § 17, as added [Pub. L. 90–325][/us/pl/90/325], June 4, 1968, [82 Stat. 168][/us/stat/82/168].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/86/147/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs17
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/pl/90/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F325
 [/us/stat/82/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F168
 

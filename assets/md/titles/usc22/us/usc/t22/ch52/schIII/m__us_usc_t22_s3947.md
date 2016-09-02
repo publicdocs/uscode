@@ -21,7 +21,7 @@
 
     (2) at the time such initial assignment is made, the candidate is serving under a career appointment in the Service and is receiving a salary at a rate equal to or higher than the minimum rate payable for class 4 in the Foreign Service Schedule.
 
-([Pub. L. 96–465, title I, § 307][/us/pl/96/465/s307], Oct. 17, 1980, [94 Stat. 2086][/us/stat/94/2086].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 307, Oct. 17, 1980, [94 Stat. 2086][/us/stat/94/2086].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3964
-[/us/pl/96/465/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs307
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2086
 
 

@@ -127,35 +127,35 @@
 
         (5) [Section 4066 of this title][/us/usc/t22/s4066] shall not apply to any annuity under this subsection, unless authorized under regulations prescribed by the Secretary of State.
 
-([Pub. L. 96–465, title I, § 814][/us/pl/96/465/s814], Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 97–241, title I, § 125(2)][/us/pl/97/241/s125/2], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 99–335, title IV][/us/pl/99/335], §§ 402(a)(2), (3), 404(b), June 6, 1986, [100 Stat. 609][/us/stat/100/609], 610; [Pub. L. 100–238, title II, § 217(a)][/us/pl/100/238/s217/a], (b), (c)(2), Jan. 8, 1988, [101 Stat. 1775][/us/stat/101/1775].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 814, Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 125(2), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], §§ 402(a)(2), (3), 404(b), June 6, 1986, [100 Stat. 609][/us/stat/100/609], 610; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 217(a), (b), (c)(2), Jan. 8, 1988, [101 Stat. 1775][/us/stat/101/1775].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(1). [Pub. L. 100–238, § 217(a)][/us/pl/100/238/s217/a], which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
+    1988—Subsec. (a)(1). [Pub. L. 100–238][/us/pl/100/238], § 217(a), which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
 
-    Subsec. (a)(4). [Pub. L. 100–238, § 217(b)][/us/pl/100/238/s217/b], substituted “24” for “12”.
+    Subsec. (a)(4). [Pub. L. 100–238][/us/pl/100/238], § 217(b), substituted “24” for “12”.
 
-    Subsec. (d). [Pub. L. 100–238, § 217(c)(2)][/us/pl/100/238/s217/c/2], struck out subsec. (d) which read as follows: “Section 4046(l) of this title shall not apply—
+    Subsec. (d). [Pub. L. 100–238][/us/pl/100/238], § 217(c)(2), struck out subsec. (d) which read as follows: “Section 4046(l) of this title shall not apply—
 
     “(1) to any annuity payable under subsection (a) or (b) of this section to any former spouse if the amount of that annuity varies by reason of a spousal agreement or court order under [section 4060(b)(1) of this title][/us/usc/t22/s4060/b/1], or an election under [section 4046(b)(1)(B) of this title][/us/usc/t22/s4046/b/1/B], from the amount which would be calculated under subsection (a)(1) or (b)(1) of this section, as the case may be, in the absence of such spousal agreement, court order, or election; and
 
     “(2) to any annuity payable under subsection (c) of this section.”
 
-    1986—Subsec. (a)(1). [Pub. L. 99–335, § 404(b)(1)][/us/pl/99/335/s404/b/1], inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+    1986—Subsec. (a)(1). [Pub. L. 99–335][/us/pl/99/335], § 404(b)(1), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
-    Subsec. (a)(3), (5)(A), (6)(A). [Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter”.
+    Subsec. (a)(3), (5)(A), (6)(A). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter”.
 
-    Subsec. (b)(1). [Pub. L. 99–335, § 404(b)(2)][/us/pl/99/335/s404/b/2], inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+    Subsec. (b)(1). [Pub. L. 99–335][/us/pl/99/335], § 404(b)(2), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
-    Subsec. (b)(3). [Pub. L. 99–335, § 402(a)(3)][/us/pl/99/335/s402/a/3], inserted “under this part” after “payable from the Fund”.
+    Subsec. (b)(3). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(3), inserted “under this part” after “payable from the Fund”.
 
-    Subsec. (c)(3)(D). [Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter”.
+    Subsec. (c)(3)(D). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter”.
 
     1982—Subsec. (a)(3). [Pub. L. 97–241][/us/pl/97/241] substituted “or the first” for “on the first” in provision preceding subpar. (A).
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–238, title II, § 261][/us/pl/100/238/s261], Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776], provided that:
+[Pub. L. 100–238, title II][/us/pl/100/238/tII], § 261, Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -206,26 +206,26 @@
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
 [/us/usc/t22/s4046/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fa
 [/us/usc/t22/s4066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4066
-[/us/pl/96/465/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs814
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2113
-[/us/pl/97/241/s125/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs125%2F2
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/100/238/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs217%2Fa
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1775
-[/us/pl/100/238/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs217%2Fa
-[/us/pl/100/238/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs217%2Fb
-[/us/pl/100/238/s217/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs217%2Fc%2F2
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
+[/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/usc/t22/s4060/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4060%2Fb%2F1
 [/us/usc/t22/s4046/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fb%2F1%2FB
-[/us/pl/99/335/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs404%2Fb%2F1
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
-[/us/pl/99/335/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs404%2Fb%2F2
-[/us/pl/99/335/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F3
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
-[/us/pl/100/238/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs261
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1776
 [/us/usc/t22/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046
 [/us/usc/t22/s4069–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4069%E2%80%931

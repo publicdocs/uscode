@@ -17,7 +17,7 @@
 
     The President may withdraw Federal recognition or participation whenever he finds that continuing recognition or participation would be inconsistent with the national interest and with the purposes of this chapter.
 
-([Pub. L. 91–269, § 5][/us/pl/91/269/s5], May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
+([Pub. L. 91–269][/us/pl/91/269], § 5, May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/269/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs5
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F272
 
 

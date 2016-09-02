@@ -65,7 +65,7 @@
 
         (2) such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 72, as added [Pub. L. 101–510, div. A, title XVII, § 1703][/us/pl/101/510/s1703], Nov. 5, 1990, [104 Stat. 1745][/us/stat/104/1745]; amended [Pub. L. 103–236, title VII, § 734(a)][/us/pl/103/236/s734/a], Apr. 30, 1994, [108 Stat. 505][/us/stat/108/505].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 72, as added [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1703, Nov. 5, 1990, [104 Stat. 1745][/us/stat/104/1745]; amended [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 734(a), Apr. 30, 1994, [108 Stat. 505][/us/stat/108/505].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t22/s2778/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fc
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/101/510/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1703
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1745
-[/us/pl/103/236/s734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs734%2Fa
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F505
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321

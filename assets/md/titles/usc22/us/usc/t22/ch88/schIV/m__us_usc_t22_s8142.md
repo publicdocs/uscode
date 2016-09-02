@@ -79,7 +79,7 @@
 
         Any person who violates [section 8124 of this title][/us/usc/t22/s8124] or [section 8141 of this title][/us/usc/t22/s8141] may, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than five years, or both.
 
-([Pub. L. 109–401, title II, § 242][/us/pl/109/401/s242], Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 242, Dec. 18, 2006, [120 Stat. 2747][/us/stat/120/2747].)
 
 ----------
 
@@ -97,7 +97,7 @@
 [/us/usc/t22/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8141
 [/us/usc/t22/s8124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8124
 [/us/usc/t22/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8141
-[/us/pl/109/401/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs242
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2747
 
 

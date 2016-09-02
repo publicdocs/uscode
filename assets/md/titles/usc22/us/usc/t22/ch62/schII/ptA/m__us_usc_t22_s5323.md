@@ -23,7 +23,7 @@
 
     (3) to increase the stability of the world financial system and ensure the safety and soundness of United States depository institutions.
 
-([Pub. L. 100–418, title III, § 3103][/us/pl/100/418/s3103], Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3103, Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3103
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1376
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375

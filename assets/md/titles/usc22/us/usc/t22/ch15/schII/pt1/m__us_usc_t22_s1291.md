@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title III, § 301, [60 Stat. 148][/us/stat/60/148], which stated the purposes of this subchapter, was omitted on authority of subsec. (b)(1) of this section which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+    Section, [act Apr. 30, 1946, ch. 244, title III][/us/act/1946-04-30/ch244/tIII], § 301, [60 Stat. 148][/us/stat/60/148], which stated the purposes of this subchapter, was omitted on authority of subsec. (b)(1) of this section which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
+[/us/act/1946-04-30/ch244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244%2FtIII
 [/us/stat/60/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F148
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t22/ch51/schI/pt3/spti/m__us_usc_t22_ch51_schI_pt3_spti.md) | [Next](./../../../../../../..//us/usc/t22/ch51/schI/pt3/spti/m__us_usc_t22_s3712.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3711)
 
-## § 3711. Repealed. [Pub. L. 104–201, div. C, title XXXV, § 3546(a)(8)][/us/pl/104/201/s3546/a/8], Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868]
+## § 3711. Repealed. [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3546(a)(8), Sept. 23, 1996, [110 Stat. 2868][/us/stat/110/2868]
 
-    Section, [Pub. L. 96–70, title I, § 1301][/us/pl/96/70/s1301], Sept. 27, 1979, [93 Stat. 477][/us/stat/93/477]; [Pub. L. 100–203, title V, § 5428(e)][/us/pl/100/203/s5428/e], Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274], directed that, on Oct. 1, 1979, unexpended balances of Canal Zone Government appropriations accounts be covered into general fund of Treasury, repealed any appropriations to which expenditures under such accounts had been chargeable before Oct. 1, 1979, and authorized Commission to pay claims or make payments chargeable to such accounts.
+    Section, [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1301, Sept. 27, 1979, [93 Stat. 477][/us/stat/93/477]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5428(e), Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274], directed that, on Oct. 1, 1979, unexpended balances of Canal Zone Government appropriations accounts be covered into general fund of Treasury, repealed any appropriations to which expenditures under such accounts had been chargeable before Oct. 1, 1979, and authorized Commission to pay claims or make payments chargeable to such accounts.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/104/201/s3546/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3546%2Fa%2F8
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2868
-[/us/pl/96/70/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1301
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F477
-[/us/pl/100/203/s5428/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5428%2Fe
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-274
 
 

@@ -31,11 +31,11 @@
 
         It is the sense of Congress that the Secretary of Transportation should take appropriate measures to utilize and train properly the officers and employees of other United States Government agencies who have functions at international airports in the United States and abroad in the detection of explosives and firearms which could be a threat to international civil aviation.
 
-([Pub. L. 101–604, title II, § 214][/us/pl/101/604/s214], Nov. 16, 1990, [104 Stat. 3087][/us/stat/104/3087].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 214, Nov. 16, 1990, [104 Stat. 3087][/us/stat/104/3087].)
 
  __References in Text__ 
 
-    [Section 2708 of this title][/us/usc/t22/s2708], referred to in subsec. (c), was amended generally by [Pub. L. 105–323, title I, § 101][/us/pl/105/323/s101], Oct. 30, 1998, [112 Stat. 3029][/us/stat/112/3029], and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
+    [Section 2708 of this title][/us/usc/t22/s2708], referred to in subsec. (c), was amended generally by [Pub. L. 105–323, title I][/us/pl/105/323/tI], § 101, Oct. 30, 1998, [112 Stat. 3029][/us/stat/112/3029], and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/101/604/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs214
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3087
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
-[/us/pl/105/323/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2Fs101
+[/us/pl/105/323/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2FtI
 [/us/stat/112/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3029
 
 

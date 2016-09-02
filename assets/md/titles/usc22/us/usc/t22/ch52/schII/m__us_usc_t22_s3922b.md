@@ -41,7 +41,7 @@
 
             The Secretary of State shall seek to increase the number of Foreign Service officers proficient in languages spoken in countries with predominantly Muslim populations. Such increase should be accomplished through the recruitment of new officers and incentives for officers in service.
 
-([Pub. L. 108–458, title VII, § 7110][/us/pl/108/458/s7110], Dec. 17, 2004, [118 Stat. 3793][/us/stat/118/3793].)
+([Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7110, Dec. 17, 2004, [118 Stat. 3793][/us/stat/118/3793].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7110
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3793
 [/us/pl/108/458/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7110
 [/us/pl/108/458/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7110

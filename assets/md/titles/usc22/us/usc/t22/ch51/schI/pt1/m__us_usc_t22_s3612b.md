@@ -57,7 +57,7 @@
 
         (2) The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds, property, or services authorized by paragraph (1) would reflect unfavorably upon the ability of the Commission (or any employee of the Commission) to carry out its responsibilities or official duties in a fair and objective manner or would compromise the integrity or the appearance of the integrity of its programs or of any official in those programs.
 
-([Pub. L. 96–70, title I, § 1102b][/us/pl/96/70/s1102b], as added [Pub. L. 104–106, div. C, title XXXV, § 3524(a)][/us/pl/104/106/s3524/a], Feb. 10, 1996, [110 Stat. 639][/us/stat/110/639]; amended [Pub. L. 105–85, div. C, title XXXV, § 3547][/us/pl/105/85/s3547], Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073]; [Pub. L. 105–261, div. C, title XXXV, § 3505][/us/pl/105/261/s3505], Oct. 17, 1998, [112 Stat. 2268][/us/stat/112/2268].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1102b, as added [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3524(a), Feb. 10, 1996, [110 Stat. 639][/us/stat/110/639]; amended [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3547, Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3505, Oct. 17, 1998, [112 Stat. 2268][/us/stat/112/2268].)
 
  __References in Text__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1102b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1102b
-[/us/pl/104/106/s3524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3524%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F639
-[/us/pl/105/85/s3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3547
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2073
-[/us/pl/105/261/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3505
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2268
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452

@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 202 derived from acts [July 27, 1789, ch. 4, § 1][/us/act/1789-07-27/ch4/s1], [1 Stat. 28][/us/stat/1/28]; [Sept. 15, 1789, ch. 14, § 1][/us/act/1789-09-15/ch14/s1], [1 Stat. 68][/us/stat/1/68].
+    R.S. § 202 derived from acts [July 27, 1789, ch. 4][/us/act/1789-07-27/ch4], § 1, [1 Stat. 28][/us/stat/1/28]; [Sept. 15, 1789, ch. 14][/us/act/1789-09-15/ch14], § 1, [1 Stat. 68][/us/stat/1/68].
 
-    Section was formerly classified to [section 156 of Title 5][/us/usc/t5/s156] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 156 of Title 5][/us/usc/t5/s156] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Delegation of Functions__ 
 
@@ -31,11 +31,11 @@
 
  __Presidential Directive__ 
 
-    National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102, [61 Stat. 497][/us/stat/61/497], formerly set out as [section 403 of Title 50][/us/usc/t50/s403], War and National Defense. See Prior Provisions note under [section 3023 of Title 50][/us/usc/t50/s3023].
+    National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by [act July 26, 1947, ch. 343, title I][/us/act/1947-07-26/ch343/tI], § 102, [61 Stat. 497][/us/stat/61/497], formerly set out as [section 403 of Title 50][/us/usc/t50/s403], War and National Defense. See Prior Provisions note under [section 3023 of Title 50][/us/usc/t50/s3023].
 
  __Strategy for the United States Relationship With Saudi Arabia__ 
 
-[Pub. L. 110–53, title XX, § 2043][/us/pl/110/53/s2043], Aug. 3, 2007, [121 Stat. 524][/us/stat/121/524], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2043, Aug. 3, 2007, [121 Stat. 524][/us/stat/121/524], provided that:
 
 >     “(a)  __Congressional Findings__  __.—__ 
 
@@ -95,7 +95,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–458, title VII, § 7101][/us/pl/108/458/s7101], Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], provided that: 
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7101, Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], provided that: 
 
 > “Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -109,7 +109,7 @@
 
  __Comprehensive Coalition Strategy for Fighting Terrorism__ 
 
-[Pub. L. 108–458, title VII, § 7117][/us/pl/108/458/s7117], Dec. 17, 2004, [118 Stat. 3799][/us/stat/118/3799], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7117, Dec. 17, 2004, [118 Stat. 3799][/us/stat/118/3799], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -143,7 +143,7 @@
 
  __International Agreements To Track and Curtail Terrorist Travel Through the Use of Fraudulently Obtained Documents__ 
 
-[Pub. L. 108–458, title VII, § 7204][/us/pl/108/458/s7204], Dec. 17, 2004, [118 Stat. 3814][/us/stat/118/3814], provided that:
+[Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7204, Dec. 17, 2004, [118 Stat. 3814][/us/stat/118/3814], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -241,7 +241,7 @@
 
  __East Timor Transition to Independence__ 
 
-[Pub. L. 107–228, div. A, title VI][/us/pl/107/228], subtitle C, Sept. 30, 2002, [116 Stat. 1399][/us/stat/116/1399], provided that:
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], subtitle C, Sept. 30, 2002, [116 Stat. 1399][/us/stat/116/1399], provided that:
 
 > “SEC. 631. __SHORT TITLE.__ 
 
@@ -389,7 +389,7 @@
 
     Memorandum for the Secretary of State
 
-    Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[[Pub. L. 107–228, § 637(b)(2)][/us/pl/107/228/s637/b/2], set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+    Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[[Pub. L. 107–228][/us/pl/107/228], § 637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
 
     You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
 
@@ -397,11 +397,11 @@
 
  __Pacific Charter Commission__ 
 
-    [Pub. L. 106–570, title IV][/us/pl/106/570], Dec. 27, 2000, [114 Stat. 3047][/us/stat/114/3047], known as the Pacific Charter Commission Act of 2000, provided for the establishment of the Pacific Charter Commission to promote United States foreign policy, support democratization, rule of law, and human rights, promote United States exports, assist in combating terrorism and spread of illicit narcotics, and advocate for United States diplomacy, all in the Asia-Pacific region, with authority to establish the Commission to expire Dec. 31, 2002, and termination of the Commission to occur not later than six years after the date of establishment.
+    [Pub. L. 106–570, title IV][/us/pl/106/570/tIV], Dec. 27, 2000, [114 Stat. 3047][/us/stat/114/3047], known as the Pacific Charter Commission Act of 2000, provided for the establishment of the Pacific Charter Commission to promote United States foreign policy, support democratization, rule of law, and human rights, promote United States exports, assist in combating terrorism and spread of illicit narcotics, and advocate for United States diplomacy, all in the Asia-Pacific region, with authority to establish the Commission to expire Dec. 31, 2002, and termination of the Commission to occur not later than six years after the date of establishment.
 
  __Record of War Criminals and Sanctioned Countries, Entities, and Municipalities; Role of Human Rights Organizations and Government Agencies__ 
 
-[Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 564(e), (g), (j), (k)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–48 to 1900A–50, as amended by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
+[Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 564(e), (g), (j), (k)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–48 to 1900A–50, as amended by [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
 
 >     “(e)  __Sanctioned Country, Entity, or Municipality__  __.—__ 
 
@@ -421,7 +421,7 @@
 
 >         The Secretary of State shall request that the Tribunal and other international organizations and governments provide the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
 
->         “\[(4) Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]
+>         “\[(4) Repealed. [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]
 
 >         “(5)  __Information to congress__  __.—__ 
 
@@ -455,15 +455,15 @@
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 566(e), (g), (j), (k)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–107 to 1501A–109.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 566(e), (g), (j), (k)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–107 to 1501A–109.
 
  __Report Concerning Financial Disadvantages for Administrative and Technical Personnel__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 338\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–443, provided findings regarding financial disadvantages of administrative and technical personnel posted to United States missions abroad who do not have diplomatic status and required related report to Congress by the Secretary of State not later than one year after Nov. 29, 1999.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title III, § 338\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–443, provided findings regarding financial disadvantages of administrative and technical personnel posted to United States missions abroad who do not have diplomatic status and required related report to Congress by the Secretary of State not later than one year after Nov. 29, 1999.
 
  __Prisoner Information Registry for the People’s Republic of China__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VIII, § 873\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–474, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VIII, § 873\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–474, provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -479,31 +479,31 @@
 
  __Report to Congress on Activities of North Korean Armed Forces__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 585\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–171, as amended by [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(D)][/us/pl/107/228/s1308/g/1/D], (2), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441], which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People’s Republic of Korea, was repealed by [Pub. L. 113–76, div. K, title VII, § 7034(i)][/us/pl/113/76/s7034/i], Jan. 17, 2014, [128 Stat. 514][/us/stat/128/514].
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 585\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–171, as amended by [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1308(g)(1)(D), (2), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441], which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People’s Republic of Korea, was repealed by [Pub. L. 113–76, div. K, title VII][/us/pl/113/76/dK/tVII], § 7034(i), Jan. 17, 2014, [128 Stat. 514][/us/stat/128/514].
 
  __Reports to War Crimes Tribunal for Former Yugoslavia__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 552\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–99, provided in part: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 552\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–99, provided in part: 
 
 > “That 60 days after the date of the enactment of this Act \[Nov. 29, 1999\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia”.
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 552\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–41.
+    [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 552\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–41.
 
-    [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 554\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–188.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 554\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–188.
 
-    [Pub. L. 105–118, title V, § 553][/us/pl/105/118/s553], Nov. 26, 1997, [111 Stat. 2422][/us/stat/111/2422].
+    [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 553, Nov. 26, 1997, [111 Stat. 2422][/us/stat/111/2422].
 
-    [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 555\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–160.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 555\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–160.
 
-    [Pub. L. 104–107, title V, § 556][/us/pl/104/107/s556], Feb. 12, 1996, [110 Stat. 743][/us/stat/110/743].
+    [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 556, Feb. 12, 1996, [110 Stat. 743][/us/stat/110/743].
 
-    [Pub. L. 103–306, title V, § 575][/us/pl/103/306/s575], Aug. 23, 1994, [108 Stat. 1653][/us/stat/108/1653].
+    [Pub. L. 103–306, title V][/us/pl/103/306/tV], § 575, Aug. 23, 1994, [108 Stat. 1653][/us/stat/108/1653].
 
  __Reporting Requirements on Occupied Tibet__ 
 
-[Pub. L. 103–236, title V, § 536][/us/pl/103/236/s536], Apr. 30, 1994, [108 Stat. 481][/us/stat/108/481], provided that:
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 536, Apr. 30, 1994, [108 Stat. 481][/us/stat/108/481], provided that:
 
 >     “(a)  __Report on United States-Tibet Relations__  __.—__ 
 
@@ -521,7 +521,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Cambodian Genocide__ 
 
-[Pub. L. 103–236, title V][/us/pl/103/236], part D, Apr. 30, 1994, [108 Stat. 486][/us/stat/108/486], provided that:
+[Pub. L. 103–236, title V, part D][/us/pl/103/236/tV/ptD], Apr. 30, 1994, [108 Stat. 486][/us/stat/108/486], provided that:
 
 > “SEC. 571. __SHORT TITLE.__ 
 
@@ -589,11 +589,11 @@ Similar provisions were contained in the following appropriation acts:
 
  __Broadening Cultural, Geographic, and Ethnic Representation of Foreign Service and Department of State; Plan__ 
 
-    [Pub. L. 101–246, title I, § 153(a)][/us/pl/101/246/s153/a], (b), Feb. 16, 1990, [104 Stat. 43][/us/stat/104/43], as amended by [Pub. L. 101–302, title III, § 320(b)(2)][/us/pl/101/302/s320/b/2], May 25, 1990, [104 Stat. 247][/us/stat/104/247], required the Secretary of State to submit, not later than 120 days after Feb. 16, 1990, and to implement, not later than Jan. 1, 1991, a plan to assure equal efforts in recruiting certain employees from different regions in the United States.
+    [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 153(a), (b), Feb. 16, 1990, [104 Stat. 43][/us/stat/104/43], as amended by [Pub. L. 101–302, title III][/us/pl/101/302/tIII], § 320(b)(2), May 25, 1990, [104 Stat. 247][/us/stat/104/247], required the Secretary of State to submit, not later than 120 days after Feb. 16, 1990, and to implement, not later than Jan. 1, 1991, a plan to assure equal efforts in recruiting certain employees from different regions in the United States.
 
  __Prohibition on Use of Funds for Political Purposes__ 
 
-[Pub. L. 100–204, title I, § 109][/us/pl/100/204/s109], Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 109, Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], provided that: 
 
 > “No funds authorized to be appropriated by this Act or by any other Act authorizing funds for any entity engaged in any activity concerning the foreign affairs of the United States shall be used—
 
@@ -605,11 +605,11 @@ Similar provisions were contained in the following appropriation acts:
 
  __Consular and Diplomatic Posts Abroad__ 
 
-    [Pub. L. 100–204, title I, § 122][/us/pl/100/204/s122], Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by [Pub. L. 102–138, title I, § 112(b)][/us/pl/102/138/s112/b], Oct. 28, 1991, [105 Stat. 655][/us/stat/105/655]. See [section 2720 of this title][/us/usc/t22/s2720].
+    [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 122, Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 112(b), Oct. 28, 1991, [105 Stat. 655][/us/stat/105/655]. See [section 2720 of this title][/us/usc/t22/s2720].
 
  __Closing of Diplomatic and Consular Posts in Antigua and Barbuda__ 
 
-    [Pub. L. 100–204, title I, § 123][/us/pl/100/204/s123], Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by [Pub. L. 101–246, title I, § 121][/us/pl/101/246/s121], Feb. 16, 1990, [104 Stat. 27][/us/stat/104/27].
+    [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 123, Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 121, Feb. 16, 1990, [104 Stat. 27][/us/stat/104/27].
 
  __Closure of Mission in Antigua and Barbuda Not in United States Interests__ 
 
@@ -625,23 +625,23 @@ Similar provisions were contained in the following appropriation acts:
 
  __Assignment of Drug Enforcement Administration Agents Abroad__ 
 
-[Pub. L. 100–204, title VIII, § 801][/us/pl/100/204/s801], Dec. 22, 1987, [101 Stat. 1397][/us/stat/101/1397], provided that: 
+[Pub. L. 100–204, title VIII][/us/pl/100/204/tVIII], § 801, Dec. 22, 1987, [101 Stat. 1397][/us/stat/101/1397], provided that: 
 
 > “If the Secretary of State, in exercising his authority to establish overseas staffing levels for Federal agencies with activities abroad, authorizes the assignment of any Drug Enforcement Administration agent to a particular United States mission abroad, the Secretary shall authorize the assignment of at least two such agents to that mission.”
 
  __Waiver of Provisions of__  __[__  __Public Law 100–204__  __][/us/pl/100/204]__  __During Fiscal Years 1988 and 1989__ 
 
-[Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title III, § 305\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–23, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title III, § 305\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–23, provided that: 
 
 > “The following sections of H.R. 1777 (the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[[Pub. L. 100–204][/us/pl/100/204]\]) are waived during Fiscal Years 1988 and 1989 in the event that H.R. 1777 is enacted into law: Sec. 122 \[set out above\], Sec. 151, and Sec. 204 \[[22 U.S.C. 1461][/us/usc/t22/s1461] note\].”
 
  __Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions__ 
 
-    [Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title III, § 300\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–58, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title III, § 300\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–58, which required the Secretary of State to report every six months to the Speaker of the House of Representatives and the President of the Senate on failures by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and on actions undertaken by the Department of State to redress these failures, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 127 of House Document No. 103–7.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title III, § 300\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–58, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title III, § 300\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–58, which required the Secretary of State to report every six months to the Speaker of the House of Representatives and the President of the Senate on failures by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and on actions undertaken by the Department of State to redress these failures, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 127 of House Document No. 103–7.
 
  __Responsibility of United States Missions To Promote Freedom of Press Abroad__ 
 
-[Pub. L. 99–93, title I, § 138][/us/pl/99/93/s138], Aug. 16, 1985, [99 Stat. 422][/us/stat/99/422], provided that:
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 138, Aug. 16, 1985, [99 Stat. 422][/us/stat/99/422], provided that:
 
 >     “(a)  __Responsibility__  __.—__ 
 
@@ -659,7 +659,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Emergency Telephone Service at United States Consular Offices__ 
 
-[Pub. L. 99–93, title I, § 139][/us/pl/99/93/s139], Aug. 16, 1985, [99 Stat. 422][/us/stat/99/422], provided that: 
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 139, Aug. 16, 1985, [99 Stat. 422][/us/stat/99/422], provided that: 
 
 > “It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section.”
 
@@ -705,13 +705,13 @@ Similar provisions were contained in the following appropriation acts:
 
  __United States Diplomatic Relations With the Vatican__ 
 
-[Pub. L. 98–164, title I, § 134][/us/pl/98/164/s134], Nov. 22, 1983, [97 Stat. 1029][/us/stat/97/1029], provided that: 
+[Pub. L. 98–164, title I][/us/pl/98/164/tI], § 134, Nov. 22, 1983, [97 Stat. 1029][/us/stat/97/1029], provided that: 
 
 > “In order to provide for the establishment of United States diplomatic relations with the Vatican, the Act entitled ‘An Act making Appropriations for the Consular and Diplomatic Expenses of the Government for the Year ending thirtieth June, eighteen hundred and sixty-eight, and for other purposes’, approved February 28, 1867, is amended by repealing the following sentence ([14 Stat. 413][/us/stat/14/413]): ‘And no money hereby or otherwise appropriated shall be paid for the support of an American legation at Rome, from and after the thirtieth day of June, eighteen hundred and sixty-seven.’.”
 
  __Reopening Certain United States Consulates__ 
 
-[Pub. L. 97–241, title I, § 103(b)][/us/pl/97/241/s103/b], (c), Aug. 24, 1982, [96 Stat. 273][/us/stat/96/273], as amended by [Pub. L. 98–164, title I, § 137][/us/pl/98/164/s137], Nov. 22, 1983, [97 Stat. 1030][/us/stat/97/1030]; [Pub. L. 103–236, title I, § 139(8)][/us/pl/103/236/s139/8], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
+[Pub. L. 97–241, title I][/us/pl/97/241/tI], § 103(b), (c), Aug. 24, 1982, [96 Stat. 273][/us/stat/96/273], as amended by [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 137, Nov. 22, 1983, [97 Stat. 1030][/us/stat/97/1030]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(8), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
 
 >     “(b) None of the funds made available under this \[[Pub. L. 97–241][/us/pl/97/241]\] or any other Act for ‘Administration of Foreign Affairs’ may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified in subsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[[section 108 of Pub. L. 96–60][/us/pl/96/60/s108], set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
 
@@ -719,7 +719,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __United States Consulates__ 
 
-[Pub. L. 96–60, title I, § 108][/us/pl/96/60/s108], Aug. 15, 1979, [93 Stat. 397][/us/stat/93/397], provided that:
+[Pub. L. 96–60, title I][/us/pl/96/60/tI], § 108, Aug. 15, 1979, [93 Stat. 397][/us/stat/93/397], provided that:
 
 >     “(a) The following United States consulates shall not be closed or, if closed on the date of enactment of this Act \[Aug. 15, 1979\], shall be reopened as soon as possible after such date: Salzburg, Austria; Bremen, Germany; Nice, France; Turin, Italy; Goteborg, Sweden; Adana, Turkey; Tangier, Morocco; Mandalay, Burma; Brisbane, Australia; and Surabaya, Indonesia.
 
@@ -727,7 +727,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Action With Regard to International Journalistic Freedom__ 
 
-[Pub. L. 95–426, title VI, § 603][/us/pl/95/426/s603], Oct. 7, 1978, [92 Stat. 985][/us/stat/92/985], as amended by [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that:
+[Pub. L. 95–426, title VI][/us/pl/95/426/tVI], § 603, Oct. 7, 1978, [92 Stat. 985][/us/stat/92/985], as amended by [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that:
 
 >     “(a)
 
@@ -745,13 +745,13 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(2) raise in appropriate international forums the issue of the treatment of foreign news correspondents, with a view toward gaining multilateral support for the legitimate rights of such correspondents.
 
->     “(c) __\[Repealed.__  __[__  __Pub. L. 97–241, title V, § 505(a)(2)__  __][/us/pl/97/241/s505/a/2]__  __,__  __Aug. 24, 1982__  __,__  __[__  __96 Stat. 299__  __][/us/stat/96/299]__  __.\]__ 
+>     “(c) __\[Repealed.__  __[__  __Pub. L. 97–241, title V__  __][/us/pl/97/241/tV]__  __, § 505(a)(2),__  __Aug. 24, 1982__  __,__  __[__  __96 Stat. 299__  __][/us/stat/96/299]__  __.\]__ 
 
 >     ”
 
  __Diplomatic Relations With Foreign Government Not Indication of Approval of Such Government__ 
 
-[Pub. L. 95–426, title VI, § 607][/us/pl/95/426/s607], Oct. 7, 1978, [92 Stat. 988][/us/stat/92/988], provided that: 
+[Pub. L. 95–426, title VI][/us/pl/95/426/tVI], § 607, Oct. 7, 1978, [92 Stat. 988][/us/stat/92/988], provided that: 
 
 > “The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents.”
 
@@ -824,34 +824,34 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/act/1789-07-27/ch4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-07-27%2Fch4%2Fs1
+[/us/act/1789-07-27/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-07-27%2Fch4
 [/us/stat/1/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F28
-[/us/act/1789-09-15/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-09-15%2Fch14%2Fs1
+[/us/act/1789-09-15/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-09-15%2Fch14
 [/us/stat/1/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F68
 [/us/usc/t5/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs156
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtI
 [/us/stat/61/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F497
 [/us/usc/t50/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403
 [/us/usc/t50/s3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3023
-[/us/pl/110/53/s2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2043
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F524
 [/us/pl/110/53/s2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2043
 [/us/pl/110/53/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2002
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/110/53/s2043/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2043%2Fc%2F1
 [/us/usc/t22/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2228
-[/us/pl/108/458/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7101
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3775
-[/us/pl/108/458/s7117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7117
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3799
-[/us/pl/108/458/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7204
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3814
 [/us/pl/108/458/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7204
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1399
 [/us/usc/t22/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2421
 [/us/usc/t22/s2321j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321j
@@ -861,84 +861,84 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/107/228/s637/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs637%2Fb%2F2
-[/us/pl/106/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/106/570/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtIV
 [/us/stat/114/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3047
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/107/228/s1308/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308%2Fg%2F1%2FD
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1441
-[/us/pl/113/76/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fi
+[/us/pl/113/76/dK/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdK%2FtVII
 [/us/stat/128/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F514
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/105/118/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs553
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2422
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/104/107/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs556
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F743
-[/us/pl/103/306/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs575
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1653
-[/us/pl/103/236/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs536
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F481
 [/us/usc/t22/s2151n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tV/ptD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV%2FptD
 [/us/stat/108/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F486
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
 [/us/pl/103/236/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs574
 [/us/usc/t22/s2370a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370a
-[/us/pl/101/246/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs153%2Fa
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F43
-[/us/pl/101/302/s320/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs320%2Fb%2F2
+[/us/pl/101/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtIII
 [/us/stat/104/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F247
-[/us/pl/100/204/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs109
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1339
-[/us/pl/100/204/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs122
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1339
-[/us/pl/102/138/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs112%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F655
 [/us/usc/t22/s2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2720
-[/us/pl/100/204/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs123
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1339
-[/us/pl/101/246/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs121
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F27
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/100/204/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs801
+[/us/pl/100/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVIII
 [/us/stat/101/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1397
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/99/93/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs138
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F422
-[/us/pl/99/93/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs139
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F422
 [/us/pl/98/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F447
 [/us/stat/98/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1721
@@ -946,27 +946,27 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
-[/us/pl/98/164/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs134
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1029
 [/us/stat/14/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F413
-[/us/pl/97/241/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs103%2Fb
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F273
-[/us/pl/98/164/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs137
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1030
-[/us/pl/103/236/s139/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F8
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/96/60/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs108
 [/us/pl/97/241/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs103%2Fa
-[/us/pl/96/60/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs108
+[/us/pl/96/60/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtI
 [/us/stat/93/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F397
-[/us/pl/95/426/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs603
+[/us/pl/95/426/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVI
 [/us/stat/92/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F985
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/95/426/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs607
+[/us/pl/95/426/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVI
 [/us/stat/92/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F988
 [/us/usc/t22/s2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656
 [/us/usc/t5/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3161

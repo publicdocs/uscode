@@ -121,7 +121,7 @@
 
             (G) assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of [Public Law 103–160][/us/pl/103/160]) \[[22 U.S.C. 5951][/us/usc/t22/s5951] et seq.\].
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498A, as added [Pub. L. 102–511, title II, § 201][/us/pl/102/511/s201], Oct. 24, 1992, [106 Stat. 3326][/us/stat/106/3326]; amended [Pub. L. 103–236, title VIII, § 826(c)][/us/pl/103/236/s826/c], Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519]; [Pub. L. 104–114, title I, § 106(b)][/us/pl/104/114/s106/b], (c)(1), (3), (d)(2), Mar. 12, 1996, [110 Stat. 795–797][/us/stat/110/795-797].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 498A, as added [Pub. L. 102–511, title II][/us/pl/102/511/tII], § 201, Oct. 24, 1992, [106 Stat. 3326][/us/stat/106/3326]; amended [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(c), Apr. 30, 1994, [108 Stat. 519][/us/stat/108/519]; [Pub. L. 104–114, title I][/us/pl/104/114/tI], § 106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, [110 Stat. 795–797][/us/stat/110/795-797].)
 
  __References in Text__ 
 
@@ -131,13 +131,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(11). [Pub. L. 104–114, § 106(b)][/us/pl/104/114/s106/b], substituted “military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos” for “of military facilities”.
+    1996—Subsec. (a)(11). [Pub. L. 104–114][/us/pl/104/114], § 106(b), substituted “military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos” for “of military facilities”.
 
-    Subsec. (b)(5), (6). [Pub. L. 104–114, § 106(c)(1)][/us/pl/104/114/s106/c/1], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 104–114][/us/pl/104/114], § 106(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (c)(4). [Pub. L. 104–114, § 106(c)(3)][/us/pl/104/114/s106/c/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 104–114][/us/pl/104/114], § 106(c)(3), added par. (4).
 
-    Subsec. (d). [Pub. L. 104–114, § 106(d)(2)][/us/pl/104/114/s106/d/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–114][/us/pl/104/114], § 106(d)(2), added subsec. (d).
 
     1994—Subsec. (b)(4). [Pub. L. 103–236][/us/pl/103/236] substituted “section 2799aa or 2799aa–1” for “section 2429 or 2429a”.
 
@@ -165,7 +165,7 @@
 
  __Ineligibility for Assistance of Institutions Withholding Certain Documents of United States Nationals__ 
 
-[Pub. L. 102–511, title II, § 202][/us/pl/102/511/s202], Oct. 24, 1992, [106 Stat. 3331][/us/stat/106/3331], provided that:
+[Pub. L. 102–511, title II][/us/pl/102/511/tII], § 202, Oct. 24, 1992, [106 Stat. 3331][/us/stat/106/3331], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -220,11 +220,11 @@
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t22/s5951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5951
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/511/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs201
+[/us/pl/102/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtII
 [/us/stat/106/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3326
-[/us/pl/103/236/s826/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fc
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F519
-[/us/pl/104/114/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106%2Fb
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/795-797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F795-797
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -232,17 +232,17 @@
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/stat/107/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1777
 [/us/usc/t22/s5951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5951
-[/us/pl/104/114/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106%2Fb
-[/us/pl/104/114/s106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106%2Fc%2F1
-[/us/pl/104/114/s106/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106%2Fc%2F3
-[/us/pl/104/114/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs106%2Fd%2F2
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s5812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5812
-[/us/pl/102/511/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs202
+[/us/pl/102/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtII
 [/us/stat/106/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3331
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
 

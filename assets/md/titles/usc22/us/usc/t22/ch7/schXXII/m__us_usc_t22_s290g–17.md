@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $407,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 94–302, title II, § 218][/us/pl/94/302/s218], as added [Pub. L. 109–102, title V, § 599C(b)][/us/pl/109/102/s599C/b], Nov. 14, 2005, [119 Stat. 2243][/us/stat/119/2243].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 218, as added [Pub. L. 109–102, title V][/us/pl/109/102/tV], § 599C(b), Nov. 14, 2005, [119 Stat. 2243][/us/stat/119/2243].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/94/302/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs218
-[/us/pl/109/102/s599C/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2Fs599C%2Fb
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
+[/us/pl/109/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F102%2FtV
 [/us/stat/119/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2243
 
 

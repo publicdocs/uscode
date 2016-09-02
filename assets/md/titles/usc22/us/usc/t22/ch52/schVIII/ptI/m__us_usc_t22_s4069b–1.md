@@ -75,7 +75,7 @@
 
         Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
-([Pub. L. 96–465, title I, § 832][/us/pl/96/465/s832], as added [Pub. L. 100–238, title II, § 204(a)][/us/pl/100/238/s204/a], Jan. 8, 1988, [101 Stat. 1771][/us/stat/101/1771].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 832, as added [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 204(a), Jan. 8, 1988, [101 Stat. 1771][/us/stat/101/1771].)
 
  __References in Text__ 
 
@@ -96,8 +96,8 @@
 ----------
 ----------
 
-[/us/pl/96/465/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs832
-[/us/pl/100/238/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs204%2Fa
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1771
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/usc/t22/s4069c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4069c

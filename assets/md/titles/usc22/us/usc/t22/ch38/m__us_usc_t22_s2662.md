@@ -17,9 +17,9 @@
 
  __Codification__ 
 
-    Section 2662, [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 1 \[part\], [70 Stat. 890][/us/stat/70/890]; as renumbered title I and amended Aug. 24, 1982, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], [96 Stat. 282][/us/stat/96/282], which related to establishment, maintenance, and operation of passport and despatch agencies, was amended generally by [Pub. L. 103–236][/us/pl/103/236] and transferred to [section 2651a of this title][/us/usc/t22/s2651a].
+    Section 2662, [act Aug. 1, 1956, ch. 841, title I][/us/act/1956-08-01/ch841/tI], § 1 \[part\], [70 Stat. 890][/us/stat/70/890]; as renumbered title I and amended Aug. 24, 1982, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), [96 Stat. 282][/us/stat/96/282], which related to establishment, maintenance, and operation of passport and despatch agencies, was amended generally by [Pub. L. 103–236][/us/pl/103/236] and transferred to [section 2651a of this title][/us/usc/t22/s2651a].
 
-    Section was formerly classified to [section 170f of Title 5][/us/usc/t5/s170f] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170f of Title 5][/us/usc/t5/s170f] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 Similar provisions were contained in the following prior Department of State Appropriation Acts:
 
@@ -52,14 +52,14 @@ Similar provisions were contained in the following prior Department of State App
 ----------
 ----------
 
-[/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
+[/us/act/1956-08-01/ch841/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841%2FtI
 [/us/stat/70/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F890
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/usc/t5/s170f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170f
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1956-06-20/ch414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch414
 [/us/stat/70/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F299

@@ -17,11 +17,11 @@
 
     The President is authorized to maintain membership of the United States in the Permanent International Association of Road Congresses.
 
-([Pub. L. 102–138, title I, § 164(b)][/us/pl/102/138/s164/b], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 164(b), Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].)
 
  __Prior Provisions__ 
 
-    A prior section 269, [act June 18, 1926, ch. 623][/us/act/1926-06-18/ch623], [44 Stat. 754][/us/stat/44/754], authorized appropriations of $3,000 per annum to enable United States to accept membership in Permanent Association of International Road Congresses, prior to repeal by [Pub. L. 102–138, title I, § 164(a)][/us/pl/102/138/s164/a], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].
+    A prior section 269, [act June 18, 1926, ch. 623][/us/act/1926-06-18/ch623], [44 Stat. 754][/us/stat/44/754], authorized appropriations of $3,000 per annum to enable United States to accept membership in Permanent Association of International Road Congresses, prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 164(a), Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/102/138/s164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs164%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F676
 [/us/act/1926-06-18/ch623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-18%2Fch623
 [/us/stat/44/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F754
-[/us/pl/102/138/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs164%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F676
 
 

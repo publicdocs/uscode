@@ -23,7 +23,7 @@
 
     (3) to permit access to or copying of any record that is exempt from disclosure under this chapter or any regulation prescribed under this chapter.
 
-([Pub. L. 105–277, div. I, title IV, § 405][/us/pl/105/277/s405], Oct. 21, 1998, [112 Stat. 2681–883][/us/stat/112/2681-883].)
+([Pub. L. 105–277, div. I, title IV][/us/pl/105/277/dI/tIV], § 405, Oct. 21, 1998, [112 Stat. 2681–883][/us/stat/112/2681-883].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs405
+[/us/pl/105/277/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIV
 [/us/stat/112/2681-883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-883
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

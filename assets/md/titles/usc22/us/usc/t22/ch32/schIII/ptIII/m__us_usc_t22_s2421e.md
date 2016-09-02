@@ -21,7 +21,7 @@
 
     (2) the term “capital project” means a project involving the construction, expansion, alteration of, or the acquisition of equipment for, a physical facility or physical infrastructure, including related engineering design (concept and detail) and other services, the procurement of equipment (including any related services), and feasibility studies or similar engineering and economic services.
 
-([Pub. L. 102–549, title III, § 308][/us/pl/102/549/s308], Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660].)
+([Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 308, Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/549/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs308
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3660
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658

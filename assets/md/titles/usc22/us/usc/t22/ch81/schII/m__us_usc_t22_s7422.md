@@ -99,15 +99,15 @@
 
         The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease to apply, and the authority of [section 7427 of this title][/us/usc/t22/s7427] shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
 
-([Pub. L. 107–206, title II, § 2003][/us/pl/107/206/s2003], Aug. 2, 2002, [116 Stat. 901][/us/stat/116/901]; [Pub. L. 110–181, div. A, title XII, § 1212(b)(1)][/us/pl/110/181/s1212/b/1], Jan. 28, 2008, [122 Stat. 371][/us/stat/122/371].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2003, Aug. 2, 2002, [116 Stat. 901][/us/stat/116/901]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1212(b)(1), Jan. 28, 2008, [122 Stat. 371][/us/stat/122/371].)
 
  __Amendments__ 
 
-    2008—Subsecs. (a), (b). [Pub. L. 110–181, § 1212(b)(1)(A)][/us/pl/110/181/s1212/b/1/A], (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
+    2008—Subsecs. (a), (b). [Pub. L. 110–181][/us/pl/110/181], § 1212(b)(1)(A), (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
 
-    Subsecs. (c)(2)(A), (d). [Pub. L. 110–181, § 1212(b)(1)(C)][/us/pl/110/181/s1212/b/1/C], (D), substituted “section 7424” for “sections 7424 and 7426”.
+    Subsecs. (c)(2)(A), (d). [Pub. L. 110–181][/us/pl/110/181], § 1212(b)(1)(C), (D), substituted “section 7424” for “sections 7424 and 7426”.
 
-    Subsec. (e). [Pub. L. 110–181, § 1212(b)(1)(E)][/us/pl/110/181/s1212/b/1/E], substituted “and 7425” for “7425, and 7426”.
+    Subsec. (e). [Pub. L. 110–181][/us/pl/110/181], § 1212(b)(1)(E), substituted “and 7425” for “7425, and 7426”.
 
 ----------
 
@@ -121,12 +121,12 @@
 [/us/usc/t22/s7424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7424
 [/us/usc/t22/s7424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7424
 [/us/usc/t22/s7427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7427
-[/us/pl/107/206/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2003
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F901
-[/us/pl/110/181/s1212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1212%2Fb%2F1
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F371
-[/us/pl/110/181/s1212/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1212%2Fb%2F1%2FA
-[/us/pl/110/181/s1212/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1212%2Fb%2F1%2FC
-[/us/pl/110/181/s1212/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1212%2Fb%2F1%2FE
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

@@ -139,7 +139,7 @@
 
         Nothing in this section alters or amends existing security requirements not addressed by this section.
 
-([Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VI, § 606\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–454).
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VI, § 606\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–454).
 
  __Codification__ 
 
@@ -159,7 +159,7 @@
 
  __Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba__ 
 
-[Pub. L. 114–113, div. M, title V, § 513][/us/pl/114/113/s513], Dec. 18, 2015, [129 Stat. 2926][/us/stat/129/2926], provided that:
+[Pub. L. 114–113, div. M, title V][/us/pl/114/113/dM/tV], § 513, Dec. 18, 2015, [129 Stat. 2926][/us/stat/129/2926], provided that:
 
 >     “(a)  __Restricted Access Space Requirement__  __.—__ 
 
@@ -183,11 +183,11 @@
 
 >         “(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.”
 
-    \[For definition of “congressional intelligence committees” as used in [section 513 of div. M of Pub. L. 114–113][/us/pl/114/113/s513], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of Title 50][/us/usc/t50/s3003], War and National Defense.\]
+    \[For definition of “congressional intelligence committees” as used in [section 513 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s513], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/dM/s2], set out as a note under [section 3003 of Title 50][/us/usc/t50/s3003], War and National Defense.\]
 
  __Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries__ 
 
-[Pub. L. 113–293, title III, § 314][/us/pl/113/293/s314], Dec. 19, 2014, [128 Stat. 4002][/us/stat/128/4002], provided that:
+[Pub. L. 113–293, title III][/us/pl/113/293/tIII], § 314, Dec. 19, 2014, [128 Stat. 4002][/us/stat/128/4002], provided that:
 
 >     “(a)  __Sensitive Compartmented Information Facility Requirement__  __.—__ 
 
@@ -209,7 +209,7 @@
 
  __Capital Security Cost Sharing__ 
 
-[Pub. L. 109–364, div. A, title III, § 357][/us/pl/109/364/s357], Oct. 17, 2006, [120 Stat. 2163][/us/stat/120/2163], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 357, Oct. 17, 2006, [120 Stat. 2163][/us/stat/120/2163], provided that:
 
 >     “(a)  __Reconciliation Required__  __.—__ 
 
@@ -221,7 +221,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VI, § 602\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VI, § 602\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–451, provided that: 
 
 > “Congress makes the following findings:
 
@@ -255,7 +255,7 @@
 
  __Authorizations of Appropriations__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VI, § 604\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–453, as amended by [Pub. L. 107–228, div. A, title I, § 111(a)(3)(B)][/us/pl/107/228/s111/a/3/B], Sept. 30, 2002, [116 Stat. 1356][/us/stat/116/1356]; [Pub. L. 108–447, div. B, title VI, § 629][/us/pl/108/447/s629], Dec. 8, 2004, [118 Stat. 2920][/us/stat/118/2920]; [Pub. L. 112–74, div. I, title VII, § 7004(e)][/us/pl/112/74/s7004/e], Dec. 23, 2011, [125 Stat. 1194][/us/stat/125/1194], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VI, § 604\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–453, as amended by [Pub. L. 107–228, div. A, title I][/us/pl/107/228/dA/tI], § 111(a)(3)(B), Sept. 30, 2002, [116 Stat. 1356][/us/stat/116/1356]; [Pub. L. 108–447, div. B, title VI][/us/pl/108/447/dB/tVI], § 629, Dec. 8, 2004, [118 Stat. 2920][/us/stat/118/2920]; [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7004(e), Dec. 23, 2011, [125 Stat. 1194][/us/stat/125/1194], provided that:
 
 >     “(a)  __Authorization of Appropriations__  __.—__ 
 
@@ -305,7 +305,7 @@
 
  __Obligations and Expenditures__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VI, § 605\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–453, as amended by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VI, § 605\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–453, as amended by [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(n), Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
 
 >     “(a) __Report and Priority of Obligations.—__ 
 
@@ -331,7 +331,7 @@
 
     For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) \[div. A, title VI, § 605\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note above, see section 1000(a)(7) \[§ 3\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note under [section 2651 of this title][/us/usc/t22/s2651].
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VI, § 603\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–452, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VI, § 603\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–452, provided that: 
 
 > “In this title \[enacting this section, amending [section 4831 of this title][/us/usc/t22/s4831], and enacting provisions set out as notes above\], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility.”
 
@@ -342,44 +342,44 @@
 ----------
 ----------
 
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4865
-[/us/pl/114/113/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs513
+[/us/pl/114/113/dM/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtV
 [/us/stat/129/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2926
-[/us/pl/114/113/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs513
-[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/pl/114/113/dM/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs513
+[/us/pl/114/113/dM/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2Fs2
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
-[/us/pl/113/293/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs314
+[/us/pl/113/293/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2FtIII
 [/us/stat/128/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4002
-[/us/pl/109/364/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs357
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2163
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4865
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s111/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs111%2Fa%2F3%2FB
+[/us/pl/107/228/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtI
 [/us/stat/116/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1356
-[/us/pl/108/447/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs629
+[/us/pl/108/447/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtVI
 [/us/stat/118/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2920
-[/us/pl/112/74/s7004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7004%2Fe
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1194
 [/us/usc/t22/s4865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4865
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/112/74/s7034/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fn
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1217
 [/us/usc/t22/s2706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706%2Fa
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4831
 

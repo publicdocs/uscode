@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall not apply with respect to a seizure made by a country at war with the United States or a seizure made in accordance with the provisions of any applicable convention or treaty, if that treaty or convention was made with advice and consent to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  the Senate and was in force and effect for the United States and the seizing country at the time of the seizure.
 
-([Aug. 27, 1954, ch. 1018, § 4][/us/act/1954-08-27/ch1018/s4], [68 Stat. 883][/us/stat/68/883]; [Pub. L. 98–364, title III, § 303(b)][/us/pl/98/364/s303/b], July 17, 1984, [98 Stat. 444][/us/stat/98/444].)
+([Aug. 27, 1954, ch. 1018][/us/act/1954-08-27/ch1018], § 4, [68 Stat. 883][/us/stat/68/883]; [Pub. L. 98–364, title III][/us/pl/98/364/tIII], § 303(b), July 17, 1984, [98 Stat. 444][/us/stat/98/444].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1018/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018%2Fs4
+[/us/act/1954-08-27/ch1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018
 [/us/stat/68/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F883
-[/us/pl/98/364/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs303%2Fb
+[/us/pl/98/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtIII
 [/us/stat/98/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F444
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364

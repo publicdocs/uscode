@@ -25,7 +25,7 @@
 
     (4) countries with strong current account surpluses bear a major responsibility for providing the financial resources needed for growth in the developing world.
 
-([Pub. L. 100–418, title III, § 3104][/us/pl/100/418/s3104], Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3104, Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3104
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1376
 
 

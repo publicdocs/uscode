@@ -27,7 +27,7 @@
 
         Nothing in this subchapter shall affect the responsibilities of the President or the Congress under the War Powers Resolution ([Public Law 93–148][/us/pl/93/148]) \[[50 U.S.C. 1541][/us/usc/t50/s1541] et seq.\].
 
-([Pub. L. 97–132, § 7][/us/pl/97/132/s7], Dec. 29, 1981, [95 Stat. 1696][/us/stat/95/1696].)
+([Pub. L. 97–132][/us/pl/97/132], § 7, Dec. 29, 1981, [95 Stat. 1696][/us/stat/95/1696].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/97/132/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs7
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1696
 [/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555

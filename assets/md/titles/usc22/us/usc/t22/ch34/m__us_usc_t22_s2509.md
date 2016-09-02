@@ -65,7 +65,7 @@
 
         The provisions of [section 2702 of this title][/us/usc/t22/s2702] shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
 
-([Pub. L. 87–293, title I, § 10][/us/pl/87/293/s10], Sept. 22, 1961, [75 Stat. 617][/us/stat/75/617]; [Pub. L. 88–200, § 5][/us/pl/88/200/s5], Dec. 13, 1963, [77 Stat. 360][/us/stat/77/360]; [Pub. L. 89–134, § 6][/us/pl/89/134/s6], Aug. 24, 1965, [79 Stat. 551][/us/stat/79/551]; [Pub. L. 89–572, § 6][/us/pl/89/572/s6], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]; [Pub. L. 93–49, § 2][/us/pl/93/49/s2], June 25, 1973, [87 Stat. 99][/us/stat/87/99]; [Pub. L. 95–331, § 5(a)][/us/pl/95/331/s5/a], (c), Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414], 415; [Pub. L. 97–113, title VI, § 604(a)][/us/pl/97/113/s604/a], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]; [Pub. L. 103–236, title VI, § 602][/us/pl/103/236/s602], Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491]; [Pub. L. 106–30, § 2(b)(4)][/us/pl/106/30/s2/b/4], May 21, 1999, [113 Stat. 56][/us/stat/113/56]; [Pub. L. 112–57, § 5(2)][/us/pl/112/57/s5/2], Nov. 21, 2011, [125 Stat. 744][/us/stat/125/744].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 10, Sept. 22, 1961, [75 Stat. 617][/us/stat/75/617]; [Pub. L. 88–200][/us/pl/88/200], § 5, Dec. 13, 1963, [77 Stat. 360][/us/stat/77/360]; [Pub. L. 89–134][/us/pl/89/134], § 6, Aug. 24, 1965, [79 Stat. 551][/us/stat/79/551]; [Pub. L. 89–572][/us/pl/89/572], § 6, Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]; [Pub. L. 93–49][/us/pl/93/49], § 2, June 25, 1973, [87 Stat. 99][/us/stat/87/99]; [Pub. L. 95–331][/us/pl/95/331], § 5(a), (c), Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414], 415; [Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 604(a), Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]; [Pub. L. 103–236, title VI][/us/pl/103/236/tVI], § 602, Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491]; [Pub. L. 106–30][/us/pl/106/30], § 2(b)(4), May 21, 1999, [113 Stat. 56][/us/stat/113/56]; [Pub. L. 112–57][/us/pl/112/57], § 5(2), Nov. 21, 2011, [125 Stat. 744][/us/stat/125/744].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Codification__ 
 
-    In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -85,19 +85,19 @@
 
     1999—Subsec. (a)(4). [Pub. L. 106–30][/us/pl/106/30] substituted “[section 1342 of title 31][/us/usc/t31/s1342]” for “[31 U.S.C. 665(b)][/us/usc/t31/s665/b]”.
 
-    1994—Subsec. (c). [Pub. L. 103–236, § 602(a)][/us/pl/103/236/s602/a], which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
+    1994—Subsec. (c). [Pub. L. 103–236][/us/pl/103/236], § 602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
 
-    Subsec. (j). [Pub. L. 103–236, § 602(b)][/us/pl/103/236/s602/b], inserted before period at end of first sentence “, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.”
+    Subsec. (j). [Pub. L. 103–236][/us/pl/103/236], § 602(b), inserted before period at end of first sentence “, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.”
 
     1981—Subsecs. (i), (j). [Pub. L. 97–113][/us/pl/97/113] added subsecs. (i) and (j).
 
-    1978—Subsec. (a)(2). [Pub. L. 95–331, § 5(a)(1)][/us/pl/95/331/s5/a/1], struck out proviso limiting to no more than 125 Peace Corps volunteers or volunteer leaders the number assignable to the described organizations.
+    1978—Subsec. (a)(2). [Pub. L. 95–331][/us/pl/95/331], § 5(a)(1), struck out proviso limiting to no more than 125 Peace Corps volunteers or volunteer leaders the number assignable to the described organizations.
 
-    Subsec. (a)(3) to (5). [Pub. L. 95–331, § 5(c)][/us/pl/95/331/s5/c], added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (a)(3) to (5). [Pub. L. 95–331][/us/pl/95/331], § 5(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-    Subsec. (b). [Pub. L. 95–331, § 5(a)(2)][/us/pl/95/331/s5/a/2], substituted “$20,000” for “$10,000”.
+    Subsec. (b). [Pub. L. 95–331][/us/pl/95/331], § 5(a)(2), substituted “$20,000” for “$10,000”.
 
-    Subsec. (h). [Pub. L. 95–331, § 5(a)(3)][/us/pl/95/331/s5/a/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–331][/us/pl/95/331], § 5(a)(3), added subsec. (h).
 
     1973—Subsec. (d). [Pub. L. 93–49][/us/pl/93/49] excepted from waiver of Federal laws the application of sections 5 and 252 of title 41.
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–331, § 5(b)][/us/pl/95/331/s5/b], Aug. 2, 1978, [92 Stat. 415][/us/stat/92/415], provided that: 
+[Pub. L. 95–331][/us/pl/95/331], § 5(b), Aug. 2, 1978, [92 Stat. 415][/us/stat/92/415], provided that: 
 
 > “The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to claims made after the date of the enactment of this Act \[Aug. 2, 1978\].”
 
@@ -119,7 +119,7 @@
 
  __Prohibition Against Use of Funds Appropriated After__  __February 15, 1981__  __, and Before__  __December 29, 1981__  __, for Legal Services or Malpractice Protection__ 
 
-[Pub. L. 97–113, title VI, § 604(c)][/us/pl/97/113/s604/c], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543], provided: 
+[Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 604(c), Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543], provided: 
 
 > “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
@@ -139,25 +139,25 @@
 [/us/usc/t22/s2698/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2698%2Fa
 [/us/usc/t22/s2698/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2698%2Fa
 [/us/usc/t22/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2702
-[/us/pl/87/293/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs10
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F617
-[/us/pl/88/200/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200%2Fs5
+[/us/pl/88/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200
 [/us/stat/77/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F360
-[/us/pl/89/134/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134%2Fs6
+[/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/stat/79/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F551
-[/us/pl/89/572/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs6
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
-[/us/pl/93/49/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F49%2Fs2
+[/us/pl/93/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F49
 [/us/stat/87/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F99
-[/us/pl/95/331/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs5%2Fa
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
 [/us/stat/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F414
-[/us/pl/97/113/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs604%2Fa
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1543
-[/us/pl/103/236/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs602
+[/us/pl/103/236/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVI
 [/us/stat/108/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F491
-[/us/pl/106/30/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs2%2Fb%2F4
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/stat/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F56
-[/us/pl/112/57/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs5%2F2
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F744
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -167,28 +167,28 @@
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/act/1951-03-23/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-23%2Fch15
 [/us/stat/65/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F7
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/103/236/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs602%2Fa
-[/us/pl/103/236/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs602%2Fb
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
-[/us/pl/95/331/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs5%2Fa%2F1
-[/us/pl/95/331/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs5%2Fc
-[/us/pl/95/331/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs5%2Fa%2F2
-[/us/pl/95/331/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs5%2Fa%2F3
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
 [/us/pl/93/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F49
 [/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/pl/88/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200
-[/us/pl/95/331/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs5%2Fb
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
 [/us/stat/92/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F415
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
-[/us/pl/97/113/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs604%2Fc
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1543
 [/us/usc/t22/s2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501

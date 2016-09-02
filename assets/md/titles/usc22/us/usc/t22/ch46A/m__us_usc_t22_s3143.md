@@ -55,7 +55,7 @@
 
         The access by the Comptroller General to information under this Act shall be in conformity with [section 716 of title 31][/us/usc/t31/s716].
 
-([Pub. L. 101–533, § 4][/us/pl/101/533/s4], Nov. 7, 1990, [104 Stat. 2346][/us/stat/104/2346]; [Pub. L. 104–316, title I, § 111(c)][/us/pl/104/316/s111/c], Oct. 19, 1996, [110 Stat. 3833][/us/stat/110/3833]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 101–533][/us/pl/101/533], § 4, Nov. 7, 1990, [104 Stat. 2346][/us/stat/104/2346]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 111(c), Oct. 19, 1996, [110 Stat. 3833][/us/stat/110/3833]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -65,13 +65,13 @@
 
     2004—[Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
 
-    1996—Subsec. (a). [Pub. L. 104–316, § 111(c)(1)][/us/pl/104/316/s111/c/1], substituted “reports referred to in” for “report required under”.
+    1996—Subsec. (a). [Pub. L. 104–316][/us/pl/104/316], § 111(c)(1), substituted “reports referred to in” for “report required under”.
 
-    Subsec. (b). [Pub. L. 104–316, § 111(c)(2)(A)][/us/pl/104/316/s111/c/2/A], (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under [section 3142 of this title][/us/usc/t22/s3142], the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under [section 3142 of this title][/us/usc/t22/s3142].”
+    Subsec. (b). [Pub. L. 104–316][/us/pl/104/316], § 111(c)(2)(A), (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under [section 3142 of this title][/us/usc/t22/s3142], the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under [section 3142 of this title][/us/usc/t22/s3142].”
 
-    [Pub. L. 104–316, § 111(c)(2)(B)][/us/pl/104/316/s111/c/2/B], which directed that subsec. (b) be amended by substituting “Congress reports” for “Congress, a report”, was executed in the introductory provisions by making the substitution for “Congress a report”, to reflect the probable intent of Congress.
+    [Pub. L. 104–316][/us/pl/104/316], § 111(c)(2)(B), which directed that subsec. (b) be amended by substituting “Congress reports” for “Congress, a report”, was executed in the introductory provisions by making the substitution for “Congress a report”, to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub. L. 104–316, § 111(c)(2)(C)][/us/pl/104/316/s111/c/2/C], substituted “reports issued by the Secretary of Commerce under [section 3142 of this title][/us/usc/t22/s3142]” for “the report of the Secretary of Commerce”.
+    Subsec. (b)(1). [Pub. L. 104–316][/us/pl/104/316], § 111(c)(2)(C), substituted “reports issued by the Secretary of Commerce under [section 3142 of this title][/us/usc/t22/s3142]” for “the report of the Secretary of Commerce”.
 
  __Change of Name__ 
 
@@ -91,22 +91,22 @@
 [/us/usc/t22/s3104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3104%2Fc
 [/us/usc/t22/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3144
 [/us/usc/t31/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs716
-[/us/pl/101/533/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs4
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2346
-[/us/pl/104/316/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs111%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3833
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2344
 [/us/usc/t22/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3141
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/104/316/s111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs111%2Fc%2F1
-[/us/pl/104/316/s111/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs111%2Fc%2F2%2FA
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/usc/t22/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3142
 [/us/usc/t22/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3142
-[/us/pl/104/316/s111/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs111%2Fc%2F2%2FB
-[/us/pl/104/316/s111/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs111%2Fc%2F2%2FC
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/usc/t22/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3142
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

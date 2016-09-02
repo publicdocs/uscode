@@ -39,7 +39,7 @@
 
         (3) To take steps to end the United States trade embargo of Cuba.
 
-([Pub. L. 102–484, div. A, title XVII, § 1708][/us/pl/102/484/s1708], Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580].)
+([Pub. L. 102–484, div. A, title XVII][/us/pl/102/484/dA/tXVII], § 1708, Oct. 23, 1992, [106 Stat. 2580][/us/stat/106/2580].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t22/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6005
-[/us/pl/102/484/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1708
+[/us/pl/102/484/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXVII
 [/us/stat/106/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2580
 
 

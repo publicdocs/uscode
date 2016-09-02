@@ -27,11 +27,11 @@
 
         The President is directed to inform the Congress promptly of any threat to the security or the social or economic system of the people on Taiwan and any danger to the interests of the United States arising therefrom. The President and the Congress shall determine, in accordance with constitutional processes, appropriate action by the United States in response to any such danger.
 
-([Pub. L. 96–8, § 3][/us/pl/96/8/s3], Apr. 10, 1979, [93 Stat. 15][/us/stat/93/15].)
+([Pub. L. 96–8][/us/pl/96/8], § 3, Apr. 10, 1979, [93 Stat. 15][/us/stat/93/15].)
 
  __Consultation With Congress With Regard to Taiwan__ 
 
-[Pub. L. 107–228, div. B, title XII, § 1263][/us/pl/107/228/s1263], Sept. 30, 2002, [116 Stat. 1434][/us/stat/116/1434], provided that: 
+[Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1263, Sept. 30, 2002, [116 Stat. 1434][/us/stat/116/1434], provided that: 
 
 > “Beginning 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every 180 days thereafter, the President shall provide detailed briefings to and consult with the appropriate congressional committees regarding the United States security assistance to Taiwan, including the provision of defense articles and defense services.”
 
@@ -39,7 +39,7 @@
 
  __Transfer of War Reserve Materiel and Other Property to Taiwan__ 
 
-    [Pub. L. 96–92, § 23][/us/pl/96/92/s23], Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710], authorized President, during calendar year 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, United States war reserve materiel that was located on Taiwan on Jan. 1, 1979, and during calendar years 1979 and 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, rights of the United States in property (other than war reserve materiel) that was located on Taiwan on Jan. 1, 1979.
+    [Pub. L. 96–92][/us/pl/96/92], § 23, Oct. 29, 1979, [93 Stat. 710][/us/stat/93/710], authorized President, during calendar year 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, United States war reserve materiel that was located on Taiwan on Jan. 1, 1979, and during calendar years 1979 and 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, rights of the United States in property (other than war reserve materiel) that was located on Taiwan on Jan. 1, 1979.
 
 ----------
 
@@ -49,16 +49,16 @@
 ----------
 
 [/us/usc/t22/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3301
-[/us/pl/96/8/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs3
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F15
-[/us/pl/107/228/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1263
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1434
 [/us/pl/107/228/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1263
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/pl/107/228/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1002
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/96/92/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs23
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F710
 
 

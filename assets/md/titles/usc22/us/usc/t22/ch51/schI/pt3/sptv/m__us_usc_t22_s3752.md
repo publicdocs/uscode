@@ -27,7 +27,7 @@
 
         Any executive department or agency of the United States may, on a reimbursable basis, provide to the Panama Canal Authority materials, supplies, equipment, work, or services requested by the Panama Canal Authority, at such rates as may be agreed upon by that department or agency and the Panama Canal Authority.
 
-([Pub. L. 96–70, title I, § 1342][/us/pl/96/70/s1342], Sept. 27, 1979, [93 Stat. 483][/us/stat/93/483]; [Pub. L. 105–85, div. C, title XXXV, § 3542][/us/pl/105/85/s3542], Nov. 18, 1997, [111 Stat. 2072][/us/stat/111/2072].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1342, Sept. 27, 1979, [93 Stat. 483][/us/stat/93/483]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3542, Nov. 18, 1997, [111 Stat. 2072][/us/stat/111/2072].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1342
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F483
-[/us/pl/105/85/s3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3542
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2072
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

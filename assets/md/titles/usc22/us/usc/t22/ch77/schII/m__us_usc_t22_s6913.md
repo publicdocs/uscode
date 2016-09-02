@@ -41,7 +41,7 @@
 
             At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Cochairman of the Commission.
 
-([Pub. L. 106–286, div. B, title III, § 303][/us/pl/106/286/s303], Oct. 10, 2000, [114 Stat. 898][/us/stat/114/898].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 303, Oct. 10, 2000, [114 Stat. 898][/us/stat/114/898].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs303
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F898
 
 

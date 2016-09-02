@@ -27,7 +27,7 @@
 
     “Sections 756, 960, 963 to 967, and 3058 of title 18” substituted in text for “sections 25, and 31 to 38 of title 18” on authority of [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 683][/us/stat/62/683], section 1 of which enacted Title 18, Crimes and Criminal Procedures.
 
-    Section was formerly classified to [section 38 of title 18][/us/usc/t18/s38] prior to the general revision and enactment of Title 18, by [act June 25, 1948, ch. 645, § 1][/us/act/1948-06-25/ch645/s1], [62 Stat. 683][/us/stat/62/683].
+    Section was formerly classified to [section 38 of title 18][/us/usc/t18/s38] prior to the general revision and enactment of Title 18, by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 1, [62 Stat. 683][/us/stat/62/683].
 
  __Definitions__ 
 
@@ -47,7 +47,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683
 [/us/usc/t18/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs38
-[/us/act/1948-06-25/ch645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs1
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683
 [/us/usc/t22/s408a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs408a
 

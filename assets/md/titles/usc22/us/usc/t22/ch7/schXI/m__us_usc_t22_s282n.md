@@ -21,7 +21,7 @@
 
     (2) amend Article VII(a) to increase the vote by which the Board of Governors of the Corporation may amend the Articles of Agreement of the Corporation from a four-fifths majority to an eighty-five percent majority.
 
-([Aug. 11, 1955, ch. 788, § 16][/us/act/1955-08-11/ch788/s16], as added [Pub. L. 102–511, title X, § 1006][/us/pl/102/511/s1006], Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 16, as added [Pub. L. 102–511, title X][/us/pl/102/511/tX], § 1006, Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch788/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs16
-[/us/pl/102/511/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs1006
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/102/511/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtX
 [/us/stat/106/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3361
 
 

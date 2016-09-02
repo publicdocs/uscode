@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s41.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs52)
+[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s51 _us_usc_t22_s51a.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs52)
 
 ## § 52. Omitted
 
  __Codification__ 
 
-    Section, [act Feb. 5, 1915, ch. 23, § 6][/us/act/1915-02-05/ch23/s6], [38 Stat. 806][/us/stat/38/806], abolished offices of vice consul general, deputy consul general, and deputy consul.
+    Section, [act Feb. 5, 1915, ch. 23][/us/act/1915-02-05/ch23], § 6, [38 Stat. 806][/us/stat/38/806], abolished offices of vice consul general, deputy consul general, and deputy consul.
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s41.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs52)
+[Previous](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s51 _us_usc_t22_s51a.md) | [Next](./../../../..//us/usc/t22/ch1/m__us_usc_t22_s53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs52)
 
 ----------
 ----------
 
-[/us/act/1915-02-05/ch23/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-02-05%2Fch23%2Fs6
+[/us/act/1915-02-05/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-02-05%2Fch23
 [/us/stat/38/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F806
 
 

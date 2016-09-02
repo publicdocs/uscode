@@ -17,15 +17,15 @@
 
     The several collectors of the customs shall detain any vessel manifestly built for warlike purposes, and about to depart the United States, or any place subject to the jurisdiction thereof, the cargo of which principally consists of arms and munitions of war, when the number of men shipped on board, or other circumstances, render it probable that such vessel is intended to be employed by the owners to cruise or commit hostilities upon the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with whom the United States are at peace, until the decision of the President is had thereon, or until the owner gives such bond and security as is required of the owners of armed vessels by [section 463 of this title][/us/usc/t22/s463].
 
-([Mar. 4, 1909, ch. 321, § 17][/us/act/1909-03-04/ch321/s17], [35 Stat. 1091][/us/stat/35/1091].)
+([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 17, [35 Stat. 1091][/us/stat/35/1091].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 29 of title 18][/us/usc/t18/s29] prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645, § 1][/us/act/1948-06-25/ch645/s1], [62 Stat. 683][/us/stat/62/683].
+    Section was formerly classified to [section 29 of title 18][/us/usc/t18/s29] prior to the general revision and enactment of Title 18, Crimes and Criminal Procedure, by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 1, [62 Stat. 683][/us/stat/62/683].
 
  __Prior Provisions__ 
 
-    Section was derived from R.S. § 5290 ([act Apr. 20, 1818, ch. 88, § 11][/us/act/1818-04-20/ch88/s11], [3 Stat. 450][/us/stat/3/450]), which was repealed by [act Mar. 4, 1909, ch. 321, § 341][/us/act/1909-03-04/ch321/s341], [35 Stat. 1153][/us/stat/35/1153].
+    Section was derived from R.S. § 5290 ([act Apr. 20, 1818, ch. 88][/us/act/1818-04-20/ch88], § 11, [3 Stat. 450][/us/stat/3/450]), which was repealed by [act Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 341, [35 Stat. 1153][/us/stat/35/1153].
 
  __Transfer of Functions__ 
 
@@ -39,14 +39,14 @@
 ----------
 
 [/us/usc/t22/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs463
-[/us/act/1909-03-04/ch321/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs17
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1091
 [/us/usc/t18/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs29
-[/us/act/1948-06-25/ch645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs1
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683
-[/us/act/1818-04-20/ch88/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1818-04-20%2Fch88%2Fs11
+[/us/act/1818-04-20/ch88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1818-04-20%2Fch88
 [/us/stat/3/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F450
-[/us/act/1909-03-04/ch321/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs341
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1153
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

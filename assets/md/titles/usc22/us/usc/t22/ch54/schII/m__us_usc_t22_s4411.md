@@ -33,11 +33,11 @@
 
         (6) to encourage the establishment and growth of democratic development in a manner consistent both with the broad concerns of United States national interests and with the specific requirements of the democratic groups in other countries which are aided by programs funded by the Endowment.
 
-([Pub. L. 98–164, title V, § 502][/us/pl/98/164/s502], Nov. 22, 1983, [97 Stat. 1039][/us/stat/97/1039].)
+([Pub. L. 98–164, title V][/us/pl/98/164/tV], § 502, Nov. 22, 1983, [97 Stat. 1039][/us/stat/97/1039].)
 
  __Short Title__ 
 
-[Pub. L. 98–164, title V, § 501][/us/pl/98/164/s501], Nov. 22, 1983, [97 Stat. 1039][/us/stat/97/1039], provided that: 
+[Pub. L. 98–164, title V][/us/pl/98/164/tV], § 501, Nov. 22, 1983, [97 Stat. 1039][/us/stat/97/1039], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘National Endowment for Democracy Act’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/98/164/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs502
+[/us/pl/98/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtV
 [/us/stat/97/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1039
-[/us/pl/98/164/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs501
+[/us/pl/98/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtV
 [/us/stat/97/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1039
 
 

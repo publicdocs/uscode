@@ -17,7 +17,7 @@
 
     Within 60 days after receiving information which substantiates that officials of a foreign country receiving international security assistance have (1) received illegal or otherwise improper payments from a United States corporation in return for a contract to purchase defense articles or services from such corporation, or (2) extorted, or attempted to extort, money or other things of value in return for actions by officials of that country that permit a United States citizen or corporation to conduct business in that country, the President shall submit to Congress a report outlining the circumstances of such payment or extortion. The report shall contain a recommendation from the President as to whether the United States should continue a security assistance program for that country.
 
-([Pub. L. 94–329, title VI, § 607][/us/pl/94/329/s607], June 30, 1976, [90 Stat. 768][/us/stat/90/768].)
+([Pub. L. 94–329, title VI][/us/pl/94/329/tVI], § 607, June 30, 1976, [90 Stat. 768][/us/stat/90/768].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/94/329/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs607
+[/us/pl/94/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtVI
 [/us/stat/90/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F768
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

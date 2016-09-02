@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-Section, which related to leaseholds of not less than ten years, was from the Department of State Appropriation Act, 1953, [act July 10, 1952, ch. 651][/us/act/1952-07-10/ch651], title I, [66 Stat. 550][/us/stat/66/550], and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, which related to leaseholds of not less than ten years, was from the Department of State Appropriation Act, 1953, [act July 10, 1952, ch. 651, title I][/us/act/1952-07-10/ch651/tI], [66 Stat. 550][/us/stat/66/550], and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
     1951—[Oct. 22, 1951, ch. 533][/us/act/1951-10-22/ch533], title I, [65 Stat. 577][/us/stat/65/577].
 
@@ -32,7 +32,7 @@ Section, which related to leaseholds of not less than ten years, was from the De
 ----------
 ----------
 
-[/us/act/1952-07-10/ch651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch651
+[/us/act/1952-07-10/ch651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch651%2FtI
 [/us/stat/66/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F550
 [/us/act/1951-10-22/ch533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch533
 [/us/stat/65/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F577

@@ -51,7 +51,7 @@
 
         In obtaining assistance pursuant to subsection (c) in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
 
-([Pub. L. 95–426, title V, § 504][/us/pl/95/426/s504], Oct. 7, 1978, [92 Stat. 983][/us/stat/92/983]; [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299]; [Pub. L. 100–418, title V, § 5171(d)][/us/pl/100/418/s5171/d], Aug. 23, 1988, [102 Stat. 1453][/us/stat/102/1453].)
+([Pub. L. 95–426, title V][/us/pl/95/426/tV], § 504, Oct. 7, 1978, [92 Stat. 983][/us/stat/92/983]; [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5171(d), Aug. 23, 1988, [102 Stat. 1453][/us/stat/102/1453].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Multilateral Agreement Governing Use of Nuclear-Powered Satellites__ 
 
-[Pub. L. 95–426, title VI, § 608][/us/pl/95/426/s608], Oct. 7, 1978, [92 Stat. 988][/us/stat/92/988], as amended by [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that:
+[Pub. L. 95–426, title VI][/us/pl/95/426/tVI], § 608, Oct. 7, 1978, [92 Stat. 988][/us/stat/92/988], as amended by [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299], provided that:
 
 >     “(a)
 
@@ -81,7 +81,7 @@
 
 >     “(b) It is therefore the sense of the Congress that the United States should take the initiative immediately in seeking a multilateral agreement governing the use of nuclear-powered satellites in space.
 
->     “(c) __\[Repealed.__  __[__  __Pub. L. 97–241, title V, § 505(a)(2)__  __][/us/pl/97/241/s505/a/2]__  __,__  __Aug. 24, 1982__  __,__  __[__  __96 Stat. 299__  __][/us/stat/96/299]__  __.\]__ 
+>     “(c) __\[Repealed.__  __[__  __Pub. L. 97–241, title V__  __][/us/pl/97/241/tV]__  __, § 505(a)(2),__  __Aug. 24, 1982__  __,__  __[__  __96 Stat. 299__  __][/us/stat/96/299]__  __.\]__ 
 
 >     ”
 
@@ -96,11 +96,11 @@
 [/us/usc/t22/s2656c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656c%2Fb
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/95/426/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs504
+[/us/pl/95/426/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtV
 [/us/stat/92/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F983
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/100/418/s5171/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5171%2Fd
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1453
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
 [/us/pl/96/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F517
@@ -118,11 +118,11 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t22/s2656b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656b
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
-[/us/pl/95/426/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs608
+[/us/pl/95/426/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVI
 [/us/stat/92/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F988
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
 
 

@@ -99,11 +99,11 @@
 
         An eligible country and the United States may enter into and have in effect only one Compact at any given time under this section. An eligible country and the United States may enter into one or more subsequent Compacts in accordance with the requirements of this chapter after the expiration of the existing Compact.
 
-([Pub. L. 108–199, div. D, title VI, § 609][/us/pl/108/199/s609], Jan. 23, 2004, [118 Stat. 218][/us/stat/118/218].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 609, Jan. 23, 2004, [118 Stat. 218][/us/stat/118/218].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a) and (k), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
+    This chapter, referred to in subsecs. (a) and (k), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199/dD], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
 
 ----------
 
@@ -114,9 +114,9 @@
 
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
 [/us/usc/t22/s7705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7705%2Fb
-[/us/pl/108/199/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs609
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F218
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/usc/t22/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7701
 

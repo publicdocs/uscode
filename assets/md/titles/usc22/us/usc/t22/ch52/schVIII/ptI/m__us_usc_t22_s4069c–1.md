@@ -59,7 +59,7 @@
 
         For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
 
-([Pub. L. 96–465, title I, § 833][/us/pl/96/465/s833], as added [Pub. L. 100–238, title II, § 204(a)][/us/pl/100/238/s204/a], Jan. 8, 1988, [101 Stat. 1772][/us/stat/101/1772].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 833, as added [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 204(a), Jan. 8, 1988, [101 Stat. 1772][/us/stat/101/1772].)
 
  __References in Text__ 
 
@@ -77,8 +77,8 @@
 ----------
 
 [/us/usc/t5/s8909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909
-[/us/pl/96/465/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs833
-[/us/pl/100/238/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs204%2Fa
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1772
 [/us/pl/100/238/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs261%2Fa
 [/us/usc/t22/s4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054

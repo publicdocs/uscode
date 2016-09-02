@@ -39,7 +39,7 @@
 
         The information required by paragraphs (1) through (5) of subsection (b) shall be provided in unclassified form. All or part of the information required by subsection (b)(6) may be provided in classified form, if necessary.
 
-([Pub. L. 108–333, title III, § 301][/us/pl/108/333/s301], Oct. 18, 2004, [118 Stat. 1295][/us/stat/118/1295].)
+([Pub. L. 108–333, title III][/us/pl/108/333/tIII], § 301, Oct. 18, 2004, [118 Stat. 1295][/us/stat/118/1295].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t22/s7843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7843
-[/us/pl/108/333/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs301
+[/us/pl/108/333/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtIII
 [/us/stat/118/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1295
 
 

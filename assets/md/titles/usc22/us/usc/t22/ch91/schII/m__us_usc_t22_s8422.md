@@ -81,13 +81,13 @@
 
             There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 to carry out the program established by this subsection.
 
-([Pub. L. 111–73, title II, § 202][/us/pl/111/73/s202], Oct. 15, 2009, [123 Stat. 2069][/us/stat/123/2069].)
+([Pub. L. 111–73, title II][/us/pl/111/73/tII], § 202, Oct. 15, 2009, [123 Stat. 2069][/us/stat/123/2069].)
 
  __References in Text__ 
 
     The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424]. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    The second section 620J of the Foreign Assistance Act of 1961 (as added by [Public Law 110–161][/us/pl/110/161]), referred to in subsec. (b), which is classified to [section 2378d of this title][/us/usc/t22/s2378d], was renumbered section 620M of the Foreign Assistance Act of 1961 by [Pub. L. 112–74, div. I, title VII, § 7034(k)(1)][/us/pl/112/74/s7034/k/1], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
+    The second section 620J of the Foreign Assistance Act of 1961 (as added by [Public Law 110–161][/us/pl/110/161]), referred to in subsec. (b), which is classified to [section 2378d of this title][/us/usc/t22/s2378d], was renumbered section 620M of the Foreign Assistance Act of 1961 by [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7034(k)(1), Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
 ----------
 
@@ -101,14 +101,14 @@
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t22/s2378d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378d
 [/us/usc/t22/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403
-[/us/pl/111/73/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs202
+[/us/pl/111/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtII
 [/us/stat/123/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2069
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t22/s2378d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378d
-[/us/pl/112/74/s7034/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fk%2F1
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
 
 

@@ -35,9 +35,9 @@
 
         (1) The Congress finds that the Governments of Israel and Egypt each have an enormous external debt burden which may be made more difficult by virtue of the financing authorized by this section. The Congress further finds that, as a consequence of the impact of the debt burdens incurred by Israel and Egypt under such financing, it may become necessary in future years to modify the terms of the loans guaranteed with funds made available pursuant to this section.
 
-        (2) Repealed. [Pub. L. 97–113, title VII, § 734(a)(4)][/us/pl/97/113/s734/a/4], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+        (2) Repealed. [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(4), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
-([Pub. L. 96–35, § 4][/us/pl/96/35/s4], July 20, 1979, [93 Stat. 90][/us/stat/93/90]; [Pub. L. 97–113, title VII, § 734(a)(4)][/us/pl/97/113/s734/a/4], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 96–35][/us/pl/96/35], § 4, July 20, 1979, [93 Stat. 90][/us/stat/93/90]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(4), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2764/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2764%2Fa
 [/us/usc/t22/s2771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2771%2Fb
-[/us/pl/97/113/s734/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F4
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/96/35/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs4
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F90
-[/us/pl/97/113/s734/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F4
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320

@@ -17,7 +17,7 @@
 
     The President is authorized to designate the American Commissioner on the International Boundary Commission, United States and Mexico, or other Federal agency, to cooperate with a representative or representatives of the Government of Mexico in a study regarding the equitable use of the waters of the lower Rio Grande and the lower Colorado and Tia Juana Rivers, for the purpose of obtaining information which may be used as a basis for the negotiation of a treaty with the Government of Mexico relative to the use of the waters of these rivers and to matters closely related thereto. On completion of such study the results shall be reported to the Secretary of State.
 
-([May 13, 1924, ch. 153, § 1][/us/act/1924-05-13/ch153/s1], [43 Stat. 118][/us/stat/43/118]; [Mar. 3, 1927, ch. 381, § 1][/us/act/1927-03-03/ch381/s1], [44 Stat. 1403][/us/stat/44/1403]; [Aug. 19, 1935, ch. 561][/us/act/1935-08-19/ch561], [49 Stat. 660][/us/stat/49/660].)
+([May 13, 1924, ch. 153][/us/act/1924-05-13/ch153], § 1, [43 Stat. 118][/us/stat/43/118]; [Mar. 3, 1927, ch. 381][/us/act/1927-03-03/ch381], § 1, [44 Stat. 1403][/us/stat/44/1403]; [Aug. 19, 1935, ch. 561][/us/act/1935-08-19/ch561], [49 Stat. 660][/us/stat/49/660].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Repeals__ 
 
-    Act Mar. 3, 1927, cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647].
+    Act Mar. 3, 1927, cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647].
 
  __Annual Appropriations__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/act/1924-05-13/ch153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-13%2Fch153%2Fs1
+[/us/act/1924-05-13/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-13%2Fch153
 [/us/stat/43/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F118
-[/us/act/1927-03-03/ch381/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch381%2Fs1
+[/us/act/1927-03-03/ch381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch381
 [/us/stat/44/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1403
 [/us/act/1935-08-19/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-19%2Fch561
 [/us/stat/49/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F660
@@ -74,7 +74,7 @@
 [/us/act/1950-09-13/ch948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-13%2Fch948
 [/us/stat/64/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F846
 [/us/usc/t22/s277d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs277d%E2%80%931
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F647
 [/us/usc/t22/s269a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs269a
 

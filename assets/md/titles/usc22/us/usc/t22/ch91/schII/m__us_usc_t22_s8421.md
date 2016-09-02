@@ -25,7 +25,7 @@
 
     (4) to help strengthen the institutions of democratic governance and promote control of military institutions by a democratically elected civilian government.
 
-([Pub. L. 111–73, title II, § 201][/us/pl/111/73/s201], Oct. 15, 2009, [123 Stat. 2069][/us/stat/123/2069].)
+([Pub. L. 111–73, title II][/us/pl/111/73/tII], § 201, Oct. 15, 2009, [123 Stat. 2069][/us/stat/123/2069].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/73/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2Fs201
+[/us/pl/111/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F73%2FtII
 [/us/stat/123/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2069
 
 

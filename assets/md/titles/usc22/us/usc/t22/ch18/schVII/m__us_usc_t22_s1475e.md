@@ -37,7 +37,7 @@
 
         (7) an amount not to exceed $100,000 of the payments from motion picture and television programs produced or conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Education and Cultural Exchange Act of 1961 \[[22 U.S.C. 2451][/us/usc/t22/s2451] et seq.\].
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title VIII, § 810, as added [Pub. L. 97–241, title III, § 304(e)][/us/pl/97/241/s304/e], Aug. 24, 1982, [96 Stat. 293][/us/stat/96/293]; amended [Pub. L. 100–204, title II, § 203][/us/pl/100/204/s203], Dec. 22, 1987, [101 Stat. 1373][/us/stat/101/1373]; [Pub. L. 101–246, title II, § 208][/us/pl/101/246/s208], Feb. 16, 1990, [104 Stat. 53][/us/stat/104/53]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIV, § 2412, Oct. 21, 1998, [112 Stat. 2681–832][/us/stat/112/2681-832].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title VIII, § 810, as added [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 304(e), Aug. 24, 1982, [96 Stat. 293][/us/stat/96/293]; amended [Pub. L. 100–204, title II][/us/pl/100/204/tII], § 203, Dec. 22, 1987, [101 Stat. 1373][/us/stat/101/1373]; [Pub. L. 101–246, title II][/us/pl/101/246/tII], § 208, Feb. 16, 1990, [104 Stat. 53][/us/stat/104/53]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXIV, § 2412, Oct. 21, 1998, [112 Stat. 2681–832][/us/stat/112/2681-832].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
-[/us/pl/97/241/s304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs304%2Fe
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F293
-[/us/pl/100/204/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs203
+[/us/pl/100/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtII
 [/us/stat/101/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1373
-[/us/pl/101/246/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs208
+[/us/pl/101/246/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtII
 [/us/stat/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F53
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-832
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527

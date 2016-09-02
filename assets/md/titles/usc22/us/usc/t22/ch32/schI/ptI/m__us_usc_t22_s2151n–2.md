@@ -47,7 +47,7 @@
 
             Of the amount authorized to be available to the Fund under paragraph (1) for fiscal year 2003, $500,000 is authorized to be available to advance the extraordinary work and values of Father John Kaiser with respect to solving ethnic conflict and promoting government accountability and respect for human rights. The amount made available under this paragraph may be referred to as the “Father John Kaiser Memorial Fund”.
 
-([Pub. L. 107–228, div. A, title VI, § 664][/us/pl/107/228/s664], Sept. 30, 2002, [116 Stat. 1406][/us/stat/116/1406].)
+([Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 664, Sept. 30, 2002, [116 Stat. 1406][/us/stat/116/1406].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Purposes__ 
 
-[Pub. L. 107–228, div. A, title VI, § 662][/us/pl/107/228/s662], Sept. 30, 2002, [116 Stat. 1405][/us/stat/116/1405], provided that: 
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 662, Sept. 30, 2002, [116 Stat. 1405][/us/stat/116/1405], provided that: 
 
 > “The purposes of this subtitle \[subtitle E (§§ 661–665) of title VI of div. A of [Pub. L. 107–228][/us/pl/107/228], see Short Title of 2002 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\] are the following:
 
@@ -78,12 +78,12 @@
 
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2151n/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fe
-[/us/pl/107/228/s664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs664
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1406
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/107/228/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs662
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1405
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

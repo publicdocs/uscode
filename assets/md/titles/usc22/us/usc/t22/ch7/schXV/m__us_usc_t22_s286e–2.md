@@ -69,43 +69,43 @@
 
         In this section, the term “appropriate congressional committees” means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives.
 
-([July 31, 1945, ch. 339, § 17][/us/act/1945-07-31/ch339/s17], as added [Pub. L. 87–490, § 1][/us/pl/87/490/s1], June 19, 1962, [76 Stat. 105][/us/stat/76/105]; amended [Pub. L. 94–564, § 4][/us/pl/94/564/s4], Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title VIII, § 802(a)(1)–(3)\], Nov. 30, 1983, [97 Stat. 1268][/us/stat/97/1268]; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 609\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224; [Pub. L. 111–32, title XIV, § 1401][/us/pl/111/32/s1401], June 24, 2009, [123 Stat. 1916][/us/stat/123/1916]; [Pub. L. 111–117, div. F, title VII, § 7090(b)][/us/pl/111/117/s7090/b], (c), Dec. 16, 2009, [123 Stat. 3406][/us/stat/123/3406]; [Pub. L. 114–113, div. K, title IX, § 9001][/us/pl/114/113/s9001], Dec. 18, 2015, [129 Stat. 2829][/us/stat/129/2829].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 17, as added [Pub. L. 87–490][/us/pl/87/490], § 1, June 19, 1962, [76 Stat. 105][/us/stat/76/105]; amended [Pub. L. 94–564][/us/pl/94/564], § 4, Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661]; [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title VIII, § 802(a)(1)–(3)\], Nov. 30, 1983, [97 Stat. 1268][/us/stat/97/1268]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 609\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–224; [Pub. L. 111–32, title XIV][/us/pl/111/32/tXIV], § 1401, June 24, 2009, [123 Stat. 1916][/us/stat/123/1916]; [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7090(b), (c), Dec. 16, 2009, [123 Stat. 3406][/us/stat/123/3406]; [Pub. L. 114–113, div. K, title IX][/us/pl/114/113/dK/tIX], § 9001, Dec. 18, 2015, [129 Stat. 2829][/us/stat/129/2829].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(5). [Pub. L. 114–113, § 9001(1)][/us/pl/114/113/s9001/1], added par. (5).
+    2015—Subsec. (a)(5). [Pub. L. 114–113][/us/pl/114/113], § 9001(1), added par. (5).
 
-    Subsec. (b). [Pub. L. 114–113, § 9001(2)][/us/pl/114/113/s9001/2], inserted before period at end of pars. (1) and (2) “, only to the extent that amounts available for such loans are not rescinded by an Act of Congress”.
+    Subsec. (b). [Pub. L. 114–113][/us/pl/114/113], § 9001(2), inserted before period at end of pars. (1) and (2) “, only to the extent that amounts available for such loans are not rescinded by an Act of Congress”.
 
-    Subsec. (e). [Pub. L. 114–113, § 9001(3)][/us/pl/114/113/s9001/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–113][/us/pl/114/113], § 9001(3), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 114–113, § 9001(4)][/us/pl/114/113/s9001/4], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–113][/us/pl/114/113], § 9001(4), added subsec. (f).
 
-    2009—Subsec. (a). [Pub. L. 111–32, § 1401(1)][/us/pl/111/32/s1401/1], designated existing provisions as par. (1) and added par. (2).
+    2009—Subsec. (a). [Pub. L. 111–32][/us/pl/111/32], § 1401(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (a)(2). [Pub. L. 111–117, § 7090(c)][/us/pl/111/117/s7090/c], substituted “remains not greater than 20 percent, which approximates the United States share as of June 24, 2009” for “is representative of its share as of the date of the enactment of this Act”.
+    Subsec. (a)(2). [Pub. L. 111–117][/us/pl/111/117], § 7090(c), substituted “remains not greater than 20 percent, which approximates the United States share as of June 24, 2009” for “is representative of its share as of the date of the enactment of this Act”.
 
-    Subsec. (a)(3), (4). [Pub. L. 111–117, § 7090(b)][/us/pl/111/117/s7090/b], added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 111–117][/us/pl/111/117], § 7090(b), added pars. (3) and (4).
 
-    Subsec. (b). [Pub. L. 111–32, § 1401(2)][/us/pl/111/32/s1401/2], designated existing provisions as par. (1), inserted “subsection (a)(1) of” after “pursuant to”, and added par. (2).
+    Subsec. (b). [Pub. L. 111–32][/us/pl/111/32], § 1401(2), designated existing provisions as par. (1), inserted “subsection (a)(1) of” after “pursuant to”, and added par. (2).
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 609(1)\], substituted “February 24, 1983, and January 27, 1997” for “and February 24, 1983” and “6,712,000,000” for “4,250,000,000”.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(d) \[title VI, § 609(1)\], substituted “February 24, 1983, and January 27, 1997” for “and February 24, 1983” and “6,712,000,000” for “4,250,000,000”.
 
-    Subsec. (b). [Pub. L. 105–277, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 609(2)\], substituted “6,712,000,000” for “4,250,000,000”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 101(d) \[title VI, § 609(2)\], substituted “6,712,000,000” for “4,250,000,000”.
 
-    Subsec. (d). [Pub. L. 105–277, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 609(3)\], inserted “or the Decision of January 27, 1997,” after “February 24, 1983,” and “or the New Arrangements to Borrow, as applicable” before period at end.
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 101(d) \[title VI, § 609(3)\], inserted “or the Decision of January 27, 1997,” after “February 24, 1983,” and “or the New Arrangements to Borrow, as applicable” before period at end.
 
-    1983—Subsec. (a). [Pub. L. 98–181, § 802(a)(1)][/us/pl/98/181/s802/a/1], substituted “decisions of January 5, 1962, and February 24, 1983, as amended in accordance with their terms” for “decision of January 5, 1962”, and “in an amount not to exceed the equivalent of 4,250,000,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts, except that prior to activation, the Secretary of the Treasury shall certify that supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the fund has fully explored other means of funding” for “not to exceed $2,000,000,000 outstanding at any one time”.
+    1983—Subsec. (a). [Pub. L. 98–181][/us/pl/98/181], § 802(a)(1), substituted “decisions of January 5, 1962, and February 24, 1983, as amended in accordance with their terms” for “decision of January 5, 1962”, and “in an amount not to exceed the equivalent of 4,250,000,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts, except that prior to activation, the Secretary of the Treasury shall certify that supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the fund has fully explored other means of funding” for “not to exceed $2,000,000,000 outstanding at any one time”.
 
-    Subsec. (b). [Pub. L. 98–181, § 802(a)(2)][/us/pl/98/181/s802/a/2], substituted “4,250,000,000 Special Drawing Rights, except that prior to activation, the Secretary of the Treasury shall certify whether supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the Fund has fully explored other means of funding” for “$2,000,000,000”.
+    Subsec. (b). [Pub. L. 98–181][/us/pl/98/181], § 802(a)(2), substituted “4,250,000,000 Special Drawing Rights, except that prior to activation, the Secretary of the Treasury shall certify whether supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the Fund has fully explored other means of funding” for “$2,000,000,000”.
 
-    Subsec. (d). [Pub. L. 98–181, § 802(a)(3)][/us/pl/98/181/s802/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–181][/us/pl/98/181], § 802(a)(3), added subsec. (d).
 
     1976—Subsec. (a). [Pub. L. 94–564][/us/pl/94/564] substituted “section 1(i)” for “section 2(i)”.
 
  __Effective Date of 2015 Amendment__ 
 
-    [Pub. L. 114–113, div. K, title IX, § 9001(3)][/us/pl/114/113/s9001/3], Dec. 18, 2015, [129 Stat. 2829][/us/stat/129/2829], provided in part that subsection (e) of this section is “effective from the first day of the next period of renewal of the NAB \[New Arrangements to Borrow\] decision after enactment of this Act \[Dec. 18, 2015\]”.
+    [Pub. L. 114–113, div. K, title IX][/us/pl/114/113/dK/tIX], § 9001(3), Dec. 18, 2015, [129 Stat. 2829][/us/stat/129/2829], provided in part that subsection (e) of this section is “effective from the first day of the next period of renewal of the NAB \[New Arrangements to Borrow\] decision after enactment of this Act \[Dec. 18, 2015\]”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -118,37 +118,37 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs17
-[/us/pl/87/490/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F490%2Fs1
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/87/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F490
 [/us/stat/76/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F105
-[/us/pl/94/564/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs4
-[/us/stat/90/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2661
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
-[/us/stat/97/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1268
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
-[/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/111/32/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1401
-[/us/stat/123/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1916
-[/us/pl/111/117/s7090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7090%2Fb
-[/us/stat/123/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3406
-[/us/pl/114/113/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001
-[/us/stat/129/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2829
-[/us/pl/114/113/s9001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F1
-[/us/pl/114/113/s9001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F2
-[/us/pl/114/113/s9001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F3
-[/us/pl/114/113/s9001/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F4
-[/us/pl/111/32/s1401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1401%2F1
-[/us/pl/111/117/s7090/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7090%2Fc
-[/us/pl/111/117/s7090/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7090%2Fb
-[/us/pl/111/32/s1401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1401%2F2
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
-[/us/pl/98/181/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs802%2Fa%2F1
-[/us/pl/98/181/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs802%2Fa%2F2
-[/us/pl/98/181/s802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs802%2Fa%2F3
 [/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
-[/us/pl/114/113/s9001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9001%2F3
+[/us/stat/90/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2661
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
+[/us/stat/97/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1268
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
+[/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
+[/us/pl/111/32/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXIV
+[/us/stat/123/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1916
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
+[/us/stat/123/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3406
+[/us/pl/114/113/dK/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtIX
+[/us/stat/129/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2829
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
+[/us/pl/114/113/dK/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdK%2FtIX
 [/us/stat/129/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2829
 [/us/pl/94/564/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs9
 [/us/usc/t22/s286a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286a

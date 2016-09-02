@@ -25,7 +25,7 @@
 
         (2) Whoever, whether an individual, partnership, corporation, or association, uses the seal for which provision is made in this section, or any sign, insignia, or symbol in colorable imitation thereof, or the words “Peace Corps” or any combination of these or other words or characters in colorable imitation thereof, other than to designate programs authorized under this chapter, shall be fined not more than $500 or imprisoned not more than six months, or both. A violation of this subsection may be enjoined at the suit of the Attorney General, United States attorneys, or other persons duly authorized to represent the United States.
 
-([Pub. L. 87–293, title I, § 19][/us/pl/87/293/s19], Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623]; [Pub. L. 88–200, § 7][/us/pl/88/200/s7], Dec. 13, 1963, [77 Stat. 360][/us/stat/77/360].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 19, Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623]; [Pub. L. 88–200][/us/pl/88/200], § 7, Dec. 13, 1963, [77 Stat. 360][/us/stat/77/360].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/87/293/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs19
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F623
-[/us/pl/88/200/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200%2Fs7
+[/us/pl/88/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200
 [/us/stat/77/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F360
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612

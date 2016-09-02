@@ -61,7 +61,7 @@
 
         Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the Broadcasting Board of Governors of the United States Information Agency with regard to functions exercised before the effective date of this subchapter, shall be deemed to refer to the Board.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1327, Oct. 21, 1998, [112 Stat. 2681–783][/us/stat/112/2681-783].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1327, Oct. 21, 1998, [112 Stat. 2681–783][/us/stat/112/2681-783].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-783
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301

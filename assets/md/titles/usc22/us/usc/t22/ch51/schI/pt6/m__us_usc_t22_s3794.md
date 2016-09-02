@@ -41,19 +41,19 @@
 
         Action to change the rules of measurement for the Panama Canal or the rates of tolls for the use of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
 
-([Pub. L. 96–70, title I, § 1604][/us/pl/96/70/s1604], Sept. 27, 1979, [93 Stat. 490][/us/stat/93/490]; [Pub. L. 104–106, div. C, title XXXV, § 3528][/us/pl/104/106/s3528], Feb. 10, 1996, [110 Stat. 641][/us/stat/110/641].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1604, Sept. 27, 1979, [93 Stat. 490][/us/stat/93/490]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3528, Feb. 10, 1996, [110 Stat. 641][/us/stat/110/641].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 3528(1)][/us/pl/104/106/s3528/1], substituted “3791” for “3791(a)”.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 3528(1), substituted “3791” for “3791(a)”.
 
-    Subsec. (c). [Pub. L. 104–106, § 3528(2)][/us/pl/104/106/s3528/2], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.”
+    Subsec. (c). [Pub. L. 104–106][/us/pl/104/106], § 3528(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission shall publish in the Federal Register a notice of the changes in the rules of measurement or rates of tolls, as the case may be, to be recommended to the President.”
 
-    Subsec. (d). [Pub. L. 104–106, § 3528(3)][/us/pl/104/106/s3528/3], redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission.”
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 3528(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Upon publication of the notice pursuant to subsection (c) of this section, the Commission shall forward a complete record of the proceedings, with the recommendation of the Commission, to the President for his consideration. The President may approve, disapprove, or modify any or all of the changes in the rules of measurement or rates of tolls recommended by the Commission.”
 
-    Subsec. (e). [Pub. L. 104–106, § 3528(3)][/us/pl/104/106/s3528/3], struck out subsec. (e) which read as follows: “Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register.”
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 3528(3), struck out subsec. (e) which read as follows: “Rules of measurement or rates of tolls prescribed by the President pursuant to this part shall take effect on a date prescribed by the President which is not less than 30 days after the President publishes such rules or rates in the Federal Register.”
 
-    Subsec. (f). [Pub. L. 104–106, § 3528(3)][/us/pl/104/106/s3528/3], redesignated subsec. (f) as (d).
+    Subsec. (f). [Pub. L. 104–106][/us/pl/104/106], § 3528(3), redesignated subsec. (f) as (d).
 
 ----------
 
@@ -64,14 +64,14 @@
 
 [/us/usc/t22/s3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3791
 [/us/usc/t22/s3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3792
-[/us/pl/96/70/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1604
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F490
-[/us/pl/104/106/s3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3528
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F641
-[/us/pl/104/106/s3528/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3528%2F1
-[/us/pl/104/106/s3528/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3528%2F2
-[/us/pl/104/106/s3528/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3528%2F3
-[/us/pl/104/106/s3528/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3528%2F3
-[/us/pl/104/106/s3528/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3528%2F3
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 
 

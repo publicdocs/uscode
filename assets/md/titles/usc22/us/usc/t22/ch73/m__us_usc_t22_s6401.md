@@ -55,7 +55,7 @@
 
         (5) Standing for liberty and standing with the persecuted, to use and implement appropriate tools in the United States foreign policy apparatus, including diplomatic, political, commercial, charitable, educational, and cultural channels, to promote respect for religious freedom by all governments and peoples.
 
-([Pub. L. 105–292, § 2][/us/pl/105/292/s2], Oct. 27, 1998, [112 Stat. 2788][/us/stat/112/2788]; [Pub. L. 113–154, § 2][/us/pl/113/154/s2], Aug. 8, 2014, [128 Stat. 1827][/us/stat/128/1827].)
+([Pub. L. 105–292][/us/pl/105/292], § 2, Oct. 27, 1998, [112 Stat. 2788][/us/stat/112/2788]; [Pub. L. 113–154][/us/pl/113/154], § 2, Aug. 8, 2014, [128 Stat. 1827][/us/stat/128/1827].)
 
  __References in Text__ 
 
@@ -71,25 +71,25 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–71, § 1][/us/pl/114/71/s1], Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563], provided that: 
+[Pub. L. 114–71][/us/pl/114/71], § 1, Oct. 16, 2015, [129 Stat. 563][/us/stat/129/563], provided that: 
 
 > “This Act \[enacting [section 6433a of this title][/us/usc/t22/s6433a], amending sections 6435 and 6436 of this title, and enacting provisions set out as a note under section 6432 of this section\] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2015’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–75, § 1][/us/pl/112/75/s1], Dec. 23, 2011, [125 Stat. 1272][/us/stat/125/1272], provided that: 
+[Pub. L. 112–75][/us/pl/112/75], § 1, Dec. 23, 2011, [125 Stat. 1272][/us/stat/125/1272], provided that: 
 
 > “This Act \[amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under [section 6432b of this title][/us/usc/t22/s6432b]\] may be cited as the ‘United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011’.”
 
  __Short Title__ 
 
-[Pub. L. 105–292, § 1(a)][/us/pl/105/292/s1/a], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], provided that: 
+[Pub. L. 105–292][/us/pl/105/292], § 1(a), Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], provided that: 
 
 > “This Act \[enacting this chapter and [section 4028 of this title][/us/usc/t22/s4028], amending sections 262d, 2151n, 2304, 2452, 3965, 4013, 4028, and 6202 of this title, sections 1157 and 1182 of Title 8, Aliens and Nationality, and [section 402 of Title 50][/us/usc/t50/s402], War and National Defense, and enacting provisions set out as notes under [section 2151n of this title][/us/usc/t22/s2151n] and [section 1182 of Title 8][/us/usc/t8/s1182]\] may be cited as the ‘International Religious Freedom Act of 1998’.”
 
  __Findings Relating to__  __[__  __Pub. L. 113–154__  __][/us/pl/113/154]__ 
 
-[Pub. L. 113–154, § 1][/us/pl/113/154/s1], Aug. 8, 2014, [128 Stat. 1827][/us/stat/128/1827], provided that: 
+[Pub. L. 113–154][/us/pl/113/154], § 1, Aug. 8, 2014, [128 Stat. 1827][/us/stat/128/1827], provided that: 
 
 > “Congress finds the following:
 
@@ -109,9 +109,9 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/105/292/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs2
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2788
-[/us/pl/113/154/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154%2Fs2
+[/us/pl/113/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154
 [/us/stat/128/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1827
 [/us/stat/110/4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4483
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -121,20 +121,20 @@
 [/us/stat/91/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1067
 [/us/usc/t22/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs261
 [/us/pl/113/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154
-[/us/pl/114/71/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs1
+[/us/pl/114/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71
 [/us/stat/129/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F563
 [/us/usc/t22/s6433a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433a
-[/us/pl/112/75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs1
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/stat/125/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1272
 [/us/usc/t22/s6432b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432b
-[/us/pl/105/292/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs1%2Fa
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787
 [/us/usc/t22/s4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4028
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/usc/t22/s2151n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/pl/113/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154
-[/us/pl/113/154/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154%2Fs1
+[/us/pl/113/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F154
 [/us/stat/128/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1827
 
 

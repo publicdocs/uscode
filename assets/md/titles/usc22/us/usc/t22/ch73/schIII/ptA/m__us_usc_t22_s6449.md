@@ -25,7 +25,7 @@
 
         Upon the determination by the President, in consultation with the Commission, and certification to Congress that the foreign government has ceased or taken substantial and verifiable steps to cease the particularly severe violations of religious freedom.
 
-([Pub. L. 105–292, title IV, § 409][/us/pl/105/292/s409], Oct. 27, 1998, [112 Stat. 2809][/us/stat/112/2809].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 409, Oct. 27, 1998, [112 Stat. 2809][/us/stat/112/2809].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs409
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2809
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787

@@ -17,7 +17,7 @@
 
     The United States Governor of the Bank is authorized to agree to an amendment to the articles of agreement of the Bank to permit the Bank to make, participate in, or guarantee loans to the International Finance Corporation for use in the lending operations of the latter.
 
-([July 31, 1945, ch. 339, § 21][/us/act/1945-07-31/ch339/s21], as added [Pub. L. 89–126, § 1(3)][/us/pl/89/126/s1/3], Aug. 14, 1965, [79 Stat. 519][/us/stat/79/519].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 21, as added [Pub. L. 89–126][/us/pl/89/126], § 1(3), Aug. 14, 1965, [79 Stat. 519][/us/stat/79/519].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs21
-[/us/pl/89/126/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F126%2Fs1%2F3
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/89/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F126
 [/us/stat/79/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F519
 
 

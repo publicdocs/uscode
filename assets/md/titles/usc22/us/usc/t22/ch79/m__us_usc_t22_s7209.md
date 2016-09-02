@@ -29,7 +29,7 @@
 
             In this subsection, the term “tourist activities” means any activity with respect to travel to, from, or within Cuba that is not expressly authorized in subsection (a) of this section, in any of paragraphs (1) through (12) of section 515.560 of title 31, Code of Federal Regulations, or in any section referred to in any of such paragraphs (1) through (12) (as such sections were in effect on June 1, 2000).
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 910\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–71; [Pub. L. 111–8, div. D, title VI, § 620][/us/pl/111/8/s620], Mar. 11, 2009, [123 Stat. 677][/us/stat/123/677].)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 910\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–71; [Pub. L. 111–8, div. D, title VI][/us/pl/111/8/dD/tVI], § 620, Mar. 11, 2009, [123 Stat. 677][/us/stat/123/677].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
-[/us/pl/111/8/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs620
+[/us/pl/111/8/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVI
 [/us/stat/123/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F677
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 

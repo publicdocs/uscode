@@ -31,7 +31,7 @@
 
         (3) If the Director disapproves the determination not to comply with such request, the Endowment shall comply with such request.
 
-([Pub. L. 98–164, title V, § 506][/us/pl/98/164/s506], as added [Pub. L. 99–93, title II, § 210(a)][/us/pl/99/93/s210/a], Aug. 16, 1985, [99 Stat. 432][/us/stat/99/432].)
+([Pub. L. 98–164, title V][/us/pl/98/164/tV], § 506, as added [Pub. L. 99–93, title II][/us/pl/99/93/tII], § 210(a), Aug. 16, 1985, [99 Stat. 432][/us/stat/99/432].)
 
  __Transfer of Functions__ 
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/98/164/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs506
-[/us/pl/99/93/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs210%2Fa
+[/us/pl/98/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtV
+[/us/pl/99/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtII
 [/us/stat/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F432
 
 

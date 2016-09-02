@@ -39,7 +39,7 @@
 
         (4) export control and border assistance under part XI of subchapter I of this chapter or the FREEDOM Support Act ([22 U.S.C. 5801][/us/usc/t22/s5801] et seq.).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 586, formerly § 585, as added [Pub. L. 106–280, title III, § 301][/us/pl/106/280/s301], Oct. 6, 2000, [114 Stat. 852][/us/stat/114/852]; renumbered § 586 and amended [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228], §§ 1301(a), 1303(1), Sept. 30, 2002, [116 Stat. 1435][/us/stat/116/1435], 1436.)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 586, formerly § 585, as added [Pub. L. 106–280, title III][/us/pl/106/280/tIII], § 301, Oct. 6, 2000, [114 Stat. 852][/us/stat/114/852]; renumbered § 586 and amended [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], §§ 1301(a), 1303(1), Sept. 30, 2002, [116 Stat. 1435][/us/stat/116/1435], 1436.)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–228, § 1301(a)(1)][/us/pl/107/228/s1301/a/1], substituted “$162,000,000 for fiscal year 2003” for “$129,000,000 for fiscal year 2001 and $142,000,000 for fiscal year 2002”.
+    2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228], § 1301(a)(1), substituted “$162,000,000 for fiscal year 2003” for “$129,000,000 for fiscal year 2001 and $142,000,000 for fiscal year 2002”.
 
-    Subsec. (c). [Pub. L. 107–228, § 1301(a)(2)][/us/pl/107/228/s1301/a/2], struck out “fiscal year 2001” before “appropriations” in heading and substituted “2002” for “2001” in text.
+    Subsec. (c). [Pub. L. 107–228][/us/pl/107/228], § 1301(a)(2), struck out “fiscal year 2001” before “appropriations” in heading and substituted “2002” for “2001” in text.
 
  __Delegation of Functions__ 
 
@@ -66,17 +66,17 @@
 
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/280/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs301
+[/us/pl/106/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtIII
 [/us/stat/114/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F852
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1435
 [/us/pl/107/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F115
 [/us/stat/115/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2118
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511
 [/us/stat/106/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3320
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
-[/us/pl/107/228/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1301%2Fa%2F1
-[/us/pl/107/228/s1301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1301%2Fa%2F2
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 
 

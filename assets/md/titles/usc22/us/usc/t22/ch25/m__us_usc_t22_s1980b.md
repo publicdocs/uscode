@@ -31,7 +31,7 @@
 
         It is the sense of the Congress that any action taken by any Federal agency under subsection (b) should be commensurate with any conditions certified by the Secretary of State under subsection (a).
 
-([Aug. 27, 1954, ch. 1018, § 12][/us/act/1954-08-27/ch1018/s12], as added [Pub. L. 104–43, title IV, § 402(b)][/us/pl/104/43/s402/b], Nov. 3, 1995, [109 Stat. 390][/us/stat/109/390].)
+([Aug. 27, 1954, ch. 1018][/us/act/1954-08-27/ch1018], § 12, as added [Pub. L. 104–43, title IV][/us/pl/104/43/tIV], § 402(b), Nov. 3, 1995, [109 Stat. 390][/us/stat/109/390].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1018/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018%2Fs12
-[/us/pl/104/43/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs402%2Fb
+[/us/act/1954-08-27/ch1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1018
+[/us/pl/104/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIV
 [/us/stat/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F390
 
 

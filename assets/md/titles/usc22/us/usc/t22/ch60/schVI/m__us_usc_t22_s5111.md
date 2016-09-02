@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t22/ch60/schVI/m__us_usc_t22_ch60_schVI.md) | [Next](./../../../../..//us/usc/t22/ch60/schVI/m__us_usc_t22_s5112.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5111)
 
-## § 5111. Repealed. [Pub. L. 103–149, § 4(a)(2)][/us/pl/103/149/s4/a/2], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]
+## § 5111. Repealed. [Pub. L. 103–149][/us/pl/103/149], § 4(a)(2), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]
 
-    Section, [Pub. L. 99–440, title VI, § 601][/us/pl/99/440/s601], Oct. 2, 1986, [100 Stat. 1112][/us/stat/100/1112], authorized President to issue rules, regulations, licenses, and orders as necessary to carry out this chapter.
+    Section, [Pub. L. 99–440, title VI][/us/pl/99/440/tVI], § 601, Oct. 2, 1986, [100 Stat. 1112][/us/stat/100/1112], authorized President to issue rules, regulations, licenses, and orders as necessary to carry out this chapter.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/103/149/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F2
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
-[/us/pl/99/440/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs601
+[/us/pl/99/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2FtVI
 [/us/stat/100/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1112
 [/us/pl/103/149/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F2
 [/us/usc/t22/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5001

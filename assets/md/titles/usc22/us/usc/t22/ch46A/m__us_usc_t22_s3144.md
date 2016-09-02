@@ -41,7 +41,7 @@
 
         (2) The Director of the Office of Management and Budget shall be responsible for the implementation of the exchange of information under this Act between the Bureau of Economic Analysis and the Bureau of Labor Statistics, and shall resolve any questions on access to information, data, or methodology that may arise between the Bureau of Economic Analysis and the Bureau of Labor Statistics, except that the Director shall not construe this section in a manner which would prevent the augmentation and improvement of the quality of international data collected under the International Investment and Trade in Services Survey Act \[[22 U.S.C. 3101][/us/usc/t22/s3101] et seq.\].
 
-([Pub. L. 101–533, § 8][/us/pl/101/533/s8], Nov. 7, 1990, [104 Stat. 2350][/us/stat/104/2350].)
+([Pub. L. 101–533][/us/pl/101/533], § 8, Nov. 7, 1990, [104 Stat. 2350][/us/stat/104/2350].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t22/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3101
 [/us/usc/t22/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3101
 [/us/usc/t22/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3101
-[/us/pl/101/533/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs8
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2350
 [/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2344

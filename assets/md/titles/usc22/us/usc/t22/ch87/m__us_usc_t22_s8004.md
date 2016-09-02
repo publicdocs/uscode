@@ -17,7 +17,7 @@
 
     Nothing in this chapter constitutes authority for any action in violation of an obligation of the United States under the NPT.
 
-([Pub. L. 109–401, title I, § 105][/us/pl/109/401/s105], Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 105, Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs105
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2738
 [/us/pl/109/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401
 [/us/stat/120/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2726

@@ -51,7 +51,7 @@
 
         The results of the study conducted pursuant to paragraph (6) shall be reported to the appropriate congressional committees within 12 months after October 28, 1992.
 
-([Pub. L. 102–549, title III, § 302][/us/pl/102/549/s302], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
+([Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 302, Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658].)
 
  __Codification__ 
 
@@ -59,17 +59,17 @@
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–549, title III, § 301][/us/pl/102/549/s301], Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658], provided that: 
+[Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 301, Oct. 28, 1992, [106 Stat. 3658][/us/stat/106/3658], provided that: 
 
 > “This title \[enacting this section and sections 2421b to 2421e of this title and provisions set out as notes below\] may be cited as the ‘Aid, Trade, and Competitiveness Act of 1992’.”
 
  __Reports to Congress on Capital Projects__ 
 
-    [Pub. L. 102–549, title III, § 305][/us/pl/102/549/s305], Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660], directed President, not later than May 1, 1993, to submit to Congress a report describing the extent to which United States Government resources have been expended specifically to support specified projects in developing countries and countries making the transition from nonmarket to market economies, the extent to which the activities of the United States Government have been coordinated, and the extent to which United States Government capital projects and tied-aid credit programs have affected United States exports.
+    [Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 305, Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660], directed President, not later than May 1, 1993, to submit to Congress a report describing the extent to which United States Government resources have been expended specifically to support specified projects in developing countries and countries making the transition from nonmarket to market economies, the extent to which the activities of the United States Government have been coordinated, and the extent to which United States Government capital projects and tied-aid credit programs have affected United States exports.
 
  __Report on Feasibility of AID Credit Guarantees To Finance Capital Projects__ 
 
-    [Pub. L. 102–549, title III, § 307][/us/pl/102/549/s307], Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660], directed President, not later than May 1, 1993, to submit to Committee on Foreign Affairs and Committee on Appropriations of House of Representatives and Committee on Foreign Relations and Committee on Appropriations of Senate a report on feasibility of allowing AID to offer credit guarantees for financing of capital projects.
+    [Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 307, Oct. 28, 1992, [106 Stat. 3660][/us/stat/106/3660], directed President, not later than May 1, 1993, to submit to Committee on Foreign Affairs and Committee on Appropriations of House of Representatives and Committee on Foreign Relations and Committee on Appropriations of Senate a report on feasibility of allowing AID to offer credit guarantees for financing of capital projects.
 
 ----------
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/pl/102/549/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs302
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
-[/us/pl/102/549/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs301
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
-[/us/pl/102/549/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs305
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3660
-[/us/pl/102/549/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs307
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3660
 
 

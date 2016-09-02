@@ -101,7 +101,7 @@
 
         The Director of the Peace Corps shall make available to the Council such personnel, administrative support services, and technical assistance as are necessary to carry out its functions effectively.
 
-([Pub. L. 87–293, title I, § 12][/us/pl/87/293/s12], as added [Pub. L. 99–83, title XI, § 1104(a)][/us/pl/99/83/s1104/a], Aug. 8, 1985, [99 Stat. 273][/us/stat/99/273].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 12, as added [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1104(a), Aug. 8, 1985, [99 Stat. 273][/us/stat/99/273].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2511, [Pub. L. 87–293, title I, § 12][/us/pl/87/293/s12], Sept. 22, 1961, [75 Stat. 619][/us/stat/75/619], established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by [Pub. L. 92–352, title IV, § 403][/us/pl/92/352/s403], July 13, 1972, [86 Stat. 495][/us/stat/86/495], effective 90 days after July 13, 1972.
+    A prior section 2511, [Pub. L. 87–293, title I][/us/pl/87/293/tI], § 12, Sept. 22, 1961, [75 Stat. 619][/us/stat/75/619], established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by [Pub. L. 92–352, title IV][/us/pl/92/352/tIV], § 403, July 13, 1972, [86 Stat. 495][/us/stat/86/495], effective 90 days after July 13, 1972.
 
  __Effective Date__ 
 
@@ -125,7 +125,7 @@
 
  __Termination of Similar Advisory Body__ 
 
-[Pub. L. 99–83, title XI, § 1104(b)][/us/pl/99/83/s1104/b], Aug. 8, 1985, [99 Stat. 275][/us/stat/99/275], provided that: 
+[Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1104(b), Aug. 8, 1985, [99 Stat. 275][/us/stat/99/275], provided that: 
 
 > “Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\].”
 
@@ -137,15 +137,15 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/87/293/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs12
-[/us/pl/99/83/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1104%2Fa
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F273
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
-[/us/pl/87/293/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs12
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F619
-[/us/pl/92/352/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs403
+[/us/pl/92/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2FtIV
 [/us/stat/86/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F495
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
@@ -153,7 +153,7 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/99/83/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1104%2Fb
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F275
 
 

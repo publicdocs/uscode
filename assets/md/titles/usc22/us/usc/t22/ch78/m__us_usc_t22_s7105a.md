@@ -69,7 +69,7 @@
 
         (2) evaluations of emerging problems or global trends.
 
-([Pub. L. 106–386, div. A, § 107A][/us/pl/106/386/s107A], as added [Pub. L. 110–457, title I, § 105][/us/pl/110/457/s105], Dec. 23, 2008, [122 Stat. 5047][/us/stat/122/5047].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 107A, as added [Pub. L. 110–457, title I][/us/pl/110/457/tI], § 105, Dec. 23, 2008, [122 Stat. 5047][/us/stat/122/5047].)
 
  __References in Text__ 
 
@@ -88,8 +88,8 @@
 
 [/us/usc/t22/s7107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7107%2Fb
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/386/s107A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs107A
-[/us/pl/110/457/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs105
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5047
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1464

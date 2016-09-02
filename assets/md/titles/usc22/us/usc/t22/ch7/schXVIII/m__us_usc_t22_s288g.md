@@ -17,7 +17,7 @@
 
     Under such terms and conditions as he shall determine, the President is hereby authorized to extend, or to enter into an agreement extending, to the representatives of member states (other than the United States) to the Organization of American States and to permanent observers to the Organization of American States, and to members of the staffs of said representatives and permanent observers, the same privileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by diplomatic envoys accredited to the United States.
 
-([July 10, 1952, ch. 628][/us/act/1952-07-10/ch628], [66 Stat. 516][/us/stat/66/516]; [Pub. L. 93–149, § 1(b)][/us/pl/93/149/s1/b], Nov. 7, 1973, [87 Stat. 560][/us/stat/87/560].)
+([July 10, 1952, ch. 628][/us/act/1952-07-10/ch628], [66 Stat. 516][/us/stat/66/516]; [Pub. L. 93–149][/us/pl/93/149], § 1(b), Nov. 7, 1973, [87 Stat. 560][/us/stat/87/560].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1952-07-10/ch628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch628
 [/us/stat/66/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F516
-[/us/pl/93/149/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F149%2Fs1%2Fb
+[/us/pl/93/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F149
 [/us/stat/87/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F560
 [/us/pl/93/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F149
 [/us/stat/87/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F560

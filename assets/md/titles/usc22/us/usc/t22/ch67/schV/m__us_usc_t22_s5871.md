@@ -33,7 +33,7 @@
 
         including discussions relating to technical evaluation of such hardware, technology, or service.
 
-([Pub. L. 102–511, title VI, § 601][/us/pl/102/511/s601], Oct. 24, 1992, [106 Stat. 3346][/us/stat/106/3346].)
+([Pub. L. 102–511, title VI][/us/pl/102/511/tVI], § 601, Oct. 24, 1992, [106 Stat. 3346][/us/stat/106/3346].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/511/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs601
+[/us/pl/102/511/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtVI
 [/us/stat/106/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3346
 
 

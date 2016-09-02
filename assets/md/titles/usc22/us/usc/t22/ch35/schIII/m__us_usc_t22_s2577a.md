@@ -37,7 +37,7 @@
 
         (3) The Agency shall provide detailed information on the activities pursuant to this section in its annual report to the Congress.
 
-([Pub. L. 101–216, title I, § 105][/us/pl/101/216/s105], Dec. 11, 1989, [103 Stat. 1854][/us/stat/103/1854].)
+([Pub. L. 101–216, title I][/us/pl/101/216/tI], § 105, Dec. 11, 1989, [103 Stat. 1854][/us/stat/103/1854].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/101/216/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F216%2Fs105
+[/us/pl/101/216/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F216%2FtI
 [/us/stat/103/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1854
 
 

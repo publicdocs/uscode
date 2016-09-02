@@ -127,7 +127,7 @@
 
         This section shall apply with respect to prohibited activities which occur on or after the date this subchapter takes effect.
 
-([Pub. L. 103–236, title VIII, § 824][/us/pl/103/236/s824], Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 104–164, title I, § 157(b)][/us/pl/104/164/s157/b], July 21, 1996, [110 Stat. 1440][/us/stat/110/1440].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 824, Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 104–164, title I][/us/pl/104/164/tI], § 157(b), July 21, 1996, [110 Stat. 1440][/us/stat/110/1440].)
 
  __References in Text__ 
 
@@ -135,11 +135,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–164, § 157(b)(1)][/us/pl/104/164/s157/b/1], struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
+    1996—Subsec. (c). [Pub. L. 104–164][/us/pl/104/164], § 157(b)(1), struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
 
-    Subsec. (e). [Pub. L. 104–164, § 157(b)(2)][/us/pl/104/164/s157/b/2], (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
+    Subsec. (e). [Pub. L. 104–164][/us/pl/104/164], § 157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
 
-    Subsecs. (f) to (k). [Pub. L. 104–164, § 157(b)(3)][/us/pl/104/164/s157/b/3], redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
+    Subsecs. (f) to (k). [Pub. L. 104–164][/us/pl/104/164], § 157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
 
 ----------
 
@@ -148,14 +148,14 @@
 ----------
 ----------
 
-[/us/pl/103/236/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs824
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F512
-[/us/pl/104/164/s157/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs157%2Fb
+[/us/pl/104/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2FtI
 [/us/stat/110/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1440
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
-[/us/pl/104/164/s157/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs157%2Fb%2F1
-[/us/pl/104/164/s157/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs157%2Fb%2F2
-[/us/pl/104/164/s157/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164%2Fs157%2Fb%2F3
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
+[/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 
 

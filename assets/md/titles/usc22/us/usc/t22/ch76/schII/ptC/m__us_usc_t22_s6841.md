@@ -23,7 +23,7 @@
 
         Of the amounts authorized to be appropriated by subsection (a) for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
 
-([Pub. L. 106–264, title I, § 141][/us/pl/106/264/s141], Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 141, Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/264/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs141
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F758
 
 

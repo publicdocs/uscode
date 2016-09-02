@@ -37,7 +37,7 @@
 
         The Secretary of State, in conjunction with the heads of the other agencies utilizing the Foreign Service personnel system, shall implement policies and procedures to insure that Foreign Service officers and members of the Senior Foreign Service of all agencies are able to compete for chief of mission positions and have opportunities on an equal basis to compete for assignments outside their areas of specialization.
 
-([Pub. L. 96–465, title I, § 502][/us/pl/96/465/s502], Oct. 17, 1980, [94 Stat. 2093][/us/stat/94/2093]; [Pub. L. 98–164, title I, § 130(b)][/us/pl/98/164/s130/b], Nov. 22, 1983, [97 Stat. 1027][/us/stat/97/1027].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 502, Oct. 17, 1980, [94 Stat. 2093][/us/stat/94/2093]; [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 130(b), Nov. 22, 1983, [97 Stat. 1027][/us/stat/97/1027].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel__ 
 
-    [Pub. L. 98–164, title I, § 130(c)][/us/pl/98/164/s130/c], Nov. 22, 1983, [97 Stat. 1028][/us/stat/97/1028], directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by [section 130(b) of Pub. L. 98–164][/us/pl/98/164/s130/b], adding subsec. (d) of this section, prior to repeal by [Pub. L. 103–236, title I, § 139(10)][/us/pl/103/236/s139/10], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].
+    [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 130(c), Nov. 22, 1983, [97 Stat. 1028][/us/stat/97/1028], directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by [section 130(b) of Pub. L. 98–164][/us/pl/98/164/s130/b], adding subsec. (d) of this section, prior to repeal by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(10), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].
 
 ----------
 
@@ -63,19 +63,19 @@
 ----------
 
 [/us/usc/t22/s3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3981
-[/us/pl/96/465/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs502
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2093
-[/us/pl/98/164/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs130%2Fb
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1027
 [/us/usc/t22/s3902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3902%2Fa%2F3
 [/us/usc/t22/s3902/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3902%2F3
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/98/164/s130/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs130%2Fc
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1028
 [/us/pl/98/164/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs130%2Fb
-[/us/pl/103/236/s139/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F10
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
 
 

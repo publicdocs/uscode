@@ -19,7 +19,7 @@
 
     (b) Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
-([Pub. L. 89–369, § 7][/us/pl/89/369/s7], Mar. 16, 1966, [80 Stat. 72][/us/stat/80/72].)
+([Pub. L. 89–369][/us/pl/89/369], § 7, Mar. 16, 1966, [80 Stat. 72][/us/stat/80/72].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/89/369/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs7
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/stat/80/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F72
 
 

@@ -35,7 +35,7 @@
 
         Amounts deposited in the fund shall be available for expenditure to make separation payments to foreign national employees in countries in which such pay is legally authorized.
 
-([Pub. L. 102–138, title I, § 151][/us/pl/102/138/s151], Oct. 28, 1991, [105 Stat. 672][/us/stat/105/672].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 151, Oct. 28, 1991, [105 Stat. 672][/us/stat/105/672].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs151
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F672
 
 

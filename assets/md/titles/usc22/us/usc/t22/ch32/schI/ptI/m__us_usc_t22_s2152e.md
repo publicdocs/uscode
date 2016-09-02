@@ -41,7 +41,7 @@
 
             Grants and contracts provided under this section shall be carried out through United States organizations with expertise in the areas described in paragraph (1), including the American Society of Testing Materials, the Underwriters Laboratories, the American Society of Mechanical Engineers, the American Society of Civil Engineers, the American Society of Heating, Refrigeration, and Air Conditioning Engineers, the International Association of Plumbing and Mechanical Officials, the International Code Council, and the National Fire Protection Association.
 
-([Pub. L. 107–228, div. A, title VI, § 688][/us/pl/107/228/s688], Sept. 30, 2002, [116 Stat. 1413][/us/stat/116/1413].)
+([Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 688, Sept. 30, 2002, [116 Stat. 1413][/us/stat/116/1413].)
 
  __Codification__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/107/228/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs688
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1413
 
 

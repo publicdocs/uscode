@@ -17,7 +17,7 @@
 
     An appropriation of $120,000 annually is authorized, $60,000 of which shall be for the House delegation and $60,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States group of the Mexico-United States Interparliamentary group for each fiscal year for which an appropriation is made, the House and Senate portions of such appropriation to be disbursed on vouchers to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation, respectively.
 
-([Pub. L. 86–420, § 2][/us/pl/86/420/s2], Apr. 9, 1960, [74 Stat. 40][/us/stat/74/40]; [Pub. L. 94–350, title I, § 118(b)][/us/pl/94/350/s118/b], July 12, 1976, [90 Stat. 827][/us/stat/90/827]; [Pub. L. 101–515, title III, § 304(c)][/us/pl/101/515/s304/c], Nov. 5, 1990, [104 Stat. 2129][/us/stat/104/2129]; [Pub. L. 103–236, title V, § 502(a)(1)][/us/pl/103/236/s502/a/1], Apr. 30, 1994, [108 Stat. 461][/us/stat/108/461]; [Pub. L. 107–77, title IV, § 408(b)(2)][/us/pl/107/77/s408/b/2], Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].)
+([Pub. L. 86–420][/us/pl/86/420], § 2, Apr. 9, 1960, [74 Stat. 40][/us/stat/74/40]; [Pub. L. 94–350, title I][/us/pl/94/350/tI], § 118(b), July 12, 1976, [90 Stat. 827][/us/stat/90/827]; [Pub. L. 101–515, title III][/us/pl/101/515/tIII], § 304(c), Nov. 5, 1990, [104 Stat. 2129][/us/stat/104/2129]; [Pub. L. 103–236, title V][/us/pl/103/236/tV], § 502(a)(1), Apr. 30, 1994, [108 Stat. 461][/us/stat/108/461]; [Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 408(b)(2), Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].)
 
  __Amendments__ 
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/86/420/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F420%2Fs2
+[/us/pl/86/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F420
 [/us/stat/74/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F40
-[/us/pl/94/350/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs118%2Fb
+[/us/pl/94/350/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtI
 [/us/stat/90/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F827
-[/us/pl/101/515/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs304%2Fc
+[/us/pl/101/515/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtIII
 [/us/stat/104/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2129
-[/us/pl/103/236/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs502%2Fa%2F1
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F461
-[/us/pl/107/77/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs408%2Fb%2F2
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
 [/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

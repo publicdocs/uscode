@@ -17,15 +17,15 @@
 
     In order to further the goal of the Peace Corps, as set forth in [section 2501 of this title][/us/usc/t22/s2501], relating to the promotion of a better understanding of other peoples on the part of the American people, the Director, utilizing the authorities under [section 2509(a)(1) of this title][/us/usc/t22/s2509/a/1] and other provisions of law, shall, as appropriate, encourage, facilitate, and assist activities carried out by former volunteers in furtherance of such goal and the efforts of agencies, organizations, and other individuals to support or assist in former volunteers’ carrying out such activities.
 
-([Pub. L. 87–293, title I, § 18][/us/pl/87/293/s18], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–145.)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 18, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–145.)
 
  __Prior Provisions__ 
 
-    A prior section 2517, [Pub. L. 87–293, title I, § 18][/us/pl/87/293/s18], Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623], provided that Mutual Defense Assistance Control Act of 1951 ([22 U.S.C. 1611][/us/usc/t22/s1611] et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by [Pub. L. 97–113, title VI, § 605(b)][/us/pl/97/113/s605/b], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]. The 1951 Act was superseded by the Export Administration Act of 1979 ([50 U.S.C. 4601][/us/usc/t50/s4601] et seq.).
+    A prior section 2517, [Pub. L. 87–293, title I][/us/pl/87/293/tI], § 18, Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623], provided that Mutual Defense Assistance Control Act of 1951 ([22 U.S.C. 1611][/us/usc/t22/s1611] et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by [Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 605(b), Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]. The 1951 Act was superseded by the Export Administration Act of 1979 ([50 U.S.C. 4601][/us/usc/t50/s4601] et seq.).
 
  __Paul D. Coverdell World Wise Schools Program__ 
 
-[Pub. L. 106–570, title VI][/us/pl/106/570], Dec. 27, 2000, [114 Stat. 3051][/us/stat/114/3051], as amended by [Pub. L. 107–21, § 2][/us/pl/107/21/s2], July 26, 2001, [115 Stat. 194][/us/stat/115/194], provided that:
+[Pub. L. 106–570, title VI][/us/pl/106/570/tVI], Dec. 27, 2000, [114 Stat. 3051][/us/stat/114/3051], as amended by [Pub. L. 107–21][/us/pl/107/21], § 2, July 26, 2001, [115 Stat. 194][/us/stat/115/194], provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
@@ -67,7 +67,7 @@
 
  __Paul D. Coverdell Fellows Program__ 
 
-[Pub. L. 106–309, title IV, § 408][/us/pl/106/309/s408], Oct. 17, 2000, [114 Stat. 1100][/us/stat/114/1100], provided that:
+[Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 408, Oct. 17, 2000, [114 Stat. 1100][/us/stat/114/1100], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -104,21 +104,21 @@
 
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t22/s2509/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2509%2Fa%2F1
-[/us/pl/87/293/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs18
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/87/293/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs18
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F623
 [/us/usc/t22/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1611
-[/us/pl/97/113/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs605%2Fb
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1543
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
-[/us/pl/106/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570
+[/us/pl/106/570/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570%2FtVI
 [/us/stat/114/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3051
-[/us/pl/107/21/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F21%2Fs2
+[/us/pl/107/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F21
 [/us/stat/115/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F194
 [/us/usc/t22/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2517
-[/us/pl/106/309/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs408
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1100
 [/us/usc/t22/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2517
 

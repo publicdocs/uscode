@@ -17,7 +17,7 @@
 
     All fees, official or unofficial, received by any officer in the Consular Service for services rendered in connection with the duties of his office or as a consular officer, including fees for notarial services, and fees for taking depositions, executing commissions or letters rogatory, settling estates, receiving or paying out moneys, caring for or disposing of property, shall be accounted for and paid into the Treasury of the United States, and the sole and only compensation of such officers shall be by salaries fixed by law. And vice-consuls, in addition to such compensation as they may be entitled to receive as consuls or clerks, may receive such portion of the salaries of the consul-general or consuls for whom they act as shall be provided by regulation.
 
-([Apr. 5, 1906, ch. 1366, § 8][/us/act/1906-04-05/ch1366/s8], [34 Stat. 101][/us/stat/34/101]; [Feb. 5, 1915, ch. 23][/us/act/1915-02-05/ch23], §§ 3, 6, [38 Stat. 805][/us/stat/38/805], 806; [May 24, 1924, ch. 182, § 11][/us/act/1924-05-24/ch182/s11], [43 Stat. 142][/us/stat/43/142]; [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1131(26), [60 Stat. 1037][/us/stat/60/1037].)
+([Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 8, [34 Stat. 101][/us/stat/34/101]; [Feb. 5, 1915, ch. 23][/us/act/1915-02-05/ch23], §§ 3, 6, [38 Stat. 805][/us/stat/38/805], 806; [May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], § 11, [43 Stat. 142][/us/stat/43/142]; [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1131(26), [60 Stat. 1037][/us/stat/60/1037].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Repeals__ 
 
-    [Act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1131(26), [60 Stat. 1037][/us/stat/60/1037], cited as a credit to this section, was repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    [Act Aug. 13, 1946, ch. 957, title XI][/us/act/1946-08-13/ch957/tXI], § 1131(26), [60 Stat. 1037][/us/stat/60/1037], cited as a credit to this section, was repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
 ----------
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/act/1906-04-05/ch1366/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs8
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F101
 [/us/act/1915-02-05/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-02-05%2Fch23
 [/us/stat/38/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F805
-[/us/act/1924-05-24/ch182/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs11
+[/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
 [/us/stat/43/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F142
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1037
 [/us/usc/t22/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs99
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/act/1946-08-13/ch957/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957%2FtXI
 [/us/stat/60/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1037
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 
 

@@ -55,21 +55,21 @@
 
         (2) the actions taken by the United States Government to prevent future misuse of such equipment by that foreign country.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 484, as added [Pub. L. 99–570, title II, § 2003][/us/pl/99/570/s2003], Oct. 27, 1986, [100 Stat. 3207–61][/us/stat/100/3207-61]; amended [Pub. L. 101–623, § 7][/us/pl/101/623/s7], Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355]; [Pub. L. 102–583, § 4(f)(1)][/us/pl/102/583/s4/f/1], (2)(D), Nov. 2, 1992, [106 Stat. 4916][/us/stat/106/4916], 4917.)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 484, as added [Pub. L. 99–570, title II][/us/pl/99/570/tII], § 2003, Oct. 27, 1986, [100 Stat. 3207–61][/us/stat/100/3207-61]; amended [Pub. L. 101–623][/us/pl/101/623], § 7, Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355]; [Pub. L. 102–583][/us/pl/102/583], § 4(f)(1), (2)(D), Nov. 2, 1992, [106 Stat. 4916][/us/stat/106/4916], 4917.)
 
  __References in Text__ 
 
-    The Arms Export Control Act, referred to in subsec. (a)(3), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended. Chapters 5 and 6 of the Act are classified generally to subchapters V (§ 2795 et seq.) and VI (§ 2796 et seq.), respectively, of chapter 39 of this title. Section 61(a)(3) of the Act was redesignated section 61(a)(4), and a new section 61(a)(3) was added, by [Pub. L. 103–236, title VII, § 731(e)(2)][/us/pl/103/236/s731/e/2], (3), Apr. 30, 1994, [108 Stat. 503][/us/stat/108/503]. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
+    The Arms Export Control Act, referred to in subsec. (a)(3), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended. Chapters 5 and 6 of the Act are classified generally to subchapters V (§ 2795 et seq.) and VI (§ 2796 et seq.), respectively, of chapter 39 of this title. Section 61(a)(3) of the Act was redesignated section 61(a)(4), and a new section 61(a)(3) was added, by [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 731(e)(2), (3), Apr. 30, 1994, [108 Stat. 503][/us/stat/108/503]. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
  __Codification__ 
 
-    The text of subsecs. (a) and (b) of [section 2291h of this title][/us/usc/t22/s2291h], which were redesignated as subsecs. (b) and (c) of this section by [Pub. L. 102–583, § 4(f)(2)(D)][/us/pl/102/583/s4/f/2/D], was based on section 489(a) and (b) of [Pub. L. 87–195][/us/pl/87/195], pt. I, as added [Pub. L. 100–690, title IV, § 4507][/us/pl/100/690/s4507], Nov. 18, 1988, [102 Stat. 4286][/us/stat/102/4286]; amended [Pub. L. 102–583, § 4(f)(2)(B)][/us/pl/102/583/s4/f/2/B], (C), Nov. 2, 1992, [106 Stat. 4917][/us/stat/106/4917].
+    The text of subsecs. (a) and (b) of [section 2291h of this title][/us/usc/t22/s2291h], which were redesignated as subsecs. (b) and (c) of this section by [Pub. L. 102–583][/us/pl/102/583], § 4(f)(2)(D), was based on section 489(a) and (b) of [Pub. L. 87–195][/us/pl/87/195], pt. I, as added [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4507, Nov. 18, 1988, [102 Stat. 4286][/us/stat/102/4286]; amended [Pub. L. 102–583][/us/pl/102/583], § 4(f)(2)(B), (C), Nov. 2, 1992, [106 Stat. 4917][/us/stat/106/4917].
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–583, § 4(f)(1)][/us/pl/102/583/s4/f/1], amended section generally, substituting subsec. (a) for former text which read as follows: “Any aircraft which, at any time after October 27, 1986, are made available to a foreign country under this part, or are made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis. The requirement of this section does not apply with respect to aircraft made available to a foreign country under [section 635(b)(6)(B) of title 12][/us/usc/t12/s635/b/6/B] or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
+    1992—[Pub. L. 102–583][/us/pl/102/583], § 4(f)(1), amended section generally, substituting subsec. (a) for former text which read as follows: “Any aircraft which, at any time after October 27, 1986, are made available to a foreign country under this part, or are made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis. The requirement of this section does not apply with respect to aircraft made available to a foreign country under [section 635(b)(6)(B) of title 12][/us/usc/t12/s635/b/6/B] or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
 
-    Subsecs. (b), (c). [Pub. L. 102–583, § 4(f)(2)(D)][/us/pl/102/583/s4/f/2/D], redesignated subsecs. (a) and (b) of [section 2291h of this title][/us/usc/t22/s2291h] as subsecs. (b) and (c), respectively, of this section. See Codification note above.
+    Subsecs. (b), (c). [Pub. L. 102–583][/us/pl/102/583], § 4(f)(2)(D), redesignated subsecs. (a) and (b) of [section 2291h of this title][/us/usc/t22/s2291h] as subsecs. (b) and (c), respectively, of this section. See Codification note above.
 
     1990—[Pub. L. 101–623][/us/pl/101/623] inserted at end “The requirement of this section does not apply with respect to aircraft made available to a foreign country under [section 635(b)(6)(B) of title 12][/us/usc/t12/s635/b/6/B] or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
 
@@ -79,7 +79,7 @@
 
  __Training of Host Country Pilots__ 
 
-[Pub. L. 101–623, § 13][/us/pl/101/623/s13], Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], provided that:
+[Pub. L. 101–623][/us/pl/101/623], § 13, Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], provided that:
 
 >     “(a)  __Instruction Program__  __.—__ 
 
@@ -112,32 +112,32 @@
 [/us/usc/t22/s2777/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2777%2Fa
 [/us/usc/t22/s2291h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/570/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs2003
+[/us/pl/99/570/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtII
 [/us/stat/100/3207-61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-61
-[/us/pl/101/623/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs7
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3355
-[/us/pl/102/583/s4/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Ff%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4916
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
-[/us/pl/103/236/s731/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs731%2Fe%2F2
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F503
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h
-[/us/pl/102/583/s4/f/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Ff%2F2%2FD
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/100/690/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4507
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4286
-[/us/pl/102/583/s4/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Ff%2F2%2FB
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4917
-[/us/pl/102/583/s4/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Ff%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/usc/t12/s635/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F6%2FB
-[/us/pl/102/583/s4/f/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs4%2Ff%2F2%2FD
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/usc/t22/s2291h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291h
 [/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/usc/t12/s635/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F6%2FB
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/101/623/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs13
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3356
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291

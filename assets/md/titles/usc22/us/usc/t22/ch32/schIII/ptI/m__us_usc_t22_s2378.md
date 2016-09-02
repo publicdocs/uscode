@@ -37,7 +37,7 @@
 
         (4) an explanation of how the assistance furthers United States national interests.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620H, as added [Pub. L. 104–132, title III, § 326][/us/pl/104/132/s326], Apr. 24, 1996, [110 Stat. 1256][/us/stat/110/1256].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620H, as added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 326, Apr. 24, 1996, [110 Stat. 1256][/us/stat/110/1256].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/104/132/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs326
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1256
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

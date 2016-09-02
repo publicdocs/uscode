@@ -87,7 +87,7 @@
 
         In this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the term “multilateral development bank” means the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the African Development Bank, the African Development Fund, the Asian Development Bank, the Inter-American Development Bank, the Inter-American Investment Corporation, any other institution (other than the International Monetary Fund) specified in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2], and any subsidiary of any such institution.
 
-([Pub. L. 95–118, title XIII, § 1307][/us/pl/95/118/s1307], formerly § 1308, as added and renumbered § 1307, [Pub. L. 101–240, title V][/us/pl/101/240], §§ 521, 541(f)(4), Dec. 19, 1989, [103 Stat. 2511][/us/stat/103/2511], 2519; amended [Pub. L. 105–118, title V, § 560(b)][/us/pl/105/118/s560/b], Nov. 26, 1997, [111 Stat. 2426][/us/stat/111/2426]; [Pub. L. 108–447, div. D, title V, § 593(a)][/us/pl/108/447/s593/a], Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037].)
+([Pub. L. 95–118, title XIII][/us/pl/95/118/tXIII], § 1307, formerly § 1308, as added and renumbered § 1307, [Pub. L. 101–240, title V][/us/pl/101/240/tV], §§ 521, 541(f)(4), Dec. 19, 1989, [103 Stat. 2511][/us/stat/103/2511], 2519; amended [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 560(b), Nov. 26, 1997, [111 Stat. 2426][/us/stat/111/2426]; [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 593(a), Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037].)
 
  __References in Text__ 
 
@@ -95,15 +95,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–447, § 593(a)(1)][/us/pl/108/447/s593/a/1], added subsec. (a) and struck out former subsec. (a) which related to assessments required before favorable vote on action proposed to be taken by banks that would have a significant effect on the human environment.
+    2004—Subsec. (a). [Pub. L. 108–447][/us/pl/108/447], § 593(a)(1), added subsec. (a) and struck out former subsec. (a) which related to assessments required before favorable vote on action proposed to be taken by banks that would have a significant effect on the human environment.
 
-    Subsec. (g). [Pub. L. 108–447, § 593(a)(2)][/us/pl/108/447/s593/a/2], amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘multilateral development bank’ means any of the institutions named in [section 262m–2(b) of this title][/us/usc/t22/s262m–2/b], and the International Finance Corporation.”
+    Subsec. (g). [Pub. L. 108–447][/us/pl/108/447], § 593(a)(2), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘multilateral development bank’ means any of the institutions named in [section 262m–2(b) of this title][/us/usc/t22/s262m–2/b], and the International Finance Corporation.”
 
-    1997—Subsec. (a)(1)(A). [Pub. L. 105–118, § 560(b)(1)][/us/pl/105/118/s560/b/1], substituted “borrower” for “borrowing country”.
+    1997—Subsec. (a)(1)(A). [Pub. L. 105–118][/us/pl/105/118], § 560(b)(1), substituted “borrower” for “borrowing country”.
 
-    Subsec. (a)(2)(A). [Pub. L. 105–118, § 560(b)(2)][/us/pl/105/118/s560/b/2], struck out “country” after “borrower”.
+    Subsec. (a)(2)(A). [Pub. L. 105–118][/us/pl/105/118], § 560(b)(2), struck out “country” after “borrower”.
 
-    Subsec. (g). [Pub. L. 105–118, § 560(b)(3)][/us/pl/105/118/s560/b/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–118][/us/pl/105/118], § 560(b)(3), added subsec. (g).
 
  __Change of Name__ 
 
@@ -117,20 +117,20 @@
 ----------
 
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/pl/95/118/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1307
-[/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
+[/us/pl/95/118/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIII
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2511
-[/us/pl/105/118/s560/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs560%2Fb
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2426
-[/us/pl/108/447/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs593%2Fa
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3037
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
-[/us/pl/108/447/s593/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs593%2Fa%2F1
-[/us/pl/108/447/s593/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs593%2Fa%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t22/s262m–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%932%2Fb
-[/us/pl/105/118/s560/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs560%2Fb%2F1
-[/us/pl/105/118/s560/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs560%2Fb%2F2
-[/us/pl/105/118/s560/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs560%2Fb%2F3
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 

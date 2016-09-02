@@ -17,7 +17,7 @@
 
     This chapter may be cited as the “Foreign Service Buildings Act, 1926.”
 
-([May 7, 1926, ch. 250, § 8][/us/act/1926-05-07/ch250/s8], [44 Stat. 405][/us/stat/44/405].)
+([May 7, 1926, ch. 250][/us/act/1926-05-07/ch250], § 8, [44 Stat. 405][/us/stat/44/405].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-07/ch250/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250%2Fs8
+[/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F405
 
 

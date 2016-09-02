@@ -47,7 +47,7 @@
 
         (2) The proposals prepared pursuant to subsection (b) shall be submitted to the Congress as part of an annual authorization Act for the Department of Energy.
 
-([Pub. L. 95–242, title I, § 104][/us/pl/95/242/s104], Mar. 10, 1978, [92 Stat. 122][/us/stat/92/122].)
+([Pub. L. 95–242, title I][/us/pl/95/242/tI], § 104, Mar. 10, 1978, [92 Stat. 122][/us/stat/92/122].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t22/s3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3224
 [/us/usc/t42/s2153b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153b
 [/us/usc/t22/s3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281
-[/us/pl/95/242/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs104
+[/us/pl/95/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtI
 [/us/stat/92/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F122
 [/us/pl/95/242/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs103
 [/us/stat/92/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F122

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t22/ch60/m__us_usc_t22_ch60.md) | [Next](./../../../..//us/usc/t22/ch60/m__us_usc_t22_s5002.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5001)
 
-## § 5001. Repealed. [Pub. L. 103–149, § 4(a)(2)][/us/pl/103/149/s4/a/2], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]
+## § 5001. Repealed. [Pub. L. 103–149][/us/pl/103/149], § 4(a)(2), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]
 
-    Section, [Pub. L. 99–440, § 3][/us/pl/99/440/s3], Oct. 2, 1986, [100 Stat. 1087][/us/stat/100/1087]; [Pub. L. 99–631, § 1(a)(2)][/us/pl/99/631/s1/a/2], Nov. 7, 1986, [100 Stat. 3515][/us/stat/100/3515]; [Pub. L. 103–149, § 4(a)(3)(A)][/us/pl/103/149/s4/a/3/A], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505], defined terms for purposes of this chapter.
+    Section, [Pub. L. 99–440][/us/pl/99/440], § 3, Oct. 2, 1986, [100 Stat. 1087][/us/stat/100/1087]; [Pub. L. 99–631][/us/pl/99/631], § 1(a)(2), Nov. 7, 1986, [100 Stat. 3515][/us/stat/100/3515]; [Pub. L. 103–149][/us/pl/103/149], § 4(a)(3)(A), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505], defined terms for purposes of this chapter.
 
  __Effective Date of Repeal__ 
 
@@ -23,7 +23,7 @@
 
  __Short Title__ 
 
-    [Pub. L. 99–440, § 1][/us/pl/99/440/s1], Oct. 2, 1986, [100 Stat. 1086][/us/stat/100/1086], provided that [Pub. L. 99–440][/us/pl/99/440], which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and [section 635 of Title 12][/us/usc/t12/s635], Banks and Banking, and enacted provisions set out as a note under [section 2346d of this title][/us/usc/t22/s2346d], could be cited as the “Comprehensive Anti-Apartheid Act of 1986”, prior to repeal by [Pub. L. 103–149, § 4(a)(2)][/us/pl/103/149/s4/a/2], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505].
+    [Pub. L. 99–440][/us/pl/99/440], § 1, Oct. 2, 1986, [100 Stat. 1086][/us/stat/100/1086], provided that [Pub. L. 99–440][/us/pl/99/440], which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and [section 635 of Title 12][/us/usc/t12/s635], Banks and Banking, and enacted provisions set out as a note under [section 2346d of this title][/us/usc/t22/s2346d], could be cited as the “Comprehensive Anti-Apartheid Act of 1986”, prior to repeal by [Pub. L. 103–149][/us/pl/103/149], § 4(a)(2), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505].
 
  __Repeal of Chapter; South African Democratic Transition Support__ 
 
@@ -272,21 +272,21 @@
 ----------
 ----------
 
-[/us/pl/103/149/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F2
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
-[/us/pl/99/440/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs3
+[/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
 [/us/stat/100/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1087
-[/us/pl/99/631/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F631%2Fs1%2Fa%2F2
+[/us/pl/99/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F631
 [/us/stat/100/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3515
-[/us/pl/103/149/s4/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F3%2FA
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
 [/us/pl/103/149/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F2
-[/us/pl/99/440/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs1
+[/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
 [/us/stat/100/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1086
 [/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/usc/t22/s2346d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346d
-[/us/pl/103/149/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F2
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
 [/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1503

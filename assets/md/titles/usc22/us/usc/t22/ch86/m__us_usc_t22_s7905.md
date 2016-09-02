@@ -51,7 +51,7 @@
 
         (2) submit to the appropriate authorizing and appropriating committees of Congress a report that describes the results of the performance reviews and evaluates progress in promoting the export of greenhouse gas intensity reducing technologies and practices from the United States, including any recommendations for increasing the export of the technologies and practices.
 
-([Pub. L. 101–240, title VII, § 735][/us/pl/101/240/s735], as added [Pub. L. 109–58, title XVI, § 1611][/us/pl/109/58/s1611], Aug. 8, 2005, [119 Stat. 1115][/us/stat/119/1115].)
+([Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 735, as added [Pub. L. 109–58, title XVI][/us/pl/109/58/tXVI], § 1611, Aug. 8, 2005, [119 Stat. 1115][/us/stat/119/1115].)
 
 ----------
 
@@ -62,8 +62,8 @@
 
 [/us/usc/t22/s7902/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7902%2Fa%2F2%2FA
 [/us/usc/t22/s7904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7904
-[/us/pl/101/240/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs735
-[/us/pl/109/58/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1611
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
+[/us/pl/109/58/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXVI
 [/us/stat/119/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1115
 
 

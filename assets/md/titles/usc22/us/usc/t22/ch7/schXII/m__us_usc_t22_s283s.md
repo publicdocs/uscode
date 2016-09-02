@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall instruct the United States Executive Director of the Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country with respect to which the President has made a determination, and so notified the Secretary of the Treasury, that the government of such country has failed to take adequate steps to prevent narcotic drugs and other controlled substances (as defined by the Comprehensive Drug Abuse Prevention and Control Act of 1970 \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\]) produced or processed, in whole or in part, in such country, or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents, or from entering the United States unlawfully. Such instruction shall continue in effect until the President determines, and so notifies the Secretary of the Treasury, that the government of such country has taken adequate steps to prevent such sale or entry of narcotic drugs and other controlled substances.
 
-([Pub. L. 86–147, § 22][/us/pl/86/147/s22], as added [Pub. L. 92–246, § 2][/us/pl/92/246/s2], Mar. 10, 1972, [86 Stat. 60][/us/stat/86/60].)
+([Pub. L. 86–147][/us/pl/86/147], § 22, as added [Pub. L. 92–246][/us/pl/92/246], § 2, Mar. 10, 1972, [86 Stat. 60][/us/stat/86/60].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/86/147/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs22
-[/us/pl/92/246/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F246%2Fs2
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/92/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F246
 [/us/stat/86/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F60
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236

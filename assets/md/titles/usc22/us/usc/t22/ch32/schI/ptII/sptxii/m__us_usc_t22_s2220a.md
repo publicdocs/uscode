@@ -105,53 +105,53 @@
 
         As used in this subpart, the term “agriculturists” includes farmers, herders, and livestock producers, individuals who fish and others employed in cultivating and harvesting food resources from salt and fresh waters, individuals who cultivate trees and shrubs and harvest nontimber forest products, as well as the processors, managers, teachers, extension specialists, researchers, policymakers, and others who are engaged in the food, feed, and fiber system and its relationships to natural resources.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 296, as added [Pub. L. 94–161, title III, § 312][/us/pl/94/161/s312], Dec. 20, 1975, [89 Stat. 861][/us/stat/89/861]; amended [Pub. L. 95–424, title I, § 103(c)][/us/pl/95/424/s103/c], Oct. 6, 1978, [92 Stat. 945][/us/stat/92/945]; [Pub. L. 106–373, § 2][/us/pl/106/373/s2], Oct. 27, 2000, [114 Stat. 1427][/us/stat/114/1427].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 296, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 312, Dec. 20, 1975, [89 Stat. 861][/us/stat/89/861]; amended [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 103(c), Oct. 6, 1978, [92 Stat. 945][/us/stat/92/945]; [Pub. L. 106–373][/us/pl/106/373], § 2, Oct. 27, 2000, [114 Stat. 1427][/us/stat/114/1427].)
 
  __References in Text__ 
 
     The First Morrill Act and the Second Morrill Act, referred to in subsec. (d), refer to acts [July 2, 1862, ch. 130][/us/act/1862-07-02/ch130], [12 Stat. 503][/us/stat/12/503], and [Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], [26 Stat. 417][/us/stat/26/417], as amended, which are classified generally to subchapters I (§ 301 et seq.) and II (§ 321 et seq.), respectively, of chapter 13 of Title 7, Agriculture. For complete classification of these Acts to the Code, see Short Title notes set out under sections 301 and 321 of Title 7 and Tables.
 
-    The National Sea Grant College and Program Act, referred to in subsec. (d), is title II of [Pub. L. 89–454][/us/pl/89/454], as added [Pub. L. 89–688, § 1][/us/pl/89/688/s1], Oct. 15, 1966, [80 Stat. 998][/us/stat/80/998], as amended, which is classified generally to subchapter II (§ 1121 et seq.) of chapter 22 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1121 of Title 33][/us/usc/t33/s1121] and Tables.
+    The National Sea Grant College and Program Act, referred to in subsec. (d), is title II of [Pub. L. 89–454][/us/pl/89/454], as added [Pub. L. 89–688][/us/pl/89/688], § 1, Oct. 15, 1966, [80 Stat. 998][/us/stat/80/998], as amended, which is classified generally to subchapter II (§ 1121 et seq.) of chapter 22 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1121 of Title 33][/us/usc/t33/s1121] and Tables.
 
-    The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is [Pub. L. 103–382, title V][/us/pl/103/382], part C, Oct. 20, 1994, [108 Stat. 4048][/us/stat/108/4048], as amended, which is set out as a note under [section 301 of Title 7][/us/usc/t7/s301], Agriculture. For complete classification of this Act to the Code, see Tables.
+    The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is [Pub. L. 103–382, title V, part C][/us/pl/103/382/tV/ptC], Oct. 20, 1994, [108 Stat. 4048][/us/stat/108/4048], as amended, which is set out as a note under [section 301 of Title 7][/us/usc/t7/s301], Agriculture. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–373, § 2(a)(2)(A)][/us/pl/106/373/s2/a/2/A], in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
+    2000—Subsec. (a). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(A), in second sentence, redesignated pars. (1) to (7) as subpars. (A) to (G), respectively.
 
-    [Pub. L. 106–373, § 2(a)(1)][/us/pl/106/373/s2/a/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government’s international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in general should provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
+    [Pub. L. 106–373][/us/pl/106/373], § 2(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Congress declares that, in order to prevent famine and establish freedom from hunger, the United States should strengthen the capacities of the United States land-grant and other eligible universities in program-related agricultural institutional development and research, consistent with sections 2151a and 2151a–1 of this title, should improve their participation in the United States Government’s international efforts to apply more effective agricultural sciences to the goal of increasing world food production, and in general should provide increased and longer term support to the application of science to solving food and nutrition problems of the developing countries.”
 
-    Subsec. (a)(A). [Pub. L. 106–373, § 2(a)(2)(B)][/us/pl/106/373/s2/a/2/B], substituted “with and through the private sector in this country and to understanding processes of economic development” for “in this country”.
+    Subsec. (a)(A). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(B), substituted “with and through the private sector in this country and to understanding processes of economic development” for “in this country”.
 
-    Subsec. (a)(B). [Pub. L. 106–373, § 2(a)(2)(C)][/us/pl/106/373/s2/a/2/C], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;”.
+    Subsec. (a)(B). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;”.
 
-    Subsec. (a)(C). [Pub. L. 106–373, § 2(a)(2)(D)][/us/pl/106/373/s2/a/2/D], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
+    Subsec. (a)(C). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
 
-    Subsec. (a)(E). [Pub. L. 106–373, § 2(a)(2)(E)][/us/pl/106/373/s2/a/2/E], (H), added subpar. (E) and struck out former subpar. (E) which read as follows: “that research, teaching, and extension activities, and appropriate institutional development therefor are prime factors in increasing agricultural production abroad (as well as in the United States) and in improving food distribution, storage, and marketing;”.
+    Subsec. (a)(E). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(E), (H), added subpar. (E) and struck out former subpar. (E) which read as follows: “that research, teaching, and extension activities, and appropriate institutional development therefor are prime factors in increasing agricultural production abroad (as well as in the United States) and in improving food distribution, storage, and marketing;”.
 
-    Subsec. (a)(F). [Pub. L. 106–373, § 2(a)(2)(H)][/us/pl/106/373/s2/a/2/H], added subpar. (F). Former subpar. (F) redesignated (G).
+    Subsec. (a)(F). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(H), added subpar. (F). Former subpar. (F) redesignated (G).
 
-    Subsec. (a)(G). [Pub. L. 106–373, § 2(a)(2)(E)][/us/pl/106/373/s2/a/2/E], (G), (I), redesignated subpar. (F) as (G), substituted “and the broader economy of the United States” for “in the United States”, and struck out former subpar. (G) which read as follows: “that universities need a dependable source of Federal funding, as well as other financing, in order to expand, or in some cases to continue, their efforts to assist in increasing agricultural production in developing countries.”
+    Subsec. (a)(G). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(E), (G), (I), redesignated subpar. (F) as (G), substituted “and the broader economy of the United States” for “in the United States”, and struck out former subpar. (G) which read as follows: “that universities need a dependable source of Federal funding, as well as other financing, in order to expand, or in some cases to continue, their efforts to assist in increasing agricultural production in developing countries.”
 
-    Subsec. (a)(H), (I). [Pub. L. 106–373, § 2(a)(2)(F)][/us/pl/106/373/s2/a/2/F], (J), added subpars. (H) and (I).
+    Subsec. (a)(H), (I). [Pub. L. 106–373][/us/pl/106/373], § 2(a)(2)(F), (J), added subpars. (H) and (I).
 
-    Subsec. (b). [Pub. L. 106–373, § 2(b)][/us/pl/106/373/s2/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) contained declaration of Congress that various components had to be brought together in order to increase world food production.
+    Subsec. (b). [Pub. L. 106–373][/us/pl/106/373], § 2(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) contained declaration of Congress that various components had to be brought together in order to increase world food production.
 
-    Subsec. (c)(1). [Pub. L. 106–373, § 2(c)(1)][/us/pl/106/373/s2/c/1], substituted “each of the program components described in paragraphs (1) through (6) of subsection (b)” for “each component”.
+    Subsec. (c)(1). [Pub. L. 106–373][/us/pl/106/373], § 2(c)(1), substituted “each of the program components described in paragraphs (1) through (6) of subsection (b)” for “each component”.
 
-    Subsec. (c)(2). [Pub. L. 106–373, § 2(c)(2)(A)][/us/pl/106/373/s2/c/2/A], inserted “and public and private partners of universities” after “for the universities”.
+    Subsec. (c)(2). [Pub. L. 106–373][/us/pl/106/373], § 2(c)(2)(A), inserted “and public and private partners of universities” after “for the universities”.
 
-    Subsec. (c)(3). [Pub. L. 106–373, § 2(c)(3)][/us/pl/106/373/s2/c/3], inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
+    Subsec. (c)(3). [Pub. L. 106–373][/us/pl/106/373], § 2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
 
-    Subsec. (c)(4), (5). [Pub. L. 106–373, § 2(c)(2)(B)][/us/pl/106/373/s2/c/2/B], (4), added pars. (4) and (5).
+    Subsec. (c)(4), (5). [Pub. L. 106–373][/us/pl/106/373], § 2(c)(2)(B), (4), added pars. (4) and (5).
 
-    Subsec. (d). [Pub. L. 106–373, § 2(d)(1)][/us/pl/106/373/s2/d/1], inserted “Native American land-grant colleges as authorized under the Equity in Educational Land-Grant Status Act of 1994 ([7 U.S.C. 301][/us/usc/t7/s301] note);” after “sea-grant colleges;” in introductory provisions.
+    Subsec. (d). [Pub. L. 106–373][/us/pl/106/373], § 2(d)(1), inserted “Native American land-grant colleges as authorized under the Equity in Educational Land-Grant Status Act of 1994 ([7 U.S.C. 301][/us/usc/t7/s301] note);” after “sea-grant colleges;” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 106–373, § 2(d)(2)][/us/pl/106/373/s2/d/2], substituted “extension (including outreach)” for “extension”.
+    Subsec. (d)(1). [Pub. L. 106–373][/us/pl/106/373], § 2(d)(2), substituted “extension (including outreach)” for “extension”.
 
-    Subsec. (e). [Pub. L. 106–373, § 2(e)][/us/pl/106/373/s2/e], inserted “United States” before “Agency”.
+    Subsec. (e). [Pub. L. 106–373][/us/pl/106/373], § 2(e), inserted “United States” before “Agency”.
 
-    Subsecs. (f) to (h). [Pub. L. 106–373, § 2(f)][/us/pl/106/373/s2/f]—(h), added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 106–373][/us/pl/106/373], § 2(f)—(h), added subsecs. (f) to (h).
 
     1978—Subsecs. (f), (g). [Pub. L. 95–424][/us/pl/95/424] struck out subsecs. (f) defining “agriculture”, and (g) defining “farmers”.
 
@@ -161,7 +161,7 @@
 
  __Global Crop Diversity Trust__ 
 
-[Pub. L. 110–246, title III, § 3202][/us/pl/110/246/s3202], June 18, 2008, [122 Stat. 1836][/us/stat/122/1836], as amended by [Pub. L. 113–79, title III, § 3206][/us/pl/113/79/s3206], Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780], provided that:
+[Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3202, June 18, 2008, [122 Stat. 1836][/us/stat/122/1836], as amended by [Pub. L. 113–79, title III][/us/pl/113/79/tIII], § 3206, Feb. 7, 2014, [128 Stat. 780][/us/stat/128/780], provided that:
 
 >     “(a)  __Contribution__  __.—__ 
 
@@ -189,7 +189,7 @@
 
  __International Food Reserve__ 
 
-[Pub. L. 95–426, title VI, § 604][/us/pl/95/426/s604], Oct. 7, 1978, [92 Stat. 986][/us/stat/92/986], provided that:
+[Pub. L. 95–426, title VI][/us/pl/95/426/tVI], § 604, Oct. 7, 1978, [92 Stat. 986][/us/stat/92/986], provided that:
 
 >     “(a)
 
@@ -215,21 +215,21 @@
 
     Similar provisions were contained in the following prior authorization act:
 
-    [Pub. L. 95–105, title V, § 510][/us/pl/95/105/s510], Aug. 17, 1977, [91 Stat. 860][/us/stat/91/860].
+    [Pub. L. 95–105, title V][/us/pl/95/105/tV], § 510, Aug. 17, 1977, [91 Stat. 860][/us/stat/91/860].
 
  __Commission on Hunger and Malnutrition__ 
 
-    [Pub. L. 95–426, title VII, § 711][/us/pl/95/426/s711], Oct. 7, 1978, [92 Stat. 994][/us/stat/92/994], which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commission was to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299].
+    [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 711, Oct. 7, 1978, [92 Stat. 994][/us/stat/92/994], which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commission was to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 505(a)(2), Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299].
 
  __Settlement of Debt Owed the United States__ 
 
-[Pub. L. 94–161, title III, § 321][/us/pl/94/161/s321], Dec. 20, 1975, [89 Stat. 868][/us/stat/89/868], provided that: 
+[Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 321, Dec. 20, 1975, [89 Stat. 868][/us/stat/89/868], provided that: 
 
 > “No debt owed to the United States by any foreign country with respect to the payment of any loan made under any program funded under this Act \[see Short Title of 1975 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151]\] may be settled in an amount less than the full amount of such debt unless the Congress by concurrent resolution approves of such settlement.”
 
  __Cooperation With Other Countries in Alleviating World Food Shortage; Emergency and Humanitarian Requirements__ 
 
-[Pub. L. 93–189, § 39][/us/pl/93/189/s39], Dec. 17, 1973, [87 Stat. 735][/us/stat/87/735], as amended by [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that:
+[Pub. L. 93–189][/us/pl/93/189], § 39, Dec. 17, 1973, [87 Stat. 735][/us/stat/87/735], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that:
 
 >     “(a)
 
@@ -263,64 +263,64 @@
 [/us/usc/t33/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1121
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs312
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F861
-[/us/pl/95/424/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs103%2Fc
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F945
-[/us/pl/106/373/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/stat/114/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1427
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
-[/us/pl/89/688/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688%2Fs1
+[/us/pl/89/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F688
 [/us/stat/80/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F998
 [/us/usc/t33/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1121
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tV/ptC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV%2FptC
 [/us/stat/108/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4048
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/pl/106/373/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FA
-[/us/pl/106/373/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F1
-[/us/pl/106/373/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FB
-[/us/pl/106/373/s2/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FC
-[/us/pl/106/373/s2/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FD
-[/us/pl/106/373/s2/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FE
-[/us/pl/106/373/s2/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FH
-[/us/pl/106/373/s2/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FE
-[/us/pl/106/373/s2/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fa%2F2%2FF
-[/us/pl/106/373/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fb
-[/us/pl/106/373/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fc%2F1
-[/us/pl/106/373/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fc%2F2%2FA
-[/us/pl/106/373/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fc%2F3
-[/us/pl/106/373/s2/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fc%2F2%2FB
-[/us/pl/106/373/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fd%2F1
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/pl/106/373/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fd%2F2
-[/us/pl/106/373/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Fe
-[/us/pl/106/373/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs2%2Ff
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/110/246/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3202
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1836
-[/us/pl/113/79/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3206
+[/us/pl/113/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtIII
 [/us/stat/128/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F780
-[/us/pl/95/426/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs604
+[/us/pl/95/426/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVI
 [/us/stat/92/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F986
-[/us/pl/95/105/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs510
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F860
-[/us/pl/95/426/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs711
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F994
-[/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
-[/us/pl/94/161/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs321
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F868
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/93/189/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs39
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F735
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t7/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1731

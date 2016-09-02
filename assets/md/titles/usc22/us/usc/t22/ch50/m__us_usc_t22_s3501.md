@@ -21,7 +21,7 @@
 
     It is therefore in the mutual interest of the United States and the developing countries to increase scientific and technological cooperation and jointly to support long-term research on critical problems that impede development and limit the efficient use of the world’s human, natural, and capital resources.
 
-([Pub. L. 96–53, title IV, § 401][/us/pl/96/53/s401], Aug. 14, 1979, [93 Stat. 371][/us/stat/93/371].)
+([Pub. L. 96–53, title IV][/us/pl/96/53/tIV], § 401, Aug. 14, 1979, [93 Stat. 371][/us/stat/93/371].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/96/53/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs401
+[/us/pl/96/53/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIV
 [/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

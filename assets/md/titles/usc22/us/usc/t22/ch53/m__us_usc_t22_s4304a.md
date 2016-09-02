@@ -53,7 +53,7 @@
 
         (2) the terms “members of a mission” and “family” have the same meanings as is ascribed to them by paragraphs (1) and (2) of [section 254a of this title][/us/usc/t22/s254a].
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 204A, as added [Pub. L. 98–164, title VI, § 603][/us/pl/98/164/s603], Nov. 22, 1983, [97 Stat. 1042][/us/stat/97/1042]; amended [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(4), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 204A, as added [Pub. L. 98–164, title VI][/us/pl/98/164/tVI], § 603, Nov. 22, 1983, [97 Stat. 1042][/us/stat/97/1042]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(o)(4), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t22/s254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs254a
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/98/164/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs603
+[/us/pl/98/164/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVI
 [/us/stat/97/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1042
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F410
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

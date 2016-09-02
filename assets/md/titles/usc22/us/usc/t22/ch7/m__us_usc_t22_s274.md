@@ -31,7 +31,7 @@
 
  __Annual Appropriations Between 1948 and 1970__ 
 
-    [Act June 3, 1948, ch. 400][/us/act/1948-06-03/ch400], title I, § 101, [62 Stat. 305][/us/stat/62/305], and subsequent Department of State Appropriation Acts through act Dec. 24, 1969, [Pub. L. 91–153, title I, § 101][/us/pl/91/153/s101], [83 Stat. 404][/us/stat/83/404], failed to authorize appropriations for this section. See Annual Appropriations note set out above.
+    [Act June 3, 1948, ch. 400, title I][/us/act/1948-06-03/ch400/tI], § 101, [62 Stat. 305][/us/stat/62/305], and subsequent Department of State Appropriation Acts through act Dec. 24, 1969, [Pub. L. 91–153, title I][/us/pl/91/153/tI], § 101, [83 Stat. 404][/us/stat/83/404], failed to authorize appropriations for this section. See Annual Appropriations note set out above.
 
 ----------
 
@@ -49,9 +49,9 @@
 [/us/pl/89/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F104
 [/us/pl/85/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F627
 [/us/usc/t22/s269a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs269a
-[/us/act/1948-06-03/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch400
+[/us/act/1948-06-03/ch400/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch400%2FtI
 [/us/stat/62/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F305
-[/us/pl/91/153/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F153%2Fs101
+[/us/pl/91/153/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F153%2FtI
 [/us/stat/83/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F404
 
 

@@ -31,7 +31,7 @@
 
         To the extent that any law, rule, regulation, or ordinance of the District of Columbia, or of any State or political subdivision thereof in which the Institute is incorporated or doing business, impedes or otherwise interferes with the performance of the functions of the Institute pursuant to this chapter, such law, rule, regulation, or ordinance shall be deemed to be preempted by this chapter.
 
-([Pub. L. 96–8, § 6][/us/pl/96/8/s6], Apr. 10, 1979, [93 Stat. 17][/us/stat/93/17].)
+([Pub. L. 96–8][/us/pl/96/8], § 6, Apr. 10, 1979, [93 Stat. 17][/us/stat/93/17].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/8/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8%2Fs6
+[/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/stat/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F17
 
 

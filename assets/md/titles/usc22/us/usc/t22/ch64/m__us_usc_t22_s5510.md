@@ -37,7 +37,7 @@
 
             In no case may the tax benefit pursuant to paragraph (1) for any taxable year, for any individual, exceed an amount equal to 28 percent of the annual rate of basic pay at Level V of the Executive Schedule of the United States as of December 21, 1988.
 
-([Pub. L. 101–604, title II, § 211][/us/pl/101/604/s211], Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 211, Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs211
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3085
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 

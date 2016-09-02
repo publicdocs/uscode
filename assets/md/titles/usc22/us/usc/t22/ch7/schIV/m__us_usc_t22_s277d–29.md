@@ -25,7 +25,7 @@
 
     There is hereby authorized to be appropriated not in excess of $50,000 per annum for contributions to maintenance authorized by this section.
 
-([Pub. L. 88–600][/us/pl/88/600], Sept. 18, 1964, [78 Stat. 956][/us/stat/78/956]; [Pub. L. 93–126, § 7(c)][/us/pl/93/126/s7/c], Oct. 18, 1973, [87 Stat. 452][/us/stat/87/452].)
+([Pub. L. 88–600][/us/pl/88/600], Sept. 18, 1964, [78 Stat. 956][/us/stat/78/956]; [Pub. L. 93–126][/us/pl/93/126], § 7(c), Oct. 18, 1973, [87 Stat. 452][/us/stat/87/452].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
 [/us/pl/88/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F600
 [/us/stat/78/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F956
-[/us/pl/93/126/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs7%2Fc
+[/us/pl/93/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126
 [/us/stat/87/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F452
 [/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666

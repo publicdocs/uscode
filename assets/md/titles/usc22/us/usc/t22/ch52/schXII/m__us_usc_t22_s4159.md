@@ -43,7 +43,7 @@
 
         For purposes of this section, the terms “former spouse”, “participant”, and “spousal agreement” have the meanings given such terms in sections 4043 and 4044 of this title.
 
-([Pub. L. 96–465, title II, § 2109][/us/pl/96/465/s2109], Oct. 17, 1980, [94 Stat. 2152][/us/stat/94/2152].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2109, Oct. 17, 1980, [94 Stat. 2152][/us/stat/94/2152].)
 
 ----------
 
@@ -56,7 +56,7 @@
 [/us/usc/t22/s4060/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4060%2Fb%2F1
 [/us/usc/t22/s4046/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fb%2F1%2FB
 [/us/usc/t22/s4046/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4046%2Fb%2F2
-[/us/pl/96/465/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2109
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2152
 
 

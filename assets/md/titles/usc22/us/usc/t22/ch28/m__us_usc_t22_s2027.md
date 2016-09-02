@@ -29,7 +29,7 @@
 
         The Secretary shall direct the United States representative to the International Atomic Energy Agency to oppose programs of the Agency that are determined by the Secretary under the review conducted under subsection (a)(1) to be inconsistent with nuclear nonproliferation and safety goals of the United States.
 
-([Pub. L. 107–228, div. B, title XIII, § 1343][/us/pl/107/228/s1343], Sept. 30, 2002, [116 Stat. 1452][/us/stat/116/1452].)
+([Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1343, Sept. 30, 2002, [116 Stat. 1452][/us/stat/116/1452].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t22/s2227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2227%2Fa
-[/us/pl/107/228/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1343
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1452
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651

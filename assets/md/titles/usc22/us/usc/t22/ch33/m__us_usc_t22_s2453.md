@@ -27,13 +27,13 @@
 
         In such agreements with international organizations, the Director of the United States Information Agency may provide for equitable United States participation in and support for, including a reasonable share of the cost of, educational and cultural programs to be administered by such organizations.
 
-([Pub. L. 87–256, § 103][/us/pl/87/256/s103], Sept. 21, 1961, [75 Stat. 529][/us/stat/75/529]; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637][/us/stat/91/1637]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
+([Pub. L. 87–256][/us/pl/87/256], § 103, Sept. 21, 1961, [75 Stat. 529][/us/stat/75/529]; 1977 Reorg. Plan No. 2, § 7(a)(2), 42 F.R. 62461, [91 Stat. 1637][/us/stat/91/1637]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [Pub. L. 87–256][/us/pl/87/256], Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527], as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title][/us/usc/t22/s2451] and Tables.
 
-    [Section 1513(b)(6) of this title][/us/usc/t22/s1513/b/6], referred to in subsec. (a), was repealed by [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a), [68 Stat. 861][/us/stat/68/861].
+    [Section 1513(b)(6) of this title][/us/usc/t22/s1513/b/6], referred to in subsec. (a), was repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a), [68 Stat. 861][/us/stat/68/861].
 
  __Transfer of Functions__ 
 
@@ -51,16 +51,16 @@
 ----------
 
 [/us/usc/t22/s2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2452
-[/us/pl/87/256/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs103
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F529
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t22/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2451
 [/us/usc/t22/s1513/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1513%2Fb%2F6
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/act/1954-08-26/ch937/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2FtV
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291

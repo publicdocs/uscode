@@ -31,9 +31,9 @@
 
         (1) Any implementation of the foregoing policy shall be carried out in regular consultation with the Congress.
 
-        (2) Repealed. [Pub. L. 103–236, title I, § 139(5)][/us/pl/103/236/s139/5], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].
+        (2) Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(5), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].
 
-([Pub. L. 95–105, title V, § 512][/us/pl/95/105/s512], Aug. 17, 1977, [91 Stat. 861][/us/stat/91/861]; [Pub. L. 103–236, title I, § 139(5)][/us/pl/103/236/s139/5], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].)
+([Pub. L. 95–105, title V][/us/pl/95/105/tV], § 512, Aug. 17, 1977, [91 Stat. 861][/us/stat/91/861]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(5), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].)
 
  __Codification__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/103/236/s139/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F5
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/95/105/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs512
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F861
-[/us/pl/103/236/s139/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F5
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

@@ -43,7 +43,7 @@
 
         The grievant in any case decided by the Board shall have access to the record of the proceedings and the decision of the Board.
 
-([Pub. L. 96–465, title I, § 1108][/us/pl/96/465/s1108], Oct. 17, 1980, [94 Stat. 2147][/us/stat/94/2147].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1108, Oct. 17, 1980, [94 Stat. 2147][/us/stat/94/2147].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1108
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2147
 
 

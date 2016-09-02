@@ -35,7 +35,7 @@
 
         The three-year period referred to in subsection (a) shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
 
-([Pub. L. 96–465, title II, § 2104][/us/pl/96/465/s2104], Oct. 17, 1980, [94 Stat. 2150][/us/stat/94/2150]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 98–164, title I, § 132][/us/pl/98/164/s132], Nov. 22, 1983, [97 Stat. 1028][/us/stat/97/1028].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2104, Oct. 17, 1980, [94 Stat. 2150][/us/stat/94/2150]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 132, Nov. 22, 1983, [97 Stat. 1028][/us/stat/97/1028].)
 
  __Codification__ 
 
@@ -60,11 +60,11 @@
 
 [/us/usc/t22/s4153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4153
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/96/465/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2104
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2150
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/98/164/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs132
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1028
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

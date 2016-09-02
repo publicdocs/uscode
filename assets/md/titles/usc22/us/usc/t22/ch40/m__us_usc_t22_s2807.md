@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums, not to exceed $200,000 in any fiscal year, as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 91–269, § 8][/us/pl/91/269/s8], May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
+([Pub. L. 91–269][/us/pl/91/269], § 8, May 27, 1970, [84 Stat. 272][/us/stat/84/272].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/269/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269%2Fs8
+[/us/pl/91/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F269
 [/us/stat/84/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F272
 
 

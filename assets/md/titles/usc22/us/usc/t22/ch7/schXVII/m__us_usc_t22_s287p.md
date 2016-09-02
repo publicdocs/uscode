@@ -17,7 +17,7 @@
 
     Each such member of the National Commission must be an American citizen.
 
-([July 30, 1946, ch. 700, § 4][/us/act/1946-07-30/ch700/s4], [60 Stat. 713][/us/stat/60/713].)
+([July 30, 1946, ch. 700][/us/act/1946-07-30/ch700], § 4, [60 Stat. 713][/us/stat/60/713].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-30/ch700/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700%2Fs4
+[/us/act/1946-07-30/ch700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700
 [/us/stat/60/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F713
 
 

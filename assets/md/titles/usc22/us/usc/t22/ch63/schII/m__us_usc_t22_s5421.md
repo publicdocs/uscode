@@ -157,7 +157,7 @@
 
         Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund’s operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
-([Pub. L. 101–179, title II, § 201][/us/pl/101/179/s201], Nov. 28, 1989, [103 Stat. 1305][/us/stat/103/1305]; [Pub. L. 104–107, title II][/us/pl/104/107], \[(v)\], Feb. 12, 1996, [110 Stat. 714][/us/stat/110/714]; [Pub. L. 105–118, title V, § 588][/us/pl/105/118/s588], Nov. 26, 1997, [111 Stat. 2438][/us/stat/111/2438]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 101–179, title II][/us/pl/101/179/tII], § 201, Nov. 28, 1989, [103 Stat. 1305][/us/stat/103/1305]; [Pub. L. 104–107, title II][/us/pl/104/107/tII], \[(v)\], Feb. 12, 1996, [110 Stat. 714][/us/stat/110/714]; [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 588, Nov. 26, 1997, [111 Stat. 2438][/us/stat/111/2438]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -184,13 +184,13 @@
 ----------
 ----------
 
-[/us/pl/101/179/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs201
+[/us/pl/101/179/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtII
 [/us/stat/103/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1305
-[/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
+[/us/pl/104/107/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtII
 [/us/stat/110/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F714
-[/us/pl/105/118/s588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs588
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2438
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
 [/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298

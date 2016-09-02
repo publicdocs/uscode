@@ -23,7 +23,7 @@
 
     for the purpose of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider future replenishments or capital expansions of any multilateral development bank which may involve an increased contribution or subscription by the United States. Such consultation shall be made (A) not later than 30 days before the initiation of such international negotiations, (B) during the period in which such negotiations are being held, in a frequent and timely manner, and (C) before a session of such negotiations is held at which the United States representatives may agree to such a replenishment or capital expansion.
 
-([Pub. L. 95–118, title XII, § 1201][/us/pl/95/118/s1201], as added [Pub. L. 97–35, title XIII, § 1361(b)][/us/pl/97/35/s1361/b], Aug. 13, 1981, [95 Stat. 746][/us/stat/95/746].)
+([Pub. L. 95–118, title XII][/us/pl/95/118/tXII], § 1201, as added [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1361(b), Aug. 13, 1981, [95 Stat. 746][/us/stat/95/746].)
 
  __Change of Name__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1201
-[/us/pl/97/35/s1361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1361%2Fb
+[/us/pl/95/118/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXII
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F746
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

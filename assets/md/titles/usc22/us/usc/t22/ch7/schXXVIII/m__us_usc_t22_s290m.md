@@ -87,7 +87,7 @@
 
             The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
-([Pub. L. 103–182, title V, § 541][/us/pl/103/182/s541], Dec. 8, 1993, [107 Stat. 2165][/us/stat/107/2165].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 541, Dec. 8, 1993, [107 Stat. 2165][/us/stat/107/2165].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 [/us/usc/t28/s1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1446
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/usc/t15/s78c/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F12
-[/us/pl/103/182/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs541
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2165
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24

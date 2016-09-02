@@ -41,7 +41,7 @@
 
         (3) emergency services.
 
-([Pub. L. 113–296, § 7][/us/pl/113/296/s7], Dec. 19, 2014, [128 Stat. 4077][/us/stat/128/4077].)
+([Pub. L. 113–296][/us/pl/113/296], § 7, Dec. 19, 2014, [128 Stat. 4077][/us/stat/128/4077].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __United States-Israel Anti-Tunnel Cooperation__ 
 
-[Pub. L. 114–92, div. A, title XII, § 1279][/us/pl/114/92/s1279], Nov. 25, 2015, [129 Stat. 1079][/us/stat/129/1079], provided that:
+[Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1279, Nov. 25, 2015, [129 Stat. 1079][/us/stat/129/1079], provided that:
 
 >     “(a) __Authority To Establish Anti-tunnel Capabilities Program With Israel.—__ 
 
@@ -113,7 +113,7 @@
 
  __Constructive Regional Energy Cooperation__ 
 
-[Pub. L. 113–296, § 12(c)(2)][/us/pl/113/296/s12/c/2], Dec. 19, 2014, [128 Stat. 4081][/us/stat/128/4081], provided that: 
+[Pub. L. 113–296][/us/pl/113/296], § 12(c)(2), Dec. 19, 2014, [128 Stat. 4081][/us/stat/128/4081], provided that: 
 
 > “The Secretary of State shall continue the ongoing diplomacy efforts of the Secretary of State in—
 
@@ -128,11 +128,11 @@
 ----------
 ----------
 
-[/us/pl/113/296/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs7
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4077
-[/us/pl/114/92/s1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1279
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1079
-[/us/pl/113/296/s12/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs12%2Fc%2F2
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4081
 
 

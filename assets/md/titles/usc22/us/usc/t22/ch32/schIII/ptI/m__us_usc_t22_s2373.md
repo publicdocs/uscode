@@ -59,7 +59,7 @@
 
         (2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620C, as added [Pub. L. 95–384, § 13(b)][/us/pl/95/384/s13/b], Sept. 26, 1978, [92 Stat. 737][/us/stat/92/737]; amended [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 562\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–171.)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620C, as added [Pub. L. 95–384][/us/pl/95/384], § 13(b), Sept. 26, 1978, [92 Stat. 737][/us/stat/92/737]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 562\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–171.)
 
  __References in Text__ 
 
@@ -73,13 +73,13 @@
 
 Provisions similar to those in subsec. (e) of this section were contained in the following appropriation acts:
 
-    [Pub. L. 102–391, title V, § 557][/us/pl/102/391/s557], Oct. 6, 1992, [106 Stat. 1676][/us/stat/106/1676].
+    [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 557, Oct. 6, 1992, [106 Stat. 1676][/us/stat/106/1676].
 
-    [Pub. L. 101–513, title V, § 560][/us/pl/101/513/s560], Nov. 5, 1990, [104 Stat. 2026][/us/stat/104/2026].
+    [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 560, Nov. 5, 1990, [104 Stat. 2026][/us/stat/104/2026].
 
-    [Pub. L. 101–167, title V, § 570][/us/pl/101/167/s570], Nov. 21, 1989, [103 Stat. 1245][/us/stat/103/1245].
+    [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 570, Nov. 21, 1989, [103 Stat. 1245][/us/stat/103/1245].
 
-    [Pub. L. 100–461, title V, § 579][/us/pl/100/461/s579], Oct. 1, 1988, [102 Stat. 2268–48][/us/stat/102/2268-48].
+    [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 579, Oct. 1, 1988, [102 Stat. 2268–48][/us/stat/102/2268-48].
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@ Provisions similar to those in subsec. (e) of this section were contained in the
 
  __Special Ambassadorial Commission for Cyprus and the Aegean__ 
 
-[Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 586\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, provided that:
+[Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title V, § 586\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -129,9 +129,9 @@ Provisions similar to those in subsec. (e) of this section were contained in the
 [/us/usc/t22/s2776/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fb
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/95/384/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs13%2Fb
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F737
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/usc/t22/s2370/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fx
 [/us/usc/t22/s2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370
@@ -141,17 +141,17 @@ Provisions similar to those in subsec. (e) of this section were contained in the
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/102/391/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs557
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1676
-[/us/pl/101/513/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs560
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2026
-[/us/pl/101/167/s570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs570
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1245
-[/us/pl/100/461/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs579
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-48
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/101/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F202%2Fs101%2Fe
 

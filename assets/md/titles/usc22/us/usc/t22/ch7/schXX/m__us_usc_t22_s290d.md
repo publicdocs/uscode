@@ -17,7 +17,7 @@
 
     In adopting this subchapter, the Congress does so with the understanding that nothing in the Constitution of the World Health Organization in any manner commits the United States to enact any specific legislative program regarding any matters referred to in said Constitution.
 
-([June 14, 1948, ch. 469, § 5][/us/act/1948-06-14/ch469/s5], [62 Stat. 442][/us/stat/62/442].)
+([June 14, 1948, ch. 469][/us/act/1948-06-14/ch469], § 5, [62 Stat. 442][/us/stat/62/442].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-14/ch469/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-14%2Fch469%2Fs5
+[/us/act/1948-06-14/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-14%2Fch469
 [/us/stat/62/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F442
 
 

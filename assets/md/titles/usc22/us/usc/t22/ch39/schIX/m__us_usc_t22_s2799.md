@@ -23,7 +23,7 @@
 
     (3) better distribute defense burdens within the NATO alliance.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 9, § 91, as added [Pub. L. 102–228, § 2][/us/pl/102/228/s2], Dec. 12, 1991, [105 Stat. 1691][/us/stat/105/1691].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 9, § 91, as added [Pub. L. 102–228][/us/pl/102/228], § 2, Dec. 12, 1991, [105 Stat. 1691][/us/stat/105/1691].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/102/228/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs2
+[/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/stat/105/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1691
 
 

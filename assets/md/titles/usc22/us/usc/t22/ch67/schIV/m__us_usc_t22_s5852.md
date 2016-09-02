@@ -25,11 +25,11 @@
 
     (4) facilitating United States verification of any weapons destruction carried out under section 5853(a) or 5854(a) of this title or section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of [Public Law 102–228][/us/pl/102/228]; [22 U.S.C. 2551][/us/usc/t22/s2551] note).
 
-([Pub. L. 102–511, title V, § 502][/us/pl/102/511/s502], Oct. 24, 1992, [106 Stat. 3338][/us/stat/106/3338].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 502, Oct. 24, 1992, [106 Stat. 3338][/us/stat/106/3338].)
 
  __References in Text__ 
 
-    Section 212 of the Soviet Nuclear Threat Reduction Act of 1991, referred to in par. (4), is [section 212 of Pub. L. 102–228][/us/pl/102/228/s212], title II, Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551], and was repealed by [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].
+    Section 212 of the Soviet Nuclear Threat Reduction Act of 1991, referred to in par. (4), is [section 212 of Pub. L. 102–228][/us/pl/102/228/s212], title II, Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], which was set out in a note under [section 2551 of this title][/us/usc/t22/s2551], and was repealed by [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(1), Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].
 
  __Delegation of Authority__ 
 
@@ -51,13 +51,13 @@
 
  __Inapplicability to Cooperative Threat Reduction Programs__ 
 
-[Pub. L. 110–181, div. A, title XIII, § 1304(b)][/us/pl/110/181/s1304/b], Jan. 28, 2008, [122 Stat. 413][/us/stat/122/413], provided that: 
+[Pub. L. 110–181, div. A, title XIII][/us/pl/110/181/dA/tXIII], § 1304(b), Jan. 28, 2008, [122 Stat. 413][/us/stat/122/413], provided that: 
 
 > “Section 502 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5852][/us/usc/t22/s5852]) shall not apply to any Cooperative Threat Reduction program.”
 
  __Definition of Cooperative Threat Reduction Programs for Purposes of__  __[__  __Pub. L. 110–181__  __][/us/pl/110/181]__ 
 
-[Pub. L. 110–181, div. A, title XIII, § 1301(a)][/us/pl/110/181/s1301/a], Jan. 28, 2008, [122 Stat. 410][/us/stat/122/410], provided that: 
+[Pub. L. 110–181, div. A, title XIII][/us/pl/110/181/dA/tXIII], § 1301(a), Jan. 28, 2008, [122 Stat. 410][/us/stat/122/410], provided that: 
 
 > “For purposes of section 301 \[[122 Stat. 53][/us/stat/122/53]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 \[[Pub. L. 104–201][/us/pl/104/201]\] (\[former\] [50 U.S.C. 2362][/us/usc/t50/s2362] note), as amended by section 1303 of this Act.”
 
@@ -70,12 +70,12 @@
 
 [/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/102/511/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs502
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3338
 [/us/pl/102/228/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs212
 [/us/stat/105/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1693
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
@@ -87,11 +87,11 @@
 [/us/usc/t22/s5853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5853
 [/us/usc/t2/s665/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs665%2Fa%2F2
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/110/181/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1304%2Fb
+[/us/pl/110/181/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIII
 [/us/stat/122/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F413
 [/us/usc/t22/s5852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5852
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/181/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1301%2Fa
+[/us/pl/110/181/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIII
 [/us/stat/122/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F410
 [/us/stat/122/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F53
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

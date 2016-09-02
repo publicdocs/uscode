@@ -49,7 +49,7 @@
 
         In this section, the term “good” has the meaning given that term in [section 8801(a) of this title][/us/usc/t22/s8801/a].
 
-([Pub. L. 111–195, title I, § 105C][/us/pl/111/195/s105C], as added [Pub. L. 112–239, div. A, title XII, § 1249(a)][/us/pl/112/239/s1249/a], Jan. 2, 2013, [126 Stat. 2015][/us/stat/126/2015].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 105C, as added [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1249(a), Jan. 2, 2013, [126 Stat. 2015][/us/stat/126/2015].)
 
  __Delegation of Functions__ 
 
@@ -64,8 +64,8 @@
 
 [/us/usc/t22/s8514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514%2Fc
 [/us/usc/t22/s8801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801%2Fa
-[/us/pl/111/195/s105C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs105C
-[/us/pl/112/239/s1249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1249%2Fa
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2015
 [/us/usc/t22/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8801
 

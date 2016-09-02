@@ -17,7 +17,7 @@
 
     A period of duty of not more than six months in duration by a member of the Service shall be considered a temporary detail and shall not be considered an assignment within the meaning of this subchapter.
 
-([Pub. L. 96–465, title I, § 505][/us/pl/96/465/s505], Oct. 17, 1980, [94 Stat. 2094][/us/stat/94/2094].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 505, Oct. 17, 1980, [94 Stat. 2094][/us/stat/94/2094].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs505
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2094
 
 

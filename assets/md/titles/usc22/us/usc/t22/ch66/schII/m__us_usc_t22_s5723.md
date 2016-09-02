@@ -17,7 +17,7 @@
 
     The President is authorized to prescribe such rules and regulations as the President may deem appropriate to carry out this chapter.
 
-([Pub. L. 102–383, title II, § 203][/us/pl/102/383/s203], Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
+([Pub. L. 102–383, title II][/us/pl/102/383/tII], § 203, Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/383/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs203
+[/us/pl/102/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtII
 [/us/stat/106/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1453
 
 

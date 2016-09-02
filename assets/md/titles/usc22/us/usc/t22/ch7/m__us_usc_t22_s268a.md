@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s268.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s268b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs268a)
 
-## § 268a. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 650][/us/stat/80/650]
+## § 268a. Repealed. [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 650][/us/stat/80/650]
 
-    Section, [act May 14, 1940, ch. 189][/us/act/1940-05-14/ch189], title I, [54 Stat. 191][/us/stat/54/191], related to compensation and travel expenses of the International Joint Commission.
+    Section, [act May 14, 1940, ch. 189, title I][/us/act/1940-05-14/ch189/tI], [54 Stat. 191][/us/stat/54/191], related to compensation and travel expenses of the International Joint Commission.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -36,9 +36,9 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F650
-[/us/act/1940-05-14/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-14%2Fch189
+[/us/act/1940-05-14/ch189/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-14%2Fch189%2FtI
 [/us/stat/54/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F191
 [/us/act/1939-06-29/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-29%2Fch248
 [/us/stat/53/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F895

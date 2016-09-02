@@ -17,7 +17,7 @@
 
     In determining the amount of any claim, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 506, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1112][/us/stat/78/1112]; amended [Pub. L. 89–262, § 4][/us/pl/89/262/s4], Oct. 19, 1965, [79 Stat. 988][/us/stat/79/988].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 506, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1112][/us/stat/78/1112]; amended [Pub. L. 89–262][/us/pl/89/262], § 4, Oct. 19, 1965, [79 Stat. 988][/us/stat/79/988].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/88/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F666
 [/us/stat/78/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1112
-[/us/pl/89/262/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262%2Fs4
+[/us/pl/89/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262
 [/us/stat/79/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F988
 [/us/pl/89/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262
 

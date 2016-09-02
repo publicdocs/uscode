@@ -29,7 +29,7 @@
 
         Of the amounts authorized to be appropriated under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out this section.
 
-([Pub. L. 110–293, title II, § 203(e)][/us/pl/110/293/s203/e], July 30, 2008, [122 Stat. 2941][/us/stat/122/2941].)
+([Pub. L. 110–293, title II][/us/pl/110/293/tII], § 203(e), July 30, 2008, [122 Stat. 2941][/us/stat/122/2941].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/110/293/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs203%2Fe
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2941
 
 

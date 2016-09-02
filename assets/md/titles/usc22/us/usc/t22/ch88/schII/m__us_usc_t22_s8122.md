@@ -81,7 +81,7 @@
 
         In carrying out their activities, members of the IAEA complementary access team and representatives or designees of the United States Government shall observe applicable environmental, health, safety, and security regulations established at the location subject to complementary access, including those for protection of controlled environments within a facility and for personal safety.
 
-([Pub. L. 109–401, title II, § 222][/us/pl/109/401/s222], Dec. 18, 2006, [120 Stat. 2744][/us/stat/120/2744].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 222, Dec. 18, 2006, [120 Stat. 2744][/us/stat/120/2744].)
 
 ----------
 
@@ -91,7 +91,7 @@
 ----------
 
 [/us/usc/t22/s8123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8123
-[/us/pl/109/401/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs222
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2744
 
 

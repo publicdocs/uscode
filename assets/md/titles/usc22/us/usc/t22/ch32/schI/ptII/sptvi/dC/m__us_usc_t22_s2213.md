@@ -87,7 +87,7 @@
 
             Amounts made available under paragraph (1) are in addition to amounts available under any other provision of law to carry out this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 257, formerly § 132, as added [Pub. L. 106–309, title I, § 107(a)][/us/pl/106/309/s107/a], Oct. 17, 2000, [114 Stat. 1086][/us/stat/114/1086]; renumbered § 257 and amended [Pub. L. 108–484, § 5(a)][/us/pl/108/484/s5/a], (b), (c)(2), Dec. 23, 2004, [118 Stat. 3927][/us/stat/118/3927].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 257, formerly § 132, as added [Pub. L. 106–309, title I][/us/pl/106/309/tI], § 107(a), Oct. 17, 2000, [114 Stat. 1086][/us/stat/114/1086]; renumbered § 257 and amended [Pub. L. 108–484][/us/pl/108/484], § 5(a), (b), (c)(2), Dec. 23, 2004, [118 Stat. 3927][/us/stat/118/3927].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -99,7 +99,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2213, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 253, as added [Pub. L. 87–565][/us/pl/87/565], pt. I, § 106, Aug. 1, 1962, [76 Stat. 258][/us/stat/76/258]; amended [Pub. L. 88–205][/us/pl/88/205], pt. I, § 106(c), Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383], related to availability of receipts from loans for Alliance for Progress, prior to repeal by [Pub. L. 95–424, title I, § 102(g)(1)(A)][/us/pl/95/424/s102/g/1/A], title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
+    A prior section 2213, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 253, as added [Pub. L. 87–565][/us/pl/87/565], pt. I, § 106, Aug. 1, 1962, [76 Stat. 258][/us/stat/76/258]; amended [Pub. L. 88–205][/us/pl/88/205], pt. I, § 106(c), Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383], related to availability of receipts from loans for Alliance for Progress, prior to repeal by [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(1)(A), title VI, § 605, Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942], 961, effective Oct. 1, 1978.
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@
 
     Subsec.(d)(1). Pub. L. 108—484, § 5(c)(2)(B), substituted “for each of the fiscal years 2005 through 2009, such sums as may be necessary” for “for the fiscal year 2001, up to $5,000,000”.
 
-    Subsec. (e). [Pub. L. 108–484, § 5(c)(2)(C)][/us/pl/108/484/s5/c/2/C], struck out heading and text of subsec. (e) which defined “Administrator”, “appropriate congressional committees”, and “United States-supported microfinance institution” for purposes of this section.
+    Subsec. (e). [Pub. L. 108–484][/us/pl/108/484], § 5(c)(2)(C), struck out heading and text of subsec. (e) which defined “Administrator”, “appropriate congressional committees”, and “United States-supported microfinance institution” for purposes of this section.
 
 ----------
 
@@ -121,9 +121,9 @@
 [/us/usc/t22/s2354/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2354%2Fa
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/309/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs107%2Fa
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1086
-[/us/pl/108/484/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs5%2Fa
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3927
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -133,8 +133,8 @@
 [/us/stat/76/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F258
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F383
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
-[/us/pl/108/484/s5/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs5%2Fc%2F2%2FC
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 
 

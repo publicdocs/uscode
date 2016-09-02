@@ -67,7 +67,7 @@
 
         The provisions of the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) and [section 552b of title 5][/us/usc/t5/s552b] (relating to open meetings) shall not apply to any Board.
 
-([Pub. L. 99–399, title III, § 303][/us/pl/99/399/s303], Aug. 27, 1986, [100 Stat. 859][/us/stat/100/859].)
+([Pub. L. 99–399, title III][/us/pl/99/399/tIII], § 303, Aug. 27, 1986, [100 Stat. 859][/us/stat/100/859].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t22/s4834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4834%2Fc
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/99/399/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs303
+[/us/pl/99/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIII
 [/us/stat/100/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F859
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

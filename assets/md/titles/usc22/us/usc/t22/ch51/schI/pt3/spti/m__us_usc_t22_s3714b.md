@@ -19,7 +19,7 @@
 
     (b) This section shall not affect the Commission’s authority, under chapter 5 of title 44, to operate a field printing plant.
 
-([Pub. L. 96–70, title I, § 1306][/us/pl/96/70/s1306], as added [Pub. L. 104–201, div. C, title XXXV, § 3540][/us/pl/104/201/s3540], Sept. 23, 1996, [110 Stat. 2866][/us/stat/110/2866]; amended [Pub. L. 105–85, div. C, title XXXV, § 3549][/us/pl/105/85/s3549], Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1306, as added [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3540, Sept. 23, 1996, [110 Stat. 2866][/us/stat/110/2866]; amended [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3549, Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073].)
 
  __Amendments__ 
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1306
-[/us/pl/104/201/s3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3540
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2866
-[/us/pl/105/85/s3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3549
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2073
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

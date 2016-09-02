@@ -27,7 +27,7 @@
 
         The Office of Personnel Management shall prescribe regulations to carry out the purposes of this section.
 
-([Pub. L. 96–70, title I, § 1203][/us/pl/96/70/s1203], Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1203, Sept. 27, 1979, [93 Stat. 461][/us/stat/93/461].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1203
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F461
 
 

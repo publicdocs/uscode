@@ -129,7 +129,7 @@
 
                 (ii) a report describing the reasons for the exception.
 
-([Pub. L. 111–195, title I, § 103][/us/pl/111/195/s103], July 1, 2010, [124 Stat. 1328][/us/stat/124/1328].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 103, July 1, 2010, [124 Stat. 1328][/us/stat/124/1328].)
 
  __Termination of Section__ 
 
@@ -161,7 +161,7 @@
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
-[/us/pl/111/195/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs103
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1328
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/109/293/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs101

@@ -37,7 +37,7 @@
 
         As used in subsection (a)(1), the term “fully reciprocal” means that all news services, news organizations, and broadcasting services, including such services or organizations that receive financing, assistance, or other support from a governmental or official source, are permitted to establish and operate a news bureau in the United States and Cuba.
 
-([Pub. L. 104–114, title I, § 114][/us/pl/104/114/s114], Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 114, Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs114
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F803
 
 

@@ -49,13 +49,13 @@
 
         (2) an initial grant of not less than $50,000,000 should be made for such activities with subsequent annual allocations of such additional amounts as may be necessary to allow the Grassroots Collaboration Program to maximize collaboration with nongovernmental organizations in the alleviation of poverty and the protection of the environment.
 
-    (d) __Repealed.__  __[__  __Pub. L. 101–240, title V, § 541(d)(4)__  __][/us/pl/101/240/s541/d/4]__  __,__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2518__  __][/us/stat/103/2518]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 101–240, title V__  __][/us/pl/101/240/tV]__  __, § 541(d)(4),__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2518__  __][/us/stat/103/2518]__ 
 
     (e) __Annual reports to Congress__ 
 
         Each annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies shall describe the status of the establishment and operation of the Grassroots Collaboration Program described in subsection (a) of this section, the activities under taken by the Program and the sum of the amounts expended by the Program.
 
-([Pub. L. 95–118, title XVI, § 1602][/us/pl/95/118/s1602], as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 101–240, title V, § 541(d)(4)][/us/pl/101/240/s541/d/4], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1602, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; amended [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(4), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Codification__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/101/240/s541/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F4
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
-[/us/pl/95/118/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1602
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/101/240/s541/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F4
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/95/118/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1602
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of any other law or regulation, service in the Peace Corps as a volunteer shall not in any way exempt such volunteer from the performance of any obligations or duties under the provisions of the Universal Military Training and Service Act \[[50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\].
 
-([Pub. L. 87–293, title I, § 23][/us/pl/87/293/s23], Sept. 22, 1961, [75 Stat. 624][/us/stat/75/624].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 23, Sept. 22, 1961, [75 Stat. 624][/us/stat/75/624].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
-[/us/pl/87/293/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs23
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F624
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

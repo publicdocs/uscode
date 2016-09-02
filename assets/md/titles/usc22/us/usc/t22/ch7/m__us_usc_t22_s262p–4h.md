@@ -53,7 +53,7 @@
 
         (3) A description and evaluation of the progress to date in developing effective mechanisms for involving non-governmental organizations, directly or indirectly, in the design, implementation, and monitoring of development projects, programs, and policies of the multilateral development banks.
 
-([Pub. L. 95–118, title XVI, § 1613][/us/pl/95/118/s1613], as added [Pub. L. 101–240, title V, § 501][/us/pl/101/240/s501], Dec. 19, 1989, [103 Stat. 2505][/us/stat/103/2505].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1613, as added [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 501, Dec. 19, 1989, [103 Stat. 2505][/us/stat/103/2505].)
 
  __Prior Provisions__ 
 
@@ -75,8 +75,8 @@
 ----------
 
 [/us/usc/t22/s262p–4f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934f
-[/us/pl/95/118/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1613
-[/us/pl/101/240/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs501
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2505
 [/us/pl/95/118/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1613
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935

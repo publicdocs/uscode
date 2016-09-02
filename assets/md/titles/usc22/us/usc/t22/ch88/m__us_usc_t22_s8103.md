@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 109–401, title II, § 204][/us/pl/109/401/s204], Dec. 18, 2006, [120 Stat. 2743][/us/stat/120/2743].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 204, Dec. 18, 2006, [120 Stat. 2743][/us/stat/120/2743].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs204
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2743
 
 

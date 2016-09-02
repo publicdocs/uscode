@@ -27,7 +27,7 @@
 
         Each member of the Commission may include the individual or dissenting views of the member.
 
-([Pub. L. 105–292, title II, § 205][/us/pl/105/292/s205], formerly § 203, Oct. 27, 1998, [112 Stat. 2799][/us/stat/112/2799]; renumbered § 205, [Pub. L. 106–55, § 1(b)(2)][/us/pl/106/55/s1/b/2], Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 205, formerly § 203, Oct. 27, 1998, [112 Stat. 2799][/us/stat/112/2799]; renumbered § 205, [Pub. L. 106–55][/us/pl/106/55], § 1(b)(2), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t22/s6432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6432
-[/us/pl/105/292/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs205
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
 [/us/stat/112/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2799
-[/us/pl/106/55/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F2
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F401
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787

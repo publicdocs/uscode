@@ -17,7 +17,7 @@
 
     With respect to the reports required by this chapter to be submitted by the President, to ensure an efficient use of resources, the President may, in his discretion and notwithstanding any other provision of this chapter, consolidate or combine any of these reports, except for the report required by [section 7611 of this title][/us/usc/t22/s7611], so long as the required elements of each report are addressed and reported within a 90-day period from the original deadline date for submission of the report specified in this chapter. The President may also enter into contracts with organizations with relevant expertise to develop, originate, or contribute to any of the reports required by this chapter to be submitted by the President, with the exception of the 5-year strategy.
 
-([Pub. L. 108–25, § 5][/us/pl/108/25/s5], May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, § 5][/us/pl/110/293/s5], July 30, 2008, [122 Stat. 2922][/us/stat/122/2922].)
+([Pub. L. 108–25][/us/pl/108/25], § 5, May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293][/us/pl/110/293], § 5, July 30, 2008, [122 Stat. 2922][/us/stat/122/2922].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t22/s7611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7611
-[/us/pl/108/25/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs5
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F718
-[/us/pl/110/293/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs5
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
 [/us/stat/122/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2922
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

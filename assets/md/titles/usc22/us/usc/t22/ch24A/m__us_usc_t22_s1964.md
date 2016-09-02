@@ -17,7 +17,7 @@
 
     The President shall whenever appropriate report to the Congress his action hereunder.
 
-([Pub. L. 85–7, § 5][/us/pl/85/7/s5], Mar. 9, 1957, [71 Stat. 6][/us/stat/71/6]; [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 705, Sept. 4, 1961, [75 Stat. 463][/us/stat/75/463].)
+([Pub. L. 85–7][/us/pl/85/7], § 5, Mar. 9, 1957, [71 Stat. 6][/us/stat/71/6]; [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 705, Sept. 4, 1961, [75 Stat. 463][/us/stat/75/463].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/85/7/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7%2Fs5
+[/us/pl/85/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F7
 [/us/stat/71/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F6
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463

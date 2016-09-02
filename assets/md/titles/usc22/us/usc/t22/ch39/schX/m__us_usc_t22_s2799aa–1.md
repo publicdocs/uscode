@@ -123,7 +123,7 @@
 
         As used in this section, the term “non-­nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 102, as added [Pub. L. 103–236, title VIII, § 826(a)][/us/pl/103/236/s826/a], Apr. 30, 1994, [108 Stat. 516][/us/stat/108/516]; amended [Pub. L. 105–194, § 2(a)][/us/pl/105/194/s2/a]–(c), July 14, 1998, [112 Stat. 627][/us/stat/112/627]; [Pub. L. 113–276, title II, § 208(a)(1)][/us/pl/113/276/s208/a/1], Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 10, § 102, as added [Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 826(a), Apr. 30, 1994, [108 Stat. 516][/us/stat/108/516]; amended [Pub. L. 105–194][/us/pl/105/194], § 2(a)–(c), July 14, 1998, [112 Stat. 627][/us/stat/112/627]; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(1), Dec. 18, 2014, [128 Stat. 2992][/us/stat/128/2992].)
 
  __References in Text__ 
 
@@ -143,11 +143,11 @@
 
     2014—Subsec. (a)(2). [Pub. L. 113–276][/us/pl/113/276] substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
-    1998—Subsec. (b)(2)(D)(ii). [Pub. L. 105–194, § 2(c)][/us/pl/105/194/s2/c], inserted “medicines, medical equipment, and” after “to”.
+    1998—Subsec. (b)(2)(D)(ii). [Pub. L. 105–194][/us/pl/105/194], § 2(c), inserted “medicines, medical equipment, and” after “to”.
 
-    Subsec. (b)(2)(D)(iii). [Pub. L. 105–194, § 2(a)][/us/pl/105/194/s2/a], added cl. (iii).
+    Subsec. (b)(2)(D)(iii). [Pub. L. 105–194][/us/pl/105/194], § 2(a), added cl. (iii).
 
-    Subsec. (b)(2)(F). [Pub. L. 105–194, § 2(b)][/us/pl/105/194/s2/b], inserted “, which includes fertilizer” before period at end.
+    Subsec. (b)(2)(F). [Pub. L. 105–194][/us/pl/105/194], § 2(b), inserted “, which includes fertilizer” before period at end.
 
  __Change of Name__ 
 
@@ -155,7 +155,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–194, § 2(d)][/us/pl/105/194/s2/d], July 14, 1998, [112 Stat. 627][/us/stat/112/627], provided that: 
+[Pub. L. 105–194][/us/pl/105/194], § 2(d), July 14, 1998, [112 Stat. 627][/us/stat/112/627], provided that: 
 
 > “The amendment made by subsection (a)(3) \[amending this section\] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act \[July 14, 1998\] through September 30, 1999.”
 
@@ -165,7 +165,7 @@
 
  __Waiver of Certain Sanctions Against North Korea__ 
 
-[Pub. L. 110–252, title I, § 1405][/us/pl/110/252/s1405], June 30, 2008, [122 Stat. 2337][/us/stat/122/2337], as amended by [Pub. L. 113–188, title VIII, § 801][/us/pl/113/188/s801], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020]; [Pub. L. 113–235, div. J, title VII, § 7034(i)][/us/pl/113/235/s7034/i], Dec. 16, 2014, [128 Stat. 2624][/us/stat/128/2624], provided that:
+[Pub. L. 110–252, title I][/us/pl/110/252/tI], § 1405, June 30, 2008, [122 Stat. 2337][/us/stat/122/2337], as amended by [Pub. L. 113–188, title VIII][/us/pl/113/188/tVIII], § 801, Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020]; [Pub. L. 113–235, div. J, title VII][/us/pl/113/235/dJ/tVII], § 7034(i), Dec. 16, 2014, [128 Stat. 2624][/us/stat/128/2624], provided that:
 
 >     “(a) __Waiver Authority.—__ 
 
@@ -215,23 +215,23 @@
 
     “(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.”
 
-    \[Amendment of [section 1405 of Pub. L. 110–252][/us/pl/110/252/s1405], set out above, by [section 7034(i) of div. J of Pub. L. 113–235][/us/pl/113/235/s7034/i], which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by [section 801 of Pub. L. 113–188][/us/pl/113/188/s801], which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
+    \[Amendment of [section 1405 of Pub. L. 110–252][/us/pl/110/252/s1405], set out above, by [section 7034(i) of div. J of Pub. L. 113–235][/us/pl/113/235/dJ/s7034/i], which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by [section 801 of Pub. L. 113–188][/us/pl/113/188/s801], which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
  __Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs__ 
 
-[Pub. L. 107–63, title I][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 421][/us/stat/115/421], provided in part: 
+[Pub. L. 107–63, title I][/us/pl/107/63/tI], Nov. 5, 2001, [115 Stat. 421][/us/stat/115/421], provided in part: 
 
 > “That funds made available under this Act \[see Tables for classification\], [Public Law 106–291][/us/pl/106/291] \[see Tables for classification\], and [Public Law 106–554][/us/pl/106/554] \[see Tables for classification\] and hereafter in annual appropriations Acts for rhinoceros, tiger, Asian elephant, and great ape conservation programs are exempt from any sanctions imposed against any country under section 102 of the Arms Export Control Act ([22 U.S.C. 2799aa–1][/us/usc/t22/s2799aa–1]).”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 106–291, title I][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 927][/us/stat/114/927].
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], Oct. 11, 2000, [114 Stat. 927][/us/stat/114/927].
 
-    [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–141.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–141.
 
  __Waiver of Certain Sanctions Against India and Pakistan__ 
 
-[Pub. L. 106–79, title IX, § 9001][/us/pl/106/79/s9001], Oct. 25, 1999, [113 Stat. 1283][/us/stat/113/1283], as amended by [Pub. L. 107–228, div. B, title XIV, § 1405(b)][/us/pl/107/228/s1405/b], Sept. 30, 2002, [116 Stat. 1458][/us/stat/116/1458], provided that:
+[Pub. L. 106–79, title IX][/us/pl/106/79/tIX], § 9001, Oct. 25, 1999, [113 Stat. 1283][/us/stat/113/1283], as amended by [Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1405(b), Sept. 30, 2002, [116 Stat. 1458][/us/stat/116/1458], provided that:
 
 >     “(a)  __Waiver Authority__  __.—__ 
 
@@ -267,11 +267,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __India-Pakistan Relief__ 
 
-    [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title IX\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–40, known as the India-Pakistan Relief Act, provided for a one-year waiver of certain sanctions against India and Pakistan under the Arms Export Control Act, prior to repeal by [Pub. L. 106–79, title IX, § 9001(f)][/us/pl/106/79/s9001/f], Oct. 25, 1999, [113 Stat. 1284][/us/stat/113/1284], effective Oct. 21, 1999.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title IX\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–40, known as the India-Pakistan Relief Act, provided for a one-year waiver of certain sanctions against India and Pakistan under the Arms Export Control Act, prior to repeal by [Pub. L. 106–79, title IX][/us/pl/106/79/tIX], § 9001(f), Oct. 25, 1999, [113 Stat. 1284][/us/stat/113/1284], effective Oct. 21, 1999.
 
  __Effect on Existing Sanctions__ 
 
-[Pub. L. 105–194, § 2(e)][/us/pl/105/194/s2/e], July 14, 1998, [112 Stat. 627][/us/stat/112/627], provided that: 
+[Pub. L. 105–194][/us/pl/105/194], § 2(e), July 14, 1998, [112 Stat. 627][/us/stat/112/627], provided that: 
 
 > “Any sanction imposed under section 102(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] before the date of the enactment of this Act \[July 14, 1998\] shall cease to apply upon that date with respect to the items described in the amendments made by subsections (b) and (c) \[amending this section\]. In the case of the amendment made by subsection (a)(3) \[amending this section\], any sanction imposed under section 102(b)(1) of the Arms Export Control Act before the date of the enactment of this Act shall not be in effect during the period beginning on that date and ending on September 30, 1999, with respect to the activities and items described in the amendment.”
 
@@ -315,11 +315,11 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/103/236/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fa
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F516
-[/us/pl/105/194/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fa
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
 [/us/stat/112/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F627
-[/us/pl/113/276/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F1
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -335,17 +335,17 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
-[/us/pl/105/194/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fc
-[/us/pl/105/194/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fa
-[/us/pl/105/194/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fb
-[/us/pl/105/194/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fd
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
 [/us/stat/112/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F627
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/110/252/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1405
+[/us/pl/110/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtI
 [/us/stat/122/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2337
-[/us/pl/113/188/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs801
+[/us/pl/113/188/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtVIII
 [/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
-[/us/pl/113/235/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Fi
+[/us/pl/113/235/dJ/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2FtVII
 [/us/stat/128/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2624
 [/us/usc/t22/s2799aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb
 [/us/usc/t22/s2799aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb
@@ -353,20 +353,20 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/usc/t22/s2799aa–1/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F1%2FA
 [/us/usc/t22/s2799aa–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F2
 [/us/pl/110/252/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1405
-[/us/pl/113/235/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7034%2Fi
+[/us/pl/113/235/dJ/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdJ%2Fs7034%2Fi
 [/us/pl/113/188/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs801
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F421
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931
-[/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F927
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/79/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs9001
+[/us/pl/106/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtIX
 [/us/stat/113/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1283
-[/us/pl/107/228/s1405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1405%2Fb
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1458
 [/us/usc/t22/s2799aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa
 [/us/usc/t22/s2799aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931
@@ -376,11 +376,11 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/usc/t22/s2799aa–1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F1
 [/us/usc/t22/s2776/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fc
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/106/79/s9001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs9001%2Ff
+[/us/pl/106/79/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtIX
 [/us/stat/113/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1284
-[/us/pl/105/194/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194%2Fs2%2Fe
+[/us/pl/105/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F194
 [/us/stat/112/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F627
 [/us/pl/106/79/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs9001
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

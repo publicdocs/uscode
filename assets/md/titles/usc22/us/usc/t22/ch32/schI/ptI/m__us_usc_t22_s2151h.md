@@ -17,7 +17,7 @@
 
     No assistance shall be furnished by the United States Government to a country under sections 2151a through 2151d of this title until the country provides assurances to the President, and the President is satisfied, that such country will provide at least 25 per centum of the costs of the entire program, project, or activity with respect to which such assistance is to be furnished, except that such costs borne by such country may be provided on an “inkind” basis.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 110, as added [Pub. L. 93–189, § 2(3)][/us/pl/93/189/s2/3], Dec. 17, 1973, [87 Stat. 716][/us/stat/87/716]; amended [Pub. L. 94–161, title III, § 307][/us/pl/94/161/s307], Dec. 20, 1975, [89 Stat. 859][/us/stat/89/859]; [Pub. L. 95–88, title I, § 106][/us/pl/95/88/s106], Aug. 3, 1977, [91 Stat. 535][/us/stat/91/535]; [Pub. L. 95–424, title I, § 112(b)][/us/pl/95/424/s112/b], Oct. 6, 1978, [92 Stat. 949][/us/stat/92/949]; [Pub. L. 99–83, title XII, § 1211(a)(3)][/us/pl/99/83/s1211/a/3], Aug. 8, 1985, [99 Stat. 279][/us/stat/99/279].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 110, as added [Pub. L. 93–189][/us/pl/93/189], § 2(3), Dec. 17, 1973, [87 Stat. 716][/us/stat/87/716]; amended [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 307, Dec. 20, 1975, [89 Stat. 859][/us/stat/89/859]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 106, Aug. 3, 1977, [91 Stat. 535][/us/stat/91/535]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 112(b), Oct. 6, 1978, [92 Stat. 949][/us/stat/92/949]; [Pub. L. 99–83, title XII][/us/pl/99/83/tXII], § 1211(a)(3), Aug. 8, 1985, [99 Stat. 279][/us/stat/99/279].)
 
  __References to Sections 2151a Through 2151d Deemed To Include Section 2293__ 
 
@@ -31,9 +31,9 @@
 
     Subsec. (b). [Pub. L. 95–424][/us/pl/95/424] substituted “No” for “Except for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of ‘relatively least developed countries’, no”.
 
-    1977—Subsec. (a). [Pub. L. 95–88, § 106(1)][/us/pl/95/88/s106/1], substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
+    1977—Subsec. (a). [Pub. L. 95–88][/us/pl/95/88], § 106(1), substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
 
-    Subsec. (b). [Pub. L. 95–88, § 106(2)][/us/pl/95/88/s106/2], inserted provisions creating an exception for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of “relatively least developed countries” and substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
+    Subsec. (b). [Pub. L. 95–88][/us/pl/95/88], § 106(2), inserted provisions creating an exception for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of “relatively least developed countries” and substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
 
     1975—Subsec. (a). [Pub. L. 94–161][/us/pl/94/161] authorized Presidential waiver of cost-sharing as a condition for being furnished project or activity assistance in the case of a relatively least developed country.
 
@@ -57,23 +57,23 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/189/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs2%2F3
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F716
-[/us/pl/94/161/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs307
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F859
-[/us/pl/95/88/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs106
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F535
-[/us/pl/95/424/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs112%2Fb
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F949
-[/us/pl/99/83/s1211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1211%2Fa%2F3
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F279
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/94/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F424
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
-[/us/pl/95/88/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs106%2F1
-[/us/pl/95/88/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs106%2F2
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301

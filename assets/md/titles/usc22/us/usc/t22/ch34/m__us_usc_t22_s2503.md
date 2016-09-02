@@ -37,7 +37,7 @@
 
         Except with the approval of the Secretary of State, the Peace Corps shall not be assigned to perform services which could more usefully be performed by other available agencies of the United States Government in the country concerned.
 
-([Pub. L. 87–293, title I, § 4][/us/pl/87/293/s4], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612]; [Pub. L. 88–426, title III, § 305(27)][/us/pl/88/426/s305/27], Aug. 14, 1964, [78 Stat. 426][/us/stat/78/426]; [Pub. L. 91–352, § 2][/us/pl/91/352/s2], July 24, 1970, [84 Stat. 464][/us/stat/84/464]; [Pub. L. 97–113, title VI, § 601(d)(1)][/us/pl/97/113/s601/d/1], Dec. 29, 1981, [95 Stat. 1541][/us/stat/95/1541].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 4, Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(27), Aug. 14, 1964, [78 Stat. 426][/us/stat/78/426]; [Pub. L. 91–352][/us/pl/91/352], § 2, July 24, 1970, [84 Stat. 464][/us/stat/84/464]; [Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 601(d)(1), Dec. 29, 1981, [95 Stat. 1541][/us/stat/95/1541].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-    Amendment by [Pub. L. 88–426][/us/pl/88/426] effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in [section 501(c) of Pub. L. 88–426][/us/pl/88/426/s501/c], see [Pub. L. 88–426, title V, § 501(a)][/us/pl/88/426/s501/a], Aug. 14, 1964, [78 Stat. 435][/us/stat/78/435].
+    Amendment by [Pub. L. 88–426][/us/pl/88/426] effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in [section 501(c) of Pub. L. 88–426][/us/pl/88/426/s501/c], see [Pub. L. 88–426, title V][/us/pl/88/426/tV], § 501(a), Aug. 14, 1964, [78 Stat. 435][/us/stat/78/435].
 
  __Transfer of Functions__ 
 
@@ -65,7 +65,7 @@
 
  __Conforming Safety and Security Agreement Regarding Peace Corps Volunteers Serving in Foreign Countries__ 
 
-[Pub. L. 112–57, § 7][/us/pl/112/57/s7], Nov. 21, 2011, [125 Stat. 744][/us/stat/125/744], provided that:
+[Pub. L. 112–57][/us/pl/112/57], § 7, Nov. 21, 2011, [125 Stat. 744][/us/stat/125/744], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -93,7 +93,7 @@
 
  __Continuing Functions of Director of Peace Corps From__  __December 14, 1981__ 
 
-[Pub. L. 97–113, title VI, § 601(d)(2)][/us/pl/97/113/s601/d/2], Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542], provided: 
+[Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 601(d)(2), Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542], provided: 
 
 > “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981.”
 
@@ -104,13 +104,13 @@
 ----------
 ----------
 
-[/us/pl/87/293/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs4
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
-[/us/pl/88/426/s305/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F27
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F426
-[/us/pl/91/352/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352%2Fs2
+[/us/pl/91/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352
 [/us/stat/84/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F464
-[/us/pl/97/113/s601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fd%2F1
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1541
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -120,13 +120,13 @@
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
-[/us/pl/88/426/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fa
+[/us/pl/88/426/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtV
 [/us/stat/78/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F435
 [/us/stat/85/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F819
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
-[/us/pl/112/57/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs7
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F744
-[/us/pl/97/113/s601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fd%2F2
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1542
 
 

@@ -17,7 +17,7 @@
 
     The provisions of section 4 of the Bretton Woods Agreements Act ([22 U.S.C. 286b][/us/usc/t22/s286b]) shall apply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
-([Pub. L. 97–35, title XIII, § 1335][/us/pl/97/35/s1335], Aug. 13, 1981, [95 Stat. 741][/us/stat/95/741]; [Pub. L. 101–240, title V, § 541(e)(7)][/us/pl/101/240/s541/e/7], Dec. 19, 1989, [103 Stat. 2519][/us/stat/103/2519].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1335, Aug. 13, 1981, [95 Stat. 741][/us/stat/95/741]; [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(e)(7), Dec. 19, 1989, [103 Stat. 2519][/us/stat/103/2519].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t22/s286b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286b
-[/us/pl/97/35/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1335
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F741
-[/us/pl/101/240/s541/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fe%2F7
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2519
 [/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512

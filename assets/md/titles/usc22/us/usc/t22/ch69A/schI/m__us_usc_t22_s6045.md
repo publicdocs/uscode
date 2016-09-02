@@ -17,7 +17,7 @@
 
     Nothing in this chapter prohibits any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency, or of an intelligence agency, of the United States.
 
-([Pub. L. 104–114, title I, § 115][/us/pl/104/114/s115], Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 115, Mar. 12, 1996, [110 Stat. 803][/us/stat/110/803].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/114/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs115
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F803
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785

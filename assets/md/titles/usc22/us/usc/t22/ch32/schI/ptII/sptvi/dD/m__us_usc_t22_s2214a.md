@@ -95,7 +95,7 @@
 
         (B) living on less than the equivalent of $1 per day (as calculated using the purchasing power parity (PPP) exchange rate method).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 259, as added [Pub. L. 108–484, § 6][/us/pl/108/484/s6], Dec. 23, 2004, [118 Stat. 3929][/us/stat/118/3929].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 259, as added [Pub. L. 108–484][/us/pl/108/484], § 6, Dec. 23, 2004, [118 Stat. 3929][/us/stat/118/3929].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -114,7 +114,7 @@
 
 [/us/usc/t22/s2211a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2211a%2Fb%2F1
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/108/484/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs6
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3929
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346

@@ -19,9 +19,9 @@
 
         It is the sense of Congress that the President should use the authority under chapter 8 of title II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2349aa][/us/usc/t22/s2349aa] et seq.\] (relating to antiterrorism assistance) to improve perimeter security of United States diplomatic missions abroad.
 
-    (b) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 139(20)__  __][/us/pl/103/236/s139/20]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 398__  __][/us/stat/108/398]__  __;__  __[__  __Pub. L. 103–415, § 1(c)__  __][/us/pl/103/415/s1/c]__  __,__  __Oct. 25, 1994__  __,__  __[__  __108 Stat. 4299__  __][/us/stat/108/4299]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 103–236, title I__  __][/us/pl/103/236/tI]__  __, § 139(20),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 398__  __][/us/stat/108/398]__  __;__  __[__  __Pub. L. 103–415__  __][/us/pl/103/415]__  __, § 1(c),__  __Oct. 25, 1994__  __,__  __[__  __108 Stat. 4299__  __][/us/stat/108/4299]__ 
 
-([Pub. L. 99–399, title IV, § 408][/us/pl/99/399/s408], Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866]; [Pub. L. 103–236, title I, § 139(20)][/us/pl/103/236/s139/20], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 103–415, § 1(c)][/us/pl/103/415/s1/c], Oct. 25, 1994, [108 Stat. 4299][/us/stat/108/4299].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 408, Aug. 27, 1986, [100 Stat. 866][/us/stat/100/866]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(20), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 103–415][/us/pl/103/415], § 1(c), Oct. 25, 1994, [108 Stat. 4299][/us/stat/108/4299].)
 
  __References in Text__ 
 
@@ -39,15 +39,15 @@
 ----------
 
 [/us/usc/t22/s2349aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349aa
-[/us/pl/103/236/s139/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F20
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/103/415/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fc
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4299
-[/us/pl/99/399/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs408
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F866
-[/us/pl/103/236/s139/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F20
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/103/415/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fc
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4299
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

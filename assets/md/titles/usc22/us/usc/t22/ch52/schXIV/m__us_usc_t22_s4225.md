@@ -21,11 +21,11 @@
 
     [Section 3522 of title 31][/us/usc/t31/s3522], and any other existing statutes, in so far as they conflict with this section are hereby amended.
 
-([May 24, 1924, ch. 182, § 35][/us/act/1924-05-24/ch182/s35], as added [Feb. 23, 1931, ch. 276, § 7][/us/act/1931-02-23/ch276/s7], [46 Stat. 1216][/us/stat/46/1216]; amended [Pub. L. 92–310, title II, § 227(b)][/us/pl/92/310/s227/b], June 6, 1972, [86 Stat. 207][/us/stat/86/207].)
+([May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], § 35, as added [Feb. 23, 1931, ch. 276][/us/act/1931-02-23/ch276], § 7, [46 Stat. 1216][/us/stat/46/1216]; amended [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 227(b), June 6, 1972, [86 Stat. 207][/us/stat/86/207].)
 
  __Codification__ 
 
-    “[Section 3522 of title 31][/us/usc/t31/s3522]” substituted in text for “Section 3622 of the Revised Statutes of the United States (U.S.C., title 31, sec. 496)”, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “[Section 3522 of title 31][/us/usc/t31/s3522]” substituted in text for “Section 3622 of the Revised Statutes of the United States (U.S.C., title 31, sec. 496)”, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/usc/t31/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3522
-[/us/act/1924-05-24/ch182/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs35
-[/us/act/1931-02-23/ch276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276%2Fs7
+[/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
+[/us/act/1931-02-23/ch276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276
 [/us/stat/46/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1216
-[/us/pl/92/310/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs227%2Fb
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F207
 [/us/usc/t31/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3522
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t22/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs813
 [/us/usc/t22/s23k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs23k

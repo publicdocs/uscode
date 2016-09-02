@@ -51,7 +51,7 @@
 
         (2) shall publish in the Federal Register the information contained in the report described in paragraph (1).
 
-([Pub. L. 108–199, div. D, title VI, § 608][/us/pl/108/199/s608], Jan. 23, 2004, [118 Stat. 217][/us/stat/118/217].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 608, Jan. 23, 2004, [118 Stat. 217][/us/stat/118/217].)
 
 ----------
 
@@ -69,7 +69,7 @@
 [/us/usc/t22/s7706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7706%2Fb
 [/us/usc/t22/s7706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7706
 [/us/usc/t22/s7708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7708
-[/us/pl/108/199/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs608
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F217
 
 

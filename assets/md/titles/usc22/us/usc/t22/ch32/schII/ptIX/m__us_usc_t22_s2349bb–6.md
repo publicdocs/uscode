@@ -43,7 +43,7 @@
 
         Nothing in this section shall be construed to affect the authorities of the Secretary of Defense.
 
-([Pub. L. 109–472, § 11][/us/pl/109/472/s11], Jan. 11, 2007, [120 Stat. 3557][/us/stat/120/3557].)
+([Pub. L. 109–472][/us/pl/109/472], § 11, Jan. 11, 2007, [120 Stat. 3557][/us/stat/120/3557].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Man-Portable Air-Defense Systems Originating From Libya__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1235][/us/pl/112/81/s1235], Dec. 31, 2011, [125 Stat. 1638][/us/stat/125/1638], provided that:
+[Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1235, Dec. 31, 2011, [125 Stat. 1638][/us/stat/125/1638], provided that:
 
 >     “(a)  __Statement of Policy__  __.—__ 
 
@@ -154,9 +154,9 @@
 ----------
 ----------
 
-[/us/pl/109/472/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs11
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3557
-[/us/pl/112/81/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1235
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1638
 [/us/usc/t22/s2349bb–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349bb%E2%80%936
 [/us/usc/t22/s2349bb–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2349bb%E2%80%936

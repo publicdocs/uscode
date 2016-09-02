@@ -19,7 +19,7 @@
 
     The President is authorized and empowered to construct, operate, and maintain on the Rio Grande River below Fort Quitman, Texas, any and all works or projects which are recommended to the President as the result of such investigations and by the President are deemed necessary and proper.
 
-([May 13, 1924, ch. 153, § 2][/us/act/1924-05-13/ch153/s2], [43 Stat. 118][/us/stat/43/118]; [Mar. 3, 1927, ch. 381, § 2][/us/act/1927-03-03/ch381/s2], [44 Stat. 1403][/us/stat/44/1403]; [Aug. 19, 1935, ch. 561][/us/act/1935-08-19/ch561], [49 Stat. 660][/us/stat/49/660]; [Pub. L. 101–246, title IV, § 412(b)(2)][/us/pl/101/246/s412/b/2], Feb. 16, 1990, [104 Stat. 70][/us/stat/104/70].)
+([May 13, 1924, ch. 153][/us/act/1924-05-13/ch153], § 2, [43 Stat. 118][/us/stat/43/118]; [Mar. 3, 1927, ch. 381][/us/act/1927-03-03/ch381], § 2, [44 Stat. 1403][/us/stat/44/1403]; [Aug. 19, 1935, ch. 561][/us/act/1935-08-19/ch561], [49 Stat. 660][/us/stat/49/660]; [Pub. L. 101–246, title IV][/us/pl/101/246/tIV], § 412(b)(2), Feb. 16, 1990, [104 Stat. 70][/us/stat/104/70].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Repeals__ 
 
-    Act Mar. 3, 1927, cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647].
+    Act Mar. 3, 1927, cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647].
 
  __Water Resources Planning__ 
 
@@ -48,18 +48,18 @@
 ----------
 ----------
 
-[/us/act/1924-05-13/ch153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-13%2Fch153%2Fs2
+[/us/act/1924-05-13/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-13%2Fch153
 [/us/stat/43/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F118
-[/us/act/1927-03-03/ch381/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch381%2Fs2
+[/us/act/1927-03-03/ch381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch381
 [/us/stat/44/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1403
 [/us/act/1935-08-19/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-19%2Fch561
 [/us/stat/49/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F660
-[/us/pl/101/246/s412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs412%2Fb%2F2
+[/us/pl/101/246/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtIV
 [/us/stat/104/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F70
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
 [/us/stat/47/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F417
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F647
 [/us/usc/t42/s1962–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%E2%80%931
 

@@ -89,7 +89,7 @@
 
         (3) the term “Bank” means the Export-Import Bank of the United States.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 225, as added [Pub. L. 101–179, title III, § 304(a)][/us/pl/101/179/s304/a], Nov. 28, 1989, [103 Stat. 1312][/us/stat/103/1312].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 225, as added [Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 304(a), Nov. 28, 1989, [103 Stat. 1312][/us/stat/103/1312].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 
  __Conforming Reference__ 
 
-[Pub. L. 101–179, title III, § 304(c)][/us/pl/101/179/s304/c], Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], provided that: 
+[Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 304(c), Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], provided that: 
 
 > “With respect to Poland, any reference in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[[Pub. L. 101–167][/us/pl/101/167], Nov. 21, 1989, [103 Stat. 1195][/us/stat/103/1195]\], to section 224 of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2184][/us/usc/t22/s2184]\] shall be deemed to be a reference to section 225 of that Act \[[22 U.S.C. 2185][/us/usc/t22/s2185]\] (as enacted by this section).”
 
@@ -119,7 +119,7 @@
 [/us/usc/t12/s635/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635%2Fb%2F1%2FB
 [/us/usc/t12/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/179/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs304%2Fa
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1312
 [/us/act/1945-07-31/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch341
 [/us/stat/59/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F526
@@ -127,7 +127,7 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/101/179/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs304%2Fc
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1314
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167
 [/us/stat/103/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1195

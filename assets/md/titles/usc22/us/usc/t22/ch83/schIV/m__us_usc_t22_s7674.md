@@ -17,7 +17,7 @@
 
     It is the sense of Congress that United States businesses should be encouraged to provide assistance to sub-Saharan African countries to prevent and reduce the incidence of HIV/AIDS in sub-Saharan Africa. In providing such assistance, United States businesses should be encouraged to consider the establishment of an HIV/AIDS Response Fund in order to provide for coordination among such businesses in the collection and distribution of the assistance to sub-Saharan African countries.
 
-([Pub. L. 108–25, title IV, § 404][/us/pl/108/25/s404], May 27, 2003, [117 Stat. 746][/us/stat/117/746].)
+([Pub. L. 108–25, title IV][/us/pl/108/25/tIV], § 404, May 27, 2003, [117 Stat. 746][/us/stat/117/746].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/25/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs404
+[/us/pl/108/25/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtIV
 [/us/stat/117/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F746
 
 

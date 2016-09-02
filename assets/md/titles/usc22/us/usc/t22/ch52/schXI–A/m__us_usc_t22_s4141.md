@@ -23,7 +23,7 @@
 
         The objective of this subchapter is to strengthen and improve the Foreign Service of the United States through the establishment of a Foreign Service Internship Program. The program shall promote the Foreign Service as a viable and rewarding career opportunity for qualified individuals who reflect the cultural and ethnic diversity of the United States through a highly selective internship program for students enrolled in institutions of higher education.
 
-([Pub. L. 96–465, title I, § 1201][/us/pl/96/465/s1201], as added [Pub. L. 101–246, title I, § 149(b)][/us/pl/101/246/s149/b], Feb. 16, 1990, [104 Stat. 39][/us/stat/104/39].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1201, as added [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 149(b), Feb. 16, 1990, [104 Stat. 39][/us/stat/104/39].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/96/465/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1201
-[/us/pl/101/246/s149/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs149%2Fb
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F39
 
 

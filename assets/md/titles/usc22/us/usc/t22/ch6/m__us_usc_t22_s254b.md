@@ -17,7 +17,7 @@
 
     With respect to a nonparty to the Vienna Convention, the mission, the members of the mission, their families, and diplomatic couriers shall enjoy the privileges and immunities specified in the Vienna Convention.
 
-([Pub. L. 95–393, § 3(b)][/us/pl/95/393/s3/b], Sept. 30, 1978, [92 Stat. 808][/us/stat/92/808]; [Pub. L. 97–241, title II, § 203(b)(2)][/us/pl/97/241/s203/b/2], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
+([Pub. L. 95–393][/us/pl/95/393], § 3(b), Sept. 30, 1978, [92 Stat. 808][/us/stat/92/808]; [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 203(b)(2), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/393/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393%2Fs3%2Fb
+[/us/pl/95/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F393
 [/us/stat/92/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F808
-[/us/pl/97/241/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs203%2Fb%2F2
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241

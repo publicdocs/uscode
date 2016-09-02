@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262l" data-uslm-ref="/us/usc/t22/s262l">262l.</a>  </td>
 
     <td> Environmental reform measures and remedial measures; Committee on Health and the Environment.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262l" data-uslm-ref="/us/usc/t22/s262l">262l</a>–1.  </td>
 
     <td> Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; “early warning system”.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262l" data-uslm-ref="/us/usc/t22/s262l">262l</a>–2.  </td>
 
     <td> Sustainable use of natural resources; use of agricultural and industrial chemicals.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262l" data-uslm-ref="/us/usc/t22/s262l">262l</a>–3.  </td>
 
     <td> Environmental and energy initiatives; benchmarks; Global Warming Initiative; appropriations.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262o" data-uslm-ref="/us/usc/t22/s262o">262o.</a>  </td>
 
     <td> Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262o" data-uslm-ref="/us/usc/t22/s262o">262o</a>–1.  </td>
 
     <td> Military spending by recipient countries; military involvement in economies of recipient countries.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262o" data-uslm-ref="/us/usc/t22/s262o">262o</a>–2.  </td>
 
     <td> Advocacy of policies to enhance general effectiveness of International Monetary Fund.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>o–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262o" data-uslm-ref="/us/usc/t22/s262o">262o</a>–3.  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262" data-uslm-ref="/us/usc/t22/s262">262</a>o–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262o" data-uslm-ref="/us/usc/t22/s262o">262o</a>–4.  </td>
 
     <td> Promotion of policy goals.  </td>
 
@@ -489,7 +489,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934" data-uslm-ref="/us/usc/t22/s262p–4">262p–4</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934l" data-uslm-ref="/us/usc/t22/s262p–4l">262p–4l.</a>  </td>
 
     <td> Improvement of interaction between International Bank for Reconstruction and Development and nongovernmental organizations.  </td>
 
@@ -513,7 +513,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934" data-uslm-ref="/us/usc/t22/s262p–4">262p–4</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934o" data-uslm-ref="/us/usc/t22/s262p–4o">262p–4o.</a>  </td>
 
     <td> Respect for indigenous peoples.  </td>
 
@@ -1105,7 +1105,7 @@ SUBCHAPTER II–A—BRITISH-AMERICAN INTERPARLIAMENTARY GROUP  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276" data-uslm-ref="/us/usc/t22/s276">276</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276l" data-uslm-ref="/us/usc/t22/s276l">276l.</a>  </td>
 
     <td> British-American Interparliamentary Group.  </td>
 
@@ -1153,7 +1153,7 @@ SUBCHAPTER II–D—UNITED STATES SENATE-RUSSIA INTERPARLIAMENTARY GROUP  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276" data-uslm-ref="/us/usc/t22/s276">276</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276o" data-uslm-ref="/us/usc/t22/s276o">276o.</a>  </td>
 
     <td> United States Senate-Russia Interparliamentary Group.  </td>
 
@@ -1881,7 +1881,7 @@ SUBCHAPTER X—THE INSTITUTE OF INTER-AMERICAN AFFAIRS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281" data-uslm-ref="/us/usc/t22/s281">281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs281l" data-uslm-ref="/us/usc/t22/s281l">281l</a>.  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -1993,7 +1993,7 @@ SUBCHAPTER XI—INTERNATIONAL FINANCE CORPORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs282" data-uslm-ref="/us/usc/t22/s282">282</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs282l" data-uslm-ref="/us/usc/t22/s282l">282l.</a>  </td>
 
     <td> Capital stock increase.  </td>
 
@@ -2017,7 +2017,7 @@ SUBCHAPTER XI—INTERNATIONAL FINANCE CORPORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs282" data-uslm-ref="/us/usc/t22/s282">282</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs282o" data-uslm-ref="/us/usc/t22/s282o">282o.</a>  </td>
 
     <td> Selective capital increase and amendment of the Articles of Agreement.  </td>
 
@@ -2137,7 +2137,7 @@ SUBCHAPTER XII—INTER-AMERICAN DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs283" data-uslm-ref="/us/usc/t22/s283">283</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs283l" data-uslm-ref="/us/usc/t22/s283l">283l.</a>  </td>
 
     <td> Increase in resources of the Fund for Special Operations.  </td>
 
@@ -2161,7 +2161,7 @@ SUBCHAPTER XII—INTER-AMERICAN DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs283" data-uslm-ref="/us/usc/t22/s283">283</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs283o" data-uslm-ref="/us/usc/t22/s283o">283o.</a>  </td>
 
     <td> Increase in authorized capital stock and additional subscriptions of members thereto; increase in resources of Fund for Special Operations and contributions thereto; United States share; authorization of appropriations.  </td>
 
@@ -2545,7 +2545,7 @@ SUBCHAPTER XIII—INTERNATIONAL DEVELOPMENT ASSOCIATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs284" data-uslm-ref="/us/usc/t22/s284">284</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs284l" data-uslm-ref="/us/usc/t22/s284l">284l.</a>  </td>
 
     <td> Fourth replenishment; authorization of appropriations.  </td>
 
@@ -2569,7 +2569,7 @@ SUBCHAPTER XIII—INTERNATIONAL DEVELOPMENT ASSOCIATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs284" data-uslm-ref="/us/usc/t22/s284">284</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs284o" data-uslm-ref="/us/usc/t22/s284o">284o.</a>  </td>
 
     <td> Sixth replenishment; authorization of appropriations.  </td>
 
@@ -2777,7 +2777,7 @@ SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs285" data-uslm-ref="/us/usc/t22/s285">285</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs285l" data-uslm-ref="/us/usc/t22/s285l">285l.</a>  </td>
 
     <td> Letter of credit form for United States Special Resources.  </td>
 
@@ -2801,7 +2801,7 @@ SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs285" data-uslm-ref="/us/usc/t22/s285">285</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs285o" data-uslm-ref="/us/usc/t22/s285o">285o.</a>  </td>
 
     <td> Expropriation of United States property; loan restrictions.  </td>
 
@@ -3105,7 +3105,7 @@ SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286e%E2%80%931" data-uslm-ref="/us/usc/t22/s286e–1">286e–1</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286e%E2%80%931l" data-uslm-ref="/us/usc/t22/s286e–1l">286e–1l.</a>  </td>
 
     <td> Quota increase to 8,608,500,000 Special Drawing Rights.  </td>
 
@@ -3297,7 +3297,7 @@ SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286" data-uslm-ref="/us/usc/t22/s286">286</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286l" data-uslm-ref="/us/usc/t22/s286l">286l.</a>  </td>
 
     <td> British loan; authorization to Secretary of the Treasury to carry out agreement.  </td>
 
@@ -3321,7 +3321,7 @@ SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286" data-uslm-ref="/us/usc/t22/s286">286</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286o" data-uslm-ref="/us/usc/t22/s286o">286o.</a>  </td>
 
     <td> Administration as part of the Exchange Stabilization Fund.  </td>
 
@@ -3505,7 +3505,7 @@ SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286" data-uslm-ref="/us/usc/t22/s286">286</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286ll" data-uslm-ref="/us/usc/t22/s286ll">286ll.</a>  </td>
 
     <td> Fund policy changes.  </td>
 
@@ -3529,7 +3529,7 @@ SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVE
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286" data-uslm-ref="/us/usc/t22/s286">286</a>oo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs286oo" data-uslm-ref="/us/usc/t22/s286oo">286oo.</a>  </td>
 
     <td> Principles for International Monetary Fund lending.  </td>
 
@@ -3745,7 +3745,7 @@ SUBCHAPTER XVI—UNITED NATIONS ORGANIZATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs287" data-uslm-ref="/us/usc/t22/s287">287</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs287l" data-uslm-ref="/us/usc/t22/s287l">287l.</a>  </td>
 
     <td> Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members.  </td>
 
@@ -3777,7 +3777,7 @@ SUBCHAPTER XVII—UNITED NATIONS EDUCATIONAL, SCIENTIFIC, AND CULTURAL ORGANIZAT
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs287" data-uslm-ref="/us/usc/t22/s287">287</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs287o" data-uslm-ref="/us/usc/t22/s287o">287o.</a>  </td>
 
     <td> National Commission on Educational, Scientific, and Cultural Cooperation; membership; meetings; expenses.  </td>
 
@@ -3985,7 +3985,7 @@ SUBCHAPTER XVIII—PRIVILEGES AND IMMUNITIES OF INTERNATIONAL ORGANIZATIONS  </t
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs288" data-uslm-ref="/us/usc/t22/s288">288</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs288l" data-uslm-ref="/us/usc/t22/s288l">288l.</a>  </td>
 
     <td> The Holy See.  </td>
 
@@ -4649,7 +4649,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l.</a>  </td>
 
     <td> Acceptance of membership.  </td>
 
@@ -4657,7 +4657,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–1.  </td>
 
     <td> Governor and alternate Governor.  </td>
 
@@ -4665,7 +4665,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–2.  </td>
 
     <td> Applicability of certain provisions of Bretton Woods Agreements Act.  </td>
 
@@ -4673,7 +4673,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–3.  </td>
 
     <td> Federal Reserve banks as depositories.  </td>
 
@@ -4681,7 +4681,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–4.  </td>
 
     <td> Subscription of stock.  </td>
 
@@ -4689,7 +4689,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–5.  </td>
 
     <td> Jurisdiction and venue of civil actions by or against Bank.  </td>
 
@@ -4697,7 +4697,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–6.  </td>
 
     <td> Effectiveness of Agreement.  </td>
 
@@ -4705,7 +4705,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–7.  </td>
 
     <td> Exemption from securities laws for certain securities issued by Bank; reports required.  </td>
 
@@ -4713,7 +4713,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–8.  </td>
 
     <td> Congressional consultations.  </td>
 
@@ -4721,7 +4721,7 @@ SUBCHAPTER XXVII—EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>l–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290l" data-uslm-ref="/us/usc/t22/s290l">290l</a>–9.  </td>
 
     <td> Capital increase.  </td>
 
@@ -4865,7 +4865,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o.</a>  </td>
 
     <td> Acceptance of membership.  </td>
 
@@ -4873,7 +4873,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–1.  </td>
 
     <td> Governor and alternate Governor.  </td>
 
@@ -4881,7 +4881,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–2.  </td>
 
     <td> Applicability of certain provisions of Bretton Woods Agreements Act.  </td>
 
@@ -4889,7 +4889,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–3.  </td>
 
     <td> Federal Reserve Banks as depositories.  </td>
 
@@ -4897,7 +4897,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–4.  </td>
 
     <td> Subscription of stock.  </td>
 
@@ -4905,7 +4905,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–5.  </td>
 
     <td> Jurisdiction and venue of civil actions by or against Bank.  </td>
 
@@ -4913,7 +4913,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–6.  </td>
 
     <td> Effectiveness of Agreement.  </td>
 
@@ -4921,7 +4921,7 @@ SUBCHAPTER XXX—MIDDLE EAST DEVELOPMENT BANK  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290" data-uslm-ref="/us/usc/t22/s290">290</a>o–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290o" data-uslm-ref="/us/usc/t22/s290o">290o</a>–7.  </td>
 
     <td> Exemption from securities laws for certain securities issued by Bank; reports required.  </td>
 

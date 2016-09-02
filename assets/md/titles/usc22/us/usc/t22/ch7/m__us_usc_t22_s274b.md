@@ -23,7 +23,7 @@
 
         For this purpose, the Congress authorizes and requests all Federal departments and agencies having functions or objectives which coincide with or are related to those of the international biological program to obligate or make appropriate transfers of funds to the program from moneys available for such functions or objectives and provide such other support as may be appropriate.
 
-([Pub. L. 91–438, § 2][/us/pl/91/438/s2], Oct. 7, 1970, [84 Stat. 889][/us/stat/84/889].)
+([Pub. L. 91–438][/us/pl/91/438], § 2, Oct. 7, 1970, [84 Stat. 889][/us/stat/84/889].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/438/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F438%2Fs2
+[/us/pl/91/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F438
 [/us/stat/84/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F889
 
 

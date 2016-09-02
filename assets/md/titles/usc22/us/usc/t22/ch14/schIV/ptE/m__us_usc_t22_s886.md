@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch14/schIV/ptE/m__us_usc_t22_ch14_schIV_ptE.md) | [Next](./../../../../../..//us/usc/t22/ch14/schIV/ptE/m__us_usc_t22_s887.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs886)
 
-## § 886. Repealed. [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
+## § 886. Repealed. [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159]
 
-    Section, acts [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title IV, § 441, [60 Stat. 1005][/us/stat/60/1005]; Sept. 8, 1960, [Pub. L. 86–723, § 5][/us/pl/86/723/s5], [74 Stat. 831][/us/stat/74/831], related to classification of positions in Service and in Department.
+    Section, acts [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title IV, § 441, [60 Stat. 1005][/us/stat/60/1005]; Sept. 8, 1960, [Pub. L. 86–723][/us/pl/86/723], § 5, [74 Stat. 831][/us/stat/74/831], related to classification of positions in Service and in Department.
 
  __Effective Date of Repeal__ 
 
@@ -23,7 +23,7 @@
 
  __Rules Governing Salary Determinations for Initial Classification__ 
 
-    [Act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1105, [60 Stat. 1034][/us/stat/60/1034], which related to applicability of rules for salary determinations for initial classification, was repealed by [Pub. L. 96–465, title II, § 2205(1)][/us/pl/96/465/s2205/1], Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
+    [Act Aug. 13, 1946, ch. 957, title XI][/us/act/1946-08-13/ch957/tXI], § 1105, [60 Stat. 1034][/us/stat/60/1034], which related to applicability of rules for salary determinations for initial classification, was repealed by [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2205(1), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].
 
 ----------
 
@@ -32,17 +32,17 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1005
-[/us/pl/86/723/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723%2Fs5
+[/us/pl/86/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F723
 [/us/stat/74/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F831
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/act/1946-08-13/ch957/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957%2FtXI
 [/us/stat/60/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1034
-[/us/pl/96/465/s2205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2205%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 
 

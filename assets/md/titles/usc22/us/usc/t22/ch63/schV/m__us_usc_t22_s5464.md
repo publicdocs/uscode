@@ -25,7 +25,7 @@
 
     (4) the United States mission in Krakow, Poland, should be assigned one additional economic and commercial officer.
 
-([Pub. L. 101–179, title VI, § 604][/us/pl/101/179/s604], Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
+([Pub. L. 101–179, title VI][/us/pl/101/179/tVI], § 604, Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/101/179/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs604
+[/us/pl/101/179/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVI
 [/us/stat/103/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1320
 
 

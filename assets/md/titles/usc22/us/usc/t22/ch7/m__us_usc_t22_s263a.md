@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs263a)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s264 _us_usc_t22_s265.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs263a)
 
 ## § 263a. International Criminal Police Organization
 
     The Attorney General is authorized to accept and maintain, on behalf of the United States, membership in the International Criminal Police Organization, and to designate any departments and agencies which may participate in the United States representation with that organization. All dues and expenses to be paid for the membership of the United States shall be paid out of sums authorized and appropriated for the Department of Justice.
 
-([June 10, 1938, ch. 335][/us/act/1938-06-10/ch335], [52 Stat. 640][/us/stat/52/640]; [Pub. L. 85–768][/us/pl/85/768], Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921]; [Pub. L. 90–159][/us/pl/90/159], Nov. 28, 1967, [81 Stat. 517][/us/stat/81/517]; [Pub. L. 92–380, § 1][/us/pl/92/380/s1], Aug. 10, 1972, [86 Stat. 531][/us/stat/86/531]; [Pub. L. 93–468, § 1][/us/pl/93/468/s1], Oct. 24, 1974, [88 Stat. 1422][/us/stat/88/1422]; [Pub. L. 95–624, § 21(a)][/us/pl/95/624/s21/a], Nov. 9, 1978, [92 Stat. 3466][/us/stat/92/3466].)
+([June 10, 1938, ch. 335][/us/act/1938-06-10/ch335], [52 Stat. 640][/us/stat/52/640]; [Pub. L. 85–768][/us/pl/85/768], Aug. 27, 1958, [72 Stat. 921][/us/stat/72/921]; [Pub. L. 90–159][/us/pl/90/159], Nov. 28, 1967, [81 Stat. 517][/us/stat/81/517]; [Pub. L. 92–380][/us/pl/92/380], § 1, Aug. 10, 1972, [86 Stat. 531][/us/stat/86/531]; [Pub. L. 93–468][/us/pl/93/468], § 1, Oct. 24, 1974, [88 Stat. 1422][/us/stat/88/1422]; [Pub. L. 95–624][/us/pl/95/624], § 21(a), Nov. 9, 1978, [92 Stat. 3466][/us/stat/92/3466].)
 
  __Amendments__ 
 
@@ -31,17 +31,9 @@
 
     1958—[Pub. L. 85–768][/us/pl/85/768] authorized the Attorney General to designate departments and agencies which may participate, on a pro rata share basis, in the United States representation with the International Criminal Police Organization, and increased from $1,500 to $25,000 per annum the amount of expenses which may be incurred by reason of United States membership.
 
-§§ 264, 265. __Omitted__ 
-
- __Codification__ 
-
-    Section 264, [act Aug. 18, 1894, ch. 301][/us/act/1894-08-18/ch301], [28 Stat. 418][/us/stat/28/418], which related to Pan American Union, was superseded by Convention of 1928, ratified by the United States and providing that the government of Pan American Union should be vested in a governing board.
-
-    Section 265, [act Jan. 25, 1929, ch. 102][/us/act/1929-01-25/ch102], title I, [45 Stat. 1102][/us/stat/45/1102], which was from an appropriation act, related to disposition of receipts of Pan American Union, and was not repeated in subsequent appropriation acts.
-
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s266.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs263a)
+[Previous](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s263.md) | [Next](./../../../..//us/usc/t22/ch7/m__us_usc_t22_s264 _us_usc_t22_s265.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs263a)
 
 ----------
 ----------
@@ -52,20 +44,16 @@
 [/us/stat/72/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F921
 [/us/pl/90/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F159
 [/us/stat/81/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F517
-[/us/pl/92/380/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F380%2Fs1
+[/us/pl/92/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F380
 [/us/stat/86/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F531
-[/us/pl/93/468/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F468%2Fs1
+[/us/pl/93/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F468
 [/us/stat/88/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1422
-[/us/pl/95/624/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624%2Fs21%2Fa
+[/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/92/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3466
 [/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/pl/93/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F468
 [/us/pl/92/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F380
 [/us/pl/90/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F159
 [/us/pl/85/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F768
-[/us/act/1894-08-18/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301
-[/us/stat/28/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F418
-[/us/act/1929-01-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-25%2Fch102
-[/us/stat/45/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1102
 
 

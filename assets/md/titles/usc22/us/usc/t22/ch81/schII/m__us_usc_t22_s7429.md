@@ -17,7 +17,7 @@
 
     Funds withheld from the United States share of assessments to the United Nations or any other international organization during any fiscal year pursuant to [section 7401 of this title][/us/usc/t22/s7401] are authorized to be transferred to the Embassy Security, Construction and Maintenance Account of the Department of State.
 
-([Pub. L. 107–206, title II, § 2010][/us/pl/107/206/s2010], Aug. 2, 2002, [116 Stat. 906][/us/stat/116/906].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2010, Aug. 2, 2002, [116 Stat. 906][/us/stat/116/906].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7401
-[/us/pl/107/206/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2010
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F906
 
 

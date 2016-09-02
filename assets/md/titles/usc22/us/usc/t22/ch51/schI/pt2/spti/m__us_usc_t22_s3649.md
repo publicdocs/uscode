@@ -23,7 +23,7 @@
 
     (3) who is covered by the Social Security System of the Republic of Panama pursuant to any provision of the Panama Canal Treaty of 1977 and related agreements.
 
-([Pub. L. 96–70, title I, § 1209][/us/pl/96/70/s1209], Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 104–201, div. C, title XXXV, § 3527][/us/pl/104/201/s3527], Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1209, Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3527, Sept. 23, 1996, [110 Stat. 2861][/us/stat/110/2861].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1209
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F463
-[/us/pl/104/201/s3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3527
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2861
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/96/70/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1209

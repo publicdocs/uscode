@@ -67,11 +67,11 @@
 
         The sole relief and remedy available to any person seeking satisfaction of a debt claim out of any property vested in the designee under [section 1631a(a) of this title][/us/usc/t22/s1631a/a], or the proceeds thereof, shall be the relief and remedy provided in this section, and suits for the satisfaction of debt claims shall not be instituted, prosecuted, or further maintained except in conformity with this section. No person asserting any interest, right, or title in any property or proceeds acquired by the designee shall be barred from proceeding pursuant to this subchapter for the return thereof, by reason of any proceeding which he may have brought pursuant to this section; nor shall any security interest asserted by the creditor in any such property or proceeds be deemed to have been waived solely by reason of such proceeding. Nothing contained in this section shall bar any person from the prosecution of any suit at law or in equity against the original debtor or against any other person who may be liable for the payment of any debt for which a claim might have been filed hereunder. No purchaser, lessee, licensee, or other transferee of any property from the designee shall, solely by reason of such purchase, lease, license, or transfer, become liable for the payment of any debt owed by the person who owned such property prior to its vesting in the designee. Payment by the designee to any debt claimant shall constitute, to the extent of payment, a discharge of the indebtedness represented by the claim.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 208, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 565][/us/stat/69/565].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 208, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 565][/us/stat/69/565].)
 
  __Codification__ 
 
-    In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the Revised Statutes (31 U.S.C., secs. 191 and 193)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the Revised Statutes (31 U.S.C., secs. 191 and 193)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -84,9 +84,9 @@
 [/us/usc/t22/s1631k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631k
 [/us/usc/t22/s1631a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631a%2Fa
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F565
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

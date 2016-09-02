@@ -39,7 +39,7 @@
 
         (2) specific actions and activities of chiefs of missions and other United States officials to promote democracy and protect human rights in each such country.
 
-([Pub. L. 110–53, title XXI, § 2121][/us/pl/110/53/s2121], Aug. 3, 2007, [121 Stat. 531][/us/stat/121/531].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2121, Aug. 3, 2007, [121 Stat. 531][/us/stat/121/531].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2121
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F531
 [/us/pl/110/53/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2121
 [/us/pl/110/53/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2121

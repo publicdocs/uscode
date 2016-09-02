@@ -19,7 +19,7 @@
 
     (b) In addition to the amount authorized in subsection (a), there is authorized to be appropriated not to exceed $1,000,000 annually for each of the fiscal years 1968 and 1969 for the maintenance of United States installations and activities at Interama.
 
-([Pub. L. 89–355, § 5][/us/pl/89/355/s5], Feb. 19, 1966, [80 Stat. 7][/us/stat/80/7].)
+([Pub. L. 89–355][/us/pl/89/355], § 5, Feb. 19, 1966, [80 Stat. 7][/us/stat/80/7].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/355/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs5
+[/us/pl/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355
 [/us/stat/80/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F7
 [/us/pl/89/355/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs2%2Fb
 [/us/usc/t22/s2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2082

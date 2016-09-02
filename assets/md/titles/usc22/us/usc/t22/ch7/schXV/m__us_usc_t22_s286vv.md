@@ -47,7 +47,7 @@
 
         (4) Of the amount authorized to be appropriated under paragraph (3), $278,370,088 shall be for paid in shares of the Bank, and $4,361,131,378 shall be for callable shares of the Bank.
 
-([July 31, 1945, ch. 339, § 70][/us/act/1945-07-31/ch339/s70], as added [Pub. L. 112–74, div. I, title VII, § 7081(a)][/us/pl/112/74/s7081/a], Dec. 23, 2011, [125 Stat. 1259][/us/stat/125/1259]; amended [Pub. L. 113–6, div. F, title VII, § 1704(d)][/us/pl/113/6/s1704/d], Mar. 26, 2013, [127 Stat. 429][/us/stat/127/429].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 70, as added [Pub. L. 112–74, div. I, title VII][/us/pl/112/74/dI/tVII], § 7081(a), Dec. 23, 2011, [125 Stat. 1259][/us/stat/125/1259]; amended [Pub. L. 113–6, div. F, title VII][/us/pl/113/6/dF/tVII], § 1704(d), Mar. 26, 2013, [127 Stat. 429][/us/stat/127/429].)
 
  __Amendments__ 
 
@@ -60,10 +60,10 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs70
-[/us/pl/112/74/s7081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7081%2Fa
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/112/74/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdI%2FtVII
 [/us/stat/125/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1259
-[/us/pl/113/6/s1704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1704%2Fd
+[/us/pl/113/6/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtVII
 [/us/stat/127/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F429
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 

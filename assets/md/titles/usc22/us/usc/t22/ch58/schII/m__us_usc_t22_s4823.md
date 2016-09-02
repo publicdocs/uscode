@@ -17,7 +17,7 @@
 
     Special agent positions shall be filled in accordance with the provisions of the Foreign Service Act of 1980 ([22 U.S.C. 3901][/us/usc/t22/s3901] et seq.) and title 5. In filling such positions, the Secretary of State shall actively recruit women and members of minority groups. The Secretary of State shall prescribe the qualifications required for assignment or appointment to such positions. The qualifications may include minimum and maximum entry age restrictions and other physical standards and shall incorporate such standards as may be required by law in order to perform security functions, to bear arms, and to exercise investigatory, warrant, arrest, and such other authorities as are available by law to special agents of the Department of State and the Foreign Service.
 
-([Pub. L. 99–399, title II, § 203][/us/pl/99/399/s203], Aug. 27, 1986, [100 Stat. 858][/us/stat/100/858]; [Pub. L. 103–236, title I, § 162(g)(9)][/us/pl/103/236/s162/g/9], Apr. 30, 1994, [108 Stat. 407][/us/stat/108/407].)
+([Pub. L. 99–399, title II][/us/pl/99/399/tII], § 203, Aug. 27, 1986, [100 Stat. 858][/us/stat/100/858]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(g)(9), Apr. 30, 1994, [108 Stat. 407][/us/stat/108/407].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/99/399/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs203
+[/us/pl/99/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtII
 [/us/stat/100/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F858
-[/us/pl/103/236/s162/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fg%2F9
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F407
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

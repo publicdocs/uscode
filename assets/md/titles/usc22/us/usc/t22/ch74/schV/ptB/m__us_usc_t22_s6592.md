@@ -17,7 +17,7 @@
 
     The Administrator of the Agency for International Development, appointed pursuant to [section 2384(a) of this title][/us/usc/t22/s2384/a], shall report to and be under the direct authority and foreign policy guidance of the Secretary of State.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XV, § 1522, Oct. 21, 1998, [112 Stat. 2681–794][/us/stat/112/2681-794].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XV, § 1522, Oct. 21, 1998, [112 Stat. 2681–794][/us/stat/112/2681-794].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s2384/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2384%2Fa
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-794
 
 

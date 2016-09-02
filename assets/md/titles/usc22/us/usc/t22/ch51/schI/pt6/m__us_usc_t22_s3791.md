@@ -21,7 +21,7 @@
 
     (2) the tolls that shall be levied for use of the Panama Canal.
 
-([Pub. L. 96–70, title I, § 1601][/us/pl/96/70/s1601], Sept. 27, 1979, [93 Stat. 489][/us/stat/93/489]; [Pub. L. 104–106, div. C, title XXXV, § 3527][/us/pl/104/106/s3527], Feb. 10, 1996, [110 Stat. 641][/us/stat/110/641].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1601, Sept. 27, 1979, [93 Stat. 489][/us/stat/93/489]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3527, Feb. 10, 1996, [110 Stat. 641][/us/stat/110/641].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1601
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F489
-[/us/pl/104/106/s3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3527
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F641
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452

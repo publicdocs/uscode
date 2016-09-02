@@ -61,7 +61,7 @@
 
         (3) The term “assistance” includes operational, training, intelligence, logistical, technical, and administrative assistance.
 
-([Pub. L. 103–337, div. A, title X, § 1012][/us/pl/103/337/s1012], Oct. 5, 1994, [108 Stat. 2837][/us/stat/108/2837]; [Pub. L. 107–108, title V, § 503][/us/pl/107/108/s503], Dec. 28, 2001, [115 Stat. 1405][/us/stat/115/1405]; [Pub. L. 107–306, title VIII, § 811(b)(6)][/us/pl/107/306/s811/b/6], Nov. 27, 2002, [116 Stat. 2425][/us/stat/116/2425].)
+([Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1012, Oct. 5, 1994, [108 Stat. 2837][/us/stat/108/2837]; [Pub. L. 107–108, title V][/us/pl/107/108/tV], § 503, Dec. 28, 2001, [115 Stat. 1405][/us/stat/115/1405]; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(6), Nov. 27, 2002, [116 Stat. 2425][/us/stat/116/2425].)
 
  __Codification__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (c)(1). [Pub. L. 107–306, § 811(b)(6)(A)][/us/pl/107/306/s811/b/6/A], substituted “Except as provided in paragraph (2), not later than” for “Not later than”.
+    2002—Subsec. (c)(1). [Pub. L. 107–306][/us/pl/107/306], § 811(b)(6)(A), substituted “Except as provided in paragraph (2), not later than” for “Not later than”.
 
-    Subsec. (c)(2), (3). [Pub. L. 107–306, § 811(b)(6)(B)][/us/pl/107/306/s811/b/6/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 107–306][/us/pl/107/306], § 811(b)(6)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    2001—Subsec. (a)(2). [Pub. L. 107–108, § 503(a)][/us/pl/107/108/s503/a], substituted “has, during the 12-month period ending on the date of the interdiction, certified to Congress” for “, before the interdiction occurs, has determined” in introductory provisions.
+    2001—Subsec. (a)(2). [Pub. L. 107–108][/us/pl/107/108], § 503(a), substituted “has, during the 12-month period ending on the date of the interdiction, certified to Congress” for “, before the interdiction occurs, has determined” in introductory provisions.
 
-    Subsecs. (c), (d). [Pub. L. 107–108, § 503(b)][/us/pl/107/108/s503/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 107–108][/us/pl/107/108], § 503(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
  __Delegation of Functions__ 
 
@@ -146,16 +146,16 @@
 
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
-[/us/pl/103/337/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1012
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2837
-[/us/pl/107/108/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs503
+[/us/pl/107/108/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtV
 [/us/stat/115/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1405
-[/us/pl/107/306/s811/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F6
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2425
-[/us/pl/107/306/s811/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F6%2FA
-[/us/pl/107/306/s811/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F6%2FB
-[/us/pl/107/108/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs503%2Fa
-[/us/pl/107/108/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs503%2Fb
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
+[/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/usc/t22/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5202
 
 

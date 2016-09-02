@@ -61,7 +61,7 @@
 
         The term “Secretary” means the Secretary of State.
 
-([Pub. L. 110–53, title XXI, § 2104][/us/pl/110/53/s2104], Aug. 3, 2007, [121 Stat. 527][/us/stat/121/527].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2104, Aug. 3, 2007, [121 Stat. 527][/us/stat/121/527].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2151n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n
-[/us/pl/110/53/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2104
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F527
 
 

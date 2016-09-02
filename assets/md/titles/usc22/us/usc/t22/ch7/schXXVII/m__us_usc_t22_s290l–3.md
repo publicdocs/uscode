@@ -17,7 +17,7 @@
 
     Any Federal Reserve Bank  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  which is requested to do so by the Bank may act as its depository, or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall exercise general supervision over the carrying out of these functions.
 
-([Pub. L. 101–513, title V, § 562(c)(5)][/us/pl/101/513/s562/c/5], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
+([Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c)(5), Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/513/s562/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F5
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2034
 [/us/pl/101/513/s562/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc%2F5
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293

@@ -27,7 +27,7 @@
 
         (C) both the concern and request described in subparagraphs (A) and (B).
 
-([Pub. L. 103–236, title VIII, § 828(b)][/us/pl/103/236/s828/b], Apr. 30, 1994, [108 Stat. 520][/us/stat/108/520].)
+([Pub. L. 103–236, title VIII][/us/pl/103/236/tVIII], § 828(b), Apr. 30, 1994, [108 Stat. 520][/us/stat/108/520].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s3282/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3282%2Fc
-[/us/pl/103/236/s828/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs828%2Fb
+[/us/pl/103/236/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVIII
 [/us/stat/108/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F520
 
 

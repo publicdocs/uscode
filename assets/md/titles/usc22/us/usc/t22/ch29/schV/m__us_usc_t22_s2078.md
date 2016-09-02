@@ -35,11 +35,11 @@
 
         The United States, through the Department of State, shall retain ownership of the Palazzo Corpi building in Istanbul, Turkey, and the Secretary of State shall be responsible for maintaining the International Center for Middle Eastern-Western Dialogue at such location.
 
-([Pub. L. 108–199, div. B, title VI, § 633][/us/pl/108/199/s633], Jan. 23, 2004, [118 Stat. 100][/us/stat/118/100].)
+([Pub. L. 108–199, div. B, title VI][/us/pl/108/199/dB/tVI], § 633, Jan. 23, 2004, [118 Stat. 100][/us/stat/118/100].)
 
  __Codification__ 
 
-    Section is comprised of [section 633 of div. B of Pub. L. 108–199][/us/pl/108/199/s633]. Subsec. (f) of [section 633 of div. B of Pub. L. 108–199][/us/pl/108/199/s633] amended [section 1321(a) of Title 31][/us/usc/t31/s1321/a], Money and Finance.
+    Section is comprised of [section 633 of div. B of Pub. L. 108–199][/us/pl/108/199/dB/s633]. Subsec. (f) of [section 633 of div. B of Pub. L. 108–199][/us/pl/108/199/dB/s633] amended [section 1321(a) of Title 31][/us/usc/t31/s1321/a], Money and Finance.
 
 ----------
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/108/199/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs633
+[/us/pl/108/199/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtVI
 [/us/stat/118/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F100
-[/us/pl/108/199/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs633
-[/us/pl/108/199/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs633
+[/us/pl/108/199/dB/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2Fs633
+[/us/pl/108/199/dB/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2Fs633
 [/us/usc/t31/s1321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1321%2Fa
 
 

@@ -27,7 +27,7 @@
 
         If an Enterprise for the Americas Multilateral Investment Fund is established pursuant to this section, the Secretary of the Treasury shall instruct the United States representative to the Fund not to vote in favor of any action proposed to be taken by the Fund which may have a significant adverse effect on the environment unless an assessment of the impact of the action on the environment has been available for at least 120 days before the vote.
 
-([Pub. L. 86–147, § 37][/us/pl/86/147/s37], as added [Pub. L. 102–391, title V, § 594(b)][/us/pl/102/391/s594/b], Oct. 6, 1992, [106 Stat. 1693][/us/stat/106/1693].)
+([Pub. L. 86–147][/us/pl/86/147], § 37, as added [Pub. L. 102–391, title V][/us/pl/102/391/tV], § 594(b), Oct. 6, 1992, [106 Stat. 1693][/us/stat/106/1693].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs37
-[/us/pl/102/391/s594/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs594%2Fb
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1693
 
 

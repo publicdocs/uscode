@@ -51,7 +51,7 @@
 
         (3) section 516 of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2321j][/us/usc/t22/s2321j]\].
 
-([Pub. L. 106–280, title V, § 501][/us/pl/106/280/s501], Oct. 6, 2000, [114 Stat. 854][/us/stat/114/854].)
+([Pub. L. 106–280, title V][/us/pl/106/280/tV], § 501, Oct. 6, 2000, [114 Stat. 854][/us/stat/114/854].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Definition__ 
 
-[Pub. L. 106–280, § 2][/us/pl/106/280/s2], Oct. 6, 2000, [114 Stat. 846][/us/stat/114/846], provided that: 
+[Pub. L. 106–280][/us/pl/106/280], § 2, Oct. 6, 2000, [114 Stat. 846][/us/stat/114/846], provided that: 
 
 > “In this Act \[see Short Title of 2000 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\], the term ‘appropriate committees of Congress’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.”
 
@@ -81,7 +81,7 @@
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763
 [/us/usc/t22/s2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2347
 [/us/usc/t22/s2321j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321j
-[/us/pl/106/280/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs501
+[/us/pl/106/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtV
 [/us/stat/114/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F854
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
@@ -89,7 +89,7 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/106/280/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs2
+[/us/pl/106/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280
 [/us/stat/114/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F846
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

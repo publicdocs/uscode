@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4210.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4215.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4211)
+[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4210.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4212...4214.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4211)
 
 ## § 4211. Returns as to fees by officers compensated by fees
 
     All consular agents, as are allowed for their compensation the whole or any part of the fees which they may collect, shall make returns in such manner as the Government Accountability Office shall prescribe, of all such fees as they or any person in their behalf so collect.
 
-(R.S. § 1725; [July 31, 1894, ch. 174, § 5][/us/act/1894-07-31/ch174/s5], [28 Stat. 206][/us/stat/28/206]; [Apr. 5, 1906, ch. 1366, § 3][/us/act/1906-04-05/ch1366/s3], [34 Stat. 100][/us/stat/34/100]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(R.S. § 1725; [July 31, 1894, ch. 174][/us/act/1894-07-31/ch174], § 5, [28 Stat. 206][/us/stat/28/206]; [Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 3, [34 Stat. 100][/us/stat/34/100]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Codification__ 
 
-    R.S. § 1725 derived from [act Aug. 18, 1856, ch. 127, § 18][/us/act/1856-08-18/ch127/s18], [11 Stat. 58][/us/stat/11/58].
+    R.S. § 1725 derived from [act Aug. 18, 1856, ch. 127][/us/act/1856-08-18/ch127], § 18, [11 Stat. 58][/us/stat/11/58].
 
     References to “commercial agents” and “vice-commercial agents” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -33,38 +33,26 @@
 
     “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to [section 8(b) of Pub. L. 108–271][/us/pl/108/271/s8/b], set out as a note under [section 702 of Title 31][/us/usc/t31/s702], Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “Comptroller of the Treasury” pursuant to act June 10, 1921, which transferred all powers and duties conferred upon Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office. See section 701 et seq. of Title 31. Previously, functions of Secretary of State under this section transferred to Comptroller of the Treasury by act July 31, 1894.
 
-§§ 4212 to 4214. __Repealed.__  __[__  __Pub. L. 105–277, div. G__  __][/us/pl/105/277]__  __, subdiv. B, title XXII, § 2223,__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–819__  __][/us/stat/112/2681-819]__ 
-
-    Section 4212, R.S. §§ 1726, 1727, required receipts for fees collected for consular services.
-
-    Section 4213, R.S. § 1727, required registry of fees.
-
-    Section 4214, R.S. § 1728; [June 28, 1955, ch. 196][/us/act/1955-06-28/ch196], [69 Stat. 187][/us/stat/69/187], required full transcript and certification of register.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4210.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4215.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4211)
+[Previous](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4210.md) | [Next](./../../../../..//us/usc/t22/ch52/schXIV/m__us_usc_t22_s4212...4214.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4211)
 
 ----------
 ----------
 
-[/us/act/1894-07-31/ch174/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-31%2Fch174%2Fs5
+[/us/act/1894-07-31/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-31%2Fch174
 [/us/stat/28/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F206
-[/us/act/1906-04-05/ch1366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs3
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F100
 [/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/act/1856-08-18/ch127/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127%2Fs18
+[/us/act/1856-08-18/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127
 [/us/stat/11/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F58
 [/us/usc/t22/s1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1191
 [/us/usc/t22/s94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs94
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/stat/112/2681-819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-819
-[/us/act/1955-06-28/ch196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch196
-[/us/stat/69/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F187
 
 

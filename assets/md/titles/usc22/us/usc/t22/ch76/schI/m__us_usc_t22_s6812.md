@@ -31,7 +31,7 @@
 
         In undertaking education and training programs for military establishments in African countries, the United States shall ensure that classroom training under the African Crisis Response Initiative includes military-based education on the prevention of the spread of AIDS.
 
-([Pub. L. 106–264, title I, § 114][/us/pl/106/264/s114], Aug. 19, 2000, [114 Stat. 754][/us/stat/114/754].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 114, Aug. 19, 2000, [114 Stat. 754][/us/stat/114/754].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/264/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs114
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F754
 
 

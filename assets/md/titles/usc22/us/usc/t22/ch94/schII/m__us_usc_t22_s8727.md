@@ -63,7 +63,7 @@
 
         (2) not less than 7 days before the waiver takes effect, notifies Congress of the waiver and the reason for the waiver.
 
-([Pub. L. 112–158, title II, § 221][/us/pl/112/158/s221], Aug. 10, 2012, [126 Stat. 1238][/us/stat/126/1238].)
+([Pub. L. 112–158, title II][/us/pl/112/158/tII], § 221, Aug. 10, 2012, [126 Stat. 1238][/us/stat/126/1238].)
 
  __Termination of Section__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs221
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1238
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 

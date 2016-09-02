@@ -21,7 +21,7 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 112–158, title VI, § 605][/us/pl/112/158/s605], Aug. 10, 2012, [126 Stat. 1265][/us/stat/126/1265].)
+([Pub. L. 112–158, title VI][/us/pl/112/158/tVI], § 605, Aug. 10, 2012, [126 Stat. 1265][/us/stat/126/1265].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
-[/us/pl/112/158/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs605
+[/us/pl/112/158/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVI
 [/us/stat/126/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1265
 [/us/pl/112/158/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs605
 [/us/pl/112/158/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs605

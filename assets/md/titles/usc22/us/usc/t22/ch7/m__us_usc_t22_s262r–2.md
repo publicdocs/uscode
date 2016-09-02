@@ -17,7 +17,7 @@
 
     Not later than April 1 and October 1 of each year, the Administrator of the Agency for International Development, in consultation with the Secretary of the Treasury and the Secretary of State, shall submit to the Committee on Appropriations and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, as a combined report, the reports required by [section 262m–2(c) of this title][/us/usc/t22/s262m–2/c] and by section 262l–1(h)(2) of this title.
 
-([Pub. L. 95–118, title XVII, § 1703][/us/pl/95/118/s1703], as added [Pub. L. 101–240, title V, § 541(a)][/us/pl/101/240/s541/a], Dec. 19, 1989, [103 Stat. 2516][/us/stat/103/2516].)
+([Pub. L. 95–118, title XVII][/us/pl/95/118/tXVII], § 1703, as added [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(a), Dec. 19, 1989, [103 Stat. 2516][/us/stat/103/2516].)
 
  __Change of Name__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t22/s262m–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262m%E2%80%932%2Fc
-[/us/pl/95/118/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1703
-[/us/pl/101/240/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fa
+[/us/pl/95/118/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVII
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2516
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

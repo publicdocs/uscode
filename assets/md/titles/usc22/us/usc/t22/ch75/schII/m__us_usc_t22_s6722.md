@@ -45,7 +45,7 @@
 
         (4) detail the areas, equipment, computers, records, data, and samples that are not subject to inspection.
 
-([Pub. L. 105–277, div. I, title III, § 302][/us/pl/105/277/s302], Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 302, Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs302
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-872
 
 

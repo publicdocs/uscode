@@ -57,13 +57,13 @@
 
         (5) The period of an assignment or detail under this subsection shall not exceed a total of 6 years, except that the Secretary (or any other head of a department or agency of the United States, with the concurrence of the Secretary) may extend the period of an assignment or detail for an additional period of not more than 6 years.
 
-([Pub. L. 96–465, title I, § 503][/us/pl/96/465/s503], Oct. 17, 1980, [94 Stat. 2093][/us/stat/94/2093]; [Pub. L. 107–228, div. A, title III, § 326][/us/pl/107/228/s326], Sept. 30, 2002, [116 Stat. 1386][/us/stat/116/1386].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 503, Oct. 17, 1980, [94 Stat. 2093][/us/stat/94/2093]; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 326, Sept. 30, 2002, [116 Stat. 1386][/us/stat/116/1386].)
 
  __Amendments__ 
 
-    2002—Subsec. (c). [Pub. L. 107–228, § 326(2)][/us/pl/107/228/s326/2], substituted “Except as otherwise provided in subsection (d)(5), assignments” for “Assignments”.
+    2002—Subsec. (c). [Pub. L. 107–228][/us/pl/107/228], § 326(2), substituted “Except as otherwise provided in subsection (d)(5), assignments” for “Assignments”.
 
-    Subsec. (d). [Pub. L. 107–228, § 326(1)][/us/pl/107/228/s326/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 107–228][/us/pl/107/228], § 326(1), added subsec. (d).
 
 ----------
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
-[/us/pl/96/465/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs503
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2093
-[/us/pl/107/228/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs326
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1386
-[/us/pl/107/228/s326/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs326%2F2
-[/us/pl/107/228/s326/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs326%2F1
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 
 

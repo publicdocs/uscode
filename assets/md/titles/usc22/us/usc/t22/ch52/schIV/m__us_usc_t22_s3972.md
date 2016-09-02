@@ -19,13 +19,13 @@
 
         The Secretary may pay special differentials, in addition to compensation otherwise authorized, to Foreign Service officers who are required because of the nature of their assignments to perform additional work on a regular basis in substantial excess of normal requirements.
 
-    (b) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 139(6)__  __][/us/pl/103/236/s139/6]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 398__  __][/us/stat/108/398]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 103–236, title I__  __][/us/pl/103/236/tI]__  __, § 139(6),__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 398__  __][/us/stat/108/398]__ 
 
     (c) __Compensatory time off__ 
 
         Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall preclude the granting of compensatory time off for Foreign Service officers.
 
-([Pub. L. 96–465, title I, § 412][/us/pl/96/465/s412], Oct. 17, 1980, [94 Stat. 2092][/us/stat/94/2092]; [Pub. L. 103–236, title I, § 139(6)][/us/pl/103/236/s139/6], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 412, Oct. 17, 1980, [94 Stat. 2092][/us/stat/94/2092]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(6), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/103/236/s139/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F6
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/96/465/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs412
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2092
-[/us/pl/103/236/s139/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F6
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 

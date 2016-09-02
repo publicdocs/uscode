@@ -17,7 +17,7 @@
 
     The Federal Reserve Board shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report on the issues raised by including loan loss reserves as part of banks’ primary capital for regulatory purposes by March 31, 1989. Such report shall include a review of the treatment of loan loss reserves and the composition of primary capital of banks in other major industrialized countries, and shall include an analysis as to whether loan loss reserves should continue to be counted as primary capital for regulatory purposes.
 
-([Pub. L. 100–418, title III, § 3604][/us/pl/100/418/s3604], Aug. 23, 1988, [102 Stat. 1388][/us/stat/102/1388].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3604, Aug. 23, 1988, [102 Stat. 1388][/us/stat/102/1388].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3604
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1388
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

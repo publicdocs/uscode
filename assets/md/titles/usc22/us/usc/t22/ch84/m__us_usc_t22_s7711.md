@@ -49,7 +49,7 @@
 
         The information required to be disclosed under subsection (a) shall be made available to the public by means of publication in the Federal Register and on the Internet website of the Corporation, as well as by any other methods that the Board determines appropriate.
 
-([Pub. L. 108–199, div. D, title VI, § 612][/us/pl/108/199/s612], Jan. 23, 2004, [118 Stat. 221][/us/stat/118/221].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 612, Jan. 23, 2004, [118 Stat. 221][/us/stat/118/221].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
 [/us/usc/t22/s7718/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7718%2Fb
-[/us/pl/108/199/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs612
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F221
 
 

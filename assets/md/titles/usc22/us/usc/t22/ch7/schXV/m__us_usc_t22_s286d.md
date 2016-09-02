@@ -17,7 +17,7 @@
 
     Any Federal Reserve bank which is requested to do so by the Fund or the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
-([July 31, 1945, ch. 339, § 6][/us/act/1945-07-31/ch339/s6], [59 Stat. 514][/us/stat/59/514].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 6, [59 Stat. 514][/us/stat/59/514].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs6
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F514
 
 

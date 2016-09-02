@@ -27,7 +27,7 @@
 
         (2) ensuring that a worker’s religious views and peaceful practices of belief in no way affect, or be allowed to affect, the status or terms of his or her employment.
 
-([Pub. L. 105–292, title VII, § 701][/us/pl/105/292/s701], Oct. 27, 1998, [112 Stat. 2815][/us/stat/112/2815].)
+([Pub. L. 105–292, title VII][/us/pl/105/292/tVII], § 701, Oct. 27, 1998, [112 Stat. 2815][/us/stat/112/2815].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs701
+[/us/pl/105/292/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtVII
 [/us/stat/112/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2815
 
 

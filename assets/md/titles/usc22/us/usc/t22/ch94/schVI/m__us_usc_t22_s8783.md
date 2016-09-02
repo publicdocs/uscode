@@ -51,7 +51,7 @@
 
             (C) a successor entity to an entity described in subparagraph (A).
 
-([Pub. L. 112–158, title VI, § 603][/us/pl/112/158/s603], Aug. 10, 2012, [126 Stat. 1264][/us/stat/126/1264].)
+([Pub. L. 112–158, title VI][/us/pl/112/158/tVI], § 603, Aug. 10, 2012, [126 Stat. 1264][/us/stat/126/1264].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs603
+[/us/pl/112/158/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVI
 [/us/stat/126/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1264
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214

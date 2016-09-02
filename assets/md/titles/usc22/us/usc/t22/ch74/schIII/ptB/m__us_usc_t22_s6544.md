@@ -25,7 +25,7 @@
 
     (4) An assessment of the extent to which United States Government funding may be appropriate in the year 2000 and subsequent years for surrogate broadcasting to the countries to which RFE/RL, Incorporated, broadcast during the year. This assessment shall include an analysis of the environment for independent media in those countries, noting the extent of government control of the media, the ability of independent journalists and news organizations to operate, relevant domestic legislation, level of government harassment and efforts to censor, and other indications of whether the people of such countries enjoy freedom of expression.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1328, Oct. 21, 1998, [112 Stat. 2681–784][/us/stat/112/2681-784].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1328, Oct. 21, 1998, [112 Stat. 2681–784][/us/stat/112/2681-784].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t22/s6211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6211%2Fa
 [/us/usc/t22/s6211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6211%2Fa
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-784
 
 

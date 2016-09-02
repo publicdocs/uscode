@@ -17,7 +17,7 @@
 
     If an emergency arises because of disaster or calamity by flood, hurricane, earthquake, fire, pestilence, or like cause, not foreseen or otherwise provided for, and occurring in the Republic of Panama in such circumstances as to constitute an actual or potential hazard to health, safety, security, or property in the areas and installations made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, the Commission may expend funds available to the Commission for such purpose, and utilize or furnish materials, supplies, equipment, and services for relief, assistance, and protection.
 
-([Pub. L. 96–70, title I, § 1343][/us/pl/96/70/s1343], Sept. 27, 1979, [93 Stat. 483][/us/stat/93/483]; [Pub. L. 100–203, title V, § 5428(b)][/us/pl/100/203/s5428/b], Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1343, Sept. 27, 1979, [93 Stat. 483][/us/stat/93/483]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5428(b), Dec. 22, 1987, [101 Stat. 1330–274][/us/stat/101/1330-274].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1343
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F483
-[/us/pl/100/203/s5428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5428%2Fb
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-274
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

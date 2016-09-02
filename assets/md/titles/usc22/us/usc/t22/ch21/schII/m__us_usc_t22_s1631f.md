@@ -43,7 +43,7 @@
 
         The designee of the President may retain or recover from any property, or the net proceeds thereof, returned pursuant to subsection (a) or (b) of this section an amount not exceeding that expended or incurred by him for the conservation, preservation, or maintenance of such property or proceeds.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 207, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 564][/us/stat/69/564]; amended [Pub. L. 85–791, § 33][/us/pl/85/791/s33], Aug. 28, 1958, [72 Stat. 951][/us/stat/72/951]; [Pub. L. 90–421, § 1(6)][/us/pl/90/421/s1/6], July 24, 1968, [82 Stat. 421][/us/stat/82/421].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 207, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 564][/us/stat/69/564]; amended [Pub. L. 85–791][/us/pl/85/791], § 33, Aug. 28, 1958, [72 Stat. 951][/us/stat/72/951]; [Pub. L. 90–421][/us/pl/90/421], § 1(6), July 24, 1968, [82 Stat. 421][/us/stat/82/421].)
 
  __References in Text__ 
 
@@ -68,11 +68,11 @@
 [/us/usc/t22/s1631a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631a%2Fa
 [/us/usc/t22/s1631a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631a%2Fa
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F564
-[/us/pl/85/791/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs33
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F951
-[/us/pl/90/421/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F6
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F421
 [/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421

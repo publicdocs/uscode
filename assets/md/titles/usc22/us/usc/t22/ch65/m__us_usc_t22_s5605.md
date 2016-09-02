@@ -143,7 +143,7 @@
 
             The sanctions described in paragraphs (1), (2), and (3) of subsection (a) shall apply to contracts, agreements, and licenses without regard to the date the contract or agreement was entered into or the license was issued (as the case may be), except that such sanctions shall not apply to any contract or agreement entered into or license issued before the date of the presidential determination under [section 5604(a)(1) of this title][/us/usc/t22/s5604/a/1] if the President determines that the application of such sanction would be detrimental to the national security interests of the United States.
 
-([Pub. L. 102–182, title III, § 307][/us/pl/102/182/s307], Dec. 4, 1991, [105 Stat. 1254][/us/stat/105/1254].)
+([Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 307, Dec. 4, 1991, [105 Stat. 1254][/us/stat/105/1254].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(2)(F)(iv), “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (b)(2)(F)(iv), “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Delegation of Functions__ 
 
@@ -186,7 +186,7 @@
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t50/s4605/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fp
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
-[/us/pl/102/182/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs307
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1254
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -199,7 +199,7 @@
 [/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
 [/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/usc/t22/s2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797
 

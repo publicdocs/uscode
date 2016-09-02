@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_ch32_schII_ptIII.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2341...2343.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
 
 ## § 2344. Reimbursements
 
@@ -59,19 +59,19 @@
 
  __Increases in Military Assistance Programs; Reports to Congress on Presidential Determinations__ 
 
-    [Pub. L. 91–194, title I, § 100][/us/pl/91/194/s100], Feb. 9, 1970, [84 Stat. 7][/us/stat/84/7], in part, limited increases in the military assistance program for any country to twenty per cent of the amount justified to Congress unless the President determined that such an increase was essential to the national interest of the United States and reported such determination to the Congress within thirty days after each such determination.
+    [Pub. L. 91–194, title I][/us/pl/91/194/tI], § 100, Feb. 9, 1970, [84 Stat. 7][/us/stat/84/7], in part, limited increases in the military assistance program for any country to twenty per cent of the amount justified to Congress unless the President determined that such an increase was essential to the national interest of the United States and reported such determination to the Congress within thirty days after each such determination.
 
-    Similar provisions were contained in [Pub. L. 90–249, title I, § 100][/us/pl/90/249/s100], Jan. 2, 1968, [81 Stat. 937][/us/stat/81/937]; [Pub. L. 90–581, title I, § 100][/us/pl/90/581/s100], Oct. 17, 1968, [82 Stat. 1138][/us/stat/82/1138].
+    Similar provisions were contained in [Pub. L. 90–249, title I][/us/pl/90/249/tI], § 100, Jan. 2, 1968, [81 Stat. 937][/us/stat/81/937]; [Pub. L. 90–581, title I][/us/pl/90/581/tI], § 100, Oct. 17, 1968, [82 Stat. 1138][/us/stat/82/1138].
 
  __Expenditures by Underdeveloped Countries for Weapons Systems; Presidential Determination; Report to Congress__ 
 
-    [Pub. L. 91–194, title I, § 119][/us/pl/91/194/s119], Feb. 9, 1970, [84 Stat. 10][/us/stat/84/10], directed the President to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country for the purchase of sophisticated weapons systems from any country other than certain enumerated countries, unless the President determined that such a purchase was important to the national security of the United States and reported such determination to Congress within thirty days after each such determination.
+    [Pub. L. 91–194, title I][/us/pl/91/194/tI], § 119, Feb. 9, 1970, [84 Stat. 10][/us/stat/84/10], directed the President to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country for the purchase of sophisticated weapons systems from any country other than certain enumerated countries, unless the President determined that such a purchase was important to the national security of the United States and reported such determination to Congress within thirty days after each such determination.
 
-    Similar provisions were contained in [Pub. L. 90–249, title I, § 119][/us/pl/90/249/s119], Jan. 2, 1968, [81 Stat. 940][/us/stat/81/940]; [Pub. L. 90–581, title I, § 119][/us/pl/90/581/s119], Oct. 17, 1968, [82 Stat. 1141][/us/stat/82/1141].
+    Similar provisions were contained in [Pub. L. 90–249, title I][/us/pl/90/249/tI], § 119, Jan. 2, 1968, [81 Stat. 940][/us/stat/81/940]; [Pub. L. 90–581, title I][/us/pl/90/581/tI], § 119, Oct. 17, 1968, [82 Stat. 1141][/us/stat/82/1141].
 
  __Arms Races and Weapons Systems Restraints; Prohibitions Against Diversion of Resources for Economic and Agricultural Development to Military Purposes__ 
 
-[Pub. L. 91–194, title I, § 120][/us/pl/91/194/s120], Feb. 9, 1970, [84 Stat. 10][/us/stat/84/10], as amended by [Pub. L. 110–246, title III, § 3001(c)][/us/pl/110/246/s3001/c], June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that:
+[Pub. L. 91–194, title I][/us/pl/91/194/tI], § 120, Feb. 9, 1970, [84 Stat. 10][/us/stat/84/10], as amended by [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(c), June 18, 2008, [122 Stat. 1821][/us/stat/122/1821], provided that:
 
 >     “(a)
 
@@ -87,7 +87,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_ch32_schII_ptIII.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
+[Previous](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2341...2343.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptIII/m__us_usc_t22_s2345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2344)
 
 ----------
 ----------
@@ -116,21 +116,21 @@
 [/us/pl/90/629/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629%2Fs46
 [/us/usc/t22/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2341
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/91/194/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2Fs100
+[/us/pl/91/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2FtI
 [/us/stat/84/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F7
-[/us/pl/90/249/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2Fs100
+[/us/pl/90/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2FtI
 [/us/stat/81/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F937
-[/us/pl/90/581/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2Fs100
+[/us/pl/90/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2FtI
 [/us/stat/82/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1138
-[/us/pl/91/194/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2Fs119
+[/us/pl/91/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2FtI
 [/us/stat/84/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F10
-[/us/pl/90/249/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2Fs119
+[/us/pl/90/249/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F249%2FtI
 [/us/stat/81/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F940
-[/us/pl/90/581/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2Fs119
+[/us/pl/90/581/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F581%2FtI
 [/us/stat/82/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1141
-[/us/pl/91/194/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2Fs120
+[/us/pl/91/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194%2FtI
 [/us/stat/84/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F10
-[/us/pl/110/246/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fc
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1821
 [/us/pl/91/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F194
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691

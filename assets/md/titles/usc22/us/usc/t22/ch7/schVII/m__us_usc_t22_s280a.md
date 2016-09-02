@@ -23,7 +23,7 @@
 
     (3) the term “Commission” means the South Pacific Commission.
 
-([Jan. 28, 1948, ch. 38, § 2][/us/act/1948-01-28/ch38/s2], [62 Stat. 15][/us/stat/62/15].)
+([Jan. 28, 1948, ch. 38][/us/act/1948-01-28/ch38], § 2, [62 Stat. 15][/us/stat/62/15].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1948-01-28/ch38/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-28%2Fch38%2Fs2
+[/us/act/1948-01-28/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-28%2Fch38
 [/us/stat/62/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F15
 
 

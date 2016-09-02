@@ -19,7 +19,7 @@
 
     (b) There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of (1) $1,199,997,873 for the United States subscription to the capital stock of the Bank and (2) $600,000,000 for the United States share of the increase in the resources of the Fund for Special Operations: Provided, however, That not more than $15,677,000 may be made available to the Fund for Special Operations for the fiscal year 1982.
 
-([Pub. L. 86–147, § 26][/us/pl/86/147/s26], as added [Pub. L. 94–302, title I, § 101][/us/pl/94/302/s101], May 31, 1976, [90 Stat. 591][/us/stat/90/591]; amended [Pub. L. 97–35, title XIII, § 1351(c)][/us/pl/97/35/s1351/c], Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
+([Pub. L. 86–147][/us/pl/86/147], § 26, as added [Pub. L. 94–302, title I][/us/pl/94/302/tI], § 101, May 31, 1976, [90 Stat. 591][/us/stat/90/591]; amended [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1351(c), Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
 
  __Amendments__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/86/147/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs26
-[/us/pl/94/302/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs101
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/94/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtI
 [/us/stat/90/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F591
-[/us/pl/97/35/s1351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1351%2Fc
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F744
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

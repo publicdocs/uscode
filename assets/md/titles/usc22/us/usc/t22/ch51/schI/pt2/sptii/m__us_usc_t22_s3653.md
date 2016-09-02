@@ -23,7 +23,7 @@
 
     The standards shall conform to the provisions of this subpart, any regulations prescribed thereunder, and the Panama Canal Employment System.
 
-([Pub. L. 96–70, title I, § 1213][/us/pl/96/70/s1213], Sept. 27, 1979, [93 Stat. 464][/us/stat/93/464]; [Pub. L. 104–201, div. C, title XXXV, § 3531][/us/pl/104/201/s3531], Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1213, Sept. 27, 1979, [93 Stat. 464][/us/stat/93/464]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3531, Sept. 23, 1996, [110 Stat. 2863][/us/stat/110/2863].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1213
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F464
-[/us/pl/104/201/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3531
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2863
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601

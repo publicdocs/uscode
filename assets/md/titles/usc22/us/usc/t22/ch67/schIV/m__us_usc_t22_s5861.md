@@ -69,7 +69,7 @@
 
             The Foundation may accept such other funds as may be provided to it by Government agencies or nongovernmental entities.
 
-([Pub. L. 102–511, title V, § 511][/us/pl/102/511/s511], Oct. 24, 1992, [106 Stat. 3345][/us/stat/106/3345].)
+([Pub. L. 102–511, title V][/us/pl/102/511/tV], § 511, Oct. 24, 1992, [106 Stat. 3345][/us/stat/106/3345].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t22/s5931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5931
-[/us/pl/102/511/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs511
+[/us/pl/102/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtV
 [/us/stat/106/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3345
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2566

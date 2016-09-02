@@ -23,7 +23,7 @@
 
         It is the sense of Congress that the United Sates  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “States”. </sup></sup>  should explore the possibility of a regional human rights dialogue with North Korea that is modeled on the Helsinki process, engaging all countries in the region in a common commitment to respect human rights and fundamental freedoms.
 
-([Pub. L. 108–333, title I, § 106][/us/pl/108/333/s106], Oct. 18, 2004, [118 Stat. 1292][/us/stat/118/1292].)
+([Pub. L. 108–333, title I][/us/pl/108/333/tI], § 106, Oct. 18, 2004, [118 Stat. 1292][/us/stat/118/1292].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs106
+[/us/pl/108/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtI
 [/us/stat/118/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1292
 
 

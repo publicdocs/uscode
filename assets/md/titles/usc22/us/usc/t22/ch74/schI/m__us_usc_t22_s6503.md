@@ -25,7 +25,7 @@
 
     (4) Consolidation of real properties and leases.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XI, § 1104, Oct. 21, 1998, [112 Stat. 2681–767][/us/stat/112/2681-767].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XI, § 1104, Oct. 21, 1998, [112 Stat. 2681–767][/us/stat/112/2681-767].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-767
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765

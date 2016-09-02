@@ -17,7 +17,7 @@
 
     The President is hereby authorized to accept membership for the United States in the Multilateral Investment Guarantee Agency (hereinafter in this subchapter referred to as the “Agency”) provided for by the Convention Establishing the Multilateral Investment Guarantee Agency (hereinafter in this subchapter referred to as the “Convention”) deposited in the archives of the International Bank for Reconstruction and Development (hereinafter in this subchapter referred to as the “Bank”).
 
-([Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
+([Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@ Section 402 of title IV of H.R. 3750, as introduced Dec. 11, 1987, and as enacte
 
  __Short Title__ 
 
-Section 401 of title IV of H.R. 3750, as introduced Dec. 11, 1987, and as enacted into law by [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134, provided that: 
+Section 401 of title IV of H.R. 3750, as introduced Dec. 11, 1987, and as enacted into law by [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134, provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Multilateral Investment Guarantee Agency Act’.”
 
@@ -40,11 +40,11 @@ Section 401 of title IV of H.R. 3750, as introduced Dec. 11, 1987, and as enacte
 ----------
 ----------
 
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 
 

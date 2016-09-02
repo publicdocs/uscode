@@ -47,11 +47,11 @@
 
             For purposes of section 3304(c)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
-([Pub. L. 106–286, div. B, title III, § 308][/us/pl/106/286/s308], Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 308, Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
 
  __References in Text__ 
 
-    [Section 3304(c)(1) of title 5][/us/usc/t5/s3304/c/1], referred to in subsec. (e)(2), probably means [section 3304(c)(1) of title 5][/us/usc/t5/s3304/c/1] prior to amendment by [Pub. L. 104–65, § 16(a)][/us/pl/104/65/s16/a], (b), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703], which struck out [section 3304(c) of title 5][/us/usc/t5/s3304/c] and redesignated [section 3304(d) of title 5][/us/usc/t5/s3304/d] as 3304(c). Prior to amendment section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
+    [Section 3304(c)(1) of title 5][/us/usc/t5/s3304/c/1], referred to in subsec. (e)(2), probably means [section 3304(c)(1) of title 5][/us/usc/t5/s3304/c/1] prior to amendment by [Pub. L. 104–65][/us/pl/104/65], § 16(a), (b), Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703], which struck out [section 3304(c) of title 5][/us/usc/t5/s3304/c] and redesignated [section 3304(d) of title 5][/us/usc/t5/s3304/d] as 3304(c). Prior to amendment section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
 ----------
 
@@ -61,11 +61,11 @@
 ----------
 
 [/us/usc/t5/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2107
-[/us/pl/106/286/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs308
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F899
 [/us/usc/t5/s3304/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304%2Fc%2F1
 [/us/usc/t5/s3304/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304%2Fc%2F1
-[/us/pl/104/65/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs16%2Fa
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F703
 [/us/usc/t5/s3304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304%2Fc
 [/us/usc/t5/s3304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304%2Fd

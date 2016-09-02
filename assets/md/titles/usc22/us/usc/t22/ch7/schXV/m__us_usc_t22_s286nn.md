@@ -29,7 +29,7 @@
 
     (2) to support a decision that shall terminate the Special Contingency Account 2 (SCA–2) of the Fund so that the funds in the SCA–2 shall be made available to the poorest countries. Any funds attributable to the United States participation in SCA–2 shall be used only for debt relief from the Fund under the modified HIPC Initiative.
 
-([July 31, 1945, ch. 339, § 62][/us/act/1945-07-31/ch339/s62], as added [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 503(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–316; amended [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VIII, § 801(a)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–64.)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 62, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title V, § 503(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–316; amended [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title VIII, § 801(a)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–64.)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Certification to Congress Relating To Use of Profits To Augment International Monetary Fund__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 503(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–316, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title V, § 503(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–316, provided that: 
 
 > “Within 15 days after the United States Executive Director casts the votes necessary to carry out the instruction described in section 62 of the Bretton Woods Agreements Act \[[22 U.S.C. 286nn][/us/usc/t22/s286nn]\], the Secretary of the Treasury shall certify to the Congress that neither the profits nor the earnings on the investment of profits from the gold sales made pursuant to the instruction or of the funds attributable to United States participation in SCA–2 will be used to augment the resources of any reserve account of the International Monetary Fund for the purpose of making loans.”
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t22/s262p–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%936
-[/us/act/1945-07-31/ch339/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs62
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 [/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s286nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286nn
 

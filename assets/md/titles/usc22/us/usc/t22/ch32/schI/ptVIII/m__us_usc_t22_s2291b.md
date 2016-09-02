@@ -17,7 +17,7 @@
 
     Funds made available to carry out this chapter may not be used to reimburse persons whose illicit drug crops are eradicated.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 483, as added [Pub. L. 99–83, title VI, § 609][/us/pl/99/83/s609], Aug. 8, 1985, [99 Stat. 230][/us/stat/99/230].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 483, as added [Pub. L. 99–83, title VI][/us/pl/99/83/tVI], § 609, Aug. 8, 1985, [99 Stat. 230][/us/stat/99/230].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs609
+[/us/pl/99/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVI
 [/us/stat/99/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F230
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

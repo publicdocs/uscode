@@ -129,11 +129,11 @@
 
             (D) information and technology essential to United States products or production.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73, as added [Pub. L. 101–510, div. A, title XVII, § 1703][/us/pl/101/510/s1703], Nov. 5, 1990, [104 Stat. 1746][/us/stat/104/1746]; amended [Pub. L. 102–138, title III, § 323(a)][/us/pl/102/138/s323/a], Oct. 28, 1991, [105 Stat. 711][/us/stat/105/711]; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 714(a)(7), 734(b), Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497], 505; [Pub. L. 104–106, div. A, title XIV, § 1408(d)][/us/pl/104/106/s1408/d], Feb. 10, 1996, [110 Stat. 494][/us/stat/110/494]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1136(b), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–495; [Pub. L. 113–276, title II, § 208(a)(5)][/us/pl/113/276/s208/a/5], Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73, as added [Pub. L. 101–510, div. A, title XVII][/us/pl/101/510/dA/tXVII], § 1703, Nov. 5, 1990, [104 Stat. 1746][/us/stat/104/1746]; amended [Pub. L. 102–138, title III][/us/pl/102/138/tIII], § 323(a), Oct. 28, 1991, [105 Stat. 711][/us/stat/105/711]; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], §§ 714(a)(7), 734(b), Apr. 30, 1994, [108 Stat. 497][/us/stat/108/497], 505; [Pub. L. 104–106, div. A, title XIV][/us/pl/104/106/dA/tXIV], § 1408(d), Feb. 10, 1996, [110 Stat. 494][/us/stat/110/494]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, [112 Stat. 2681–773][/us/stat/112/2681-773]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1136(b), (c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–495; [Pub. L. 113–276, title II][/us/pl/113/276/tII], § 208(a)(5), Dec. 18, 2014, [128 Stat. 2993][/us/stat/128/2993].)
 
  __References in Text__ 
 
-    Subsections (f) and (g), referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by [Pub. L. 103–236, title VII, § 734(b)(1)][/us/pl/103/236/s734/b/1], Apr. 30, 1994, [108 Stat. 505][/us/stat/108/505].
+    Subsections (f) and (g), referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 734(b)(1), Apr. 30, 1994, [108 Stat. 505][/us/stat/108/505].
 
     This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
@@ -141,9 +141,9 @@
 
     2014—Subsec. (e)(2). [Pub. L. 113–276][/us/pl/113/276] substituted “the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives” for “the Committee on National Security and the Committee on International Relations of the House of Representatives”.
 
-    1999—Subsec. (b). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+    1999—Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-    Subsec. (c). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XI, § 1136(c)\], inserted before period at end “, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
+    Subsec. (c). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XI, § 1136(c)\], inserted before period at end “, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
 
     “(1) for any judicial or other enforcement action taken by the MTCR adherent, such action has—
 
@@ -157,9 +157,9 @@
 
     1996—Subsec. (e)(2). [Pub. L. 104–106][/us/pl/104/106] substituted “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “the Congress” and “45 working days” for “20 working days”.
 
-    1994—Subsec. (d). [Pub. L. 103–236, § 714(a)(7)][/us/pl/103/236/s714/a/7], substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
+    1994—Subsec. (d). [Pub. L. 103–236][/us/pl/103/236], § 714(a)(7), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
 
-    Subsecs. (f) to (h). [Pub. L. 103–236, § 734(b)][/us/pl/103/236/s734/b], added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+    Subsecs. (f) to (h). [Pub. L. 103–236][/us/pl/103/236], § 734(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
     1991—Subsec. (a)(1)(A). [Pub. L. 102–138][/us/pl/102/138] inserted “acquisition,” before “design,”.
 
@@ -177,7 +177,7 @@
 
  __Space Cooperation With Russian Persons__ 
 
-[Pub. L. 106–280, title VII, § 708][/us/pl/106/280/s708], Oct. 6, 2000, [114 Stat. 862][/us/stat/114/862], as amended by [Pub. L. 109–112, § 4(e)(2)][/us/pl/109/112/s4/e/2], Nov. 22, 2005, [119 Stat. 2370][/us/stat/119/2370], provided that:
+[Pub. L. 106–280, title VII][/us/pl/106/280/tVII], § 708, Oct. 6, 2000, [114 Stat. 862][/us/stat/114/862], as amended by [Pub. L. 109–112][/us/pl/109/112], § 4(e)(2), Nov. 22, 2005, [119 Stat. 2370][/us/stat/119/2370], provided that:
 
 >     “(a) __Annual Certification.—__ 
 
@@ -245,40 +245,40 @@
 [/us/usc/t50/s4612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612%2Fb%2F1
 [/us/usc/t22/s2295a/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295a%2Fb%2F3%2FA
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/101/510/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1703
+[/us/pl/101/510/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVII
 [/us/stat/104/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1746
-[/us/pl/102/138/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs323%2Fa
+[/us/pl/102/138/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtIII
 [/us/stat/105/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F711
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F497
-[/us/pl/104/106/s1408/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1408%2Fd
+[/us/pl/104/106/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIV
 [/us/stat/110/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F494
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-773
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/113/276/s208/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2Fs208%2Fa%2F5
+[/us/pl/113/276/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276%2FtII
 [/us/stat/128/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2993
-[/us/pl/103/236/s734/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs734%2Fb%2F1
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F505
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/113/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F276
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/236/s714/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs714%2Fa%2F7
-[/us/pl/103/236/s734/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs734%2Fb
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
 [/us/usc/t22/s2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797
-[/us/pl/106/280/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2Fs708
+[/us/pl/106/280/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F280%2FtVII
 [/us/stat/114/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F862
-[/us/pl/109/112/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112%2Fs4%2Fe%2F2
+[/us/pl/109/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112
 [/us/stat/119/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2370
 [/us/pl/106/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F178
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

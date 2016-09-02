@@ -41,7 +41,7 @@
 
         The Board shall take prompt measures to increase the loan, guarantee, and insurance programs, and financial commitments, of the Corporation in sub-Saharan Africa, including through the use of an investment advisory council to assist the Board in developing and implementing policies, programs, and financial instruments with respect to sub-Saharan Africa. In addition, the investment advisory council shall make recommendations to the Board on how the Corporation can facilitate greater support by the United States for trade and investment with and in sub-Saharan Africa. The investment advisory council shall terminate 4 years after May 18, 2000.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 233, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 810][/us/stat/83/810]; amended [Pub. L. 97–65, § 3(a)][/us/pl/97/65/s3/a], (b), Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021], 1022; [Pub. L. 106–158, § 4][/us/pl/106/158/s4], Dec. 9, 1999, [113 Stat. 1746][/us/stat/113/1746]; [Pub. L. 106–200, title I, § 123(c)(1)][/us/pl/106/200/s123/c/1], May 18, 2000, [114 Stat. 269][/us/stat/114/269]; [Pub. L. 108–158, § 3(e)][/us/pl/108/158/s3/e], Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 233, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 810][/us/stat/83/810]; amended [Pub. L. 97–65][/us/pl/97/65], § 3(a), (b), Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021], 1022; [Pub. L. 106–158][/us/pl/106/158], § 4, Dec. 9, 1999, [113 Stat. 1746][/us/stat/113/1746]; [Pub. L. 106–200, title I][/us/pl/106/200/tI], § 123(c)(1), May 18, 2000, [114 Stat. 269][/us/stat/114/269]; [Pub. L. 108–158][/us/pl/108/158], § 3(e), Dec. 3, 2003, [117 Stat. 1950][/us/stat/117/1950].)
 
  __References in Text__ 
 
@@ -57,17 +57,17 @@
 
     2000—Subsec. (e). [Pub. L. 106–200][/us/pl/106/200] added subsec. (e).
 
-    1999—Subsec. (b). [Pub. L. 106–158, § 4(1)][/us/pl/106/158/s4/1], (2), in first par., struck out after first sentence “The Administrator of the Agency for International Development shall be the Chairman of the Board, ex officio. The United States Trade Representative shall be the Vice Chairman of the Board, ex officio, except that the United States Trade Representative may designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative.” and struck out “(other than the President of the Corporation, appointed pursuant to subsection (c) of this section who shall serve as a Director, ex officio)” after “Eight Directors”.
+    1999—Subsec. (b). [Pub. L. 106–158][/us/pl/106/158], § 4(1), (2), in first par., struck out after first sentence “The Administrator of the Agency for International Development shall be the Chairman of the Board, ex officio. The United States Trade Representative shall be the Vice Chairman of the Board, ex officio, except that the United States Trade Representative may designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative.” and struck out “(other than the President of the Corporation, appointed pursuant to subsection (c) of this section who shall serve as a Director, ex officio)” after “Eight Directors”.
 
-    [Pub. L. 106–158, § 4(3)][/us/pl/106/158/s4/3], in second par., inserted “the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and” after “United States, including” and inserted at end “The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.”
+    [Pub. L. 106–158][/us/pl/106/158], § 4(3), in second par., inserted “the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and” after “United States, including” and inserted at end “The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.”
 
-    [Pub. L. 106–158, § 4(4)][/us/pl/106/158/s4/4], inserted after second par. “There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection.”
+    [Pub. L. 106–158][/us/pl/106/158], § 4(4), inserted after second par. “There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection.”
 
     1981—Subsec. (b). [Pub. L. 97–65][/us/pl/97/65] expanded to 15 the number of Directors on the Board, raised to 8 the number required to constitute a quorum and made other technical changes in connection with the increased size of the Board, inserted provision directing that the United States Trade Representative be the Vice Chairman of the Board, ex officio, but authorizing the United States Trade Representative to designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative, provided that the President of the Corporation serve as a Director, ex officio, and inserted provision that an official of the Department of Labor be added to the Board as a Director.
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–65, § 3(c)][/us/pl/97/65/s3/c], Oct. 16, 1981, [95 Stat. 1022][/us/stat/95/1022], provided that: 
+[Pub. L. 97–65][/us/pl/97/65], § 3(c), Oct. 16, 1981, [95 Stat. 1022][/us/stat/95/1022], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1981.”
 
@@ -90,13 +90,13 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F810
-[/us/pl/97/65/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs3%2Fa
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1021
-[/us/pl/106/158/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs4
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1746
-[/us/pl/106/200/s123/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs123%2Fc%2F1
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F269
-[/us/pl/108/158/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158%2Fs3%2Fe
+[/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/stat/117/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1950
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/87/195/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs233
@@ -105,11 +105,11 @@
 [/us/stat/83/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F807
 [/us/pl/108/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F158
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
-[/us/pl/106/158/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs4%2F1
-[/us/pl/106/158/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs4%2F3
-[/us/pl/106/158/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs4%2F4
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
-[/us/pl/97/65/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs3%2Fc
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1022
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/stat/93/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1381

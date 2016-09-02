@@ -71,7 +71,7 @@
 
         In addition to any other functions assigned to and agreed to by the Board, the Board shall be consulted in the preparation of the annual report required by [section 2220e of this title][/us/usc/t22/s2220e] and on other agricultural development activities related to programs under this subpart.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 298, as added [Pub. L. 94–161, title III, § 312][/us/pl/94/161/s312], Dec. 20, 1975, [89 Stat. 864][/us/stat/89/864]; amended [Pub. L. 106–373, § 4][/us/pl/106/373/s4], Oct. 27, 2000, [114 Stat. 1432][/us/stat/114/1432].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 298, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 312, Dec. 20, 1975, [89 Stat. 864][/us/stat/89/864]; amended [Pub. L. 106–373][/us/pl/106/373], § 4, Oct. 27, 2000, [114 Stat. 1432][/us/stat/114/1432].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–373, § 4(a)][/us/pl/106/373/s4/a], inserted “on a case-by-case basis” before period at end of third sentence.
+    2000—Subsec. (a). [Pub. L. 106–373][/us/pl/106/373], § 4(a), inserted “on a case-by-case basis” before period at end of third sentence.
 
-    Subsec. (b). [Pub. L. 106–373, § 4(b)][/us/pl/106/373/s4/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board’s general areas of responsibility shall include, but not be limited to—
+    Subsec. (b). [Pub. L. 106–373][/us/pl/106/373], § 4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board’s general areas of responsibility shall include, but not be limited to—
 
     “(1) participating in the planning, development, and implementation of,
 
@@ -91,21 +91,21 @@
 
     the activities described in [section 2220b of this title][/us/usc/t22/s2220b].”
 
-    Subsec. (c)(2)(A). [Pub. L. 106–373, § 4(c)(1)(A)][/us/pl/106/373/s4/c/1/A], substituted “improve agricultural production, trade, and natural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;” for “increase food production in developing countries,”.
+    Subsec. (c)(2)(A). [Pub. L. 106–373][/us/pl/106/373], § 4(c)(1)(A), substituted “improve agricultural production, trade, and natural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;” for “increase food production in developing countries,”.
 
-    Subsec. (c)(2)(B). [Pub. L. 106–373, § 4(c)(1)(B)][/us/pl/106/373/s4/c/1/B], inserted “, environmental, and related social” before “sciences”.
+    Subsec. (c)(2)(B). [Pub. L. 106–373][/us/pl/106/373], § 4(c)(1)(B), inserted “, environmental, and related social” before “sciences”.
 
-    Subsec. (c)(4). [Pub. L. 106–373, § 4(c)(2)][/us/pl/106/373/s4/c/2], inserted “and their partners” after “Administrator and universities”.
+    Subsec. (c)(4). [Pub. L. 106–373][/us/pl/106/373], § 4(c)(2), inserted “and their partners” after “Administrator and universities”.
 
-    Subsec. (c)(5). [Pub. L. 106–373, § 4(c)(3)][/us/pl/106/373/s4/c/3], inserted “and public and private partners of universities” after “universities”.
+    Subsec. (c)(5). [Pub. L. 106–373][/us/pl/106/373], § 4(c)(3), inserted “and public and private partners of universities” after “universities”.
 
-    Subsec. (c)(7). [Pub. L. 106–373, § 4(c)(5)][/us/pl/106/373/s4/c/5], substituted “and natural resource issues in the developing nations, assuring efficiency in use of Federal resources, including in accordance with the Governmental Performance and Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]), and the amendments made by that Act;” for “in the developing nations.”
+    Subsec. (c)(7). [Pub. L. 106–373][/us/pl/106/373], § 4(c)(5), substituted “and natural resource issues in the developing nations, assuring efficiency in use of Federal resources, including in accordance with the Governmental Performance and Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]), and the amendments made by that Act;” for “in the developing nations.”
 
-    Subsec. (c)(8) to (10). [Pub. L. 106–373, § 4(c)(4)][/us/pl/106/373/s4/c/4], (6), added pars. (8) to (10).
+    Subsec. (c)(8) to (10). [Pub. L. 106–373][/us/pl/106/373], § 4(c)(4), (6), added pars. (8) to (10).
 
-    Subsec. (d)(1). [Pub. L. 106–373, § 4(d)(1)][/us/pl/106/373/s4/d/1], substituted “Policy” for “Research”, “design” for “administration”, and “section 2220b” for “section 2220b(a)(3)”.
+    Subsec. (d)(1). [Pub. L. 106–373][/us/pl/106/373], § 4(d)(1), substituted “Policy” for “Research”, “design” for “administration”, and “section 2220b” for “section 2220b(a)(3)”.
 
-    Subsec. (d)(2). [Pub. L. 106–373, § 4(d)(2)][/us/pl/106/373/s4/d/2], substituted “Joint Operations Committee which shall assist in and advise on the mechanisms and processes for implementation of activities described in [section 2220b of this title][/us/usc/t22/s2220b].” for “Joint Committee on Country Programs which shall assist in the implementation of the bilateral activities described in sections 2220b(a)(2), 2220b(a)(4), and 2220b(a)(5) of this title.”
+    Subsec. (d)(2). [Pub. L. 106–373][/us/pl/106/373], § 4(d)(2), substituted “Joint Operations Committee which shall assist in and advise on the mechanisms and processes for implementation of activities described in [section 2220b of this title][/us/usc/t22/s2220b].” for “Joint Committee on Country Programs which shall assist in the implementation of the bilateral activities described in sections 2220b(a)(2), 2220b(a)(4), and 2220b(a)(5) of this title.”
 
  __Delegation of Functions__ 
 
@@ -126,28 +126,28 @@
 [/us/usc/t22/s2220b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220b
 [/us/usc/t22/s2220e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220e
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs312
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F864
-[/us/pl/106/373/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/stat/114/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1432
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/106/373/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fa
-[/us/pl/106/373/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fb
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/usc/t22/s2220b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220b
-[/us/pl/106/373/s4/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fc%2F1%2FA
-[/us/pl/106/373/s4/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fc%2F1%2FB
-[/us/pl/106/373/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fc%2F2
-[/us/pl/106/373/s4/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fc%2F3
-[/us/pl/106/373/s4/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fc%2F5
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
-[/us/pl/106/373/s4/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fc%2F4
-[/us/pl/106/373/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fd%2F1
-[/us/pl/106/373/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs4%2Fd%2F2
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/usc/t22/s2220b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220b
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

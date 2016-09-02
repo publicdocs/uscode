@@ -39,7 +39,7 @@
 
     (11) transmit its official mail as penalty mail in the same manner and upon the same conditions as an officer of the United States other than a Member of Congress is permitted to transmit official mail as penalty mail under [section 3202 of title 39][/us/usc/t39/s3202].
 
-([Pub. L. 94–118, § 6][/us/pl/94/118/s6], Oct. 20, 1975, [89 Stat. 605][/us/stat/89/605]; [Pub. L. 94–350, title IV, § 401(1)][/us/pl/94/350/s401/1], July 12, 1976, [90 Stat. 833][/us/stat/90/833]; [Pub. L. 95–426, title VII, § 703(a)][/us/pl/95/426/s703/a], Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992]; [Pub. L. 97–241, title V, § 503(a)][/us/pl/97/241/s503/a], Aug. 24, 1982, [96 Stat. 298][/us/stat/96/298]; [Pub. L. 102–138, title I, § 167][/us/pl/102/138/s167], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 404(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101.)
+([Pub. L. 94–118][/us/pl/94/118], § 6, Oct. 20, 1975, [89 Stat. 605][/us/stat/89/605]; [Pub. L. 94–350, title IV][/us/pl/94/350/tIV], § 401(1), July 12, 1976, [90 Stat. 833][/us/stat/90/833]; [Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 703(a), Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992]; [Pub. L. 97–241, title V][/us/pl/97/241/tV], § 503(a), Aug. 24, 1982, [96 Stat. 298][/us/stat/96/298]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 167, Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IV, § 404(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–101.)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–426, title VII, § 703(b)][/us/pl/95/426/s703/b], Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992], provided that: 
+[Pub. L. 95–426, title VII][/us/pl/95/426/tVII], § 703(b), Oct. 7, 1978, [92 Stat. 992][/us/stat/92/992], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1978.”
 
@@ -74,17 +74,17 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t39/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3202
-[/us/pl/94/118/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs6
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F605
-[/us/pl/94/350/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs401%2F1
+[/us/pl/94/350/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtIV
 [/us/stat/90/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F833
-[/us/pl/95/426/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs703%2Fa
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F992
-[/us/pl/97/241/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs503%2Fa
+[/us/pl/97/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtV
 [/us/stat/96/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F298
-[/us/pl/102/138/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs167
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F676
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2902%2Fe%2F1
@@ -92,7 +92,7 @@
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/95/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426
 [/us/pl/94/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350
-[/us/pl/95/426/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs703%2Fb
+[/us/pl/95/426/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtVII
 [/us/stat/92/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F992
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

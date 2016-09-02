@@ -29,7 +29,7 @@
 
     (b) In addition to agreeing to and accepting the amendments referred to in [section 286pp of this title][/us/usc/t22/s286pp] relating to the use of proceeds from the sale of such gold, the United States Governor is authorized, consistent with subsection (a), to take such actions as may be necessary, including those referred to in [section 286c(e) of this title][/us/usc/t22/s286c/e], to also use such proceeds for the purpose of assisting low-income countries.
 
-([July 31, 1945, ch. 339, § 66][/us/act/1945-07-31/ch339/s66], as added [Pub. L. 111–32, title XIV, § 1402][/us/pl/111/32/s1402], June 24, 2009, [123 Stat. 1918][/us/stat/123/1918].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 66, as added [Pub. L. 111–32, title XIV][/us/pl/111/32/tXIV], § 1402, June 24, 2009, [123 Stat. 1918][/us/stat/123/1918].)
 
 ----------
 
@@ -40,8 +40,8 @@
 
 [/us/usc/t22/s286pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286pp
 [/us/usc/t22/s286c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286c%2Fe
-[/us/act/1945-07-31/ch339/s66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs66
-[/us/pl/111/32/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1402
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/111/32/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXIV
 [/us/stat/123/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1918
 
 

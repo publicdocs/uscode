@@ -15,7 +15,7 @@
 
 ## § 9. Repealed. [Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1131(25), [60 Stat. 1037][/us/stat/60/1037]
 
-    Section, acts [Apr. 5, 1906, ch. 1366, § 4][/us/act/1906-04-05/ch1366/s4], [34 Stat. 100][/us/stat/34/100]; [May 24, 1924, ch. 182, § 17][/us/act/1924-05-24/ch182/s17], formerly § 10, [43 Stat. 142][/us/stat/43/142], renumbered § 17 and amended [Feb. 23, 1931, ch. 276, § 7][/us/act/1931-02-23/ch276/s7], [46 Stat. 1209][/us/stat/46/1209], related to inspection of diplomatic and consular offices.
+    Section, acts [Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 4, [34 Stat. 100][/us/stat/34/100]; [May 24, 1924, ch. 182][/us/act/1924-05-24/ch182], § 17, formerly § 10, [43 Stat. 142][/us/stat/43/142], renumbered § 17 and amended [Feb. 23, 1931, ch. 276][/us/act/1931-02-23/ch276], § 7, [46 Stat. 1209][/us/stat/46/1209], related to inspection of diplomatic and consular offices.
 
  __Effective Date of Repeal__ 
 
@@ -30,11 +30,11 @@
 
 [/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
 [/us/stat/60/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1037
-[/us/act/1906-04-05/ch1366/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs4
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F100
-[/us/act/1924-05-24/ch182/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182%2Fs17
+[/us/act/1924-05-24/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fch182
 [/us/stat/43/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F142
-[/us/act/1931-02-23/ch276/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276%2Fs7
+[/us/act/1931-02-23/ch276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-23%2Fch276
 [/us/stat/46/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1209
 
 

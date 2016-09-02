@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out sections 277d–43 to 277d–46 of this title. Such sums shall remain available until expended.
 
-([Pub. L. 106–457, title VIII, § 806][/us/pl/106/457/s806], Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981]; [Pub. L. 108–425, § 3][/us/pl/108/425/s3], Nov. 30, 2004, [118 Stat. 2421][/us/stat/118/2421].)
+([Pub. L. 106–457, title VIII][/us/pl/106/457/tVIII], § 806, Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981]; [Pub. L. 108–425][/us/pl/108/425], § 3, Nov. 30, 2004, [118 Stat. 2421][/us/stat/118/2421].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/106/457/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs806
+[/us/pl/106/457/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtVIII
 [/us/stat/114/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1981
-[/us/pl/108/425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs3
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 [/us/stat/118/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2421
 [/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 

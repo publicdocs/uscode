@@ -47,7 +47,7 @@
 
             (D) the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 107–327, title III, § 305][/us/pl/107/327/s305], as added [Pub. L. 108–458, title VII, § 7104(e)(4)(A)][/us/pl/108/458/s7104/e/4/A], Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782].)
+([Pub. L. 107–327, title III][/us/pl/107/327/tIII], § 305, as added [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7104(e)(4)(A), Dec. 17, 2004, [118 Stat. 3782][/us/stat/118/3782].)
 
  __Change of Name__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/pl/107/327/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs305
-[/us/pl/108/458/s7104/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7104%2Fe%2F4%2FA
+[/us/pl/107/327/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtIII
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3782
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

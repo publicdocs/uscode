@@ -27,7 +27,7 @@
 
         The Commission shall submit to the President and to the Congress an annual report of its activities under this chapter together with such recommendations as the Commission determines appropriate.
 
-([Pub. L. 94–118, § 5][/us/pl/94/118/s5], Oct. 20, 1975, [89 Stat. 605][/us/stat/89/605].)
+([Pub. L. 94–118][/us/pl/94/118], § 5, Oct. 20, 1975, [89 Stat. 605][/us/stat/89/605].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s2902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2902%2Fb
-[/us/pl/94/118/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs5
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F605
 
 

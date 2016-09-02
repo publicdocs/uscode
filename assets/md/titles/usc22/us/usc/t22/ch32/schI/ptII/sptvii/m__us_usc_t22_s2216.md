@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptvii/m__us_usc_t22_ch32_schI_ptII_sptvii.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptviii/m__us_usc_t22_ch32_schI_ptII_sptviii.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2216)
 
-## § 2216. Repealed. [Pub. L. 95–424, title I, § 102(g)(1)(A)][/us/pl/95/424/s102/g/1/A], Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942]
+## § 2216. Repealed. [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 102(g)(1)(A), Oct. 6, 1978, [92 Stat. 942][/us/stat/92/942]
 
     Section, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 261, as added [Pub. L. 88–205][/us/pl/88/205], pt. I, § 107, Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383], related to appointment of a committee to review and evaluate economic development program for less developed countries.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/424/s102/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs102%2Fg%2F1%2FA
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F942
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205

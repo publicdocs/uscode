@@ -27,7 +27,7 @@
 
         The President is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section and to protect the retirement, insurance and such other civil service rights and privileges as the President may find appropriate.
 
-([Pub. L. 85–177, § 6][/us/pl/85/177/s6], Aug. 28, 1957, [71 Stat. 454][/us/stat/71/454]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 85–177][/us/pl/85/177], § 6, Aug. 28, 1957, [71 Stat. 454][/us/stat/71/454]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Repeals__ 
 
@@ -35,11 +35,11 @@
 
 > “Section 6(a) of the International Atomic Energy Agency Participation Act of 1957 \[subsec. (a) of this section\], is repealed except that it shall be considered to remain in effect with respect to any employee subject thereto who is serving as an employee of the International Atomic Energy Agency on the date of enactment of this Act \[Aug. 28, 1958\] and who does not make the election referred to in section 6, and for the purposes of any rights and benefits vested thereunder prior to such date.”
 
-    [Section 7 of Pub. L. 85–795][/us/pl/85/795/s7], Aug. 28, 1958, [72 Stat. 962][/us/stat/72/962], was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 660][/us/stat/80/660]. See [section 8 of Pub. L. 89–554][/us/pl/89/554/s8], set out as a note preceding [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees.
+    [Section 7 of Pub. L. 85–795][/us/pl/85/795/s7], Aug. 28, 1958, [72 Stat. 962][/us/stat/72/962], was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 660][/us/stat/80/660]. See [section 8 of Pub. L. 89–554][/us/pl/89/554/s8], set out as a note preceding [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees.
 
  __Codification__ 
 
-    In subsecs. (a) and (b), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” and “the Civil Service Retirement Act” in each subsection and “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsecs. (a) and (b), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” and “the Civil Service Retirement Act” in each subsection and “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Transfer of Functions__ 
 
@@ -56,18 +56,18 @@
 ----------
 ----------
 
-[/us/pl/85/177/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177%2Fs6
+[/us/pl/85/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177
 [/us/stat/71/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F454
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/pl/85/795/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F795%2Fs7
 [/us/stat/72/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F962
 [/us/pl/85/795/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F795%2Fs7
 [/us/stat/72/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F962
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F660
 [/us/pl/89/554/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

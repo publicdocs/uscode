@@ -43,7 +43,7 @@
 
  __AID Office of Security__ 
 
-[Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 587\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–204, as amended by [Pub. L. 106–31, title V, § 5002(b)][/us/pl/106/31/s5002/b], May 21, 1999, [113 Stat. 109][/us/stat/113/109], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 587\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–204, as amended by [Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5002(b), May 21, 1999, [113 Stat. 109][/us/stat/113/109], provided that:
 
 >     “(a)  __Establishment of Office__  __.—__ 
 
@@ -59,21 +59,21 @@
 
  __Agency for International Development Budget Submission__ 
 
-[Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 576\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–54, provided that: 
+[Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 576\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–54, provided that: 
 
 > “The Agency for International Development shall submit to the Committees on Appropriations a detailed budget justification that is consistent with the requirements of section 515 \[[114 Stat. 1900][/us/stat/114/1900]A–26\], for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget justification format no later than November 15, 2000, or 30 days after the enactment of this Act \[Nov. 6, 2000\], whichever occurs later. The proposed format shall include how the Agency’s budget justification will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the 2 previous fiscal years; (2) the President’s request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data and staff levels by program and activity for each bureau, field mission, and central office; and (4) the need for a user-friendly, transparent budget narrative.”
 
-[Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 581\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–116, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 581\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–116, provided that: 
 
 > “Beginning with the fiscal year 2001 budget, the Agency for International Development shall submit to the Committees on Appropriations a detailed budget for each fiscal year. The Agency shall submit to the Committees on Appropriations a proposed budget format no later than October 31, 1999, or 30 days after the enactment of this Act \[Nov. 29, 1999\], whichever occurs later. The proposed format shall include how the Agency’s budget submission will address: (1) estimated levels of obligations for the current fiscal year and actual levels for the two previous fiscal years; (2) the President’s request for new budget authority and estimated carryover obligational authority for the budget year; (3) the disaggregation of budget data by program and activity for each bureau, field mission, and central office; and (4) staff levels identified by program.”
 
-[Pub. L. 102–391, title V, § 599E][/us/pl/102/391/s599E], Oct. 6, 1992, [106 Stat. 1698][/us/stat/106/1698], provided that: 
+[Pub. L. 102–391, title V][/us/pl/102/391/tV], § 599E, Oct. 6, 1992, [106 Stat. 1698][/us/stat/106/1698], provided that: 
 
 > “The President shall include with each budget for a fiscal year submitted to the Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development.”
 
  __REORGANIZATION PLAN NO. 2 OF 1979__ 
 
-    Reorganization Plan No. 2 of 1979, 44 F.R. 41165, [93 Stat. 1378][/us/stat/93/1378], which established the United States International Development Cooperation Agency, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790], 2681–792, effective Apr. 1, 1999.
+    Reorganization Plan No. 2 of 1979, 44 F.R. 41165, [93 Stat. 1378][/us/stat/93/1378], which established the United States International Development Cooperation Agency, was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790], 2681–792, effective Apr. 1, 1999.
 
  __Executive Order No. 10973__ 
 
@@ -83,7 +83,7 @@
 
  __Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions__ 
 
-    Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§ 1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, § 1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, § 2, June 29, 1998, 63 F.R. 36153; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(a)(2), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; Ex. Ord. No. 13118, §§ 1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, § 3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633; Ex. Ord. No. 13656, § 6, Jan. 17, 2014, 79 F.R. 4263, provided:
+    Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§ 1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, § 1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, § 2, June 29, 1998, 63 F.R. 36153; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1422(a)(2), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; Ex. Ord. No. 13118, §§ 1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, § 3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633; Ex. Ord. No. 13656, § 6, Jan. 17, 2014, 79 F.R. 4263, provided:
 
     By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under [section 2151 of this title][/us/usc/t22/s2151]\], and [section 301 of title 3][/us/usc/t3/s301] of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -321,7 +321,7 @@
 
 1–906. Implementation. In carrying out this order, officers of the United States shall ensure that all actions taken by them are consistent with the President’s constitutional authority to: (a) conduct the foreign affairs of the United States; (b) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive’s constitutional duties; (c) recommend for congressional consideration such measures as the President may judge necessary and expedient; and (d) supervise the unitary executive branch.
 
-    \[[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(a)(2), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792], provided that sections 1–101 through 1–103, 1–401 through 1–403, and 1–801(a), and other provisions of Ex. Ord. No. 12163 that relate to the United States International Development Cooperation Agency or the Director thereof were repealed.\]
+    \[[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1422(a)(2), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792], provided that sections 1–101 through 1–103, 1–401 through 1–403, and 1–801(a), and other provisions of Ex. Ord. No. 12163 that relate to the United States International Development Cooperation Agency or the Director thereof were repealed.\]
 
 ----------
 
@@ -345,27 +345,27 @@
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/pl/87/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F565
 [/us/usc/t7/s1704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704%2Fe
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/106/31/s5002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5002%2Fb
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F109
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
 [/us/pl/99/339/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs103
 [/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
 [/us/stat/112/2681-157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-157
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/102/391/s599E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs599E
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1698
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/stat/93/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1378
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/usc/t22/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-792
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
@@ -482,7 +482,7 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t22/s2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-792
 
 

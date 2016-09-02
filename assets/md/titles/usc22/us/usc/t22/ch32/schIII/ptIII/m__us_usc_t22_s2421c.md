@@ -17,7 +17,7 @@
 
     The President shall use the Trade Promotion Coordination Committee to coordinate activities under sections 2421a to 2421e of this title with other relevant activities of the United States Government.
 
-([Pub. L. 102–549, title III, § 304][/us/pl/102/549/s304], Oct. 28, 1992, [106 Stat. 3659][/us/stat/106/3659].)
+([Pub. L. 102–549, title III][/us/pl/102/549/tIII], § 304, Oct. 28, 1992, [106 Stat. 3659][/us/stat/106/3659].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/549/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs304
+[/us/pl/102/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIII
 [/us/stat/106/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3659
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658

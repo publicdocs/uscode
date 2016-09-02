@@ -17,7 +17,7 @@
 
     Congress finds that India is not an MTCR adherent for the purposes of [section 2797b of this title][/us/usc/t22/s2797b].
 
-([Pub. L. 109–401, title I, § 107][/us/pl/109/401/s107], Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 107, Dec. 18, 2006, [120 Stat. 2738][/us/stat/120/2738].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s2797b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b
-[/us/pl/109/401/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs107
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2738
 
 

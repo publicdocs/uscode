@@ -17,7 +17,7 @@
 
     Every agent of a foreign principal registered under this subchapter shall keep and preserve while he is an agent of a foreign principal such books of account and other records with respect to all his activities, the disclosure of which is required under the provisions of this subchapter, in accordance with such business and accounting practices, as the Attorney General, having due regard for the national security and the public interest, may by regulation prescribe as necessary or appropriate for the enforcement of the provisions of this subchapter and shall preserve the same for a period of three years following the termination of such status. Until regulations are in effect under this section every agent of a foreign principal shall keep books of account and shall preserve all written records with respect to his activities. Such books and records shall be open at all reasonable times to the inspection of any official charged with the enforcement of this subchapter. It shall be unlawful for any person willfully to conceal, destroy, obliterate, mutilate, or falsify, or to attempt to conceal, destroy, obliterate, mutilate, or falsify, or to cause to be concealed, destroyed, obliterated, mutilated, or falsified, any books or records required to be kept under the provisions of this section.
 
-([June 8, 1938, ch. 327, § 5][/us/act/1938-06-08/ch327/s5], [52 Stat. 633][/us/stat/52/633]; [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 256][/us/stat/56/256]; [Pub. L. 89–486, § 5][/us/pl/89/486/s5], July 4, 1966, [80 Stat. 247][/us/stat/80/247].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 5, [52 Stat. 633][/us/stat/52/633]; [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 256][/us/stat/56/256]; [Pub. L. 89–486][/us/pl/89/486], § 5, July 4, 1966, [80 Stat. 247][/us/stat/80/247].)
 
  __Prior Provisions__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1938-06-08/ch327/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs5
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
 [/us/stat/52/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F633
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F256
-[/us/pl/89/486/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs5
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/stat/80/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F247
 [/us/usc/t22/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs618
 [/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486

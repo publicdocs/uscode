@@ -41,7 +41,7 @@
 
             The Facility shall notify the agency primarily responsible for administering subchapter I of this chapter of the agreement with an eligible country to exchange a new obligation for outstanding obligations pursuant to this subsection. At the direction of the Facility, the old obligations shall be canceled and a new debt obligation for the country shall be established, and the agency primarily responsible for administering subchapter I of this chapter shall make an adjustment in its accounts to reflect the debt reduction.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 704, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3665][/us/stat/106/3665].)
+([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 704, as added [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(a), Oct. 28, 1992, [106 Stat. 3665][/us/stat/106/3665].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t22/s2370/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fr
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fa
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3665
 [/us/pl/94/161/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs321
 [/us/usc/t22/s2220a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220a

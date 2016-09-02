@@ -41,7 +41,7 @@
 
         The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
 
-([Pub. L. 105–107, title III, § 307][/us/pl/105/107/s307], Nov. 20, 1997, [111 Stat. 2252][/us/stat/111/2252].)
+([Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 307, Nov. 20, 1997, [111 Stat. 2252][/us/stat/111/2252].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/105/107/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs307
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2252
 
 

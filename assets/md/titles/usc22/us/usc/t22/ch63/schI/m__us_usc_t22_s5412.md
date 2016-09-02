@@ -37,7 +37,7 @@
 
             For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346][/us/usc/t22/s2346] and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
 
-([Pub. L. 101–179, title I, § 102][/us/pl/101/179/s102], Nov. 28, 1989, [103 Stat. 1303][/us/stat/103/1303].)
+([Pub. L. 101–179, title I][/us/pl/101/179/tI], § 102, Nov. 28, 1989, [103 Stat. 1303][/us/stat/103/1303].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t22/s5411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5411%2Fb%2F1
 [/us/usc/t22/s5411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5411%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/101/179/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs102
+[/us/pl/101/179/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtI
 [/us/stat/103/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1303
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

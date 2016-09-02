@@ -55,7 +55,7 @@
 
         This section shall cease to be effective on October 1, 2018.
 
-([Pub. L. 87–293, title I, § 8C][/us/pl/87/293/s8C], as added [Pub. L. 112–57, § 2][/us/pl/112/57/s2], Nov. 21, 2011, [125 Stat. 739][/us/stat/125/739].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 8C, as added [Pub. L. 112–57][/us/pl/112/57], § 2, Nov. 21, 2011, [125 Stat. 739][/us/stat/125/739].)
 
 ----------
 
@@ -69,8 +69,8 @@
 [/us/usc/t22/s2507b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507b
 [/us/usc/t22/s2507b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507b%2Fc
 [/us/usc/t22/s2507b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2507b%2Fc
-[/us/pl/87/293/s8C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs8C
-[/us/pl/112/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F739
 
 

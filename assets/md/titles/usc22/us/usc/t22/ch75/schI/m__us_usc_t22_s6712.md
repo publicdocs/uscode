@@ -17,7 +17,7 @@
 
     No person may be required, as a condition for entering into a contract with the United States or as a condition for receiving any benefit from the United States, to waive any right under the Constitution for any purpose related to this chapter or the Convention.
 
-([Pub. L. 105–277, div. I, title I, § 102][/us/pl/105/277/s102], Oct. 21, 1998, [112 Stat. 2681–861][/us/stat/112/2681-861].)
+([Pub. L. 105–277, div. I, title I][/us/pl/105/277/dI/tI], § 102, Oct. 21, 1998, [112 Stat. 2681–861][/us/stat/112/2681-861].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs102
+[/us/pl/105/277/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtI
 [/us/stat/112/2681-861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-861
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

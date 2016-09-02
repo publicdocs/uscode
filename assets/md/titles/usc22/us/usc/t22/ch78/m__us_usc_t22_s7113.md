@@ -83,7 +83,7 @@
 
         (D) includes a list of any grant recipients excluded under paragraph (1) from the previous year.
 
-([Pub. L. 113–4, title XII, § 1236][/us/pl/113/4/s1236], Mar. 7, 2013, [127 Stat. 147][/us/stat/127/147].)
+([Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1236, Mar. 7, 2013, [127 Stat. 147][/us/stat/127/147].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs511%2Fa
-[/us/pl/113/4/s1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1236
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F147
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F136

@@ -35,21 +35,21 @@
 
         (3) The Secretary of the Treasury shall instruct the United States executive director of the Fund to present to the Fund’s Executive Board a comprehensive set of proposals, consistent with maintaining high levels of competence of Fund personnel and consistent with the Articles of Agreement, with the objective of assuring that salaries and other compensation accorded Fund employees do not exceed those received by persons filling similar levels of responsibility within national government service or private industry. The Secretary shall report these proposals together with any measures adopted by the Fund’s Executive Board to the Congress prior to February 1, 1979.
 
-([July 31, 1945, ch. 339, § 3][/us/act/1945-07-31/ch339/s3], [59 Stat. 512][/us/stat/59/512]; [Pub. L. 93–94][/us/pl/93/94], Aug. 15, 1973, [87 Stat. 314][/us/stat/87/314]; [Pub. L. 94–564, § 2][/us/pl/94/564/s2], Oct. 19, 1976, [90 Stat. 2660][/us/stat/90/2660]; [Pub. L. 95–435, § 2][/us/pl/95/435/s2], Oct. 10, 1978, [92 Stat. 1051][/us/stat/92/1051].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 3, [59 Stat. 512][/us/stat/59/512]; [Pub. L. 93–94][/us/pl/93/94], Aug. 15, 1973, [87 Stat. 314][/us/stat/87/314]; [Pub. L. 94–564][/us/pl/94/564], § 2, Oct. 19, 1976, [90 Stat. 2660][/us/stat/90/2660]; [Pub. L. 95–435][/us/pl/95/435], § 2, Oct. 10, 1978, [92 Stat. 1051][/us/stat/92/1051].)
 
  __Amendments__ 
 
     1978—Subsec. (d). [Pub. L. 95–435][/us/pl/95/435] designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    1976—Subsec. (c). [Pub. L. 94–564, § 2(1)][/us/pl/94/564/s2/1], amended subsec. (c) generally to provide that the Governor serve as councillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d).
+    1976—Subsec. (c). [Pub. L. 94–564][/us/pl/94/564], § 2(1), amended subsec. (c) generally to provide that the Governor serve as councillor and designate an alternate and associates. Former provisions relating to compensation were included in subsec. (d).
 
-    Subsec. (d). [Pub. L. 94–564, § 2(2)][/us/pl/94/564/s2/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 94–564][/us/pl/94/564], § 2(2), added subsec. (d).
 
     1973—Subsec. (b). [Pub. L. 93–94][/us/pl/93/94] substituted “and an alternate for the governor of the Bank” for “who shall also serve as alternate for the governor of the Bank”.
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–564, § 9][/us/pl/94/564/s9], Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661], provided that: 
+[Pub. L. 94–564][/us/pl/94/564], § 9, Oct. 19, 1976, [90 Stat. 2661][/us/stat/90/2661], provided that: 
 
 > “The amendments made by sections 2, 3, 4, 5, 6, and 7 of this Act \[amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund.”
 
@@ -57,7 +57,7 @@
 
  __Levels of Fund Salaries and Minimization of Travel Costs__ 
 
-[Pub. L. 96–389, § 9][/us/pl/96/389/s9], Oct. 7, 1980, [94 Stat. 1554][/us/stat/94/1554], provided that: 
+[Pub. L. 96–389][/us/pl/96/389], § 9, Oct. 7, 1980, [94 Stat. 1554][/us/stat/94/1554], provided that: 
 
 > “The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists.”
 
@@ -70,21 +70,21 @@
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/act/1945-07-31/ch339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs3
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
 [/us/stat/59/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F512
 [/us/pl/93/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F94
 [/us/stat/87/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F314
-[/us/pl/94/564/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs2
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2660
-[/us/pl/95/435/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435%2Fs2
+[/us/pl/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435
 [/us/stat/92/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1051
 [/us/pl/95/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F435
-[/us/pl/94/564/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs2%2F1
-[/us/pl/94/564/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs2%2F2
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/pl/93/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F94
-[/us/pl/94/564/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564%2Fs9
+[/us/pl/94/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F564
 [/us/stat/90/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2661
-[/us/pl/96/389/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs9
+[/us/pl/96/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389
 [/us/stat/94/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1554
 
 

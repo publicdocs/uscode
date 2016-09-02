@@ -17,7 +17,7 @@
 
     Alternate United States Commissioners shall receive no compensation for their services. They may be paid travel expenses and per diem in lieu of subsistence at the rates authorized by [section 5703 of title 5][/us/usc/t5/s5703] when engaged in the performance of their duties.
 
-([Pub. L. 92–471, title II, § 202][/us/pl/92/471/s202], Oct. 9, 1972, [86 Stat. 787][/us/stat/86/787].)
+([Pub. L. 92–471, title II][/us/pl/92/471/tII], § 202, Oct. 9, 1972, [86 Stat. 787][/us/stat/86/787].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/92/471/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F471%2Fs202
+[/us/pl/92/471/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F471%2FtII
 [/us/stat/86/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F787
 
 

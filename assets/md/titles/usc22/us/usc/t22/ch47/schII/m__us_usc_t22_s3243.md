@@ -21,7 +21,7 @@
 
     (2) establish international procedures to be followed in the event of diversion, theft, or sabotage of nuclear materials or sabotage of nuclear facilities, and for recovering nuclear materials that have been lost or stolen, or obtained or used by a nation or by any person or group in contravention of the principles of the Treaty.
 
-([Pub. L. 95–242, title II, § 203][/us/pl/95/242/s203], Mar. 10, 1978, [92 Stat. 124][/us/stat/92/124].)
+([Pub. L. 95–242, title II][/us/pl/95/242/tII], § 203, Mar. 10, 1978, [92 Stat. 124][/us/stat/92/124].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/242/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs203
+[/us/pl/95/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2FtII
 [/us/stat/92/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F124
 
 

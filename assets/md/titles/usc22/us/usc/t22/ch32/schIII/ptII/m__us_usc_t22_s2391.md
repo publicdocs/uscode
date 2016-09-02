@@ -31,7 +31,7 @@
 
         Wherever practicable, especially in the case of the smaller programs, assistance under subchapter I of this chapter shall be administered under the direction of the Chief of the United States Diplomatic Mission by the principal economic officer of the mission.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 631, Sept. 4, 1961, [75 Stat. 453][/us/stat/75/453]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(d), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(f), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 95–92, § 7(c)][/us/pl/95/92/s7/c], Aug. 4, 1977, [91 Stat. 617][/us/stat/91/617]; [Pub. L. 96–465, title II, § 2203(c)][/us/pl/96/465/s2203/c], (d), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 631, Sept. 4, 1961, [75 Stat. 453][/us/stat/75/453]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(d), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(f), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 95–92][/us/pl/95/92], § 7(c), Aug. 4, 1977, [91 Stat. 617][/us/stat/91/617]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2203(c), (d), Oct. 17, 1980, [94 Stat. 2159][/us/stat/94/2159].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    1980—Subsec. (b). [Pub. L. 96–465, § 2203(c)][/us/pl/96/465/s2203/c], among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and [section 2385(d) of this title][/us/usc/t22/s2385/d].
+    1980—Subsec. (b). [Pub. L. 96–465][/us/pl/96/465], § 2203(c), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and [section 2385(d) of this title][/us/usc/t22/s2385/d].
 
-    Subsec. (c). [Pub. L. 96–465, § 2203(d)][/us/pl/96/465/s2203/d], among other changes, substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and inserted provisions relating to employee status for purposes of chapters 81, 83, 87 and 89 of title 5.
+    Subsec. (c). [Pub. L. 96–465][/us/pl/96/465], § 2203(d), among other changes, substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and inserted provisions relating to employee status for purposes of chapters 81, 83, 87 and 89 of title 5.
 
     1977—Subsec. (d). [Pub. L. 95–92][/us/pl/95/92] substituted reference to subchapter I of this chapter for reference to this chapter and struck out provisions requiring administration of assistance by the senior military officer of the mission for assistance under subchapter II of this chapter.
 
@@ -67,7 +67,7 @@
 
  __Flag and General Officers__ 
 
-[Pub. L. 94–11, title I, § 100][/us/pl/94/11/s100], Mar. 26, 1975, [89 Stat. 20][/us/stat/89/20], provided in part that: 
+[Pub. L. 94–11, title I][/us/pl/94/11/tI], § 100, Mar. 26, 1975, [89 Stat. 20][/us/stat/89/20], provided in part that: 
 
 > “The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign Military Sales Program shall not exceed twenty after May 1, 1975.”
 
@@ -92,9 +92,9 @@
 [/us/stat/77/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F389
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/stat/79/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F660
-[/us/pl/95/92/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs7%2Fc
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F617
-[/us/pl/96/465/s2203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2203%2Fc
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2159
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -105,9 +105,9 @@
 [/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/96/465/s2203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2203%2Fc
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s2385/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385%2Fd
-[/us/pl/96/465/s2203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2203%2Fd
+[/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
@@ -115,7 +115,7 @@
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/94/11/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F11%2Fs100
+[/us/pl/94/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F11%2FtI
 [/us/stat/89/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F20
 [/us/usc/t22/s3902/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3902%2F3
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

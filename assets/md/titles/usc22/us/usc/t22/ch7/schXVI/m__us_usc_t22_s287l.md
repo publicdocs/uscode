@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that the United Nations should take immediate steps to give effect to the advisory opinion of the International Court of Justice on the financial obligations of members of the United Nations in order to assure prompt payment of all assessments, including assessments to cover the cost of operations to maintain or restore international peace and security.
 
-([Pub. L. 87–731, § 6][/us/pl/87/731/s6], Oct. 2, 1962, [76 Stat. 696][/us/stat/76/696].)
+([Pub. L. 87–731][/us/pl/87/731], § 6, Oct. 2, 1962, [76 Stat. 696][/us/stat/76/696].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/731/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731%2Fs6
+[/us/pl/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731
 [/us/stat/76/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F696
 [/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
 [/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619

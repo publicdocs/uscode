@@ -17,7 +17,7 @@
 
     Under the direction of the President, the Secretary shall prescribe regulations for the implementation of this subchapter.
 
-([Pub. L. 96–465, title II, § 2107][/us/pl/96/465/s2107], Oct. 17, 1980, [94 Stat. 2152][/us/stat/94/2152].)
+([Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2107, Oct. 17, 1980, [94 Stat. 2152][/us/stat/94/2152].)
 
  __Delegation of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2107
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2152
 [/us/usc/t22/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4151
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

@@ -23,7 +23,7 @@
 
         The Secretary of State shall establish, based on the assessment compiled under subsection (a) and other relevant factors, guidelines for future Department of State responses to comparable disasters and shall distribute such guidelines to all United States diplomatic and consular posts abroad.
 
-([Pub. L. 101–604, title II, § 209][/us/pl/101/604/s209], Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 209, Nov. 16, 1990, [104 Stat. 3085][/us/stat/104/3085].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs209
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3085
 
 

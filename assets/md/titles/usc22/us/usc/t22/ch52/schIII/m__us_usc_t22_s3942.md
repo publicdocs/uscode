@@ -47,19 +47,19 @@
 
     (b) If a member of the Service is appointed to any position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, the period of service in that position by the member shall be regarded as an assignment under subchapter V and the member shall not, by virtue of the acceptance of such assignment, lose his or her status as a member of the Service. A member of the Senior Foreign Service who accepts such an assignment may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.
 
-([Pub. L. 96–465, title I, § 302][/us/pl/96/465/s302], Oct. 17, 1980, [94 Stat. 2084][/us/stat/94/2084]; [Pub. L. 100–204, title I, § 177(b)][/us/pl/100/204/s177/b], Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362]; [Pub. L. 102–138, title I][/us/pl/102/138], §§ 141, 142(a), Oct. 28, 1991, [105 Stat. 667][/us/stat/105/667].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 302, Oct. 17, 1980, [94 Stat. 2084][/us/stat/94/2084]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 177(b), Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], §§ 141, 142(a), Oct. 28, 1991, [105 Stat. 667][/us/stat/105/667].)
 
  __Amendments__ 
 
-    1991—Subsec. (a)(1). [Pub. L. 102–138, § 141][/us/pl/102/138/s141], inserted “as an ambassador,” after “ambassador at large,”.
+    1991—Subsec. (a)(1). [Pub. L. 102–138][/us/pl/102/138], § 141, inserted “as an ambassador,” after “ambassador at large,”.
 
-    Subsec. (b). [Pub. L. 102–138, § 142(a)][/us/pl/102/138/s142/a], substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
+    Subsec. (b). [Pub. L. 102–138][/us/pl/102/138], § 142(a), substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
 
     1987—Subsec. (b). [Pub. L. 100–204][/us/pl/100/204] substituted “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter.” for “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63 of title 5 as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–204, title I, § 177(c)][/us/pl/100/204/s177/c], Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 177(c), Dec. 22, 1987, [101 Stat. 1362][/us/stat/101/1362], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 3961 of this title][/us/usc/t22/s3961]\] shall not apply to the salary of any individual serving under a Presidential appointment under section 302 of the Foreign Service Act of 1980 \[this section\] immediately before the date of the enactment of this Act \[Dec. 22, 1987\] during the period such individual continues to serve in such position.”
 
@@ -69,7 +69,7 @@
 
  __Executive Order No. 10062__ 
 
-    Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by [act Aug. 10, 1949, ch. 412, § 12(a)][/us/act/1949-08-10/ch412/s12/a], [63 Stat. 591][/us/stat/63/591]; Ex. Ord. No. 10144, July 21, 1950, 15 F.R. 4705, eff. June 6, 1949, which established the position of United States High Commissioner for Germany, was revoked by Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, set out below.
+    Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by [act Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 12(a), [63 Stat. 591][/us/stat/63/591]; Ex. Ord. No. 10144, July 21, 1950, 15 F.R. 4705, eff. June 6, 1949, which established the position of United States High Commissioner for Germany, was revoked by Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, set out below.
 
  __Ex. Ord. No. 10608. United States Authority and Functions in Germany__ 
 
@@ -104,20 +104,20 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 ----------
 ----------
 
-[/us/pl/96/465/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs302
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2084
-[/us/pl/100/204/s177/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs177%2Fb
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1362
-[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F667
-[/us/pl/102/138/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs141
-[/us/pl/102/138/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs142%2Fa
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
+[/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/100/204/s177/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs177%2Fc
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1362
 [/us/usc/t22/s3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3961
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/act/1949-08-10/ch412/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs12%2Fa
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F591
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
 

@@ -25,7 +25,7 @@
 
     (d) ensuring effective controls by the United States over its exports of nuclear materials and equipment and of nuclear technology.
 
-([Pub. L. 95–242, § 3][/us/pl/95/242/s3], Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120].)
+([Pub. L. 95–242][/us/pl/95/242], § 3, Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/95/242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs3
+[/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120

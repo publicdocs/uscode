@@ -17,7 +17,7 @@
 
     It is the sense of Congress that the human rights of North Koreans should remain a key element in future negotiations between the United States, North Korea, and other concerned parties in Northeast Asia.
 
-([Pub. L. 108–333, title I, § 101][/us/pl/108/333/s101], Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290].)
+([Pub. L. 108–333, title I][/us/pl/108/333/tI], § 101, Oct. 18, 2004, [118 Stat. 1290][/us/stat/118/1290].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/333/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs101
+[/us/pl/108/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtI
 [/us/stat/118/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1290
 
 

@@ -27,15 +27,15 @@
 
         (B) assisting in the coordination and implementation of efforts of public and private entities to educate such population, in a culturally competent manner, concerning such health problems.
 
-([Pub. L. 103–400, § 3][/us/pl/103/400/s3], Oct. 22, 1994, [108 Stat. 4169][/us/stat/108/4169]; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title V, § 516(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276.)
+([Pub. L. 103–400][/us/pl/103/400], § 3, Oct. 22, 1994, [108 Stat. 4169][/us/stat/108/4169]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title V, § 516(2)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–276.)
 
  __Amendments__ 
 
-    1999—Par. (1). [Pub. L. 106–113, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title V, § 516(2)(A)\], substituted “; and” for semicolon at end.
+    1999—Par. (1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(4) \[title V, § 516(2)(A)\], substituted “; and” for semicolon at end.
 
-    Par. (2)(B). [Pub. L. 106–113, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title V, § 516(2)(B)\], substituted period for “; and” at end.
+    Par. (2)(B). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(4) \[title V, § 516(2)(B)\], substituted period for “; and” at end.
 
-    Par. (3). [Pub. L. 106–113, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title V, § 516(2)(C)\], struck out par. (3) which read as follows: “to formulate recommendations to the Governments of the United States and Mexico concerning a fair and reasonable method by which the government of one country could reimburse a public or private entity in the other country for the cost of a health care service that the entity furnishes to a citizen of the first country who is unable, through insurance or otherwise, to pay for the service.”
+    Par. (3). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(4) \[title V, § 516(2)(C)\], struck out par. (3) which read as follows: “to formulate recommendations to the Governments of the United States and Mexico concerning a fair and reasonable method by which the government of one country could reimburse a public or private entity in the other country for the cost of a health care service that the entity furnishes to a citizen of the first country who is unable, through insurance or otherwise, to pay for the service.”
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/103/400/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400%2Fs3
+[/us/pl/103/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F400
 [/us/stat/108/4169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4169
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 
 

@@ -75,7 +75,7 @@
 
         In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013, which shall be used for United States contributions to tuberculosis vaccine development programs, which may include the Aeras Global TB Vaccine Foundation.
 
-    (e) __to (h) Repealed.__  __[__  __Pub. L. 95–424, title VI, § 604__  __][/us/pl/95/424/s604]__  __,__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 961__  __][/us/stat/92/961]__ 
+    (e) __to (h) Repealed.__  __[__  __Pub. L. 95–424, title VI__  __][/us/pl/95/424/tVI]__  __, § 604,__  __Oct. 6, 1978__  __,__  __[__  __92 Stat. 961__  __][/us/stat/92/961]__ 
 
     (i) __International Atomic Energy Agency; safeguards and inspections of nuclear fissile facilities and materials__ 
 
@@ -103,7 +103,7 @@
 
         In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to be available for United States contributions to malaria vaccine development programs, including the Malaria Vaccine Initiative of the Program for Appropriate Technologies in Health (PATH).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 302, Sept. 4, 1961, [75 Stat. 433][/us/stat/75/433]; [Pub. L. 87–565][/us/pl/87/565], pt. I, § 107, Aug. 1, 1962, [76 Stat. 259][/us/stat/76/259]; [Pub. L. 88–205][/us/pl/88/205], pt. I, § 108, Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383]; [Pub. L. 88–633][/us/pl/88/633], pt. I, § 106, Oct. 7, 1964, [78 Stat. 1010][/us/stat/78/1010]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 106(b), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 107(d), Sept. 19, 1966, [80 Stat. 801][/us/stat/80/801]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 110(b), Nov. 14, 1967, [81 Stat. 454][/us/stat/81/454]; [Pub. L. 90–554][/us/pl/90/554], pt. I, § 108, Oct. 8, 1968, [82 Stat. 962][/us/stat/82/962]; [Pub. L. 91–175][/us/pl/91/175], pt. I, § 108(b)–(d), Dec. 30, 1969, [83 Stat. 819][/us/stat/83/819]; [Pub. L. 92–226][/us/pl/92/226], pt. I, § 107, Feb. 7, 1972, [86 Stat. 23][/us/stat/86/23]; [Pub. L. 93–189, § 9(2)][/us/pl/93/189/s9/2]–(5), Dec. 17, 1973, [87 Stat. 719][/us/stat/87/719]; [Pub. L. 93–559, § 9][/us/pl/93/559/s9], Dec. 30, 1974, [88 Stat. 1798][/us/stat/88/1798]; [Pub. L. 94–161, title III, § 313(a)][/us/pl/94/161/s313/a], Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866]; [Pub. L. 94–329, title V, § 505][/us/pl/94/329/s505], June 30, 1976, [90 Stat. 764][/us/stat/90/764]; [Pub. L. 95–88, title I, § 118(a)][/us/pl/95/88/s118/a], Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I, § 117(a)][/us/pl/95/424/s117/a], (b)(1), (c), title VI, § 604, Oct. 6, 1978, [92 Stat. 952][/us/stat/92/952], 953, 961; [Pub. L. 96–53, title I, § 114(a)][/us/pl/96/53/s114/a], Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 96–533, title III, § 309][/us/pl/96/533/s309], Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148]; [Pub. L. 97–113, title III, § 311(b)][/us/pl/97/113/s311/b], title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536], 1560; [Pub. L. 99–83, title IV, § 402(a)][/us/pl/99/83/s402/a], Aug. 8, 1985, [99 Stat. 217][/us/stat/99/217]; [Pub. L. 99–529, title IV, § 404(2)][/us/pl/99/529/s404/2], Oct. 24, 1986, [100 Stat. 3019][/us/stat/100/3019]; [Pub. L. 100–690, title IV, § 4107][/us/pl/100/690/s4107], Nov. 18, 1988, [102 Stat. 4266][/us/stat/102/4266]; [Pub. L. 106–264, title I, § 112(a)][/us/pl/106/264/s112/a], Aug. 19, 2000, [114 Stat. 753][/us/stat/114/753]; [Pub. L. 108–25, title II, § 203][/us/pl/108/25/s203], May 27, 2003, [117 Stat. 727][/us/stat/117/727]; [Pub. L. 110–293, title II, § 201][/us/pl/110/293/s201], July 30, 2008, [122 Stat. 2936][/us/stat/122/2936]; [Pub. L. 111–117, div. F, title VII, § 7034(q)(2)][/us/pl/111/117/s7034/q/2], Dec. 16, 2009, [123 Stat. 3363][/us/stat/123/3363].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 302, Sept. 4, 1961, [75 Stat. 433][/us/stat/75/433]; [Pub. L. 87–565][/us/pl/87/565], pt. I, § 107, Aug. 1, 1962, [76 Stat. 259][/us/stat/76/259]; [Pub. L. 88–205][/us/pl/88/205], pt. I, § 108, Dec. 16, 1963, [77 Stat. 383][/us/stat/77/383]; [Pub. L. 88–633][/us/pl/88/633], pt. I, § 106, Oct. 7, 1964, [78 Stat. 1010][/us/stat/78/1010]; [Pub. L. 89–171][/us/pl/89/171], pt. I, § 106(b), Sept. 6, 1965, [79 Stat. 656][/us/stat/79/656]; [Pub. L. 89–583][/us/pl/89/583], pt. I, § 107(d), Sept. 19, 1966, [80 Stat. 801][/us/stat/80/801]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 110(b), Nov. 14, 1967, [81 Stat. 454][/us/stat/81/454]; [Pub. L. 90–554][/us/pl/90/554], pt. I, § 108, Oct. 8, 1968, [82 Stat. 962][/us/stat/82/962]; [Pub. L. 91–175][/us/pl/91/175], pt. I, § 108(b)–(d), Dec. 30, 1969, [83 Stat. 819][/us/stat/83/819]; [Pub. L. 92–226][/us/pl/92/226], pt. I, § 107, Feb. 7, 1972, [86 Stat. 23][/us/stat/86/23]; [Pub. L. 93–189][/us/pl/93/189], § 9(2)–(5), Dec. 17, 1973, [87 Stat. 719][/us/stat/87/719]; [Pub. L. 93–559][/us/pl/93/559], § 9, Dec. 30, 1974, [88 Stat. 1798][/us/stat/88/1798]; [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 313(a), Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866]; [Pub. L. 94–329, title V][/us/pl/94/329/tV], § 505, June 30, 1976, [90 Stat. 764][/us/stat/90/764]; [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 118(a), Aug. 3, 1977, [91 Stat. 540][/us/stat/91/540]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 117(a), (b)(1), (c), title VI, § 604, Oct. 6, 1978, [92 Stat. 952][/us/stat/92/952], 953, 961; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 114(a), Aug. 14, 1979, [93 Stat. 364][/us/stat/93/364]; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 309, Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148]; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 311(b), title VII, § 734(a)(1), Dec. 29, 1981, [95 Stat. 1536][/us/stat/95/1536], 1560; [Pub. L. 99–83, title IV][/us/pl/99/83/tIV], § 402(a), Aug. 8, 1985, [99 Stat. 217][/us/stat/99/217]; [Pub. L. 99–529, title IV][/us/pl/99/529/tIV], § 404(2), Oct. 24, 1986, [100 Stat. 3019][/us/stat/100/3019]; [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4107, Nov. 18, 1988, [102 Stat. 4266][/us/stat/102/4266]; [Pub. L. 106–264, title I][/us/pl/106/264/tI], § 112(a), Aug. 19, 2000, [114 Stat. 753][/us/stat/114/753]; [Pub. L. 108–25, title II][/us/pl/108/25/tII], § 203, May 27, 2003, [117 Stat. 727][/us/stat/117/727]; [Pub. L. 110–293, title II][/us/pl/110/293/tII], § 201, July 30, 2008, [122 Stat. 2936][/us/stat/122/2936]; [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7034(q)(2), Dec. 16, 2009, [123 Stat. 3363][/us/stat/123/3363].)
 
  __References in Text__ 
 
@@ -113,17 +113,17 @@
 
     2009—Subsec. (l). [Pub. L. 111–117][/us/pl/111/117], which directed substitution in subsec. (l) of “GAVI Alliance” for “Vaccine Fund”, could not be executed because “Vaccine Fund” did not appear in text.
 
-    2008—Subsec. (d). [Pub. L. 110–293, § 201(1)][/us/pl/110/293/s201/1], added subsec. (d).
+    2008—Subsec. (d). [Pub. L. 110–293][/us/pl/110/293], § 201(1), added subsec. (d).
 
-    Subsec. (k). [Pub. L. 110–293, § 201(2)][/us/pl/110/293/s201/2], substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008” and “GAVI Fund” for “Vaccine Fund”.
+    Subsec. (k). [Pub. L. 110–293][/us/pl/110/293], § 201(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008” and “GAVI Fund” for “Vaccine Fund”.
 
-    Subsecs. (l), (m). [Pub. L. 110–293, § 201(3)][/us/pl/110/293/s201/3], (4), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+    Subsecs. (l), (m). [Pub. L. 110–293][/us/pl/110/293], § 201(3), (4), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-    2003—Subsec. (k). [Pub. L. 108–25, § 203(a)][/us/pl/108/25/s203/a], substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$50,000,000 for each of the fiscal years 2001 and 2002” and “Vaccine Fund” for “Global Alliance for Vaccines and Immunizations”.
+    2003—Subsec. (k). [Pub. L. 108–25][/us/pl/108/25], § 203(a), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$50,000,000 for each of the fiscal years 2001 and 2002” and “Vaccine Fund” for “Global Alliance for Vaccines and Immunizations”.
 
-    Subsec. (l). [Pub. L. 108–25, § 203(b)][/us/pl/108/25/s203/b], substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$10,000,000 for each of the fiscal years 2001 and 2002”.
+    Subsec. (l). [Pub. L. 108–25][/us/pl/108/25], § 203(b), substituted “such sums as may be necessary for each of the fiscal years 2004 through 2008” for “$10,000,000 for each of the fiscal years 2001 and 2002”.
 
-    Subsec. (m). [Pub. L. 108–25, § 203(c)][/us/pl/108/25/s203/c], added subsec. (m).
+    Subsec. (m). [Pub. L. 108–25][/us/pl/108/25], § 203(c), added subsec. (m).
 
     2000—Subsecs. (k), (l). [Pub. L. 106–264][/us/pl/106/264] added subsecs. (k) and (l).
 
@@ -141,67 +141,67 @@
 
     1979—Subsec. (a)(1). [Pub. L. 96–53][/us/pl/96/53] substituted provisions authorizing appropriations of $267,280,000 for fiscal year 1980, for provisions authorizing appropriations of $285,450,000 for fiscal year 1979 and provisions respecting availability of funds for United Nations Trust Fund on South Africa, and the Namibia Institute, and availability of appropriations for fiscal year 1978.
 
-    1978—Subsec. (a)(1). [Pub. L. 95–424, § 117(a)][/us/pl/95/424/s117/a], (b)(1), substituted “$285,450,000 for the fiscal year 1979 of which not to exceed $300,000 shall be available for contributions to the United Nations Trust Fund on South Africa” for “for the fiscal year 1977, $219,900,000 and for the fiscal year 1978, $252,000,000”; substituted “fiscal year 1978, not to exceed $52,000,000” for “fiscal year 1978, not to exceed $42,500,000”, and inserted provision relating to voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+    1978—Subsec. (a)(1). [Pub. L. 95–424][/us/pl/95/424], § 117(a), (b)(1), substituted “$285,450,000 for the fiscal year 1979 of which not to exceed $300,000 shall be available for contributions to the United Nations Trust Fund on South Africa” for “for the fiscal year 1977, $219,900,000 and for the fiscal year 1978, $252,000,000”; substituted “fiscal year 1978, not to exceed $52,000,000” for “fiscal year 1978, not to exceed $42,500,000”, and inserted provision relating to voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
-    Subsec. (a)(3). [Pub. L. 95–424, § 117(c)][/us/pl/95/424/s117/c], added par. (3).
+    Subsec. (a)(3). [Pub. L. 95–424][/us/pl/95/424], § 117(c), added par. (3).
 
-    Subsec. (d). [Pub. L. 95–424, § 604][/us/pl/95/424/s604], struck out subsec. (d) which related to contributions to the United Nations Children’s Fund for fiscal years 1976 and 1977.
+    Subsec. (d). [Pub. L. 95–424][/us/pl/95/424], § 604, struck out subsec. (d) which related to contributions to the United Nations Children’s Fund for fiscal years 1976 and 1977.
 
-    Subsec. (e). [Pub. L. 95–424, § 604][/us/pl/95/424/s604], struck out subsec. (e) which related to added contributions for expansion of technical and vocational training of Arab refugees.
+    Subsec. (e). [Pub. L. 95–424][/us/pl/95/424], § 604, struck out subsec. (e) which related to added contributions for expansion of technical and vocational training of Arab refugees.
 
-    Subsec. (f). [Pub. L. 95–424, § 604][/us/pl/95/424/s604], struck out subsec. (f) which related to appropriation of Egyptian pounds for technical and vocational training and other assistance to Arab refugees.
+    Subsec. (f). [Pub. L. 95–424][/us/pl/95/424], § 604, struck out subsec. (f) which related to appropriation of Egyptian pounds for technical and vocational training and other assistance to Arab refugees.
 
-    Subsec. (g). [Pub. L. 95–424, § 604][/us/pl/95/424/s604], struck out subsec. (g) which related to availability of funds for the International Atomic Energy Agency.
+    Subsec. (g). [Pub. L. 95–424][/us/pl/95/424], § 604, struck out subsec. (g) which related to availability of funds for the International Atomic Energy Agency.
 
-    Subsec. (h). [Pub. L. 95–424, § 604][/us/pl/95/424/s604], struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
+    Subsec. (h). [Pub. L. 95–424][/us/pl/95/424], § 604, struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
 
     1977—Subsec. (a)(1). [Pub. L. 95–88][/us/pl/95/88] struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
     1976—Subsec. (i). [Pub. L. 94–329][/us/pl/94/329] added subsec. (i).
 
-    1975—Subsec. (a)(1). [Pub. L. 94–161, § 313(a)(1)(A)][/us/pl/94/161/s313/a/1/A], (B), authorized appropriations of $194,500,000 and $219,900,000 for fiscal years 1976 and 1977, required maximum contribution of $250,000 to be made to the Namibia Institute, and designated existing provisions as par. (1).
+    1975—Subsec. (a)(1). [Pub. L. 94–161][/us/pl/94/161], § 313(a)(1)(A), (B), authorized appropriations of $194,500,000 and $219,900,000 for fiscal years 1976 and 1977, required maximum contribution of $250,000 to be made to the Namibia Institute, and designated existing provisions as par. (1).
 
-    Subsec. (a)(2). [Pub. L. 94–161, § 313(a)(1)(C)][/us/pl/94/161/s313/a/1/C], added par. (2).
+    Subsec. (a)(2). [Pub. L. 94–161][/us/pl/94/161], § 313(a)(1)(C), added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 94–161, § 313(a)(2)][/us/pl/94/161/s313/a/2], substituted “$61,220,000” for “$51,220,000”.
+    Subsec. (b)(1). [Pub. L. 94–161][/us/pl/94/161], § 313(a)(2), substituted “$61,220,000” for “$51,220,000”.
 
-    Subsec. (b)(2). [Pub. L. 94–161, § 313(a)(3)][/us/pl/94/161/s313/a/3], authorized appropriations of $27,000,000 for use beginning in fiscal year 1976.
+    Subsec. (b)(2). [Pub. L. 94–161][/us/pl/94/161], § 313(a)(3), authorized appropriations of $27,000,000 for use beginning in fiscal year 1976.
 
-    Subsec. (d). [Pub. L. 94–161, § 313(a)(4)][/us/pl/94/161/s313/a/4], substituted appropriations authorization of $20,000,000 for fiscal years 1976 and 1977, for prior appropriations authorization of $18,000,000 for fiscal years 1974 and 1975.
+    Subsec. (d). [Pub. L. 94–161][/us/pl/94/161], § 313(a)(4), substituted appropriations authorization of $20,000,000 for fiscal years 1976 and 1977, for prior appropriations authorization of $18,000,000 for fiscal years 1974 and 1975.
 
-    1974—Subsec. (a). [Pub. L. 93–559, § 9(a)(1)][/us/pl/93/559/s9/a/1], increased appropriations authorization for fiscal year 1975 to $165,000,000 from $150,000,000.
+    1974—Subsec. (a). [Pub. L. 93–559][/us/pl/93/559], § 9(a)(1), increased appropriations authorization for fiscal year 1975 to $165,000,000 from $150,000,000.
 
-    Subsecs. (g), (h). [Pub. L. 93–559, § 9(a)(2)][/us/pl/93/559/s9/a/2], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 93–559][/us/pl/93/559], § 9(a)(2), added subsecs. (g) and (h).
 
-    1973—Subsec. (a). [Pub. L. 93–189, § 9(2)][/us/pl/93/189/s9/2], substituted “for the fiscal year 1974, $127,822,000 and for the fiscal year 1975, $150,000,000”, for “for the fiscal year 1972, $138,000,000 and for the fiscal year 1973, $138,000,000”.
+    1973—Subsec. (a). [Pub. L. 93–189][/us/pl/93/189], § 9(2), substituted “for the fiscal year 1974, $127,822,000 and for the fiscal year 1975, $150,000,000”, for “for the fiscal year 1972, $138,000,000 and for the fiscal year 1973, $138,000,000”.
 
-    Subsec. (b)(2). [Pub. L. 93–189, § 9(3)][/us/pl/93/189/s9/3], substituted “for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000”, for “for use in the fiscal year 1972, $15,000,000, and for use in the fiscal year 1973, $15,000,000”.
+    Subsec. (b)(2). [Pub. L. 93–189][/us/pl/93/189], § 9(3), substituted “for use in the fiscal year 1974, $14,500,000, and for use in the fiscal year 1975, $14,500,000”, for “for use in the fiscal year 1972, $15,000,000, and for use in the fiscal year 1973, $15,000,000”.
 
-    Subsec. (d). [Pub. L. 93–189, § 9(4)][/us/pl/93/189/s9/4], substituted provisions directing that out of the funds made available for carrying out this part $18,000,000 be available in each of fiscal years 1974 and 1975 for contributions to the United Nations Children’s Fund, for provisions authorizing the appropriation of $1,000,000 for fiscal year 1969 for contributions to the United Nations Children’s Fund during the calendar year 1969 and directing that funds made thus available be in addition to funds available under this chapter or any other Act for such contributions and not be taken into account in computing the aggregate amount of United States contributions to such fund for the calendar year 1969.
+    Subsec. (d). [Pub. L. 93–189][/us/pl/93/189], § 9(4), substituted provisions directing that out of the funds made available for carrying out this part $18,000,000 be available in each of fiscal years 1974 and 1975 for contributions to the United Nations Children’s Fund, for provisions authorizing the appropriation of $1,000,000 for fiscal year 1969 for contributions to the United Nations Children’s Fund during the calendar year 1969 and directing that funds made thus available be in addition to funds available under this chapter or any other Act for such contributions and not be taken into account in computing the aggregate amount of United States contributions to such fund for the calendar year 1969.
 
-    Subsec. (e). [Pub. L. 93–189, § 9(5)][/us/pl/93/189/s9/5], substituted “$2,000,000 for the fiscal year 1974 and $2,000,000 for the fiscal year 1975”, for “$1,000,000 for the fiscal year 1972 and $1,000,000 for the fiscal year 1973”.
+    Subsec. (e). [Pub. L. 93–189][/us/pl/93/189], § 9(5), substituted “$2,000,000 for the fiscal year 1974 and $2,000,000 for the fiscal year 1975”, for “$1,000,000 for the fiscal year 1972 and $1,000,000 for the fiscal year 1973”.
 
-    1972—Subsec. (a). [Pub. L. 92–226, § 107(a)][/us/pl/92/226/s107/a], authorized appropriations of $138,000,000 for fiscal years 1972 and 1973, and struck out provisions for authorization of $122,620,000 for fiscal years 1970 and 1971.
+    1972—Subsec. (a). [Pub. L. 92–226][/us/pl/92/226], § 107(a), authorized appropriations of $138,000,000 for fiscal years 1972 and 1973, and struck out provisions for authorization of $122,620,000 for fiscal years 1970 and 1971.
 
-    Subsec. (b)(2). [Pub. L. 92–226, § 107(b)][/us/pl/92/226/s107/b], authorized appropriations of $15,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
+    Subsec. (b)(2). [Pub. L. 92–226][/us/pl/92/226], § 107(b), authorized appropriations of $15,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $7,530,000 for fiscal years 1970 and 1971; and prohibited the President from exercising any special authority to transfer any amount appropriated under par. (2) to, and to consolidate such amount with, any funds made available under any other provision of this chapter.
 
-    Subsec. (e). [Pub. L. 92–226, § 107(c)][/us/pl/92/226/s107/c], authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
+    Subsec. (e). [Pub. L. 92–226][/us/pl/92/226], § 107(c), authorized appropriations of $1,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of $1,000,000 for fiscal years 1970 and 1971.
 
-    Subsec. (f). [Pub. L. 92–226, § 107(d)][/us/pl/92/226/s107/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 92–226][/us/pl/92/226], § 107(d), added subsec. (f).
 
-    1969—Subsec. (a). [Pub. L. 91–175, § 108(b)][/us/pl/91/175/s108/b], substituted “fiscal year 1970, $122,620,000, and for the fiscal year 1971, $122,620,000” for “fiscal year 1969, $135,000,000”.
+    1969—Subsec. (a). [Pub. L. 91–175][/us/pl/91/175], § 108(b), substituted “fiscal year 1970, $122,620,000, and for the fiscal year 1971, $122,620,000” for “fiscal year 1969, $135,000,000”.
 
-    Subsec. (b). [Pub. L. 91–175, § 108(c)][/us/pl/91/175/s108/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 91–175][/us/pl/91/175], § 108(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 91–175, § 108(d)][/us/pl/91/175/s108/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 91–175][/us/pl/91/175], § 108(d), added subsec. (e).
 
-    1968—Subsec. (a). [Pub. L. 90–554, § 108(a)][/us/pl/90/554/s108/a], substituted authorization of $135,000,000 for fiscal year 1969, for authorization of $141,000,000 for fiscal year 1968.
+    1968—Subsec. (a). [Pub. L. 90–554][/us/pl/90/554], § 108(a), substituted authorization of $135,000,000 for fiscal year 1969, for authorization of $141,000,000 for fiscal year 1968.
 
-    Subsec. (d). [Pub. L. 90–554, § 108(b)][/us/pl/90/554/s108/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 90–554][/us/pl/90/554], § 108(b), added subsec. (d).
 
-    1967—Subsec. (a). [Pub. L. 90–137, § 110(b)(1)][/us/pl/90/137/s110/b/1], substituted authorization of $141,000,000 for fiscal year 1968, for authorization of $140,433,000, for fiscal year 1967.
+    1967—Subsec. (a). [Pub. L. 90–137][/us/pl/90/137], § 110(b)(1), substituted authorization of $141,000,000 for fiscal year 1968, for authorization of $140,433,000, for fiscal year 1967.
 
-    Subsec. (b). [Pub. L. 90–137, § 110(b)(2)][/us/pl/90/137/s110/b/2], substituted appropriation authorization of $51,220,000 for fiscal year 1969, for Indus Basin Development for appropriations authorization of $1,000,000 for fiscal year 1967, for contributions to United Nations Children’s Fund during calendar year 1967 and for exclusion of such contributions from computation of aggregate amount of United States contributions to the fund during calendar year 1967.
+    Subsec. (b). [Pub. L. 90–137][/us/pl/90/137], § 110(b)(2), substituted appropriation authorization of $51,220,000 for fiscal year 1969, for Indus Basin Development for appropriations authorization of $1,000,000 for fiscal year 1967, for contributions to United Nations Children’s Fund during calendar year 1967 and for exclusion of such contributions from computation of aggregate amount of United States contributions to the fund during calendar year 1967.
 
     1966—Subsec. (a). [Pub. L. 89–583][/us/pl/89/583] designated existing provisions as subsec. (a) and (c), substituted in subsec. (a) “grants” for “use” and authorization of $140,433,000 for fiscal year 1967 for authorization of $144,755,000 for fiscal year 1966, and added subsec. (b).
 
@@ -231,11 +231,11 @@
 
  __Report to Congress on Palestine Refugee Ration Distribution System__ 
 
-    [Pub. L. 95–424, title I, § 117(b)(2)][/us/pl/95/424/s117/b/2], Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953], which provided that, not later than Jan. 31, 1979, the Secretary of State provide the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives with a full and detailed report on the progress made by the Commissioner-General of the United Nations Relief and Works Agency to improve the ration distribution system so that food to Palestine refugees can be more equitably distributed on the basis of need, rather than entitlement, was repealed by [Pub. L. 97–113, title VII, § 734(a)(5)][/us/pl/97/113/s734/a/5], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 117(b)(2), Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953], which provided that, not later than Jan. 31, 1979, the Secretary of State provide the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives with a full and detailed report on the progress made by the Commissioner-General of the United Nations Relief and Works Agency to improve the ration distribution system so that food to Palestine refugees can be more equitably distributed on the basis of need, rather than entitlement, was repealed by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(5), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
  __Authorization of Appropriations for Contributions to the World Assembly on Aging__ 
 
-[Pub. L. 95–424, title I, § 117(e)][/us/pl/95/424/s117/e], Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953], provided that: 
+[Pub. L. 95–424, title I][/us/pl/95/424/tI], § 117(e), Oct. 6, 1978, [92 Stat. 953][/us/stat/92/953], provided that: 
 
 > “In addition to amounts otherwise available for such purpose, there are authorized to be appropriated to the President not to exceed $1,000,000 for contributions to the World Assembly on Aging to be convened under the auspices of the United Nations, except that the amount so contributed may not exceed 25 percent of the expenditures of such Assembly. Amounts appropriated under this subsection \[this note\] are authorized to remain available until expended.”
 
@@ -246,7 +246,7 @@
 ----------
 ----------
 
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F433
@@ -268,48 +268,48 @@
 [/us/stat/83/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F819
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F23
-[/us/pl/93/189/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs9%2F2
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F719
-[/us/pl/93/559/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs9
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1798
-[/us/pl/94/161/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fa
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F866
-[/us/pl/94/329/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs505
+[/us/pl/94/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtV
 [/us/stat/90/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F764
-[/us/pl/95/88/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs118%2Fa
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F540
-[/us/pl/95/424/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs117%2Fa
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F952
-[/us/pl/96/53/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs114%2Fa
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F364
-[/us/pl/96/533/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs309
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3148
-[/us/pl/97/113/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs311%2Fb
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1536
-[/us/pl/99/83/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs402%2Fa
+[/us/pl/99/83/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIV
 [/us/stat/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F217
-[/us/pl/99/529/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs404%2F2
+[/us/pl/99/529/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2FtIV
 [/us/stat/100/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3019
-[/us/pl/100/690/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4107
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4266
-[/us/pl/106/264/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs112%2Fa
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F753
-[/us/pl/108/25/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs203
+[/us/pl/108/25/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtII
 [/us/stat/117/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F727
-[/us/pl/110/293/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs201
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2936
-[/us/pl/111/117/s7034/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7034%2Fq%2F2
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3363
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
-[/us/pl/110/293/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs201%2F1
-[/us/pl/110/293/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs201%2F2
-[/us/pl/110/293/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs201%2F3
-[/us/pl/108/25/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs203%2Fa
-[/us/pl/108/25/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs203%2Fb
-[/us/pl/108/25/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs203%2Fc
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
+[/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529
@@ -318,37 +318,37 @@
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
-[/us/pl/95/424/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs117%2Fa
-[/us/pl/95/424/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs117%2Fc
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
+[/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
 [/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
-[/us/pl/94/161/s313/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fa%2F1%2FA
-[/us/pl/94/161/s313/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fa%2F1%2FC
-[/us/pl/94/161/s313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fa%2F2
-[/us/pl/94/161/s313/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fa%2F3
-[/us/pl/94/161/s313/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs313%2Fa%2F4
-[/us/pl/93/559/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs9%2Fa%2F1
-[/us/pl/93/559/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs9%2Fa%2F2
-[/us/pl/93/189/s9/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs9%2F2
-[/us/pl/93/189/s9/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs9%2F3
-[/us/pl/93/189/s9/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs9%2F4
-[/us/pl/93/189/s9/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs9%2F5
-[/us/pl/92/226/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs107%2Fa
-[/us/pl/92/226/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs107%2Fb
-[/us/pl/92/226/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs107%2Fc
-[/us/pl/92/226/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs107%2Fd
-[/us/pl/91/175/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs108%2Fb
-[/us/pl/91/175/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs108%2Fc
-[/us/pl/91/175/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175%2Fs108%2Fd
-[/us/pl/90/554/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554%2Fs108%2Fa
-[/us/pl/90/554/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554%2Fs108%2Fb
-[/us/pl/90/137/s110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs110%2Fb%2F1
-[/us/pl/90/137/s110/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137%2Fs110%2Fb%2F2
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/94/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
+[/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
+[/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
+[/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
+[/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/pl/88/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F633
@@ -364,11 +364,11 @@
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/95/424/s117/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs117%2Fb%2F2
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F953
-[/us/pl/97/113/s734/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F5
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/95/424/s117/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs117%2Fe
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F953
 
 

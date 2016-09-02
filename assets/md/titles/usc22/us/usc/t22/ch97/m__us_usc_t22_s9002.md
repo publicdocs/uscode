@@ -35,7 +35,7 @@
 
     (9) the term “United States Central Authority” means the agency of the Federal Government designated by the President under [section 9006(a) of this title][/us/usc/t22/s9006/a].
 
-([Pub. L. 100–300, § 3][/us/pl/100/300/s3], Apr. 29, 1988, [102 Stat. 437][/us/stat/102/437].)
+([Pub. L. 100–300][/us/pl/100/300], § 3, Apr. 29, 1988, [102 Stat. 437][/us/stat/102/437].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
 [/us/usc/t22/s9006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9006%2Fa
-[/us/pl/100/300/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs3
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437
 [/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437

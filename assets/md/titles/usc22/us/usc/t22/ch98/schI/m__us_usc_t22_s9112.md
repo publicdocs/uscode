@@ -29,7 +29,7 @@
 
     (2) develop and implement written strategic plans for engagement with any Convention or non-Convention country in which there are 5 or more cases of international child abduction.
 
-([Pub. L. 113–150, title I, § 102][/us/pl/113/150/s102], Aug. 8, 2014, [128 Stat. 1815][/us/stat/128/1815].)
+([Pub. L. 113–150, title I][/us/pl/113/150/tI], § 102, Aug. 8, 2014, [128 Stat. 1815][/us/stat/128/1815].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/113/150/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs102
+[/us/pl/113/150/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtI
 [/us/stat/128/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1815
 
 

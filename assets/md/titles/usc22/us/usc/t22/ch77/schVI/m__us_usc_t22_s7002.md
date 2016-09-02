@@ -195,7 +195,7 @@
 
         This section shall take effect on the first day of the 107th Congress.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1238\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–334; [Pub. L. 107–67, title VI][/us/pl/107/67], §§ 645(a), 648, Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556]; [Pub. L. 108–7, div. P, § 2(b)(1)][/us/pl/108/7/s2/b/1], (c)(1), Feb. 20, 2003, [117 Stat. 552][/us/stat/117/552]; [Pub. L. 109–108, title VI, § 635(b)][/us/pl/109/108/s635/b], Nov. 22, 2005, [119 Stat. 2347][/us/stat/119/2347]; [Pub. L. 110–161, div. J, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 2285][/us/stat/121/2285]; [Pub. L. 113–291, div. A, title XII, § 1259B(a)][/us/pl/113/291/s1259B/a], Dec. 19, 2014, [128 Stat. 3578][/us/stat/128/3578].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1238\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–334; [Pub. L. 107–67, title VI][/us/pl/107/67/tVI], §§ 645(a), 648, Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556]; [Pub. L. 108–7, div. P][/us/pl/108/7/dP], § 2(b)(1), (c)(1), Feb. 20, 2003, [117 Stat. 552][/us/stat/117/552]; [Pub. L. 109–108, title VI][/us/pl/109/108/tVI], § 635(b), Nov. 22, 2005, [119 Stat. 2347][/us/stat/119/2347]; [Pub. L. 110–161, div. J, title I][/us/pl/110/161/dJ/tI], Dec. 26, 2007, [121 Stat. 2285][/us/stat/121/2285]; [Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1259B(a), Dec. 19, 2014, [128 Stat. 3578][/us/stat/128/3578].)
 
  __References in Text__ 
 
@@ -217,59 +217,59 @@
 
     2005—Subsec. (g). [Pub. L. 109–108][/us/pl/109/108] amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 
-    2003—[Pub. L. 108–7, § 2(b)(1)(A)][/us/pl/108/7/s2/b/1/A], inserted “Economic and” before “Security” in section catchline.
+    2003—[Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(A), inserted “Economic and” before “Security” in section catchline.
 
-    Subsec. (a)(1), (2). [Pub. L. 108–7, § 2(b)(1)(B)][/us/pl/108/7/s2/b/1/B], inserted “Economic and” before “Security”.
+    Subsec. (a)(1), (2). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(B), inserted “Economic and” before “Security”.
 
-    Subsec. (b). [Pub. L. 108–7, § 2(b)(1)(C)(i)][/us/pl/108/7/s2/b/1/C/i], inserted “Economic and” before “Security” in heading.
+    Subsec. (b). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(C)(i), inserted “Economic and” before “Security” in heading.
 
-    Subsec. (b)(1). [Pub. L. 108–7, § 2(b)(1)(C)(ii)][/us/pl/108/7/s2/b/1/C/ii], inserted “Economic and” before “Security”.
+    Subsec. (b)(1). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(C)(ii), inserted “Economic and” before “Security”.
 
-    Subsec. (b)(3). [Pub. L. 108–7, § 2(b)(1)(C)(iii)(I)][/us/pl/108/7/s2/b/1/C/iii/I], which directed the amendment of introductory provisions by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+    Subsec. (b)(3). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(C)(iii)(I), which directed the amendment of introductory provisions by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-    Subsec. (b)(3)(F). [Pub. L. 108–7, § 2(c)(1)][/us/pl/108/7/s2/c/1], added subpar. (F) and struck out former subpar. (F) which read as follows: “members shall be appointed to the Commission not later than 30 days after the date on which each new Congress convenes;”.
+    Subsec. (b)(3)(F). [Pub. L. 108–7][/us/pl/108/7], § 2(c)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “members shall be appointed to the Commission not later than 30 days after the date on which each new Congress convenes;”.
 
-    Subsec. (b)(3)(H), (4), (e)(1), (2). [Pub. L. 108–7, § 2(b)(1)(C)(iii)(II)][/us/pl/108/7/s2/b/1/C/iii/II], (iv), (D)(i), (ii), which directed insertion of “Economic and” before “Security”, could not be executed because “Security” does not appear.
+    Subsec. (b)(3)(H), (4), (e)(1), (2). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(C)(iii)(II), (iv), (D)(i), (ii), which directed insertion of “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-    Subsec. (e)(3). [Pub. L. 108–7, § 2(b)(1)(D)(iii)(II)][/us/pl/108/7/s2/b/1/D/iii/II], inserted “Economic and” before “Security” in second sentence.
+    Subsec. (e)(3). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(D)(iii)(II), inserted “Economic and” before “Security” in second sentence.
 
-    [Pub. L. 108–7, § 2(b)(1)(D)(iii)(I)][/us/pl/108/7/s2/b/1/D/iii/I], which directed the amendment of first sentence by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+    [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(D)(iii)(I), which directed the amendment of first sentence by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-    Subsec. (e)(4), (6). [Pub. L. 108–7, § 2(b)(1)(D)(iv)][/us/pl/108/7/s2/b/1/D/iv], (v), which directed the amendment of pars. (4) and (6) by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
+    Subsec. (e)(4), (6). [Pub. L. 108–7][/us/pl/108/7], § 2(b)(1)(D)(iv), (v), which directed the amendment of pars. (4) and (6) by inserting “Economic and” before “Security”, could not be executed because “Security” does not appear.
 
-    2001—Subsec. (c)(1). [Pub. L. 107–67, § 648][/us/pl/107/67/s648], substituted “June” for “March”.
+    2001—Subsec. (c)(1). [Pub. L. 107–67][/us/pl/107/67], § 648, substituted “June” for “March”.
 
-    Subsec. (e)(3). [Pub. L. 107–67, § 645(a)][/us/pl/107/67/s645/a], inserted at end “The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under [section 2105 of title 5][/us/usc/t5/s2105] for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.”
+    Subsec. (e)(3). [Pub. L. 107–67][/us/pl/107/67], § 645(a), inserted at end “The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under [section 2105 of title 5][/us/usc/t5/s2105] for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.”
 
  __Change of Name__ 
 
     Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.
 
-[Pub. L. 108–7, div. P, § 2(b)(2)][/us/pl/108/7/s2/b/2], Feb. 20, 2003, [117 Stat. 552][/us/stat/117/552], provided that: 
+[Pub. L. 108–7, div. P][/us/pl/108/7/dP], § 2(b)(2), Feb. 20, 2003, [117 Stat. 552][/us/stat/117/552], provided that: 
 
 > “Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1259B(b)][/us/pl/113/291/s1259B/b], Dec. 19, 2014, [128 Stat. 3579][/us/stat/128/3579], provided that: 
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1259B(b), Dec. 19, 2014, [128 Stat. 3579][/us/stat/128/3579], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to annual reports submitted under section 1238(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[[22 U.S.C. 7002(c)][/us/usc/t22/s7002/c]\] after such date of enactment.”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. P, § 2(c)(3)][/us/pl/108/7/s2/c/3], Feb. 20, 2003, [117 Stat. 554][/us/stat/117/554], provided that: 
+[Pub. L. 108–7, div. P][/us/pl/108/7/dP], § 2(c)(3), Feb. 20, 2003, [117 Stat. 554][/us/stat/117/554], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as notes under this section\] shall take effect on the date of enactment of this Act \[Feb. 20, 2003\].”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–67, title VI, § 645(b)][/us/pl/107/67/s645/b], Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], provided that: 
+[Pub. L. 107–67, title VI][/us/pl/107/67/tVI], § 645(b), Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on January 3, 2001.”
 
  __Responsibilities of the Commission__ 
 
-[Pub. L. 108–7, div. P, § 2(c)(2)][/us/pl/108/7/s2/c/2], Feb. 20, 2003, [117 Stat. 553][/us/stat/117/553], provided that: 
+[Pub. L. 108–7, div. P][/us/pl/108/7/dP], § 2(c)(2), Feb. 20, 2003, [117 Stat. 553][/us/stat/117/553], provided that: 
 
 > “The United States-China Commission shall focus, in lieu of any other areas of work or study, on the following:
 
@@ -311,7 +311,7 @@
 
     Similar provisions were contained in the following appropriation act:
 
-    [Pub. L. 109–108, title VI, § 635(a)][/us/pl/109/108/s635/a], Nov. 22, 2005, [119 Stat. 2346][/us/stat/119/2346].
+    [Pub. L. 109–108, title VI][/us/pl/109/108/tVI], § 635(a), Nov. 22, 2005, [119 Stat. 2346][/us/stat/119/2346].
 
 ----------
 
@@ -323,17 +323,17 @@
 [/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
 [/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F556
-[/us/pl/108/7/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1
+[/us/pl/108/7/dP]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdP
 [/us/stat/117/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F552
-[/us/pl/109/108/s635/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs635%2Fb
+[/us/pl/109/108/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtVI
 [/us/stat/119/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2347
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdJ%2FtI
 [/us/stat/121/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2285
-[/us/pl/113/291/s1259B/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1259B%2Fa
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3578
 [/us/pl/105/277/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs127
 [/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
@@ -342,33 +342,33 @@
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108
-[/us/pl/108/7/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FA
-[/us/pl/108/7/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FB
-[/us/pl/108/7/s2/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FC%2Fi
-[/us/pl/108/7/s2/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FC%2Fii
-[/us/pl/108/7/s2/b/1/C/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FC%2Fiii%2FI
-[/us/pl/108/7/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fc%2F1
-[/us/pl/108/7/s2/b/1/C/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FC%2Fiii%2FII
-[/us/pl/108/7/s2/b/1/D/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FD%2Fiii%2FII
-[/us/pl/108/7/s2/b/1/D/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FD%2Fiii%2FI
-[/us/pl/108/7/s2/b/1/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F1%2FD%2Fiv
-[/us/pl/107/67/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs648
-[/us/pl/107/67/s645/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs645%2Fa
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
+[/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/108/7/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb%2F2
+[/us/pl/108/7/dP]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdP
 [/us/stat/117/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F552
-[/us/pl/113/291/s1259B/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1259B%2Fb
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3579
 [/us/usc/t22/s7002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7002%2Fc
-[/us/pl/108/7/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fc%2F3
+[/us/pl/108/7/dP]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdP
 [/us/stat/117/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F554
-[/us/pl/107/67/s645/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs645%2Fb
+[/us/pl/107/67/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtVI
 [/us/stat/115/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F556
-[/us/pl/108/7/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fc%2F2
+[/us/pl/108/7/dP]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdP
 [/us/stat/117/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F553
-[/us/pl/109/108/s635/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs635%2Fa
+[/us/pl/109/108/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtVI
 [/us/stat/119/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2346
 
 

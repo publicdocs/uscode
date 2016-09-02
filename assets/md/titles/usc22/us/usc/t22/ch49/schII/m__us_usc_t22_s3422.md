@@ -39,7 +39,7 @@
 
         The status of United States Government personnel assigned to the Multinational Force and Observers under subsection (a)(1) or (b) of this section shall be as provided in [section 2389 of this title][/us/usc/t22/s2389].
 
-([Pub. L. 97–132, § 3][/us/pl/97/132/s3], Dec. 29, 1981, [95 Stat. 1693][/us/stat/95/1693].)
+([Pub. L. 97–132][/us/pl/97/132], § 3, Dec. 29, 1981, [95 Stat. 1693][/us/stat/95/1693].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t22/s2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2389
-[/us/pl/97/132/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs3
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1693
 
 

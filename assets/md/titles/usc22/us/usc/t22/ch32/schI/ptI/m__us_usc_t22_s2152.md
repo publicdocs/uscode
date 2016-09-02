@@ -31,7 +31,7 @@
 
         (2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b), for the purpose of enabling such providers to provide the services described in paragraph (1).
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 130, formerly § 129, as added [Pub. L. 105–320, § 4(a)][/us/pl/105/320/s4/a], Oct. 30, 1998, [112 Stat. 3017][/us/stat/112/3017]; renumbered § 130, [Pub. L. 106–87, § 6(a)][/us/pl/106/87/s6/a], Nov. 3, 1999, [113 Stat. 1302][/us/stat/113/1302].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 130, formerly § 129, as added [Pub. L. 105–320][/us/pl/105/320], § 4(a), Oct. 30, 1998, [112 Stat. 3017][/us/stat/112/3017]; renumbered § 130, [Pub. L. 106–87][/us/pl/106/87], § 6(a), Nov. 3, 1999, [113 Stat. 1302][/us/stat/113/1302].)
 
  __Delegation of Functions__ 
 
@@ -39,7 +39,7 @@
 
  __Statement of Policy__ 
 
-[Pub. L. 109–165, § 2][/us/pl/109/165/s2], Jan. 10, 2006, [119 Stat. 3574][/us/stat/119/3574], provided that: 
+[Pub. L. 109–165][/us/pl/109/165], § 2, Jan. 10, 2006, [119 Stat. 3574][/us/stat/119/3574], provided that: 
 
 > “It is the policy of the United States—
 
@@ -49,7 +49,7 @@
 
  __Torture Victims Relief; Effective Date__ 
 
-[Pub. L. 105–320][/us/pl/105/320], Oct. 30, 1998, [112 Stat. 3016][/us/stat/112/3016], as amended by [Pub. L. 106–87, § 6(b)][/us/pl/106/87/s6/b], Nov. 3, 1999, [113 Stat. 1302][/us/stat/113/1302]; [Pub. L. 108–179][/us/pl/108/179], §§ 2(a), 3(a), Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643]; [Pub. L. 109–165][/us/pl/109/165], §§ 3, 4, Jan. 10, 2006, [119 Stat. 3574][/us/stat/119/3574], provided that:
+[Pub. L. 105–320][/us/pl/105/320], Oct. 30, 1998, [112 Stat. 3016][/us/stat/112/3016], as amended by [Pub. L. 106–87][/us/pl/106/87], § 6(b), Nov. 3, 1999, [113 Stat. 1302][/us/stat/113/1302]; [Pub. L. 108–179][/us/pl/108/179], §§ 2(a), 3(a), Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643]; [Pub. L. 109–165][/us/pl/109/165], §§ 3, 4, Jan. 10, 2006, [119 Stat. 3574][/us/stat/119/3574], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -175,13 +175,13 @@
 
 >     In conducting training under subsection (a)(4) or (5), gender-specific training shall be provided on the subject of interacting with women and men who are victims of torture by rape or any other form of sexual violence.”
 
-\[[Pub. L. 108–179, § 2(b)][/us/pl/108/179/s2/b], Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643], provided that: 
+\[[Pub. L. 108–179][/us/pl/108/179], § 2(b), Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 5(b)(1) of Pub. L. 105–320][/us/pl/105/320/s5/b/1], set out above\] shall take effect October 1, 2003.”
 
 \]
 
-\[[Pub. L. 108–179, § 3(b)][/us/pl/108/179/s3/b], Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643], provided that: 
+\[[Pub. L. 108–179][/us/pl/108/179], § 3(b), Dec. 15, 2003, [117 Stat. 2643][/us/stat/117/2643], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 4(b)(1) of Pub. L. 105–320][/us/pl/105/320/s4/b/1], set out above\] shall take effect October 1, 2003.”
 
@@ -195,16 +195,16 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/320/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F320%2Fs4%2Fa
+[/us/pl/105/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F320
 [/us/stat/112/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3017
-[/us/pl/106/87/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87%2Fs6%2Fa
+[/us/pl/106/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87
 [/us/stat/113/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1302
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/109/165/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F165%2Fs2
+[/us/pl/109/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F165
 [/us/stat/119/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3574
 [/us/pl/105/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F320
 [/us/stat/112/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3016
-[/us/pl/106/87/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87%2Fs6%2Fb
+[/us/pl/106/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87
 [/us/stat/113/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1302
 [/us/pl/108/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179
 [/us/stat/117/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2643
@@ -213,10 +213,10 @@
 [/us/usc/t18/s2340/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2340%2F1
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2221
-[/us/pl/108/179/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179%2Fs2%2Fb
+[/us/pl/108/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179
 [/us/stat/117/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2643
 [/us/pl/105/320/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F320%2Fs5%2Fb%2F1
-[/us/pl/108/179/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179%2Fs3%2Fb
+[/us/pl/108/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F179
 [/us/stat/117/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2643
 [/us/pl/105/320/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F320%2Fs4%2Fb%2F1
 

@@ -19,7 +19,7 @@
 
     In the event that the Fund provides either membership, observer status, or any other official status to the Palestine Liberation Organization, such action would result in a serious diminution of United States support. Upon review of such action, the President would be required to report his recommendations to the Congress with regard to any further United States participation in the Fund.
 
-([July 31, 1945, ch. 339, § 37][/us/act/1945-07-31/ch339/s37], as added [Pub. L. 96–389, § 7][/us/pl/96/389/s7], Oct. 7, 1980, [94 Stat. 1554][/us/stat/94/1554].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 37, as added [Pub. L. 96–389][/us/pl/96/389], § 7, Oct. 7, 1980, [94 Stat. 1554][/us/stat/94/1554].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs37
-[/us/pl/96/389/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs7
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/96/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389
 [/us/stat/94/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1554
 [/us/pl/96/389/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs12
 [/us/usc/t22/s286s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286s

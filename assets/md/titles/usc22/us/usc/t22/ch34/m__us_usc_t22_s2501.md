@@ -19,7 +19,7 @@
 
     (b) The Congress declares that it is the policy of the United States and a purpose of the Peace Corps to maintain, to the maximum extent appropriate and consistent with programmatic and fiscal considerations, a volunteer corps of at least 10,000 individuals.
 
-([Pub. L. 87–293, title I, § 2][/us/pl/87/293/s2], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612]; [Pub. L. 95–331, § 2][/us/pl/95/331/s2], Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414]; [Pub. L. 99–83, title XI, § 1102(a)][/us/pl/99/83/s1102/a], Aug. 8, 1985, [99 Stat. 272][/us/stat/99/272].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 2, Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612]; [Pub. L. 95–331][/us/pl/95/331], § 2, Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414]; [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1102(a), Aug. 8, 1985, [99 Stat. 272][/us/stat/99/272].)
 
  __References in Text__ 
 
@@ -37,31 +37,31 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–293, title I, § 28][/us/pl/87/293/s28], formerly § 27, Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625], as renumbered by [Pub. L. 99–83, title XI, § 1105(a)(1)][/us/pl/99/83/s1105/a/1], Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276], provided that: 
+[Pub. L. 87–293, title I][/us/pl/87/293/tI], § 28, formerly § 27, Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625], as renumbered by [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1105(a)(1), Aug. 8, 1985, [99 Stat. 276][/us/stat/99/276], provided that: 
 
 > “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–57, § 1][/us/pl/112/57/s1], Nov. 21, 2011, [125 Stat. 736][/us/stat/125/736], provided that: 
+[Pub. L. 112–57][/us/pl/112/57], § 1, Nov. 21, 2011, [125 Stat. 736][/us/stat/125/736], provided that: 
 
 > “This Act \[enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title\] may be cited as the ‘Kate Puzey Peace Corps Volunteer Protection Act of 2011’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–331, § 1][/us/pl/95/331/s1], Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414], provided: 
+[Pub. L. 95–331][/us/pl/95/331], § 1, Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414], provided: 
 
 > “That this Act \[amending this section and sections 2501a, 2502, 2504, 2509, and 2510 of this title and enacting provisions set out as notes under sections 2501a and 2509 of this title\] may be cited as the ‘Peace Corps Act Amendments of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 87–293, title I, § 1][/us/pl/87/293/s1], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612], provided that: 
+[Pub. L. 87–293, title I][/us/pl/87/293/tI], § 1, Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612], provided that: 
 
 > “This Act \[enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, [section 425 of Title 20][/us/usc/t20/s425], Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal Revenue Code, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26\] may be cited as the ‘Peace Corps Act’.”
 
  __Designation of Paul D. Coverdell Peace Corps Headquarters__ 
 
-[Pub. L. 107–21, § 1][/us/pl/107/21/s1], July 26, 2001, [115 Stat. 194][/us/stat/115/194], provided that:
+[Pub. L. 107–21][/us/pl/107/21], § 1, July 26, 2001, [115 Stat. 194][/us/stat/115/194], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -188,11 +188,11 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended ([22 
 ----------
 ----------
 
-[/us/pl/87/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs2
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
-[/us/pl/95/331/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs2
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
 [/us/stat/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F414
-[/us/pl/99/83/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1102%2Fa
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F272
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -201,18 +201,18 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended ([22 
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
-[/us/pl/87/293/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs28
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F625
-[/us/pl/99/83/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1105%2Fa%2F1
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F276
-[/us/pl/112/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57%2Fs1
+[/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57
 [/us/stat/125/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F736
-[/us/pl/95/331/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs1
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
 [/us/stat/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F414
-[/us/pl/87/293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs1
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
 [/us/usc/t20/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs425
-[/us/pl/107/21/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F21%2Fs1
+[/us/pl/107/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F21
 [/us/stat/115/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F194
 [/us/usc/t22/s2501–252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501%E2%80%93252
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

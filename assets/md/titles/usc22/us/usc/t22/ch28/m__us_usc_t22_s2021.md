@@ -31,7 +31,7 @@
 
         All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[[22 U.S.C. 3961][/us/usc/t22/s3961], 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
 
-([Pub. L. 85–177, § 2][/us/pl/85/177/s2], Aug. 28, 1957, [71 Stat. 453][/us/stat/71/453]; [Pub. L. 96–465, title II, § 2206(a)(7)(A)][/us/pl/96/465/s2206/a/7/A], Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 708(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462.)
+([Pub. L. 85–177][/us/pl/85/177], § 2, Aug. 28, 1957, [71 Stat. 453][/us/stat/71/453]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(7)(A), Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 708(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462.)
 
  __References in Text__ 
 
@@ -53,23 +53,23 @@
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–228, div. B, title XIII, § 1341][/us/pl/107/228/s1341], Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451], provided that: 
+[Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1341, Sept. 30, 2002, [116 Stat. 1451][/us/stat/116/1451], provided that: 
 
 > “This subtitle \[subtitle D (§§ 1341–1345) of title XIII of div. B of [Pub. L. 107–228][/us/pl/107/228], enacting [section 2027 of this title][/us/usc/t22/s2027], amending [section 2227 of this title][/us/usc/t22/s2227], and enacting provisions set out as a note under this section\] may be cited as the ‘Iran Nuclear Proliferation Prevention Act of 2002’.”
 
  __Short Title__ 
 
-[Pub. L. 85–177, § 1][/us/pl/85/177/s1], Aug. 28, 1957, [71 Stat. 453][/us/stat/71/453], provided that: 
+[Pub. L. 85–177][/us/pl/85/177], § 1, Aug. 28, 1957, [71 Stat. 453][/us/stat/71/453], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 2074 of Title 42][/us/usc/t42/s2074], The Public Health and Welfare\] may be cited as the ‘International Atomic Energy Agency Participation Act of 1957’.”
 
  __Reporting Requirements__ 
 
-    [Pub. L. 107–228, div. B, title XIII, § 1344][/us/pl/107/228/s1344], Sept. 30, 2002, [116 Stat. 1452][/us/stat/116/1452], required the Secretary of State to submit to Congress, beginning no later than 180 days after Sept. 30, 2002, and for five years thereafter, reports concerning assistance, nuclear materials and technology given by the International Atomic Energy Agency to Iran, Iranians in leadership positions at the Agency, the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant, and certain information on all programs and projects of the International Atomic Energy Agency in each country described in section 2227(a) of the title.
+    [Pub. L. 107–228, div. B, title XIII][/us/pl/107/228/dB/tXIII], § 1344, Sept. 30, 2002, [116 Stat. 1452][/us/stat/116/1452], required the Secretary of State to submit to Congress, beginning no later than 180 days after Sept. 30, 2002, and for five years thereafter, reports concerning assistance, nuclear materials and technology given by the International Atomic Energy Agency to Iran, Iranians in leadership positions at the Agency, the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant, and certain information on all programs and projects of the International Atomic Energy Agency in each country described in section 2227(a) of the title.
 
  __Opposition to Certain Programs or Projects; Reporting Requirements__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVIII, § 2809(b), (c), Oct. 21, 1998, [112 Stat. 2681–850][/us/stat/112/2681-850], provided that:
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXVIII, § 2809(b), (c), Oct. 21, 1998, [112 Stat. 2681–850][/us/stat/112/2681-850], provided that:
 
 >     “(b)  __Opposition to Certain Programs or Projects__  __.—__ 
 
@@ -106,11 +106,11 @@
 
 [/us/usc/t22/s3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3961
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/85/177/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177%2Fs2
+[/us/pl/85/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177
 [/us/stat/71/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F453
-[/us/pl/96/465/s2206/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F7%2FA
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2161
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
@@ -123,17 +123,17 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/107/228/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1341
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1451
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2027
 [/us/usc/t22/s2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2227
-[/us/pl/85/177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177%2Fs1
+[/us/pl/85/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F177
 [/us/stat/71/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F453
 [/us/usc/t42/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2074
-[/us/pl/107/228/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1344
+[/us/pl/107/228/dB/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIII
 [/us/stat/116/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1452
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-850
 [/us/usc/t22/s2227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2227%2Fa
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288

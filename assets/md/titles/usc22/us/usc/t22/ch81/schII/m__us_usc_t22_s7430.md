@@ -33,7 +33,7 @@
 
         Nothing in this section shall be construed as a grant of statutory authority to the President to take any action.
 
-([Pub. L. 107–206, title II, § 2011][/us/pl/107/206/s2011], Aug. 2, 2002, [116 Stat. 907][/us/stat/116/907].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2011, Aug. 2, 2002, [116 Stat. 907][/us/stat/116/907].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/206/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2011
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F907
 
 

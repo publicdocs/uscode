@@ -23,7 +23,7 @@
 
         (2) a coincidental byproduct of a manufacturing or production process that is not isolated or captured for use or sale during the process and is routed to, or escapes, from the waste stream of a stack, incinerator, or wastewater treatment system or any other waste stream.
 
-([Pub. L. 105–277, div. I, title IV, § 403][/us/pl/105/277/s403], Oct. 21, 1998, [112 Stat. 2681–881][/us/stat/112/2681-881].)
+([Pub. L. 105–277, div. I, title IV][/us/pl/105/277/dI/tIV], § 403, Oct. 21, 1998, [112 Stat. 2681–881][/us/stat/112/2681-881].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs403
+[/us/pl/105/277/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIV
 [/us/stat/112/2681-881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-881
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856

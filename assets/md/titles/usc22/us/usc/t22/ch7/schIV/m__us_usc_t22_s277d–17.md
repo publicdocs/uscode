@@ -35,7 +35,7 @@
 
     (3) to convey or exchange properties acquired or improved by the United States under sections 277d–17 to 277d–25 of this title or under said convention, with or without improvements, or to grant term or perpetual easements therein or thereover.
 
-([Pub. L. 88–300, § 1][/us/pl/88/300/s1], Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184].)
+([Pub. L. 88–300][/us/pl/88/300], § 1, Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Short Title__ 
 
-[Pub. L. 88–300, § 1][/us/pl/88/300/s1], Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184], provided in part: 
+[Pub. L. 88–300][/us/pl/88/300], § 1, Apr. 29, 1964, [78 Stat. 184][/us/stat/78/184], provided in part: 
 
 > “That this Act \[enacting this section and sections 277d–18 to 277d–25 of this title\] may be cited as the ‘American-Mexican Chamizal Convention Act of 1964’.”
 
@@ -54,10 +54,10 @@
 ----------
 ----------
 
-[/us/pl/88/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs1
+[/us/pl/88/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300
 [/us/stat/78/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F184
 [/us/pl/88/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs1
-[/us/pl/88/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300%2Fs1
+[/us/pl/88/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F300
 [/us/stat/78/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F184
 
 

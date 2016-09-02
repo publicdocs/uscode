@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151k.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151l _us_usc_t22_s2151m.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
 
 ## § 2151n. Human rights and development assistance
 
@@ -173,7 +173,7 @@
 
             (B) younger than 18 years of age, if no such law exists.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 116, as added [Pub. L. 94–161, title III, § 310][/us/pl/94/161/s310], Dec. 20, 1975, [89 Stat. 860][/us/stat/89/860]; amended [Pub. L. 95–88, title I, § 111][/us/pl/95/88/s111], Aug. 3, 1977, [91 Stat. 537][/us/stat/91/537]; [Pub. L. 95–105, title I, § 109(a)(2)][/us/pl/95/105/s109/a/2], Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 95–424, title I, § 109][/us/pl/95/424/s109], Oct. 6, 1978, [92 Stat. 947][/us/stat/92/947]; [Pub. L. 96–53, title I, § 106][/us/pl/96/53/s106], title V, § 504(a), Aug. 14, 1979, [93 Stat. 362][/us/stat/93/362], 378; [Pub. L. 96–533, title III, § 305][/us/pl/96/533/s305], title VII, § 701(a), Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147], 3156; [Pub. L. 97–113, title III, § 306][/us/pl/97/113/s306], Dec. 29, 1981, [95 Stat. 1533][/us/stat/95/1533]; [Pub. L. 98–164, title X, § 1002(a)][/us/pl/98/164/s1002/a], Nov. 22, 1983, [97 Stat. 1052][/us/stat/97/1052]; [Pub. L. 99–440, title II, § 202][/us/pl/99/440/s202], Oct. 2, 1986, [100 Stat. 1095][/us/stat/100/1095]; [Pub. L. 99–631, § 1(b)(2)][/us/pl/99/631/s1/b/2], Nov. 7, 1986, [100 Stat. 3519][/us/stat/100/3519]; [Pub. L. 100–204, title I, § 127(1)][/us/pl/100/204/s127/1], Dec. 22, 1987, [101 Stat. 1342][/us/stat/101/1342]; [Pub. L. 101–513, title V][/us/pl/101/513], §§ 562(d)(3), 599D, Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031], 2066; [Pub. L. 103–149, § 4(a)(3)(B)][/us/pl/103/149/s4/a/3/B], Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]; [Pub. L. 103–236, title I, § 162(e)(1)][/us/pl/103/236/s162/e/1], Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437, § 9(a)(6)][/us/pl/103/437/s9/a/6], Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 104–319, title II, § 201(a)][/us/pl/104/319/s201/a], Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2216, Oct. 21, 1998, [112 Stat. 2681–815][/us/stat/112/2681-815]; [Pub. L. 105–292, title I, § 102(d)(1)][/us/pl/105/292/s102/d/1], title IV, § 421(a), title V, § 501(b), Oct. 27, 1998, [112 Stat. 2794][/us/stat/112/2794], 2809, 2811; [Pub. L. 106–113, div. B][/us/pl/106/113], §§ 1000(a)(2) \[title V, § 597\], 1000(a)(7) \[div. A, title VIII, § 806(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1536, 1501A–126, 1501A–471; [Pub. L. 106–386, div. A, § 104(a)][/us/pl/106/386/s104/a], Oct. 28, 2000, [114 Stat. 1471][/us/stat/114/1471]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228], §§ 665(a), 683(a), Sept. 30, 2002, [116 Stat. 1406][/us/stat/116/1406], 1410; [Pub. L. 108–332, § 6(a)(1)][/us/pl/108/332/s6/a/1], Oct. 16, 2004, [118 Stat. 1285][/us/stat/118/1285]; [Pub. L. 111–166, § 2(1)][/us/pl/111/166/s2/1], May 17, 2010, [124 Stat. 1186][/us/stat/124/1186]; [Pub. L. 113–4, title XII, § 1207(b)(1)][/us/pl/113/4/s1207/b/1], Mar. 7, 2013, [127 Stat. 141][/us/stat/127/141].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 116, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 310, Dec. 20, 1975, [89 Stat. 860][/us/stat/89/860]; amended [Pub. L. 95–88, title I][/us/pl/95/88/tI], § 111, Aug. 3, 1977, [91 Stat. 537][/us/stat/91/537]; [Pub. L. 95–105, title I][/us/pl/95/105/tI], § 109(a)(2), Aug. 17, 1977, [91 Stat. 846][/us/stat/91/846]; [Pub. L. 95–424, title I][/us/pl/95/424/tI], § 109, Oct. 6, 1978, [92 Stat. 947][/us/stat/92/947]; [Pub. L. 96–53, title I][/us/pl/96/53/tI], § 106, title V, § 504(a), Aug. 14, 1979, [93 Stat. 362][/us/stat/93/362], 378; [Pub. L. 96–533, title III][/us/pl/96/533/tIII], § 305, title VII, § 701(a), Dec. 16, 1980, [94 Stat. 3147][/us/stat/94/3147], 3156; [Pub. L. 97–113, title III][/us/pl/97/113/tIII], § 306, Dec. 29, 1981, [95 Stat. 1533][/us/stat/95/1533]; [Pub. L. 98–164, title X][/us/pl/98/164/tX], § 1002(a), Nov. 22, 1983, [97 Stat. 1052][/us/stat/97/1052]; [Pub. L. 99–440, title II][/us/pl/99/440/tII], § 202, Oct. 2, 1986, [100 Stat. 1095][/us/stat/100/1095]; [Pub. L. 99–631][/us/pl/99/631], § 1(b)(2), Nov. 7, 1986, [100 Stat. 3519][/us/stat/100/3519]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 127(1), Dec. 22, 1987, [101 Stat. 1342][/us/stat/101/1342]; [Pub. L. 101–513, title V][/us/pl/101/513/tV], §§ 562(d)(3), 599D, Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031], 2066; [Pub. L. 103–149][/us/pl/103/149], § 4(a)(3)(B), Nov. 23, 1993, [107 Stat. 1505][/us/stat/107/1505]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(e)(1), Apr. 30, 1994, [108 Stat. 405][/us/stat/108/405]; [Pub. L. 103–437][/us/pl/103/437], § 9(a)(6), Nov. 2, 1994, [108 Stat. 4588][/us/stat/108/4588]; [Pub. L. 104–319, title II][/us/pl/104/319/tII], § 201(a), Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2216, Oct. 21, 1998, [112 Stat. 2681–815][/us/stat/112/2681-815]; [Pub. L. 105–292, title I][/us/pl/105/292/tI], § 102(d)(1), title IV, § 421(a), title V, § 501(b), Oct. 27, 1998, [112 Stat. 2794][/us/stat/112/2794], 2809, 2811; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], §§ 1000(a)(2) \[title V, § 597\], 1000(a)(7) \[div. A, title VIII, § 806(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1536, 1501A–126, 1501A–471; [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 104(a), Oct. 28, 2000, [114 Stat. 1471][/us/stat/114/1471]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], §§ 665(a), 683(a), Sept. 30, 2002, [116 Stat. 1406][/us/stat/116/1406], 1410; [Pub. L. 108–332][/us/pl/108/332], § 6(a)(1), Oct. 16, 2004, [118 Stat. 1285][/us/stat/118/1285]; [Pub. L. 111–166][/us/pl/111/166], § 2(1), May 17, 2010, [124 Stat. 1186][/us/stat/124/1186]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1207(b)(1), Mar. 7, 2013, [127 Stat. 141][/us/stat/127/141].)
 
  __References in Text__ 
 
@@ -195,31 +195,31 @@
 
     2004—Subsec. (d)(8) to (11). [Pub. L. 108–332][/us/pl/108/332] added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
-    2002—Subsec. (d)(9). [Pub. L. 107–228, § 665(a)][/us/pl/107/228/s665/a], added par. (9).
+    2002—Subsec. (d)(9). [Pub. L. 107–228][/us/pl/107/228], § 665(a), added par. (9).
 
-    Subsec. (d)(10). [Pub. L. 107–228, § 683(a)][/us/pl/107/228/s683/a], added par. (10).
+    Subsec. (d)(10). [Pub. L. 107–228][/us/pl/107/228], § 683(a), added par. (10).
 
     2000—Subsec. (f). [Pub. L. 106–386][/us/pl/106/386] amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining “trafficking” and “victims of trafficking” for purposes of subsection.
 
-    1999—Subsec. (d)(8). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VIII, § 806(a)\], added par. (8).
+    1999—Subsec. (d)(8). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title VIII, § 806(a)\], added par. (8).
 
-    Subsec. (f). [Pub. L. 106–113, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 597\], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(2) \[title V, § 597\], added subsec. (f).
 
-    1998—Subsec. (c). [Pub. L. 105–292, § 421(a)(1)][/us/pl/105/292/s421/a/1], inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
+    1998—Subsec. (c). [Pub. L. 105–292][/us/pl/105/292], § 421(a)(1), inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 105–292, § 421(a)(2)][/us/pl/105/292/s421/a/2]–(4), added par. (3).
+    Subsec. (c)(3). [Pub. L. 105–292][/us/pl/105/292], § 421(a)(2)–(4), added par. (3).
 
-    Subsec. (d). [Pub. L. 105–277, § 2216(1)][/us/pl/105/277/s2216/1], substituted “February 25” for “January 31” in introductory provisions.
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 2216(1), substituted “February 25” for “January 31” in introductory provisions.
 
-    Subsec. (d)(3) to (5). [Pub. L. 105–277, § 2216(2)][/us/pl/105/277/s2216/2], (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+    Subsec. (d)(3) to (5). [Pub. L. 105–277][/us/pl/105/277], § 2216(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
-    Subsec. (d)(6). [Pub. L. 105–277, § 2216(2)][/us/pl/105/277/s2216/2], redesignated par. (5) as (6). Former par. (6) redesignated (7). See Codification note above.
+    Subsec. (d)(6). [Pub. L. 105–277][/us/pl/105/277], § 2216(2), redesignated par. (5) as (6). Former par. (6) redesignated (7). See Codification note above.
 
-    [Pub. L. 105–292, § 102(d)(1)][/us/pl/105/292/s102/d/1], added par. (6). See Codification note above.
+    [Pub. L. 105–292][/us/pl/105/292], § 102(d)(1), added par. (6). See Codification note above.
 
-    Subsec. (d)(7). [Pub. L. 105–277, § 2216(2)][/us/pl/105/277/s2216/2], redesignated par. (6) as (7). See Codification note above.
+    Subsec. (d)(7). [Pub. L. 105–277][/us/pl/105/277], § 2216(2), redesignated par. (6) as (7). See Codification note above.
 
-    Subsec. (e). [Pub. L. 105–292, § 501(b)][/us/pl/105/292/s501/b], inserted “, including the right to free religious belief and practice” after “adherence to civil and political rights”.
+    Subsec. (e). [Pub. L. 105–292][/us/pl/105/292], § 501(b), inserted “, including the right to free religious belief and practice” after “adherence to civil and political rights”.
 
     1996—Subsec. (d)(3) to (5). [Pub. L. 104–319][/us/pl/104/319] added pars. (3) and (4) and redesignated former par. (3) as (5).
 
@@ -231,45 +231,45 @@
 
     Subsecs. (f), (g). [Pub. L. 103–149][/us/pl/103/149] struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
-    1990—Subsec. (b). [Pub. L. 101–513, § 599D][/us/pl/101/513/s599D], added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
+    1990—Subsec. (b). [Pub. L. 101–513][/us/pl/101/513], § 599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
 
-    Subsec. (e)(1). [Pub. L. 101–513, § 562(d)(3)][/us/pl/101/513/s562/d/3], inserted “, part X of this subchapter,” after “available under this part” and “or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa” before period at end of first sentence.
+    Subsec. (e)(1). [Pub. L. 101–513][/us/pl/101/513], § 562(d)(3), inserted “, part X of this subchapter,” after “available under this part” and “or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa” before period at end of first sentence.
 
     1987—Subsec. (d). [Pub. L. 100–204][/us/pl/100/204] added par. (2) and redesignated former par. (2) as (3).
 
-    1986—Subsec. (e)(2)(A). [Pub. L. 99–440, § 202(a)][/us/pl/99/440/s202/a], inserted authorization of appropriations of $1,500,000 for fiscal year 1986 and for each fiscal year thereafter.
+    1986—Subsec. (e)(2)(A). [Pub. L. 99–440][/us/pl/99/440], § 202(a), inserted authorization of appropriations of $1,500,000 for fiscal year 1986 and for each fiscal year thereafter.
 
-    Subsec. (f). [Pub. L. 99–440, § 202(b)][/us/pl/99/440/s202/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–440][/us/pl/99/440], § 202(b), added subsec. (f).
 
     Subsec. (f)(2)(B). [Pub. L. 99–631][/us/pl/99/631] substituted “subsection” for “paragraph”.
 
-    Subsec. (g). [Pub. L. 99–440, § 202(b)][/us/pl/99/440/s202/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–440][/us/pl/99/440], § 202(b), added subsec. (g).
 
-    1983—Subsec. (e). [Pub. L. 98–164, § 1002(a)][/us/pl/98/164/s1002/a], designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
+    1983—Subsec. (e). [Pub. L. 98–164][/us/pl/98/164], § 1002(a), designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
 
     1981—Subsec. (e). [Pub. L. 97–113][/us/pl/97/113] substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
 
-    1980—Subsec. (a). [Pub. L. 96–533, § 701(a)][/us/pl/96/533/s701/a], prohibited assistance for government of any country causing the disappearance of persons by the abduction and clandestine detention of those persons.
+    1980—Subsec. (a). [Pub. L. 96–533][/us/pl/96/533], § 701(a), prohibited assistance for government of any country causing the disappearance of persons by the abduction and clandestine detention of those persons.
 
-    Subsec. (e). [Pub. L. 96–533, § 305][/us/pl/96/533/s305], substituted “1981” for “1980”.
+    Subsec. (e). [Pub. L. 96–533][/us/pl/96/533], § 305, substituted “1981” for “1980”.
 
-    1979—Subsec. (d)(1). [Pub. L. 96–53, § 504(a)][/us/pl/96/53/s504/a], designated existing provisions as cl. (A) and added cl. (B).
+    1979—Subsec. (d)(1). [Pub. L. 96–53][/us/pl/96/53], § 504(a), designated existing provisions as cl. (A) and added cl. (B).
 
-    Subsec. (e). [Pub. L. 96–53, § 106][/us/pl/96/53/s106], substituted “1980” for “1979”.
+    Subsec. (e). [Pub. L. 96–53][/us/pl/96/53], § 106, substituted “1980” for “1979”.
 
     1978—Subsec. (e). [Pub. L. 95–424][/us/pl/95/424] substituted “The President is authorized and encouraged to use not less than $1,500,000 of” for “Of”, and “1979” for “1978, not less than $750,000 may be used only”.
 
     1977—Subsec. (c). [Pub. L. 95–105][/us/pl/95/105] substituted “Assistant Secretary” for “Coordinator”.
 
-    [Pub. L. 95–88, § 111(a)][/us/pl/95/88/s111/a], inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
+    [Pub. L. 95–88][/us/pl/95/88], § 111(a), inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
 
-    Subsec. (d). [Pub. L. 95–88, § 111(a)][/us/pl/95/88/s111/a], substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
+    Subsec. (d). [Pub. L. 95–88][/us/pl/95/88], § 111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
 
-    Subsec. (e). [Pub. L. 95–88, § 111(b)][/us/pl/95/88/s111/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–88][/us/pl/95/88], § 111(b), added subsec. (e).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–332, § 6(c)][/us/pl/108/332/s6/c], Oct. 16, 2004, [118 Stat. 1286][/us/stat/118/1286], provided that:
+[Pub. L. 108–332][/us/pl/108/332], § 6(c), Oct. 16, 2004, [118 Stat. 1286][/us/stat/118/1286], provided that:
 
 > “The amendments made by subsections (a) and (b) \[amending this section and sections 2304 and 6412 of this title\] shall apply beginning with the first report under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(d)][/us/usc/t22/s2151n/d] and 2304(b)) and section 102(b) of the International Religious Freedom Act of 1998 ([22 U.S.C. 6312(b)][/us/usc/t22/s6312/b] \[6412(b)\]) submitted more than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].”
 
@@ -295,7 +295,7 @@
 
  __Annual Report on Advancing Freedom and Democracy__ 
 
-[Pub. L. 107–228, div. A, title VI, § 665(c)][/us/pl/107/228/s665/c], Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407], as amended by [Pub. L. 110–53, title XXI, § 2121(b)][/us/pl/110/53/s2121/b], (d), Aug. 3, 2007, [121 Stat. 532][/us/stat/121/532], provided that: 
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 665(c), Sept. 30, 2002, [116 Stat. 1407][/us/stat/116/1407], as amended by [Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2121(b), (d), Aug. 3, 2007, [121 Stat. 532][/us/stat/121/532], provided that: 
 
 > “The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151n(d)][/us/usc/t22/s2151n/d], 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and [section 2304 of this title][/us/usc/t22/s2304]\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961.”
 
@@ -303,7 +303,7 @@
 
  __Annual Reports on United States-Vietnam Human Rights Dialogue Meetings__ 
 
-[Pub. L. 107–228, div. A, title VI, § 702][/us/pl/107/228/s702], Sept. 30, 2002, [116 Stat. 1420][/us/stat/116/1420], provided that: 
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 702, Sept. 30, 2002, [116 Stat. 1420][/us/stat/116/1420], provided that: 
 
 > “Not later than December 31 of each year or 60 days after the second United States-Vietnam human rights dialogue meeting held in a calendar year, whichever is earlier, the Secretary shall submit to the appropriate congressional committees a report covering the issues discussed at the previous two meetings and describing to what extent the Government of Vietnam has made progress during the calendar year toward achieving the following objectives:
 
@@ -327,7 +327,7 @@
 
  __Assistance for Promoting Religious Freedom__ 
 
-[Pub. L. 105–292, title V, § 501(a)][/us/pl/105/292/s501/a], Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811], provided that: 
+[Pub. L. 105–292, title V][/us/pl/105/292/tV], § 501(a), Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811], provided that: 
 
 > “Congress makes the following findings:
 
@@ -337,17 +337,17 @@
 
  __Report on Human Rights to Committees on Appropriations__ 
 
-[Pub. L. 102–391, title V, § 511(b)][/us/pl/102/391/s511/b], Oct. 6, 1992, [106 Stat. 1658][/us/stat/106/1658], as amended by [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 590\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–59, provided that: 
+[Pub. L. 102–391, title V][/us/pl/102/391/tV], § 511(b), Oct. 6, 1992, [106 Stat. 1658][/us/stat/106/1658], as amended by [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 590\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–59, provided that: 
 
-> “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151n(d)][/us/usc/t22/s2151n/d]\] to the Committees on Appropriations each year by the date specified in that section: Provided, That each such report submitted pursuant to such section shall (1) include a review of each country’s commitment to children’s rights and welfare as called for by the Declaration of the World Summit for Children; \[(2) Repealed. [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 590\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–59;\] (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
+> “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151n(d)][/us/usc/t22/s2151n/d]\] to the Committees on Appropriations each year by the date specified in that section: Provided, That each such report submitted pursuant to such section shall (1) include a review of each country’s commitment to children’s rights and welfare as called for by the Declaration of the World Summit for Children; \[(2) Repealed. [Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title V, § 590\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–59;\] (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
 
  __Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments__ 
 
-    [Pub. L. 96–53, title V, § 504(b)][/us/pl/96/53/s504/b], Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378], which required Secretary of State to report by Nov. 15, 1979, foreign relations impact made by reports of human rights violations of foreign governments, was repealed by [Pub. L. 97–113, title VII, § 734(a)(3)][/us/pl/97/113/s734/a/3], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
+    [Pub. L. 96–53, title V][/us/pl/96/53/tV], § 504(b), Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378], which required Secretary of State to report by Nov. 15, 1979, foreign relations impact made by reports of human rights violations of foreign governments, was repealed by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(3), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151k.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
+[Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151l _us_usc_t22_s2151m.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151n–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n)
 
 ----------
 ----------
@@ -358,53 +358,53 @@
 [/us/usc/t22/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6402
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs310
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F860
-[/us/pl/95/88/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs111
+[/us/pl/95/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2FtI
 [/us/stat/91/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F537
-[/us/pl/95/105/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs109%2Fa%2F2
+[/us/pl/95/105/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtI
 [/us/stat/91/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F846
-[/us/pl/95/424/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs109
+[/us/pl/95/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtI
 [/us/stat/92/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F947
-[/us/pl/96/53/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs106
+[/us/pl/96/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtI
 [/us/stat/93/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F362
-[/us/pl/96/533/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs305
+[/us/pl/96/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtIII
 [/us/stat/94/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3147
-[/us/pl/97/113/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs306
+[/us/pl/97/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtIII
 [/us/stat/95/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1533
-[/us/pl/98/164/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1002%2Fa
+[/us/pl/98/164/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtX
 [/us/stat/97/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1052
-[/us/pl/99/440/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs202
+[/us/pl/99/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2FtII
 [/us/stat/100/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1095
-[/us/pl/99/631/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F631%2Fs1%2Fb%2F2
+[/us/pl/99/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F631
 [/us/stat/100/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3519
-[/us/pl/100/204/s127/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs127%2F1
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1342
-[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2031
-[/us/pl/103/149/s4/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F3%2FB
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1505
-[/us/pl/103/236/s162/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162%2Fe%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F405
-[/us/pl/103/437/s9/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs9%2Fa%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4588
-[/us/pl/104/319/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319%2Fs201%2Fa
+[/us/pl/104/319/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319%2FtII
 [/us/stat/110/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3866
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-815
-[/us/pl/105/292/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs102%2Fd%2F1
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2794
-[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/386/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs104%2Fa
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1471
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1406
-[/us/pl/108/332/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332%2Fs6%2Fa%2F1
+[/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332
 [/us/stat/118/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1285
-[/us/pl/111/166/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166%2Fs2%2F1
+[/us/pl/111/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166
 [/us/stat/124/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1186
-[/us/pl/113/4/s1207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1207%2Fb%2F1
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F141
 [/us/pl/100/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606
 [/us/stat/102/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3045
@@ -415,43 +415,43 @@
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/111/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F166
 [/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332
-[/us/pl/107/228/s665/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs665%2Fa
-[/us/pl/107/228/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs683%2Fa
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
-[/us/pl/105/292/s421/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs421%2Fa%2F1
-[/us/pl/105/292/s421/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs421%2Fa%2F2
-[/us/pl/105/277/s2216/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2216%2F1
-[/us/pl/105/277/s2216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2216%2F2
-[/us/pl/105/277/s2216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2216%2F2
-[/us/pl/105/292/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs102%2Fd%2F1
-[/us/pl/105/277/s2216/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2216%2F2
-[/us/pl/105/292/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs501%2Fb
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/pl/104/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F319
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
-[/us/pl/101/513/s599D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs599D
-[/us/pl/101/513/s562/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd%2F3
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
-[/us/pl/99/440/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs202%2Fa
-[/us/pl/99/440/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs202%2Fb
+[/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
+[/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
 [/us/pl/99/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F631
-[/us/pl/99/440/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440%2Fs202%2Fb
-[/us/pl/98/164/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs1002%2Fa
+[/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
+[/us/pl/98/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
-[/us/pl/96/533/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs701%2Fa
-[/us/pl/96/533/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs305
-[/us/pl/96/53/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs504%2Fa
-[/us/pl/96/53/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs106
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105
-[/us/pl/95/88/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs111%2Fa
-[/us/pl/95/88/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs111%2Fa
-[/us/pl/95/88/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs111%2Fb
-[/us/pl/108/332/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332%2Fs6%2Fc
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/95/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88
+[/us/pl/108/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F332
 [/us/stat/118/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1286
 [/us/usc/t22/s2151n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd
 [/us/usc/t22/s6312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6312%2Fb
@@ -469,32 +469,32 @@
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/107/228/s665/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs665%2Fc
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1407
-[/us/pl/110/53/s2121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2121%2Fb
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F532
 [/us/usc/t22/s2151n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd
 [/us/usc/t22/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2304
 [/us/pl/107/228/s665/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs665%2Fc
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/107/228/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs702
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1420
 [/us/pl/107/228/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs702
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/105/292/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs501%2Fa
+[/us/pl/105/292/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtV
 [/us/stat/112/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2811
-[/us/pl/102/391/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2Fs511%2Fb
+[/us/pl/102/391/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F391%2FtV
 [/us/stat/106/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1658
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 [/us/usc/t22/s2151n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/96/53/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs504%2Fb
+[/us/pl/96/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtV
 [/us/stat/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F378
-[/us/pl/97/113/s734/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F3
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 
 

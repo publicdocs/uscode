@@ -45,7 +45,7 @@
 
         The Secretary of the Treasury may prescribe such regulations as are appropriate to carry out this section.
 
-([Pub. L. 112–158, title IV, § 413][/us/pl/112/158/s413], Aug. 10, 2012, [126 Stat. 1256][/us/stat/126/1256].)
+([Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 413, Aug. 10, 2012, [126 Stat. 1256][/us/stat/126/1256].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/112/158/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs413
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1256
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2571

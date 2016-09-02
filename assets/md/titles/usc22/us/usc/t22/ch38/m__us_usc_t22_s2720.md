@@ -43,13 +43,13 @@
 
         As used in this section, the term “consular or diplomatic post” does not include a post to which only personnel of agencies other than the Department of State are assigned.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 48, as added [Pub. L. 102–138, title I, § 112(a)(1)][/us/pl/102/138/s112/a/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 48, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 112(a)(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].)
 
  __Prior Provisions__ 
 
-    A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
-    Provisions similar to this section were contained in [Pub. L. 100–204, title I, § 122][/us/pl/100/204/s122], Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], and set out as a note under [section 2656 of this title][/us/usc/t22/s2656], prior to repeal by [Pub. L. 102–138, title I, § 112(b)][/us/pl/102/138/s112/b], Oct. 28, 1991, [105 Stat. 655][/us/stat/105/655].
+    Provisions similar to this section were contained in [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 122, Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339], and set out as a note under [section 2656 of this title][/us/usc/t22/s2656], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 112(b), Oct. 28, 1991, [105 Stat. 655][/us/stat/105/655].
 
  __Authority of Secretary of State__ 
 
@@ -64,15 +64,15 @@
 
 [/us/usc/t22/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2706
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs112%2Fa%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
-[/us/pl/100/204/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs122
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1339
 [/us/usc/t22/s2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656
-[/us/pl/102/138/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs112%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F655
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd

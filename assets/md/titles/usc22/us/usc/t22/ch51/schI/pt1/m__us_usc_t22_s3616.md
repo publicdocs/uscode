@@ -35,7 +35,7 @@
 
         The United States representatives on the Joint Commission may, in cooperation with the representatives of the Republic of Panama on the Joint Commission, establish rules of procedure to be used by the Joint Commission in conducting its affairs, subject to the approval of such rules by the Governments of the United States and the Republic of Panama.
 
-([Pub. L. 96–70, title I, § 1106][/us/pl/96/70/s1106], Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1106, Sept. 27, 1979, [93 Stat. 457][/us/stat/93/457].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t22/s3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3617
-[/us/pl/96/70/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1106
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F457
 
 

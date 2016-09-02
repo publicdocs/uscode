@@ -17,7 +17,7 @@
 
     There is established a Congressional-Executive Commission on the People’s Republic of China (in this subchapter referred to as the “Commission”).
 
-([Pub. L. 106–286, div. B, title III, § 301][/us/pl/106/286/s301], Oct. 10, 2000, [114 Stat. 895][/us/stat/114/895].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 301, Oct. 10, 2000, [114 Stat. 895][/us/stat/114/895].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs301
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F895
 
 

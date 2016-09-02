@@ -23,13 +23,13 @@
 
         The Secretary of the Treasury shall have sole authority to establish for all foreign currencies or credits the exchange rates at which such currencies are to be reported by all agencies of the Government.
 
-    (c) __Repealed.__  __[__  __Pub. L. 97–113, title VII, § 734(a)(1)__  __][/us/pl/97/113/s734/a/1]__  __,__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 97–113, title VII__  __][/us/pl/97/113/tVII]__  __, § 734(a)(1),__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__ 
 
     (d) __Interest income on foreign currency proceeds; regulations; waiver; report to Congress__ 
 
         In cases where assistance is to be furnished to any recipient country in furtherance of the purposes of this chapter or any other Act on a basis which will result in the accrual of foreign currency proceeds to the United States, the Secretary of the Treasury shall issue regulations requiring that agreements, in respect of such assistance, include provisions for the receipt of interest income on the foreign currency proceeds deposited in authorized depositaries: Provided, That whenever the Secretary of State determines it not to be in the national interest to conclude arrangements for the receipt of interest income he may waive the requirement thereof: Provided further, That the Secretary of State, or his delegate, shall promptly make a complete report to the Congress on each such determination and the reasons therefor.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 613, Sept. 4, 1961, [75 Stat. 443][/us/stat/75/443]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 301(c), Sept. 6, 1965, [79 Stat. 659][/us/stat/79/659]; [Pub. L. 94–273, § 46][/us/pl/94/273/s46], Apr. 21, 1976, [90 Stat. 382][/us/stat/90/382]; [Pub. L. 97–113, title VII, § 734(a)(1)][/us/pl/97/113/s734/a/1], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 613, Sept. 4, 1961, [75 Stat. 443][/us/stat/75/443]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 301(c), Sept. 6, 1965, [79 Stat. 659][/us/stat/79/659]; [Pub. L. 94–273][/us/pl/94/273], § 46, Apr. 21, 1976, [90 Stat. 382][/us/stat/90/382]; [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(1), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560].)
 
  __References in Text__ 
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F443
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171
 [/us/stat/79/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F659
-[/us/pl/94/273/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs46
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F382
-[/us/pl/97/113/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F1
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -59,7 +59,7 @@
 
         (5) United States representatives to the Fund and the Bank shall request the Fund and the Bank to provide periodic analyses of the effects of economic adjustment programs supported by Fund or Bank financing on jobs, investment, real income per capita, income distribution, and social programs such as health, housing, and education.
 
-([July 31, 1945, ch. 339, § 33][/us/act/1945-07-31/ch339/s33], as added [Pub. L. 96–389, § 2(a)][/us/pl/96/389/s2/a], Oct. 7, 1980, [94 Stat. 1551][/us/stat/94/1551]; amended [Pub. L. 101–240, title V, § 541(d)(1)][/us/pl/101/240/s541/d/1], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
+([July 31, 1945, ch. 339][/us/act/1945-07-31/ch339], § 33, as added [Pub. L. 96–389][/us/pl/96/389], § 2(a), Oct. 7, 1980, [94 Stat. 1551][/us/stat/94/1551]; amended [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(1), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–389, § 12][/us/pl/96/389/s12], Oct. 7, 1980, [94 Stat. 1555][/us/stat/94/1555], provided that: 
+[Pub. L. 96–389][/us/pl/96/389], § 12, Oct. 7, 1980, [94 Stat. 1555][/us/stat/94/1555], provided that: 
 
 > “This Act \[enacting this section and sections 286e–1g and 286t to 286x of this title, amending sections 286e–1g, 286e–8, and 286e–9 of this title and section 27 of former Title 31, Money and Finance, and enacting provisions set out as notes under sections 286a and 286t of this title and section 822a of former Title 31\] shall take effect on its date of enactment \[Oct. 7, 1980\], except that funds may not be appropriated under any authorization contained in this Act for any period prior to October 1, 1980.”
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/act/1945-07-31/ch339/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339%2Fs33
-[/us/pl/96/389/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs2%2Fa
+[/us/act/1945-07-31/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-07-31%2Fch339
+[/us/pl/96/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389
 [/us/stat/94/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1551
-[/us/pl/101/240/s541/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F1
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
-[/us/pl/96/389/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389%2Fs12
+[/us/pl/96/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F389
 [/us/stat/94/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1555
 
 

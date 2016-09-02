@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter the term “Philippine Government” shall mean “Government of the Commonwealth of the Philippines” until the date of independence, and thereafter it shall mean the “Government of the Republic of the Philippines”.
 
-([July 3, 1946, ch. 536, § 7][/us/act/1946-07-03/ch536/s7], [60 Stat. 420][/us/stat/60/420].)
+([July 3, 1946, ch. 536][/us/act/1946-07-03/ch536], § 7, [60 Stat. 420][/us/stat/60/420].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-03/ch536/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536%2Fs7
+[/us/act/1946-07-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-03%2Fch536
 [/us/stat/60/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F420
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 

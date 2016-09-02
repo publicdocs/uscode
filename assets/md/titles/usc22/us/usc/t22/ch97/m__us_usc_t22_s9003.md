@@ -67,7 +67,7 @@
 
         The remedies established by the Convention and this chapter shall be in addition to remedies available under other laws or international agreements.
 
-([Pub. L. 100–300, § 4][/us/pl/100/300/s4], Apr. 29, 1988, [102 Stat. 438][/us/stat/102/438].)
+([Pub. L. 100–300][/us/pl/100/300], § 4, Apr. 29, 1988, [102 Stat. 438][/us/stat/102/438].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/100/300/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs4
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F438
 [/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437

@@ -45,7 +45,7 @@
 
         The economic embargo of Cuba, as in effect on March 1, 1996, including all restrictions under part 515 of title 31, Code of Federal Regulations, shall be in effect on March 12, 1996, and shall remain in effect, subject to [section 6064 of this title][/us/usc/t22/s6064].
 
-([Pub. L. 104–114, title I, § 102][/us/pl/104/114/s102], Mar. 12, 1996, [110 Stat. 792][/us/stat/110/792].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 102, Mar. 12, 1996, [110 Stat. 792][/us/stat/110/792].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t22/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6001
 [/us/usc/t22/s6003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6003%2Fb%2F1
 [/us/usc/t22/s6064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6064
-[/us/pl/104/114/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F792
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575

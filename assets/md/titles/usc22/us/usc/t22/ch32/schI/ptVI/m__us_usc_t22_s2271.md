@@ -55,7 +55,7 @@
 
         The Congress finds, therefore, that the people of the United States are willing to sustain and expand a program of economic and military assistance in Central America if the recipient countries can demonstrate progress toward and a commitment to these goals.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 461, as added [Pub. L. 99–83, title VII, § 701][/us/pl/99/83/s701], Aug. 8, 1985, [99 Stat. 234][/us/stat/99/234].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 461, as added [Pub. L. 99–83, title VII][/us/pl/99/83/tVII], § 701, Aug. 8, 1985, [99 Stat. 234][/us/stat/99/234].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2271, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 461, Sept. 4, 1961, [75 Stat. 434][/us/stat/75/434]; [Pub. L. 87–565][/us/pl/87/565], pt. I, § 110, Aug. 1, 1962, [76 Stat. 259][/us/stat/76/259]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 113, Nov. 14, 1967, [81 Stat. 455][/us/stat/81/455], related to emphasis on programs in agrarian countries which reach people who are engaged in agrarian pursuits, prior to repeal by [Pub. L. 95–424, title VI, § 604][/us/pl/95/424/s604], Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], eff. Oct. 1, 1978.
+    A prior section 2271, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 461, Sept. 4, 1961, [75 Stat. 434][/us/stat/75/434]; [Pub. L. 87–565][/us/pl/87/565], pt. I, § 110, Aug. 1, 1962, [76 Stat. 259][/us/stat/76/259]; [Pub. L. 90–137][/us/pl/90/137], pt. I, § 113, Nov. 14, 1967, [81 Stat. 455][/us/stat/81/455], related to emphasis on programs in agrarian countries which reach people who are engaged in agrarian pursuits, prior to repeal by [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 604, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961], eff. Oct. 1, 1978.
 
  __Effective Date__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs701
+[/us/pl/99/83/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtVII
 [/us/stat/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F234
 [/us/pl/87/195/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs461
 [/us/usc/t22/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2281
@@ -87,7 +87,7 @@
 [/us/stat/76/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F259
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F455
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

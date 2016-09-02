@@ -17,7 +17,7 @@
 
     None of the funds available to the Department of State shall be used to pay the United States share of assessed contributions for the regular budget of the United Nations in an amount greater than 22 percent of the total of all assessed contributions for that budget.
 
-([Dec. 20, 1945, ch. 583, § 11][/us/act/1945-12-20/ch583/s11], as added [Pub. L. 107–228, div. A, title IV, § 403][/us/pl/107/228/s403], Sept. 30, 2002, [116 Stat. 1389][/us/stat/116/1389].)
+([Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], § 11, as added [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 403, Sept. 30, 2002, [116 Stat. 1389][/us/stat/116/1389].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1945-12-20/ch583/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583%2Fs11
-[/us/pl/107/228/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs403
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1389
 
 

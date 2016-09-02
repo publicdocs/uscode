@@ -17,7 +17,7 @@
 
     Not later than 60 days after November 16, 1990, the Secretary of State, in consultation with the Secretary of Transportation, shall propose to the International Civil Aviation Organization the establishment of a comprehensive aviation security program which shall include (1) training for airport security personnel, (2) grants for security equipment acquisition for certain nations, and (3) expansion of the appropriate utilization of canine teams in the detection of explosive devices in all airport areas, including use in passenger screening areas and nonpublic baggage assembly and processing areas.
 
-([Pub. L. 101–604, title II, § 215][/us/pl/101/604/s215], Nov. 16, 1990, [104 Stat. 3087][/us/stat/104/3087].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 215, Nov. 16, 1990, [104 Stat. 3087][/us/stat/104/3087].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs215
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3087
 
 

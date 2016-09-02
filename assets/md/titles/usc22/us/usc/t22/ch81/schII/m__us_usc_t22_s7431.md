@@ -17,7 +17,7 @@
 
     The authorities vested in the President by sections 7422 and 7430(a) of this title may not be delegated by the President pursuant to [section 301 of title 3][/us/usc/t3/s301] or any other provision of law. The authority vested in the President by [section 7424(c)(3) of this title][/us/usc/t22/s7424/c/3] may not be delegated by the President pursuant to [section 301 of title 3][/us/usc/t3/s301] or any other provision of law to any official other than the Secretary of Defense, and if so delegated may not be subdelegated.
 
-([Pub. L. 107–206, title II, § 2012][/us/pl/107/206/s2012], Aug. 2, 2002, [116 Stat. 907][/us/stat/116/907].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2012, Aug. 2, 2002, [116 Stat. 907][/us/stat/116/907].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t22/s7424/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7424%2Fc%2F3
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/107/206/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2012
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F907
 
 

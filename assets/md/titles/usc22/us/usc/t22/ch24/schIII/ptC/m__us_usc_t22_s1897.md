@@ -15,7 +15,7 @@
 
 ## § 1897. Repealed. [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460]
 
-    Section, acts [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 307, [68 Stat. 842][/us/stat/68/842]; [July 18, 1956, ch. 627, § 7(c)][/us/act/1956-07-18/ch627/s7/c], [70 Stat. 557][/us/stat/70/557]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. II, § 203(c), [74 Stat. 136][/us/stat/74/136], authorized advances and grants-in-aid for technical cooperation program.
+    Section, acts [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], ch. II, § 307, [68 Stat. 842][/us/stat/68/842]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], § 7(c), [70 Stat. 557][/us/stat/70/557]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. II, § 203(c), [74 Stat. 136][/us/stat/74/136], authorized advances and grants-in-aid for technical cooperation program.
 
 ----------
 
@@ -28,7 +28,7 @@
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/stat/68/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F842
-[/us/act/1956-07-18/ch627/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627%2Fs7%2Fc
+[/us/act/1956-07-18/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627
 [/us/stat/70/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F557
 [/us/pl/86/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F472
 [/us/stat/74/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F136

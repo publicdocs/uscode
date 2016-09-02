@@ -33,7 +33,7 @@
 
         The term “United States person” has the meaning given that term in [section 8511 of this title][/us/usc/t22/s8511].
 
-([Pub. L. 112–158, § 2][/us/pl/112/158/s2], Aug. 10, 2012, [126 Stat. 1216][/us/stat/126/1216].)
+([Pub. L. 112–158][/us/pl/112/158], § 2, Aug. 10, 2012, [126 Stat. 1216][/us/stat/126/1216].)
 
  __References in Text__ 
 
@@ -41,17 +41,17 @@
 
  __Short Title__ 
 
-[Pub. L. 112–158, § 1(a)][/us/pl/112/158/s1/a], Aug. 10, 2012, [126 Stat. 1214][/us/stat/126/1214], provided that: 
+[Pub. L. 112–158][/us/pl/112/158], § 1(a), Aug. 10, 2012, [126 Stat. 1214][/us/stat/126/1214], provided that: 
 
 > “This Act \[enacting this chapter and sections 8513b, 8514a, and 8514b of this title, amending sections 8511, 8513, 8513a, 8518, 8532, 8551 of this title, [section 78m of Title 15][/us/usc/t15/s78m], Commerce and Trade, and [section 1610 of Title 28][/us/usc/t28/s1610], Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 8513 and 8513a of this title, [section 78m of Title 15][/us/usc/t15/s78m], and [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense, and amending provisions set out as notes under [section 1610 of Title 28][/us/usc/t28/s1610] and [section 1701 of Title 50][/us/usc/t50/s1701]\] may be cited as the ‘Iran Threat Reduction and Syria Human Rights Act of 2012’.”
 
-[Pub. L. 112–158, title VII, § 701][/us/pl/112/158/s701], Aug. 10, 2012, [126 Stat. 1265][/us/stat/126/1265], provided that: 
+[Pub. L. 112–158, title VII][/us/pl/112/158/tVII], § 701, Aug. 10, 2012, [126 Stat. 1265][/us/stat/126/1265], provided that: 
 
 > “This title \[enacting subchapter VII of this chapter\] may be cited as the ‘Syria Human Rights Accountability Act of 2012’.”
 
  __Report on Use by Iran of Funds Made Available Through Sanctions Relief__ 
 
-[Pub. L. 114–113, div. M, title V, § 514][/us/pl/114/113/s514], Dec. 18, 2015, [129 Stat. 2926][/us/stat/129/2926], provided that:
+[Pub. L. 114–113, div. M, title V][/us/pl/114/113/dM/tV], § 514, Dec. 18, 2015, [129 Stat. 2926][/us/stat/129/2926], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Reports on Nuclear Program of Iran__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1271][/us/pl/113/291/s1271], Dec. 19, 2014, [128 Stat. 3588][/us/stat/128/3588], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1271, Dec. 19, 2014, [128 Stat. 3588][/us/stat/128/3588], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -267,11 +267,11 @@
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8511
-[/us/pl/112/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs2
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1216
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214
-[/us/pl/112/158/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs1%2Fa
+[/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214
 [/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
@@ -279,12 +279,12 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/158/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs701
+[/us/pl/112/158/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtVII
 [/us/stat/126/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1265
-[/us/pl/114/113/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs514
+[/us/pl/114/113/dM/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtV
 [/us/stat/129/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2926
 [/us/usc/t8/s1189/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189%2Fa
-[/us/pl/113/291/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1271
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3588
 [/us/pl/112/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F220
 [/us/stat/126/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1596

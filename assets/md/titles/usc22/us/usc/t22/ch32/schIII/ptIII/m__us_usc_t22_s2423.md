@@ -27,7 +27,7 @@
 
         Funds received from any disposal of materials under subsection (b) shall be deposited as miscellaneous receipts in the United States Treasury.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 663, as added [Pub. L. 93–559, § 32][/us/pl/93/559/s32], Dec. 30, 1974, [88 Stat. 1805][/us/stat/88/1805].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 663, as added [Pub. L. 93–559][/us/pl/93/559], § 32, Dec. 30, 1974, [88 Stat. 1805][/us/stat/88/1805].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs32
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1805
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

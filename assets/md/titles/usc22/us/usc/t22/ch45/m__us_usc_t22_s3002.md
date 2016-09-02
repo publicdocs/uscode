@@ -17,7 +17,7 @@
 
     The Commission is authorized and directed to monitor the acts of the signatories which reflect compliance with or violation of the articles of the Final Act of the Conference on Security and Cooperation in Europe, with particular regard to the provisions relating to human rights and Cooperation in Humanitarian Fields. The Commission is further authorized and directed to monitor and encourage the development of programs and activities of the United States Government and private organizations with a view toward taking advantage of the provisions of the Final Act to expand East-West economic cooperation and a greater interchange of people and ideas between East and West.
 
-([Pub. L. 94–304, § 2][/us/pl/94/304/s2], June 3, 1976, [90 Stat. 661][/us/stat/90/661]; [Pub. L. 99–7, § 2][/us/pl/99/7/s2], Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19].)
+([Pub. L. 94–304][/us/pl/94/304], § 2, June 3, 1976, [90 Stat. 661][/us/stat/90/661]; [Pub. L. 99–7][/us/pl/99/7], § 2, Mar. 27, 1985, [99 Stat. 19][/us/stat/99/19].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–7, § 6][/us/pl/99/7/s6], Mar. 27, 1985, [99 Stat. 20][/us/stat/99/20], provided that:
+[Pub. L. 99–7][/us/pl/99/7], § 6, Mar. 27, 1985, [99 Stat. 20][/us/stat/99/20], provided that:
 
 >     “(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 3003, 3007, and 3008 of this title and enacting provisions set out as a note under [section 3003 of this title][/us/usc/t22/s3003]\] shall take effect on the date of enactment of this Act \[Mar. 27, 1985\] or April 15, 1985, whichever is later.
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/94/304/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304%2Fs2
+[/us/pl/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F304
 [/us/stat/90/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F661
-[/us/pl/99/7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs2
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/stat/99/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F19
 [/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
-[/us/pl/99/7/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7%2Fs6
+[/us/pl/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F7
 [/us/stat/99/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F20
 [/us/usc/t22/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3003
 [/us/usc/t22/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3003

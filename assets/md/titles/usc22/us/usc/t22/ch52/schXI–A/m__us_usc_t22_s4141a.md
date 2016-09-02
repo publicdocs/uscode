@@ -57,7 +57,7 @@
 
         The Secretary of State shall study the feasibility of administering the Foreign Service examination in separate segments over several years. Not later than 180 days after February 16, 1990, the Secretary shall submit a report summarizing the findings of such a study to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-([Pub. L. 96–465, title I, § 1202][/us/pl/96/465/s1202], as added [Pub. L. 101–246, title I, § 149(b)][/us/pl/101/246/s149/b], Feb. 16, 1990, [104 Stat. 40][/us/stat/104/40]; amended [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1202, as added [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 149(b), Feb. 16, 1990, [104 Stat. 40][/us/stat/104/40]; amended [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412].)
 
  __Codification__ 
 
@@ -74,10 +74,10 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1202
-[/us/pl/101/246/s149/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs149%2Fb
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F40
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132

@@ -49,7 +49,7 @@
 
         In light of the continuing threat to the environment and to public health and safety within the United States as a result of the river and ocean pollution in the San Diego-Tijuana border region, the Commission is requested to give the highest priority to the implementation of Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944, which establishes a framework for the siting of a treatment facility in Mexico to provide for the secondary treatment of effluent from the IWTP at the Mexican facility, to provide for additional capacity for advanced primary and secondary treatment of additional sewage emanating from the Tijuana River area, Mexico, and to meet the water quality standards of Mexico, the United States, and the State of California consistent with the provisions of sections 277d–43 to 277d–46 of this title, in order that the other provisions of sections 277d–43 to 277d–46 of this title to address such pollution may be implemented as soon as possible.
 
-([Pub. L. 106–457, title VIII, § 805][/us/pl/106/457/s805], Nov. 7, 2000, [114 Stat. 1980][/us/stat/114/1980]; [Pub. L. 108–425, § 2][/us/pl/108/425/s2], Nov. 30, 2004, [118 Stat. 2421][/us/stat/118/2421].)
+([Pub. L. 106–457, title VIII][/us/pl/106/457/tVIII], § 805, Nov. 7, 2000, [114 Stat. 1980][/us/stat/114/1980]; [Pub. L. 108–425][/us/pl/108/425], § 2, Nov. 30, 2004, [118 Stat. 2421][/us/stat/118/2421].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–425, § 2(1)][/us/pl/108/425/s2/1], struck out “Negotiation of” before “New” in section catchline.
+    2004—[Pub. L. 108–425][/us/pl/108/425], § 2(1), struck out “Negotiation of” before “New” in section catchline.
 
-    Subsec. (c). [Pub. L. 108–425, § 2(2)][/us/pl/108/425/s2/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–425][/us/pl/108/425], § 2(2), added subsec. (c).
 
 ----------
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/106/457/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2Fs805
+[/us/pl/106/457/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F457%2FtVIII
 [/us/stat/114/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1980
-[/us/pl/108/425/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs2
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 [/us/stat/118/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2421
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/108/425/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs2%2F1
-[/us/pl/108/425/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425%2Fs2%2F2
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
+[/us/pl/108/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F425
 
 

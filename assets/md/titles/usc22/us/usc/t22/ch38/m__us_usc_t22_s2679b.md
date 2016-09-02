@@ -17,7 +17,7 @@
 
     If it has been finally determined by a court or Federal agency that a person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract from the Department of State, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
-([Pub. L. 102–138, title I, § 195][/us/pl/102/138/s195], Oct. 28, 1991, [105 Stat. 684][/us/stat/105/684].)
+([Pub. L. 102–138, title I][/us/pl/102/138/tI], § 195, Oct. 28, 1991, [105 Stat. 684][/us/stat/105/684].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/138/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs195
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F684
 
 

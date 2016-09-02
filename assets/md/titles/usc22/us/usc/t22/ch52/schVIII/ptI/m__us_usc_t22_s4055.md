@@ -89,7 +89,7 @@
 
         The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II.
 
-([Pub. L. 96–465, title I, § 815][/us/pl/96/465/s815], Oct. 17, 1980, [94 Stat. 2116][/us/stat/94/2116]; [Pub. L. 99–335, title IV][/us/pl/99/335], §§ 402(a)(2), 404(c), 413, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 610, 614; [Pub. L. 100–238, title II, § 218][/us/pl/100/238/s218], Jan. 8, 1988, [101 Stat. 1775][/us/stat/101/1775].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 815, Oct. 17, 1980, [94 Stat. 2116][/us/stat/94/2116]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], §§ 402(a)(2), 404(c), 413, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 610, 614; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 218, Jan. 8, 1988, [101 Stat. 1775][/us/stat/101/1775].)
 
  __Amendment of Section__ 
 
@@ -99,11 +99,11 @@
 
     1988—Subsec. (a). [Pub. L. 100–238][/us/pl/100/238] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever a participant becomes separated from the Service without becoming eligible for an annuity or a deferred annuity under this subchapter, a lump-sum credit shall be paid to the participant (and to any former spouse of the participant, in accordance with subsection (i) of this section). A participant who becomes subject to part II of this subchapter shall be entitled to payment of the lump-sum credit if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
 
-    1986—Subsec. (a). [Pub. L. 99–335, § 413][/us/pl/99/335/s413], inserted provision relating to payment of a lump-sum credit for a participant who becomes subject to part II of this subchapter.
+    1986—Subsec. (a). [Pub. L. 99–335][/us/pl/99/335], § 413, inserted provision relating to payment of a lump-sum credit for a participant who becomes subject to part II of this subchapter.
 
-    Subsecs. (c), (d). [Pub. L. 99–335, § 402(a)(2)][/us/pl/99/335/s402/a/2], substituted “part” for “subchapter”.
+    Subsecs. (c), (d). [Pub. L. 99–335][/us/pl/99/335], § 402(a)(2), substituted “part” for “subchapter”.
 
-    Subsec. (i). [Pub. L. 99–335, § 404(c)][/us/pl/99/335/s404/c], inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+    Subsec. (i). [Pub. L. 99–335][/us/pl/99/335], § 404(c), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -128,20 +128,20 @@
 [/us/usc/t22/s4056/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4056%2Fb
 [/us/usc/t22/s4045/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4045%2Fd
 [/us/usc/t22/s4060/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4060%2Fb%2F1
-[/us/pl/96/465/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs815
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2116
-[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
-[/us/pl/100/238/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs218
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1775
 [/us/usc/t22/s4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4067
 [/us/usc/t22/s4055/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4055%2Fh
 [/us/usc/t22/s4065/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4065%2Fa
 [/us/usc/t22/s4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4059
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
-[/us/pl/99/335/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs413
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
-[/us/pl/99/335/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs404%2Fc
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/100/238/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs261%2Fa
 [/us/usc/t22/s4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054

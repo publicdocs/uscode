@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, the term “Border Environment Cooperation Agreement” (referred to in this subchapter as the “Cooperation Agreement”) means the November 1993 Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank.
 
-([Pub. L. 103–182, title V, § 544][/us/pl/103/182/s544], Dec. 8, 1993, [107 Stat. 2170][/us/stat/107/2170].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 544, Dec. 8, 1993, [107 Stat. 2170][/us/stat/107/2170].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/182/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs544
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2170
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24

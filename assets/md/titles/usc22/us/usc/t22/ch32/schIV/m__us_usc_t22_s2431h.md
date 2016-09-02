@@ -29,7 +29,7 @@
 
         (3) The provision relating to disbursements under subsection (d) of such section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 810, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 892][/us/stat/112/892]; amended [Pub. L. 108–323, § 3(c)][/us/pl/108/323/s3/c], Oct. 6, 2004, [118 Stat. 1219][/us/stat/118/1219].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 810, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 892][/us/stat/112/892]; amended [Pub. L. 108–323][/us/pl/108/323], § 3(c), Oct. 6, 2004, [118 Stat. 1219][/us/stat/118/1219].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 [/us/usc/t22/s2431g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2431g
 [/us/usc/t22/s2430f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2430f
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F892
-[/us/pl/108/323/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323%2Fs3%2Fc
+[/us/pl/108/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323
 [/us/stat/118/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1219
 [/us/pl/108/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F323
 

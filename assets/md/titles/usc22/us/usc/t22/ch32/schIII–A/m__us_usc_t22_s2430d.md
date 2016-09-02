@@ -23,7 +23,7 @@
 
         Principal repayments of new obligations shall be deposited in the United States Government account established for principal repayments of the obligations for which those obligations were exchanged.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 705, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3666][/us/stat/106/3666].)
+([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 705, as added [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(a), Oct. 28, 1992, [106 Stat. 3666][/us/stat/106/3666].)
 
  __Prior Provisions__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t22/s2430c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2430c%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fa
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3666
 [/us/pl/87/195/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs705
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463

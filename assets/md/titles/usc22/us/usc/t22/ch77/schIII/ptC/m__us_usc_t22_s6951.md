@@ -23,7 +23,7 @@
 
         In preparing the report described in subsection (a), the Trade Representative shall seek public participation by publishing a notice in the Federal Register and holding a public hearing.
 
-([Pub. L. 106–286, div. B, title IV, § 421][/us/pl/106/286/s421], Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
+([Pub. L. 106–286, div. B, title IV][/us/pl/106/286/dB/tIV], § 421, Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs421
+[/us/pl/106/286/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIV
 [/us/stat/114/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F903
 
 

@@ -37,7 +37,7 @@
 
         The Chairman of the United States Panel of the Joint Committee on United States-Japan Cultural and Educational Cooperation shall be the Chairman of the Commission. A majority of the members of the Commission shall constitute a quorum. The Commission shall meet at least twice in each year.
 
-([Pub. L. 94–118, § 4][/us/pl/94/118/s4], Oct. 20, 1975, [89 Stat. 604][/us/stat/89/604].)
+([Pub. L. 94–118][/us/pl/94/118], § 4, Oct. 20, 1975, [89 Stat. 604][/us/stat/89/604].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/118/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118%2Fs4
+[/us/pl/94/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F118
 [/us/stat/89/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F604
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

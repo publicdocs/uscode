@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to encourage and support improvement in the lives of the people of Latin America and the Caribbean through market-oriented reforms and economic growth with interrelated actions to promote debt reduction, investment reforms, community based conservation, and sustainable use of the environment, and child survival and child development. The Facility will support these objectives through administration of debt reduction operations under this subchapter for those countries with democratically elected governments that meet investment reforms and other policy conditions.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 701, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664].)
+([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 701, as added [Pub. L. 102–549, title VI][/us/pl/102/549/tVI], § 602(a), Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/102/549/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs602%2Fa
+[/us/pl/102/549/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtVI
 [/us/stat/106/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3664
 [/us/pl/87/195/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs701
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463

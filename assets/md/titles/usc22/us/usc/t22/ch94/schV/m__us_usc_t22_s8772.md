@@ -95,7 +95,7 @@
 
             The term “United States” includes all territory and waters, continental, or insular, subject to the jurisdiction of the United States.
 
-([Pub. L. 112–158, title V, § 502][/us/pl/112/158/s502], Aug. 10, 2012, [126 Stat. 1258][/us/stat/126/1258].)
+([Pub. L. 112–158, title V][/us/pl/112/158/tV], § 502, Aug. 10, 2012, [126 Stat. 1258][/us/stat/126/1258].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
-[/us/pl/112/158/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs502
+[/us/pl/112/158/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtV
 [/us/stat/126/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1258
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214

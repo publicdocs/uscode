@@ -123,7 +123,7 @@
 
         The Commission may submit to the President and the Congress reports that supplement the reports described in subsection (g), as appropriate, in carrying out subsections (a) through (c).
 
-([Pub. L. 106–286, div. B, title III, § 302][/us/pl/106/286/s302], Oct. 10, 2000, [114 Stat. 895][/us/stat/114/895]; [Pub. L. 107–228, div. A, title VI, § 615][/us/pl/107/228/s615], Sept. 30, 2002, [116 Stat. 1396][/us/stat/116/1396].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 302, Oct. 10, 2000, [114 Stat. 895][/us/stat/114/895]; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 615, Sept. 30, 2002, [116 Stat. 1396][/us/stat/116/1396].)
 
  __Amendments__ 
 
@@ -140,9 +140,9 @@
 ----------
 ----------
 
-[/us/pl/106/286/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs302
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F895
-[/us/pl/107/228/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs615
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1396
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 

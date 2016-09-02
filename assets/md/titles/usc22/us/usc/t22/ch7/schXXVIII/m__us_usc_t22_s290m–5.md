@@ -41,7 +41,7 @@
 
             Not more than an aggregate of $5,000,000 in grants may be made under this subsection.
 
-([Pub. L. 103–182, title V, § 546][/us/pl/103/182/s546], as added [Pub. L. 108–215, § 1(b)][/us/pl/108/215/s1/b], Apr. 5, 2004, [118 Stat. 579][/us/stat/118/579].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 546, as added [Pub. L. 108–215][/us/pl/108/215], § 1(b), Apr. 5, 2004, [118 Stat. 579][/us/stat/118/579].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/103/182/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs546
-[/us/pl/108/215/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F215%2Fs1%2Fb
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
+[/us/pl/108/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F215
 [/us/stat/118/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F579
 
 

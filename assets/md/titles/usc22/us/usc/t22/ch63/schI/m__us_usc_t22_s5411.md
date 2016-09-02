@@ -49,7 +49,7 @@
 
             The United States Government shall provide agricultural assistance for Poland in accordance with [section 5413 of this title][/us/usc/t22/s5413].
 
-([Pub. L. 101–179, title I, § 101][/us/pl/101/179/s101], Nov. 28, 1989, [103 Stat. 1302][/us/stat/103/1302].)
+([Pub. L. 101–179, title I][/us/pl/101/179/tI], § 101, Nov. 28, 1989, [103 Stat. 1302][/us/stat/103/1302].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t31/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5302
 [/us/usc/t22/s5412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5412%2Fc
 [/us/usc/t22/s5413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5413
-[/us/pl/101/179/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs101
+[/us/pl/101/179/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtI
 [/us/stat/103/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1302
 
 

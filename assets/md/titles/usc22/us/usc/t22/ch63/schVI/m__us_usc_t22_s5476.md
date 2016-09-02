@@ -17,7 +17,7 @@
 
     Section 634A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394–1][/us/usc/t22/s2394–1]; relating to reprogramming notifications) applies with respect to obligations of funds made available under that Act \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] to carry out this chapter, notwithstanding any other provision of this chapter.
 
-([Pub. L. 101–179, title VII, § 706][/us/pl/101/179/s706], Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322].)
+([Pub. L. 101–179, title VII][/us/pl/101/179/tVII], § 706, Nov. 28, 1989, [103 Stat. 1322][/us/stat/103/1322].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/101/179/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs706
+[/us/pl/101/179/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtVII
 [/us/stat/103/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1322
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

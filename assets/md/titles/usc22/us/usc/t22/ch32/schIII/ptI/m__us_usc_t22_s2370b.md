@@ -31,7 +31,7 @@
 
         This section shall take effect 60 days after May 11, 2005, and shall apply to funds obligated after such date for fiscal year 2005 and any subsequent fiscal year.
 
-([Pub. L. 109–13, div. A, title II, § 2110][/us/pl/109/13/s2110], May 11, 2005, [119 Stat. 268][/us/stat/119/268].)
+([Pub. L. 109–13, div. A, title II][/us/pl/109/13/dA/tII], § 2110, May 11, 2005, [119 Stat. 268][/us/stat/119/268].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/109/13/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs2110
+[/us/pl/109/13/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtII
 [/us/stat/119/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F268
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13

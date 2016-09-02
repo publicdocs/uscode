@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321f.md) | [Next](./../../../../../..//us/usc/t22/ch32/schII/ptII/m__us_usc_t22_s2321h.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321g)
 
-## § 2321g. Repealed. [Pub. L. 93–189, § 12(b)(5)][/us/pl/93/189/s12/b/5], Dec. 17, 1973, [87 Stat. 722][/us/stat/87/722]
+## § 2321g. Repealed. [Pub. L. 93–189][/us/pl/93/189], § 12(b)(5), Dec. 17, 1973, [87 Stat. 722][/us/stat/87/722]
 
     Section, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 514, as added [Pub. L. 92–226][/us/pl/92/226], pt. II, § 201(f), Feb. 7, 1972, [86 Stat. 26][/us/stat/86/26], covered special foreign country accounts, the deposit of currencies, use of special accounts for payments of certain costs, Presidential waiver authority, the nonapplicability of provisions for special accounts, and the limitations on the amount of deposits.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/189/s12/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs12%2Fb%2F5
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F722
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226

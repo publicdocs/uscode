@@ -23,7 +23,7 @@
 
     The request for review and revision or adjustment shall be submitted and adjudicated in accordance with the regularly established appeals procedures of the agency.
 
-([Pub. L. 96–70, title I, § 1220][/us/pl/96/70/s1220], Sept. 27, 1979, [93 Stat. 466][/us/stat/93/466].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1220, Sept. 27, 1979, [93 Stat. 466][/us/stat/93/466].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1220
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F466
 
 

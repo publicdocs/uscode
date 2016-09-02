@@ -39,7 +39,7 @@
 
     (b) It is the purpose of this chapter to establish an independent, nonprofit, national institute to serve the people and the Government through the widest possible range of education and training, basic and applied research opportunities, and peace information services on the means to promote international peace and the resolution of conflicts among the nations and peoples of the world without recourse to violence.
 
-([Pub. L. 98–525, title XVII, § 1702][/us/pl/98/525/s1702], Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1702, Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–525, title XVII, § 1701][/us/pl/98/525/s1701], Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649], provided that: 
+[Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1701, Oct. 19, 1984, [98 Stat. 2649][/us/stat/98/2649], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘United States Institute of Peace Act’.”
 
@@ -58,14 +58,14 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1702
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2649
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/usc/t20/s1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1123
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/98/525/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1701
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2649
 
 

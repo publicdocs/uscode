@@ -55,7 +55,7 @@
 
         (4) to adopt the imposition of stricter controls on the export of chemical agents, precursors, and equipment and to adopt tougher multilateral sanctions against firms and individuals who violate these controls or against countries that use chemical weapons.
 
-([Pub. L. 102–182, title III, § 303][/us/pl/102/182/s303], Dec. 4, 1991, [105 Stat. 1245][/us/stat/105/1245].)
+([Pub. L. 102–182, title III][/us/pl/102/182/tIII], § 303, Dec. 4, 1991, [105 Stat. 1245][/us/stat/105/1245].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/102/182/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs303
+[/us/pl/102/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2FtIII
 [/us/stat/105/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1245
 
 

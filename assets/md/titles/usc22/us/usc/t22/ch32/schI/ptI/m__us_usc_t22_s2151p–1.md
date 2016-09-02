@@ -127,7 +127,7 @@
 
         Each annual report required by [section 2394(a) of this title][/us/usc/t22/s2394/a] shall include a report on the implementation of this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 118, as added [Pub. L. 99–529, title III, § 301(3)][/us/pl/99/529/s301/3], Oct. 24, 1986, [100 Stat. 3014][/us/stat/100/3014].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 118, as added [Pub. L. 99–529, title III][/us/pl/99/529/tIII], § 301(3), Oct. 24, 1986, [100 Stat. 3014][/us/stat/100/3014].)
 
  __Prior Provisions__ 
 
@@ -147,7 +147,7 @@
 [/us/usc/t22/s2151a/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151a%2Fb%2F3
 [/us/usc/t22/s2394/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/529/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2Fs301%2F3
+[/us/pl/99/529/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F529%2FtIII
 [/us/stat/100/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3014
 [/us/pl/87/195/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs118
 [/us/usc/t22/s2151p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151p

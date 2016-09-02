@@ -23,13 +23,13 @@
 
         The Commission shall receive and determine in accordance with applicable substantive law, including international law, the amount and validity of claims by nationals of the United States against the Government of Cuba, or the Chinese Communist regime, arising since January 1, 1959, in the case of claims against the Government of Cuba, or since October 1, 1949, in the case of claims against the Chinese Communist regime, for disability or death resulting from actions taken by or under the authority of the Government of Cuba, or the Chinese Communist regime, if such claims are submitted to the Commission within the period established by the Commission under subsection (a), or within six months after the date the claims first arose (as determined by the Commission), whichever date last occurs.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 503, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1110][/us/stat/78/1110]; amended [Pub. L. 89–262, § 2][/us/pl/89/262/s2], Oct. 19, 1965, [79 Stat. 988][/us/stat/79/988]; [Pub. L. 89–780, § 3][/us/pl/89/780/s3], Nov. 6, 1966, [80 Stat. 1365][/us/stat/80/1365].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 503, as added [Pub. L. 88–666][/us/pl/88/666], Oct. 16, 1964, [78 Stat. 1110][/us/stat/78/1110]; amended [Pub. L. 89–262][/us/pl/89/262], § 2, Oct. 19, 1965, [79 Stat. 988][/us/stat/79/988]; [Pub. L. 89–780][/us/pl/89/780], § 3, Nov. 6, 1966, [80 Stat. 1365][/us/stat/80/1365].)
 
  __Amendments__ 
 
-    1966—Subsec. (a). [Pub. L. 89–780, § 3][/us/pl/89/780/s3], empowered the Commission to receive claims against the Chinese Communist regime arising since October 1, 1949, if such claims are submitted within such period of time specified by the Commission by notice published in the Federal Register, which notice is required to be published within 60 days after November 6, 1966.
+    1966—Subsec. (a). [Pub. L. 89–780][/us/pl/89/780], § 3, empowered the Commission to receive claims against the Chinese Communist regime arising since October 1, 1949, if such claims are submitted within such period of time specified by the Commission by notice published in the Federal Register, which notice is required to be published within 60 days after November 6, 1966.
 
-    Subsec. (b). [Pub. L. 89–780, § 3(1)][/us/pl/89/780/s3/1], (2), provided for applicability of subsection to the Chinese Communist regime in the case of claims arising since October 1, 1949.
+    Subsec. (b). [Pub. L. 89–780][/us/pl/89/780], § 3(1), (2), provided for applicability of subsection to the Chinese Communist regime in the case of claims arising since October 1, 1949.
 
     1965—Subsec. (a). [Pub. L. 89–262][/us/pl/89/262] struck out “arising out of debts for merchandise furnished or services rendered by nationals of the United States without regard to the date on which such merchandise was furnished or services rendered or” after “Government of Cuba”.
 
@@ -43,12 +43,12 @@
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/88/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F666
 [/us/stat/78/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1110
-[/us/pl/89/262/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262%2Fs2
+[/us/pl/89/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262
 [/us/stat/79/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F988
-[/us/pl/89/780/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs3
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
 [/us/stat/80/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1365
-[/us/pl/89/780/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs3
-[/us/pl/89/780/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780%2Fs3%2F1
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
+[/us/pl/89/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F780
 [/us/pl/89/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F262
 
 

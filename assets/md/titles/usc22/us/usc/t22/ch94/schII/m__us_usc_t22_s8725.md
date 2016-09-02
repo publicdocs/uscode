@@ -45,7 +45,7 @@
 
         Subsection (c) shall not apply with respect to a transaction described in subsection (b) by an entity owned or controlled by a United States person and established or maintained outside the United States if the United States person divests or terminates its business with the entity not later than the date that is 180 days after August 10, 2012.
 
-([Pub. L. 112–158, title II, § 218][/us/pl/112/158/s218], Aug. 10, 2012, [126 Stat. 1234][/us/stat/126/1234].)
+([Pub. L. 112–158, title II][/us/pl/112/158/tII], § 218, Aug. 10, 2012, [126 Stat. 1234][/us/stat/126/1234].)
 
  __Termination of Section__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705%2Fb
-[/us/pl/112/158/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs218
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1234
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223

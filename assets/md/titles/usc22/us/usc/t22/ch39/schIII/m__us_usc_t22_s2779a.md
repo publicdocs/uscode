@@ -49,7 +49,7 @@
 
                 (ii) owned or controlled in fact by individuals described in subparagraph (A) or by an entity described in clause (i).
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 39A, as added [Pub. L. 103–236, title VII, § 733][/us/pl/103/236/s733], Apr. 30, 1994, [108 Stat. 504][/us/stat/108/504]; amended [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1246, title XIII, § 1303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–502, 1501A–511; [Pub. L. 111–266, title I, § 103(d)][/us/pl/111/266/s103/d], Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 39A, as added [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 733, Apr. 30, 1994, [108 Stat. 504][/us/stat/108/504]; amended [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1246, title XIII, § 1303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–502, 1501A–511; [Pub. L. 111–266, title I][/us/pl/111/266/tI], § 103(d), Oct. 8, 2010, [124 Stat. 2799][/us/stat/124/2799].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
     2010—Subsec. (a). [Pub. L. 111–266][/us/pl/111/266] inserted “or exported pursuant to a treaty referred to in [section 2778(j)(1)(C)(i) of this title][/us/usc/t22/s2778/j/1/C/i]” after “under this chapter”.
 
-    1999—Subsec. (a). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XII, § 1246(a)\], inserted “or licensed” after “sold” and “or export” after “sale”.
+    1999—Subsec. (a). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XII, § 1246(a)\], inserted “or licensed” after “sold” and “or export” after “sale”.
 
-    Subsec. (c). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XIII, § 1303\], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+    Subsec. (c). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XIII, § 1303\], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
-    Subsec. (d)(3)(B)(ii). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[title XII, § 1246(b)\], inserted “or by an entity described in clause (i)” after “subparagraph (A)”.
+    Subsec. (d)(3)(B)(ii). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[title XII, § 1246(b)\], inserted “or by an entity described in clause (i)” after “subparagraph (A)”.
 
  __Delegation of Functions__ 
 
@@ -83,11 +83,11 @@
 [/us/usc/t50/s4614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fa
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/103/236/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs733
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F504
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/111/266/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs103%2Fd
+[/us/pl/111/266/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2FtI
 [/us/stat/124/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2799
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -96,9 +96,9 @@
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s2370a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370a
 
 

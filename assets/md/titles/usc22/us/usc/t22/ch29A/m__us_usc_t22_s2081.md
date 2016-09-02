@@ -23,7 +23,7 @@
 
     (3) by other appropriate means, to promote mutual understanding between the peoples of the Western Hemisphere and to strengthen the ties which unite the United States with other nations of the free world.
 
-([Pub. L. 89–355, § 1][/us/pl/89/355/s1], Feb. 19, 1966, [80 Stat. 5][/us/stat/80/5].)
+([Pub. L. 89–355][/us/pl/89/355], § 1, Feb. 19, 1966, [80 Stat. 5][/us/stat/80/5].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355%2Fs1
+[/us/pl/89/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F355
 [/us/stat/80/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F5
 
 

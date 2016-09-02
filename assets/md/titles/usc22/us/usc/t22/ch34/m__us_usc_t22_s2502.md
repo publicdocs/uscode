@@ -33,7 +33,7 @@
 
         In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
 
-    (e) __, (f) Repealed.__  __[__  __Pub. L. 97–113, title VI, § 601(e)(1)__  __][/us/pl/97/113/s601/e/1]__  __,__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1542__  __][/us/stat/95/1542]__ 
+    (e) __, (f) Repealed.__  __[__  __Pub. L. 97–113, title VI__  __][/us/pl/97/113/tVI]__  __, § 601(e)(1),__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1542__  __][/us/stat/95/1542]__ 
 
     (g) __Redesignated (d)__ 
 
@@ -41,7 +41,7 @@
 
         In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor, the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
 
-([Pub. L. 87–293, title I, § 3][/us/pl/87/293/s3], Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612]; [Pub. L. 87–442][/us/pl/87/442], Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62]; [Pub. L. 88–200, § 1][/us/pl/88/200/s1], Dec. 13, 1963, [77 Stat. 359][/us/stat/77/359]; [Pub. L. 88–285][/us/pl/88/285], Mar. 17, 1964, [78 Stat. 166][/us/stat/78/166]; [Pub. L. 89–134, § 1][/us/pl/89/134/s1], Aug. 24, 1965, [79 Stat. 549][/us/stat/79/549]; [Pub. L. 89–572, § 1][/us/pl/89/572/s1], Sept. 13, 1966, [80 Stat. 764][/us/stat/80/764]; [Pub. L. 90–175][/us/pl/90/175], Dec. 5, 1967, [81 Stat. 542][/us/stat/81/542]; [Pub. L. 90–362][/us/pl/90/362], June 27, 1968, [82 Stat. 250][/us/stat/82/250]; [Pub. L. 91–99, § 1][/us/pl/91/99/s1], Oct. 29, 1969, [83 Stat. 166][/us/stat/83/166]; [Pub. L. 91–352, § 1][/us/pl/91/352/s1], July 24, 1970, [84 Stat. 464][/us/stat/84/464]; [Pub. L. 92–135][/us/pl/92/135], Oct. 8, 1971, [85 Stat. 376][/us/stat/85/376]; [Pub. L. 92–352, title IV, § 401][/us/pl/92/352/s401], July 13, 1972, [86 Stat. 495][/us/stat/86/495]; [Pub. L. 93–49, § 1][/us/pl/93/49/s1], June 25, 1973, [87 Stat. 99][/us/stat/87/99]; [Pub. L. 93–302][/us/pl/93/302], §§ 1, 2, June 1, 1974, [88 Stat. 191][/us/stat/88/191]; [Pub. L. 94–130][/us/pl/94/130], §§ 1–3, Nov. 14, 1975, [89 Stat. 684][/us/stat/89/684]; [Pub. L. 94–281][/us/pl/94/281], §§ 1, 2, May 7, 1976, [90 Stat. 458][/us/stat/90/458]; [Pub. L. 95–102][/us/pl/95/102], §§ 1, 2, Aug. 15, 1977, [91 Stat. 841][/us/stat/91/841]; [Pub. L. 95–331, § 3][/us/pl/95/331/s3], Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414]; [Pub. L. 96–53, title III, § 301][/us/pl/96/53/s301], Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 96–533, title VI, § 601(a)][/us/pl/96/533/s601/a], (b), Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155]; [Pub. L. 97–113, title VI][/us/pl/97/113], §§ 601(e)(1), 602, 603, Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542]; [Pub. L. 99–83, title XI, § 1101][/us/pl/99/83/s1101], Aug. 8, 1985, [99 Stat. 272][/us/stat/99/272]; [Pub. L. 99–399, title XIII, § 1301][/us/pl/99/399/s1301], Aug. 27, 1986, [100 Stat. 897][/us/stat/100/897]; [Pub. L. 102–565, § 1][/us/pl/102/565/s1], Oct. 28, 1992, [106 Stat. 4265][/us/stat/106/4265]; [Pub. L. 106–30, § 1][/us/pl/106/30/s1], May 21, 1999, [113 Stat. 55][/us/stat/113/55].)
+([Pub. L. 87–293, title I][/us/pl/87/293/tI], § 3, Sept. 22, 1961, [75 Stat. 612][/us/stat/75/612]; [Pub. L. 87–442][/us/pl/87/442], Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62]; [Pub. L. 88–200][/us/pl/88/200], § 1, Dec. 13, 1963, [77 Stat. 359][/us/stat/77/359]; [Pub. L. 88–285][/us/pl/88/285], Mar. 17, 1964, [78 Stat. 166][/us/stat/78/166]; [Pub. L. 89–134][/us/pl/89/134], § 1, Aug. 24, 1965, [79 Stat. 549][/us/stat/79/549]; [Pub. L. 89–572][/us/pl/89/572], § 1, Sept. 13, 1966, [80 Stat. 764][/us/stat/80/764]; [Pub. L. 90–175][/us/pl/90/175], Dec. 5, 1967, [81 Stat. 542][/us/stat/81/542]; [Pub. L. 90–362][/us/pl/90/362], June 27, 1968, [82 Stat. 250][/us/stat/82/250]; [Pub. L. 91–99][/us/pl/91/99], § 1, Oct. 29, 1969, [83 Stat. 166][/us/stat/83/166]; [Pub. L. 91–352][/us/pl/91/352], § 1, July 24, 1970, [84 Stat. 464][/us/stat/84/464]; [Pub. L. 92–135][/us/pl/92/135], Oct. 8, 1971, [85 Stat. 376][/us/stat/85/376]; [Pub. L. 92–352, title IV][/us/pl/92/352/tIV], § 401, July 13, 1972, [86 Stat. 495][/us/stat/86/495]; [Pub. L. 93–49][/us/pl/93/49], § 1, June 25, 1973, [87 Stat. 99][/us/stat/87/99]; [Pub. L. 93–302][/us/pl/93/302], §§ 1, 2, June 1, 1974, [88 Stat. 191][/us/stat/88/191]; [Pub. L. 94–130][/us/pl/94/130], §§ 1–3, Nov. 14, 1975, [89 Stat. 684][/us/stat/89/684]; [Pub. L. 94–281][/us/pl/94/281], §§ 1, 2, May 7, 1976, [90 Stat. 458][/us/stat/90/458]; [Pub. L. 95–102][/us/pl/95/102], §§ 1, 2, Aug. 15, 1977, [91 Stat. 841][/us/stat/91/841]; [Pub. L. 95–331][/us/pl/95/331], § 3, Aug. 2, 1978, [92 Stat. 414][/us/stat/92/414]; [Pub. L. 96–53, title III][/us/pl/96/53/tIII], § 301, Aug. 14, 1979, [93 Stat. 370][/us/stat/93/370]; [Pub. L. 96–533, title VI][/us/pl/96/533/tVI], § 601(a), (b), Dec. 16, 1980, [94 Stat. 3155][/us/stat/94/3155]; [Pub. L. 97–113, title VI][/us/pl/97/113/tVI], §§ 601(e)(1), 602, 603, Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542]; [Pub. L. 99–83, title XI][/us/pl/99/83/tXI], § 1101, Aug. 8, 1985, [99 Stat. 272][/us/stat/99/272]; [Pub. L. 99–399, title XIII][/us/pl/99/399/tXIII], § 1301, Aug. 27, 1986, [100 Stat. 897][/us/stat/100/897]; [Pub. L. 102–565][/us/pl/102/565], § 1, Oct. 28, 1992, [106 Stat. 4265][/us/stat/106/4265]; [Pub. L. 106–30][/us/pl/106/30], § 1, May 21, 1999, [113 Stat. 55][/us/stat/113/55].)
 
  __References in Text__ 
 
@@ -57,51 +57,51 @@
 
     1985—Subsec. (b). [Pub. L. 99–83][/us/pl/99/83] substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
-    1981—Subsec. (b). [Pub. L. 97–113, § 602(a)][/us/pl/97/113/s602/a], substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
+    1981—Subsec. (b). [Pub. L. 97–113][/us/pl/97/113], § 602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
 
-    Subsec. (c). [Pub. L. 97–113, § 602(b)][/us/pl/97/113/s602/b], substituted “each fiscal year” for “fiscal year 1981”.
+    Subsec. (c). [Pub. L. 97–113][/us/pl/97/113], § 602(b), substituted “each fiscal year” for “fiscal year 1981”.
 
-    Subsec. (d). [Pub. L. 97–113, § 601(e)(1)][/us/pl/97/113/s601/e/1], redesignated subsec. (g) as (d) and struck out former subsec. (d) which provided for rectification of imbalance in readjustment allowance for the period Mar. 1, 1961, to Feb. 28, 1973.
+    Subsec. (d). [Pub. L. 97–113][/us/pl/97/113], § 601(e)(1), redesignated subsec. (g) as (d) and struck out former subsec. (d) which provided for rectification of imbalance in readjustment allowance for the period Mar. 1, 1961, to Feb. 28, 1973.
 
-    Subsec. (e). [Pub. L. 97–113, § 601(e)(1)][/us/pl/97/113/s601/e/1], struck out subsec. (e) which related to waiver of claims resulting from erroneous payments to volunteers who terminated their volunteer service between Mar. 1, 1961, and Feb. 28, 1973.
+    Subsec. (e). [Pub. L. 97–113][/us/pl/97/113], § 601(e)(1), struck out subsec. (e) which related to waiver of claims resulting from erroneous payments to volunteers who terminated their volunteer service between Mar. 1, 1961, and Feb. 28, 1973.
 
-    Subsec. (f). [Pub. L. 97–113, § 601(e)(1)][/us/pl/97/113/s601/e/1], struck out subsec. (f) which related to relief from liability for improper payment of readjustment allowances made to volunteers between Mar. 1, 1961, and Feb. 28, 1973.
+    Subsec. (f). [Pub. L. 97–113][/us/pl/97/113], § 601(e)(1), struck out subsec. (f) which related to relief from liability for improper payment of readjustment allowances made to volunteers between Mar. 1, 1961, and Feb. 28, 1973.
 
-    Subsec. (g). [Pub. L. 97–113, § 601(e)(1)][/us/pl/97/113/s601/e/1], redesignated subsec. (g) as (d).
+    Subsec. (g). [Pub. L. 97–113][/us/pl/97/113], § 601(e)(1), redesignated subsec. (g) as (d).
 
-    Subsec. (h). [Pub. L. 97–113, § 603][/us/pl/97/113/s603], added subsec. (h).
+    Subsec. (h). [Pub. L. 97–113][/us/pl/97/113], § 603, added subsec. (h).
 
-    1980—Subsec. (b). [Pub. L. 96–533, § 601(a)][/us/pl/96/533/s601/a], substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
+    1980—Subsec. (b). [Pub. L. 96–533][/us/pl/96/533], § 601(a), substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
 
-    Subsec. (c). [Pub. L. 96–533, § 601(b)][/us/pl/96/533/s601/b], substituted “1981” for “1980”.
+    Subsec. (c). [Pub. L. 96–533][/us/pl/96/533], § 601(b), substituted “1981” for “1980”.
 
-    1979—Subsec. (b). [Pub. L. 96–53, § 301(1)][/us/pl/96/53/s301/1], substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
+    1979—Subsec. (b). [Pub. L. 96–53][/us/pl/96/53], § 301(1), substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
 
-    Subsec. (c). [Pub. L. 96–53, § 301(2)][/us/pl/96/53/s301/2], substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
+    Subsec. (c). [Pub. L. 96–53][/us/pl/96/53], § 301(2), substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
 
-    1978—Subsec. (b). [Pub. L. 95–331, § 3(1)][/us/pl/95/331/s3/1], substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
+    1978—Subsec. (b). [Pub. L. 95–331][/us/pl/95/331], § 3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
-    Subsec. (c). [Pub. L. 95–331, § 3(2)][/us/pl/95/331/s3/2], inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
+    Subsec. (c). [Pub. L. 95–331][/us/pl/95/331], § 3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
-    Subsec. (g). [Pub. L. 95–331, § 3(3)][/us/pl/95/331/s3/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 95–331][/us/pl/95/331], § 3(3), added subsec. (g).
 
-    1977—Subsec. (b). [Pub. L. 95–102, § 1][/us/pl/95/102/s1], substituted provisions authorizing appropriations for fiscal year 1978 not to exceed $82,900,000 for provisions authorizing appropriations for fiscal year 1976 not to exceed $88,468,000, for the period July 1, 1976, through Sept. 30, 1976, not to exceed $27,887,800, for fiscal year 1977 not to exceed $81,000,000.
+    1977—Subsec. (b). [Pub. L. 95–102][/us/pl/95/102], § 1, substituted provisions authorizing appropriations for fiscal year 1978 not to exceed $82,900,000 for provisions authorizing appropriations for fiscal year 1976 not to exceed $88,468,000, for the period July 1, 1976, through Sept. 30, 1976, not to exceed $27,887,800, for fiscal year 1977 not to exceed $81,000,000.
 
-    Subsec. (c). [Pub. L. 95–102, § 2][/us/pl/95/102/s2], substituted provisions authorizing additional appropriations for fiscal year 1978 of $1,000,000 for increases in salary, pay, etc., for provisions authorizing additional appropriations for fiscal year 1976 and the period July 1, 1976, through Sept. 30, 1976, not in excess of $1,000,000, and for fiscal year 1977 such sums as may be necessary for increases in salary, pay, etc.
+    Subsec. (c). [Pub. L. 95–102][/us/pl/95/102], § 2, substituted provisions authorizing additional appropriations for fiscal year 1978 of $1,000,000 for increases in salary, pay, etc., for provisions authorizing additional appropriations for fiscal year 1976 and the period July 1, 1976, through Sept. 30, 1976, not in excess of $1,000,000, and for fiscal year 1977 such sums as may be necessary for increases in salary, pay, etc.
 
-    1976—Subsec. (b). [Pub. L. 94–281, § 1][/us/pl/94/281/s1], authorized appropriation of not to exceed $81,000,000 for fiscal year 1977.
+    1976—Subsec. (b). [Pub. L. 94–281][/us/pl/94/281], § 1, authorized appropriation of not to exceed $81,000,000 for fiscal year 1977.
 
-    Subsec. (c). [Pub. L. 94–281, § 2][/us/pl/94/281/s2], inserted provisions relating to fiscal year 1977 and authorization of such sums as may be necessary for such year.
+    Subsec. (c). [Pub. L. 94–281][/us/pl/94/281], § 2, inserted provisions relating to fiscal year 1977 and authorization of such sums as may be necessary for such year.
 
-    1975—Subsec. (b). [Pub. L. 94–130, § 1][/us/pl/94/130/s1], authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
+    1975—Subsec. (b). [Pub. L. 94–130][/us/pl/94/130], § 1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
 
-    Subsec. (c). [Pub. L. 94–130, § 2][/us/pl/94/130/s2], authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
+    Subsec. (c). [Pub. L. 94–130][/us/pl/94/130], § 2, authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
 
-    Subsec. (d). [Pub. L. 94–130, § 3][/us/pl/94/130/s3], substituted “shall transfer”, “no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976” for “is authorized to transfer” and “from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000”.
+    Subsec. (d). [Pub. L. 94–130][/us/pl/94/130], § 3, substituted “shall transfer”, “no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976” for “is authorized to transfer” and “from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000”.
 
-    1974—Subsec. (b). [Pub. L. 93–302, § 1][/us/pl/93/302/s1], substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
+    1974—Subsec. (b). [Pub. L. 93–302][/us/pl/93/302], § 1, substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
 
-    Subsecs. (c) to (f). [Pub. L. 93–302, § 2][/us/pl/93/302/s2], added subsecs. (c) to (f).
+    Subsecs. (c) to (f). [Pub. L. 93–302][/us/pl/93/302], § 2, added subsecs. (c) to (f).
 
     1973—Subsec. (b). [Pub. L. 93–49][/us/pl/93/49] substituted “1974” for “1973” and “$77,001,000” for “$88,027,000”.
 
@@ -137,7 +137,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–102, § 3][/us/pl/95/102/s3], Aug. 15, 1977, [91 Stat. 841][/us/stat/91/841], provided that: 
+[Pub. L. 95–102][/us/pl/95/102], § 3, Aug. 15, 1977, [91 Stat. 841][/us/stat/91/841], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on October 1, 1977.”
 
@@ -147,13 +147,13 @@
 
  __Applicability of__  __[__  __Pub. L. 97–113__  __][/us/pl/97/113]__  __to Actions Prior to__  __December 29, 1981__ 
 
-[Pub. L. 97–113, title VI, § 601(e)(2)][/us/pl/97/113/s601/e/2], Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542], provided that: 
+[Pub. L. 97–113, title VI][/us/pl/97/113/tVI], § 601(e)(2), Dec. 29, 1981, [95 Stat. 1542][/us/stat/95/1542], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act.”
 
  __Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available__ 
 
-[Pub. L. 94–281, § 3][/us/pl/94/281/s3], May 7, 1976, [90 Stat. 458][/us/stat/90/458], provided that: 
+[Pub. L. 94–281][/us/pl/94/281], § 3, May 7, 1976, [90 Stat. 458][/us/stat/90/458], provided that: 
 
 > “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under [section 2501 of this title][/us/usc/t22/s2501]\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
 
@@ -164,33 +164,33 @@
 ----------
 ----------
 
-[/us/pl/97/113/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fe%2F1
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1542
-[/us/pl/87/293/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs3
+[/us/pl/87/293/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtI
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
 [/us/pl/87/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F442
 [/us/stat/76/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F62
-[/us/pl/88/200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200%2Fs1
+[/us/pl/88/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F200
 [/us/stat/77/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F359
 [/us/pl/88/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F285
 [/us/stat/78/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F166
-[/us/pl/89/134/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134%2Fs1
+[/us/pl/89/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F134
 [/us/stat/79/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F549
-[/us/pl/89/572/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs1
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F764
 [/us/pl/90/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F175
 [/us/stat/81/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F542
 [/us/pl/90/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F362
 [/us/stat/82/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F250
-[/us/pl/91/99/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F99%2Fs1
+[/us/pl/91/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F99
 [/us/stat/83/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F166
-[/us/pl/91/352/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352%2Fs1
+[/us/pl/91/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F352
 [/us/stat/84/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F464
 [/us/pl/92/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F135
 [/us/stat/85/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F376
-[/us/pl/92/352/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2Fs401
+[/us/pl/92/352/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352%2FtIV
 [/us/stat/86/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F495
-[/us/pl/93/49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F49%2Fs1
+[/us/pl/93/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F49
 [/us/stat/87/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F99
 [/us/pl/93/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F302
 [/us/stat/88/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F191
@@ -200,21 +200,21 @@
 [/us/stat/90/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F458
 [/us/pl/95/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102
 [/us/stat/91/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F841
-[/us/pl/95/331/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs3
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
 [/us/stat/92/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F414
-[/us/pl/96/53/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs301
+[/us/pl/96/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtIII
 [/us/stat/93/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F370
-[/us/pl/96/533/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs601%2Fa
+[/us/pl/96/533/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtVI
 [/us/stat/94/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3155
-[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1542
-[/us/pl/99/83/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1101
+[/us/pl/99/83/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXI
 [/us/stat/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F272
-[/us/pl/99/399/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1301
+[/us/pl/99/399/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtXIII
 [/us/stat/100/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F897
-[/us/pl/102/565/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565%2Fs1
+[/us/pl/102/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565
 [/us/stat/106/4265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4265
-[/us/pl/106/30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30%2Fs1
+[/us/pl/106/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F30
 [/us/stat/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F55
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/stat/75/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F612
@@ -223,29 +223,29 @@
 [/us/pl/102/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F565
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
-[/us/pl/97/113/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs602%2Fa
-[/us/pl/97/113/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs602%2Fb
-[/us/pl/97/113/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fe%2F1
-[/us/pl/97/113/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fe%2F1
-[/us/pl/97/113/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fe%2F1
-[/us/pl/97/113/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fe%2F1
-[/us/pl/97/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs603
-[/us/pl/96/533/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs601%2Fa
-[/us/pl/96/533/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs601%2Fb
-[/us/pl/96/53/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs301%2F1
-[/us/pl/96/53/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs301%2F2
-[/us/pl/95/331/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs3%2F1
-[/us/pl/95/331/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs3%2F2
-[/us/pl/95/331/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331%2Fs3%2F3
-[/us/pl/95/102/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102%2Fs1
-[/us/pl/95/102/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102%2Fs2
-[/us/pl/94/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F281%2Fs1
-[/us/pl/94/281/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F281%2Fs2
-[/us/pl/94/130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130%2Fs1
-[/us/pl/94/130/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130%2Fs2
-[/us/pl/94/130/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130%2Fs3
-[/us/pl/93/302/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F302%2Fs1
-[/us/pl/93/302/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F302%2Fs2
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
+[/us/pl/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F331
+[/us/pl/95/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102
+[/us/pl/95/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102
+[/us/pl/94/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F281
+[/us/pl/94/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F281
+[/us/pl/94/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130
+[/us/pl/94/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130
+[/us/pl/94/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F130
+[/us/pl/93/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F302
+[/us/pl/93/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F302
 [/us/pl/93/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F49
 [/us/pl/92/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352
 [/us/pl/92/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F135
@@ -264,13 +264,13 @@
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
 [/us/pl/96/53/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs512%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/102/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102%2Fs3
+[/us/pl/95/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F102
 [/us/stat/91/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F841
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
-[/us/pl/97/113/s601/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs601%2Fe%2F2
+[/us/pl/97/113/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVI
 [/us/stat/95/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1542
-[/us/pl/94/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F281%2Fs3
+[/us/pl/94/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F281
 [/us/stat/90/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F458
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 

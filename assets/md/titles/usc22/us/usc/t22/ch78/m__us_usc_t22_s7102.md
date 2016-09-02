@@ -115,7 +115,7 @@
 
         The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (9) or (10).
 
-([Pub. L. 106–386, div. A, § 103][/us/pl/106/386/s103], Oct. 28, 2000, [114 Stat. 1469][/us/stat/114/1469]; [Pub. L. 108–193, § 8(b)(1)][/us/pl/108/193/s8/b/1], Dec. 19, 2003, [117 Stat. 2887][/us/stat/117/2887]; [Pub. L. 110–457, title III, § 304(a)][/us/pl/110/457/s304/a], Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII, § 1212(b)(1)][/us/pl/113/4/s1212/b/1], Mar. 7, 2013, [127 Stat. 143][/us/stat/127/143]; [Pub. L. 114–22, title I, § 108(b)][/us/pl/114/22/s108/b], May 29, 2015, [129 Stat. 239][/us/stat/129/239].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 103, Oct. 28, 2000, [114 Stat. 1469][/us/stat/114/1469]; [Pub. L. 108–193][/us/pl/108/193], § 8(b)(1), Dec. 19, 2003, [117 Stat. 2887][/us/stat/117/2887]; [Pub. L. 110–457, title III][/us/pl/110/457/tIII], § 304(a), Dec. 23, 2008, [122 Stat. 5087][/us/stat/122/5087]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1212(b)(1), Mar. 7, 2013, [127 Stat. 143][/us/stat/127/143]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 108(b), May 29, 2015, [129 Stat. 239][/us/stat/129/239].)
 
  __References in Text__ 
 
@@ -158,15 +158,15 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t22/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7103
-[/us/pl/106/386/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs103
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1469
-[/us/pl/108/193/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs8%2Fb%2F1
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2887
-[/us/pl/110/457/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs304%2Fa
+[/us/pl/110/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIII
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
-[/us/pl/113/4/s1212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1212%2Fb%2F1
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F143
-[/us/pl/114/22/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fb
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F239
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466

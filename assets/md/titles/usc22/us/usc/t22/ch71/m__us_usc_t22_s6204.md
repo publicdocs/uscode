@@ -77,7 +77,7 @@
 
         The Secretary of State and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and the grantees of the Board.
 
-([Pub. L. 103–236, title III, § 305][/us/pl/103/236/s305], Apr. 30, 1994, [108 Stat. 435][/us/stat/108/435]; [Pub. L. 103–415, § 1(s)(1)][/us/pl/103/415/s1/s/1], Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1323(e)–(i), Oct. 21, 1998, [112 Stat. 2681–778][/us/stat/112/2681-778], 2681–779; [Pub. L. 107–228, div. A, title V, § 507(1)][/us/pl/107/228/s507/1], Sept. 30, 2002, [116 Stat. 1394][/us/stat/116/1394]; [Pub. L. 109–140, § 8][/us/pl/109/140/s8], Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 305, Apr. 30, 1994, [108 Stat. 435][/us/stat/108/435]; [Pub. L. 103–415][/us/pl/103/415], § 1(s)(1), Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1323(e)–(i), Oct. 21, 1998, [112 Stat. 2681–778][/us/stat/112/2681-778], 2681–779; [Pub. L. 107–228, div. A, title V][/us/pl/107/228/dA/tV], § 507(1), Sept. 30, 2002, [116 Stat. 1394][/us/stat/116/1394]; [Pub. L. 109–140][/us/pl/109/140], § 8, Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
     The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is [act Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], [62 Stat. 6][/us/stat/62/6], as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title][/us/usc/t22/s1431] and Tables.
 
-    Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under [section 1461 of this title][/us/usc/t22/s1461], was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
+    Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under [section 1461 of this title][/us/usc/t22/s1461], was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
 
     For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to in subsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of [Pub. L. 105–277][/us/pl/105/277], see [section 1301 of Pub. L. 105–277][/us/pl/105/277/s1301], set out as a note under [section 6531 of this title][/us/usc/t22/s6531].
 
@@ -103,27 +103,27 @@
 
     2002—Subsec. (a)(4). [Pub. L. 107–228][/us/pl/107/228] substituted “annually,” for “annually,,”.
 
-    1998—Subsec. (a)(1). [Pub. L. 105–277, § 1323(e)(1)][/us/pl/105/277/s1323/e/1], struck out “direct and” after “To” and substituted “, the Television Broadcasting to Cuba Act, and Worldnet Television, except as provided in [section 6205(b) of this title][/us/usc/t22/s6205/b]” for “and the Television Broadcasting to Cuba Act”.
+    1998—Subsec. (a)(1). [Pub. L. 105–277][/us/pl/105/277], § 1323(e)(1), struck out “direct and” after “To” and substituted “, the Television Broadcasting to Cuba Act, and Worldnet Television, except as provided in [section 6205(b) of this title][/us/usc/t22/s6205/b]” for “and the Television Broadcasting to Cuba Act”.
 
-    Subsec. (a)(4). [Pub. L. 105–277, § 1323(e)(2)][/us/pl/105/277/s1323/e/2], inserted “, after consultation with the Secretary of State,” after “annually,”.
+    Subsec. (a)(4). [Pub. L. 105–277][/us/pl/105/277], § 1323(e)(2), inserted “, after consultation with the Secretary of State,” after “annually,”.
 
-    Subsec. (a)(9). [Pub. L. 105–277, § 1323(e)(3)][/us/pl/105/277/s1323/e/3], struck out “, through the Director of the United States Information Agency,” after “the Congress” and inserted at end “Each annual report shall place special emphasis on the assessment described in paragraph (2).”
+    Subsec. (a)(9). [Pub. L. 105–277][/us/pl/105/277], § 1323(e)(3), struck out “, through the Director of the United States Information Agency,” after “the Congress” and inserted at end “Each annual report shall place special emphasis on the assessment described in paragraph (2).”
 
-    Subsec. (a)(12). [Pub. L. 105–277, § 1323(e)(4)][/us/pl/105/277/s1323/e/4], substituted “1998 and 1999” for “1994 and 1995” and “to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997” for “to the Board for International Broadcasting for such purposes for fiscal year 1993”.
+    Subsec. (a)(12). [Pub. L. 105–277][/us/pl/105/277], § 1323(e)(4), substituted “1998 and 1999” for “1994 and 1995” and “to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997” for “to the Board for International Broadcasting for such purposes for fiscal year 1993”.
 
-    Subsec. (a)(15) to (18). [Pub. L. 105–277, § 1323(e)(5)][/us/pl/105/277/s1323/e/5], added pars. (15) to (18).
+    Subsec. (a)(15) to (18). [Pub. L. 105–277][/us/pl/105/277], § 1323(e)(5), added pars. (15) to (18).
 
-    Subsec. (b). [Pub. L. 105–277, § 1323(f)][/us/pl/105/277/s1323/f], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 1323(f), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 105–277, § 1323(g)][/us/pl/105/277/s1323/g], (h), struck out “(1)” before “The Director”, struck out “the Director of the United States Information Agency for the consideration of the Director as a part of the Agency’s budget submission to” before “the Office of Management and Budget”, and struck out par. (2) which read as follows: “The Director of the United States Information Agency shall include in the Agency’s submission to the Office of Management and Budget the comments and recommendations of the Board concerning the proposed broadcasting budget.”
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 1323(g), (h), struck out “(1)” before “The Director”, struck out “the Director of the United States Information Agency for the consideration of the Director as a part of the Agency’s budget submission to” before “the Office of Management and Budget”, and struck out par. (2) which read as follows: “The Director of the United States Information Agency shall include in the Agency’s submission to the Office of Management and Budget the comments and recommendations of the Board concerning the proposed broadcasting budget.”
 
-    [Pub. L. 105–277, § 1323(f)(1)][/us/pl/105/277/s1323/f/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 105–277][/us/pl/105/277], § 1323(f)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 105–277, § 1323(i)][/us/pl/105/277/s1323/i], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees.”
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1323(i), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees.”
 
-    [Pub. L. 105–277, § 1323(f)(1)][/us/pl/105/277/s1323/f/1], redesignated subsec. (c) as (d).
+    [Pub. L. 105–277][/us/pl/105/277], § 1323(f)(1), redesignated subsec. (c) as (d).
 
-    [Pub. L. 105–277, § 1323(f)(1)][/us/pl/105/277/s1323/f/1], redesignated subsec. (d) as (e). See Codification note above.
+    [Pub. L. 105–277][/us/pl/105/277], § 1323(f)(1), redesignated subsec. (d) as (e). See Codification note above.
 
     1994—Subsec. (a)(14). [Pub. L. 103–415][/us/pl/103/415] substituted “relay of Radio” for “relay to Radio”.
 
@@ -133,7 +133,7 @@
 
  __Expansion of Farsi Language Programming__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1262][/us/pl/111/84/s1262], Oct. 28, 2009, [123 Stat. 2553][/us/stat/123/2553], provided that:
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1262, Oct. 28, 2009, [123 Stat. 2553][/us/stat/123/2553], provided that:
 
 >     “(a)  __International Broadcasting Operations Fund__  __.—__ 
 
@@ -161,7 +161,7 @@
 
  __Iranian Electronic Education, Exchange, and Media Fund__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1263][/us/pl/111/84/s1263], Oct. 28, 2009, [123 Stat. 2553][/us/stat/123/2553], provided that:
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1263, Oct. 28, 2009, [123 Stat. 2553][/us/stat/123/2553], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -217,13 +217,13 @@
 
  __Buying Power Maintenance Account__ 
 
-[Pub. L. 110–252, title I, § 1408(c)][/us/pl/110/252/s1408/c], June 30, 2008, [122 Stat. 2342][/us/stat/122/2342], provided that: 
+[Pub. L. 110–252, title I][/us/pl/110/252/tI], § 1408(c), June 30, 2008, [122 Stat. 2342][/us/stat/122/2342], provided that: 
 
 > “The Broadcasting Board of Governors may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.”
 
  __Pilot Project for Transcription of Certain Programming Into English__ 
 
-[Pub. L. 110–53, title XX, § 2032][/us/pl/110/53/s2032], Aug. 3, 2007, [121 Stat. 516][/us/stat/121/516], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2032, Aug. 3, 2007, [121 Stat. 516][/us/stat/121/516], provided that:
 
 >     “(a)  __Transcription of Persian and Arabic Language Broadcasts__  __.—__ 
 
@@ -261,15 +261,15 @@
 [/us/usc/t22/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431
 [/us/usc/t22/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465
 [/us/usc/t22/s1465aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465aa
-[/us/pl/103/236/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs305
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F435
-[/us/pl/103/415/s1/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fs%2F1
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4302
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-778
-[/us/pl/107/228/s507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs507%2F1
+[/us/pl/107/228/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtV
 [/us/stat/116/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1394
-[/us/pl/109/140/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs8
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2652
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
@@ -284,7 +284,7 @@
 [/us/stat/62/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F6
 [/us/usc/t22/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
@@ -293,29 +293,29 @@
 [/us/pl/103/236/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs305
 [/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/105/277/s1323/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fe%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s6205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6205%2Fb
-[/us/pl/105/277/s1323/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fe%2F2
-[/us/pl/105/277/s1323/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fe%2F3
-[/us/pl/105/277/s1323/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fe%2F4
-[/us/pl/105/277/s1323/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fe%2F5
-[/us/pl/105/277/s1323/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Ff
-[/us/pl/105/277/s1323/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fg
-[/us/pl/105/277/s1323/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Ff%2F1
-[/us/pl/105/277/s1323/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Fi
-[/us/pl/105/277/s1323/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Ff%2F1
-[/us/pl/105/277/s1323/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323%2Ff%2F1
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531
-[/us/pl/111/84/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1262
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2553
-[/us/pl/111/84/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1263
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2553
-[/us/pl/110/252/s1408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1408%2Fc
+[/us/pl/110/252/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtI
 [/us/stat/122/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2342
-[/us/pl/110/53/s2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2032
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F516
 
 

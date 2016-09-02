@@ -53,7 +53,7 @@
 
         To the maximum extent practicable, assistance authorized under this subchapter should be provided directly to the Government of Afghanistan (including any appropriate ministry thereof).
 
-([Pub. L. 107–327, title I, § 106][/us/pl/107/327/s106], Dec. 4, 2002, [116 Stat. 2805][/us/stat/116/2805].)
+([Pub. L. 107–327, title I][/us/pl/107/327/tI], § 106, Dec. 4, 2002, [116 Stat. 2805][/us/stat/116/2805].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t22/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2351
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/107/327/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2Fs106
+[/us/pl/107/327/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F327%2FtI
 [/us/stat/116/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2805
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

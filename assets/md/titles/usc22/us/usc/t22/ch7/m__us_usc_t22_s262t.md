@@ -23,7 +23,7 @@
 
         The Secretary of the Treasury shall consult with the Chairman and the ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate before any discussion or recommendations by any official of the United States Government concerning the placement or removal of any principal officer of any international financial institutions.
 
-([Pub. L. 95–118, title XIX, § 1901][/us/pl/95/118/s1901], as added [Pub. L. 101–240, title V, § 541(a)][/us/pl/101/240/s541/a], Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517].)
+([Pub. L. 95–118, title XIX][/us/pl/95/118/tXIX], § 1901, as added [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(a), Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517].)
 
  __Change of Name__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1901
-[/us/pl/101/240/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fa
+[/us/pl/95/118/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIX
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2517
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

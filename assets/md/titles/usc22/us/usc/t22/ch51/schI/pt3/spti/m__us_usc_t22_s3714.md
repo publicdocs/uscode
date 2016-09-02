@@ -35,7 +35,7 @@
 
         The Commission shall report to the Congress and to the Office of Management and Budget on each exercise of borrowing authority under this section.
 
-([Pub. L. 96–70, title I, § 1304][/us/pl/96/70/s1304], as added [Pub. L. 100–203, title V, § 5424(a)][/us/pl/100/203/s5424/a], Dec. 22, 1987, [101 Stat. 1330–273][/us/stat/101/1330-273].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1304, as added [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5424(a), Dec. 22, 1987, [101 Stat. 1330–273][/us/stat/101/1330-273].)
 
  __Effective Date__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1304
-[/us/pl/100/203/s5424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5424%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-273
 [/us/pl/100/203/s5429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5429
 [/us/usc/t22/s3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3712

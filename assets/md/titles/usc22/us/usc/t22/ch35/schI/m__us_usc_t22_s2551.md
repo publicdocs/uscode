@@ -27,19 +27,19 @@
 
     (4) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
 
-([Pub. L. 87–297, title I, § 102][/us/pl/87/297/s102], formerly § 2, Sept. 26, 1961, [75 Stat. 631][/us/stat/75/631]; [Pub. L. 94–141, title I, § 144][/us/pl/94/141/s144], Nov. 29, 1975, [89 Stat. 758][/us/stat/89/758]; [Pub. L. 103–236, title VII][/us/pl/103/236], §§ 703, 719(a), Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491], 501; renumbered § 102 and amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(1), (21), Oct. 21, 1998, [112 Stat. 2681–768][/us/stat/112/2681-768], 2681–772.)
+([Pub. L. 87–297, title I][/us/pl/87/297/tI], § 102, formerly § 2, Sept. 26, 1961, [75 Stat. 631][/us/stat/75/631]; [Pub. L. 94–141, title I][/us/pl/94/141/tI], § 144, Nov. 29, 1975, [89 Stat. 758][/us/stat/89/758]; [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], §§ 703, 719(a), Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491], 501; renumbered § 102 and amended [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1223(1), (21), Oct. 21, 1998, [112 Stat. 2681–768][/us/stat/112/2681-768], 2681–772.)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–277, § 1223(1)(A)][/us/pl/105/277/s1223/1/A], in first undesignated par., substituted “addressing” for “creating a new agency of peace to deal with”.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 1223(1)(A), in first undesignated par., substituted “addressing” for “creating a new agency of peace to deal with”.
 
-    [Pub. L. 105–277, § 1223(1)(B)][/us/pl/105/277/s1223/1/B], struck out second undesignated par. which read as follows: “Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy.”
+    [Pub. L. 105–277][/us/pl/105/277], § 1223(1)(B), struck out second undesignated par. which read as follows: “Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy.”
 
-    [Pub. L. 105–277, § 1223(1)(C)][/us/pl/105/277/s1223/1/C], in last undesignated par., in introductory provisions, substituted “The Secretary of State” for “This organization”, substituted “The Secretary shall have” for “It shall have”, and struck out “and the Secretary of State” after “the President”, in subpar. (1) inserted “, nonproliferation,” after “arms control”, redesignated subpar. (3) as (2) and struck out former subpar. (2) which read as follows: “When directed by the President, the preparation for, and management of, United States participation in international negotiations and implementation fora in the nonproliferation field.”, redesignated subpar. (4) as (3) and struck out “, as appropriate,” before “direction of”, and redesignated subpar. (5) as (4).
+    [Pub. L. 105–277][/us/pl/105/277], § 1223(1)(C), in last undesignated par., in introductory provisions, substituted “The Secretary of State” for “This organization”, substituted “The Secretary shall have” for “It shall have”, and struck out “and the Secretary of State” after “the President”, in subpar. (1) inserted “, nonproliferation,” after “arms control”, redesignated subpar. (3) as (2) and struck out former subpar. (2) which read as follows: “When directed by the President, the preparation for, and management of, United States participation in international negotiations and implementation fora in the nonproliferation field.”, redesignated subpar. (4) as (3) and struck out “, as appropriate,” before “direction of”, and redesignated subpar. (5) as (4).
 
-    1994—[Pub. L. 103–236, § 719(a)][/us/pl/103/236/s719/a], inserted “, nonproliferation,” after “Arms control” in second undesignated par. and after “arms control” wherever appearing in second and third undesignated pars.
+    1994—[Pub. L. 103–236][/us/pl/103/236], § 719(a), inserted “, nonproliferation,” after “Arms control” in second undesignated par. and after “arms control” wherever appearing in second and third undesignated pars.
 
-    [Pub. L. 103–236, § 703][/us/pl/103/236/s703], substituted subpars. (1) to (5) for former subpars. (a) to (d) which read as follows:
+    [Pub. L. 103–236][/us/pl/103/236], § 703, substituted subpars. (1) to (5) for former subpars. (a) to (d) which read as follows:
 
     “(a) The conduct, support, and coordination of research for arms control and disarmament policy formulation;
 
@@ -57,49 +57,49 @@
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1101\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–485, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XI, § 1101\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–485, provided that: 
 
 > “This title \[enacting sections 2652c and 2797b–2 of this title and [section 1526 of Title 50][/us/usc/t50/s1526], War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and [section 7704 of Title 42][/us/usc/t42/s7704], The Public Health and Welfare, and amending provisions set out as a note under [section 2155 of Title 42][/us/usc/t42/s2155]\] may be cited as the ‘Arms Control and Nonproliferation Act of 1999’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–236, title VII, § 701(a)][/us/pl/103/236/s701/a], Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491], provided that: 
+[Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 701(a), Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491], provided that: 
 
 > “This part \[part A (§§ 701–719) of title VII of [Pub. L. 103–236][/us/pl/103/236], enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 2139a of Title 42][/us/usc/t42/s2139a], The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–216, § 1][/us/pl/101/216/s1], Dec. 11, 1989, [103 Stat. 1853][/us/stat/103/1853], provided that: 
+[Pub. L. 101–216][/us/pl/101/216], § 1, Dec. 11, 1989, [103 Stat. 1853][/us/stat/103/1853], provided that: 
 
 > “This Act \[enacting sections 2577a and 2595 to 2595c of this title, amending sections 2563, 2567, 2588, and 2589 of this title, and enacting provisions set out as notes under sections 2565 and 2567 of this title\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1989’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–213, § 1][/us/pl/100/213/s1], Dec. 24, 1987, [101 Stat. 1444][/us/stat/101/1444], provided that: 
+[Pub. L. 100–213][/us/pl/100/213], § 1, Dec. 24, 1987, [101 Stat. 1444][/us/stat/101/1444], provided that: 
 
 > “This Act \[enacting sections 2578, 2579, and 2593 of this title, amending sections 2589 and 2592 of this title, and enacting provisions set out as a note under [section 2578 of this title][/us/usc/t22/s2578]\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1987’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–339, § 1][/us/pl/97/339/s1], Oct. 15, 1982, [96 Stat. 1635][/us/stat/96/1635], provided: 
+[Pub. L. 97–339][/us/pl/97/339], § 1, Oct. 15, 1982, [96 Stat. 1635][/us/stat/96/1635], provided: 
 
 > “That this Act \[amending sections 2571, 2585, and 2589 of this title\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1982’.”
 
  __Short Title of 1977 Amendment__ 
 
-[Pub. L. 95–108, § 1][/us/pl/95/108/s1], Aug. 17, 1977, [91 Stat. 871][/us/stat/91/871], provided that: 
+[Pub. L. 95–108][/us/pl/95/108], § 1, Aug. 17, 1977, [91 Stat. 871][/us/stat/91/871], provided that: 
 
 > “This Act \[enacting sections 2567 and 2577 of this title and amending sections 2571, 2581, and 2589 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees\] may be cited as the ‘Arms Control and Disarmament Act Amendments of 1977’.”
 
  __Short Title__ 
 
-[Pub. L. 87–297, title I, § 101][/us/pl/87/297/s101], formerly § 1, Sept. 26, 1961, [75 Stat. 631][/us/stat/75/631], as renumbered § 101 by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(21), Oct. 21, 1998, [112 Stat. 2681–772][/us/stat/112/2681-772], provided that: 
+[Pub. L. 87–297, title I][/us/pl/87/297/tI], § 101, formerly § 1, Sept. 26, 1961, [75 Stat. 631][/us/stat/75/631], as renumbered § 101 by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XII, § 1223(21), Oct. 21, 1998, [112 Stat. 2681–772][/us/stat/112/2681-772], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Arms Control and Disarmament Act’.”
 
  __International Arms Sales Code of Conduct__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, subtitle F\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–508, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, subtitle F\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–508, provided that:
 
 > “SEC. 1261. __SHORT TITLE.__ 
 
@@ -185,15 +185,15 @@
 
  __Congressional Declarations; Purposes of 1994 Amendment__ 
 
-    [Pub. L. 103–236, title VII, § 702][/us/pl/103/236/s702], Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491], stated congressional declarations and purposes of amendments by part A of title VII of [Pub. L. 103–236][/us/pl/103/236] (see Short Title of 1994 Amendment note above) to strengthen United States Arms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of United States Arms Control and Disarmament Agency, and of Agency’s operating budget.
+    [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 702, Apr. 30, 1994, [108 Stat. 491][/us/stat/108/491], stated congressional declarations and purposes of amendments by part A of title VII of [Pub. L. 103–236][/us/pl/103/236] (see Short Title of 1994 Amendment note above) to strengthen United States Arms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of United States Arms Control and Disarmament Agency, and of Agency’s operating budget.
 
  __Report on Revitalization of ACDA__ 
 
-    [Pub. L. 103–236, title VII, § 717(b)][/us/pl/103/236/s717/b], Apr. 30, 1994, [108 Stat. 500][/us/stat/108/500], provided that not later than Dec. 31, 1995, Director of United States Arms Control and Disarmament Agency was to submit to Congress a detailed report describing actions undertaken to revitalize United States Arms Control and Disarmament Agency.
+    [Pub. L. 103–236, title VII][/us/pl/103/236/tVII], § 717(b), Apr. 30, 1994, [108 Stat. 500][/us/stat/108/500], provided that not later than Dec. 31, 1995, Director of United States Arms Control and Disarmament Agency was to submit to Congress a detailed report describing actions undertaken to revitalize United States Arms Control and Disarmament Agency.
 
  __Soviet Weapons Destruction__ 
 
-[Pub. L. 102–228, title II][/us/pl/102/228], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], as amended by [Pub. L. 102–484, div. A, title XIV, § 1421(a)(2)][/us/pl/102/484/s1421/a/2], (3), Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565]; [Pub. L. 103–236, title I, § 139(17)][/us/pl/103/236/s139/17], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 104–106, div. A, title XII, § 1204][/us/pl/104/106/s1204], Feb. 10, 1996, [110 Stat. 470][/us/stat/110/470]; [Pub. L. 110–53, title XVIII, § 1811(1)][/us/pl/110/53/s1811/1], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492]; [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)][/us/pl/110/181/s1304/a/1], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412]; [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606], provided that:
+[Pub. L. 102–228, title II][/us/pl/102/228/tII], Dec. 12, 1991, [105 Stat. 1693][/us/stat/105/1693], as amended by [Pub. L. 102–484, div. A, title XIV][/us/pl/102/484/dA/tXIV], § 1421(a)(2), (3), Oct. 23, 1992, [106 Stat. 2565][/us/stat/106/2565]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(17), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398]; [Pub. L. 104–106, div. A, title XII][/us/pl/104/106/dA/tXII], § 1204, Feb. 10, 1996, [110 Stat. 470][/us/stat/110/470]; [Pub. L. 110–53, title XVIII][/us/pl/110/53/tXVIII], § 1811(1), Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492]; [Pub. L. 110–181, div. A, title XIII][/us/pl/110/181/dA/tXIII], § 1304(a)(1), Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412]; [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(1), Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606], provided that:
 
 > “part a— __short title__ 
 
@@ -203,13 +203,13 @@
 
 “part b—findings and program authority
 
-    “\[SEC. 211. Repealed. [Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A)][/us/pl/110/181/s1304/a/1/A], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].\]
+    “\[SEC. 211. Repealed. [Pub. L. 110–181, div. A, title XIII][/us/pl/110/181/dA/tXIII], § 1304(a)(1)(A), Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].\]
 
-    “\[SEC. 212. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
+    “\[SEC. 212. Repealed. [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(1), Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
 
 “part c—administrative and funding authorities
 
-    “\[SECS. 221, 222. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
+    “\[SECS. 221, 222. Repealed. [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(1), Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]
 
     “SEC. 223. DIRE EMERGENCY SUPPLEMENTAL APPROPRIATIONS.
 
@@ -217,15 +217,15 @@
 
 “part d—reporting requirements
 
-    “\[SEC. 231. Repealed. [Pub. L. 113–291, div. A, title XIII, § 1351(1)][/us/pl/113/291/s1351/1], Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]”
+    “\[SEC. 231. Repealed. [Pub. L. 113–291, div. A, title XIII][/us/pl/113/291/dA/tXIII], § 1351(1), Dec. 19, 2014, [128 Stat. 3606][/us/stat/128/3606].\]”
 
  __Report on Fulfillment of Primary Functions__ 
 
-    [Pub. L. 102–228, title IV, § 401(c)][/us/pl/102/228/s401/c], Dec. 12, 1991, [105 Stat. 1699][/us/stat/105/1699], directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives, and chairman of Committee on Foreign Relations of Senate a report on Agency’s fulfillment of primary functions described in [section 2551 of this title][/us/usc/t22/s2551] and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by [Pub. L. 103–236, title I, § 139(18)][/us/pl/103/236/s139/18], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].
+    [Pub. L. 102–228, title IV][/us/pl/102/228/tIV], § 401(c), Dec. 12, 1991, [105 Stat. 1699][/us/stat/105/1699], directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives, and chairman of Committee on Foreign Relations of Senate a report on Agency’s fulfillment of primary functions described in [section 2551 of this title][/us/usc/t22/s2551] and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(18), Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398].
 
  __Conventional Arms Trade__ 
 
-[Pub. L. 93–559, § 51][/us/pl/93/559/s51], Dec. 30, 1974, [88 Stat. 1817][/us/stat/88/1817], as amended by [Pub. L. 97–113, title VII, § 734(a)(8)][/us/pl/97/113/s734/a/8], Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that:
+[Pub. L. 93–559][/us/pl/93/559], § 51, Dec. 30, 1974, [88 Stat. 1817][/us/stat/88/1817], as amended by [Pub. L. 97–113, title VII][/us/pl/97/113/tVII], § 734(a)(8), Dec. 29, 1981, [95 Stat. 1560][/us/stat/95/1560], provided that:
 
 >     “(a)
 
@@ -243,7 +243,7 @@
 
 >         “(2) establishing a mechanism through which such limitations could be effectively monitored.
 
->     “(c) __\[Repealed.__  __[__  __Pub. L. 97–113, title VII, § 734(a)(8)__  __][/us/pl/97/113/s734/a/8]__  __,__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__  __.\]__ 
+>     “(c) __\[Repealed.__  __[__  __Pub. L. 97–113, title VII__  __][/us/pl/97/113/tVII]__  __, § 734(a)(8),__  __Dec. 29, 1981__  __,__  __[__  __95 Stat. 1560__  __][/us/stat/95/1560]__  __.\]__ 
 
 >     ”
 
@@ -258,88 +258,88 @@
 ----------
 ----------
 
-[/us/pl/87/297/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs102
+[/us/pl/87/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtI
 [/us/stat/75/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F631
-[/us/pl/94/141/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2Fs144
+[/us/pl/94/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141%2FtI
 [/us/stat/89/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F758
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F491
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-768
-[/us/pl/105/277/s1223/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F1%2FA
-[/us/pl/105/277/s1223/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F1%2FB
-[/us/pl/105/277/s1223/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F1%2FC
-[/us/pl/103/236/s719/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs719%2Fa
-[/us/pl/103/236/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs703
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/94/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F141
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1201
 [/us/usc/t22/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6511
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t50/s1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1526
 [/us/usc/t42/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704
 [/us/usc/t42/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2155
-[/us/pl/103/236/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs701%2Fa
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F491
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t42/s2139a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139a
-[/us/pl/101/216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F216%2Fs1
+[/us/pl/101/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F216
 [/us/stat/103/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1853
-[/us/pl/100/213/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F213%2Fs1
+[/us/pl/100/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F213
 [/us/stat/101/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1444
 [/us/usc/t22/s2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2578
-[/us/pl/97/339/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F339%2Fs1
+[/us/pl/97/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F339
 [/us/stat/96/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1635
-[/us/pl/95/108/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108%2Fs1
+[/us/pl/95/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F108
 [/us/stat/91/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F871
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/87/297/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs101
+[/us/pl/87/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2FtI
 [/us/stat/75/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F631
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-772
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s2151n/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fb
-[/us/pl/103/236/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs702
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F491
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
-[/us/pl/103/236/s717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs717%2Fb
+[/us/pl/103/236/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtVII
 [/us/stat/108/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F500
-[/us/pl/102/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228
+[/us/pl/102/228/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2FtII
 [/us/stat/105/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1693
-[/us/pl/102/484/s1421/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1421%2Fa%2F2
+[/us/pl/102/484/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIV
 [/us/stat/106/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2565
-[/us/pl/103/236/s139/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F17
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/104/106/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1204
+[/us/pl/104/106/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXII
 [/us/stat/110/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F470
-[/us/pl/110/53/s1811/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1811%2F1
+[/us/pl/110/53/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXVIII
 [/us/stat/121/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F492
-[/us/pl/110/181/s1304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1304%2Fa%2F1
+[/us/pl/110/181/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIII
 [/us/stat/122/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F412
-[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
-[/us/pl/110/181/s1304/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1304%2Fa%2F1%2FA
+[/us/pl/110/181/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIII
 [/us/stat/122/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F412
-[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
-[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/113/291/s1351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1351%2F1
+[/us/pl/113/291/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXIII
 [/us/stat/128/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3606
-[/us/pl/102/228/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2Fs401%2Fc
+[/us/pl/102/228/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F228%2FtIV
 [/us/stat/105/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1699
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/pl/103/236/s139/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F18
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F398
-[/us/pl/93/559/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs51
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1817
-[/us/pl/97/113/s734/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F8
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
-[/us/pl/97/113/s734/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F8
+[/us/pl/97/113/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtVII
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 
 

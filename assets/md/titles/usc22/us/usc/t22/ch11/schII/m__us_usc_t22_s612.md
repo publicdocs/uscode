@@ -71,11 +71,11 @@
 
         A registration statement or supplement required to be filed under this section shall be filed in electronic form, in addition to any other form that may be required by the Attorney General.
 
-([June 8, 1938, ch. 327, § 2][/us/act/1938-06-08/ch327/s2], [52 Stat. 632][/us/stat/52/632]; [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 251][/us/stat/56/251]; [Aug. 3, 1950, ch. 524, § 1][/us/act/1950-08-03/ch524/s1], [64 Stat. 399][/us/stat/64/399]; [Pub. L. 89–486, § 2][/us/pl/89/486/s2], July 4, 1966, [80 Stat. 245][/us/stat/80/245]; [Pub. L. 110–81, title II, § 212(a)][/us/pl/110/81/s212/a], Sept. 14, 2007, [121 Stat. 749][/us/stat/121/749].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 2, [52 Stat. 632][/us/stat/52/632]; [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 251][/us/stat/56/251]; [Aug. 3, 1950, ch. 524][/us/act/1950-08-03/ch524], § 1, [64 Stat. 399][/us/stat/64/399]; [Pub. L. 89–486][/us/pl/89/486], § 2, July 4, 1966, [80 Stat. 245][/us/stat/80/245]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], § 212(a), Sept. 14, 2007, [121 Stat. 749][/us/stat/121/749].)
 
  __References in Text__ 
 
-    [Section 613 of title 18][/us/usc/t18/s613], referred to in subsec. (a)(8), was repealed by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496].
+    [Section 613 of title 18][/us/usc/t18/s613], referred to in subsec. (a)(8), was repealed by [Pub. L. 94–283, title II][/us/pl/94/283/tII], § 201(a), May 11, 1976, [90 Stat. 496][/us/stat/90/496].
 
  __Codification__ 
 
@@ -89,17 +89,17 @@
 
     2007—Subsec. (g). [Pub. L. 110–81][/us/pl/110/81] added subsec. (g).
 
-    1966—Subsec. (a). [Pub. L. 89–486, § 2(1)][/us/pl/89/486/s2/1], struck out requirement for transmittal of registration statements by the Attorney General to the Secretary of State and provision declaring a failure of transmission not to be a bar to prosecutions, now covered in [section 616(b) of this title][/us/usc/t22/s616/b].
+    1966—Subsec. (a). [Pub. L. 89–486][/us/pl/89/486], § 2(1), struck out requirement for transmittal of registration statements by the Attorney General to the Secretary of State and provision declaring a failure of transmission not to be a bar to prosecutions, now covered in [section 616(b) of this title][/us/usc/t22/s616/b].
 
-    Subsec. (a)(3). [Pub. L. 89–486, § 2(2)][/us/pl/89/486/s2/2], struck out “, unless, and to the extent, this requirement is waived in writing by the Attorney General” after “statement of the nature of the work of each” and provided for a statement of the extent to which a foreign principal is supervised, directed, etc., by any other foreign principal.
+    Subsec. (a)(3). [Pub. L. 89–486][/us/pl/89/486], § 2(2), struck out “, unless, and to the extent, this requirement is waived in writing by the Attorney General” after “statement of the nature of the work of each” and provided for a statement of the extent to which a foreign principal is supervised, directed, etc., by any other foreign principal.
 
-    Subsec. (a)(4), (6). [Pub. L. 89–486, § 2(3)][/us/pl/89/486/s2/3], (4), inserted “, including a detailed statement of any such activity which is a political activity”.
+    Subsec. (a)(4), (6). [Pub. L. 89–486][/us/pl/89/486], § 2(3), (4), inserted “, including a detailed statement of any such activity which is a political activity”.
 
-    Subsec. (a)(7). [Pub. L. 89–486, § 2(5)][/us/pl/89/486/s2/5], required certain information pertaining to control and financial arrangements with respect to those persons, not themselves foreign principals, who are so related to a foreign principal that their agents when engaged in political activities in the interests of the principal are required to register.
+    Subsec. (a)(7). [Pub. L. 89–486][/us/pl/89/486], § 2(5), required certain information pertaining to control and financial arrangements with respect to those persons, not themselves foreign principals, who are so related to a foreign principal that their agents when engaged in political activities in the interests of the principal are required to register.
 
-    Subsec. (a)(8). [Pub. L. 89–486, § 2(6)][/us/pl/89/486/s2/6], inserted requirement that agent report the money or other things of value spent or disposed of in connection with his becoming the agent of his foreign principal and all political contributions made during the preceding sixty days, other than contributions made on behalf of their principals, such contributions being prohibited under [section 613 of title 18][/us/usc/t18/s613].
+    Subsec. (a)(8). [Pub. L. 89–486][/us/pl/89/486], § 2(6), inserted requirement that agent report the money or other things of value spent or disposed of in connection with his becoming the agent of his foreign principal and all political contributions made during the preceding sixty days, other than contributions made on behalf of their principals, such contributions being prohibited under [section 613 of title 18][/us/usc/t18/s613].
 
-    Subsec. (f). [Pub. L. 89–486, § 2(7)][/us/pl/89/486/s2/7], added subsec. (f).
+    Subsec. (f). [Pub. L. 89–486][/us/pl/89/486], § 2(7), added subsec. (f).
 
     1950—Subsec. (a). Act Aug. 3, 1950, made failure to register a continuing offense.
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–81, title II, § 212(c)][/us/pl/110/81/s212/c], Sept. 14, 2007, [121 Stat. 750][/us/stat/121/750], provided that: 
+[Pub. L. 110–81, title II][/us/pl/110/81/tII], § 212(c), Sept. 14, 2007, [121 Stat. 750][/us/stat/121/750], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 616 of this title][/us/usc/t22/s616]\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 14, 2007\].”
 
@@ -121,7 +121,7 @@
 
  __Fees for Necessary Expenses of Registration Unit__ 
 
-[Pub. L. 102–395, title I][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1831][/us/stat/106/1831], provided in part that: 
+[Pub. L. 102–395, title I][/us/pl/102/395/tI], Oct. 6, 1992, [106 Stat. 1831][/us/stat/106/1831], provided in part that: 
 
 > “In addition, notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302], for fiscal year 1993 and thereafter, the Attorney General shall establish and collect fees to recover necessary expenses of the Registration Unit (to include salaries, supplies, equipment and training) pursuant to the Foreign Agents Registration Act \[probably means Foreign Agents Registration Act of 1938, as amended, [22 U.S.C. 611][/us/usc/t22/s611] et seq.\], and shall credit such fees to this appropriation, to remain available until expended.”
 
@@ -133,18 +133,18 @@
 ----------
 
 [/us/usc/t18/s2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2386
-[/us/act/1938-06-08/ch327/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs2
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
 [/us/stat/52/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F632
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F251
-[/us/act/1950-08-03/ch524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch524%2Fs1
+[/us/act/1950-08-03/ch524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch524
 [/us/stat/64/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F399
-[/us/pl/89/486/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/stat/80/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F245
-[/us/pl/110/81/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs212%2Fa
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F749
 [/us/usc/t18/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs613
-[/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
+[/us/pl/94/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtII
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
 [/us/usc/t18/s2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2386
 [/us/stat/54/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1201
@@ -152,22 +152,22 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F863
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
-[/us/pl/89/486/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2%2F1
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/usc/t22/s616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs616%2Fb
-[/us/pl/89/486/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2%2F2
-[/us/pl/89/486/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2%2F3
-[/us/pl/89/486/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2%2F5
-[/us/pl/89/486/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2%2F6
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/usc/t18/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs613
-[/us/pl/89/486/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs2%2F7
-[/us/pl/110/81/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs212%2Fc
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F750
 [/us/usc/t22/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs616
 [/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/pl/89/486/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs9
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1831
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611

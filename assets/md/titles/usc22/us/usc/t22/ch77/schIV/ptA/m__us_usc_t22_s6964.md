@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for fiscal year 2001, and each fiscal year thereafter, such sums as may be necessary for the Task Force to carry out the functions described in [section 6962 of this title][/us/usc/t22/s6962].
 
-([Pub. L. 106–286, div. B, title V, § 504][/us/pl/106/286/s504], Oct. 10, 2000, [114 Stat. 904][/us/stat/114/904].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 504, Oct. 10, 2000, [114 Stat. 904][/us/stat/114/904].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t22/s6962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6962
-[/us/pl/106/286/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs504
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F904
 
 

@@ -37,7 +37,7 @@
 
         The decision of the Board on any question or other matter relating to an appeal is final and conclusive. The agency concerned shall take action in accordance with the decision of the Board.
 
-([Pub. L. 96–70, title I, § 1222][/us/pl/96/70/s1222], Sept. 27, 1979, [93 Stat. 467][/us/stat/93/467]; [Pub. L. 105–85, div. C, title XXXV, § 3548][/us/pl/105/85/s3548], Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1222, Sept. 27, 1979, [93 Stat. 467][/us/stat/93/467]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3548, Nov. 18, 1997, [111 Stat. 2073][/us/stat/111/2073].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t22/s3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3660
-[/us/pl/96/70/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1222
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F467
-[/us/pl/105/85/s3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3548
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2073
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

@@ -21,7 +21,7 @@
 
     (2) the term “foreign direct investment in the United States” means direct investment by foreign persons in any business enterprise that is a United States person.
 
-([Pub. L. 101–533, § 10][/us/pl/101/533/s10], Nov. 7, 1990, [104 Stat. 2351][/us/stat/104/2351].)
+([Pub. L. 101–533][/us/pl/101/533], § 10, Nov. 7, 1990, [104 Stat. 2351][/us/stat/104/2351].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3102
-[/us/pl/101/533/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs10
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2351
 [/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2344

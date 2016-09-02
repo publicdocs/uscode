@@ -29,7 +29,7 @@
 
         Subsection (a) shall not be construed to affect any provision of the Articles of Agreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
 
-([Pub. L. 100–418, title III, § 3112][/us/pl/100/418/s3112], Aug. 23, 1988, [102 Stat. 1378][/us/stat/102/1378].)
+([Pub. L. 100–418, title III][/us/pl/100/418/tIII], § 3112, Aug. 23, 1988, [102 Stat. 1378][/us/stat/102/1378].)
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/usc/t22/s5331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5331
 [/us/usc/t22/s5331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5331
 [/us/usc/t22/s5331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5331%2Fc
-[/us/pl/100/418/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3112
+[/us/pl/100/418/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtIII
 [/us/stat/102/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1378
 
 

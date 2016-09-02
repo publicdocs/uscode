@@ -37,7 +37,7 @@
 
             (B) Compensation for work injuries covered by chapter 81 of title 5.
 
-([Pub. L. 96–70, title I, § 1110][/us/pl/96/70/s1110], Sept. 27, 1979, [93 Stat. 459][/us/stat/93/459]; [Pub. L. 105–85, div. C, title XXXV, § 3550(d)(4)][/us/pl/105/85/s3550/d/4], Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–261, div. C, title XXXV, § 3506][/us/pl/105/261/s3506], Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1110, Sept. 27, 1979, [93 Stat. 459][/us/stat/93/459]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3550(d)(4), Nov. 18, 1997, [111 Stat. 2074][/us/stat/111/2074]; [Pub. L. 105–261, div. C, title XXXV][/us/pl/105/261/dC/tXXXV], § 3506, Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269].)
 
  __References in Text__ 
 
@@ -58,11 +58,11 @@
 
 [/us/usc/t22/s3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3927
 [/us/usc/t22/s3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3682
-[/us/pl/96/70/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1110
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F459
-[/us/pl/105/85/s3550/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3550%2Fd%2F4
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2074
-[/us/pl/105/261/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs3506
+[/us/pl/105/261/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXV
 [/us/stat/112/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2269
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452

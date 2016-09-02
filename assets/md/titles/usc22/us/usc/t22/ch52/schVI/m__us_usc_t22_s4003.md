@@ -25,7 +25,7 @@
 
         (2) other experience in public diplomacy.
 
-([Pub. L. 96–465, title I, § 603][/us/pl/96/465/s603], Oct. 17, 1980, [94 Stat. 2095][/us/stat/94/2095]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412]; [Pub. L. 108–458, title VII, § 7110(c)][/us/pl/108/458/s7110/c], Dec. 17, 2004, [118 Stat. 3794][/us/stat/118/3794].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 603, Oct. 17, 1980, [94 Stat. 2095][/us/stat/94/2095]; [Pub. L. 107–132][/us/pl/107/132], § 1(b), Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7110(c), Dec. 17, 2004, [118 Stat. 3794][/us/stat/118/3794].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/96/465/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs603
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2095
-[/us/pl/107/132/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132%2Fs1%2Fb
+[/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132
 [/us/stat/115/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2412
-[/us/pl/108/458/s7110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7110%2Fc
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3794
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F132

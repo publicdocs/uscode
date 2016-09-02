@@ -11,28 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch60/schVI/m__us_usc_t22_s5112.md) | [Next](./../../../../..//us/usc/t22/ch61/m__us_usc_t22_ch61.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5117)
+[Previous](./../../../../..//us/usc/t22/ch60/schVI/m__us_usc_t22_s5115 _us_usc_t22_s5116.md) | [Next](./../../../../..//us/usc/t22/ch61/m__us_usc_t22_ch61.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5117)
 
-## § 5117. Repealed. [Pub. L. 103–149, § 4(c)(2)(A)][/us/pl/103/149/s4/c/2/A], Nov. 23, 1993, [107 Stat. 1506][/us/stat/107/1506]
+## § 5117. Repealed. [Pub. L. 103–149][/us/pl/103/149], § 4(c)(2)(A), Nov. 23, 1993, [107 Stat. 1506][/us/stat/107/1506]
 
-    Section, [Pub. L. 101–45, title I][/us/pl/101/45], June 30, 1989, [103 Stat. 110][/us/stat/103/110], related to State and local anti-apartheid policies.
+    Section, [Pub. L. 101–45, title I][/us/pl/101/45/tI], June 30, 1989, [103 Stat. 110][/us/stat/103/110], related to State and local anti-apartheid policies.
 
  __Effective Date of Repeal__ 
 
-    Repeal effective Oct. 1, 1995, see section [§ 4(c)(2)(A) of Pub. L. 103–149][/us/pl/103/149/s4/c/2/A], set out in a Repeal of Chapter; South African Democratic Transition Support note under [section 5001 of this title][/us/usc/t22/s5001].
+    Repeal effective Oct. 1, 1995, see section § 4(c)(2)(A) of [Pub. L. 103–149][/us/pl/103/149], set out in a Repeal of Chapter; South African Democratic Transition Support note under [section 5001 of this title][/us/usc/t22/s5001].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch60/schVI/m__us_usc_t22_s5112.md) | [Next](./../../../../..//us/usc/t22/ch61/m__us_usc_t22_ch61.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5117)
+[Previous](./../../../../..//us/usc/t22/ch60/schVI/m__us_usc_t22_s5115 _us_usc_t22_s5116.md) | [Next](./../../../../..//us/usc/t22/ch61/m__us_usc_t22_ch61.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5117)
 
 ----------
 ----------
 
-[/us/pl/103/149/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fc%2F2%2FA
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1506
-[/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
+[/us/pl/101/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45%2FtI
 [/us/stat/103/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F110
-[/us/pl/103/149/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fc%2F2%2FA
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/usc/t22/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5001
 
 

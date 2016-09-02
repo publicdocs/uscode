@@ -53,11 +53,11 @@
 
     (13) the United States should not seek to facilitate or encourage the continuation of nuclear exports to India by any other party if such exports are terminated under United States law.
 
-([Pub. L. 109–401, title I, § 102][/us/pl/109/401/s102], Dec. 18, 2006, [120 Stat. 2726][/us/stat/120/2726].)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 102, Dec. 18, 2006, [120 Stat. 2726][/us/stat/120/2726].)
 
  __Short Title__ 
 
-[Pub. L. 109–401, title I, § 101][/us/pl/109/401/s101], Dec. 18, 2006, [120 Stat. 2726][/us/stat/120/2726], provided that: 
+[Pub. L. 109–401, title I][/us/pl/109/401/tI], § 101, Dec. 18, 2006, [120 Stat. 2726][/us/stat/120/2726], provided that: 
 
 > “This title \[enacting this chapter and amending [section 2652c of this title][/us/usc/t22/s2652c] and [section 2153 of Title 42][/us/usc/t42/s2153], The Public Health and Welfare\] may be cited as the ‘Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006’.”
 
@@ -243,9 +243,9 @@ Pursuant to section 104 of the United States-India Nuclear Cooperation Approval 
 ----------
 
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
-[/us/pl/109/401/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs102
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2726
-[/us/pl/109/401/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs101
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2726
 [/us/usc/t22/s2652c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153

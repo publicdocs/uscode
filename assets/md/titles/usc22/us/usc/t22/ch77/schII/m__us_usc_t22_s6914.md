@@ -17,7 +17,7 @@
 
     Decisions of the Commission, including adoption of reports and recommendations to the executive branch or to the Congress, shall be made by a majority vote of the members of the Commission present and voting. Two-thirds of the Members  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  of the Commission shall constitute a quorum for purposes of conducting business.
 
-([Pub. L. 106–286, div. B, title III, § 304][/us/pl/106/286/s304], Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
+([Pub. L. 106–286, div. B, title III][/us/pl/106/286/dB/tIII], § 304, Oct. 10, 2000, [114 Stat. 899][/us/stat/114/899].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs304
+[/us/pl/106/286/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtIII
 [/us/stat/114/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F899
 
 

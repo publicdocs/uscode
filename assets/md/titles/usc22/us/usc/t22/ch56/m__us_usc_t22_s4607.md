@@ -51,7 +51,7 @@
 
         The Institute and its directors, officers, employees, and agents shall be subject to the provisions of [section 552 of title 5][/us/usc/t5/s552] (relating to freedom of information).
 
-([Pub. L. 98–525, title XVII, § 1708][/us/pl/98/525/s1708], Oct. 19, 1984, [98 Stat. 2657][/us/stat/98/2657]; [Pub. L. 108–7, div. G, title V, § 515][/us/pl/108/7/s515], Feb. 20, 2003, [117 Stat. 345][/us/stat/117/345].)
+([Pub. L. 98–525, title XVII][/us/pl/98/525/tXVII], § 1708, Oct. 19, 1984, [98 Stat. 2657][/us/stat/98/2657]; [Pub. L. 108–7, div. G, title V][/us/pl/108/7/dG/tV], § 515, Feb. 20, 2003, [117 Stat. 345][/us/stat/117/345].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/98/525/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1708
+[/us/pl/98/525/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXVII
 [/us/stat/98/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2657
-[/us/pl/108/7/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs515
+[/us/pl/108/7/dG/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdG%2FtV
 [/us/stat/117/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F345
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

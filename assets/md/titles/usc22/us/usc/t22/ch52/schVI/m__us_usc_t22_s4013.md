@@ -17,7 +17,7 @@
 
     The President shall establish a system of awards to confer appropriate recognition of outstanding contributions to the Nation by members of the Service. The awards system established under this section shall provide for presentation by the President and by the Secretary of medals or other suitable commendations for performance in the course of or beyond the call of duty which involves distinguished, meritorious service to the Nation, including extraordinary valor in the face of danger to life or health. Distinguished, meritorious service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.
 
-([Pub. L. 96–465, title I, § 614][/us/pl/96/465/s614], formerly § 613, Oct. 17, 1980, [94 Stat. 2099][/us/stat/94/2099]; renumbered § 614, [Pub. L. 103–236, title I, § 181(a)(1)][/us/pl/103/236/s181/a/1], Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416]; amended [Pub. L. 105–292, title V, § 504(b)][/us/pl/105/292/s504/b], Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 614, formerly § 613, Oct. 17, 1980, [94 Stat. 2099][/us/stat/94/2099]; renumbered § 614, [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 181(a)(1), Apr. 30, 1994, [108 Stat. 416][/us/stat/108/416]; amended [Pub. L. 105–292, title V][/us/pl/105/292/tV], § 504(b), Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/96/465/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs614
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2099
-[/us/pl/103/236/s181/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fa%2F1
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F416
-[/us/pl/105/292/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs504%2Fb
+[/us/pl/105/292/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtV
 [/us/stat/112/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2811
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 510, [60 Stat. 158][/us/stat/60/158], related to administration of subchapter I of this chapter. See Codification note for [section 1352 of this title][/us/usc/t22/s1352].
+    Section, [act Apr. 30, 1946, ch. 244, title V][/us/act/1946-04-30/ch244/tV], § 510, [60 Stat. 158][/us/stat/60/158], related to administration of subchapter I of this chapter. See Codification note for [section 1352 of this title][/us/usc/t22/s1352].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
+[/us/act/1946-04-30/ch244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244%2FtV
 [/us/stat/60/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F158
 [/us/usc/t22/s1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1352
 

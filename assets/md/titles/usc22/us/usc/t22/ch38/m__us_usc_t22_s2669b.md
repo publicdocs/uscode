@@ -29,7 +29,7 @@
 
         (3) implement the competitive procedures required by paragraphs (1) and (2) at the prime contracting level and, to the maximum extent practicable, the subcontracting level.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2218, Oct. 21, 1998, [112 Stat. 2681–816][/us/stat/112/2681-816].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2218, Oct. 21, 1998, [112 Stat. 2681–816][/us/stat/112/2681-816].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-816
 
 

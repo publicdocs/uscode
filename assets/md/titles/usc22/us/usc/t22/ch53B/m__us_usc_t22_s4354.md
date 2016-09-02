@@ -67,13 +67,13 @@
 
             Each report required to be submitted by paragraph (1) shall be submitted in unclassified form, together with a classified annex if necessary.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 404, as added [Pub. L. 102–138, title I, § 198(a)][/us/pl/102/138/s198/a], Oct. 28, 1991, [105 Stat. 687][/us/stat/105/687]; amended [Pub. L. 107–228, div. A, title II, § 205][/us/pl/107/228/s205], Sept. 30, 2002, [116 Stat. 1363][/us/stat/116/1363].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title IV, § 404, as added [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(a), Oct. 28, 1991, [105 Stat. 687][/us/stat/105/687]; amended [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 205, Sept. 30, 2002, [116 Stat. 1363][/us/stat/116/1363].)
 
  __Amendments__ 
 
-    2002—Subsec. (d). [Pub. L. 107–228, § 205(a)][/us/pl/107/228/s205/a], substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
+    2002—Subsec. (d). [Pub. L. 107–228][/us/pl/107/228], § 205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
 
-    Subsec. (e). [Pub. L. 107–228, § 205(b)][/us/pl/107/228/s205/b], substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
+    Subsec. (e). [Pub. L. 107–228][/us/pl/107/228], § 205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
 
  __Change of Name__ 
 
@@ -81,7 +81,7 @@
 
  __Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline__ 
 
-[Pub. L. 102–138, title I, § 198(c)(1)][/us/pl/102/138/s198/c/1], Oct. 28, 1991, [105 Stat. 691][/us/stat/105/691], provided that: 
+[Pub. L. 102–138, title I][/us/pl/102/138/tI], § 198(c)(1), Oct. 28, 1991, [105 Stat. 691][/us/stat/105/691], provided that: 
 
 > “The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[[22 U.S.C. 4354][/us/usc/t22/s4354]\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act.”
 
@@ -95,13 +95,13 @@
 [/us/usc/t22/s4351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4351%2Fc
 [/us/usc/t22/s4351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4351%2Fc
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/102/138/s198/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fa
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F687
-[/us/pl/107/228/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs205
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1363
-[/us/pl/107/228/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs205%2Fa
-[/us/pl/107/228/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs205%2Fb
-[/us/pl/102/138/s198/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs198%2Fc%2F1
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F691
 [/us/usc/t22/s4354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4354
 

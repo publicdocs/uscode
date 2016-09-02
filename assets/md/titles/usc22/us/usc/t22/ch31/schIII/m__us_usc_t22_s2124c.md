@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a _us_usc_t22_s2124b.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
 
 ## § 2124c. Rural Tourism Development Foundation
 
@@ -135,7 +135,7 @@
 
         (4) the term “rural tourism” has the meaning given that term by the Secretary of Commerce and shall include activities related to travel and tourism that occur on Federal recreational sites, on Indian reservations, and in the territories, possessions, and commonwealths of the United States.
 
-([Pub. L. 102–372, § 4][/us/pl/102/372/s4], Sept. 30, 1992, [106 Stat. 1171][/us/stat/106/1171]; [Pub. L. 104–288, § 9(b)][/us/pl/104/288/s9/b], Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407].)
+([Pub. L. 102–372][/us/pl/102/372], § 4, Sept. 30, 1992, [106 Stat. 1171][/us/stat/106/1171]; [Pub. L. 104–288][/us/pl/104/288], § 9(b), Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407].)
 
  __Codification__ 
 
@@ -153,7 +153,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
+[Previous](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2124a _us_usc_t22_s2124b.md) | [Next](./../../../../..//us/usc/t22/ch31/schIII/m__us_usc_t22_s2125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2124c)
 
 ----------
 ----------
@@ -163,9 +163,9 @@
 [/us/usc/t25/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fd
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t5/s3371/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371%2F2
-[/us/pl/102/372/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs4
+[/us/pl/102/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372
 [/us/stat/106/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1171
-[/us/pl/104/288/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs9%2Fb
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
 [/us/pl/102/372/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs4
 [/us/pl/102/372/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F372%2Fs4

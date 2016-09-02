@@ -41,7 +41,7 @@
 
     (9) The Board may reconsider any decision upon presentation of newly discovered or previously unavailable material evidence.
 
-([Pub. L. 96–465, title I, § 1106][/us/pl/96/465/s1106], Oct. 17, 1980, [94 Stat. 2145][/us/stat/94/2145]; [Pub. L. 101–167, title V, § 586(a)][/us/pl/101/167/s586/a], Nov. 21, 1989, [103 Stat. 1252][/us/stat/103/1252]; [Pub. L. 102–138, title I, § 143(b)][/us/pl/102/138/s143/b], Oct. 28, 1991, [105 Stat. 668][/us/stat/105/668]; [Pub. L. 103–236, title I][/us/pl/103/236], §§ 177(a), 181(a)(4)(B), Apr. 30, 1994, [108 Stat. 414][/us/stat/108/414], 417; [Pub. L. 107–228, div. A, title III, § 314(b)][/us/pl/107/228/s314/b], Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379]; [Pub. L. 109–140, § 5][/us/pl/109/140/s5], Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1106, Oct. 17, 1980, [94 Stat. 2145][/us/stat/94/2145]; [Pub. L. 101–167, title V][/us/pl/101/167/tV], § 586(a), Nov. 21, 1989, [103 Stat. 1252][/us/stat/103/1252]; [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 143(b), Oct. 28, 1991, [105 Stat. 668][/us/stat/105/668]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], §§ 177(a), 181(a)(4)(B), Apr. 30, 1994, [108 Stat. 414][/us/stat/108/414], 417; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 314(b), Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379]; [Pub. L. 109–140][/us/pl/109/140], § 5, Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 
     2002—Par. (8). [Pub. L. 107–228][/us/pl/107/228], in first sentence, struck out “the involuntary separation of the grievant,” before “disciplinary action” and substituted “grievant or” for “grievant, or”, and struck out last sentence which read as follows: “Notwithstanding the first sentence of this paragraph, the Board’s authority to suspend such action shall not extend to instances where the Secretary, or his designee, has exercised his authority under subsection (a)(3) of [section 4010 of this title][/us/usc/t22/s4010] or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under [section 4010a of this title][/us/usc/t22/s4010a].”
 
-    1994—Par. (8). [Pub. L. 103–236, § 181(a)(4)(B)][/us/pl/103/236/s181/a/4/B], inserted before period at end “or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under [section 4010a of this title][/us/usc/t22/s4010a]”.
+    1994—Par. (8). [Pub. L. 103–236][/us/pl/103/236], § 181(a)(4)(B), inserted before period at end “or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under [section 4010a of this title][/us/usc/t22/s4010a]”.
 
-    [Pub. L. 103–236, § 177(a)][/us/pl/103/236/s177/a], substituted “until the date which is one year after such determination or until the Board has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant.” for “until the Board has ruled upon the grievance.”
+    [Pub. L. 103–236][/us/pl/103/236], § 177(a), substituted “until the date which is one year after such determination or until the Board has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant.” for “until the Board has ruled upon the grievance.”
 
     1991—Par. (8). [Pub. L. 102–138][/us/pl/102/138] substituted “exercised his authority under subsection (a)(3) of [section 4010 of this title][/us/usc/t22/s4010]” for “determined that there is reasonable cause to believe that a grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter”.
 
@@ -66,26 +66,26 @@
 
 [/us/usc/t5/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs556
 [/us/usc/t22/s4010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010%2Fa
-[/us/pl/96/465/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1106
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2145
-[/us/pl/101/167/s586/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2Fs586%2Fa
+[/us/pl/101/167/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167%2FtV
 [/us/stat/103/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1252
-[/us/pl/102/138/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs143%2Fb
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F668
-[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F414
-[/us/pl/107/228/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs314%2Fb
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1379
-[/us/pl/109/140/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs5
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2652
 [/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/usc/t22/s4010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010%2Fa
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/usc/t22/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010
 [/us/usc/t22/s4010a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010a
-[/us/pl/103/236/s181/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs181%2Fa%2F4%2FB
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/usc/t22/s4010a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010a
-[/us/pl/103/236/s177/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs177%2Fa
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t22/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4010
 [/us/pl/101/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F167

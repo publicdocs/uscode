@@ -17,7 +17,7 @@
 
     No fees named in the tariff of consular fees prescribed by order of the President shall be charged or collected by consular officers for the official services to American vessels and seamen. Consular officers shall furnish the master of every such vessel with an itemized statement of such services performed on account of said vessel, with the fee so prescribed for each service, and make a detailed report to the Secretary of the Treasury of such services and fees, under such regulations as the Secretary of State may prescribe.
 
-([June 26, 1884, ch. 121, § 12][/us/act/1884-06-26/ch121/s12], [23 Stat. 56][/us/stat/23/56].)
+([June 26, 1884, ch. 121][/us/act/1884-06-26/ch121], § 12, [23 Stat. 56][/us/stat/23/56].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1884-06-26/ch121/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121%2Fs12
+[/us/act/1884-06-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121
 [/us/stat/23/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F56
 [/us/usc/t22/s4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4223
 [/us/usc/t22/s1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1186

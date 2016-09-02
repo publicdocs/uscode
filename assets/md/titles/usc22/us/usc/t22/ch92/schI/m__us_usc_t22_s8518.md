@@ -71,7 +71,7 @@
 
                 (iv) maintaining, upgrading, or expanding existing refineries or constructing new refineries.
 
-([Pub. L. 111–195, title I, § 110][/us/pl/111/195/s110], July 1, 2010, [124 Stat. 1338][/us/stat/124/1338]; [Pub. L. 112–158, title II, § 224][/us/pl/112/158/s224], Aug. 10, 2012, [126 Stat. 1240][/us/stat/126/1240].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 110, July 1, 2010, [124 Stat. 1338][/us/stat/124/1338]; [Pub. L. 112–158, title II][/us/pl/112/158/tII], § 224, Aug. 10, 2012, [126 Stat. 1240][/us/stat/126/1240].)
 
  __Termination of Section__ 
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/111/195/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs110
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1338
-[/us/pl/112/158/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs224
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1240
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158

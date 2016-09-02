@@ -31,7 +31,7 @@
 
         The Secretary of the Treasury shall ensure that the Financial Crimes Enforcement Network of the Department of the Treasury assists the Government of Ukraine, the European Union, and other appropriate countries under section 314(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 ([31 U.S.C. 5311][/us/usc/t31/s5311] note).
 
-([Pub. L. 113–95, § 5][/us/pl/113/95/s5], Apr. 3, 2014, [128 Stat. 1090][/us/stat/128/1090].)
+([Pub. L. 113–95][/us/pl/113/95], § 5, Apr. 3, 2014, [128 Stat. 1090][/us/stat/128/1090].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t31/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5311
-[/us/pl/113/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95%2Fs5
+[/us/pl/113/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F95
 [/us/stat/128/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1090
 [/us/pl/107/56/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs314%2Fa
 [/us/usc/t31/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5311

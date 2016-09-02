@@ -17,7 +17,7 @@
 
     In fiscal year 2001 and thereafter reimbursements for services provided to the press in connection with the travel of senior-level officials may be collected and credited to this appropriation and shall remain available until expended.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IV\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–90.)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title IV\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–90.)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 
 

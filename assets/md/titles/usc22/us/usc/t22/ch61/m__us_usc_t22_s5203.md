@@ -23,7 +23,7 @@
 
         Any district court of the United States for a district in which a violation of this chapter occurs shall have authority, upon petition of relief by the Attorney General, to grant injunctive and such other equitable relief as it shall deem necessary to enforce the provisions of this chapter.
 
-([Pub. L. 100–204, title X, § 1004][/us/pl/100/204/s1004], Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407].)
+([Pub. L. 100–204, title X][/us/pl/100/204/tX], § 1004, Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/204/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs1004
+[/us/pl/100/204/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtX
 [/us/stat/101/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1407
 
 

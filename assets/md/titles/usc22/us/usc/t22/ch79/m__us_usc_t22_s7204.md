@@ -27,7 +27,7 @@
 
     (2) there is enacted into law a joint resolution stating the approval of Congress for the report submitted under paragraph (1).
 
-([Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 905\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–69.)
+([Pub. L. 106–387][/us/pl/106/387], § 1(a) \[title IX, § 905\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–69.)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s7202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202%2Fa
-[/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
+[/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 
 

@@ -37,7 +37,7 @@
 
             It is the sense of Congress that the Secretary and the Administrator of the United States Agency for International Development should develop guidelines, in consultation with the appropriate congressional committees, building on the existing framework for grants, cooperative agreements, contracts, and other acquisition mechanisms to guide United States missions in foreign countries in coordinating United States democracy assistance and selecting the appropriate combination of such mechanisms for such assistance.
 
-([Pub. L. 110–53, title XXI, § 2162][/us/pl/110/53/s2162], Aug. 3, 2007, [121 Stat. 536][/us/stat/121/536].)
+([Pub. L. 110–53, title XXI][/us/pl/110/53/tXXI], § 2162, Aug. 3, 2007, [121 Stat. 536][/us/stat/121/536].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/110/53/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2162
+[/us/pl/110/53/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXI
 [/us/stat/121/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F536
 
 

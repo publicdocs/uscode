@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch98/schIII/m__us_usc_t22_ch98_schIII.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9141)
+[Previous](./../../../../..//us/usc/t22/ch98/schIII/m__us_usc_t22_ch98_schIII.md) | [Next](./../../../../..//us/usc/t22/ch99/m__us_usc_t22_ch99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9141)
 
 ## § 9141. Authorization for judicial training on international parental child abduction
 
@@ -45,7 +45,7 @@
 
             Amounts appropriated for the activities set forth in subsection (a) shall be used pursuant to the authorization and requirements under this section.
 
-([Pub. L. 113–150, title III, § 302][/us/pl/113/150/s302], Aug. 8, 2014, [128 Stat. 1822][/us/stat/128/1822].)
+([Pub. L. 113–150, title III][/us/pl/113/150/tIII], § 302, Aug. 8, 2014, [128 Stat. 1822][/us/stat/128/1822].)
 
  __Delegation of Authority Pursuant to Section 302(b) of the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014__ 
 
@@ -63,13 +63,13 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch98/schIII/m__us_usc_t22_ch98_schIII.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9141)
+[Previous](./../../../../..//us/usc/t22/ch98/schIII/m__us_usc_t22_ch98_schIII.md) | [Next](./../../../../..//us/usc/t22/ch99/m__us_usc_t22_ch99.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9141)
 
 ----------
 ----------
 
 [/us/usc/t22/s9122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122%2Fb
-[/us/pl/113/150/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs302
+[/us/pl/113/150/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtIII
 [/us/stat/128/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1822
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150

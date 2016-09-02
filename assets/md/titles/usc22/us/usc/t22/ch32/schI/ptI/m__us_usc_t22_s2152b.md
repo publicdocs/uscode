@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 132, as added [Pub. L. 106–309, title I, § 107(a)][/us/pl/106/309/s107/a], Oct. 17, 2000, [114 Stat. 1086][/us/stat/114/1086], which related to United States Microfinance Loan Facility, was renumbered [section 257 of Pub. L. 87–195][/us/pl/87/195/s257] by [Pub. L. 108–484, § 5(a)][/us/pl/108/484/s5/a], (b), Dec. 23, 2004, [118 Stat. 3927][/us/stat/118/3927], and transferred to [section 2213 of this title][/us/usc/t22/s2213].
+    Section, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 132, as added [Pub. L. 106–309, title I][/us/pl/106/309/tI], § 107(a), Oct. 17, 2000, [114 Stat. 1086][/us/stat/114/1086], which related to United States Microfinance Loan Facility, was renumbered [section 257 of Pub. L. 87–195][/us/pl/87/195/s257] by [Pub. L. 108–484][/us/pl/108/484], § 5(a), (b), Dec. 23, 2004, [118 Stat. 3927][/us/stat/118/3927], and transferred to [section 2213 of this title][/us/usc/t22/s2213].
 
 ----------
 
@@ -27,10 +27,10 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/106/309/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs107%2Fa
+[/us/pl/106/309/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtI
 [/us/stat/114/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1086
 [/us/pl/87/195/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs257
-[/us/pl/108/484/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484%2Fs5%2Fa
+[/us/pl/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F484
 [/us/stat/118/3927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3927
 [/us/usc/t22/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2213
 

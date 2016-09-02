@@ -29,7 +29,7 @@
 
     (6) The resumption by the People’s Republic of China of the exercise of sovereignty over Hong Kong after June 30, 1997, should not affect treatment of Hong Kong residents who apply for visas to visit or reside permanently in the United States, so long as such treatment is consistent with the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\].
 
-([Pub. L. 102–383, title I, § 101][/us/pl/102/383/s101], Oct. 5, 1992, [106 Stat. 1449][/us/stat/106/1449].)
+([Pub. L. 102–383, title I][/us/pl/102/383/tI], § 101, Oct. 5, 1992, [106 Stat. 1449][/us/stat/106/1449].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/102/383/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2Fs101
+[/us/pl/102/383/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F383%2FtI
 [/us/stat/106/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1449
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

@@ -17,7 +17,7 @@
 
     In adopting this subchapter, it is the understanding of the Congress that the constitution of the Organization does not require, nor does this subchapter authorize, the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any law of the United States.
 
-([July 30, 1946, ch. 700, § 8][/us/act/1946-07-30/ch700/s8], [60 Stat. 714][/us/stat/60/714].)
+([July 30, 1946, ch. 700][/us/act/1946-07-30/ch700], § 8, [60 Stat. 714][/us/stat/60/714].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-30/ch700/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700%2Fs8
+[/us/act/1946-07-30/ch700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-30%2Fch700
 [/us/stat/60/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F714
 [/us/usc/t22/s287m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287m
 

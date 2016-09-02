@@ -55,7 +55,7 @@
 
         (4) the implementation of a protocol to establish periodic visits between a United States embassy or consular official and an abducted child, in order to allow the official to ascertain the child’s location and welfare.
 
-([Pub. L. 113–150, title I, § 103][/us/pl/113/150/s103], Aug. 8, 2014, [128 Stat. 1815][/us/stat/128/1815].)
+([Pub. L. 113–150, title I][/us/pl/113/150/tI], § 103, Aug. 8, 2014, [128 Stat. 1815][/us/stat/128/1815].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/113/150/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs103
+[/us/pl/113/150/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtI
 [/us/stat/128/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1815
 
 

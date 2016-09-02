@@ -59,7 +59,7 @@
 
     (n) to refuse to insure, reinsure, guarantee, or finance any investment in connection with a project which the Corporation determines will pose an unreasonable or major environmental, health, or safety hazard, or will result in the significant degradation of national parks or similar protected areas.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 231, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 809][/us/stat/83/809]; amended [Pub. L. 93–390, § 2(1)][/us/pl/93/390/s2/1], Aug. 27, 1974, [88 Stat. 763][/us/stat/88/763]; [Pub. L. 95–268, § 2][/us/pl/95/268/s2], Apr. 24, 1978, [92 Stat. 213][/us/stat/92/213]; [Pub. L. 97–65, § 2][/us/pl/97/65/s2], Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021]; [Pub. L. 99–204][/us/pl/99/204], §§ 3, 4(a), Dec. 23, 1985, [99 Stat. 1669][/us/stat/99/1669]; [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I, § 101][/us/pl/102/549/s101], Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 103–392, title I, § 105][/us/pl/103/392/s105], Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 231, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 809][/us/stat/83/809]; amended [Pub. L. 93–390][/us/pl/93/390], § 2(1), Aug. 27, 1974, [88 Stat. 763][/us/stat/88/763]; [Pub. L. 95–268][/us/pl/95/268], § 2, Apr. 24, 1978, [92 Stat. 213][/us/stat/92/213]; [Pub. L. 97–65][/us/pl/97/65], § 2, Oct. 16, 1981, [95 Stat. 1021][/us/stat/95/1021]; [Pub. L. 99–204][/us/pl/99/204], §§ 3, 4(a), Dec. 23, 1985, [99 Stat. 1669][/us/stat/99/1669]; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 101, Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 103–392, title I][/us/pl/103/392/tI], § 105, Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099].)
 
  __References to Subchapter I Deemed To Include Certain Parts of Subchapter II__ 
 
@@ -93,7 +93,7 @@
 
  __Overseas Private Investment Corporation; Reaffirmation of Support__ 
 
-[Pub. L. 100–418, title II, § 2203(a)][/us/pl/100/418/s2203/a], Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328], provided that: 
+[Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2203(a), Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328], provided that: 
 
 > “The Congress reaffirms its support for the Overseas Private Investment Corporation as a United States Government agency serving important development assistance goals. In order to enhance the Corporation’s ability to meet these goals, the Overseas Private Investment Corporation should increase its loan guaranty and direct investment programs.”
 
@@ -138,19 +138,19 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 ([
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F809
-[/us/pl/93/390/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F1
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F763
-[/us/pl/95/268/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs2
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F213
-[/us/pl/97/65/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs2
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1021
 [/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1669
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/102/549/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs101
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3651
-[/us/pl/103/392/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs105
+[/us/pl/103/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2FtI
 [/us/stat/108/4099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4099
 [/us/pl/92/226/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs202%2Fb
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
@@ -171,7 +171,7 @@ By virtue of the authority vested in me by the Foreign Assistance Act of 1961 ([
 [/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
-[/us/pl/100/418/s2203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fa
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1328
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

@@ -47,7 +47,7 @@
 
         (B) includes any person described in clauses  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “clause”. </sup></sup>  (ii), (iii), or (iv) of subparagraph (A) who is serving in any capacity, including in a support role such as a cook, porter, messenger, medic, guard, or sex slave.
 
-([Pub. L. 110–457, title IV, § 402][/us/pl/110/457/s402], Dec. 23, 2008, [122 Stat. 5088][/us/stat/122/5088].)
+([Pub. L. 110–457, title IV][/us/pl/110/457/tIV], § 402, Dec. 23, 2008, [122 Stat. 5088][/us/stat/122/5088].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–457, title IV, § 407][/us/pl/110/457/s407], Dec. 23, 2008, [122 Stat. 5091][/us/stat/122/5091], provided that: 
+[Pub. L. 110–457, title IV][/us/pl/110/457/tIV], § 407, Dec. 23, 2008, [122 Stat. 5091][/us/stat/122/5091], provided that: 
 
 > “This title \[enacting this section and sections 2370c–1 and 2370c–2 of this title, amending [section 4028 of this title][/us/usc/t22/s4028], and enacting provisions set out as a note under [section 2151 of this title][/us/usc/t22/s2151]\], and the amendments made by this title, shall take effect 180 days after the date of the enactment of this Act \[Dec. 23, 2008\].”
 
@@ -70,12 +70,12 @@
 ----------
 ----------
 
-[/us/pl/110/457/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs402
+[/us/pl/110/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIV
 [/us/stat/122/5088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5088
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/stat/122/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5087
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/110/457/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs407
+[/us/pl/110/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtIV
 [/us/stat/122/5091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5091
 [/us/usc/t22/s4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4028
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

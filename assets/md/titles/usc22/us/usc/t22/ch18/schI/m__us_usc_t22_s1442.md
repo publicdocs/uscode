@@ -53,19 +53,19 @@
 
         (4) [Section 1476(a) of this title][/us/usc/t22/s1476/a] 1 shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
 
-([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1011, as added [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 544(a), [68 Stat. 862][/us/stat/68/862]; amended [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 544(g), as added [July 18, 1956, ch. 627, § 11(a)][/us/act/1956-07-18/ch627/s11/a], [70 Stat. 563][/us/stat/70/563], and amended [Pub. L. 85–141, § 11(b)(1)][/us/pl/85/141/s11/b/1], Aug. 14, 1957, [71 Stat. 365][/us/stat/71/365]; [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(i), June 30, 1958, [72 Stat. 274][/us/stat/72/274]; [Pub. L. 86–108][/us/pl/86/108], ch. VII, § 701(c), July 24, 1959, [73 Stat. 257][/us/stat/73/257]; [Pub. L. 97–241, title III, § 304(f)][/us/pl/97/241/s304/f], Aug. 24, 1982, [96 Stat. 293][/us/stat/96/293].)
+([Jan. 27, 1948, ch. 36][/us/act/1948-01-27/ch36], title X, § 1011, as added [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 544(a), [68 Stat. 862][/us/stat/68/862]; amended [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 544(g), as added [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], § 11(a), [70 Stat. 563][/us/stat/70/563], and amended [Pub. L. 85–141][/us/pl/85/141], § 11(b)(1), Aug. 14, 1957, [71 Stat. 365][/us/stat/71/365]; [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(i), June 30, 1958, [72 Stat. 274][/us/stat/72/274]; [Pub. L. 86–108][/us/pl/86/108], ch. VII, § 701(c), July 24, 1959, [73 Stat. 257][/us/stat/73/257]; [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 304(f), Aug. 24, 1982, [96 Stat. 293][/us/stat/96/293].)
 
  __References in Text__ 
 
     [Section 1933 of this title][/us/usc/t22/s1933], referred to in subsecs. (a), (c), (e), and (g), was repealed by [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460]. See [section 2351 of this title][/us/usc/t22/s2351].
 
-    [Section 1509 of this title][/us/usc/t22/s1509], referred to in subsecs. (b) and (g), was repealed by [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 542(a)(4), (6), (9), (10), (11), [68 Stat. 861][/us/stat/68/861]. See section 1754 et seq. of this title.
+    [Section 1509 of this title][/us/usc/t22/s1509], referred to in subsecs. (b) and (g), was repealed by [act Aug. 26, 1954, ch. 937, title V][/us/act/1954-08-26/ch937/tV], § 542(a)(4), (6), (9), (10), (11), [68 Stat. 861][/us/stat/68/861]. See section 1754 et seq. of this title.
 
-    [Section 1476(a) of this title][/us/usc/t22/s1476/a], referred to in subsec. (h)(4), was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
+    [Section 1476(a) of this title][/us/usc/t22/s1476/a], referred to in subsec. (h)(4), was repealed by [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1336(1), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].
 
  __Amendments__ 
 
-    1982—Subsec. (h)(4). [Pub. L. 97–241, § 304(f)][/us/pl/97/241/s304/f], added par. (4).
+    1982—Subsec. (h)(4). [Pub. L. 97–241][/us/pl/97/241], § 304(f), added par. (4).
 
     1959—Subsec. (a). [Pub. L. 86–108][/us/pl/86/108] provided that the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by [section 2351 of this title][/us/usc/t22/s2351].
 
@@ -96,27 +96,27 @@
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
 [/us/stat/68/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F862
 [/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
-[/us/act/1956-07-18/ch627/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627%2Fs11%2Fa
+[/us/act/1956-07-18/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch627
 [/us/stat/70/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F563
-[/us/pl/85/141/s11/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141%2Fs11%2Fb%2F1
+[/us/pl/85/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F141
 [/us/stat/71/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F365
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/stat/72/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F274
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/stat/73/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F257
-[/us/pl/97/241/s304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs304%2Ff
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F293
 [/us/usc/t22/s1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1933
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
 [/us/usc/t22/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2351
 [/us/usc/t22/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1509
-[/us/act/1954-08-26/ch937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937
+[/us/act/1954-08-26/ch937/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2FtV
 [/us/stat/68/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F861
 [/us/usc/t22/s1476/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1476%2Fa
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
-[/us/pl/97/241/s304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs304%2Ff
+[/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/pl/86/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F108
 [/us/usc/t22/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2351
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477

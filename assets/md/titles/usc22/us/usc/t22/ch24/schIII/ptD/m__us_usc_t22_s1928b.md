@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated annually (1) for the annual contribution of the United States toward the maintenance of the NATO Parliamentary Assembly, such sum as may be agreed upon by the United States Group and approved by such Assembly, but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year by all members of the NATO Parliamentary Treaty Organization toward the maintenance of such Assembly, and (2) $200,000, $100,000 for the House delegation and $100,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States Group of the NATO Parliamentary Assembly for each fiscal year for which an appropriation is made, such appropriation to be dispersed on voucher to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation.
 
-([July 11, 1956, ch. 562, § 2][/us/act/1956-07-11/ch562/s2], [70 Stat. 523][/us/stat/70/523]; [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(d), June 30, 1958, [72 Stat. 273][/us/stat/72/273]; [Pub. L. 90–137][/us/pl/90/137], pt. IV, § 401(a), Nov. 14, 1967, [81 Stat. 463][/us/stat/81/463]; [Pub. L. 92–226][/us/pl/92/226], pt. IV, § 405, Feb. 7, 1972, [86 Stat. 34][/us/stat/86/34]; [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title III, § 303\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–23; [Pub. L. 100–204, title VII, § 744(b)][/us/pl/100/204/s744/b], Dec. 22, 1987, [101 Stat. 1396][/us/stat/101/1396]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 701(b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–459; [Pub. L. 107–77, title IV, § 408(b)(1)][/us/pl/107/77/s408/b/1], Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].)
+([July 11, 1956, ch. 562][/us/act/1956-07-11/ch562], § 2, [70 Stat. 523][/us/stat/70/523]; [Pub. L. 85–477][/us/pl/85/477], ch. V, § 502(d), June 30, 1958, [72 Stat. 273][/us/stat/72/273]; [Pub. L. 90–137][/us/pl/90/137], pt. IV, § 401(a), Nov. 14, 1967, [81 Stat. 463][/us/stat/81/463]; [Pub. L. 92–226][/us/pl/92/226], pt. IV, § 405, Feb. 7, 1972, [86 Stat. 34][/us/stat/86/34]; [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title III, § 303\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–23; [Pub. L. 100–204, title VII][/us/pl/100/204/tVII], § 744(b), Dec. 22, 1987, [101 Stat. 1396][/us/stat/101/1396]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 701(b)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–459; [Pub. L. 107–77, title IV][/us/pl/107/77/tIV], § 408(b)(1), Nov. 28, 2001, [115 Stat. 790][/us/stat/115/790].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Change of Name__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 701(b)(3)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–459, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title VII, § 701(b)(3)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–459, provided that: 
 
 > “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) \[probably should be “paragraphs (1) or (2)”, which amended this section and sections 276c–1, 1928c, and 1928d of this title\]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/act/1956-07-11/ch562/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch562%2Fs2
+[/us/act/1956-07-11/ch562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch562
 [/us/stat/70/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F523
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
 [/us/stat/72/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F273
@@ -72,13 +72,13 @@
 [/us/stat/81/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F463
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F34
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/100/204/s744/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs744%2Fb
+[/us/pl/100/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVII
 [/us/stat/101/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1396
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/77/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs408%2Fb%2F1
+[/us/pl/107/77/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtIV
 [/us/stat/115/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F790
 [/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -88,7 +88,7 @@
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/pl/85/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F477
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t22/s276e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs276e

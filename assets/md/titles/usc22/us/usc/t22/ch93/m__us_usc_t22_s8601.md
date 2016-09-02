@@ -33,23 +33,23 @@
 
     (8) Pursuant to chapter 5 of title 1 of the Emergency Wartime Supplemental Appropriations Act, 2003 ([Public Law 108–11][/us/pl/108/11]; [117 Stat. 576][/us/stat/117/576]), the authority to make available loan guarantees to Israel is currently set to expire on September 30, 2012.
 
-([Pub. L. 112–150, § 2][/us/pl/112/150/s2], July 27, 2012, [126 Stat. 1146][/us/stat/126/1146].)
+([Pub. L. 112–150][/us/pl/112/150], § 2, July 27, 2012, [126 Stat. 1146][/us/stat/126/1146].)
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–296, § 1][/us/pl/113/296/s1], Dec. 19, 2014, [128 Stat. 4075][/us/stat/128/4075], provided that: 
+[Pub. L. 113–296][/us/pl/113/296], § 1, Dec. 19, 2014, [128 Stat. 4075][/us/stat/128/4075], provided that: 
 
 > “This Act \[enacting [section 8606 of this title][/us/usc/t22/s8606], amending sections 2321h and 2776 of this title and [section 17337 of Title 42][/us/usc/t42/s17337], The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8602, 8603, and 8606 of this title, and amending provisions set out as a note under [section 2776 of this title][/us/usc/t22/s2776]\] may be cited as the ‘United States-Israel Strategic Partnership Act of 2014’.”
 
  __Short Title__ 
 
-[Pub. L. 112–150, § 1][/us/pl/112/150/s1], July 27, 2012, [126 Stat. 1146][/us/stat/126/1146], provided that: 
+[Pub. L. 112–150][/us/pl/112/150], § 1, July 27, 2012, [126 Stat. 1146][/us/stat/126/1146], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 2321h of this title][/us/usc/t22/s2321h]\] may be cited as the ‘United States-Israel Enhanced Security Cooperation Act of 2012’.”
 
  __Findings__ 
 
-[Pub. L. 113–296, § 2][/us/pl/113/296/s2], Dec. 19, 2014, [128 Stat. 4075][/us/stat/128/4075], provided that: 
+[Pub. L. 113–296][/us/pl/113/296], § 2, Dec. 19, 2014, [128 Stat. 4075][/us/stat/128/4075], provided that: 
 
 > “Congress makes the following findings:
 
@@ -74,17 +74,17 @@
 
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
 [/us/stat/117/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F576
-[/us/pl/112/150/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs2
+[/us/pl/112/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150
 [/us/stat/126/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1146
-[/us/pl/113/296/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs1
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4075
 [/us/usc/t22/s8606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8606
 [/us/usc/t42/s17337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17337
 [/us/usc/t22/s2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776
-[/us/pl/112/150/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs1
+[/us/pl/112/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150
 [/us/stat/126/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1146
 [/us/usc/t22/s2321h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321h
-[/us/pl/113/296/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs2
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4075
 
 

@@ -21,7 +21,7 @@
 
     (2) the term “regional multilateral development bank” means the Inter-American Development Bank, the African Development Bank, the African Development Fund, and the Asian Development Bank.
 
-([Pub. L. 95–118, title XVI, § 1622][/us/pl/95/118/s1622], formerly § 1606, as added [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; renumbered § 1612, [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; renumbered § 1613, renumbered § 1614, renumbered § 1617, [Pub. L. 101–240, title II, § 206][/us/pl/101/240/s206], title V, §§ 501, 512, Dec. 19, 1989, [103 Stat. 2499][/us/stat/103/2499], 2505, 2508; renumbered § 1619, renumbered § 1620, [Pub. L. 101–513, title V, § 562(a)(2)][/us/pl/101/513/s562/a/2], (b)(1), Nov. 5, 1990, [104 Stat. 2032][/us/stat/104/2032], 2033; renumbered § 1622, [Pub. L. 103–306, title V, § 526(e)][/us/pl/103/306/s526/e], Aug. 23, 1994, [108 Stat. 1633][/us/stat/108/1633].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1622, formerly § 1606, as added [Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134; renumbered § 1612, [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; renumbered § 1613, renumbered § 1614, renumbered § 1617, [Pub. L. 101–240, title II][/us/pl/101/240/tII], § 206, title V, §§ 501, 512, Dec. 19, 1989, [103 Stat. 2499][/us/stat/103/2499], 2505, 2508; renumbered § 1619, renumbered § 1620, [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(a)(2), (b)(1), Nov. 5, 1990, [104 Stat. 2032][/us/stat/104/2032], 2033; renumbered § 1622, [Pub. L. 103–306, title V][/us/pl/103/306/tV], § 526(e), Aug. 23, 1994, [108 Stat. 1633][/us/stat/108/1633].)
 
  __References in Text__ 
 
@@ -38,16 +38,16 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1622
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/101/240/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs206
+[/us/pl/101/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtII
 [/us/stat/103/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2499
-[/us/pl/101/513/s562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fa%2F2
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2032
-[/us/pl/103/306/s526/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2Fs526%2Fe
+[/us/pl/103/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F306%2FtV
 [/us/stat/108/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1633
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118

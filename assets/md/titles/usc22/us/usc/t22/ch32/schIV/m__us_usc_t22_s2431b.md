@@ -17,7 +17,7 @@
 
     There is established in the Department of the Treasury an entity to be known as the “Tropical Forest Facility” for the purpose of providing for the administration of debt reduction in accordance with this subchapter.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. V, § 804, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 887][/us/stat/112/887].)
+([Pub. L. 87–195][/us/pl/87/195], pt. V, § 804, as added [Pub. L. 105–214][/us/pl/105/214], § 1, July 29, 1998, [112 Stat. 887][/us/stat/112/887].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/105/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214%2Fs1
+[/us/pl/105/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F214
 [/us/stat/112/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F887
 [/us/pl/87/195/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs804
 [/us/usc/t22/s2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2434

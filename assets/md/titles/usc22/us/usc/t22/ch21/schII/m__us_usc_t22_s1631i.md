@@ -17,7 +17,7 @@
 
     No suit may be instituted pursuant to [section 1631f(a) of this title][/us/usc/t22/s1631f/a] after the expiration of one year from the date of vesting of the property in respect of which relief is sought. No return may be made pursuant to [section 1631f(b) of this title][/us/usc/t22/s1631f/b] unless notice of claim has been filed within one year from the date of vesting of the property in respect of which the claim is filed.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 210, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 568][/us/stat/69/568].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title II, § 210, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 568][/us/stat/69/568].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t22/s1631f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631f%2Fa
 [/us/usc/t22/s1631f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631f%2Fb
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F568
 
 

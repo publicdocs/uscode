@@ -41,13 +41,13 @@
 
         The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to the Board and the Agency.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 25, as added [Pub. L. 96–465, title II, § 2201(a)][/us/pl/96/465/s2201/a], Oct. 17, 1980, [94 Stat. 2153][/us/stat/94/2153]; renumbered title I and amended [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], title III, § 303(b), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], 291; [Pub. L. 100–204, title I, § 125][/us/pl/100/204/s125], Dec. 22, 1987, [101 Stat. 1341][/us/stat/101/1341]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(l)(2), title XIV, § 1422(b)(3)(A), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–792.)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 25, as added [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2201(a), Oct. 17, 1980, [94 Stat. 2153][/us/stat/94/2153]; renumbered title I and amended [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), title III, § 303(b), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282], 291; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 125, Dec. 22, 1987, [101 Stat. 1341][/us/stat/101/1341]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(l)(2), title XIV, § 1422(b)(3)(A), Oct. 21, 1998, [112 Stat. 2681–789][/us/stat/112/2681-789], 2681–792.)
 
  __Amendments__ 
 
-    1998—Subsec. (f). [Pub. L. 105–277, § 1422(b)(3)(A)][/us/pl/105/277/s1422/b/3/A], substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+    1998—Subsec. (f). [Pub. L. 105–277][/us/pl/105/277], § 1422(b)(3)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
 
-    [Pub. L. 105–277, § 1335][/us/pl/105/277/s1335](l)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
+    [Pub. L. 105–277][/us/pl/105/277], § 1335(l)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
     1987—Subsec. (b). [Pub. L. 100–204][/us/pl/100/204] inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 
@@ -67,11 +67,11 @@
 
  __Official Residence of Secretary of State__ 
 
-[Pub. L. 100–204, title I, § 132][/us/pl/100/204/s132], Dec. 22, 1987, [101 Stat. 1344][/us/stat/101/1344], provided that: 
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 132, Dec. 22, 1987, [101 Stat. 1344][/us/stat/101/1344], provided that: 
 
 > “The Department of State shall not solicit or receive funds for the construction, purchase, lease or rental of, nor any gift or bequest of real property or any other property for the purpose of providing living quarters for the Secretary of State.”
 
-[Pub. L. 99–93, title I, § 130][/us/pl/99/93/s130], Aug. 16, 1985, [99 Stat. 420][/us/stat/99/420], provided that:
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 130, Aug. 16, 1985, [99 Stat. 420][/us/stat/99/420], provided that:
 
 >     “(a)  __Congressional Review__  __.—__ 
 
@@ -89,16 +89,16 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/96/465/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2201%2Fa
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2153
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/100/204/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs125
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1341
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-789
-[/us/pl/105/277/s1422/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1422%2Fb%2F3%2FA
-[/us/pl/105/277/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1335
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
@@ -110,9 +110,9 @@
 [/us/usc/t22/s6561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6561
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/100/204/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs132
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1344
-[/us/pl/99/93/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs130
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F420
 
 

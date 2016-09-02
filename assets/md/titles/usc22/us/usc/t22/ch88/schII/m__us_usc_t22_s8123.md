@@ -67,7 +67,7 @@
 
             A warrant issued under paragraph (2) shall specify the same matters required of an affidavit under that paragraph. In addition, each warrant shall contain the identities of the representatives of the IAEA on the complementary access team and the identities of the representatives or designees of the United States Government required to display identifying credentials under [section 8122(c) of this title][/us/usc/t22/s8122/c].
 
-([Pub. L. 109–401, title II, § 223][/us/pl/109/401/s223], Dec. 18, 2006, [120 Stat. 2745][/us/stat/120/2745].)
+([Pub. L. 109–401, title II][/us/pl/109/401/tII], § 223, Dec. 18, 2006, [120 Stat. 2745][/us/stat/120/2745].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t22/s8122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8122%2Fc
-[/us/pl/109/401/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs223
+[/us/pl/109/401/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtII
 [/us/stat/120/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2745
 
 

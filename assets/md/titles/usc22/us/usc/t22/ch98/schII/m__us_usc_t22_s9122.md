@@ -139,7 +139,7 @@
 
         Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
 
-([Pub. L. 113–150, title II, § 202][/us/pl/113/150/s202], Aug. 8, 2014, [128 Stat. 1818][/us/stat/128/1818].)
+([Pub. L. 113–150, title II][/us/pl/113/150/tII], § 202, Aug. 8, 2014, [128 Stat. 1818][/us/stat/128/1818].)
 
  __References in Text__ 
 
@@ -159,7 +159,7 @@
 [/us/usc/t22/s2151n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n
 [/us/usc/t22/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2304
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/113/150/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs202
+[/us/pl/113/150/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2FtII
 [/us/stat/128/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1818
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -25,7 +25,7 @@
 
     unless the President determines that (A) an arrangement for prompt, adequate, and effective compensation has been made, (B) the parties have submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes, or (C) good faith negotiations are in progress aimed at providing prompt, adequate, and effective compensation under the applicable principles of international law.
 
-([Pub. L. 94–302, title II, § 210][/us/pl/94/302/s210], May 31, 1976, [90 Stat. 595][/us/stat/90/595].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 210, May 31, 1976, [90 Stat. 595][/us/stat/90/595].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/94/302/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs210
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F595
 
 

@@ -39,7 +39,7 @@
 
         (6) Section 13(b).
 
-([Pub. L. 112–239, div. A, title XII, § 1253][/us/pl/112/239/s1253], Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1253, Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t50/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705%2Fa
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/239/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1253
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2017
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004

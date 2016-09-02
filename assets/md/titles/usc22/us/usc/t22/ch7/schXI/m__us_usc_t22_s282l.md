@@ -33,7 +33,7 @@
 
         In order to pay for the subscription authorized in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.
 
-([Aug. 11, 1955, ch. 788, § 14][/us/act/1955-08-11/ch788/s14], as added [Pub. L. 102–145, § 125(a)][/us/pl/102/145/s125/a], Oct. 28, 1991, as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 97][/us/stat/106/97].)
+([Aug. 11, 1955, ch. 788][/us/act/1955-08-11/ch788], § 14, as added [Pub. L. 102–145][/us/pl/102/145], § 125(a), Oct. 28, 1991, as added [Pub. L. 102–266][/us/pl/102/266], § 102, Apr. 1, 1992, [106 Stat. 97][/us/stat/106/97].)
 
 ----------
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/act/1955-08-11/ch788/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788%2Fs14
-[/us/pl/102/145/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145%2Fs125%2Fa
-[/us/pl/102/266/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266%2Fs102
+[/us/act/1955-08-11/ch788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch788
+[/us/pl/102/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F145
+[/us/pl/102/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F266
 [/us/stat/106/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F97
 
 

@@ -31,7 +31,7 @@
 
         (4) defeat all attempts by the Government of Iran to jam or otherwise obstruct international satellite broadcast signals.
 
-([Pub. L. 112–239, div. A, title XII, § 1243][/us/pl/112/239/s1243], Jan. 2, 2013, [126 Stat. 2005][/us/stat/126/2005].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1243, Jan. 2, 2013, [126 Stat. 2005][/us/stat/126/2005].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1243
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2005
 
 

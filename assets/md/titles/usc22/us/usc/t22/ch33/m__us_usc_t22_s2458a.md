@@ -39,7 +39,7 @@
 
         The Secretary of State is authorized to promulgate regulations for purposes of this section.
 
-([Pub. L. 87–256, § 108A][/us/pl/87/256/s108A], as added [Pub. L. 94–350, title I, § 111][/us/pl/94/350/s111], July 12, 1976, [90 Stat. 825][/us/stat/90/825]; amended [Pub. L. 96–60, title II, § 204(d)][/us/pl/96/60/s204/d], Aug. 15, 1979, [93 Stat. 400][/us/stat/93/400].)
+([Pub. L. 87–256][/us/pl/87/256], § 108A, as added [Pub. L. 94–350, title I][/us/pl/94/350/tI], § 111, July 12, 1976, [90 Stat. 825][/us/stat/90/825]; amended [Pub. L. 96–60, title II][/us/pl/96/60/tII], § 204(d), Aug. 15, 1979, [93 Stat. 400][/us/stat/93/400].)
 
  __Amendments__ 
 
@@ -61,10 +61,10 @@
 [/us/usc/t5/s7342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fa%2F1
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
-[/us/pl/87/256/s108A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs108A
-[/us/pl/94/350/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2Fs111
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
+[/us/pl/94/350/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F350%2FtI
 [/us/stat/90/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F825
-[/us/pl/96/60/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs204%2Fd
+[/us/pl/96/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtII
 [/us/stat/93/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F400
 [/us/pl/96/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60
 [/us/pl/96/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60

@@ -71,7 +71,7 @@
 
         (6) The Fund shall terminate on October 1, 2004. Amounts in the Fund on that date shall be deposited in the general fund of the Treasury of the United States.
 
-([Pub. L. 96–70, title I, § 1305][/us/pl/96/70/s1305], as added [Pub. L. 102–484, div. C, title XXXV, § 3521(a)][/us/pl/102/484/s3521/a], Oct. 23, 1992, [106 Stat. 2656][/us/stat/106/2656]; amended [Pub. L. 106–65, div. C, title XXXV, § 3504(a)][/us/pl/106/65/s3504/a], Oct. 5, 1999, [113 Stat. 975][/us/stat/113/975].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1305, as added [Pub. L. 102–484, div. C, title XXXV][/us/pl/102/484/dC/tXXXV], § 3521(a), Oct. 23, 1992, [106 Stat. 2656][/us/stat/106/2656]; amended [Pub. L. 106–65, div. C, title XXXV][/us/pl/106/65/dC/tXXXV], § 3504(a), Oct. 5, 1999, [113 Stat. 975][/us/stat/113/975].)
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Operation of Office of Transition Administration and Oversight of Close-Out Activities__ 
 
-[Pub. L. 106–65, div. C, title XXXV, § 3504(b)][/us/pl/106/65/s3504/b], (c), Oct. 5, 1999, [113 Stat. 975][/us/stat/113/975], provided that:
+[Pub. L. 106–65, div. C, title XXXV][/us/pl/106/65/dC/tXXXV], § 3504(b), (c), Oct. 5, 1999, [113 Stat. 975][/us/stat/113/975], provided that:
 
 >     “(b) __Operation of the Office of Transition Administration.—__ 
 
@@ -115,13 +115,13 @@
 ----------
 
 [/us/usc/t22/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612
-[/us/pl/96/70/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1305
-[/us/pl/102/484/s3521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3521%2Fa
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
+[/us/pl/102/484/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXV
 [/us/stat/106/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2656
-[/us/pl/106/65/s3504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3504%2Fa
+[/us/pl/106/65/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXV
 [/us/stat/113/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F975
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/106/65/s3504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3504%2Fb
+[/us/pl/106/65/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXV
 [/us/stat/113/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F975
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
 [/us/usc/t22/s3620/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3620%2Fb%2F1

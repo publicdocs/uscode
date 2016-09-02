@@ -27,7 +27,7 @@
 
         (2) Certain administrative functions.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XV, § 1511, Oct. 21, 1998, [112 Stat. 2681–793][/us/stat/112/2681-793].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XV, § 1511, Oct. 21, 1998, [112 Stat. 2681–793][/us/stat/112/2681-793].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XV, § 1501, Oct. 21, 1998, [112 Stat. 2681–793][/us/stat/112/2681-793], provided that: 
+[Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XV, § 1501, Oct. 21, 1998, [112 Stat. 2681–793][/us/stat/112/2681-793], provided that: 
 
 > “This title \[enacting this subchapter\], and the amendments made by this title, shall take effect on the earlier of—
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-793
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-765
 [/us/usc/t22/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6501
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-793
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
 

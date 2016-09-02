@@ -25,7 +25,7 @@
 
         (3) make a loan or provide other financing to the Bank, except that funds for technical assistance may be provided to the Bank by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 
-([Pub. L. 97–35, title XIII, § 1336][/us/pl/97/35/s1336], Aug. 13, 1981, [95 Stat. 742][/us/stat/95/742].)
+([Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1336, Aug. 13, 1981, [95 Stat. 742][/us/stat/95/742].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/35/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1336
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F742
 
 

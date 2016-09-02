@@ -105,7 +105,7 @@
 
         Direct loans or investments made in order to preserve the value of funds received in inconvertible foreign currency by the Corporation as a result of activities conducted pursuant to [section 2194(a) of this title][/us/usc/t22/s2194/a] shall not be considered in determining whether the Corporation has made or has outstanding loans or investments to the extent of any limitation on obligations and equity investment imposed by or pursuant to this subpart. The provisions of section 504(b) of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661c(b)][/us/usc/t2/s661c/b]\] shall not apply to direct loan obligations made with funds described in this subsection.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 237, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 814][/us/stat/83/814]; amended [Pub. L. 93–390, § 2(4)][/us/pl/93/390/s2/4], Aug. 27, 1974, [88 Stat. 767][/us/stat/88/767]; [Pub. L. 95–268][/us/pl/95/268], §§ 5, 6, Apr. 24, 1978, [92 Stat. 215][/us/stat/92/215]; [Pub. L. 97–65, § 6][/us/pl/97/65/s6], Oct. 16, 1981, [95 Stat. 1023][/us/stat/95/1023]; [Pub. L. 99–204][/us/pl/99/204], §§ 4(b), 6(b), 9(b)(2), Dec. 23, 1985, [99 Stat. 1670][/us/stat/99/1670], 1671, 1673; [Pub. L. 100–461, title V, § 555][/us/pl/100/461/s555], Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I, § 105][/us/pl/102/549/s105], Oct. 28, 1992, [106 Stat. 3652][/us/stat/106/3652].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 237, as added [Pub. L. 91–175][/us/pl/91/175], pt. I, § 105, Dec. 30, 1969, [83 Stat. 814][/us/stat/83/814]; amended [Pub. L. 93–390][/us/pl/93/390], § 2(4), Aug. 27, 1974, [88 Stat. 767][/us/stat/88/767]; [Pub. L. 95–268][/us/pl/95/268], §§ 5, 6, Apr. 24, 1978, [92 Stat. 215][/us/stat/92/215]; [Pub. L. 97–65][/us/pl/97/65], § 6, Oct. 16, 1981, [95 Stat. 1023][/us/stat/95/1023]; [Pub. L. 99–204][/us/pl/99/204], §§ 4(b), 6(b), 9(b)(2), Dec. 23, 1985, [99 Stat. 1670][/us/stat/99/1670], 1671, 1673; [Pub. L. 100–461, title V][/us/pl/100/461/tV], § 555, Oct. 1, 1988, [102 Stat. 2268–36][/us/stat/102/2268-36]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 105, Oct. 28, 1992, [106 Stat. 3652][/us/stat/106/3652].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 
     The Foreign Assistance Act of 1969, referred to in subsec. (c), is [Pub. L. 91–175][/us/pl/91/175], Dec. 30, 1969, [83 Stat. 805][/us/stat/83/805], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
-    The Federal Credit Reform Act of 1990, referred to in subsec. (d)(2), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
+    The Federal Credit Reform Act of 1990, referred to in subsec. (d)(2), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
     This chapter, referred to in subsec. (j), was in the original “this Act”, meaning [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
@@ -125,35 +125,35 @@
 
  __Amendments__ 
 
-    1992—Subsec. (d). [Pub. L. 102–549, § 105(a)][/us/pl/102/549/s105/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
+    1992—Subsec. (d). [Pub. L. 102–549][/us/pl/102/549], § 105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
 
-    Subsecs. (n), (o). [Pub. L. 102–549, § 105(b)][/us/pl/102/549/s105/b], (c), added subsecs. (n) and (o).
+    Subsecs. (n), (o). [Pub. L. 102–549][/us/pl/102/549], § 105(b), (c), added subsecs. (n) and (o).
 
     1988—[Pub. L. 100–461][/us/pl/100/461] inserted reference to financing in section catchline.
 
-    1985—Subsec. (f). [Pub. L. 99–204, § 6(b)][/us/pl/99/204/s6/b], added cl. (3).
+    1985—Subsec. (f). [Pub. L. 99–204][/us/pl/99/204], § 6(b), added cl. (3).
 
-    [Pub. L. 99–204, § 9(b)(2)][/us/pl/99/204/s9/b/2], inserted “or 2194b” after “section 2194”.
+    [Pub. L. 99–204][/us/pl/99/204], § 9(b)(2), inserted “or 2194b” after “section 2194”.
 
-    Subsec. (m). [Pub. L. 99–204, § 4(b)][/us/pl/99/204/s4/b], added subsec. (m).
+    Subsec. (m). [Pub. L. 99–204][/us/pl/99/204], § 4(b), added subsec. (m).
 
     1981—Subsec. (f). [Pub. L. 97–65][/us/pl/97/65] substituted “Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, and (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss” for “No insurance, reinsurance, or guaranty issued under this subpart shall exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings or profits actually accrued on said investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide for appropriate adjustments in the insured dollar value to reflect the replacement cost of project assets”, and struck out provision that the preceding sentence not apply to the extent not permitted by State law.
 
-    1978—Subsec. (f). [Pub. L. 95–268, § 5][/us/pl/95/268/s5], inserted provisions excepting from dollar amounts adjustments in the insured dollar amounts to reflect replacement cost of project assets, and provisions excepting from limitations loans by banks or other financial institutions to unrelated parties.
+    1978—Subsec. (f). [Pub. L. 95–268][/us/pl/95/268], § 5, inserted provisions excepting from dollar amounts adjustments in the insured dollar amounts to reflect replacement cost of project assets, and provisions excepting from limitations loans by banks or other financial institutions to unrelated parties.
 
-    Subsec. (l). [Pub. L. 95–268, § 6][/us/pl/95/268/s6], added subsec. (l).
+    Subsec. (l). [Pub. L. 95–268][/us/pl/95/268], § 6, added subsec. (l).
 
-    1974—Subsecs. (a) to (c). [Pub. L. 93–390, § 2(4)(A)][/us/pl/93/390/s2/4/A]–(C), inserted references to reinsurance wherever appearing.
+    1974—Subsecs. (a) to (c). [Pub. L. 93–390][/us/pl/93/390], § 2(4)(A)–(C), inserted references to reinsurance wherever appearing.
 
-    Subsec. (d). [Pub. L. 93–390, § 2(4)(D)][/us/pl/93/390/s2/4/D], inserted provisions authorizing fees to be charged for reinsurance and reduction of reinsurance fees under existing contracts in the event fees charged for reinsurance are reduced.
+    Subsec. (d). [Pub. L. 93–390][/us/pl/93/390], § 2(4)(D), inserted provisions authorizing fees to be charged for reinsurance and reduction of reinsurance fees under existing contracts in the event fees charged for reinsurance are reduced.
 
-    Subsec. (e). [Pub. L. 93–390, § 2(4)(E)][/us/pl/93/390/s2/4/E], inserted reference to reinsurance.
+    Subsec. (e). [Pub. L. 93–390][/us/pl/93/390], § 2(4)(E), inserted reference to reinsurance.
 
-    Subsec. (f). [Pub. L. 93–390, § 2(4)(F)][/us/pl/93/390/s2/4/F], (G), inserted “reinsurance” before “or guaranty” wherever appearing and provisions relating to limitations on the amount of direct insurance or reinsurance.
+    Subsec. (f). [Pub. L. 93–390][/us/pl/93/390], § 2(4)(F), (G), inserted “reinsurance” before “or guaranty” wherever appearing and provisions relating to limitations on the amount of direct insurance or reinsurance.
 
-    Subsec. (g). [Pub. L. 93–390, § 2(4)(H)][/us/pl/93/390/s2/4/H], inserted applicability to insurance and reinsurance.
+    Subsec. (g). [Pub. L. 93–390][/us/pl/93/390], § 2(4)(H), inserted applicability to insurance and reinsurance.
 
-    Subsecs. (h) to (k). [Pub. L. 93–390, § 2(4)(I)][/us/pl/93/390/s2/4/I]–(K), inserted reference to reinsurance wherever appearing.
+    Subsecs. (h) to (k). [Pub. L. 93–390][/us/pl/93/390], § 2(4)(I)–(K), inserted reference to reinsurance wherever appearing.
 
  __Delegation of Functions__ 
 
@@ -176,17 +176,17 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/91/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F175
 [/us/stat/83/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F814
-[/us/pl/93/390/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/stat/88/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F767
 [/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
 [/us/stat/92/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F215
-[/us/pl/97/65/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65%2Fs6
+[/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
 [/us/stat/95/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1023
 [/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1670
-[/us/pl/100/461/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2Fs555
+[/us/pl/100/461/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461%2FtV
 [/us/stat/102/2268-36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2268-36
-[/us/pl/102/549/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs105
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3652
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
@@ -196,7 +196,7 @@
 [/us/stat/83/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F805
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
@@ -207,21 +207,21 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/102/549/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs105%2Fa
-[/us/pl/102/549/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs105%2Fb
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
+[/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/pl/100/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F461
-[/us/pl/99/204/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs6%2Fb
-[/us/pl/99/204/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs9%2Fb%2F2
-[/us/pl/99/204/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs4%2Fb
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/pl/97/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F65
-[/us/pl/95/268/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs5
-[/us/pl/95/268/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs6
-[/us/pl/93/390/s2/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4%2FA
-[/us/pl/93/390/s2/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4%2FD
-[/us/pl/93/390/s2/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4%2FE
-[/us/pl/93/390/s2/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4%2FF
-[/us/pl/93/390/s2/4/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4%2FH
-[/us/pl/93/390/s2/4/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390%2Fs2%2F4%2FI
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/95/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
+[/us/pl/93/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F390
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 
 

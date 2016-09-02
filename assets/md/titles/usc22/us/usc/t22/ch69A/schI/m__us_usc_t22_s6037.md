@@ -27,7 +27,7 @@
 
         Upon transmittal of a determination under [section 6063(c)(3) of this title][/us/usc/t22/s6063/c/3], the Television Broadcasting to Cuba Act ([22 U.S.C. 1465aa][/us/usc/t22/s1465aa] and following) and the Radio Broadcasting to Cuba Act ([22 U.S.C. 1465][/us/usc/t22/s1465] and following) are repealed.
 
-([Pub. L. 104–114, title I, § 107][/us/pl/104/114/s107], Mar. 12, 1996, [110 Stat. 798][/us/stat/110/798]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1335(r), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 107, Mar. 12, 1996, [110 Stat. 798][/us/stat/110/798]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, § 1335(r), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t22/s6063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F3
 [/us/usc/t22/s1465aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465aa
 [/us/usc/t22/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465
-[/us/pl/104/114/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs107
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F798
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/stat/104/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F58

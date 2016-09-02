@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011.
 
-([Pub. L. 109–401, title I, § 109][/us/pl/109/401/s109], Dec. 18, 2006, [120 Stat. 2739][/us/stat/120/2739].)
+([Pub. L. 109–401, title I][/us/pl/109/401/tI], § 109, Dec. 18, 2006, [120 Stat. 2739][/us/stat/120/2739].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/109/401/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs109
+[/us/pl/109/401/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2FtI
 [/us/stat/120/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2739
 
 

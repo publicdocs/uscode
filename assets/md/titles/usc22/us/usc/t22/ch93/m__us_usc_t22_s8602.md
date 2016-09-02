@@ -31,11 +31,11 @@
 
     (7) To encourage further development of advanced technology programs between the United States and Israel given current trends and instability in the region.
 
-([Pub. L. 112–150, § 3][/us/pl/112/150/s3], July 27, 2012, [126 Stat. 1147][/us/stat/126/1147].)
+([Pub. L. 112–150][/us/pl/112/150], § 3, July 27, 2012, [126 Stat. 1147][/us/stat/126/1147].)
 
  __Statement of Policy__ 
 
-[Pub. L. 113–296, § 3][/us/pl/113/296/s3], Dec. 19, 2014, [128 Stat. 4075][/us/stat/128/4075], provided that: 
+[Pub. L. 113–296][/us/pl/113/296], § 3, Dec. 19, 2014, [128 Stat. 4075][/us/stat/128/4075], provided that: 
 
 > “It is the policy of the United States—
 
@@ -53,7 +53,7 @@
 
  __Statement of Policy Regarding the Visa Waiver Program__ 
 
-[Pub. L. 113–296, § 9][/us/pl/113/296/s9], Dec. 19, 2014, [128 Stat. 4077][/us/stat/128/4077], provided that: 
+[Pub. L. 113–296][/us/pl/113/296], § 9, Dec. 19, 2014, [128 Stat. 4077][/us/stat/128/4077], provided that: 
 
 > “It shall be the policy of the United States to include Israel in the list of countries that participate in the visa waiver program under section 217 of the Immigration and Nationality Act ([8 U.S.C. 1187][/us/usc/t8/s1187]) when Israel satisfies, and as long as Israel continues to satisfy, the requirements for inclusion in such program specified in such section.”
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/112/150/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150%2Fs3
+[/us/pl/112/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150
 [/us/stat/126/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1147
-[/us/pl/113/296/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs3
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4075
 [/us/pl/112/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F150
 [/us/usc/t22/s8601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8601
-[/us/pl/113/296/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296%2Fs9
+[/us/pl/113/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F296
 [/us/stat/128/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4077
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
 

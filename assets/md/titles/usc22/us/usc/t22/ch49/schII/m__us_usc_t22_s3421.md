@@ -17,7 +17,7 @@
 
     The Congress considers the establishment of the Multinational Force and Observers to be an essential stage in the development of a comprehensive settlement in the Middle East. The Congress enacts this subchapter with the hope and expectation that establishment of the Multinational Force and Observers will assist Egypt and Israel in fulfilling the Camp David accords and bringing about the establishment of a self-governing authority in order to provide full autonomy in the West Bank and Gaza.
 
-([Pub. L. 97–132, § 2][/us/pl/97/132/s2], Dec. 29, 1981, [95 Stat. 1693][/us/stat/95/1693].)
+([Pub. L. 97–132][/us/pl/97/132], § 2, Dec. 29, 1981, [95 Stat. 1693][/us/stat/95/1693].)
 
  __Short Title__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/132/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs2
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1693
 [/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/pl/97/132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs1

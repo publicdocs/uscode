@@ -49,7 +49,7 @@
 
         The President is authorized to use amounts not to exceed $50,000,000 of the funds made available under this chapter pursuant to his certification that it is inadvisable to specify the nature of the use of such funds, which certification shall be deemed to be a sufficient voucher for such amounts. The President shall fully inform the chairman and ranking minority member of the Committee on Foreign Affairs of the House of Representatives and the chairman and ranking minority member of the Committee on Foreign Relations of the Senate of each use of funds under this subsection prior to the use of such funds.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 614, Sept. 4, 1961, [75 Stat. 444][/us/stat/75/444]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(f), (g), Sept. 19, 1966, [80 Stat. 805][/us/stat/80/805]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(e), Nov. 14, 1967, [81 Stat. 459][/us/stat/81/459]; [Pub. L. 93–559, § 19(b)][/us/pl/93/559/s19/b], Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800]; [Pub. L. 96–533, title I, § 117(a)][/us/pl/96/533/s117/a], Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 99–83, title I, § 128][/us/pl/99/83/s128], Aug. 8, 1985, [99 Stat. 206][/us/stat/99/206]; [Pub. L. 101–222, § 8][/us/pl/101/222/s8], Dec. 12, 1989, [103 Stat. 1899][/us/stat/103/1899]; [Pub. L. 103–199, title VII, § 705(2)][/us/pl/103/199/s705/2], Dec. 17, 1993, [107 Stat. 2328][/us/stat/107/2328].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 614, Sept. 4, 1961, [75 Stat. 444][/us/stat/75/444]; [Pub. L. 89–583][/us/pl/89/583], pt. III, § 301(f), (g), Sept. 19, 1966, [80 Stat. 805][/us/stat/80/805]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 301(e), Nov. 14, 1967, [81 Stat. 459][/us/stat/81/459]; [Pub. L. 93–559][/us/pl/93/559], § 19(b), Dec. 30, 1974, [88 Stat. 1800][/us/stat/88/1800]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 117(a), Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 128, Aug. 8, 1985, [99 Stat. 206][/us/stat/99/206]; [Pub. L. 101–222][/us/pl/101/222], § 8, Dec. 12, 1989, [103 Stat. 1899][/us/stat/103/1899]; [Pub. L. 103–199, title VII][/us/pl/103/199/tVII], § 705(2), Dec. 17, 1993, [107 Stat. 2328][/us/stat/107/2328].)
 
  __References in Text__ 
 
@@ -75,9 +75,9 @@
 
     1967—Subsec. (a). [Pub. L. 90–137][/us/pl/90/137] substituted “506” for “510”, classified to the Code as [section 2318 of this title][/us/usc/t22/s2318].
 
-    1966—Subsec. (a). [Pub. L. 89–583, § 301(f)][/us/pl/89/583/s301/f], provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
+    1966—Subsec. (a). [Pub. L. 89–583][/us/pl/89/583], § 301(f), provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
 
-    Subsec. (c). [Pub. L. 89–583, § 301(g)][/us/pl/89/583/s301/g], inserted provision for reports to Congress of use of funds under this subsec.
+    Subsec. (c). [Pub. L. 89–583][/us/pl/89/583], § 301(g), inserted provision for reports to Congress of use of funds under this subsec.
 
  __Effective Date of 1985 Amendment__ 
 
@@ -104,15 +104,15 @@
 [/us/stat/80/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F805
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F459
-[/us/pl/93/559/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs19%2Fb
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1800
-[/us/pl/96/533/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs117%2Fa
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3140
-[/us/pl/99/83/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs128
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F206
-[/us/pl/101/222/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs8
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1899
-[/us/pl/103/199/s705/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs705%2F2
+[/us/pl/103/199/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVII
 [/us/stat/107/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2328
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -130,8 +130,8 @@
 [/us/usc/t22/s2360/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2360%2Fa
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/usc/t22/s2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2318
-[/us/pl/89/583/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs301%2Ff
-[/us/pl/89/583/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583%2Fs301%2Fg
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
+[/us/pl/89/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F583
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931

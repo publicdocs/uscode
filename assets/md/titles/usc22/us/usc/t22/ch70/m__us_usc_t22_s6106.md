@@ -35,7 +35,7 @@
 
     (4) the term “detailee” means an employee of an agency of the United States Government on assignment or loan to the Mansfield Center for Pacific Affairs without a change of position from the agency by which he or she is employed.
 
-([Pub. L. 103–236, title II, § 257][/us/pl/103/236/s257], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432].)
+([Pub. L. 103–236, title II][/us/pl/103/236/tII], § 257, Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs257
+[/us/pl/103/236/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtII
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
 
 

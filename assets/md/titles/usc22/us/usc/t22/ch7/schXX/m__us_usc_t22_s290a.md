@@ -17,7 +17,7 @@
 
     The President shall designate from time to time to attend a specified session or specified sessions of the World Health Assembly of the Organization not to exceed three delegates of the United States and such number of alternates as he may determine consistent with the rules of procedure of the World Health Assembly. One of the delegates shall be designated as the chief delegate. Whenever the United States becomes entitled to designate a person to serve on the Executive Board of the Organization, under article 24 of the constitution of the Organization, the President shall designate a representative of the United States, by and with the advice and consent of the Senate, and may designate not to exceed one alternate to attend sessions of the Executive Board. Such representative must be a graduate of a recognized medical school and have spent not less than three years in active practice as a physician or surgeon. Such representative and any such alternate shall each be entitled to receive compensation at one of the rates established under section 3962 or 3963 of this title, for such period or periods as the President may specify, except that no Member of the Senate or House of Representatives or officer of the United States who is thus designated shall be entitled to receive such compensation: Provided, That no person shall serve as such representative, delegate, or alternate until such person has been investigated as to loyalty and security by the Director of the Office of Personnel Management.
 
-([June 14, 1948, ch. 469, § 2][/us/act/1948-06-14/ch469/s2], [62 Stat. 441][/us/stat/62/441]; [Apr. 5, 1952, ch. 159, § 1][/us/act/1952-04-05/ch159/s1], [66 Stat. 43][/us/stat/66/43]; [Pub. L. 87–793, § 1001(i)][/us/pl/87/793/s1001/i], Oct. 11, 1962, [76 Stat. 865][/us/stat/76/865]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 96–465, title II, § 2206(a)(4)][/us/pl/96/465/s2206/a/4], Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161].)
+([June 14, 1948, ch. 469][/us/act/1948-06-14/ch469], § 2, [62 Stat. 441][/us/stat/62/441]; [Apr. 5, 1952, ch. 159][/us/act/1952-04-05/ch159], § 1, [66 Stat. 43][/us/stat/66/43]; [Pub. L. 87–793][/us/pl/87/793], § 1001(i), Oct. 11, 1962, [76 Stat. 865][/us/stat/76/865]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(4), Oct. 17, 1980, [94 Stat. 2161][/us/stat/94/2161].)
 
  __Amendments__ 
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/act/1948-06-14/ch469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-14%2Fch469%2Fs2
+[/us/act/1948-06-14/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-14%2Fch469
 [/us/stat/62/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F441
-[/us/act/1952-04-05/ch159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-05%2Fch159%2Fs1
+[/us/act/1952-04-05/ch159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-05%2Fch159
 [/us/stat/66/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F43
-[/us/pl/87/793/s1001/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1001%2Fi
+[/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F865
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/96/465/s2206/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F4
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2161
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs867

@@ -21,7 +21,7 @@
 
     (2) the United States should be prepared to aggressively counter any effort by any WTO member, upon the approval of the General Council of the WTO of the terms and conditions of the accession of the People’s Republic of China to the WTO, to block the accession of Taiwan to the WTO.
 
-([Pub. L. 106–286, div. B, title VI, § 601][/us/pl/106/286/s601], Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
+([Pub. L. 106–286, div. B, title VI][/us/pl/106/286/dB/tVI], § 601, Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/286/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs601
+[/us/pl/106/286/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtVI
 [/us/stat/114/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F906
 
 

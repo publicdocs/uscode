@@ -69,7 +69,7 @@
 
             (B) respecting the human rights and basic freedoms recognized in the Universal Declaration of Human Rights.
 
-([Pub. L. 111–195, title I, § 105][/us/pl/111/195/s105], July 1, 2010, [124 Stat. 1335][/us/stat/124/1335].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 105, July 1, 2010, [124 Stat. 1335][/us/stat/124/1335].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/195/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs105
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1335
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626

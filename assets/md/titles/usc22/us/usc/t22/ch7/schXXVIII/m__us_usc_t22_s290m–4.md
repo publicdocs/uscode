@@ -21,7 +21,7 @@
 
     (2) amend the definition of “border region” to include the area in the United States that is within 100 kilometers of the international boundary between the United States and Mexico, and the area in Mexico that is within 300 kilometers of the international boundary between the United States and Mexico.
 
-([Pub. L. 103–182, title V, § 545][/us/pl/103/182/s545], as added [Pub. L. 108–215, § 1(a)][/us/pl/108/215/s1/a], Apr. 5, 2004, [118 Stat. 579][/us/stat/118/579].)
+([Pub. L. 103–182, title V][/us/pl/103/182/tV], § 545, as added [Pub. L. 108–215][/us/pl/108/215], § 1(a), Apr. 5, 2004, [118 Stat. 579][/us/stat/118/579].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/103/182/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs545
-[/us/pl/108/215/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F215%2Fs1%2Fa
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
+[/us/pl/108/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F215
 [/us/stat/118/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F579
 
 

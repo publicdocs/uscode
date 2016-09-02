@@ -27,7 +27,7 @@
 
         Except as provided in subsection (b) of this section, the Fund may be used to pay for storage, maintenance, and other costs related to the preservation and preparation for transfer of defense articles and defense services acquired under this subchapter prior to their transfer, as well as the administrative costs of the Department of Defense incurred in the acquisition of such items to the extent not reimbursed pursuant to [section 2792(b) of this title][/us/usc/t22/s2792/b].
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 5, § 52, as added [Pub. L. 97–113, title I, § 108(a)][/us/pl/97/113/s108/a], Dec. 29, 1981, [95 Stat. 1523][/us/stat/95/1523].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 5, § 52, as added [Pub. L. 97–113, title I][/us/pl/97/113/tI], § 108(a), Dec. 29, 1981, [95 Stat. 1523][/us/stat/95/1523].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2792/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2792%2Fb
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
-[/us/pl/97/113/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs108%2Fa
+[/us/pl/97/113/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtI
 [/us/stat/95/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1523
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321

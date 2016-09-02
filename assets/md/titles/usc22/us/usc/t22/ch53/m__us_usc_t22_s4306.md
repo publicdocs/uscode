@@ -97,7 +97,7 @@
 
         Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 206, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 286][/us/stat/96/286].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 206, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 286][/us/stat/96/286].)
 
 ----------
 
@@ -108,7 +108,7 @@
 
 [/us/usc/t22/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4305
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F286
 
 

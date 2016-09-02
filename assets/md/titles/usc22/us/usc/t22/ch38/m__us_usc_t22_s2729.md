@@ -35,7 +35,7 @@
 
         Beginning three months after September 30, 2002, the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) with respect to deaths occurring since September 30, 2002, or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 57, as added [Pub. L. 107–228, div. A, title II, § 204][/us/pl/107/228/s204], Sept. 30, 2002, [116 Stat. 1363][/us/stat/116/1363].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 57, as added [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 204, Sept. 30, 2002, [116 Stat. 1363][/us/stat/116/1363].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/107/228/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs204
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1363
 
 

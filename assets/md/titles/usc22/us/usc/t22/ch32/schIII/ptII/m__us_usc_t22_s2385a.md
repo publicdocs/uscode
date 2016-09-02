@@ -31,7 +31,7 @@
 
         Regulations which take effect pursuant to this section shall have the force and effect of law and shall apply with respect to the personnel of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], notwithstanding and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “any”. </sup></sup>  inconsistent provision of law unless that provision of law specifically states that it supersedes regulations issued under this section.
 
-([Pub. L. 95–424, title IV, § 401][/us/pl/95/424/s401], Oct. 6, 1978, [92 Stat. 956][/us/stat/92/956]; [Pub. L. 96–53, title V, § 503(a)][/us/pl/96/53/s503/a], Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378].)
+([Pub. L. 95–424, title IV][/us/pl/95/424/tIV], § 401, Oct. 6, 1978, [92 Stat. 956][/us/stat/92/956]; [Pub. L. 96–53, title V][/us/pl/96/53/tV], § 503(a), Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–53, title V, § 503(b)][/us/pl/96/53/s503/b], Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378], provided that: 
+[Pub. L. 96–53, title V][/us/pl/96/53/tV], § 503(b), Aug. 14, 1979, [93 Stat. 378][/us/stat/93/378], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as of March 15, 1979.”
 
@@ -64,9 +64,9 @@
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/95/424/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs401
+[/us/pl/95/424/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtIV
 [/us/stat/92/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F956
-[/us/pl/96/53/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs503%2Fa
+[/us/pl/96/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtV
 [/us/stat/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F378
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -74,7 +74,7 @@
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
-[/us/pl/96/53/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs503%2Fb
+[/us/pl/96/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2FtV
 [/us/stat/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F378
 [/us/pl/95/424/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs605
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

@@ -15,17 +15,17 @@
 
 ## § 1622. Establishment of Commission
 
-    (a) __, (b) Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 656__  __][/us/stat/80/656]__ 
+    (a) __, (b) Repealed.__  __[__  __Pub. L. 89–554__  __][/us/pl/89/554]__  __, § 8(a),__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 656__  __][/us/stat/80/656]__ 
 
     (c) __Rules and regulations; termination date; removal of personnel; reports__ 
 
         The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The President may fix a termination date for the authority of the Commission, and the terms of office of its members under this subchapter. Any member of the Commission may be removed by the Secretary of State, upon notice and hearing, for neglect of duty, or malfeasance in office, but for no other cause. Not later than six months after its organization, and every six months thereafter, the Commission shall make a report, through the Secretary of State, to the Congress concerning its operations under this subchapter. The Commission shall, upon completion of its work, certify in duplicate to the Secretary of State and to the Secretary of the Treasury the following: (1) A list of all claims disallowed; (2) a list of all claims allowed, in whole or in part, together with the amount of each claim and the amount awarded thereon; and (3) a copy of the decision rendered in each case.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title I, § 3, [64 Stat. 13][/us/stat/64/13]; [Aug. 8, 1953, ch. 396, § 3][/us/act/1953-08-08/ch396/s3], [67 Stat. 506][/us/stat/67/506]; 1954 Reorg. Plan No. 1, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, [68 Stat. 1279][/us/stat/68/1279]; [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], §§ 1, 2, [69 Stat. 562][/us/stat/69/562]; [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656], 657.)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title I, § 3, [64 Stat. 13][/us/stat/64/13]; [Aug. 8, 1953, ch. 396][/us/act/1953-08-08/ch396], § 3, [67 Stat. 506][/us/stat/67/506]; 1954 Reorg. Plan No. 1, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, [68 Stat. 1279][/us/stat/68/1279]; [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], §§ 1, 2, [69 Stat. 562][/us/stat/69/562]; [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 656][/us/stat/80/656], 657.)
 
  __Annual Submission of Report__ 
 
-    [Pub. L. 89–348, § 2(7)][/us/pl/89/348/s2/7], Nov. 8, 1965, [79 Stat. 1312][/us/stat/79/1312], modified subsection (c) of this section to require annual submission instead of semiannual submission to the Congress by the Foreign Claims Settlement Commission of its report concerning its operations under the International Claims Settlement Act of 1949.
+    [Pub. L. 89–348][/us/pl/89/348], § 2(7), Nov. 8, 1965, [79 Stat. 1312][/us/stat/79/1312], modified subsection (c) of this section to require annual submission instead of semiannual submission to the Congress by the Foreign Claims Settlement Commission of its report concerning its operations under the International Claims Settlement Act of 1949.
 
  __References to This Subchapter Deemed To Include Section 119 of H.R. 2076__ 
 
@@ -152,18 +152,18 @@
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F656
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F13
-[/us/act/1953-08-08/ch396/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch396%2Fs3
+[/us/act/1953-08-08/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch396
 [/us/stat/67/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F506
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F656
-[/us/pl/89/348/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs2%2F7
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1312
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/usc/t22/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1644

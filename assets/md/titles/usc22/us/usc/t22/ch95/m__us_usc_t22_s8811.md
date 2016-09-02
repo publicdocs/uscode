@@ -17,7 +17,7 @@
 
     Nothing in this subtitle or the amendments made by this subtitle shall be construed to limit sanctions imposed with respect to Iran under any other provision of law or to limit the authority of the President to impose additional sanctions with respect to Iran.
 
-([Pub. L. 112–239, div. A, title XII, § 1255][/us/pl/112/239/s1255], Jan. 2, 2013, [126 Stat. 2018][/us/stat/126/2018].)
+([Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1255, Jan. 2, 2013, [126 Stat. 2018][/us/stat/126/2018].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1255
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2018
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004

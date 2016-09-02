@@ -31,7 +31,7 @@
 
     (b) No person shall be entitled to receive any salary or other compensation from the United States for services as a Governor or Alternate Governor. The Director may, in the discretion of the President, receive such compensation, allowances, and other benefits as, together with those received by him from the Bank, will equal those authorized for a chief of mission under the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\].
 
-([Pub. L. 89–369, § 3][/us/pl/89/369/s3], Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71]; [Pub. L. 96–465, title II, § 2206(a)(1)][/us/pl/96/465/s2206/a/1], Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160]; [Pub. L. 112–166, § 2(aa)][/us/pl/112/166/s2/aa], Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
+([Pub. L. 89–369][/us/pl/89/369], § 3, Mar. 16, 1966, [80 Stat. 71][/us/stat/80/71]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(a)(1), Oct. 17, 1980, [94 Stat. 2160][/us/stat/94/2160]; [Pub. L. 112–166][/us/pl/112/166], § 2(aa), Aug. 10, 2012, [126 Stat. 1289][/us/stat/126/1289].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 ----------
 
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/89/369/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs3
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
 [/us/stat/80/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F71
-[/us/pl/96/465/s2206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fa%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2160
-[/us/pl/112/166/s2/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Faa
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1289
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071

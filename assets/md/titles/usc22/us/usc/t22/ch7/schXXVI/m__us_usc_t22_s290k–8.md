@@ -27,7 +27,7 @@
 
         Any payment of dividends made to the United States by the Agency shall be deposited into the Treasury as a miscellaneous receipt.
 
-([Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
+([Pub. L. 100–202][/us/pl/100/202], § 101(e) \[title I\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–134.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __First General Capital Increase__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Multilateral Investment Guarantee Agency and authorized $29,870,087 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Agency and $139,365,533 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Agency.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 594\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Multilateral Investment Guarantee Agency and authorized $29,870,087 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Agency and $139,365,533 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Agency.
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/100/202/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fe
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-131
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 
 

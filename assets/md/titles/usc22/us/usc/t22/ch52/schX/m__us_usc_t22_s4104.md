@@ -25,7 +25,7 @@
 
         (2) to engage in collective bargaining with respect to conditions of employment through representatives chosen by employees under this subchapter.
 
-([Pub. L. 96–465, title I, § 1004][/us/pl/96/465/s1004], Oct. 17, 1980, [94 Stat. 2130][/us/stat/94/2130].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 1004, Oct. 17, 1980, [94 Stat. 2130][/us/stat/94/2130].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/465/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs1004
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2130
 
 

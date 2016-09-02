@@ -71,7 +71,7 @@
 
         (2) Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
 
-([Pub. L. 96–70, title I, § 1302][/us/pl/96/70/s1302], Sept. 27, 1979, [93 Stat. 477][/us/stat/93/477]; [Pub. L. 99–195, § 1(a)][/us/pl/99/195/s1/a], Dec. 23, 1985, [99 Stat. 1349][/us/stat/99/1349]; [Pub. L. 100–203, title V, § 5422(a)][/us/pl/100/203/s5422/a], (b)(1), Dec. 22, 1987, [101 Stat. 1330–271][/us/stat/101/1330-271], 1330–272; [Pub. L. 100–705, § 9][/us/pl/100/705/s9], Nov. 19, 1988, [102 Stat. 4687][/us/stat/102/4687]; [Pub. L. 102–484, div. C, title XXXV, § 3521(b)(1)][/us/pl/102/484/s3521/b/1], Oct. 23, 1992, [106 Stat. 2657][/us/stat/106/2657]; [Pub. L. 104–106, div. C, title XXXV, § 3525][/us/pl/104/106/s3525], Feb. 10, 1996, [110 Stat. 640][/us/stat/110/640]; [Pub. L. 104–201, div. C, title XXXV, § 3539][/us/pl/104/201/s3539], Sept. 23, 1996, [110 Stat. 2865][/us/stat/110/2865]; [Pub. L. 105–85, div. C, title XXXV, § 3528][/us/pl/105/85/s3528], Nov. 18, 1997, [111 Stat. 2069][/us/stat/111/2069]; [Pub. L. 108–309, § 121][/us/pl/108/309/s121], Sept. 30, 2004, [118 Stat. 1140][/us/stat/118/1140].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1302, Sept. 27, 1979, [93 Stat. 477][/us/stat/93/477]; [Pub. L. 99–195][/us/pl/99/195], § 1(a), Dec. 23, 1985, [99 Stat. 1349][/us/stat/99/1349]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5422(a), (b)(1), Dec. 22, 1987, [101 Stat. 1330–271][/us/stat/101/1330-271], 1330–272; [Pub. L. 100–705][/us/pl/100/705], § 9, Nov. 19, 1988, [102 Stat. 4687][/us/stat/102/4687]; [Pub. L. 102–484, div. C, title XXXV][/us/pl/102/484/dC/tXXXV], § 3521(b)(1), Oct. 23, 1992, [106 Stat. 2657][/us/stat/106/2657]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3525, Feb. 10, 1996, [110 Stat. 640][/us/stat/110/640]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3539, Sept. 23, 1996, [110 Stat. 2865][/us/stat/110/2865]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85/dC/tXXXV], § 3528, Nov. 18, 1997, [111 Stat. 2069][/us/stat/111/2069]; [Pub. L. 108–309][/us/pl/108/309], § 121, Sept. 30, 2004, [118 Stat. 1140][/us/stat/118/1140].)
 
  __References in Text__ 
 
@@ -83,35 +83,35 @@
 
     2004—Subsec. (e). [Pub. L. 108–309][/us/pl/108/309] added subsec. (e).
 
-    1997—Subsec. (a). [Pub. L. 105–85, § 3528(b)(1)][/us/pl/105/85/s3528/b/1], substituted “for the following purposes:” for “for—” in introductory provisions.
+    1997—Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
 
-    Subsec. (a)(1) to (7). [Pub. L. 105–85, § 3528(b)(2)][/us/pl/105/85/s3528/b/2], (3), capitalized initial letter of first word and substituted a period for the semicolon at end.
+    Subsec. (a)(1) to (7). [Pub. L. 105–85][/us/pl/105/85], § 3528(b)(2), (3), capitalized initial letter of first word and substituted a period for the semicolon at end.
 
-    Subsec. (a)(8). [Pub. L. 105–85, § 3528(b)(2)][/us/pl/105/85/s3528/b/2], (4), capitalized initial letter of first word and substituted “industry.” for “industry; and”.
+    Subsec. (a)(8). [Pub. L. 105–85][/us/pl/105/85], § 3528(b)(2), (4), capitalized initial letter of first word and substituted “industry.” for “industry; and”.
 
-    Subsec. (a)(9). [Pub. L. 105–85, § 3528(b)(2)][/us/pl/105/85/s3528/b/2], capitalized initial letter of first word.
+    Subsec. (a)(9). [Pub. L. 105–85][/us/pl/105/85], § 3528(b)(2), capitalized initial letter of first word.
 
-    Subsec. (a)(10). [Pub. L. 105–85, § 3528(a)][/us/pl/105/85/s3528/a], added par. (10).
+    Subsec. (a)(10). [Pub. L. 105–85][/us/pl/105/85], § 3528(a), added par. (10).
 
     1996—[Pub. L. 104–201][/us/pl/104/201] amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
 
-    Subsec. (c)(1). [Pub. L. 104–106, § 3525(1)(A)][/us/pl/104/106/s3525/1/A], struck out “and subject to paragraph (2)” after “[section 3713 of this title][/us/usc/t22/s3713]”.
+    Subsec. (c)(1). [Pub. L. 104–106][/us/pl/104/106], § 3525(1)(A), struck out “and subject to paragraph (2)” after “[section 3713 of this title][/us/usc/t22/s3713]”.
 
-    Subsec. (c)(2), (3). [Pub. L. 104–106, § 3525(1)(B)][/us/pl/104/106/s3525/1/B], (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “No funds may be obligated or expended by the Commission in any fiscal year for administrative expenses except to the extent or in such amounts as are provided in appropriations Acts.”
+    Subsec. (c)(2), (3). [Pub. L. 104–106][/us/pl/104/106], § 3525(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “No funds may be obligated or expended by the Commission in any fiscal year for administrative expenses except to the extent or in such amounts as are provided in appropriations Acts.”
 
-    Subsec. (e). [Pub. L. 104–106, § 3525(2)][/us/pl/104/106/s3525/2], added subsec. (e) and struck out former subsec. (e) which read as follows: “The Committee on Appropriations of each House of Congress shall review the annual budget of the Commission, including operations and capital expenditures.”
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 3525(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Committee on Appropriations of each House of Congress shall review the annual budget of the Commission, including operations and capital expenditures.”
 
-    1992—Subsec. (c)(1). [Pub. L. 102–484, § 3521(b)(1)(A)][/us/pl/102/484/s3521/b/1/A], inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under [section 3714a of this title][/us/usc/t22/s3714a])” after “toll receipts”.
+    1992—Subsec. (c)(1). [Pub. L. 102–484][/us/pl/102/484], § 3521(b)(1)(A), inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under [section 3714a of this title][/us/usc/t22/s3714a])” after “toll receipts”.
 
-    Subsec. (c)(3)(A). [Pub. L. 102–484, § 3521(b)(1)(B)][/us/pl/102/484/s3521/b/1/B], inserted “and the Panama Canal Dissolution Fund” after “Panama Canal Revolving Fund”.
+    Subsec. (c)(3)(A). [Pub. L. 102–484][/us/pl/102/484], § 3521(b)(1)(B), inserted “and the Panama Canal Dissolution Fund” after “Panama Canal Revolving Fund”.
 
     1988—Subsecs. (e), (f). [Pub. L. 100–705][/us/pl/100/705] redesignated subsec. (e), relating to costs of implementation, as (f).
 
-    1987—[Pub. L. 100–203, § 5422(b)(1)][/us/pl/100/203/s5422/b/1], substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
+    1987—[Pub. L. 100–203][/us/pl/100/203], § 5422(b)(1), substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
 
-    Subsecs. (a) to (d). [Pub. L. 100–203, § 5422(a)][/us/pl/100/203/s5422/a], added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to termination of Panama Canal Company Fund on Oct. 1, 1979, subsequent deposit of tolls and other receipts into Panama Canal Commission Fund, restriction on use of funds, and authority of the Commission to enter into contracts, respectively.
+    Subsecs. (a) to (d). [Pub. L. 100–203][/us/pl/100/203], § 5422(a), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to termination of Panama Canal Company Fund on Oct. 1, 1979, subsequent deposit of tolls and other receipts into Panama Canal Commission Fund, restriction on use of funds, and authority of the Commission to enter into contracts, respectively.
 
-    Subsec. (e). [Pub. L. 100–203, § 5422(a)][/us/pl/100/203/s5422/a], added subsec. (e), directing Appropriations Committee of each House to review annual budget of the Commission.
+    Subsec. (e). [Pub. L. 100–203][/us/pl/100/203], § 5422(a), added subsec. (e), directing Appropriations Committee of each House to review annual budget of the Commission.
 
     1985—Subsec. (b). [Pub. L. 99–195][/us/pl/99/195] provided for deposit of interest receipts as miscellaneous receipts.
 
@@ -121,13 +121,13 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title V, § 5429][/us/pl/100/203/s5429], Dec. 22, 1987, [101 Stat. 1330–275][/us/stat/101/1330-275], provided that: 
+[Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5429, Dec. 22, 1987, [101 Stat. 1330–275][/us/stat/101/1330-275], provided that: 
 
 > “This part and the amendments made by this part \[part 2 (§§ 5421–5429) of subtitle E of title V of [Pub. L. 100–203][/us/pl/100/203], enacting [section 3714 of this title][/us/usc/t22/s3714], amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and [section 8348 of Title 5][/us/usc/t5/s8348], Government Organization and Employees, and enacting provisions set out as a note under [section 3601 of this title][/us/usc/t22/s3601]\] take effect on January 1, 1988.”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–195, § 2][/us/pl/99/195/s2], Dec. 23, 1985, [99 Stat. 1349][/us/stat/99/1349], provided that: 
+[Pub. L. 99–195][/us/pl/99/195], § 2, Dec. 23, 1985, [99 Stat. 1349][/us/stat/99/1349], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 3793 of this title][/us/usc/t22/s3793]\] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
 
@@ -146,23 +146,23 @@
 [/us/usc/t22/s3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3713
 [/us/usc/t22/s3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3714
 [/us/pl/106/65/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3504
-[/us/pl/96/70/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1302
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F477
-[/us/pl/99/195/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F195%2Fs1%2Fa
+[/us/pl/99/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F195
 [/us/stat/99/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1349
-[/us/pl/100/203/s5422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5422%2Fa
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-271
-[/us/pl/100/705/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs9
+[/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/stat/102/4687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4687
-[/us/pl/102/484/s3521/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3521%2Fb%2F1
+[/us/pl/102/484/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXV
 [/us/stat/106/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2657
-[/us/pl/104/106/s3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3525
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F640
-[/us/pl/104/201/s3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3539
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2865
-[/us/pl/105/85/s3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3528
+[/us/pl/105/85/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXV
 [/us/stat/111/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2069
-[/us/pl/108/309/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F309%2Fs121
+[/us/pl/108/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F309
 [/us/stat/118/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1140
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/stat/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F452
@@ -173,34 +173,34 @@
 [/us/usc/t22/s3714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3714a
 [/us/usc/t22/s3714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3714a
 [/us/pl/108/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F309
-[/us/pl/105/85/s3528/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3528%2Fb%2F1
-[/us/pl/105/85/s3528/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3528%2Fb%2F2
-[/us/pl/105/85/s3528/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3528%2Fb%2F2
-[/us/pl/105/85/s3528/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3528%2Fb%2F2
-[/us/pl/105/85/s3528/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3528%2Fa
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/106/s3525/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3525%2F1%2FA
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t22/s3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3713
-[/us/pl/104/106/s3525/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3525%2F1%2FB
-[/us/pl/104/106/s3525/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3525%2F2
-[/us/pl/102/484/s3521/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3521%2Fb%2F1%2FA
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t22/s3714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3714a
-[/us/pl/102/484/s3521/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3521%2Fb%2F1%2FB
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
-[/us/pl/100/203/s5422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5422%2Fb%2F1
-[/us/pl/100/203/s5422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5422%2Fa
-[/us/pl/100/203/s5422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5422%2Fa
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F195
 [/us/pl/100/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705
 [/us/pl/100/705/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F705%2Fs10
 [/us/usc/t22/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3612
-[/us/pl/100/203/s5429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5429
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-275
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t22/s3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3714
 [/us/usc/t5/s8348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8348
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
-[/us/pl/99/195/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F195%2Fs2
+[/us/pl/99/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F195
 [/us/stat/99/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1349
 [/us/usc/t22/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3793
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

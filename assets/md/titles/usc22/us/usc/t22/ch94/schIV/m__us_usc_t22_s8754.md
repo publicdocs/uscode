@@ -47,7 +47,7 @@
 
     (12) discourage telecommunications and software companies from facilitating Internet censorship by the Government of Iran.
 
-([Pub. L. 112–158, title IV, § 414][/us/pl/112/158/s414], Aug. 10, 2012, [126 Stat. 1256][/us/stat/126/1256].)
+([Pub. L. 112–158, title IV][/us/pl/112/158/tIV], § 414, Aug. 10, 2012, [126 Stat. 1256][/us/stat/126/1256].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/112/158/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs414
+[/us/pl/112/158/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtIV
 [/us/stat/126/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1256
 
 

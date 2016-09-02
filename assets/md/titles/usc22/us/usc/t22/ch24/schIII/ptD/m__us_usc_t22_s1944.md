@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the President not to exceed $100,000,000, which shall remain available until expended, for use, in addition to other funds available for such purposes, in the reconstruction and rehabilitation of Chile on such terms and conditions as the President may specify.
 
-([Pub. L. 86–735, § 3][/us/pl/86/735/s3], Sept. 8, 1960, [74 Stat. 870][/us/stat/74/870].)
+([Pub. L. 86–735][/us/pl/86/735], § 3, Sept. 8, 1960, [74 Stat. 870][/us/stat/74/870].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/86/735/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735%2Fs3
+[/us/pl/86/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F735
 [/us/stat/74/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F870
 [/us/usc/t22/s1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1942
 

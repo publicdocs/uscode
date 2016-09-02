@@ -23,7 +23,7 @@
 
         The authority of this section may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 46, as added [Pub. L. 101–246, title I, § 119(2)][/us/pl/101/246/s119/2], Feb. 16, 1990, [104 Stat. 26][/us/stat/104/26]; amended [Pub. L. 102–138, title I, § 123][/us/pl/102/138/s123], Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 46, as added [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 119(2), Feb. 16, 1990, [104 Stat. 26][/us/stat/104/26]; amended [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 123, Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 46 of act Aug. 1, 1956, was renumbered section 47 by [section 119(1) of Pub. L. 101–246][/us/pl/101/246/s119/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I, § 111(1)][/us/pl/102/138/s111/1], Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
+    A prior section 46 of act Aug. 1, 1956, was renumbered section 47 by [section 119(1) of Pub. L. 101–246][/us/pl/101/246/s119/1], and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title][/us/usc/t22/s2651], prior to repeal by [Pub. L. 102–138, title I][/us/pl/102/138/tI], § 111(1), Oct. 28, 1991, [105 Stat. 654][/us/stat/105/654].
 
  __Amendments__ 
 
@@ -45,16 +45,16 @@
 ----------
 
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/101/246/s119/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs119%2F2
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F26
-[/us/pl/102/138/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs123
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F659
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/101/246/s119/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs119%2F1
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/102/138/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs111%2F1
+[/us/pl/102/138/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2FtI
 [/us/stat/105/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F654
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 

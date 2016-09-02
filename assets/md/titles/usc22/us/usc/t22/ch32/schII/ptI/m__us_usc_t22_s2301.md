@@ -27,7 +27,7 @@
 
     Finally, the Congress reaffirms its full support of the progress of the members of the North Atlantic Treaty Organization toward increased cooperation in political, military, and economic affairs. In particular, the Congress welcomes the steps which have been taken to promote multilateral programs of coordinated procurement, research, development, and production of defense articles and urges that such programs be expanded to the fullest extent possible to further the defense of the North Atlantic Area.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 501, formerly § 502, Sept. 4, 1961, [75 Stat. 434][/us/stat/75/434], renumbered § 501 and amended [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(a), Nov. 14, 1967, [81 Stat. 455][/us/stat/81/455]; [Pub. L. 103–199, title VII, § 705(1)][/us/pl/103/199/s705/1], Dec. 17, 1993, [107 Stat. 2328][/us/stat/107/2328].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 501, formerly § 502, Sept. 4, 1961, [75 Stat. 434][/us/stat/75/434], renumbered § 501 and amended [Pub. L. 90–137][/us/pl/90/137], pt. II, § 201(a), Nov. 14, 1967, [81 Stat. 455][/us/stat/81/455]; [Pub. L. 103–199, title VII][/us/pl/103/199/tVII], § 705(1), Dec. 17, 1993, [107 Stat. 2328][/us/stat/107/2328].)
 
  __References in Text__ 
 
@@ -43,17 +43,17 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–199, § 705(1)(A)][/us/pl/103/199/s705/1/A], in second par., substituted “hostile countries” for “international communism and the countries it controls”.
+    1993—[Pub. L. 103–199][/us/pl/103/199], § 705(1)(A), in second par., substituted “hostile countries” for “international communism and the countries it controls”.
 
-    [Pub. L. 103–199, § 705(1)(B)][/us/pl/103/199/s705/1/B], in fourth par., struck out “Communist or Communist-supported” after “if necessary, defeat”.
+    [Pub. L. 103–199][/us/pl/103/199], § 705(1)(B), in fourth par., struck out “Communist or Communist-supported” after “if necessary, defeat”.
 
-    [Pub. L. 103–199, § 705(1)(C)][/us/pl/103/199/s705/1/C], in fifth par., substituted “aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.” for “active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion.”
+    [Pub. L. 103–199][/us/pl/103/199], § 705(1)(C), in fifth par., substituted “aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries.” for “active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion.”
 
     1967—[Pub. L. 90–137][/us/pl/90/137] inserted par. to indicate that priority shall be given in the use of the funds available to defend against Communist aggression or Communist-inspired internal subversion.
 
  __Transfer of Proscribed Weapons to Persons or Entities in the West Bank and Gaza__ 
 
-[Pub. L. 107–228, div. A, title VI, § 699][/us/pl/107/228/s699], Sept. 30, 2002, [116 Stat. 1418][/us/stat/116/1418], provided that:
+[Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 699, Sept. 30, 2002, [116 Stat. 1418][/us/stat/116/1418], provided that:
 
 >     “(a)  __Determination Regarding Transfers__  __.—__ 
 
@@ -86,7 +86,7 @@
 [/us/stat/75/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F434
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
 [/us/stat/81/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F455
-[/us/pl/103/199/s705/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs705%2F1
+[/us/pl/103/199/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVII
 [/us/stat/107/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2328
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -97,11 +97,11 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205
 [/us/stat/77/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F384
-[/us/pl/103/199/s705/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs705%2F1%2FA
-[/us/pl/103/199/s705/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs705%2F1%2FB
-[/us/pl/103/199/s705/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs705%2F1%2FC
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/pl/90/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F137
-[/us/pl/107/228/s699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs699
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1418
 [/us/usc/t22/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2301
 [/us/usc/t22/s2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2763

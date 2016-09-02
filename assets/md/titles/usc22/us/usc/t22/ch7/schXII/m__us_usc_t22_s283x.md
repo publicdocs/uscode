@@ -19,7 +19,7 @@
 
     (b) In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated, without fiscal year limitation, $450,002,218 for payment by the Secretary of the Treasury.
 
-([Pub. L. 86–147, § 27][/us/pl/86/147/s27], as added [Pub. L. 94–302, title I, § 101][/us/pl/94/302/s101], May 31, 1976, [90 Stat. 591][/us/stat/90/591].)
+([Pub. L. 86–147][/us/pl/86/147], § 27, as added [Pub. L. 94–302, title I][/us/pl/94/302/tI], § 101, May 31, 1976, [90 Stat. 591][/us/stat/90/591].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs27
-[/us/pl/94/302/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs101
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/94/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtI
 [/us/stat/90/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F591
 
 

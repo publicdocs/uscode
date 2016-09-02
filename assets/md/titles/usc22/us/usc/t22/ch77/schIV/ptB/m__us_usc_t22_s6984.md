@@ -31,7 +31,7 @@
 
         Except as provided in this chapter, funds may be made available to carry out the purposes of this part notwithstanding any other provision of law.
 
-([Pub. L. 106–286, div. B, title V, § 514][/us/pl/106/286/s514], Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
+([Pub. L. 106–286, div. B, title V][/us/pl/106/286/dB/tV], § 514, Oct. 10, 2000, [114 Stat. 906][/us/stat/114/906].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t22/s6981/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6981%2Fa
 [/us/usc/t22/s6981/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6981%2Fb
 [/us/usc/t22/s6981/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6981%2Fc
-[/us/pl/106/286/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2Fs514
+[/us/pl/106/286/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F286%2FdB%2FtV
 [/us/stat/114/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F906
 
 

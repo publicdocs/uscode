@@ -41,7 +41,7 @@
 
             The Attorney General shall make each registration statement and update filed in electronic form pursuant to [section 612(g) of this title][/us/usc/t22/s612/g] available for public inspection over the Internet as soon as technically practicable after the registration statement or update is filed.
 
-([June 8, 1938, ch. 327, § 6][/us/act/1938-06-08/ch327/s6], [52 Stat. 633][/us/stat/52/633]; [Apr. 29, 1942, ch. 263, § 1][/us/act/1942-04-29/ch263/s1], [56 Stat. 256][/us/stat/56/256]; [Pub. L. 89–486, § 6][/us/pl/89/486/s6], July 4, 1966, [80 Stat. 247][/us/stat/80/247]; [Pub. L. 104–65, § 9(7)][/us/pl/104/65/s9/7], Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 110–81, title II, § 212(b)][/us/pl/110/81/s212/b], Sept. 14, 2007, [121 Stat. 749][/us/stat/121/749].)
+([June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], § 6, [52 Stat. 633][/us/stat/52/633]; [Apr. 29, 1942, ch. 263][/us/act/1942-04-29/ch263], § 1, [56 Stat. 256][/us/stat/56/256]; [Pub. L. 89–486][/us/pl/89/486], § 6, July 4, 1966, [80 Stat. 247][/us/stat/80/247]; [Pub. L. 104–65][/us/pl/104/65], § 9(7), Dec. 19, 1995, [109 Stat. 700][/us/stat/109/700]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], § 212(b), Sept. 14, 2007, [121 Stat. 749][/us/stat/121/749].)
 
  __Prior Provisions__ 
 
@@ -53,11 +53,11 @@
 
     2007—Subsec. (d). [Pub. L. 110–81][/us/pl/110/81] added subsec. (d).
 
-    1995—Subsec. (a). [Pub. L. 104–65, § 9(7)(A)][/us/pl/104/65/s9/7/A], struck out “and all statements concerning the distribution of political propaganda” after “all registration statements”.
+    1995—Subsec. (a). [Pub. L. 104–65][/us/pl/104/65], § 9(7)(A), struck out “and all statements concerning the distribution of political propaganda” after “all registration statements”.
 
-    Subsec. (b). [Pub. L. 104–65, § 9(7)(B)][/us/pl/104/65/s9/7/B], struck out “, and one copy of every item of political propaganda” after “supplement thereto”.
+    Subsec. (b). [Pub. L. 104–65][/us/pl/104/65], § 9(7)(B), struck out “, and one copy of every item of political propaganda” after “supplement thereto”.
 
-    Subsec. (c). [Pub. L. 104–65, § 9(7)(C)][/us/pl/104/65/s9/7/C], struck out “copies of political propaganda,” after “parts thereof,”.
+    Subsec. (c). [Pub. L. 104–65][/us/pl/104/65], § 9(7)(C), struck out “copies of political propaganda,” after “parts thereof,”.
 
     1966—[Pub. L. 89–486][/us/pl/89/486] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -88,22 +88,22 @@
 
 [/us/usc/t22/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs612%2Fa
 [/us/usc/t22/s612/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs612%2Fg
-[/us/act/1938-06-08/ch327/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327%2Fs6
+[/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
 [/us/stat/52/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F633
-[/us/act/1942-04-29/ch263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263%2Fs1
+[/us/act/1942-04-29/ch263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch263
 [/us/stat/56/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F256
-[/us/pl/89/486/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs6
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/stat/80/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F247
-[/us/pl/104/65/s9/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F7
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F700
-[/us/pl/110/81/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs212%2Fb
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F749
 [/us/usc/t22/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs620
 [/us/usc/t22/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs614
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
-[/us/pl/104/65/s9/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F7%2FA
-[/us/pl/104/65/s9/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F7%2FB
-[/us/pl/104/65/s9/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs9%2F7%2FC
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs212%2Fc

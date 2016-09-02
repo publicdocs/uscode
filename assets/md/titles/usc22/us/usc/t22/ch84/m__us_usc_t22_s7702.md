@@ -53,11 +53,11 @@
 
         The term “investments in the people” means government policies or programs of an eligible country that promote the health, education, and other factors which contribute to the well-being and productivity of their people, such as decent, affordable housing for all.
 
-([Pub. L. 108–199, div. D, title VI, § 603][/us/pl/108/199/s603], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211]; [Pub. L. 108–447, div. D, title V, § 534(q)][/us/pl/108/447/s534/q], Dec. 8, 2004, [118 Stat. 3008][/us/stat/118/3008].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 603, Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211]; [Pub. L. 108–447, div. D, title V][/us/pl/108/447/dD/tV], § 534(q), Dec. 8, 2004, [118 Stat. 3008][/us/stat/118/3008].)
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
+    This chapter, referred to in text, was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199/dD], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
 
  __Amendments__ 
 
@@ -81,11 +81,11 @@
 [/us/usc/t22/s7703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7703%2Fa
 [/us/usc/t22/s7706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7706
 [/us/usc/t22/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7704
-[/us/pl/108/199/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs603
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
-[/us/pl/108/447/s534/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs534%2Fq
+[/us/pl/108/447/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdD%2FtV
 [/us/stat/118/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3008
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/usc/t22/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7701
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

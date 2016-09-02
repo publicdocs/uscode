@@ -19,7 +19,7 @@
 
     (b) Nothing in subsection (a) shall be construed to detract from or otherwise affect any rights in the shares of capital stock of nationals of the United States owning claims certified by the Commission under [section 1643f of this title][/us/usc/t22/s1643f].
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 515, as added [Pub. L. 104–114, title III, § 304][/us/pl/104/114/s304], Mar. 12, 1996, [110 Stat. 821][/us/stat/110/821].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title V, § 515, as added [Pub. L. 104–114, title III][/us/pl/104/114/tIII], § 304, Mar. 12, 1996, [110 Stat. 821][/us/stat/110/821].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t22/s1643f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643f
 [/us/usc/t22/s1643f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643f
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/104/114/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs304
+[/us/pl/104/114/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtIII
 [/us/stat/110/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F821
 [/us/usc/t22/s6085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6085
 

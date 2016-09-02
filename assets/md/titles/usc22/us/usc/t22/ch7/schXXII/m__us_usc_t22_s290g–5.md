@@ -17,7 +17,7 @@
 
     Any Federal Reserve bank which is requested to do so by the President shall act as a depository for the Fund, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
-([Pub. L. 94–302, title II, § 207][/us/pl/94/302/s207], May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
+([Pub. L. 94–302, title II][/us/pl/94/302/tII], § 207, May 31, 1976, [90 Stat. 594][/us/stat/90/594].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/302/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2Fs207
+[/us/pl/94/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F302%2FtII
 [/us/stat/90/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F594
 
 

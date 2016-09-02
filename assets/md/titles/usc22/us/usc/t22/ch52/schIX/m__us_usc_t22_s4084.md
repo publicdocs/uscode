@@ -43,7 +43,7 @@
 
         Reimbursements paid to the Department of State for funding the costs of medical care abroad for employees and eligible family members shall be credited to the currently available applicable appropriation account. Such reimbursements shall be available for obligation and expenditure during the fiscal year in which they are received or for such longer period of time as may be provided in law.
 
-([Pub. L. 96–465, title I, § 904][/us/pl/96/465/s904], Oct. 17, 1980, [94 Stat. 2127][/us/stat/94/2127]; [Pub. L. 99–93, title I, § 122][/us/pl/99/93/s122], Aug. 16, 1985, [99 Stat. 413][/us/stat/99/413]; [Pub. L. 100–238, title II, § 243][/us/pl/100/238/s243], Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776]; [Pub. L. 107–228, div. A, title III, § 316][/us/pl/107/228/s316], Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379]; [Pub. L. 109–140, § 2][/us/pl/109/140/s2], Dec. 22, 2005, [119 Stat. 2650][/us/stat/119/2650].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 904, Oct. 17, 1980, [94 Stat. 2127][/us/stat/94/2127]; [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 122, Aug. 16, 1985, [99 Stat. 413][/us/stat/99/413]; [Pub. L. 100–238, title II][/us/pl/100/238/tII], § 243, Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776]; [Pub. L. 107–228, div. A, title III][/us/pl/107/228/dA/tIII], § 316, Sept. 30, 2002, [116 Stat. 1379][/us/stat/116/1379]; [Pub. L. 109–140][/us/pl/109/140], § 2, Dec. 22, 2005, [119 Stat. 2650][/us/stat/119/2650].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 
     1988—Subsec. (b). [Pub. L. 100–238][/us/pl/100/238] inserted “or Foreign Service Pension System” after “System”.
 
-    1985—Subsec. (a). [Pub. L. 99–93, § 122(1)][/us/pl/99/93/s122/1], substituted “shall” for “may”.
+    1985—Subsec. (a). [Pub. L. 99–93][/us/pl/99/93], § 122(1), substituted “shall” for “may”.
 
-    Subsec. (b). [Pub. L. 99–93, § 122(2)][/us/pl/99/93/s122/2], inserted “, and other preventive and remedial care and services as necessary,”.
+    Subsec. (b). [Pub. L. 99–93][/us/pl/99/93], § 122(2), inserted “, and other preventive and remedial care and services as necessary,”.
 
-    Subsec. (d). [Pub. L. 99–93, § 122(3)][/us/pl/99/93/s122/3], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad.”
+    Subsec. (d). [Pub. L. 99–93][/us/pl/99/93], § 122(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad.”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -70,22 +70,22 @@
 ----------
 ----------
 
-[/us/pl/96/465/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs904
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2127
-[/us/pl/99/93/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs122
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F413
-[/us/pl/100/238/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs243
+[/us/pl/100/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2FtII
 [/us/stat/101/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1776
-[/us/pl/107/228/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs316
+[/us/pl/107/228/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIII
 [/us/stat/116/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1379
-[/us/pl/109/140/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs2
+[/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/stat/119/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2650
 [/us/pl/109/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
-[/us/pl/99/93/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs122%2F1
-[/us/pl/99/93/s122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs122%2F2
-[/us/pl/99/93/s122/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs122%2F3
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238
 [/us/pl/100/238/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs261%2Fa
 [/us/usc/t22/s4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4054

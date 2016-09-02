@@ -41,7 +41,7 @@
 
         Protection of essential security interests of the United States requires assurances that sugar products that are entered, or withdrawn from warehouse for consumption, into the customs territory of the United States are not products of Cuba.
 
-([Pub. L. 104–114, title I, § 110][/us/pl/104/114/s110], Mar. 12, 1996, [110 Stat. 800][/us/stat/110/800].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 110, Mar. 12, 1996, [110 Stat. 800][/us/stat/110/800].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/104/114/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs110
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F800
 [/us/pl/99/198/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs902%2Fc
 [/us/usc/t7/s1446g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446g

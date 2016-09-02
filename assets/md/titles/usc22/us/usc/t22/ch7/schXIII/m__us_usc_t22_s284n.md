@@ -19,7 +19,7 @@
 
     (b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $2,400,000,000 for payment by the Secretary of the Treasury.
 
-([Pub. L. 86–565, § 16][/us/pl/86/565/s16], as added [Pub. L. 95–118, title IV, § 401][/us/pl/95/118/s401], Oct. 3, 1977, [91 Stat. 1068][/us/stat/91/1068].)
+([Pub. L. 86–565][/us/pl/86/565], § 16, as added [Pub. L. 95–118, title IV][/us/pl/95/118/tIV], § 401, Oct. 3, 1977, [91 Stat. 1068][/us/stat/91/1068].)
 
  __Effective Date__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/86/565/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565%2Fs16
-[/us/pl/95/118/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs401
+[/us/pl/86/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F565
+[/us/pl/95/118/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtIV
 [/us/stat/91/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1068
 [/us/pl/95/118/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1001
 [/us/usc/t22/s282i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs282i

@@ -33,7 +33,7 @@
 
         (2) Notwithstanding subsections (a) and (b) and [section 3426(b) of this title][/us/usc/t22/s3426/b], support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
 
-([Pub. L. 97–132, § 5][/us/pl/97/132/s5], Dec. 29, 1981, [95 Stat. 1695][/us/stat/95/1695]; [Pub. L. 107–107, div. A, title XII, § 1211][/us/pl/107/107/s1211], Dec. 28, 2001, [115 Stat. 1248][/us/stat/115/1248].)
+([Pub. L. 97–132][/us/pl/97/132], § 5, Dec. 29, 1981, [95 Stat. 1695][/us/stat/95/1695]; [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1211, Dec. 28, 2001, [115 Stat. 1248][/us/stat/115/1248].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t22/s3422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3422
 [/us/usc/t22/s3426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3426%2Fb
-[/us/pl/97/132/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132%2Fs5
+[/us/pl/97/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F132
 [/us/stat/95/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1695
-[/us/pl/107/107/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1211
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1248
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

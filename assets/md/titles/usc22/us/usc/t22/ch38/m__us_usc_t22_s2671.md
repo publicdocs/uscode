@@ -97,17 +97,17 @@
 
         (11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 4, [70 Stat. 890][/us/stat/70/890]; renumbered title I, [Pub. L. 97–241, title II, § 202(a)][/us/pl/97/241/s202/a], Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 98–164, title I, § 122(a)][/us/pl/98/164/s122/a], Nov. 22, 1983, [97 Stat. 1023][/us/stat/97/1023]; [Pub. L. 103–236, title I, § 125][/us/pl/103/236/s125], Apr. 30, 1994, [108 Stat. 393][/us/stat/108/393]; [Pub. L. 104–316, title I, § 115(g)(2)(D)][/us/pl/104/316/s115/g/2/D], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 107–228, div. A, title II, § 201][/us/pl/107/228/s201], Sept. 30, 2002, [116 Stat. 1361][/us/stat/116/1361].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 4, [70 Stat. 890][/us/stat/70/890]; renumbered title I, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(a), Aug. 24, 1982, [96 Stat. 282][/us/stat/96/282]; [Pub. L. 98–164, title I][/us/pl/98/164/tI], § 122(a), Nov. 22, 1983, [97 Stat. 1023][/us/stat/97/1023]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 125, Apr. 30, 1994, [108 Stat. 393][/us/stat/108/393]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 115(g)(2)(D), Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 201, Sept. 30, 2002, [116 Stat. 1361][/us/stat/116/1361].)
 
  __References in Text__ 
 
-    [Section 3718(c) of title 31][/us/usc/t31/s3718/c], referred to in subsec. (d)(7), was renumbered [section 3718(e) of title 31][/us/usc/t31/s3718/e] by [Pub. L. 99–578, § 1(1)][/us/pl/99/578/s1/1], Oct. 28, 1986, [100 Stat. 3305][/us/stat/100/3305].
+    [Section 3718(c) of title 31][/us/usc/t31/s3718/c], referred to in subsec. (d)(7), was renumbered [section 3718(e) of title 31][/us/usc/t31/s3718/e] by [Pub. L. 99–578][/us/pl/99/578], § 1(1), Oct. 28, 1986, [100 Stat. 3305][/us/stat/100/3305].
 
  __Codification__ 
 
-    In subsec. (a), “[section 3526(e) of title 31][/us/usc/t31/s3526/e]” substituted for “section 291 of the Revised Statutes ([31 U.S.C. 107][/us/usc/t31/s107])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “[section 3526(e) of title 31][/us/usc/t31/s3526/e]” substituted for “section 291 of the Revised Statutes ([31 U.S.C. 107][/us/usc/t31/s107])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    Section was formerly classified to [section 170i of Title 5][/us/usc/t5/s170i] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 170i of Title 5][/us/usc/t5/s170i] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -136,26 +136,26 @@
 [/us/usc/t31/s3717/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717%2Fa
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/stat/70/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F890
-[/us/pl/97/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fa
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F282
-[/us/pl/98/164/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs122%2Fa
+[/us/pl/98/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtI
 [/us/stat/97/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1023
-[/us/pl/103/236/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs125
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F393
-[/us/pl/104/316/s115/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs115%2Fg%2F2%2FD
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
-[/us/pl/107/228/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs201
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1361
 [/us/usc/t31/s3718/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fc
 [/us/usc/t31/s3718/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3718%2Fe
-[/us/pl/99/578/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578%2Fs1%2F1
+[/us/pl/99/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F578
 [/us/stat/100/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3305
 [/us/usc/t31/s3526/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3526%2Fe
 [/us/usc/t31/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs107
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t5/s170i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs170i
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

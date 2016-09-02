@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2174.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2173)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2171 _us_usc_t22_s2172.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2174.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2173)
 
 ## § 2173. Repealed. [Pub. L. 87–565][/us/pl/87/565], pt. I, § 103(c), Aug. 1, 1962, [76 Stat. 256][/us/stat/76/256]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_ch32_schI_ptII_sptii.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2174.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2173)
+[Previous](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2171 _us_usc_t22_s2172.md) | [Next](./../../../../../../..//us/usc/t22/ch32/schI/ptII/sptii/m__us_usc_t22_s2174.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2173)
 
 ----------
 ----------

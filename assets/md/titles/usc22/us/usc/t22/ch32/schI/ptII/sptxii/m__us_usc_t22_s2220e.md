@@ -17,7 +17,7 @@
 
     The President shall transmit to the Congress, not later than September 1 of each year, a report detailing the activities carried out pursuant to this subpart during the preceding fiscal year and containing a projection of programs and activities to be conducted during the subsequent five fiscal years. Each report shall contain a summary of the activities of the Board established pursuant to [section 2220c of this title][/us/usc/t22/s2220c] and may include the separate views of the Board with respect to any aspect of the programs conducted or proposed to be conducted under this subpart.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 300, as added [Pub. L. 94–161, title III, § 312][/us/pl/94/161/s312], Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866]; amended [Pub. L. 106–373, § 5][/us/pl/106/373/s5], Oct. 27, 2000, [114 Stat. 1433][/us/stat/114/1433].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 300, as added [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 312, Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866]; amended [Pub. L. 106–373][/us/pl/106/373], § 5, Oct. 27, 2000, [114 Stat. 1433][/us/stat/114/1433].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t22/s2220c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220c
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/94/161/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs312
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F866
-[/us/pl/106/373/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373%2Fs5
+[/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/stat/114/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1433
 [/us/pl/106/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F373
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381

@@ -107,7 +107,7 @@
 
         Nothing in this Act or any other provision of law authorizing sanctions with respect to Iran shall be construed to abridge the authority of a State to issue and enforce rules governing the safety, soundness, and solvency of a financial institution subject to its jurisdiction or the business of insurance pursuant to the Act of March 9, 1945 ([15 U.S.C. 1011][/us/usc/t15/s1011] et seq.) (commonly known as the “McCarran-Ferguson Act”).
 
-([Pub. L. 111–195, title II, § 202][/us/pl/111/195/s202], July 1, 2010, [124 Stat. 1342][/us/stat/124/1342]; [Pub. L. 112–158, title II, § 222(b)][/us/pl/112/158/s222/b], Aug. 10, 2012, [126 Stat. 1239][/us/stat/126/1239].)
+([Pub. L. 111–195, title II][/us/pl/111/195/tII], § 202, July 1, 2010, [124 Stat. 1342][/us/stat/124/1342]; [Pub. L. 112–158, title II][/us/pl/112/158/tII], § 222(b), Aug. 10, 2012, [126 Stat. 1239][/us/stat/126/1239].)
 
  __Termination of Section__ 
 
@@ -134,9 +134,9 @@
 
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t15/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1011
-[/us/pl/111/195/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs202
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1342
-[/us/pl/112/158/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs222%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1239
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406

@@ -35,7 +35,7 @@
 
         (2) The salary paid to an individual under this subsection shall be adjusted by 50 percent of each adjustment, which takes effect after the appointment of such individual to the Senior Foreign Service, in the basic rate of pay at which that individual was paid under [section 5382 of title 5][/us/usc/t5/s5382] immediately prior to such appointment.
 
-([Pub. L. 96–465, title I, § 402][/us/pl/96/465/s402], Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087]; [Pub. L. 97–241, title I, § 124][/us/pl/97/241/s124], Aug. 24, 1982, [96 Stat. 281][/us/stat/96/281]; [Pub. L. 108–447, div. B, title IV, § 412(a)][/us/pl/108/447/s412/a], Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 402, Oct. 17, 1980, [94 Stat. 2087][/us/stat/94/2087]; [Pub. L. 97–241, title I][/us/pl/97/241/tI], § 124, Aug. 24, 1982, [96 Stat. 281][/us/stat/96/281]; [Pub. L. 108–447, div. B, title IV][/us/pl/108/447/dB/tIV], § 412(a), Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–447, § 412(a)(1)][/us/pl/108/447/s412/a/1], substituted “The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382].” for “The President shall also prescribe one or more basic salary rates for each class. Basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382], and shall be adjusted at the same time and in the same manner as rates of basic pay are adjusted for the Senior Executive Service.”
+    2004—Subsec. (a)(1). [Pub. L. 108–447][/us/pl/108/447], § 412(a)(1), substituted “The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382].” for “The President shall also prescribe one or more basic salary rates for each class. Basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382], and shall be adjusted at the same time and in the same manner as rates of basic pay are adjusted for the Senior Executive Service.”
 
-    Subsec. (a)(2), (3). [Pub. L. 108–447, § 412(a)(2)][/us/pl/108/447/s412/a/2], added pars. (2) and (3) and struck out former par. (2) which read as follows: “The Secretary shall determine which of the basic salary rates prescribed by the President under paragraph (1) for any salary class shall be paid to each member of the Senior Foreign Service who is appointed to that class. The Secretary may adjust the basic salary rate of a member of the Senior Foreign Service not more than once during any 12-month period.”
+    Subsec. (a)(2), (3). [Pub. L. 108–447][/us/pl/108/447], § 412(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The Secretary shall determine which of the basic salary rates prescribed by the President under paragraph (1) for any salary class shall be paid to each member of the Senior Foreign Service who is appointed to that class. The Secretary may adjust the basic salary rate of a member of the Senior Foreign Service not more than once during any 12-month period.”
 
     1982—Subsec. (a). [Pub. L. 97–241][/us/pl/97/241] designated existing provisions as par. (1), inserted provision authorizing the President to prescribe one or more basic salary rates for each class, and added par. (2).
 
@@ -68,17 +68,17 @@
 [/us/usc/t5/s5307/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307%2Fd%2F1
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/96/465/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs402
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2087
-[/us/pl/97/241/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs124
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F281
-[/us/pl/108/447/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs412%2Fa
+[/us/pl/108/447/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtIV
 [/us/stat/118/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2905
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/108/447/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs412%2Fa%2F1
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/108/447/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs412%2Fa%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/97/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241
 [/us/usc/t22/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4151
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465

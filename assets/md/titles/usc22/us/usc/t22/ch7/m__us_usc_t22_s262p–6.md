@@ -49,7 +49,7 @@
 
         The term “modified Heavily Indebted Poor Countries Initiative” means the multilateral debt initiative presented in the Report of G–7 Finance Ministers on the Köln Debt Initiative to the Köln Economic Summit, Cologne, Germany, held from June 18–20, 1999.
 
-([Pub. L. 95–118, title XVI, § 1623][/us/pl/95/118/s1623], as added [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 502\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–313.)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1623, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title V, § 502\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–313.)
 
  __Change of Name__ 
 
@@ -68,8 +68,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1623
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 

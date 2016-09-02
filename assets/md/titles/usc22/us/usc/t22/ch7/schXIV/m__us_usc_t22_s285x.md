@@ -47,7 +47,7 @@
 
             (C) the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that he transmit such copy to the Board of Governors of the Asian Development Bank.
 
-([Pub. L. 89–369, § 27][/us/pl/89/369/s27], as added [Pub. L. 98–181, title I][/us/pl/98/181] \[title X, § 1002\], Nov. 30, 1983, [97 Stat. 1285][/us/stat/97/1285].)
+([Pub. L. 89–369][/us/pl/89/369], § 27, as added [Pub. L. 98–181, title I][/us/pl/98/181/tI] \[title X, § 1002\], Nov. 30, 1983, [97 Stat. 1285][/us/stat/97/1285].)
 
 ----------
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/89/369/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369%2Fs27
-[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/89/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F369
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1285
 
 

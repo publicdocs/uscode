@@ -45,7 +45,7 @@
 
         The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) on economic or other interests of the United States.
 
-([Pub. L. 105–292, title IV, § 403][/us/pl/105/292/s403], Oct. 27, 1998, [112 Stat. 2804][/us/stat/112/2804].)
+([Pub. L. 105–292, title IV][/us/pl/105/292/tIV], § 403, Oct. 27, 1998, [112 Stat. 2804][/us/stat/112/2804].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t22/s6445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fa
 [/us/usc/t22/s6442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6442
 [/us/usc/t22/s6441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6441
-[/us/pl/105/292/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs403
+[/us/pl/105/292/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtIV
 [/us/stat/112/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2804
 
 

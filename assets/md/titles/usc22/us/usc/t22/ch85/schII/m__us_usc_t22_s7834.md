@@ -33,7 +33,7 @@
 
         (5) Department of State efforts to work with the Government of the Republic of Korea to establish pilot programs that identify, provide for the immediate care of, and assist in the family reunification of North Korean children and children of one North Korean parent living within South Korea and other countries who are fleeing persecution or are living as de jure or de facto stateless persons.
 
-([Pub. L. 112–264, § 4][/us/pl/112/264/s4], Jan. 14, 2013, [126 Stat. 2432][/us/stat/126/2432].)
+([Pub. L. 112–264][/us/pl/112/264], § 4, Jan. 14, 2013, [126 Stat. 2432][/us/stat/126/2432].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Definitions__ 
 
-[Pub. L. 112–264, § 3][/us/pl/112/264/s3], Jan. 14, 2013, [126 Stat. 2432][/us/stat/126/2432], provided that: 
+[Pub. L. 112–264][/us/pl/112/264], § 3, Jan. 14, 2013, [126 Stat. 2432][/us/stat/126/2432], provided that: 
 
 > “In this Act \[enacting this section and provisions set out as a note under [section 7801 of this title][/us/usc/t22/s7801]\]:
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/112/264/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F264%2Fs4
+[/us/pl/112/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F264
 [/us/stat/126/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2432
-[/us/pl/112/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F264%2Fs3
+[/us/pl/112/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F264
 [/us/stat/126/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2432
 [/us/usc/t22/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7801
 

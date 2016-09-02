@@ -17,11 +17,11 @@
 
     In accordance with such regulations as the President may prescribe, the Secretary of State shall administer the Foreign Service Retirement and Disability System (hereinafter in this part referred to as the “System”), originally established pursuant to [section 18 of the Act of May 24, 1924][/us/act/1924-05-24/s18] ([43 Stat. 144][/us/stat/43/144]).
 
-([Pub. L. 96–465, title I, § 801][/us/pl/96/465/s801], Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV, § 402(a)(2)][/us/pl/99/335/s402/a/2], June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
+([Pub. L. 96–465, title I][/us/pl/96/465/tI], § 801, Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV][/us/pl/99/335/tIV], § 402(a)(2), June 6, 1986, [100 Stat. 609][/us/stat/100/609].)
 
  __References in Text__ 
 
-    [Section 18 of the Act of May 24, 1924][/us/act/1924-05-24/s18] ([43 Stat. 144][/us/stat/43/144]), referred to in text, which was classified to [section 21 of this title][/us/usc/t22/s21], was repealed by [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, § 1131(44), [60 Stat. 1038][/us/stat/60/1038].
+    [Section 18 of the Act of May 24, 1924][/us/act/1924-05-24/s18] ([43 Stat. 144][/us/stat/43/144]), referred to in text, which was classified to [section 21 of this title][/us/usc/t22/s21], was repealed by [act Aug. 13, 1946, ch. 957, title XI][/us/act/1946-08-13/ch957/tXI], § 1131(44), [60 Stat. 1038][/us/stat/60/1038].
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Termination of Retirement Benefits for Foreign National Employees Engaging in Hostile Intelligence Activities__ 
 
-[Pub. L. 100–204, title I, § 158][/us/pl/100/204/s158], Dec. 22, 1987, [101 Stat. 1355][/us/stat/101/1355], provided that:
+[Pub. L. 100–204, title I][/us/pl/100/204/tI], § 158, Dec. 22, 1987, [101 Stat. 1355][/us/stat/101/1355], provided that:
 
 >     “(a)  __Termination__  __.—__ 
 
@@ -64,14 +64,14 @@
 
 [/us/act/1924-05-24/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fs18
 [/us/stat/43/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F144
-[/us/pl/96/465/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs801
+[/us/pl/96/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtI
 [/us/stat/94/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2102
-[/us/pl/99/335/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs402%2Fa%2F2
+[/us/pl/99/335/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2FtIV
 [/us/stat/100/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F609
 [/us/act/1924-05-24/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-05-24%2Fs18
 [/us/stat/43/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F144
 [/us/usc/t22/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs21
-[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/act/1946-08-13/ch957/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957%2FtXI
 [/us/stat/60/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1038
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
@@ -82,7 +82,7 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/100/204/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs158
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1355
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/98/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168

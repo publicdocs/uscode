@@ -67,7 +67,7 @@
 
             (B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 204, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 284][/us/stat/96/284]; amended [Pub. L. 99–93, title I][/us/pl/99/93], §§ 126(b), 127(c), Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 101–246, title I, § 116(b)][/us/pl/101/246/s116/b], Feb. 16, 1990, [104 Stat. 24][/us/stat/104/24]; [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(3), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410]; [Pub. L. 103–415, § 1(cc)][/us/pl/103/415/s1/cc], Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302]; [Pub. L. 109–177, title VI, § 605(d)(2)][/us/pl/109/177/s605/d/2], (e)(2)(B), Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 204, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 284][/us/stat/96/284]; amended [Pub. L. 99–93, title I][/us/pl/99/93/tI], §§ 126(b), 127(c), Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 101–246, title I][/us/pl/101/246/tI], § 116(b), Feb. 16, 1990, [104 Stat. 24][/us/stat/104/24]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(o)(3), Apr. 30, 1994, [108 Stat. 410][/us/stat/108/410]; [Pub. L. 103–415][/us/pl/103/415], § 1(cc), Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302]; [Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 605(d)(2), (e)(2)(B), Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255].)
 
  __References in Text__ 
 
@@ -75,21 +75,21 @@
 
  __Amendments__ 
 
-    2006—Subsec. (e). [Pub. L. 109–177, § 605(e)(2)(B)][/us/pl/109/177/s605/e/2/B], substituted “section 3056 or 3056A of title 18” for “[section 202 of title 3][/us/usc/t3/s202] or [section 3056 of title 18][/us/usc/t18/s3056]”.
+    2006—Subsec. (e). [Pub. L. 109–177][/us/pl/109/177], § 605(e)(2)(B), substituted “section 3056 or 3056A of title 18” for “[section 202 of title 3][/us/usc/t3/s202] or [section 3056 of title 18][/us/usc/t18/s3056]”.
 
-    [Pub. L. 109–177, § 605(d)(2)][/us/pl/109/177/s605/d/2], which directed amendment of section 204(e) of the State Department Basic Authorities Act by substituting “sections 3056 or 3056A” for “[section 202 of title 3][/us/usc/t3/s202] or section 3056”, was not executed, because this section is section 204 of the State Department Basic Authorities Act of 1956 and because of the amendment by [Pub. L. 105–277, § 605(e)(2)(B)][/us/pl/105/277/s605/e/2/B]. See note above.
+    [Pub. L. 109–177][/us/pl/109/177], § 605(d)(2), which directed amendment of section 204(e) of the State Department Basic Authorities Act by substituting “sections 3056 or 3056A” for “[section 202 of title 3][/us/usc/t3/s202] or section 3056”, was not executed, because this section is section 204 of the State Department Basic Authorities Act of 1956 and because of the amendment by [Pub. L. 105–277][/us/pl/105/277], § 605(e)(2)(B). See note above.
 
-    1994—Subsecs. (a) to (c)(1). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
+    1994—Subsecs. (a) to (c)(1). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
 
-    Subsec. (d). [Pub. L. 103–236, § 162][/us/pl/103/236/s162](o)(3)(B), as amended by [Pub. L. 103–415][/us/pl/103/415], substituted “any officer” for “the Director or any other officer”.
+    Subsec. (d). [Pub. L. 103–236][/us/pl/103/236], § 162(o)(3)(B), as amended by [Pub. L. 103–415][/us/pl/103/415], substituted “any officer” for “the Director or any other officer”.
 
-    1990—Subsec. (b)(5). [Pub. L. 101–246, § 116(b)(1)][/us/pl/101/246/s116/b/1], added par. (5).
+    1990—Subsec. (b)(5). [Pub. L. 101–246][/us/pl/101/246], § 116(b)(1), added par. (5).
 
-    Subsec. (f). [Pub. L. 101–246, § 116(b)(2)][/us/pl/101/246/s116/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–246][/us/pl/101/246], § 116(b)(2), added subsec. (f).
 
-    1985—Subsec. (b). [Pub. L. 99–93, § 127(c)][/us/pl/99/93/s127/c], inserted “to forego the acceptance, use, or relation of any benefit or” after “(B)” in provisions following par. (4).
+    1985—Subsec. (b). [Pub. L. 99–93][/us/pl/99/93], § 127(c), inserted “to forego the acceptance, use, or relation of any benefit or” after “(B)” in provisions following par. (4).
 
-    Subsec. (e). [Pub. L. 99–93, § 126(b)][/us/pl/99/93/s126/b], substituted “chapter” for “section” and was executed by making the substitution to first reference to “section” as the probable intent of Congress.
+    Subsec. (e). [Pub. L. 99–93][/us/pl/99/93], § 126(b), substituted “chapter” for “section” and was executed by making the substitution to first reference to “section” as the probable intent of Congress.
 
  __Change of Name__ 
 
@@ -118,34 +118,34 @@
 [/us/usc/t22/s4308/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4308%2Fh%2F1
 [/us/usc/t22/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs300
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F284
-[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F418
-[/us/pl/101/246/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs116%2Fb
+[/us/pl/101/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2FtI
 [/us/stat/104/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F24
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F410
-[/us/pl/103/415/s1/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fcc
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4302
-[/us/pl/109/177/s605/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fd%2F2
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F255
 [/us/act/1926-05-07/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-07%2Fch250
 [/us/stat/44/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F403
 [/us/usc/t22/s299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs299
-[/us/pl/109/177/s605/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fe%2F2%2FB
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t3/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs202
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056
-[/us/pl/109/177/s605/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fd%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t3/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs202
-[/us/pl/105/277/s605/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs605%2Fe%2F2%2FB
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
-[/us/pl/101/246/s116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs116%2Fb%2F1
-[/us/pl/101/246/s116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs116%2Fb%2F2
-[/us/pl/99/93/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs127%2Fc
-[/us/pl/99/93/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs126%2Fb
+[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
+[/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

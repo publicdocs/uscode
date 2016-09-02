@@ -17,11 +17,11 @@
 
     Whenever it is made known to the President that any citizen of the United States has been unjustly deprived of his liberty by or under the authority of any foreign government, it shall be the duty of the President forthwith to demand of that government the reasons of such imprisonment; and if it appears to be wrongful and in violation of the rights of American citizenship, the President shall forthwith demand the release of such citizen, and if the release so demanded is unreasonably delayed or refused, the President shall use such means, not amounting to acts of war and not otherwise prohibited by law, as he may think necessary and proper to obtain or effectuate the release; and all the facts and proceedings relative thereto shall as soon as practicable be communicated by the President to Congress.
 
-(R.S. § 2001; [Pub. L. 101–222, § 9][/us/pl/101/222/s9], Dec. 12, 1989, [103 Stat. 1900][/us/stat/103/1900].)
+(R.S. § 2001; [Pub. L. 101–222][/us/pl/101/222], § 9, Dec. 12, 1989, [103 Stat. 1900][/us/stat/103/1900].)
 
  __Codification__ 
 
-    R.S. § 2001 derived from [act July 27, 1868, ch. 249, § 3][/us/act/1868-07-27/ch249/s3], [15 Stat. 224][/us/stat/15/224].
+    R.S. § 2001 derived from [act July 27, 1868, ch. 249][/us/act/1868-07-27/ch249], § 3, [15 Stat. 224][/us/stat/15/224].
 
     Section was formerly classified to [section 903b of Title 8][/us/usc/t8/s903b], Aliens and Nationality.
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/222/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs9
+[/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222
 [/us/stat/103/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1900
-[/us/act/1868-07-27/ch249/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch249%2Fs3
+[/us/act/1868-07-27/ch249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-27%2Fch249
 [/us/stat/15/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F224
 [/us/usc/t8/s903b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs903b
 [/us/pl/101/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222

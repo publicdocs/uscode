@@ -17,7 +17,7 @@
 
     No passport shall be granted or issued to or verified for any other persons than those owing allegiance, whether citizens or not, to the United States.
 
-(R.S. § 4076; [June 14, 1902, ch. 1088, § 2][/us/act/1902-06-14/ch1088/s2], [32 Stat. 386][/us/stat/32/386].)
+(R.S. § 4076; [June 14, 1902, ch. 1088][/us/act/1902-06-14/ch1088], § 2, [32 Stat. 386][/us/stat/32/386].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1902-06-14/ch1088/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-14%2Fch1088%2Fs2
+[/us/act/1902-06-14/ch1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-14%2Fch1088
 [/us/stat/32/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F386
 [/us/act/1866-05-30/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-05-30%2Fch102
 [/us/stat/14/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F54

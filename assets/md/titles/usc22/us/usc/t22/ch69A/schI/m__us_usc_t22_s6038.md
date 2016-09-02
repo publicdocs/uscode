@@ -51,7 +51,7 @@
 
             (C) the terms or conditions of any such agreement.
 
-([Pub. L. 104–114, title I, § 108][/us/pl/104/114/s108], Mar. 12, 1996, [110 Stat. 798][/us/stat/110/798].)
+([Pub. L. 104–114, title I][/us/pl/104/114/tI], § 108, Mar. 12, 1996, [110 Stat. 798][/us/stat/110/798].)
 
  __Delegation of Functions__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t22/s6063/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6063%2Fc%2F1
-[/us/pl/104/114/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs108
+[/us/pl/104/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2FtI
 [/us/stat/110/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F798
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

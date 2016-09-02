@@ -35,7 +35,7 @@
 
         Funds allocated by the United States Information Agency, or the agency primarily responsible for carrying out part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], for scholarships in accordance with this chapter shall be available to enhance the educational training and capabilities of the people of Latin America and the Caribbean and to promote better understanding between the United States and Latin America and the Caribbean through programs of cooperation, study, training, and research. Such funds may be used for program and administrative costs for institutions carrying out such programs.
 
-([Pub. L. 99–93, title VI, § 609][/us/pl/99/93/s609], Aug. 16, 1985, [99 Stat. 442][/us/stat/99/442].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 609, Aug. 16, 1985, [99 Stat. 442][/us/stat/99/442].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/99/93/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs609
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F442
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

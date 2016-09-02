@@ -27,7 +27,7 @@
 
         The provisions of this section shall not be construed to prohibit any action permitted under [section 7427 of this title][/us/usc/t22/s7427].
 
-([Pub. L. 107–206, title II, § 2006][/us/pl/107/206/s2006], Aug. 2, 2002, [116 Stat. 904][/us/stat/116/904].)
+([Pub. L. 107–206, title II][/us/pl/107/206/tII], § 2006, Aug. 2, 2002, [116 Stat. 904][/us/stat/116/904].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s7427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7427
-[/us/pl/107/206/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs2006
+[/us/pl/107/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtII
 [/us/stat/116/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F904
 
 

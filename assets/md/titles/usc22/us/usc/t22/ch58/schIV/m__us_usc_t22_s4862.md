@@ -17,7 +17,7 @@
 
     None of the funds authorized to be appropriated by this Act may be obligated or expended for site acquisition, development, or construction of any facility in Israel, Jerusalem, or the West Bank.
 
-([Pub. L. 99–399, title IV, § 414][/us/pl/99/399/s414], Aug. 27, 1986, [100 Stat. 868][/us/stat/100/868].)
+([Pub. L. 99–399, title IV][/us/pl/99/399/tIV], § 414, Aug. 27, 1986, [100 Stat. 868][/us/stat/100/868].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/399/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs414
+[/us/pl/99/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtIV
 [/us/stat/100/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F868
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/stat/100/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F853

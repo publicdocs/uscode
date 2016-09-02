@@ -49,19 +49,19 @@
 
         (2) In conjunction with each meeting of its Board of Directors, the Corporation shall hold a public hearing in order to afford an opportunity for any person to present views regarding the activities of the Corporation. Such views shall be made part of the record.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 231A, as added [Pub. L. 99–204, § 5(a)][/us/pl/99/204/s5/a], Dec. 23, 1985, [99 Stat. 1670][/us/stat/99/1670]; amended [Pub. L. 100–418, title II, § 2203(c)][/us/pl/100/418/s2203/c], Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328]; [Pub. L. 102–549, title I, § 102(a)][/us/pl/102/549/s102/a], Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 104–188, title I, § 1954(b)(3)][/us/pl/104/188/s1954/b/3], Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928]; [Pub. L. 106–158, § 3(a)][/us/pl/106/158/s3/a], Dec. 9, 1999, [113 Stat. 1745][/us/stat/113/1745].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 231A, as added [Pub. L. 99–204][/us/pl/99/204], § 5(a), Dec. 23, 1985, [99 Stat. 1670][/us/stat/99/1670]; amended [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2203(c), Aug. 23, 1988, [102 Stat. 1328][/us/stat/102/1328]; [Pub. L. 102–549, title I][/us/pl/102/549/tI], § 102(a), Oct. 28, 1992, [106 Stat. 3651][/us/stat/106/3651]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1954(b)(3), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928]; [Pub. L. 106–158][/us/pl/106/158], § 3(a), Dec. 9, 1999, [113 Stat. 1745][/us/stat/113/1745].)
 
  __Amendments__ 
 
-    1999—Subsec. (b). [Pub. L. 106–158, § 3(a)(2)][/us/pl/106/158/s3/a/2] added subsec. (b). Former subsec. (b) redesignated (c).
+    1999—Subsec. (b). [Pub. L. 106–158][/us/pl/106/158], § 3(a)(2) added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 106–158, § 3(a)(1)][/us/pl/106/158/s3/a/1], (3), redesignated subsec. (b) as (c), designated existing provisions as par. (1), and added par. (2).
+    Subsec. (c). [Pub. L. 106–158][/us/pl/106/158], § 3(a)(1), (3), redesignated subsec. (b) as (c), designated existing provisions as par. (1), and added par. (2).
 
-    1996—Subsec. (a)(1). [Pub. L. 104–188, § 1954(b)(3)(A)][/us/pl/104/188/s1954/b/3/A], substituted “2467(4)” for “2462(a)(4)”.
+    1996—Subsec. (a)(1). [Pub. L. 104–188][/us/pl/104/188], § 1954(b)(3)(A), substituted “2467(4)” for “2462(a)(4)”.
 
-    Subsec. (a)(2). [Pub. L. 104–188, § 1954(b)(3)(B)][/us/pl/104/188/s1954/b/3/B], substituted “2464” for “2465(c)”.
+    Subsec. (a)(2). [Pub. L. 104–188][/us/pl/104/188], § 1954(b)(3)(B), substituted “2464” for “2465(c)”.
 
-    Subsec. (a)(4). [Pub. L. 104–188, § 1954(b)(3)(C)][/us/pl/104/188/s1954/b/3/C], substituted “2467(4)” for “2462(a)(4)”.
+    Subsec. (a)(4). [Pub. L. 104–188][/us/pl/104/188], § 1954(b)(3)(C), substituted “2467(4)” for “2462(a)(4)”.
 
     1992—Subsec. (a)(1). [Pub. L. 102–549][/us/pl/102/549] inserted at end provisions requiring Corporation to include certain language about employee rights in all contracts with eligible investors.
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–158, § 3(b)][/us/pl/106/158/s3/b], Dec. 9, 1999, [113 Stat. 1746][/us/stat/113/1746], provided that: 
+[Pub. L. 106–158][/us/pl/106/158], § 3(b), Dec. 9, 1999, [113 Stat. 1746][/us/stat/113/1746], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 9, 1999\].”
 
@@ -79,7 +79,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–204, § 5(b)][/us/pl/99/204/s5/b], Dec. 23, 1985, [99 Stat. 1671][/us/stat/99/1671], provided that: 
+[Pub. L. 99–204][/us/pl/99/204], § 5(b), Dec. 23, 1985, [99 Stat. 1671][/us/stat/99/1671], provided that: 
 
 > “Subsection (a) of section 231A \[subsec. (a) of this section\], as added by subsection (a) of this section, shall not apply to projects insured, reinsured, guaranteed, or financed before the date of the enactment of this Act \[Dec. 23, 1985\].”
 
@@ -99,29 +99,29 @@
 [/us/usc/t19/s2467/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2467%2F4
 [/us/usc/t22/s2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2191
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/204/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs5%2Fa
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1670
-[/us/pl/100/418/s2203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2203%2Fc
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1328
-[/us/pl/102/549/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs102%2Fa
+[/us/pl/102/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtI
 [/us/stat/106/3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3651
-[/us/pl/104/188/s1954/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fb%2F3
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928
-[/us/pl/106/158/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs3%2Fa
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1745
-[/us/pl/106/158/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs3%2Fa%2F2
-[/us/pl/106/158/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs3%2Fa%2F1
-[/us/pl/104/188/s1954/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fb%2F3%2FA
-[/us/pl/104/188/s1954/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fb%2F3%2FB
-[/us/pl/104/188/s1954/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1954%2Fb%2F3%2FC
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/102/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/106/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs3%2Fb
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1746
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1953
 [/us/usc/t19/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2461
-[/us/pl/99/204/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204%2Fs5%2Fb
+[/us/pl/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F204
 [/us/stat/99/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1671
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 

@@ -23,7 +23,7 @@
 
         For purposes of eligibility for refugee status under [section 1157 of title 8][/us/usc/t8/s1157], or for asylum under [section 1158 of title 8][/us/usc/t8/s1158], a national of the Democratic People’s Republic of Korea shall not be considered a national of the Republic of Korea.
 
-([Pub. L. 108–333, title III, § 302][/us/pl/108/333/s302], Oct. 18, 2004, [118 Stat. 1295][/us/stat/118/1295].)
+([Pub. L. 108–333, title III][/us/pl/108/333/tIII], § 302, Oct. 18, 2004, [118 Stat. 1295][/us/stat/118/1295].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t8/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158
-[/us/pl/108/333/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2Fs302
+[/us/pl/108/333/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F333%2FtIII
 [/us/stat/118/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1295
 
 

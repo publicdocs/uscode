@@ -31,7 +31,7 @@
 
             (B) securing outside experts to be brought in during the initial phases to assist consular personnel.
 
-([Pub. L. 101–604, title II, § 206][/us/pl/101/604/s206], Nov. 16, 1990, [104 Stat. 3084][/us/stat/104/3084].)
+([Pub. L. 101–604, title II][/us/pl/101/604/tII], § 206, Nov. 16, 1990, [104 Stat. 3084][/us/stat/104/3084].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/604/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs206
+[/us/pl/101/604/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2FtII
 [/us/stat/104/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3084
 
 

@@ -39,7 +39,7 @@
 
         After payment in full of all awards certified to the Secretary of the Treasury pursuant to subsections (a) and (e) of this section, the Secretary of the Treasury is authorized and directed to transfer the unobligated balance in the Italian Claims Fund into the War Claims Fund created by [section 4110 of title 50][/us/usc/t50/s4110].
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 304, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 572][/us/stat/69/572]; amended [Pub. L. 85–604, § 2][/us/pl/85/604/s2], Aug. 8, 1958, [72 Stat. 531][/us/stat/72/531]; [Pub. L. 90–421, § 1(11)][/us/pl/90/421/s1/11], July 24, 1968, [82 Stat. 422][/us/stat/82/422].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 304, as added [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], § 3, [69 Stat. 572][/us/stat/69/572]; amended [Pub. L. 85–604][/us/pl/85/604], § 2, Aug. 8, 1958, [72 Stat. 531][/us/stat/72/531]; [Pub. L. 90–421][/us/pl/90/421], § 1(11), July 24, 1968, [82 Stat. 422][/us/stat/82/422].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 [/us/usc/t22/s1641i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641i
 [/us/usc/t50/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4110
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
+[/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F572
-[/us/pl/85/604/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs2
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F531
-[/us/pl/90/421/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F11
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F422
 [/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604

@@ -45,7 +45,7 @@
 
         In subsection (a), the term “appropriate committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 106–264, title I, § 131][/us/pl/106/264/s131], Aug. 19, 2000, [114 Stat. 757][/us/stat/114/757].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 131, Aug. 19, 2000, [114 Stat. 757][/us/stat/114/757].)
 
  __Change of Name__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/106/264/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs131
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F757
 
 

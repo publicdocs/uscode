@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Department of State for the use of the United States section of the International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to carry out the provisions of the treaty and title I of this Act.
 
-([Pub. L. 92–549, title I, § 108][/us/pl/92/549/s108], Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162].)
+([Pub. L. 92–549, title I][/us/pl/92/549/tI], § 108, Oct. 25, 1972, [86 Stat. 1162][/us/stat/86/1162].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/549/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2Fs108
+[/us/pl/92/549/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549%2FtI
 [/us/stat/86/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1162
 [/us/pl/92/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F549
 [/us/stat/86/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1161

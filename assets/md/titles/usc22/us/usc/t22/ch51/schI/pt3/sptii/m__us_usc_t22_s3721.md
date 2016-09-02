@@ -23,7 +23,7 @@
 
         The Commission may issue regulations establishing the basis of accounting for the assets which are made available for the use of the Commission. Such regulations may provide for depreciation of the net replacement value of the assets which will ultimately require replacement to maintain the service capacity of the Panama Canal. Such regulations may also provide that depreciation of such assets be recorded ratably over their service lives.
 
-([Pub. L. 96–70, title I, § 1311][/us/pl/96/70/s1311], Sept. 27, 1979, [93 Stat. 479][/us/stat/93/479]; [Pub. L. 104–201, div. C, title XXXV, § 3541(a)][/us/pl/104/201/s3541/a], Sept. 23, 1996, [110 Stat. 2866][/us/stat/110/2866].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1311, Sept. 27, 1979, [93 Stat. 479][/us/stat/93/479]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3541(a), Sept. 23, 1996, [110 Stat. 2866][/us/stat/110/2866].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t22/s3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3793
-[/us/pl/96/70/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1311
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F479
-[/us/pl/104/201/s3541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3541%2Fa
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2866
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t31/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs65

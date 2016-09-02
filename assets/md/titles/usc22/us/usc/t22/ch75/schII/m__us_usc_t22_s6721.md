@@ -23,7 +23,7 @@
 
         In this subchapter, the term “judge of the United States” means a judge or magistrate judge of a district court of the United States.
 
-([Pub. L. 105–277, div. I, title III, § 301][/us/pl/105/277/s301], Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872].)
+([Pub. L. 105–277, div. I, title III][/us/pl/105/277/dI/tIII], § 301, Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs301
+[/us/pl/105/277/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtIII
 [/us/stat/112/2681-872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-872
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-872

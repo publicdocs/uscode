@@ -17,7 +17,7 @@
 
     If authorizing legislation described in [section 3712(b)(1) of this title][/us/usc/t22/s3712/b/1] has not been enacted for a fiscal year, then the Commission may withdraw funds from the Panama Canal Revolving Fund in order to defray emergency expenses and to ensure the continuous, efficient, and safe operation of the Panama Canal, including expenses for capital projects. The authority of this section may be exercised only until authorizing legislation described in [section 3712(b)(1) of this title][/us/usc/t22/s3712/b/1] is enacted, or for a period of 24 months after the end of the fiscal year for which such authorizing legislation was last enacted, whichever occurs first. Within 60 days after the end of any calendar quarter in which expenditures are made under this section, the Commission shall report such expenditures to the appropriate committees of the Congress.
 
-([Pub. L. 96–70, title I, § 1303][/us/pl/96/70/s1303], Sept. 27, 1979, [93 Stat. 478][/us/stat/93/478]; [Pub. L. 100–203, title V, § 5423(a)][/us/pl/100/203/s5423/a], (b)(1), Dec. 22, 1987, [101 Stat. 1330–273][/us/stat/101/1330-273]; [Pub. L. 104–106, div. C, title XXXV, § 3529(2)][/us/pl/104/106/s3529/2], Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642]; [Pub. L. 104–201, div. C, title XXXV, § 3548(b)(2)][/us/pl/104/201/s3548/b/2], Sept. 23, 1996, [110 Stat. 2869][/us/stat/110/2869].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1303, Sept. 27, 1979, [93 Stat. 478][/us/stat/93/478]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5423(a), (b)(1), Dec. 22, 1987, [101 Stat. 1330–273][/us/stat/101/1330-273]; [Pub. L. 104–106, div. C, title XXXV][/us/pl/104/106/dC/tXXXV], § 3529(2), Feb. 10, 1996, [110 Stat. 642][/us/stat/110/642]; [Pub. L. 104–201, div. C, title XXXV][/us/pl/104/201/dC/tXXXV], § 3548(b)(2), Sept. 23, 1996, [110 Stat. 2869][/us/stat/110/2869].)
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 
 [/us/usc/t22/s3712/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3712%2Fb%2F1
 [/us/usc/t22/s3712/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3712%2Fb%2F1
-[/us/pl/96/70/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1303
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F478
-[/us/pl/100/203/s5423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5423%2Fa
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-273
-[/us/pl/104/106/s3529/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs3529%2F2
+[/us/pl/104/106/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXV
 [/us/stat/110/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F642
-[/us/pl/104/201/s3548/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3548%2Fb%2F2
+[/us/pl/104/201/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdC%2FtXXXV
 [/us/stat/110/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2869
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

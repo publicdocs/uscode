@@ -17,17 +17,17 @@
 
     The President is hereby authorized to accept membership for the United States in the Inter-American Development Bank (hereinafter referred to as the “Bank”), provided for by the agreement establishing the bank (hereinafter referred to as the “agreement”) deposited in the archives of the Organization of American States.
 
-([Pub. L. 86–147, § 2][/us/pl/86/147/s2], Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299].)
+([Pub. L. 86–147][/us/pl/86/147], § 2, Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299].)
 
  __Short Title__ 
 
-[Pub. L. 86–147, § 1][/us/pl/86/147/s1], Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299], provided that: 
+[Pub. L. 86–147][/us/pl/86/147], § 1, Aug. 7, 1959, [73 Stat. 299][/us/stat/73/299], provided that: 
 
 > “This Act \[enacting this subchapter and amending [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking\] may be cited as the ‘Inter-American Development Bank Act’.”
 
  __Proposals for Joint Act by Participants in Inter-American Development Bank for Increased Exploration and Exploitation of Energy and Mineral Resources of Western Hemisphere__ 
 
-    [Pub. L. 96–259, title I, § 102][/us/pl/96/259/s102], June 3, 1980, [94 Stat. 430][/us/stat/94/430], which required Presidential evaluation and report on a proposal for joint action by countries of Western Hemisphere and other countries which participate in Inter-American Development Bank to increase exploration for and exploitation of energy and mineral resources of Western Hemisphere through multilateral incentives, administered by Inter-American Development Bank, was repealed by [Pub. L. 101–240, title V, § 541(d)(6)][/us/pl/101/240/s541/d/6], Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].
+    [Pub. L. 96–259, title I][/us/pl/96/259/tI], § 102, June 3, 1980, [94 Stat. 430][/us/stat/94/430], which required Presidential evaluation and report on a proposal for joint action by countries of Western Hemisphere and other countries which participate in Inter-American Development Bank to increase exploration for and exploitation of energy and mineral resources of Western Hemisphere through multilateral incentives, administered by Inter-American Development Bank, was repealed by [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(d)(6), Dec. 19, 1989, [103 Stat. 2518][/us/stat/103/2518].
 
  __Par Value Modification__ 
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/86/147/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs2
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F299
-[/us/pl/86/147/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs1
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
 [/us/stat/73/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F299
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
-[/us/pl/96/259/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs102
+[/us/pl/96/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtI
 [/us/stat/94/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F430
-[/us/pl/101/240/s541/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fd%2F6
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2518
 [/us/usc/t31/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5152
 

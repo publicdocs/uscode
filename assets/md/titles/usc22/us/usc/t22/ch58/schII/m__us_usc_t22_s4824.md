@@ -17,7 +17,7 @@
 
     The Secretary of State is authorized to employ individuals or organizations by contract to carry out the purposes of this Act, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of any law administered by the Secretary concerning the employment of such individuals); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making and performance of contracts and performance of work in the United States.
 
-([Pub. L. 99–399, title II, § 206][/us/pl/99/399/s206], as added [Pub. L. 105–277, div. C, title I, § 104][/us/pl/105/277/s104], Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586].)
+([Pub. L. 99–399, title II][/us/pl/99/399/tII], § 206, as added [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 104, Oct. 21, 1998, [112 Stat. 2681–586][/us/stat/112/2681-586].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/99/399/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs206
-[/us/pl/105/277/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs104
+[/us/pl/99/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtII
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-586
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/stat/100/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F853

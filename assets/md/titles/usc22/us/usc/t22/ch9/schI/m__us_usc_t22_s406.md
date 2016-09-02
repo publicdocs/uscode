@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s401.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s407.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs406)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s402...405.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s407.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs406)
 
 ## § 406. Interference with foreign trade
 
@@ -21,11 +21,11 @@
 
  __References in Text__ 
 
-    Herein, referred to in text, means [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VI, [40 Stat. 223][/us/stat/40/223], as amended, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, 191, and 192 to 195 of Title 50, War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
+    Herein, referred to in text, means [act June 15, 1917, ch. 30, title VI][/us/act/1917-06-15/ch30/tVI], [40 Stat. 223][/us/stat/40/223], as amended, which enacted sections 31 to 39, 98, 130 to 133, 288, 343 to 346, 381, 502, 535, 536, 574, and 611 to 633 of former Title 18, Criminal Code and Criminal Procedure, sections 213, 231 to 233, 235, 401 to 408a, 462, and 465 of this title, and sections 30 to 42, 191, and 192 to 195 of Title 50, War and National Defense, and amended sections 25, 27, and 349 of former Title 18. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s401.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s407.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs406)
+[Previous](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s402...405.md) | [Next](./../../../../..//us/usc/t22/ch9/schI/m__us_usc_t22_s407.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs406)
 
 ----------
 ----------
@@ -33,7 +33,7 @@
 [/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F225
-[/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
+[/us/act/1917-06-15/ch30/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30%2FtVI
 [/us/stat/40/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F223
 
 

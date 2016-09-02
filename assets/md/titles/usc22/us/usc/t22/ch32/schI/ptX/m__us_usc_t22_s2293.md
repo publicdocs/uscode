@@ -187,23 +187,23 @@
 
             To the maximum extent feasible, the assistance authorized by this subsection shall be provided consistent with the policies and authorities contained in the preceding subsection of this section.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 496, as added [Pub. L. 101–513, title V, § 562(a)][/us/pl/101/513/s562/a], Nov. 5, 1990, [104 Stat. 2026][/us/stat/104/2026]; amended [Pub. L. 106–200, title I, § 127(c)][/us/pl/106/200/s127/c], May 18, 2000, [114 Stat. 273][/us/stat/114/273]; [Pub. L. 106–264, title I, § 111(b)][/us/pl/106/264/s111/b], Aug. 19, 2000, [114 Stat. 752][/us/stat/114/752].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 496, as added [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(a), Nov. 5, 1990, [104 Stat. 2026][/us/stat/104/2026]; amended [Pub. L. 106–200, title I][/us/pl/106/200/tI], § 127(c), May 18, 2000, [114 Stat. 273][/us/stat/114/273]; [Pub. L. 106–264, title I][/us/pl/106/264/tI], § 111(b), Aug. 19, 2000, [114 Stat. 752][/us/stat/114/752].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (n)(2)(B), was in the original “this Act”, meaning [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
-    The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), probably means the Comprehensive Anti-Apartheid Act of 1986, which is [Pub. L. 99–440][/us/pl/99/440], Oct. 2, 1986, [100 Stat. 1086][/us/stat/100/1086], as amended, and was classified principally to chapter 60 (§ 5001 et seq.) of this title, prior to repeal by [Pub. L. 103–149, § 4(a)(1)][/us/pl/103/149/s4/a/1], (2), Nov. 23, 1993, [107 Stat. 1504][/us/stat/107/1504], 1505. For complete classification of this Act to the Code, see Tables.
+    The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), probably means the Comprehensive Anti-Apartheid Act of 1986, which is [Pub. L. 99–440][/us/pl/99/440], Oct. 2, 1986, [100 Stat. 1086][/us/stat/100/1086], as amended, and was classified principally to chapter 60 (§ 5001 et seq.) of this title, prior to repeal by [Pub. L. 103–149][/us/pl/103/149], § 4(a)(1), (2), Nov. 23, 1993, [107 Stat. 1504][/us/stat/107/1504], 1505. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
-    A prior section 2293, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 496, as added [Pub. L. 93–559, § 53][/us/pl/93/559/s53], Dec. 30, 1974, [88 Stat. 1818][/us/stat/88/1818]; amended [Pub. L. 94–161, title III, § 314][/us/pl/94/161/s314], Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866], related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by [Pub. L. 99–83, title XII, § 1211(a)(4)][/us/pl/99/83/s1211/a/4], Aug. 8, 1985, [99 Stat. 279][/us/stat/99/279], effective Oct. 1, 1985.
+    A prior section 2293, [Pub. L. 87–195][/us/pl/87/195], pt. I, § 496, as added [Pub. L. 93–559][/us/pl/93/559], § 53, Dec. 30, 1974, [88 Stat. 1818][/us/stat/88/1818]; amended [Pub. L. 94–161, title III][/us/pl/94/161/tIII], § 314, Dec. 20, 1975, [89 Stat. 866][/us/stat/89/866], related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by [Pub. L. 99–83, title XII][/us/pl/99/83/tXII], § 1211(a)(4), Aug. 8, 1985, [99 Stat. 279][/us/stat/99/279], effective Oct. 1, 1985.
 
  __Amendments__ 
 
-    2000—Subsec. (h)(3). [Pub. L. 106–200, § 127(c)(1)(B)][/us/pl/106/200/s127/c/1/B], added par. (3). Former par. (3) redesignated (4).
+    2000—Subsec. (h)(3). [Pub. L. 106–200][/us/pl/106/200], § 127(c)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (h)(4). [Pub. L. 106–200, § 127(c)(1)(A)][/us/pl/106/200/s127/c/1/A], (2), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in first sentence.
+    Subsec. (h)(4). [Pub. L. 106–200][/us/pl/106/200], § 127(c)(1)(A), (2), redesignated par. (3) as (4) and substituted “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in first sentence.
 
     Subsec. (i)(2). [Pub. L. 106–264][/us/pl/106/264] inserted at end “In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.”
 
@@ -211,9 +211,259 @@
 
     For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+ __Electrify Africa__ 
+
+[Pub. L. 114–121][/us/pl/114/121], Feb. 8, 2016, [130 Stat. 86][/us/stat/130/86], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Electrify Africa Act of 2015’.
+
+> “SEC. 2. __PURPOSE.__ 
+
+>     “The purpose of this Act is to encourage the efforts of countries in sub-Saharan Africa to improve access to affordable and reliable electricity in Africa in order to unlock the potential for inclusive economic growth, job creation, food security, improved health, education, and environmental outcomes, and poverty reduction.
+
+> “SEC. 3. __STATEMENT OF POLICY.__ 
+
+> “It is the policy of the United States to partner, consult, and coordinate with the governments of sub-Saharan African countries, international financial institutions, and African regional economic communities, cooperatives, and the private sector, in a concerted effort to—
+
+>     “(1) promote first-time access to power and power services for at least 50,000,000 people in sub-Saharan Africa by 2020 in both urban and rural areas;
+
+>     “(2) encourage the installation of at least 20,000 additional megawatts of electrical power in sub-Saharan Africa by 2020 using a broad mix of energy options to help reduce poverty, promote sustainable development, and drive inclusive economic growth;
+
+>     “(3) promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation;
+
+>     “(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations;
+
+>     “(5) encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible;
+
+>     “(6) promote reforms of power production, delivery, and pricing, as well as regulatory reforms and transparency, to support long-term, market-based power generation and distribution;
+
+>     “(7) promote policies to displace kerosene lighting with other technologies;
+
+>     “(8) promote an all-of-the-above energy development strategy for sub-Saharan Africa that includes the use of oil, natural gas, coal, hydroelectric, wind, solar, and geothermal power, and other sources of energy; and
+
+>     “(9) promote and increase the use of private financing and seek ways to remove barriers to private financing and assistance for projects, including through charitable organizations.
+
+> “SEC. 4. __DEVELOPMENT OF COMPREHENSIVE, MULTIYEAR STRATEGY.__ 
+
+>     “(a) __Strategy Required.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The President shall establish a comprehensive, integrated, multiyear strategy to encourage the efforts of countries in sub-Saharan Africa to implement national power strategies and develop an appropriate mix of power solutions to provide access to sufficient reliable, affordable, and sustainable power in order to reduce poverty and drive economic growth and job creation consistent with the policy stated in section 3.
+
+>         “(2)  __Flexibility and responsiveness__  __.—__ 
+
+>         The President shall ensure that the strategy required under paragraph (1) maintains sufficient flexibility for and remains responsive to concerns and interests of affected local communities and technological innovation in the power sector.
+
+>     “(b)  __Report Required__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Feb. 8, 2016\], the President shall transmit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that contains the strategy required under subsection (a) and includes a discussion of the following elements:
+
+>         “(1) The objectives of the strategy and the criteria for determining the success of the strategy.
+
+>         “(2)
+
+>          A general description of efforts in sub-Saharan Africa to—
+
+>             “(A) increase power production;
+
+>             “(B) strengthen electrical transmission and distribution infrastructure;
+
+>             “(C) provide for regulatory reform and transparent and accountable governance and oversight;
+
+>             “(D) improve the reliability of power;
+
+>             “(E) maintain the affordability of power;
+
+>             “(F) maximize the financial sustainability of the power sector; and
+
+>             “(G) improve non-discriminatory access to power that is done in consultation with affected communities.
+
+>         “(3) A description of plans to support efforts of countries in sub-Saharan Africa to increase access to power in urban and rural areas, including a description of plans designed to address commercial, industrial, and residential needs.
+
+>         “(4) A description of plans to support efforts to reduce waste and corruption, ensure local community consultation, and improve existing power generation through the use of a broad power mix, including fossil fuel and renewable energy, distributed generation models, energy efficiency, and other technological innovations, as appropriate.
+
+>         “(5)
+
+>          An analysis of existing mechanisms for ensuring, and recommendations to promote—
+
+>             “(A) commercial cost recovery;
+
+>             “(B) commercialization of electric service through distribution service providers, including cooperatives, to consumers;
+
+>             “(C) improvements in revenue cycle management, power pricing, and fees assessed for service contracts and connections;
+
+>             “(D) reductions in technical losses and commercial losses; and
+
+>             “(E) non-discriminatory access to power, including recommendations on the creation of new service provider models that mobilize community participation in the provision of power services.
+
+>         “(6)
+
+>          A description of the reforms being undertaken or planned by countries in sub-Saharan Africa to ensure the long-term economic viability of power projects and to increase access to power, including—
+
+>             “(A) reforms designed to allow third parties to connect power generation to the grid;
+
+>             “(B) policies to ensure there is a viable and independent utility regulator;
+
+>             “(C) strategies to ensure utilities become or remain creditworthy;
+
+>             “(D) regulations that permit the participation of independent power producers and private-public partnerships;
+
+>             “(E) policies that encourage private sector and cooperative investment in power generation;
+
+>             “(F) policies that ensure compensation for power provided to the electrical grid by on-site producers;
+
+>             “(G) policies to unbundle power services;
+
+>             “(H) regulations to eliminate conflicts of interest in the utility sector;
+
+>             “(I) efforts to develop standardized power purchase agreements and other contracts to streamline project development;
+
+>             “(J) efforts to negotiate and monitor compliance with power purchase agreements and other contracts entered into with the private sector; and
+
+>             “(K) policies that promote local community consultation with respect to the development of power generation and transmission projects.
+
+>         “(7) A description of plans to ensure meaningful local consultation, as appropriate, in the planning, long-term maintenance, and management of investments designed to increase access to power in sub-Saharan Africa.
+
+>         “(8)
+
+>          A description of the mechanisms to be established for—
+
+>             “(A) selection of partner countries for focused engagement on the power sector;
+
+>             “(B) monitoring and evaluating increased access to, and reliability and affordability of, power in sub-Saharan Africa;
+
+>             “(C) maximizing the financial sustainability of power generation, transmission, and distribution in sub-Saharan Africa;
+
+>             “(D) establishing metrics to demonstrate progress on meeting goals relating to access to power, power generation, and distribution in sub-Saharan Africa; and
+
+>             “(E) terminating unsuccessful programs.
+
+>         “(9)
+
+>          A description of how the President intends to promote trade in electrical equipment with countries in sub-Saharan Africa, including a description of how the government of each country receiving assistance pursuant to the strategy—
+
+>             “(A) plans to lower or eliminate import tariffs or other taxes for energy and other power production and distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and
+
+>             “(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa.
+
+>         “(10)
+
+>          A description of how the President intends to encourage the growth of distributed renewable energy markets in sub-Saharan Africa, including off-grid lighting and power, that includes—
+
+>             “(A) an analysis of the state of distributed renewable energy in sub-Saharan Africa;
+
+>             “(B) a description of market barriers to the deployment of distributed renewable energy technologies both on- and off-grid in sub-Saharan Africa;
+
+>             “(C) an analysis of the efficacy of efforts by the Overseas Private Investment Corporation and the United States Agency for International Development to facilitate the financing of the importation, distribution, sale, leasing, or marketing of distributed renewable energy technologies; and
+
+>             “(D) a description of how bolstering distributed renewable energy can enhance the overall effort to increase power access in sub-Saharan Africa.
+
+>         “(11) A description of plans to ensure that small and medium enterprises based in sub-Saharan Africa can fairly compete for energy development and energy access opportunities associated with this Act.
+
+>         “(12) A description of how United States investments to increase access to energy in sub-Saharan Africa may reduce the need for foreign aid and development assistance in the future.
+
+>         “(13) A description of policies or regulations, both domestically and internationally, that create barriers to private financing of the projects undertaken in this Act.
+
+>         “(14) A description of the specific national security benefits to the United States that will be derived from increased energy access in sub-Saharan Africa.
+
+>     “(c) __Interagency Working Group.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The President may, as appropriate, establish an Interagency Working Group to coordinate the activities of relevant United States Government departments and agencies involved in carrying out the strategy required under this section.
+
+>         “(2)  __Functions__  __.—__ 
+
+>         The Interagency Working Group may, among other things—
+
+>             “(A) seek to coordinate the activities of the United States Government departments and agencies involved in implementing the strategy required under this section;
+
+>             “(B) ensure efficient and effective coordination between participating departments and agencies; and
+
+>             “(C) facilitate information sharing, and coordinate partnerships between the United States Government, the private sector, and other development partners to achieve the goals of the strategy.
+
+> “SEC. 5. __PRIORITIZATION OF EFFORTS AND ASSISTANCE FOR POWER PROJECTS IN SUB-SAHARAN AFRICA BY KEY UNITED STATES INSTITUTIONS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     In pursuing the policy goals described in section 3, the Administrator of the United States Agency for International Development, the Director of the Trade and Development Agency, the Overseas Private Investment Corporation, and the Chief Executive Officer and Board of Directors of the Millennium Challenge Corporation should, as appropriate, prioritize and expedite institutional efforts and assistance to facilitate the involvement of such institutions in power projects and markets, both on- and off-grid, in sub-Saharan Africa and partner with other investors and local institutions in sub-Saharan Africa, including private sector actors, to specifically increase access to reliable, affordable, and sustainable power in sub-Saharan Africa, including through—
+
+>         “(1) maximizing the number of people with new access to power and power services;
+
+>         “(2) improving and expanding the generation, transmission and distribution of power;
+
+>         “(3) providing reliable power to people and businesses in urban and rural communities;
+
+>         “(4) addressing the energy needs of marginalized people living in areas where there is little or no access to a power grid and developing plans to systematically increase coverage in rural areas;
+
+>         “(5) reducing transmission and distribution losses and improving end-use efficiency and demand-side management;
+
+>         “(6) reducing energy-related impediments to business productivity and investment; and
+
+>         “(7) building the capacity of countries in sub-Saharan Africa to monitor and appropriately and transparently regulate the power sector and encourage private investment in power production and distribution.
+
+>     “(b)  __Effectiveness Measurement__  __.—__ 
+
+>     In prioritizing and expediting institutional efforts and assistance pursuant to this section, as appropriate, such institutions shall use clear, accountable, and metric-based targets to measure the effectiveness of such guarantees and assistance in achieving the goals described in section 3.
+
+>     “(c)  __Promotion of Use of Private Financing and Assistance__  __.—__ 
+
+>     In carrying out policies under this section, such institutions shall promote the use of private financing and assistance and seek ways to remove barriers to private financing for projects and programs under this Act, including through charitable organizations.
+
+>     “(d)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section may be construed to authorize modifying or limiting the portfolio of the institutions covered by subsection (a) in other developing regions.
+
+> “SEC. 6. __LEVERAGING INTERNATIONAL SUPPORT.__ 
+
+> “In implementing the strategy described in section 4, the President should direct the United States representatives to appropriate international bodies to use the influence of the United States, consistent with the broad development goals of the United States, to advocate that each such body—
+
+>     “(1) commit to significantly increase efforts to promote investment in well-designed power sector and electrification projects in sub-Saharan Africa that increase energy access, in partnership with the private sector and consistent with the host countries’ absorptive capacity;
+
+>     “(2) address energy needs of individuals and communities where access to an electricity grid is impractical or cost-prohibitive;
+
+>     “(3) enhance coordination with the private sector in sub-Saharan Africa to increase access to electricity;
+
+>     “(4) provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary barriers to investment in otherwise commercially viable projects; and
+
+>     “(5) utilize clear, accountable, and metric-based targets to measure the effectiveness of such projects.
+
+> “SEC. 7. __PROGRESS REPORT.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than three years after the date of the enactment of this Act \[Feb. 8, 2016\], the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on progress made toward achieving the strategy described in section 4 that includes the following:
+
+>         “(1) A report on United States programs supporting implementation of policy and legislative changes leading to increased power generation and access in sub-Saharan Africa, including a description of the number, type, and status of policy, regulatory, and legislative changes initiated or implemented as a result of programs funded or supported by the United States in countries in sub-Saharan Africa to support increased power generation and access after the date of the enactment of this Act.
+
+>         “(2) A description of power projects receiving United States Government support and how such projects, including off-grid efforts, are intended to achieve the strategy described in section 4.
+
+>         “(3)
+
+>          For each project described in paragraph (2)—
+
+>             “(A) a description of how the project fits into, or encourages modifications of, the national energy plan of the country in which the project will be carried out, including encouraging regulatory reform in that county;
+
+>             “(B) an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors;
+
+>             “(C) the amount of financing provided or guaranteed by the United States Government for the project;
+
+>             “(D) an estimate of United States Government resources for the project, itemized by funding source, including from the Overseas Private Investment Corporation, the United States Agency for International Development, the Department of the Treasury, and other appropriate United States Government departments and agencies;
+
+>             “(E) an estimate of the number and regional locations of individuals, communities, businesses, schools, and health facilities that have gained power connections as a result of the project, with a description of how the reliability, affordability, and sustainability of power has been improved as of the date of the report;
+
+>             “(F) an assessment of the increase in the number of people and businesses with access to power, and in the operating electrical power capacity in megawatts as a result of the project between the date of the enactment of this Act and the date of the report;
+
+>             “(G) a description of efforts to gain meaningful local consultation for projects associated with this Act and any significant estimated noneconomic effects of the efforts carried out pursuant to this Act; and
+
+>             “(H) a description of the participation by small and medium enterprises based in sub-Saharan Africa on projects associated with this Act.”
+
  __Agricultural and Rural Development in Sub-Saharan Africa__ 
 
-[Pub. L. 105–385, § 2][/us/pl/105/385/s2], Nov. 13, 1998, [112 Stat. 3460][/us/stat/112/3460], provided that:
+[Pub. L. 105–385][/us/pl/105/385], § 2, Nov. 13, 1998, [112 Stat. 3460][/us/stat/112/3460], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -255,7 +505,7 @@
 
 >     It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, [22 U.S.C. 2220a][/us/usc/t22/s2220a] et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
 
-[Pub. L. 105–385, title I][/us/pl/105/385], Nov. 13, 1998, [112 Stat. 3462][/us/stat/112/3462], as amended by [Pub. L. 110–234, title VII, § 7511(c)(39)][/us/pl/110/234/s7511/c/39], May 22, 2008, [122 Stat. 1271][/us/stat/122/1271]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(39), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032, provided that:
+[Pub. L. 105–385, title I][/us/pl/105/385/tI], Nov. 13, 1998, [112 Stat. 3462][/us/stat/112/3462], as amended by [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(39), May 22, 2008, [122 Stat. 1271][/us/stat/122/1271]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(39), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032, provided that:
 
 > “SEC. 101. __AFRICA FOOD SECURITY INITIATIVE.__ 
 
@@ -369,7 +619,7 @@
 
  __Reports to Congress__ 
 
-[Pub. L. 101–513, title V, § 562(c)][/us/pl/101/513/s562/c], Nov. 5, 1990, [104 Stat. 2030][/us/stat/104/2030], provided that: 
+[Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(c), Nov. 5, 1990, [104 Stat. 2030][/us/stat/104/2030], provided that: 
 
 > “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
@@ -396,41 +646,43 @@
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t22/s2354/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2354%2Fa
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/513/s562/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fa
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2026
-[/us/pl/106/200/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127%2Fc
+[/us/pl/106/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2FtI
 [/us/stat/114/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F273
-[/us/pl/106/264/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs111%2Fb
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F752
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/99/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F440
 [/us/stat/100/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1086
-[/us/pl/103/149/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149%2Fs4%2Fa%2F1
+[/us/pl/103/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F149
 [/us/stat/107/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1504
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/93/559/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559%2Fs53
+[/us/pl/93/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F559
 [/us/stat/88/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1818
-[/us/pl/94/161/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs314
+[/us/pl/94/161/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2FtIII
 [/us/stat/89/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F866
-[/us/pl/99/83/s1211/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1211%2Fa%2F4
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F279
-[/us/pl/106/200/s127/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127%2Fc%2F1%2FB
-[/us/pl/106/200/s127/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127%2Fc%2F1%2FA
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
+[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/105/385/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2Fs2
+[/us/pl/114/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F121
+[/us/stat/130/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F86
+[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
 [/us/stat/112/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3460
 [/us/usc/t22/s2220a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2220a
-[/us/pl/105/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385
+[/us/pl/105/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F385%2FtI
 [/us/stat/112/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3462
-[/us/pl/110/234/s7511/c/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F39
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1271
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t22/s2293/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fe%2F1
-[/us/pl/101/513/s562/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fc
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2030
 [/us/usc/t22/s2293/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fe%2F1
 

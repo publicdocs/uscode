@@ -27,7 +27,7 @@
 
     (5) Such other information as the President considers appropriate to fully inform the Congress concerning the operation of the programs authorized under this chapter.
 
-([Pub. L. 102–484, div. A, title XIV, § 1432][/us/pl/102/484/s1432], Oct. 23, 1992, [106 Stat. 2566][/us/stat/106/2566].)
+([Pub. L. 102–484, div. A, title XIV][/us/pl/102/484/dA/tXIV], § 1432, Oct. 23, 1992, [106 Stat. 2566][/us/stat/106/2566].)
 
  __Delegation of Authority__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1432
+[/us/pl/102/484/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIV
 [/us/stat/106/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2566
 [/us/usc/t22/s5852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5852
 

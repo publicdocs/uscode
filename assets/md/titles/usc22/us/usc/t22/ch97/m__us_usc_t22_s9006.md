@@ -49,7 +49,7 @@
 
             The limitation on liability under paragraph (1) shall not apply to any alleged act or omission related to an ordinary business activity, such as an activity involving general administration or operations, the use of motor vehicles, or personnel management.
 
-([Pub. L. 100–300, § 7][/us/pl/100/300/s7], Apr. 29, 1988, [102 Stat. 439][/us/stat/102/439]; [Pub. L. 105–277, div. G, title XXII, § 2213][/us/pl/105/277/s2213], Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812]; [Pub. L. 108–370, § 2][/us/pl/108/370/s2], Oct. 25, 2004, [118 Stat. 1750][/us/stat/118/1750].)
+([Pub. L. 100–300][/us/pl/100/300], § 7, Apr. 29, 1988, [102 Stat. 439][/us/stat/102/439]; [Pub. L. 105–277, div. G, title XXII][/us/pl/105/277/dG/tXXII], § 2213, Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812]; [Pub. L. 108–370][/us/pl/108/370], § 2, Oct. 25, 2004, [118 Stat. 1750][/us/stat/118/1750].)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@ In order that the Government of the United States of America may give full and c
 ----------
 
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
-[/us/pl/100/300/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300%2Fs7
+[/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F439
-[/us/pl/105/277/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2213
+[/us/pl/105/277/dG/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG%2FtXXII
 [/us/stat/112/2681-812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-812
-[/us/pl/108/370/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F370%2Fs2
+[/us/pl/108/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F370
 [/us/stat/118/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1750
 [/us/pl/100/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F300
 [/us/stat/102/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F437

@@ -51,7 +51,7 @@
 
         Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title I, § 7, [64 Stat. 16][/us/stat/64/16]; [Aug. 8, 1953, ch. 396, § 2][/us/act/1953-08-08/ch396/s2], [67 Stat. 506][/us/stat/67/506]; [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], §§ 1, 2, [69 Stat. 562][/us/stat/69/562]; [Pub. L. 90–421, § 1(2)][/us/pl/90/421/s1/2], (3), July 24, 1968, [82 Stat. 420][/us/stat/82/420]; [Pub. L. 104–316, title II, § 202(h)][/us/pl/104/316/s202/h], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title I, § 7, [64 Stat. 16][/us/stat/64/16]; [Aug. 8, 1953, ch. 396][/us/act/1953-08-08/ch396], § 2, [67 Stat. 506][/us/stat/67/506]; [Aug. 9, 1955, ch. 645][/us/act/1955-08-09/ch645], §§ 1, 2, [69 Stat. 562][/us/stat/69/562]; [Pub. L. 90–421][/us/pl/90/421], § 1(2), (3), July 24, 1968, [82 Stat. 420][/us/stat/82/420]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(h), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
 
  __References to This Subchapter Deemed To Include Section 119 of H.R. 2076__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c)(1), (2). [Pub. L. 104–316, § 202(h)(1)][/us/pl/104/316/s202/h/1], substituted “Secretary of the Treasury” for “Comptroller General” in par. (1) and “Secretary of the Treasury” for “Comptroller General of the United States” in par. (2).
+    1996—Subsec. (c)(1), (2). [Pub. L. 104–316][/us/pl/104/316], § 202(h)(1), substituted “Secretary of the Treasury” for “Comptroller General” in par. (1) and “Secretary of the Treasury” for “Comptroller General of the United States” in par. (2).
 
-    Subsec. (d). [Pub. L. 104–316, § 202(h)(2)][/us/pl/104/316/s202/h/2], struck out “, or the Comptroller General of the United States, as the case may be,” after “Secretary of the Treasury”.
+    Subsec. (d). [Pub. L. 104–316][/us/pl/104/316], § 202(h)(2), struck out “, or the Comptroller General of the United States, as the case may be,” after “Secretary of the Treasury”.
 
-    1968—Subsec. (b). [Pub. L. 90–421, § 1(2)][/us/pl/90/421/s1/2], designated existing provisions as par. (1) and added par. (2).
+    1968—Subsec. (b). [Pub. L. 90–421][/us/pl/90/421], § 1(2), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 90–421, § 1(3)][/us/pl/90/421/s1/3], substituted “any person to whom any payment is to be made pursuant to this subchapter” for “such person” and “, except that if any payment to be made is not over $1000” for “: Provided, That if the total award is not over $500”, and struck out “of the United States” after “Comptroller General”.
+    Subsec. (c)(1). [Pub. L. 90–421][/us/pl/90/421], § 1(3), substituted “any person to whom any payment is to be made pursuant to this subchapter” for “such person” and “, except that if any payment to be made is not over $1000” for “: Provided, That if the total award is not over $500”, and struck out “of the United States” after “Comptroller General”.
 
     1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
@@ -92,20 +92,20 @@
 [/us/usc/t22/s1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1627
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F16
-[/us/act/1953-08-08/ch396/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch396%2Fs2
+[/us/act/1953-08-08/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch396
 [/us/stat/67/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F506
 [/us/act/1955-08-09/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
-[/us/pl/90/421/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F2
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/82/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F420
-[/us/pl/104/316/s202/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fh
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/usc/t22/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1644
-[/us/pl/104/316/s202/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fh%2F1
-[/us/pl/104/316/s202/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fh%2F2
-[/us/pl/90/421/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F2
-[/us/pl/90/421/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F3
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
+[/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/stat/68/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1279
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622
 

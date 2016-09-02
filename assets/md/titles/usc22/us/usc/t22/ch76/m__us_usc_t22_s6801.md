@@ -37,7 +37,7 @@
 
         The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
-([Pub. L. 106–264, title I, § 102][/us/pl/106/264/s102], Aug. 19, 2000, [114 Stat. 749][/us/stat/114/749].)
+([Pub. L. 106–264, title I][/us/pl/106/264/tI], § 102, Aug. 19, 2000, [114 Stat. 749][/us/stat/114/749].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 
  __Short Title__ 
 
-[Pub. L. 106–264, § 1][/us/pl/106/264/s1], Aug. 19, 2000, [114 Stat. 748][/us/stat/114/748], provided that: 
+[Pub. L. 106–264][/us/pl/106/264], § 1, Aug. 19, 2000, [114 Stat. 748][/us/stat/114/748], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 2151b, 2222, 2293, 2367 and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151 and 2151b of this title\] may be cited as the ‘Global AIDS and Tuberculosis Relief Act of 2000’.”
 
-[Pub. L. 106–264, title I, § 101][/us/pl/106/264/s101], Aug. 19, 2000, [114 Stat. 749][/us/stat/114/749], provided that: 
+[Pub. L. 106–264, title I][/us/pl/106/264/tI], § 101, Aug. 19, 2000, [114 Stat. 749][/us/stat/114/749], provided that: 
 
 > “This title \[enacting this chapter and amending sections 2151b, 2222 and 2293 of this title\] may be cited as the ‘Global AIDS Research and Relief Act of 2000’.”
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/106/264/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs102
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F749
 [/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/stat/114/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F748
-[/us/pl/106/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs1
+[/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/stat/114/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F748
-[/us/pl/106/264/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2Fs101
+[/us/pl/106/264/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264%2FtI
 [/us/stat/114/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F749
 
 

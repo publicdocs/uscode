@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212a.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s214.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs213)
+[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212b.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s214.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs213)
 
 ## § 213. Application for passport; verification by oath of initial passport
 
     Before a passport is issued to any person by or under authority of the United States such person shall subscribe to and submit a written application which shall contain a true recital of each and every matter of fact which may be required by law or by any rules authorized by law to be stated as a prerequisite to the issuance of any such passport. If the applicant has not previously been issued a United States passport, the application shall be duly verified by his oath before a person authorized and empowered by the Secretary of State to administer oaths.
 
-([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title IX, § 1, [40 Stat. 227][/us/stat/40/227]; [Pub. L. 90–428, § 3][/us/pl/90/428/s3], July 26, 1968, [82 Stat. 446][/us/stat/82/446].)
+([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title IX, § 1, [40 Stat. 227][/us/stat/40/227]; [Pub. L. 90–428][/us/pl/90/428], § 3, July 26, 1968, [82 Stat. 446][/us/stat/82/446].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Issuance of Passports for Children Under Age 14__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 236\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–430, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 236\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–430, provided that:
 
 >     “(a) __In General.—__ 
 
@@ -61,20 +61,20 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212a.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s214.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs213)
+[Previous](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s212b.md) | [Next](./../../../..//us/usc/t22/ch4/m__us_usc_t22_s214.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs213)
 
 ----------
 ----------
 
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F227
-[/us/pl/90/428/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs3
+[/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/stat/82/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F446
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/90/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs4
 [/us/usc/t22/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs217a
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

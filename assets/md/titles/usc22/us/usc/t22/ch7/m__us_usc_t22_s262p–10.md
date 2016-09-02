@@ -31,7 +31,7 @@
 
         In this section, the term “World Bank” means the International Bank for Reconstruction and Development and the International Development Association.
 
-([Pub. L. 95–118, title XVI, § 1627][/us/pl/95/118/s1627], as added [Pub. L. 111–32, title XI, § 1110][/us/pl/111/32/s1110], June 24, 2009, [123 Stat. 1902][/us/stat/123/1902].)
+([Pub. L. 95–118, title XVI][/us/pl/95/118/tXVI], § 1627, as added [Pub. L. 111–32, title XI][/us/pl/111/32/tXI], § 1110, June 24, 2009, [123 Stat. 1902][/us/stat/123/1902].)
 
  __Definitions__ 
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1627
-[/us/pl/111/32/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs1110
+[/us/pl/95/118/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVI
+[/us/pl/111/32/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtXI
 [/us/stat/123/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1902
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 

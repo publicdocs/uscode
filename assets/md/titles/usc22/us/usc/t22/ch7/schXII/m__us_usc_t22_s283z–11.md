@@ -29,7 +29,7 @@
 
         For the United States contribution authorized by subsection (a), there are authorized to be appropriated not more than $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
 
-([Pub. L. 86–147, § 39][/us/pl/86/147/s39], as added [Pub. L. 109–289, div. B, title II, § 20410][/us/pl/109/289/s20410], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 25][/us/stat/121/25].)
+([Pub. L. 86–147][/us/pl/86/147], § 39, as added [Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20410, as added [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 25][/us/stat/121/25].)
 
 ----------
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/86/147/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs39
-[/us/pl/109/289/s20410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20410
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F25
 
 

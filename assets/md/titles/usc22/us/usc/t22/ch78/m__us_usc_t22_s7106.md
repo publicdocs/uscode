@@ -67,7 +67,7 @@
 
             (B) participation in international sex tourism by nationals of the country.
 
-([Pub. L. 106–386, div. A, § 108][/us/pl/106/386/s108], Oct. 28, 2000, [114 Stat. 1480][/us/stat/114/1480]; [Pub. L. 108–193, § 6(d)][/us/pl/108/193/s6/d], Dec. 19, 2003, [117 Stat. 2881][/us/stat/117/2881]; [Pub. L. 109–164, title I, § 104(b)(1)][/us/pl/109/164/s104/b/1], Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564]; [Pub. L. 110–457, title I, § 106][/us/pl/110/457/s106], Dec. 23, 2008, [122 Stat. 5048][/us/stat/122/5048]; [Pub. L. 113–4, title XII, § 1204][/us/pl/113/4/s1204], Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139].)
+([Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 108, Oct. 28, 2000, [114 Stat. 1480][/us/stat/114/1480]; [Pub. L. 108–193][/us/pl/108/193], § 6(d), Dec. 19, 2003, [117 Stat. 2881][/us/stat/117/2881]; [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 104(b)(1), Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564]; [Pub. L. 110–457, title I][/us/pl/110/457/tI], § 106, Dec. 23, 2008, [122 Stat. 5048][/us/stat/122/5048]; [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1204, Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139].)
 
  __References in Text__ 
 
@@ -75,37 +75,37 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(3). [Pub. L. 113–4, § 1204(1)][/us/pl/113/4/s1204/1], substituted “diplomatic, peacekeeping,” for “peacekeeping” and “, a transparent system for remediating or punishing such public officials as a deterrent, measures” for “, and measures”, and inserted before period at end “, effective bilateral, multilateral, or regional information sharing and cooperation arrangements with other countries, and effective policies or laws regulating foreign labor recruiters and holding them civilly and criminally liable for fraudulent recruiting”.
+    2013—Subsec. (b)(3). [Pub. L. 113–4][/us/pl/113/4], § 1204(1), substituted “diplomatic, peacekeeping,” for “peacekeeping” and “, a transparent system for remediating or punishing such public officials as a deterrent, measures” for “, and measures”, and inserted before period at end “, effective bilateral, multilateral, or regional information sharing and cooperation arrangements with other countries, and effective policies or laws regulating foreign labor recruiters and holding them civilly and criminally liable for fraudulent recruiting”.
 
-    Subsec. (b)(4). [Pub. L. 113–4, § 1204(2)][/us/pl/113/4/s1204/2], inserted “and has entered into bilateral, multilateral, or regional law enforcement cooperation and coordination arrangements with other countries” before period at end.
+    Subsec. (b)(4). [Pub. L. 113–4][/us/pl/113/4], § 1204(2), inserted “and has entered into bilateral, multilateral, or regional law enforcement cooperation and coordination arrangements with other countries” before period at end.
 
-    Subsec. (b)(7). [Pub. L. 113–4, § 1204(3)][/us/pl/113/4/s1204/3], inserted “, including diplomats and soldiers,” after “public officials” and “A government’s failure to appropriately address public allegations against such public officials, especially once such officials have returned to their home countries, shall be considered inaction under these criteria.” after “condone such trafficking.”, and substituted “diplomatic, peacekeeping,” for “peacekeeping”.
+    Subsec. (b)(7). [Pub. L. 113–4][/us/pl/113/4], § 1204(3), inserted “, including diplomats and soldiers,” after “public officials” and “A government’s failure to appropriately address public allegations against such public officials, especially once such officials have returned to their home countries, shall be considered inaction under these criteria.” after “condone such trafficking.”, and substituted “diplomatic, peacekeeping,” for “peacekeeping”.
 
-    Subsec. (b)(9) to (12). [Pub. L. 113–4, § 1204(4)][/us/pl/113/4/s1204/4], (5), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
+    Subsec. (b)(9) to (12). [Pub. L. 113–4][/us/pl/113/4], § 1204(4), (5), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
-    2008—Subsec. (a). [Pub. L. 110–457, § 106(1)][/us/pl/110/457/s106/1], struck out “a significant number of” before “victims” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–457][/us/pl/110/457], § 106(1), struck out “a significant number of” before “victims” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 110–457, § 106(2)(A)][/us/pl/110/457/s106/2/A], substituted “, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons.” for period at end of first sentence.
+    Subsec. (b)(1). [Pub. L. 110–457][/us/pl/110/457], § 106(2)(A), substituted “, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons.” for period at end of first sentence.
 
-    Subsec. (b)(2). [Pub. L. 110–457, § 106(2)(B)][/us/pl/110/457/s106/2/B], inserted “, including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims” before period at end.
+    Subsec. (b)(2). [Pub. L. 110–457][/us/pl/110/457], § 106(2)(B), inserted “, including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims” before period at end.
 
-    Subsec. (b)(3). [Pub. L. 110–457, § 106(2)(C)][/us/pl/110/457/s106/2/C], substituted “measures to establish the identity of local populations, including birth registration, citizenship, and nationality” for “measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country”.
+    Subsec. (b)(3). [Pub. L. 110–457][/us/pl/110/457], § 106(2)(C), substituted “measures to establish the identity of local populations, including birth registration, citizenship, and nationality” for “measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country”.
 
-    Subsec. (b)(11). [Pub. L. 110–457, § 106(2)(D)][/us/pl/110/457/s106/2/D], added par. (11).
+    Subsec. (b)(11). [Pub. L. 110–457][/us/pl/110/457], § 106(2)(D), added par. (11).
 
-    2006—Subsec. (b)(3). [Pub. L. 109–164, § 104(b)(1)][/us/pl/109/164/s104/b/1], inserted before period at end “, measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards”.
+    2006—Subsec. (b)(3). [Pub. L. 109–164][/us/pl/109/164], § 104(b)(1), inserted before period at end “, measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards”.
 
-    Subsec. (b)(7). [Pub. L. 109–164, § 104(b)(2)][/us/pl/109/164/s104/b/2], substituted “persons, including nationals of the country who are deployed abroad as part of a peacekeeping or other similar mission who engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking,” for “persons,” in first sentence.
+    Subsec. (b)(7). [Pub. L. 109–164][/us/pl/109/164], § 104(b)(2), substituted “persons, including nationals of the country who are deployed abroad as part of a peacekeeping or other similar mission who engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking,” for “persons,” in first sentence.
 
-    2003—Subsec. (b)(1). [Pub. L. 108–193, § 6(d)(1)][/us/pl/108/193/s6/d/1], substituted “, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country” for “that take place wholly or partly within the territory of the country” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
+    2003—Subsec. (b)(1). [Pub. L. 108–193][/us/pl/108/193], § 6(d)(1), substituted “, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country” for “that take place wholly or partly within the territory of the country” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
 
-    Subsec. (b)(7). [Pub. L. 108–193, § 6(d)(2)][/us/pl/108/193/s6/d/2], substituted “, prosecutes, convicts, and sentences” for “and prosecutes” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
+    Subsec. (b)(7). [Pub. L. 108–193][/us/pl/108/193], § 6(d)(2), substituted “, prosecutes, convicts, and sentences” for “and prosecutes” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
 
-    Subsec. (b)(8) to (10). [Pub. L. 108–193, § 6(d)(3)][/us/pl/108/193/s6/d/3], added pars. (8) to (10).
+    Subsec. (b)(8) to (10). [Pub. L. 108–193][/us/pl/108/193], § 6(d)(3), added pars. (8) to (10).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–164, title I, § 104(b)(2)][/us/pl/109/164/s104/b/2], Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564], provided that: 
+[Pub. L. 109–164, title I][/us/pl/109/164/tI], § 104(b)(2), Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564], provided that: 
 
 > “The amendments made by subparagraphs (A) and (B) of paragraph (1) \[amending this section\] take effect beginning two years after the date of the enactment of this Act \[Jan. 10, 2006\].”
 
@@ -116,34 +116,34 @@
 ----------
 ----------
 
-[/us/pl/106/386/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs108
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1480
-[/us/pl/108/193/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fd
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2881
-[/us/pl/109/164/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fb%2F1
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3564
-[/us/pl/110/457/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs106
+[/us/pl/110/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtI
 [/us/stat/122/5048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5048
-[/us/pl/113/4/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F139
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
 [/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
-[/us/pl/113/4/s1204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F1
-[/us/pl/113/4/s1204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F2
-[/us/pl/113/4/s1204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F3
-[/us/pl/113/4/s1204/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F4
-[/us/pl/110/457/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs106%2F1
-[/us/pl/110/457/s106/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs106%2F2%2FA
-[/us/pl/110/457/s106/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs106%2F2%2FB
-[/us/pl/110/457/s106/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs106%2F2%2FC
-[/us/pl/110/457/s106/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs106%2F2%2FD
-[/us/pl/109/164/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fb%2F1
-[/us/pl/109/164/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fb%2F2
-[/us/pl/108/193/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fd%2F1
-[/us/pl/108/193/s6/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fd%2F2
-[/us/pl/108/193/s6/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs6%2Fd%2F3
-[/us/pl/109/164/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs104%2Fb%2F2
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
+[/us/pl/109/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3564
 
 

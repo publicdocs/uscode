@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    R.S. § 203 derived from acts [July 27, 1789, ch. 4][/us/act/1789-07-27/ch4], §§ 2, 4, [1 Stat. 29][/us/stat/1/29]; [Sept. 15, 1789, ch. 14, § 7][/us/act/1789-09-15/ch14/s7], [1 Stat. 69][/us/stat/1/69].
+    R.S. § 203 derived from acts [July 27, 1789, ch. 4][/us/act/1789-07-27/ch4], §§ 2, 4, [1 Stat. 29][/us/stat/1/29]; [Sept. 15, 1789, ch. 14][/us/act/1789-09-15/ch14], § 7, [1 Stat. 69][/us/stat/1/69].
 
-    Section was formerly classified to [section 158 of Title 5][/us/usc/t5/s158] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 158 of Title 5][/us/usc/t5/s158] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -34,10 +34,10 @@
 
 [/us/act/1789-07-27/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-07-27%2Fch4
 [/us/stat/1/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F29
-[/us/act/1789-09-15/ch14/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-09-15%2Fch14%2Fs7
+[/us/act/1789-09-15/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-09-15%2Fch14
 [/us/stat/1/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F69
 [/us/usc/t5/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs158
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

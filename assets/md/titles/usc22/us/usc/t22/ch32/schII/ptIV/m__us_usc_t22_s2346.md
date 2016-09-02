@@ -27,13 +27,13 @@
 
         As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
 
-    (d) __Repealed.__  __[__  __Pub. L. 105–277, div. A, § 101(d)__  __][/us/pl/105/277/s101/d]__  __\[title V, § 533(a)(5)\],__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–150__  __][/us/stat/112/2681-150]__  __, 2681–180__ 
+    (d) __Repealed.__  __[__  __Pub. L. 105–277, div. A__  __][/us/pl/105/277/dA]__  __, § 101(d) \[title V, § 533(a)(5)\],__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–150__  __][/us/stat/112/2681-150]__  __, 2681–180__ 
 
     (e) __Availability of funds__ 
 
         Amounts appropriated to carry out this part shall be available for economic programs only and may not be used for military or paramilitary purposes.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 531, as added [Pub. L. 99–83, title II, § 201(a)][/us/pl/99/83/s201/a], Aug. 8, 1985, [99 Stat. 210][/us/stat/99/210]; amended [Pub. L. 101–513, title V, § 562(d)(8)][/us/pl/101/513/s562/d/8], Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031]; [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 533(a)(5)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–180.)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 531, as added [Pub. L. 99–83, title II][/us/pl/99/83/tII], § 201(a), Aug. 8, 1985, [99 Stat. 210][/us/stat/99/210]; amended [Pub. L. 101–513, title V][/us/pl/101/513/tV], § 562(d)(8), Nov. 5, 1990, [104 Stat. 2031][/us/stat/104/2031]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 533(a)(5)\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–180.)
 
  __References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2346, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 531, as added [Pub. L. 92–226][/us/pl/92/226], pt. II, § 202(a), Feb. 7, 1972, [86 Stat. 26][/us/stat/86/26]; amended [Pub. L. 95–92, § 8(a)][/us/pl/95/92/s8/a], Aug. 4, 1977, [91 Stat. 617][/us/stat/91/617]; [Pub. L. 95–384, § 10(a)][/us/pl/95/384/s10/a], Sept. 26, 1978, [92 Stat. 733][/us/stat/92/733]; 1979 Reorg. Plan No. 2, § 6(b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, [93 Stat. 1379][/us/stat/93/1379]; [Pub. L. 96–92, § 8(a)][/us/pl/96/92/s8/a], Oct. 29, 1979, [93 Stat. 703][/us/stat/93/703]; [Pub. L. 96–533, title II, § 201][/us/pl/96/533/s201], Dec. 16, 1980, [94 Stat. 3142][/us/stat/94/3142]; [Pub. L. 97–113, title II, § 201][/us/pl/97/113/s201], Dec. 29, 1981, [95 Stat. 1528][/us/stat/95/1528], authorized President to furnish assistance to countries and organizations to promote economic or political stability, prior to repeal by [Pub. L. 99–83, title II, § 201(a)][/us/pl/99/83/s201/a], Aug. 8, 1985, [99 Stat. 210][/us/stat/99/210].
+    A prior section 2346, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 531, as added [Pub. L. 92–226][/us/pl/92/226], pt. II, § 202(a), Feb. 7, 1972, [86 Stat. 26][/us/stat/86/26]; amended [Pub. L. 95–92][/us/pl/95/92], § 8(a), Aug. 4, 1977, [91 Stat. 617][/us/stat/91/617]; [Pub. L. 95–384][/us/pl/95/384], § 10(a), Sept. 26, 1978, [92 Stat. 733][/us/stat/92/733]; 1979 Reorg. Plan No. 2, § 6(b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, [93 Stat. 1379][/us/stat/93/1379]; [Pub. L. 96–92][/us/pl/96/92], § 8(a), Oct. 29, 1979, [93 Stat. 703][/us/stat/93/703]; [Pub. L. 96–533, title II][/us/pl/96/533/tII], § 201, Dec. 16, 1980, [94 Stat. 3142][/us/stat/94/3142]; [Pub. L. 97–113, title II][/us/pl/97/113/tII], § 201, Dec. 29, 1981, [95 Stat. 1528][/us/stat/95/1528], authorized President to furnish assistance to countries and organizations to promote economic or political stability, prior to repeal by [Pub. L. 99–83, title II][/us/pl/99/83/tII], § 201(a), Aug. 8, 1985, [99 Stat. 210][/us/stat/99/210].
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Assistance to Lebanon__ 
 
-[Pub. L. 107–228, div. B, title XII, § 1224][/us/pl/107/228/s1224], Sept. 30, 2002, [116 Stat. 1432][/us/stat/116/1432], provided that:
+[Pub. L. 107–228, div. B, title XII][/us/pl/107/228/dB/tXII], § 1224, Sept. 30, 2002, [116 Stat. 1432][/us/stat/116/1432], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Assistance to Afghanistan__ 
 
-[Pub. L. 99–83, title IX, § 904][/us/pl/99/83/s904], Aug. 8, 1985, [99 Stat. 268][/us/stat/99/268], provided that:
+[Pub. L. 99–83, title IX][/us/pl/99/83/tIX], § 904, Aug. 8, 1985, [99 Stat. 268][/us/stat/99/268], provided that:
 
 >     “(a)  __Authorization__  __.—__ 
 
@@ -101,7 +101,7 @@
 
  __Reports on Economic Conditions Prevailing in Egypt, Israel, Turkey, and Portugal__ 
 
-[Pub. L. 99–83, title XII, § 1205][/us/pl/99/83/s1205], Aug. 8, 1985, [99 Stat. 277][/us/stat/99/277], provided that:
+[Pub. L. 99–83, title XII][/us/pl/99/83/tXII], § 1205, Aug. 8, 1985, [99 Stat. 277][/us/stat/99/277], provided that:
 
 >     “(a)  __External Debt Burden of Certain Countries Receiving United States Assistance__  __.—__ 
 
@@ -115,13 +115,13 @@
 
  __References to Security Supporting Assistance as References to Assistance Under Part IV of Subchapter II of This Chapter__ 
 
-[Pub. L. 95–384, § 10(b)(6)][/us/pl/95/384/s10/b/6], Sept. 26, 1978, [92 Stat. 735][/us/stat/92/735], provided that: 
+[Pub. L. 95–384][/us/pl/95/384], § 10(b)(6), Sept. 26, 1978, [92 Stat. 735][/us/stat/92/735], provided that: 
 
 > “After September 30, 1978, any reference in any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
 
  __Security Supporting Assistance Program for Egypt__ 
 
-[Pub. L. 95–92, § 9][/us/pl/95/92/s9], Aug. 4, 1977, [91 Stat. 619][/us/stat/91/619], as amended by [Pub. L. 95–384, § 29(c)(2)(A)][/us/pl/95/384/s29/c/2/A], Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747], provided that: 
+[Pub. L. 95–92][/us/pl/95/92], § 9, Aug. 4, 1977, [91 Stat. 619][/us/stat/91/619], as amended by [Pub. L. 95–384][/us/pl/95/384], § 29(c)(2)(A), Sept. 26, 1978, [92 Stat. 747][/us/stat/92/747], provided that: 
 
 > “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
 
@@ -132,14 +132,14 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/99/83/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs201%2Fa
+[/us/pl/99/83/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtII
 [/us/stat/99/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F210
-[/us/pl/101/513/s562/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs562%2Fd%2F8
+[/us/pl/101/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtV
 [/us/stat/104/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2031
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F27
@@ -148,42 +148,42 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
 [/us/stat/86/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F26
-[/us/pl/95/92/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs8%2Fa
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F617
-[/us/pl/95/384/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs10%2Fa
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F733
 [/us/stat/93/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1379
-[/us/pl/96/92/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92%2Fs8%2Fa
+[/us/pl/96/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F92
 [/us/stat/93/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F703
-[/us/pl/96/533/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs201
+[/us/pl/96/533/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtII
 [/us/stat/94/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3142
-[/us/pl/97/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs201
+[/us/pl/97/113/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2FtII
 [/us/stat/95/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1528
-[/us/pl/99/83/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs201%2Fa
+[/us/pl/99/83/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtII
 [/us/stat/99/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F210
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301
 [/us/usc/t22/s2151–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151%E2%80%931
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/107/228/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1224
+[/us/pl/107/228/dB/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXII
 [/us/stat/116/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1432
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/107/228/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1224
 [/us/pl/107/228/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs3
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/99/83/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs904
+[/us/pl/99/83/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtIX
 [/us/stat/99/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F268
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/pl/99/83/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1205
+[/us/pl/99/83/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtXII
 [/us/stat/99/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F277
 [/us/pl/99/83/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1205%2Fb
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/95/384/s10/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs10%2Fb%2F6
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F735
-[/us/pl/95/92/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs9
+[/us/pl/95/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92
 [/us/stat/91/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F619
-[/us/pl/95/384/s29/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs29%2Fc%2F2%2FA
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F747
 
 

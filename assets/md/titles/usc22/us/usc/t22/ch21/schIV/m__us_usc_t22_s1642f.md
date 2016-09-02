@@ -17,7 +17,7 @@
 
     In determining the amount of any award by the Commission there shall be deducted all amounts the claimant has received from any source on account of the same loss or losses with respect to which such award is made.
 
-([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title, IV, § 407, as added [Pub. L. 85–604, § 1][/us/pl/85/604/s1], Aug. 8, 1958, [72 Stat. 529][/us/stat/72/529].)
+([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title, IV, § 407, as added [Pub. L. 85–604][/us/pl/85/604], § 1, Aug. 8, 1958, [72 Stat. 529][/us/stat/72/529].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
-[/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
+[/us/pl/85/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604
 [/us/stat/72/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F529
 
 

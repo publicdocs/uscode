@@ -37,7 +37,7 @@
 
         The Secretary of State may permit access to the premises of a United States diplomatic mission or consular post to foreign nationals for the purpose of attending or participating in religious activities conducted pursuant to this section.
 
-([Pub. L. 105–292, title I, § 107][/us/pl/105/292/s107], Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
+([Pub. L. 105–292, title I][/us/pl/105/292/tI], § 107, Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/105/292/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs107
+[/us/pl/105/292/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtI
 [/us/stat/112/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2796
 
 

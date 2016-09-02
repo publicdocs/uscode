@@ -103,7 +103,7 @@
 
         (2) the term “Board” means the Board of Directors of the Democracy Corps.
 
-([Pub. L. 102–511, title IV, § 401][/us/pl/102/511/s401], Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
+([Pub. L. 102–511, title IV][/us/pl/102/511/tIV], § 401, Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@
 [/us/usc/t5/s552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F1
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t22/s2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295
-[/us/pl/102/511/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2Fs401
+[/us/pl/102/511/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511%2FtIV
 [/us/stat/106/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3335
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

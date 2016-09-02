@@ -27,7 +27,7 @@
 
     (5) any foreign organization, group, or persons subject to any restriction for its involvement in weapons of mass destruction or missile proliferation.
 
-([Pub. L. 107–56, title II, § 221(b)][/us/pl/107/56/s221/b], Oct. 26, 2001, [115 Stat. 292][/us/stat/115/292].)
+([Pub. L. 107–56, title II][/us/pl/107/56/tII], § 221(b), Oct. 26, 2001, [115 Stat. 292][/us/stat/115/292].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/106/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120
-[/us/pl/107/56/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs221%2Fb
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F292
 [/us/pl/106/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549

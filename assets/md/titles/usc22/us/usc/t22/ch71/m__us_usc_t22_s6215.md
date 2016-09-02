@@ -37,7 +37,7 @@
 
         Radio Free Afghanistan shall adhere to the same standards of professionalism and accountability, and shall be subject to the same oversight mechanisms, as other services of RFE/RL, Incorporated.
 
-([Pub. L. 107–148, § 2][/us/pl/107/148/s2], Mar. 11, 2002, [116 Stat. 64][/us/stat/116/64].)
+([Pub. L. 107–148][/us/pl/107/148], § 2, Mar. 11, 2002, [116 Stat. 64][/us/stat/116/64].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t22/s6207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6207%2Fc
 [/us/usc/t22/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1431
 [/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
-[/us/pl/107/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F148%2Fs2
+[/us/pl/107/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F148
 [/us/stat/116/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F64
 [/us/act/1948-01-27/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-01-27%2Fch36
 [/us/stat/62/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F6

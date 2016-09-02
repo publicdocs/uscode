@@ -35,7 +35,7 @@
 
         None of the funds authorized to be appropriated by this section may be used for any form of assistance to any country which is not a member of the Bank.
 
-([Pub. L. 86–147, § 29][/us/pl/86/147/s29], as added [Pub. L. 96–259, title I, § 101(2)][/us/pl/96/259/s101/2], June 3, 1980, [94 Stat. 429][/us/stat/94/429]; amended [Pub. L. 97–35, title XIII, § 1351(b)][/us/pl/97/35/s1351/b], Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
+([Pub. L. 86–147][/us/pl/86/147], § 29, as added [Pub. L. 96–259, title I][/us/pl/96/259/tI], § 101(2), June 3, 1980, [94 Stat. 429][/us/stat/94/429]; amended [Pub. L. 97–35, title XIII][/us/pl/97/35/tXIII], § 1351(b), Aug. 13, 1981, [95 Stat. 744][/us/stat/95/744].)
 
  __Amendments__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/86/147/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs29
-[/us/pl/96/259/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs101%2F2
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/96/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2FtI
 [/us/stat/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F429
-[/us/pl/97/35/s1351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1351%2Fb
+[/us/pl/97/35/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIII
 [/us/stat/95/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F744
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

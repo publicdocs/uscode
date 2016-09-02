@@ -33,11 +33,11 @@
 
         (5) dates for the beginning and completion of construction of the facilities referred to in paragraph (1).
 
-([Pub. L. 100–465, § 2][/us/pl/100/465/s2], Oct. 3, 1988, [102 Stat. 2272][/us/stat/102/2272].)
+([Pub. L. 100–465][/us/pl/100/465], § 2, Oct. 3, 1988, [102 Stat. 2272][/us/stat/102/2272].)
 
  __Short Title__ 
 
-[Pub. L. 100–465, § 1][/us/pl/100/465/s1], Oct. 3, 1988, [102 Stat. 2272][/us/stat/102/2272], provided that: 
+[Pub. L. 100–465][/us/pl/100/465], § 1, Oct. 3, 1988, [102 Stat. 2272][/us/stat/102/2272], provided that: 
 
 > “This Act \[enacting this section and sections 277g–1 to 277g–3 of this title\] may be cited as the ‘Rio Grande Pollution Correction Act of 1987’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/100/465/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465%2Fs2
+[/us/pl/100/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465
 [/us/stat/102/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2272
-[/us/pl/100/465/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465%2Fs1
+[/us/pl/100/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F465
 [/us/stat/102/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2272
 
 

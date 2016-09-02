@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any other provision of law, a grantee (or any subgrantee) of the grants referred to in subsection (a) may retain, without deposit in the Treasury of the United States and without further appropriation by Congress, interest earned on the proceeds of any resulting debt-for-nature exchange pending the disbursements of such proceeds and interest for approved program purposes, which may include the establishment of an endowment, the income of which is used for such purposes.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. I, § 462 \[472\], as added [Pub. L. 101–240, title VII, § 711][/us/pl/101/240/s711], Dec. 19, 1989, [103 Stat. 2521][/us/stat/103/2521].)
+([Pub. L. 87–195][/us/pl/87/195], pt. I, § 462 \[472\], as added [Pub. L. 101–240, title VII][/us/pl/101/240/tVII], § 711, Dec. 19, 1989, [103 Stat. 2521][/us/stat/103/2521].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
-[/us/pl/101/240/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs711
+[/us/pl/101/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtVII
 [/us/stat/103/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2521
 [/us/pl/87/195/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195%2Fs462
 [/us/usc/t22/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2272

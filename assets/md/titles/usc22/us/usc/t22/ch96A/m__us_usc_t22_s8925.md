@@ -45,7 +45,7 @@
 
         It is the sense of Congress that the Government of Ukraine should take all appropriate steps to protect civilians.
 
-([Pub. L. 113–272, § 6][/us/pl/113/272/s6], Dec. 18, 2014, [128 Stat. 2959][/us/stat/128/2959].)
+([Pub. L. 113–272][/us/pl/113/272], § 6, Dec. 18, 2014, [128 Stat. 2959][/us/stat/128/2959].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/113/272/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs6
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 [/us/stat/128/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2959
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320

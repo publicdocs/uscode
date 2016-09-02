@@ -17,7 +17,7 @@
 
     The ocean transportation between foreign countries of commodities and defense articles purchased with foreign currencies made available or derived from funds made available under this chapter or the Food for Peace Act, as amended \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\], and transfers of fresh fruit and products thereof under this chapter, shall not be governed by the provisions of [section 55305 of title 46][/us/usc/t46/s55305], or any other law relating to the ocean transportation of commodities on United States flag vessels.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 603, Sept. 4, 1961, [75 Stat. 439][/us/stat/75/439]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 603, Sept. 4, 1961, [75 Stat. 439][/us/stat/75/439]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(Q), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    In text, “[section 55305 of title 46][/us/usc/t46/s55305]” substituted for “section 901(b) of the Merchant Marine Act of 1936, as amended ([46 U.S.C. 1241][/us/usc/t46/s1241])” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 55305 of Title 46][/us/usc/t46/s55305], Shipping.
+    In text, “[section 55305 of title 46][/us/usc/t46/s55305]” substituted for “section 901(b) of the Merchant Marine Act of 1936, as amended ([46 U.S.C. 1241][/us/usc/t46/s1241])” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 55305 of Title 46][/us/usc/t46/s55305], Shipping.
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F439
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
@@ -58,7 +58,7 @@
 [/us/usc/t7/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1691
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
 [/us/usc/t46/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1241
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

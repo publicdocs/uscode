@@ -19,7 +19,7 @@
 
     All financial contributions by the United States to international organizations in which the United States participates as a member shall be made by or with the consent of the Department of State regardless of the appropriation from which any such contribution is made.
 
-([Sept. 21, 1950, ch. 976, § 2][/us/act/1950-09-21/ch976/s2], [64 Stat. 903][/us/stat/64/903]; [Pub. L. 107–228, div. A, title IV, § 405(b)(1)][/us/pl/107/228/s405/b/1], Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391].)
+([Sept. 21, 1950, ch. 976][/us/act/1950-09-21/ch976], § 2, [64 Stat. 903][/us/stat/64/903]; [Pub. L. 107–228, div. A, title IV][/us/pl/107/228/dA/tIV], § 405(b)(1), Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1950-09-21/ch976/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch976%2Fs2
+[/us/act/1950-09-21/ch976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch976
 [/us/stat/64/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F903
-[/us/pl/107/228/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs405%2Fb%2F1
+[/us/pl/107/228/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtIV
 [/us/stat/116/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1391
 [/us/act/1950-09-21/ch976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch976
 [/us/stat/64/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F903

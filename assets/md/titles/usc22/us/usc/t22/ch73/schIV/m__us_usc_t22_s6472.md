@@ -35,7 +35,7 @@
 
         The President shall include in each annual report on proposed refugee admissions under [section 1157(d) of title 8][/us/usc/t8/s1157/d] information about religious persecution of refugee populations eligible for consideration for admission to the United States. The Secretary of State shall include information on religious persecution of refugee populations in the formal testimony presented to the Committees on the Judiciary of the House of Representatives and the Senate during the consultation process under [section 1157(e) of title 8][/us/usc/t8/s1157/e].
 
-([Pub. L. 105–292, title VI, § 602][/us/pl/105/292/s602], Oct. 27, 1998, [112 Stat. 2812][/us/stat/112/2812]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 253\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–432.)
+([Pub. L. 105–292, title VI][/us/pl/105/292/tVI], § 602, Oct. 27, 1998, [112 Stat. 2812][/us/stat/112/2812]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. A, title II, § 253\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–432.)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1999—Subsec. (c)(1). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 253(a)\], inserted “and of the Department of State” after “Service”.
+    1999—Subsec. (c)(1). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title II, § 253(a)\], inserted “and of the Department of State” after “Service”.
 
-    Subsec. (c)(3). [Pub. L. 106–113, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 253(b)\], added par. (3).
+    Subsec. (c)(3). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(7) \[div. A, title II, § 253(b)\], added par. (3).
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -60,17 +60,17 @@
 
 [/us/usc/t8/s1157/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157%2Fd
 [/us/usc/t8/s1157/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157%2Fe
-[/us/pl/105/292/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs602
+[/us/pl/105/292/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtVI
 [/us/stat/112/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2812
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/105/292/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs602
 [/us/pl/105/292/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs602
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/pl/105/292/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs602
 [/us/usc/t22/s4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4028
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 
 

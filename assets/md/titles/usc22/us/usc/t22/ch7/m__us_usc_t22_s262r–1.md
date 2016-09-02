@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall transmit to the Congress, on a monthly basis, current copies of the Monthly Operating Summary of the International Bank for Reconstruction and Development, showing the loan proposals or appraisal reports under consideration and the status of those loan proposals or appraisal reports within the Bank. The Secretary of the Treasury shall also transmit to the Congress, at such times as may be appropriate, comparable documents prepared by the other multilateral development banks which show the loans or credits under consideration in the other multilateral development banks.
 
-([Pub. L. 95–118, title XVII, § 1702][/us/pl/95/118/s1702], as added [Pub. L. 101–240, title V, § 541(a)][/us/pl/101/240/s541/a], Dec. 19, 1989, [103 Stat. 2516][/us/stat/103/2516].)
+([Pub. L. 95–118, title XVII][/us/pl/95/118/tXVII], § 1702, as added [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(a), Dec. 19, 1989, [103 Stat. 2516][/us/stat/103/2516].)
 
  __Definitions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1702
-[/us/pl/101/240/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fa
+[/us/pl/95/118/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVII
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2516
 [/us/usc/t22/s262r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r
 

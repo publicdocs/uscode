@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2407.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptIII/m__us_usc_t22_s2409.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2408)
 
-## § 2408. Repealed. [Pub. L. 95–424, title VI, § 604][/us/pl/95/424/s604], Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961]
+## § 2408. Repealed. [Pub. L. 95–424, title VI][/us/pl/95/424/tVI], § 604, Oct. 6, 1978, [92 Stat. 961][/us/stat/92/961]
 
     Section, [Pub. L. 87–195][/us/pl/87/195], pt. III, § 649, as added [Pub. L. 89–171][/us/pl/89/171], pt. III, § 303(d), Sept. 6, 1965, [79 Stat. 661][/us/stat/79/661], related to aggregate of total amounts authorized to be appropriated under this chapter.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/424/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2Fs604
+[/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/89/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F171

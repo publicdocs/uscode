@@ -33,7 +33,7 @@
 
         (2) Direct costs associated with meeting additional or unique requirements of the purchaser shall be allowable under contracts described in paragraph (1). Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 22, Oct. 22, 1968, [82 Stat. 1323][/us/stat/82/1323]; [Pub. L. 93–189, § 25(3)][/us/pl/93/189/s25/3], Dec. 17, 1973, [87 Stat. 730][/us/stat/87/730]; [Pub. L. 94–329, title II, § 207][/us/pl/94/329/s207], June 30, 1976, [90 Stat. 738][/us/stat/90/738]; [Pub. L. 95–384, § 17][/us/pl/95/384/s17], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; [Pub. L. 96–533, title I, § 105(b)(2)][/us/pl/96/533/s105/b/2], Dec. 16, 1980, [94 Stat. 3134][/us/stat/94/3134]; [Pub. L. 104–107, title V, § 531A(a)][/us/pl/104/107/s531A/a], Feb. 12, 1996, [110 Stat. 731][/us/stat/110/731]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1223\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498.)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 22, Oct. 22, 1968, [82 Stat. 1323][/us/stat/82/1323]; [Pub. L. 93–189][/us/pl/93/189], § 25(3), Dec. 17, 1973, [87 Stat. 730][/us/stat/87/730]; [Pub. L. 94–329, title II][/us/pl/94/329/tII], § 207, June 30, 1976, [90 Stat. 738][/us/stat/90/738]; [Pub. L. 95–384][/us/pl/95/384], § 17, Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; [Pub. L. 96–533, title I][/us/pl/96/533/tI], § 105(b)(2), Dec. 16, 1980, [94 Stat. 3134][/us/stat/94/3134]; [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 531A(a), Feb. 12, 1996, [110 Stat. 731][/us/stat/110/731]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1223\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498.)
 
  __References in Text__ 
 
@@ -51,15 +51,15 @@
 
     1978—Subsec. (c). [Pub. L. 95–384][/us/pl/95/384] added subsec. (c).
 
-    1976—Subsec. (a). [Pub. L. 94–329, § 207(a)][/us/pl/94/329/s207/a], inserted provisions requiring interest to be charged on any net amount a country or international organization is in arrears and the rate of interest to be determined by the Secretary of Treasury considering current average market yield of short-term obligations of United States on a particular day.
+    1976—Subsec. (a). [Pub. L. 94–329][/us/pl/94/329], § 207(a), inserted provisions requiring interest to be charged on any net amount a country or international organization is in arrears and the rate of interest to be determined by the Secretary of Treasury considering current average market yield of short-term obligations of United States on a particular day.
 
-    Subsec. (b). [Pub. L. 94–329, § 207(b)][/us/pl/94/329/s207/b], substituted provisions authorizing President to issue letters of offer with provisions for billing on delivery of article or rendering of service and payment within 120 days after billing date where President determines that emergency conditions exist, for provisions authorizing President to accept a dependable undertaking of a foreign country or international organization with respect to sales of defense articles and services and to make payment within 120 days of delivery of article or rendering of service.
+    Subsec. (b). [Pub. L. 94–329][/us/pl/94/329], § 207(b), substituted provisions authorizing President to issue letters of offer with provisions for billing on delivery of article or rendering of service and payment within 120 days after billing date where President determines that emergency conditions exist, for provisions authorizing President to accept a dependable undertaking of a foreign country or international organization with respect to sales of defense articles and services and to make payment within 120 days of delivery of article or rendering of service.
 
     1973—[Pub. L. 93–189][/us/pl/93/189] designated text preceding first proviso as subsec. (a) and inserted “Except as otherwise provided in this section,” before “the President”, designated first proviso as subsec. (b) and inserted reference to acceptance of a dependable undertaking of a foreign country or international organization, and struck out further provisions setting forth Presidential powers with respect to sales agreements with and payments by purchasing countries or international organizations.
 
  __Effective Date of 1996 Amendment; Implementing Regulations__ 
 
-[Pub. L. 104–107, title V, § 531A(b)][/us/pl/104/107/s531A/b], Feb. 12, 1996, [110 Stat. 731][/us/stat/110/731], provided that: 
+[Pub. L. 104–107, title V][/us/pl/104/107/tV], § 531A(b), Feb. 12, 1996, [110 Stat. 731][/us/stat/110/731], provided that: 
 
 > “Section 22(d) of the Arms Export Control Act \[subsec. (d) of this section\], as added by subsection (a)—
 
@@ -77,15 +77,15 @@
 
 Provisions similar to those comprising subsec. (d)(2) of this section were contained in the following appropriation acts:
 
-    [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 556\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–100.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(2) \[title V, § 556\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–100.
 
-    [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 536\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–181.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title V, § 536\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–181.
 
-    [Pub. L. 105–118, title V, § 535][/us/pl/105/118/s535], Nov. 26, 1997, [111 Stat. 2416][/us/stat/111/2416].
+    [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 535, Nov. 26, 1997, [111 Stat. 2416][/us/stat/111/2416].
 
-    [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 533A\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–153.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(c) \[title V, § 533A\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–153.
 
-    [Pub. L. 104–107, title V, § 531A(c)][/us/pl/104/107/s531A/c], Feb. 12, 1996, [110 Stat. 731][/us/stat/110/731].
+    [Pub. L. 104–107, title V][/us/pl/104/107/tV], § 531A(c), Feb. 12, 1996, [110 Stat. 731][/us/stat/110/731].
 
 ----------
 
@@ -97,17 +97,17 @@ Provisions similar to those comprising subsec. (d)(2) of this section were conta
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1323
-[/us/pl/93/189/s25/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F3
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F730
-[/us/pl/94/329/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs207
+[/us/pl/94/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2FtII
 [/us/stat/90/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F738
-[/us/pl/95/384/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs17
+[/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
 [/us/stat/92/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F740
-[/us/pl/96/533/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs105%2Fb%2F2
+[/us/pl/96/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2FtI
 [/us/stat/94/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3134
-[/us/pl/104/107/s531A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs531A%2Fa
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F731
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
@@ -119,22 +119,22 @@ Provisions similar to those comprising subsec. (d)(2) of this section were conta
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 [/us/usc/t22/s2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2769
 [/us/pl/95/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384
-[/us/pl/94/329/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs207%2Fa
-[/us/pl/94/329/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs207%2Fb
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
+[/us/pl/94/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
-[/us/pl/104/107/s531A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs531A%2Fb
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F731
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
-[/us/pl/105/118/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs535
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2416
-[/us/pl/104/208/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fc
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
-[/us/pl/104/107/s531A/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2Fs531A%2Fc
+[/us/pl/104/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107%2FtV
 [/us/stat/110/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F731
 
 

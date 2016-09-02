@@ -77,7 +77,7 @@
 
         Nothing in this section shall be construed to limit the authority of the President to impose sanctions pursuant to the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note), the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ([22 U.S.C. 8501][/us/usc/t22/s8501] et seq.), the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), [section 8513a of this title][/us/usc/t22/s8513a], or any other provision of this Act.
 
-([Pub. L. 112–158, title II, § 212][/us/pl/112/158/s212], Aug. 10, 2012, [126 Stat. 1229][/us/stat/126/1229].)
+([Pub. L. 112–158, title II][/us/pl/112/158/tII], § 212, Aug. 10, 2012, [126 Stat. 1229][/us/stat/126/1229].)
 
  __Termination of Section__ 
 
@@ -108,7 +108,7 @@
 [/us/usc/t22/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8501
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8513a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513a
-[/us/pl/112/158/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs212
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1229
 [/us/usc/t22/s8785/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8785%2Fa
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172

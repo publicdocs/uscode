@@ -61,11 +61,11 @@
 
     (b) Determinations with respect to the meaning and applicability of the terms used in subsection (a) shall be committed to the discretion of the Secretary.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 202, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 283][/us/stat/96/283]; amended [Pub. L. 99–93, title I, § 127(b)][/us/pl/99/93/s127/b], Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 99–569, title VII, § 701][/us/pl/99/569/s701], Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204]; [Pub. L. 100–204, title I, § 153(e)][/us/pl/100/204/s153/e], Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353]; [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(1), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 202, as added [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), Aug. 24, 1982, [96 Stat. 283][/us/stat/96/283]; amended [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 127(b), Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 99–569, title VII][/us/pl/99/569/tVII], § 701, Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204]; [Pub. L. 100–204, title I][/us/pl/100/204/tI], § 153(e), Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353]; [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 162(o)(1), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t22/s4301] and Tables.
 
  __Amendments__ 
 
@@ -90,18 +90,18 @@
 
 [/us/usc/t22/s4309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4309%2Fb
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F283
-[/us/pl/99/93/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs127%2Fb
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F418
-[/us/pl/99/569/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs701
+[/us/pl/99/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtVII
 [/us/stat/100/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3204
-[/us/pl/100/204/s153/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs153%2Fe
+[/us/pl/100/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtI
 [/us/stat/101/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1353
-[/us/pl/103/236/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs162
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F409
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F283
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

@@ -51,11 +51,11 @@
 
         The annual report submitted to the President and Congress by the Broadcasting Board of Governors under [section 6204(a)(9) of this title][/us/usc/t22/s6204/a/9] shall provide a detailed description of any activities carried out under this section.
 
-([Pub. L. 103–236, title III, § 316][/us/pl/103/236/s316], as added [Pub. L. 110–53, title XX, § 2031(c)][/us/pl/110/53/s2031/c], Aug. 3, 2007, [121 Stat. 516][/us/stat/121/516].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 316, as added [Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2031(c), Aug. 3, 2007, [121 Stat. 516][/us/stat/121/516].)
 
  __Finding; Sense of Congress__ 
 
-[Pub. L. 110–53, title XX, § 2031(a)][/us/pl/110/53/s2031/a], (b), Aug. 3, 2007, [121 Stat. 515][/us/stat/121/515], provided that:
+[Pub. L. 110–53, title XX][/us/pl/110/53/tXX], § 2031(a), (b), Aug. 3, 2007, [121 Stat. 515][/us/stat/121/515], provided that:
 
 >     “(a)  __Finding__  __.—__ 
 
@@ -77,10 +77,10 @@
 ----------
 
 [/us/usc/t22/s6204/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6204%2Fa%2F9
-[/us/pl/103/236/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs316
-[/us/pl/110/53/s2031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2031%2Fc
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F516
-[/us/pl/110/53/s2031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2031%2Fa
+[/us/pl/110/53/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXX
 [/us/stat/121/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F515
 
 

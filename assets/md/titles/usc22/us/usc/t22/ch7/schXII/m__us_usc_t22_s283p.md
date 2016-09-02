@@ -19,7 +19,7 @@
 
     (b) There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of the two annual installments of $450,000,000 each for the United States share of the increase in the resources of the Fund for Special Operations of the Bank.
 
-([Pub. L. 86–147, § 19][/us/pl/86/147/s19], as added [Pub. L. 92–246, § 1][/us/pl/92/246/s1], Mar. 10, 1972, [86 Stat. 59][/us/stat/86/59].)
+([Pub. L. 86–147][/us/pl/86/147], § 19, as added [Pub. L. 92–246][/us/pl/92/246], § 1, Mar. 10, 1972, [86 Stat. 59][/us/stat/86/59].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/86/147/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147%2Fs19
-[/us/pl/92/246/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F246%2Fs1
+[/us/pl/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F147
+[/us/pl/92/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F246
 [/us/stat/86/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F59
 
 

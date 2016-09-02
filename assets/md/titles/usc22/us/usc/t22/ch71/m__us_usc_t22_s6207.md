@@ -91,7 +91,7 @@
 
         (3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[[22 U.S.C. 2871][/us/usc/t22/s2871] et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
-([Pub. L. 103–236, title III, § 308][/us/pl/103/236/s308], Apr. 30, 1994, [108 Stat. 437][/us/stat/108/437]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, §§ 1314(d), 1323(l)(1), Oct. 21, 1998, [112 Stat. 2681–777][/us/stat/112/2681-777], 2681–780; [Pub. L. 107–228, div. A, title V][/us/pl/107/228], §§ 501, 502, Sept. 30, 2002, [116 Stat. 1392][/us/stat/116/1392]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 308, Apr. 30, 1994, [108 Stat. 437][/us/stat/108/437]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIII, §§ 1314(d), 1323(l)(1), Oct. 21, 1998, [112 Stat. 2681–777][/us/stat/112/2681-777], 2681–780; [Pub. L. 107–228, div. A, title V][/us/pl/107/228/dA/tV], §§ 501, 502, Sept. 30, 2002, [116 Stat. 1392][/us/stat/116/1392]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 
     The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
-    The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is [Pub. L. 93–129][/us/pl/93/129], Oct. 19, 1973, [87 Stat. 456][/us/stat/87/456], as amended, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by [Pub. L. 103–236, title III, § 310(e)][/us/pl/103/236/s310/e], Apr. 30, 1994, [108 Stat. 442][/us/stat/108/442]. See [section 6209(e) of this title][/us/usc/t22/s6209/e].
+    The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is [Pub. L. 93–129][/us/pl/93/129], Oct. 19, 1973, [87 Stat. 456][/us/stat/87/456], as amended, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by [Pub. L. 103–236, title III][/us/pl/103/236/tIII], § 310(e), Apr. 30, 1994, [108 Stat. 442][/us/stat/108/442]. See [section 6209(e) of this title][/us/usc/t22/s6209/e].
 
     The Inspector General Act of 1978, referred to in subsec. (j)(3), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -107,17 +107,17 @@
 
     2004—Subsec. (j)(1), (2). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    2002—Subsec. (c). [Pub. L. 107–228, § 501][/us/pl/107/228/s501], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995.”
+    2002—Subsec. (c). [Pub. L. 107–228][/us/pl/107/228], § 501, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995.”
 
-    Subsec. (h)(1)(A). [Pub. L. 107–228, § 502(2)][/us/pl/107/228/s502/2], substituted “subparagraph (B) or (C),” for “subparagraph (B),”.
+    Subsec. (h)(1)(A). [Pub. L. 107–228][/us/pl/107/228], § 502(2), substituted “subparagraph (B) or (C),” for “subparagraph (B),”.
 
-    Subsec. (h)(1)(C). [Pub. L. 107–228, § 502(1)][/us/pl/107/228/s502/1], added subpar. (C).
+    Subsec. (h)(1)(C). [Pub. L. 107–228][/us/pl/107/228], § 502(1), added subpar. (C).
 
-    1998—Subsec. (i)(1). [Pub. L. 105–277, § 1314(d)][/us/pl/105/277/s1314/d], substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency” in two places and struck out “, the Director of the United States Information Agency,” after “shall submit to the Board”.
+    1998—Subsec. (i)(1). [Pub. L. 105–277][/us/pl/105/277], § 1314(d), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency” in two places and struck out “, the Director of the United States Information Agency,” after “shall submit to the Board”.
 
-    Subsec. (j)(3). [Pub. L. 105–277, § 1314(d)(1)][/us/pl/105/277/s1314/d/1], substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
+    Subsec. (j)(3). [Pub. L. 105–277][/us/pl/105/277], § 1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
 
-    Subsecs. (k), (l). [Pub. L. 105–277, § 1323][/us/pl/105/277/s1323](l)(1), struck out subsecs. (k) and (l), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
+    Subsecs. (k), (l). [Pub. L. 105–277][/us/pl/105/277], § 1323(l)(1), struck out subsecs. (k) and (l), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -125,7 +125,7 @@
 
  __Liaison With RFE/RL, Incorporated; Representation at Board Meetings__ 
 
-[Pub. L. 99–93, title III, § 305(b)][/us/pl/99/93/s305/b], Aug. 16, 1985, [99 Stat. 436][/us/stat/99/436], provided that: 
+[Pub. L. 99–93, title III][/us/pl/99/93/tIII], § 305(b), Aug. 16, 1985, [99 Stat. 436][/us/stat/99/436], provided that: 
 
 > “The Secretary of State shall—
 
@@ -147,35 +147,35 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t22/s2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2871
-[/us/pl/103/236/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs308
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F437
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-777
-[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtV
 [/us/stat/116/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1392
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
 [/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 [/us/pl/93/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F129
 [/us/stat/87/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F456
-[/us/pl/103/236/s310/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs310%2Fe
+[/us/pl/103/236/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtIII
 [/us/stat/108/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F442
 [/us/usc/t22/s6209/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6209%2Fe
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/107/228/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs501
-[/us/pl/107/228/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs502%2F2
-[/us/pl/107/228/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs502%2F1
-[/us/pl/105/277/s1314/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1314%2Fd
-[/us/pl/105/277/s1314/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1314%2Fd%2F1
-[/us/pl/105/277/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1323
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
 [/us/usc/t22/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6531
-[/us/pl/99/93/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs305%2Fb
+[/us/pl/99/93/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtIII
 [/us/stat/99/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F436
 
 

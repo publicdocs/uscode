@@ -17,11 +17,11 @@
 
     The President is authorized to prescribe, from time to time, the rates or tariffs of fees to be charged for official services, and to designate what shall be regarded as official services, besides such as are expressly declared by law, in the business of the several embassies, legations, and consulates, and to adapt the same, by such differences as may be necessary or proper, to each embassy, legation, or consulate; and it shall be the duty of all officers and persons connected with such embassies, legations, and consulates to collect for such official services such and only such fees as may be prescribed for their respective embassies, legations, and consulates, and such rates or tariffs shall be reported annually to Congress.
 
-(R.S. § 1745; [Apr. 5, 1906, ch. 1366, § 3][/us/act/1906-04-05/ch1366/s3], [34 Stat. 100][/us/stat/34/100].)
+(R.S. § 1745; [Apr. 5, 1906, ch. 1366][/us/act/1906-04-05/ch1366], § 3, [34 Stat. 100][/us/stat/34/100].)
 
  __Codification__ 
 
-    R.S. § 1745 derived from [act Aug. 18, 1856, ch. 127, § 16][/us/act/1856-08-18/ch127/s16], [11 Stat. 57][/us/stat/11/57].
+    R.S. § 1745 derived from [act Aug. 18, 1856, ch. 127][/us/act/1856-08-18/ch127], § 16, [11 Stat. 57][/us/stat/11/57].
 
     References to “commercial agencies” and “commercial agency” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/act/1906-04-05/ch1366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366%2Fs3
+[/us/act/1906-04-05/ch1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-05%2Fch1366
 [/us/stat/34/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F100
-[/us/act/1856-08-18/ch127/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127%2Fs16
+[/us/act/1856-08-18/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127
 [/us/stat/11/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F57
 [/us/usc/t22/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1201
 [/us/usc/t22/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs127

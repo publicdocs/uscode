@@ -37,7 +37,7 @@
 
     (4) it is in the national interest for the United States Government to provide a stable source of financial support for the functions described in this section and to supplement the financial support for those functions which is currently being furnished by Federal, State, local, regional, and private agencies, organizations, and individuals, and thereby to stabilize the conduct of these functions on a national scale, consistently, and on a long range unclassified basis.
 
-([Pub. L. 98–164, title VIII, § 802][/us/pl/98/164/s802], Nov. 22, 1983, [97 Stat. 1047][/us/stat/97/1047]; [Pub. L. 103–199, title III, § 302(3)][/us/pl/103/199/s302/3], Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322].)
+([Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 802, Nov. 22, 1983, [97 Stat. 1047][/us/stat/97/1047]; [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 302(3), Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–164, title VIII, § 801][/us/pl/98/164/s801], Nov. 22, 1983, [97 Stat. 1047][/us/stat/97/1047], as amended by [Pub. L. 103–199, title III, § 302(2)][/us/pl/103/199/s302/2], Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322], provided that: 
+[Pub. L. 98–164, title VIII][/us/pl/98/164/tVIII], § 801, Nov. 22, 1983, [97 Stat. 1047][/us/stat/97/1047], as amended by [Pub. L. 103–199, title III][/us/pl/103/199/tIII], § 302(2), Dec. 17, 1993, [107 Stat. 2322][/us/stat/107/2322], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/98/164/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs802
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1047
-[/us/pl/103/199/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F3
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2322
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
-[/us/pl/98/164/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2Fs801
+[/us/pl/98/164/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F164%2FtVIII
 [/us/stat/97/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1047
-[/us/pl/103/199/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs302%2F2
+[/us/pl/103/199/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtIII
 [/us/stat/107/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2322
 [/us/usc/t22/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5801
 [/us/pl/103/199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs3

@@ -29,7 +29,7 @@
 
         (3) Taking actions to assure that United States businesses can focus on projects in which they have a particular interest or competitive advantage, and to permit them to compete and have an equal opportunity in submitting timely and conforming bidding documents.
 
-([Pub. L. 95–118, title XVIII, § 1803][/us/pl/95/118/s1803], formerly [Pub. L. 100–418, title II, § 2302][/us/pl/100/418/s2302], Aug. 23, 1988, [102 Stat. 1341][/us/stat/102/1341]; renumbered [§ 1803 of Pub. L. 95–118][/us/pl/95/118/s1803], and amended [Pub. L. 101–240, title V, § 541(b)(2)][/us/pl/101/240/s541/b/2], Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517].)
+([Pub. L. 95–118, title XVIII][/us/pl/95/118/tXVIII], § 1803, formerly [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2302, Aug. 23, 1988, [102 Stat. 1341][/us/stat/102/1341]; renumbered § 1803 of [Pub. L. 95–118][/us/pl/95/118], and amended [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(b)(2), Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Additional Procurement Officers__ 
 
-[Pub. L. 102–549, title V, § 501][/us/pl/102/549/s501], Oct. 28, 1992, [106 Stat. 3663][/us/stat/106/3663], provided that:
+[Pub. L. 102–549, title V][/us/pl/102/549/tV], § 501, Oct. 28, 1992, [106 Stat. 3663][/us/stat/106/3663], provided that:
 
 >     “(a)  __Appointment__  __.—__ 
 
@@ -72,16 +72,16 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1803
-[/us/pl/100/418/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2302
+[/us/pl/95/118/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXVIII
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1341
-[/us/pl/95/118/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1803
-[/us/pl/101/240/s541/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fb%2F2
+[/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2517
 [/us/usc/t15/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4722
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
 [/us/pl/101/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240
-[/us/pl/102/549/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs501
+[/us/pl/102/549/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtV
 [/us/stat/106/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3663
 [/us/usc/t22/s262r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc
 [/us/usc/t22/s262r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r

@@ -29,11 +29,11 @@
 
             The Corporation shall notify the appropriate congressional committees not less than 15 days prior to an allocation or transfer of funds pursuant to paragraph (1).
 
-([Pub. L. 108–199, div. D, title VI, § 619][/us/pl/108/199/s619], Jan. 23, 2004, [118 Stat. 225][/us/stat/118/225].)
+([Pub. L. 108–199, div. D, title VI][/us/pl/108/199/dD/tVI], § 619, Jan. 23, 2004, [118 Stat. 225][/us/stat/118/225].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
+    This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this title”, meaning title VI of [Pub. L. 108–199, div. D][/us/pl/108/199/dD], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211], which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under [section 7701 of this title][/us/usc/t22/s7701] and Tables.
 
 ----------
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/108/199/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs619
+[/us/pl/108/199/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtVI
 [/us/stat/118/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F225
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/usc/t22/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7701
 

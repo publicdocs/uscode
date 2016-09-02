@@ -17,7 +17,7 @@
 
     In addition to any other authority of the President with respect to implementing resolutions of the United Nations Security Council, the President may prescribe such regulations as may be necessary to implement a resolution that is agreed to by the United Nations Security Council and imposes sanctions with respect to Iran.
 
-([Pub. L. 111–195, title I, § 108][/us/pl/111/195/s108], July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
+([Pub. L. 111–195, title I][/us/pl/111/195/tI], § 108, July 1, 2010, [124 Stat. 1337][/us/stat/124/1337].)
 
  __Termination of Section__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/195/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs108
+[/us/pl/111/195/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtI
 [/us/stat/124/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1337
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 

@@ -23,7 +23,7 @@
 
         Nothing in this section shall require the reappointment of any officer of the United States serving in the Agency for International Development of the United States International Development Cooperation Agency as of the day before the effective date of this subchapter.
 
-([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1413, Oct. 21, 1998, [112 Stat. 2681–791][/us/stat/112/2681-791].)
+([Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. A, title XIV, § 1413, Oct. 21, 1998, [112 Stat. 2681–791][/us/stat/112/2681-791].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t22/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6601
 [/us/usc/t22/s6562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6562
 [/us/usc/t5/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs104
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-791
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1401

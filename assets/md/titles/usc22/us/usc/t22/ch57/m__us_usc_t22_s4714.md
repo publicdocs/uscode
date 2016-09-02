@@ -17,7 +17,7 @@
 
     No later than December 15, 1985, the Director of the United States Information Agency and the Administrator of the Agency for International Development shall report jointly, to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives, on the feasibility of greater utilization in those two agencies’ scholarship and participant training programs of the United States universities in States bordering Latin American and Caribbean  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Latin America and the Caribbean”. </sup></sup>  which are located in areas characterized by the presence of sizable Hispanic populations.
 
-([Pub. L. 99–93, title VI, § 614][/us/pl/99/93/s614], Aug. 16, 1985, [99 Stat. 444][/us/stat/99/444].)
+([Pub. L. 99–93, title VI][/us/pl/99/93/tVI], § 614, Aug. 16, 1985, [99 Stat. 444][/us/stat/99/444].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/93/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs614
+[/us/pl/99/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtVI
 [/us/stat/99/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F444
 
 

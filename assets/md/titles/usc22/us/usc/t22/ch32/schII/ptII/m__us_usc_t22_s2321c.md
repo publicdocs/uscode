@@ -21,11 +21,11 @@
 
     (2) “foreign country” includes any department, agency, or independent establishment of the foreign country.
 
-([Pub. L. 91–672, § 11][/us/pl/91/672/s11], Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055].)
+([Pub. L. 91–672][/us/pl/91/672], § 11, Jan. 12, 1971, [84 Stat. 2055][/us/stat/84/2055].)
 
  __References in Text__ 
 
-    Section 2314a, referred to in text, was repealed by [Pub. L. 93–189, § 26(4)][/us/pl/93/189/s26/4], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731].
+    Section 2314a, referred to in text, was repealed by [Pub. L. 93–189][/us/pl/93/189], § 26(4), Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731].
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t22/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403
-[/us/pl/91/672/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672%2Fs11
+[/us/pl/91/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F672
 [/us/stat/84/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2055
-[/us/pl/93/189/s26/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs26%2F4
+[/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189
 [/us/stat/87/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F731
 
 

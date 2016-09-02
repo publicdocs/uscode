@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1723 derived from [act Aug. 18, 1856, ch. 127, § 17][/us/act/1856-08-18/ch127/s17], [11 Stat. 58][/us/stat/11/58].
+    R.S. § 1723 derived from [act Aug. 18, 1856, ch. 127][/us/act/1856-08-18/ch127], § 17, [11 Stat. 58][/us/stat/11/58].
 
     Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1856-08-18/ch127/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127%2Fs17
+[/us/act/1856-08-18/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-18%2Fch127
 [/us/stat/11/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F58
 [/us/usc/t22/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1189
 [/us/usc/t22/s92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs92

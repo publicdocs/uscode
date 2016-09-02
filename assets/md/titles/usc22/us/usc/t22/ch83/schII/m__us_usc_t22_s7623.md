@@ -55,7 +55,7 @@
 
         The Global AIDS Coordinator, in collaboration with the Administrator of the United States Agency for International Development (USAID), shall develop and implement a plan to combat HIV/AIDS by strengthening health policies and health systems of partner countries as part of USAID’s “Health Systems 2020” project. Recognizing that human and institutional capacity form the core of any health care system that can sustain the fight against HIV/AIDS, tuberculosis, and malaria, the plan shall include a strategy to encourage postsecondary educational institutions in partner countries, particularly in Africa, in collaboration with United States postsecondary educational institutions, including historically black colleges and universities, to develop such human and institutional capacity and in the process further build their capacity to sustain the fight against these diseases.
 
-([Pub. L. 108–25, title II, § 204][/us/pl/108/25/s204] as added [Pub. L. 110–293, title II, § 204(a)][/us/pl/110/293/s204/a], July 30, 2008, [122 Stat. 2942][/us/stat/122/2942].)
+([Pub. L. 108–25, title II][/us/pl/108/25/tII], § 204 as added [Pub. L. 110–293, title II][/us/pl/110/293/tII], § 204(a), July 30, 2008, [122 Stat. 2942][/us/stat/122/2942].)
 
  __References in Text__ 
 
@@ -70,8 +70,8 @@
 
 [/us/usc/t22/s2151aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151aa
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
-[/us/pl/108/25/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs204
-[/us/pl/110/293/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs204%2Fa
+[/us/pl/108/25/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2FtII
+[/us/pl/110/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2FtII
 [/us/stat/122/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2942
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711

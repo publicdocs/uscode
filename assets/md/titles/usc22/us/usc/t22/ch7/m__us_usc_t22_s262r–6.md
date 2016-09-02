@@ -15,7 +15,7 @@
 
 ## § 262r–6. Reports on policies, operations, and management of international financial institutions
 
-    (a) __Repealed.__  __[__  __Pub. L. 108–199, div. D, title V, § 599B(c)__  __][/us/pl/108/199/s599B/c]__  __,__  __Jan. 23, 2004__  __,__  __[__  __118 Stat. 211__  __][/us/stat/118/211]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 108–199, div. D, title V__  __][/us/pl/108/199/dD/tV]__  __, § 599B(c),__  __Jan. 23, 2004__  __,__  __[__  __118 Stat. 211__  __][/us/stat/118/211]__ 
 
     (b) __Annual report on United States supported policies__ 
 
@@ -35,7 +35,7 @@
 
         (2) the extent to which debt relief contributes to the graduation of a country from reliance on financing on concessionary terms and international development assistance.
 
-([Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VIII, § 803\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–66; [Pub. L. 108–199, div. D, title V, § 599B(c)][/us/pl/108/199/s599B/c], Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211].)
+([Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title VIII, § 803\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–66; [Pub. L. 108–199, div. D, title V][/us/pl/108/199/dD/tV], § 599B(c), Jan. 23, 2004, [118 Stat. 211][/us/stat/118/211].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Definitions__ 
 
-[Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VIII, § 806\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–68, provided that: 
+[Pub. L. 106–429][/us/pl/106/429], § 101(a) \[title VIII, § 806\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–68, provided that: 
 
 > “In this title \[enacting this section and section 286oo of this title and amending sections 262r–4, 286nn, and 2169 of this title\]:
 
@@ -86,11 +86,11 @@
 ----------
 ----------
 
-[/us/pl/108/199/s599B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs599B%2Fc
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
-[/us/pl/108/199/s599B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs599B%2Fc
+[/us/pl/108/199/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdD%2FtV
 [/us/stat/118/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F211
 [/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
@@ -98,7 +98,7 @@
 [/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/usc/t22/s262r–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%E2%80%934
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
+[/us/pl/106/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429
 [/us/stat/114/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1900
 
 

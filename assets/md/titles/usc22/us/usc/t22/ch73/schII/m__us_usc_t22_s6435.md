@@ -35,7 +35,7 @@
 
         (2) submits the annual financial report required under [section 6435a(e) of this title][/us/usc/t22/s6435a/e] to the appropriate congressional committees.
 
-([Pub. L. 105–292, title II, § 207][/us/pl/105/292/s207], formerly § 205, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; renumbered § 207 and amended [Pub. L. 106–55, § 1(b)(2)][/us/pl/106/55/s1/b/2], (4), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401], 403; [Pub. L. 107–228, div. A, title VI, § 681(e)][/us/pl/107/228/s681/e], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75, § 4][/us/pl/112/75/s4], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273]; [Pub. L. 113–271, § 1(1)][/us/pl/113/271/s1/1], Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951]; [Pub. L. 114–71, § 5][/us/pl/114/71/s5], Oct. 16, 2015, [129 Stat. 565][/us/stat/129/565].)
+([Pub. L. 105–292, title II][/us/pl/105/292/tII], § 207, formerly § 205, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; renumbered § 207 and amended [Pub. L. 106–55][/us/pl/106/55], § 1(b)(2), (4), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401], 403; [Pub. L. 107–228, div. A, title VI][/us/pl/107/228/dA/tVI], § 681(e), Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75][/us/pl/112/75], § 4, Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273]; [Pub. L. 113–271][/us/pl/113/271], § 1(1), Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951]; [Pub. L. 114–71][/us/pl/114/71], § 5, Oct. 16, 2015, [129 Stat. 565][/us/stat/129/565].)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 
     2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228] inserted “for the fiscal year 2003” after “$3,000,000”.
 
-    1999—Subsec. (a). [Pub. L. 106–55, § 1(b)(4)][/us/pl/106/55/s1/b/4], substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
+    1999—Subsec. (a). [Pub. L. 106–55][/us/pl/106/55], § 1(b)(4), substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–271, § 2][/us/pl/113/271/s2], Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951], provided that: 
+[Pub. L. 113–271][/us/pl/113/271], § 2, Dec. 18, 2014, [128 Stat. 2951][/us/stat/128/2951], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 6436 of this title][/us/usc/t22/s6436]\] shall take effect as if enacted on December 10, 2014.”
 
@@ -70,17 +70,17 @@
 [/us/usc/t22/s6436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6436
 [/us/usc/t22/s6433a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6433a
 [/us/usc/t22/s6435a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6435a%2Fe
-[/us/pl/105/292/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs207
+[/us/pl/105/292/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2FtII
 [/us/stat/112/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2800
-[/us/pl/106/55/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F2
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
 [/us/stat/113/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F401
-[/us/pl/107/228/s681/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs681%2Fe
+[/us/pl/107/228/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtVI
 [/us/stat/116/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1409
-[/us/pl/112/75/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75%2Fs4
+[/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/stat/125/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1273
-[/us/pl/113/271/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271%2Fs1%2F1
+[/us/pl/113/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271
 [/us/stat/128/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2951
-[/us/pl/114/71/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71%2Fs5
+[/us/pl/114/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F71
 [/us/stat/129/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F565
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787
@@ -89,8 +89,8 @@
 [/us/pl/113/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271
 [/us/pl/112/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F75
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
-[/us/pl/106/55/s1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55%2Fs1%2Fb%2F4
-[/us/pl/113/271/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271%2Fs2
+[/us/pl/106/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F55
+[/us/pl/113/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F271
 [/us/stat/128/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2951
 [/us/usc/t22/s6436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6436
 

@@ -33,7 +33,7 @@
 
         (1) The conduct of any activities, or the acquisition of any benefits (as defined in [section 4301(a)(1) of this title][/us/usc/t22/s4301/a/1]), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this chapter.
 
-        (2) Repealed. [Pub. L. 103–236, title I, § 139(26)][/us/pl/103/236/s139/26], Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399].
+        (2) Repealed. [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(26), Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399].
 
     (c) __Reports__ 
 
@@ -51,7 +51,7 @@
 
         For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
 
-([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 209A, as added [Pub. L. 99–93, title I, § 141][/us/pl/99/93/s141], Aug. 16, 1985, [99 Stat. 423][/us/stat/99/423]; amended [Pub. L. 103–236, title I, § 139(26)][/us/pl/103/236/s139/26], Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399].)
+([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 209A, as added [Pub. L. 99–93, title I][/us/pl/99/93/tI], § 141, Aug. 16, 1985, [99 Stat. 423][/us/stat/99/423]; amended [Pub. L. 103–236, title I][/us/pl/103/236/tI], § 139(26), Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399].)
 
  __References in Text__ 
 
@@ -71,12 +71,12 @@
 [/us/pl/80/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F357
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287
 [/us/usc/t22/s4301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301%2Fa%2F1
-[/us/pl/103/236/s139/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F26
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F399
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/99/93/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs141
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F423
-[/us/pl/103/236/s139/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs139%2F26
+[/us/pl/103/236/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtI
 [/us/stat/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F399
 [/us/pl/80/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F357
 [/us/act/1947-08-04/ch482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch482

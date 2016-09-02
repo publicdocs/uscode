@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use aggressively the voice and vote of the United States to vigorously promote policies to encourage the opening of markets for agricultural commodities and products by requiring recipient countries to make efforts to reduce trade barriers.
 
-([Pub. L. 95–118, title XIV, § 1404][/us/pl/95/118/s1404], as added [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 611\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228.)
+([Pub. L. 95–118, title XIV][/us/pl/95/118/tXIV], § 1404, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(d) \[title VI, § 611\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–228.)
 
  __Definitions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/95/118/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1404
-[/us/pl/105/277/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fd
+[/us/pl/95/118/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2FtXIV
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-150
 [/us/usc/t22/s262p–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%935
 

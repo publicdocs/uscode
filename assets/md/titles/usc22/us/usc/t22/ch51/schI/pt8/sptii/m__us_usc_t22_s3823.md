@@ -17,7 +17,7 @@
 
     The Commission shall prescribe, and from time to time may amend, regulations concerning the inspection of vessels conforming as nearly as practicable to the laws and regulations governing marine inspection by the United States Coast Guard.
 
-([Pub. L. 96–70, title I, § 1813][/us/pl/96/70/s1813], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493].)
+([Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1813, Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/70/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs1813
+[/us/pl/96/70/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtI
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

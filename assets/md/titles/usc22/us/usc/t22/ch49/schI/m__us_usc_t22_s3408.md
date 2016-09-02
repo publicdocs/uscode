@@ -17,7 +17,7 @@
 
     In accordance with the Nuclear Non-Proliferation Act of 1978 \[[22 U.S.C. 3201][/us/usc/t22/s3201] et seq.\], the Congress strongly encourages all countries in the Middle East which are not parties to the Treaty on the Non-Proliferation of Nuclear Weapons to become parties to that Treaty.
 
-([Pub. L. 96–35, § 10][/us/pl/96/35/s10], July 20, 1979, [93 Stat. 93][/us/stat/93/93].)
+([Pub. L. 96–35][/us/pl/96/35], § 10, July 20, 1979, [93 Stat. 93][/us/stat/93/93].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
-[/us/pl/96/35/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35%2Fs10
+[/us/pl/96/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F35
 [/us/stat/93/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F93
 [/us/pl/95/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242
 [/us/stat/92/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F120
