@@ -111,7 +111,7 @@
 
         (1) __Proxy rules to contain special provisions__ 
 
-        It shall be unlawful for any person to solicit any proxy, consent, or authorization concerning a limited partnership rollup transaction, or to make any tender offer in furtherance of a limited partnership rollup transaction, unless such transaction is conducted in accordance with rules prescribed by the Commission under subsections (a) and (d) of this section as required by this subsection. Such rules shall—
+        It shall be unlawful for any person to solicit any proxy, consent, or authorization concerning a limited partnership rollup transaction, or to make any tender offer in furtherance of a limited partnership rollup transaction, unless such transaction is conducted in accordance with rules prescribed by the Commission under subsections (a) and (d) as required by this subsection. Such rules shall—
 
             (A)
 
@@ -179,7 +179,7 @@
 
         (3) __Effect on Commission authority__ 
 
-            Nothing in this subsection limits the authority of the Commission under subsection (a) or (d) of this section or any other provision of this chapter or precludes the Commission from imposing, under subsection (a) or (d) of this section or any other provision of this chapter, a remedy or procedure required to be imposed under this subsection.
+            Nothing in this subsection limits the authority of the Commission under subsection (a) or (d) or any other provision of this chapter or precludes the Commission from imposing, under subsection (a) or (d) or any other provision of this chapter, a remedy or procedure required to be imposed under this subsection.
 
         (4) __“Limited partnership rollup transaction” defined__ 
 

@@ -41,17 +41,17 @@
 
         (1) __First tier__ 
 
-            The maximum amount of penalty for each act or omission described in subsection (a) of this section shall be $5,000 for a natural person or $50,000 for any other person.
+            The maximum amount of penalty for each act or omission described in subsection (a) shall be $5,000 for a natural person or $50,000 for any other person.
 
         (2) __Second tier__ 
 
-            Notwithstanding paragraph (1), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+            Notwithstanding paragraph (1), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in subsection (a) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
         (3) __Third tier__ 
 
         Notwithstanding paragraphs (1) and (2), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
-            (A) the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
+            (A) the act or omission described in subsection (a) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
             (B) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
 

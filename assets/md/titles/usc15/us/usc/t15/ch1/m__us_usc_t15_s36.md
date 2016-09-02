@@ -21,7 +21,7 @@
 
     (b) __Nonapplication of prohibition for cases commenced before effective date of provisions__ 
 
-        Subsection (a) of this section shall not apply with respect to cases commenced before the effective date of this Act.
+        Subsection (a) shall not apply with respect to cases commenced before the effective date of this Act.
 
 ([Pub. L. 98–544, § 4][/us/pl/98/544/s4], Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750].)
 

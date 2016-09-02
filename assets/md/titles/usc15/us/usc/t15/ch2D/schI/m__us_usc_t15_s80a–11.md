@@ -25,7 +25,7 @@
 
     (c) __Application of section to specific exchange offers__ 
 
-        The provisions of subsection (a) of this section shall be applicable, irrespective of the basis of exchange, (1) to any offer of exchange of any security of a registered open-end company for a security of a registered unit investment trust or registered face-amount certificate company; and (2) to any type of offer of exchange of the securities of registered unit investment trusts or registered face-amount certificate companies for the securities of any other investment company.
+        The provisions of subsection (a) shall be applicable, irrespective of the basis of exchange, (1) to any offer of exchange of any security of a registered open-end company for a security of a registered unit investment trust or registered face-amount certificate company; and (2) to any type of offer of exchange of the securities of registered unit investment trusts or registered face-amount certificate companies for the securities of any other investment company.
 
 ([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 11, [54 Stat. 808][/us/stat/54/808]; [Pub. L. 91–547, § 6][/us/pl/91/547/s6], Dec. 14, 1970, [84 Stat. 1417][/us/stat/84/1417].)
 

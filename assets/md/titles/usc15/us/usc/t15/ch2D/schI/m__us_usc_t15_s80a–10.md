@@ -75,11 +75,11 @@
 
     In the case of a registered management company which is an unincorporated company not having a board of directors, the provisions of this section shall apply as follows:
 
-        (1) the provisions of subsection (a) of this section, as modified by subsection (e) of this section, shall apply to the board of directors of the depositor of such company;
+        (1) the provisions of subsection (a), as modified by subsection (e), shall apply to the board of directors of the depositor of such company;
 
-        (2) the provisions of subsections (b) and (c) of this section, as modified by subsection (e) of this section, shall apply to the board of directors of the depositor and of every investment adviser of such company; and
+        (2) the provisions of subsections (b) and (c), as modified by subsection (e), shall apply to the board of directors of the depositor and of every investment adviser of such company; and
 
-        (3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
+        (3) the provisions of subsection (f) shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
 ([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 10, [54 Stat. 806][/us/stat/54/806]; [Pub. L. 91–547, § 5][/us/pl/91/547/s5], Dec. 14, 1970, [84 Stat. 1416][/us/stat/84/1416]; [Pub. L. 94–29, § 28(5)][/us/pl/94/29/s28/5], June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 106–102, title II, § 213(c)][/us/pl/106/102/s213/c], Nov. 12, 1999, [113 Stat. 1398][/us/stat/113/1398]; [Pub. L. 109–351, title IV, § 401(c)][/us/pl/109/351/s401/c], Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973].)
 

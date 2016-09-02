@@ -29,7 +29,7 @@
 
     (b) __Bank or affiliated person of bank as trustee or custodian__ 
 
-        The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in [section 1813 of title 12][/us/usc/t12/s1813]), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person of a principal underwriter for, or depositor of, a registered unit investment trust, may serve as trustee or custodian under subsection (a)(1) of this section.
+        The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in [section 1813 of title 12][/us/usc/t12/s1813]), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person of a principal underwriter for, or depositor of, a registered unit investment trust, may serve as trustee or custodian under subsection (a)(1).
 
     (c) __Substitution of securities__ 
 
@@ -37,7 +37,7 @@
 
     (d) __Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued__ 
 
-        In the event that a trust indenture, agreement of custodianship, or other instrument pursuant to which securities of a registered unit investment trust are issued does not comply with the requirements of subsection (a) of this section, such instrument will be deemed to meet such requirements if a written contract or agreement binding on the parties and embodying such requirements has been executed by the depositor on the one part and the trustee or custodian on the other part, and three copies of such contract or agreement have been filed with the Commission.
+        In the event that a trust indenture, agreement of custodianship, or other instrument pursuant to which securities of a registered unit investment trust are issued does not comply with the requirements of subsection (a), such instrument will be deemed to meet such requirements if a written contract or agreement binding on the parties and embodying such requirements has been executed by the depositor on the one part and the trustee or custodian on the other part, and three copies of such contract or agreement have been filed with the Commission.
 
     (e) __Liquidation of unit investment trust__ 
 
@@ -47,7 +47,7 @@
 
         (1) __In general__ 
 
-            Subsection (a) of this section does not apply to any registered separate account funding variable insurance contracts, or to the sponsoring insurance company and principal underwriter of such account.
+            Subsection (a) does not apply to any registered separate account funding variable insurance contracts, or to the sponsoring insurance company and principal underwriter of such account.
 
         (2) __Limitation on sales__ 
 

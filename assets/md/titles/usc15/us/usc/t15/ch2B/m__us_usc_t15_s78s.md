@@ -193,7 +193,7 @@
 
             (A)  __Consultation required__  __.—__ 
 
-            The Commission shall consult with and consider the views of the Commodity Futures Trading Commission prior to approving or disapproving a proposed rule change filed by a national securities association registered pursuant to section 78o–3(a) of this title or a national securities exchange subject to the provisions of subsection (a) of this section that primarily concerns conduct related to transactions in security futures products, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor.
+            The Commission shall consult with and consider the views of the Commodity Futures Trading Commission prior to approving or disapproving a proposed rule change filed by a national securities association registered pursuant to section 78o–3(a) of this title or a national securities exchange subject to the provisions of subsection (a) that primarily concerns conduct related to transactions in security futures products, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor.
 
             (B)  __Responses to cftc comments and findings__  __.—__ 
 
@@ -235,7 +235,7 @@
 
             (C) Any amendment to the rules of a self-regulatory organization made by the Commission pursuant to this subsection shall be considered for all purposes of this chapter to be part of the rules of such self-regulatory organization and shall not be considered to be a rule of the Commission.
 
-        (5) With respect to rules described in subsection (b)(5) of this section, the Commission shall consult with and consider the views of the Secretary of the Treasury before abrogating, adding to, and deleting from such rules, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor.
+        (5) With respect to rules described in subsection (b)(5), the Commission shall consult with and consider the views of the Secretary of the Treasury before abrogating, adding to, and deleting from such rules, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor.
 
     (d) __Notice of disciplinary action taken by self-regulatory organization against a member or participant; review of action by appropriate regulatory agency; procedure__ 
 

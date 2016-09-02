@@ -21,7 +21,7 @@
 
     (b) __Stay of Commission’s order__ 
 
-        The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
+        The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
 ([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 213, [54 Stat. 855][/us/stat/54/855]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 26][/us/pl/85/791/s26], Aug. 28, 1958, [72 Stat. 949][/us/stat/72/949]; [Pub. L. 100–181, title VII, § 706][/us/pl/100/181/s706], Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 111–203, title IX, § 985(e)(3)][/us/pl/111/203/s985/e/3], July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
 

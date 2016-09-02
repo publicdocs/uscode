@@ -37,7 +37,7 @@
 
         (1) __In general__ 
 
-            All records required to be maintained and preserved in accordance with subsection (a) of this section shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
+            All records required to be maintained and preserved in accordance with subsection (a) shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
 
         (2) __Availability__ 
 
@@ -63,7 +63,7 @@
 
     (d) __Exemption authority__ 
 
-        The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (e) of this section, if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
+        The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (e), if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
 
 ([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 31, [54 Stat. 838][/us/stat/54/838]; [Pub. L. 104–290, title II, § 207][/us/pl/104/290/s207], Oct. 11, 1996, [110 Stat. 3430][/us/stat/110/3430]; [Pub. L. 105–353, title III, § 301(c)(6)][/us/pl/105/353/s301/c/6], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929I(b), 929Q(a), July 21, 2010, [124 Stat. 1858][/us/stat/124/1858], 1865; [Pub. L. 111–257, § 1(b)][/us/pl/111/257/s1/b], Oct. 5, 2010, [124 Stat. 2646][/us/stat/124/2646].)
 

@@ -23,7 +23,7 @@
 
             (A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
-            (B) may, subject to subsection (b)(1) of this section, bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
+            (B) may, subject to subsection (b)(1), bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
 
         (2) __Amount of penalty for person who committed violation__ 
 
@@ -37,7 +37,7 @@
 
         (1) __Liability of controlling persons__ 
 
-        No controlling person shall be subject to a penalty under subsection (a)(1)(B) of this section unless the Commission establishes that—
+        No controlling person shall be subject to a penalty under subsection (a)(1)(B) unless the Commission establishes that—
 
             (A) such controlling person knew or recklessly disregarded the fact that such controlled person was likely to engage in the act or acts constituting the violation and failed to take appropriate steps to prevent such act or acts before they occurred; or
 
@@ -45,7 +45,7 @@
 
         (2) __Additional restrictions on liability__ 
 
-            No person shall be subject to a penalty under subsection (a) of this section solely by reason of employing another person who is subject to a penalty under such subsection, unless such employing person is liable as a controlling person under paragraph (1) of this subsection. [Section 78t(a) of this title][/us/usc/t15/s78t/a] shall not apply to actions under subsection (a) of this section.
+            No person shall be subject to a penalty under subsection (a) solely by reason of employing another person who is subject to a penalty under such subsection, unless such employing person is liable as a controlling person under paragraph (1) of this subsection. [Section 78t(a) of this title][/us/usc/t15/s78t/a] shall not apply to actions under subsection (a) of this section.
 
     (c) __Authority of Commission__ 
 

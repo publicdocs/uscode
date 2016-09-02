@@ -75,7 +75,7 @@
 
     (e) __Authority of court to prohibit persons from serving as officers and directors__ 
 
-        In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated [section 77q(a)(1) of this title][/us/usc/t15/s77q/a/1] from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person’s conduct demonstrates unfitness to serve as an officer or director of any such issuer.
+        In any proceeding under subsection (b), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated [section 77q(a)(1) of this title][/us/usc/t15/s77q/a/1] from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person’s conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
     (f) __Prohibition of attorneys’ fees paid from Commission disgorgement funds__ 
 
@@ -85,7 +85,7 @@
 
         (1) __In general__ 
 
-            In any proceeding under subsection (a) of this section against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+            In any proceeding under subsection (a) against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
 
         (2) __Definition__ 
 

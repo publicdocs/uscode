@@ -27,7 +27,7 @@
 
         (2) __Coordination with existing programs__ 
 
-            The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.).
+            The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29.
 
     (b) __Requirements for grants__ 
 
@@ -51,21 +51,13 @@
 
 ([Pub. L. 108–324, div. C, § 113][/us/pl/108/324/s113], Oct. 13, 2004, [118 Stat. 1264][/us/stat/118/1264]; [Pub. L. 113–128, title V, § 512(c)][/us/pl/113/128/s512/c], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
 
- __Amendment of Subsection (a)(2)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(c), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(2) of this section is amended by striking “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29”. See 2014 Amendment note below.
-
- __References in Text__ 
-
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
-
  __Amendments__ 
 
     2014—Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128] substituted “consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29” for “consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -74,17 +66,10 @@
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/108/324/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs113
 [/us/stat/118/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1264
 [/us/pl/113/128/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fc
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

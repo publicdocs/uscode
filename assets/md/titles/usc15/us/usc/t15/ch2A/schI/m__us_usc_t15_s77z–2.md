@@ -79,7 +79,7 @@
 
         (1) __In general__ 
 
-        Except as provided in subsection (b) of this section, in any private action arising under this subchapter that is based on an untrue statement of a material fact or omission of a material fact necessary to make the statement not misleading, a person referred to in subsection (a) of this section shall not be liable with respect to any forward-looking statement, whether written or oral, if and to the extent that—
+        Except as provided in subsection (b), in any private action arising under this subchapter that is based on an untrue statement of a material fact or omission of a material fact necessary to make the statement not misleading, a person referred to in subsection (a) shall not be liable with respect to any forward-looking statement, whether written or oral, if and to the extent that—
 
             (A)
 
@@ -131,7 +131,7 @@
 
         (4) __Effect on other safe harbors__ 
 
-            The exemption provided for in paragraph (1) shall be in addition to any exemption that the Commission may establish by rule or regulation under subsection (g) of this section.
+            The exemption provided for in paragraph (1) shall be in addition to any exemption that the Commission may establish by rule or regulation under subsection (g).
 
     (d) __Duty to update__ 
 
@@ -139,7 +139,7 @@
 
     (e) __Dispositive motion__ 
 
-        On any motion to dismiss based upon subsection (c)(1) of this section, the court shall consider any statement cited in the complaint and cautionary statement accompanying the forward-looking statement, which are not subject to material dispute, cited by the defendant.
+        On any motion to dismiss based upon subsection (c)(1), the court shall consider any statement cited in the complaint and cautionary statement accompanying the forward-looking statement, which are not subject to material dispute, cited by the defendant.
 
     (f) __Stay pending decision on motion__ 
 

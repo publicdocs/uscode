@@ -29,7 +29,7 @@
 
     (b) __Application for exemption of proposed transaction from certain restrictions__ 
 
-    Notwithstanding subsection (a) of this section, any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of said subsection. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
+    Notwithstanding subsection (a), any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of said subsection. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
 
         (1) the terms of the proposed transaction, including the consideration to be paid or received, are reasonable and fair and do not involve overreaching on the part of any person concerned;
 
@@ -39,7 +39,7 @@
 
     (c) __Sale or purchase of merchandise from any company or furnishing of services incident to lessor-lessee relationship__ 
 
-        Notwithstanding subsection (a) of this section, a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
+        Notwithstanding subsection (a), a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
 
     (d) __Joint or joint and several participation with company in transactions__ 
 
@@ -63,7 +63,7 @@
 
         (4) No member of a national securities exchange which trades in securities for its own account may act as custodian except in accordance with rules and regulations prescribed by the Commission for the protection of investors.
 
-        (5) If a registered company maintains its securities and similar investments in the custody of a qualified bank or banks, the cash proceeds from the sale of such securities and similar investments and other cash assets of the company shall likewise be kept in the custody of such a bank or banks, or in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors, except that such a registered company may maintain a checking account in a bank or banks having the qualifications prescribed in paragraph (1) of [section 80a–26(a) of this title][/us/usc/t15/s80a–26/a] for the trustees of unit investment trusts with the balance of such account or the aggregate balances of such accounts at no time in excess of the amount of the fidelity bond, maintained pursuant to subsection (g) of this section covering the officers or employees authorized to draw on such account or accounts.
+        (5) If a registered company maintains its securities and similar investments in the custody of a qualified bank or banks, the cash proceeds from the sale of such securities and similar investments and other cash assets of the company shall likewise be kept in the custody of such a bank or banks, or in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors, except that such a registered company may maintain a checking account in a bank or banks having the qualifications prescribed in paragraph (1) of [section 80a–26(a) of this title][/us/usc/t15/s80a–26/a] for the trustees of unit investment trusts with the balance of such account or the aggregate balances of such accounts at no time in excess of the amount of the fidelity bond, maintained pursuant to subsection (g) covering the officers or employees authorized to draw on such account or accounts.
 
         (6) The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in [section 1813 of title 12][/us/usc/t12/s1813]), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person, promoter, organizer, or sponsor of, or principal underwriter for, a registered management company, may serve as custodian of that registered management company.
 

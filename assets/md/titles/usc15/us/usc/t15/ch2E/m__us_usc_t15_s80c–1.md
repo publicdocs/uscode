@@ -25,7 +25,7 @@
 
     (c) __Preparation of statements and reports__ 
 
-        The Commission may request any of the Federal departments, agencies, or organizations such as those specified in subsection (b) of this section, or other groups or individuals, to prepare statements and reports to be delivered at such forums. Such departments and agencies shall cooperate in this effort.
+        The Commission may request any of the Federal departments, agencies, or organizations such as those specified in subsection (b), or other groups or individuals, to prepare statements and reports to be delivered at such forums. Such departments and agencies shall cooperate in this effort.
 
     (d) __Transmittal of proceedings and findings__ 
 

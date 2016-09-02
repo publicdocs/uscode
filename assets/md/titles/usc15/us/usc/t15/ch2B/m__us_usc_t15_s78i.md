@@ -83,7 +83,7 @@
 
     (g) __Subsection (a) not applicable to exempted securities__ 
 
-        The provisions of subsection (a) of this section shall not apply to an exempted security.
+        The provisions of subsection (a) shall not apply to an exempted security.
 
     (h) __Foreign currencies and security futures products__ 
 
@@ -169,7 +169,7 @@
 
     1990—Subsec. (h). [Pub. L. 101–432][/us/pl/101/432] added subsec. (h).
 
-    1982—Subsec. (f). [Pub. L. 97–303, § 3(1)][/us/pl/97/303/s3/1], substituted “The provisions of subsection (a) of this section shall not apply” for “The provisions of this section shall not apply”.
+    1982—Subsec. (f). [Pub. L. 97–303, § 3(1)][/us/pl/97/303/s3/1], substituted “The provisions of subsection (a) shall not apply” for “The provisions of this section shall not apply”.
 
     Subsec. (g). [Pub. L. 97–303, § 3(2)][/us/pl/97/303/s3/2], added subsec. (g).
 

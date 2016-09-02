@@ -29,7 +29,7 @@
 
     (c) __Revocation or withdrawal of election__ 
 
-        Whenever the Commission finds, on its own motion or upon application, that a business development company which has filed a notification of election pursuant to subsection (a) of this section has ceased to engage in business, the Commission shall so declare by order revoking such company’s election. Any business development company may voluntarily withdraw its election under subsection (a) of this section by filing a notice of withdrawal of election with the Commission, in a form and manner which the Commission may, by rule, prescribe. Such withdrawal shall be effective immediately upon receipt by the Commission.
+        Whenever the Commission finds, on its own motion or upon application, that a business development company which has filed a notification of election pursuant to subsection (a) of this section has ceased to engage in business, the Commission shall so declare by order revoking such company’s election. Any business development company may voluntarily withdraw its election under subsection (a) by filing a notice of withdrawal of election with the Commission, in a form and manner which the Commission may, by rule, prescribe. Such withdrawal shall be effective immediately upon receipt by the Commission.
 
 ([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 54, as added [Pub. L. 96–477, title I, § 105][/us/pl/96/477/s105], Oct. 21, 1980, [94 Stat. 2278][/us/stat/94/2278]; amended [Pub. L. 100–181, title VI, § 625][/us/pl/100/181/s625], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
 

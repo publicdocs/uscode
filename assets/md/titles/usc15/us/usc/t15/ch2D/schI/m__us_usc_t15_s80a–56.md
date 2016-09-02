@@ -37,7 +37,7 @@
 
     (c) __Exemption orders__ 
 
-    Notwithstanding paragraphs (1), (2), and (3) of subsection (a) of this section, any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of such paragraphs. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
+    Notwithstanding paragraphs (1), (2), and (3) of subsection (a), any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of such paragraphs. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
 
         (1) the terms of the proposed transaction, including the consideration to be paid or received, are reasonable and fair and do not involve overreaching of the business development company or its shareholders or partners on the part of any person concerned;
 
@@ -69,7 +69,7 @@
 
     (f) __Approval of proposed transactions__ 
 
-    Notwithstanding subsection (d) of this section, a person described in subsection (e) of this section may engage in a proposed transaction described in subsection (d) of this section if such proposed transaction is approved by the required majority (as defined in subsection (o) of this section) of the directors of or general partners in the business development company on the basis that—
+    Notwithstanding subsection (d) of this section, a person described in subsection (e) may engage in a proposed transaction described in subsection (d) if such proposed transaction is approved by the required majority (as defined in subsection (o)) of the directors of or general partners in the business development company on the basis that—
 
         (1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
 
@@ -79,7 +79,7 @@
 
     (g) __Transactions in the ordinary course of business__ 
 
-        Notwithstanding subsection (a) or (d) of this section, a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
+        Notwithstanding subsection (a) or (d), a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
 
     (h) __Inquiry procedures__ 
 
@@ -109,13 +109,13 @@
 
             (E)
 
-                (i) in the case of a loan to any officer or employee of such business development company (including any officer or employee who is also a director of such company), is approved by the required majority (as defined in subsection (o) of this section) of the directors of or general partners in such company on the basis that the loan is in the best interests of such company and its shareholders or partners; or
+                (i) in the case of a loan to any officer or employee of such business development company (including any officer or employee who is also a director of such company), is approved by the required majority (as defined in subsection (o)) of the directors of or general partners in such company on the basis that the loan is in the best interests of such company and its shareholders or partners; or
 
                 (ii) in the case of a loan to any director of such business development company who is not also an officer or employee of such company, or to any general partner in such company, is approved by order of the Commission, upon application, on the basis that the terms of the loan are fair and reasonable and do not involve overreaching of such company or its shareholders or partners.
 
     (k) __Restriction on brokerage commissions__ 
 
-    It shall be unlawful for any person described in subsection (l) of this section—
+    It shall be unlawful for any person described in subsection (l)—
 
         (1) acting as agent, to accept from any source any compensation (other than a regular salary or wages from the business development company) for the purchase or sale of any property to or for such business development company or any controlled company thereof, except in the course of such person’s business as an underwriter or broker; or
 
@@ -147,7 +147,7 @@
 
     (m) __Receipt of fee or salary from transaction participant__ 
 
-        For purposes of subsections (a) and (d) of this section, a person who is a director, officer, or employee of a party to a transaction and who receives his usual and ordinary fee or salary for usual and customary services as a director, officer, or employee from such party shall not be deemed to have a financial interest or to participate in the transaction solely by reason of his receipt of such fee or salary.
+        For purposes of subsections (a) and (d), a person who is a director, officer, or employee of a party to a transaction and who receives his usual and ordinary fee or salary for usual and customary services as a director, officer, or employee from such party shall not be deemed to have a financial interest or to participate in the transaction solely by reason of his receipt of such fee or salary.
 
     (n) __Profit-sharing plans__ 
 
@@ -157,7 +157,7 @@
 
             (A)
 
-                (i) in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection (o) of this section) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
+                (i) in the case of a profit-sharing plan for officers and employees of the business development company (including any officer or employee who is also a director of such company), such profit-sharing plan is approved by the required majority (as defined in subsection (o)) of the directors of or general partners in such company on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; or
 
                 (ii) in the case of a profit-sharing plan which includes one or more directors of the business development company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
 

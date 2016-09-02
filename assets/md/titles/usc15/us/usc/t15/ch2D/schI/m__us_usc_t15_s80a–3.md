@@ -27,11 +27,11 @@
 
             (C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer’s total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
 
-        (2) As used in this section, “investment securities” includes all securities except (A) Government securities, (B) securities issued by employees’ securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c) of this section.
+        (2) As used in this section, “investment securities” includes all securities except (A) Government securities, (B) securities issued by employees’ securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c).
 
     (b) __Exemption from provisions__ 
 
-    Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
+    Notwithstanding paragraph (1)(C) of subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
         (1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
@@ -41,7 +41,7 @@
 
     (c) __Further exemptions__ 
 
-    Notwithstanding subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
+    Notwithstanding subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
         (1)
 

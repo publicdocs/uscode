@@ -31,7 +31,7 @@
 
     (c) __Applicability of subsection (b)__ 
 
-        The provisions of subsection (b) of this section shall apply regardless of whether any rule, regulation, statement of interpretation, or statement of approval prescribed or issued by the Board of Governors is amended, rescinded, or held to be invalid by judicial authority or any other authority after a person, partnership, or corporation has engaged in any conduct or practice in good faith reliance upon, and in conformity with, such rule, regulation, statement of interpretation, or statement of approval.
+        The provisions of subsection (b) shall apply regardless of whether any rule, regulation, statement of interpretation, or statement of approval prescribed or issued by the Board of Governors is amended, rescinded, or held to be invalid by judicial authority or any other authority after a person, partnership, or corporation has engaged in any conduct or practice in good faith reliance upon, and in conformity with, such rule, regulation, statement of interpretation, or statement of approval.
 
     (d) __Request for issuance of statement or interpretation concerning conduct or practice__ 
 
