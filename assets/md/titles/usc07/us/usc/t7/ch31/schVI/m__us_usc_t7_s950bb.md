@@ -217,7 +217,7 @@
 
                     (IV) any changes in broadband service adoption rates, including new subscribers generated from demand-side projects; and
 
-                    (V) any metrics the Secretary determines to be appropriate;
+                    (V) any metrics the Secretary determines to be appropriate;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a period. </sup></sup> 
 
             (B) __Additional reporting__ 
 
@@ -411,7 +411,7 @@
 
     Subsec. (d)(2)(A)(i). [Pub. L. 113–79, § 6104(a)(2)(B)(i)][/us/pl/113/79/s6104/a/2/B/i], added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and”.
 
-    2014—Subsec. (d)(2)(B). [Pub. L. 113–79, § 6104(a)(2)(B)(ii)][/us/pl/113/79/s6104/a/2/B/ii], struck out “25” before “percent” in heading.
+    Subsec. (d)(2)(B). [Pub. L. 113–79, § 6104(a)(2)(B)(ii)][/us/pl/113/79/s6104/a/2/B/ii], struck out “25” before “percent” in heading.
 
     Subsec. (d)(2)(C). [Pub. L. 113–79, § 6104(a)(2)(B)(iii)(I)][/us/pl/113/79/s6104/a/2/B/iii/I], struck out “3 or more” before “incumbent” in heading.
 

@@ -489,15 +489,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs229" data-uslm-ref="/us/usc/t7/s229">229.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs229a" data-uslm-ref="/us/usc/t7/s229a">229a.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs229" data-uslm-ref="/us/usc/t7/s229">229</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs229a" data-uslm-ref="/us/usc/t7/s229a">229a.</a>  </td>
 
     <td> Repealed.  </td>
 
