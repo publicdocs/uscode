@@ -167,37 +167,7 @@
 
  __Electronic Voting Demonstration Project__ 
 
-[Pub. L. 107–107, div. A, title XVI, § 1604][/us/pl/107/107/s1604], Dec. 28, 2001, [115 Stat. 1277][/us/stat/115/1277], as amended by [Pub. L. 108–375, div. A, title V, § 567][/us/pl/108/375/s567], Oct. 28, 2004, [118 Stat. 1919][/us/stat/118/1919], provided that:
-
->     “(a) __Establishment of Demonstration Project.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Subject to paragraph (2), the Secretary of Defense shall carry out a demonstration project under which absent uniformed services voters are permitted to cast ballots in the regularly scheduled general election for Federal office for November 2002 through an electronic voting system. The project shall be carried out with participation of sufficient numbers of absent uniformed services voters so that the results are statistically relevant.
-
->         “(2)  __Authority to delay implementation__  __.—__ 
-
->         If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
-
->     “(b)  __Coordination With State Election Officials__  __.—__ 
-
->     The Secretary shall carry out the demonstration project under this section through cooperative agreements with State election officials of States that agree to participate in the project.
-
->     “(c)  __Report to Congress__  __.—__ 
-
->     Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzing the demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
-
->     “(d)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)  __Absent uniformed services voter__  __.—__ 
-
->         The term ‘absent uniformed services voter’ has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff–6(1)][/us/usc/t42/s1973ff–6/1] \[now [52 U.S.C. 20310(1)][/us/usc/t52/s20310/1]\]).
-
->         “(2)  __State__  __.—__ 
-
->         The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.”
+    [Pub. L. 107–107, div. A, title XVI, § 1604][/us/pl/107/107/s1604], Dec. 28, 2001, [115 Stat. 1277][/us/stat/115/1277], as amended by [Pub. L. 108–375, div. A, title V, § 567][/us/pl/108/375/s567], Oct. 28, 2004, [118 Stat. 1919][/us/stat/118/1919], which established a demonstration project under which absent uniformed services voters were permitted to vote in the November 2002 general election for Federal office through an electronic voting system, was repealed by [Pub. L. 113–291, div. A, title V, § 593][/us/pl/113/291/s593], Dec. 19, 2014, [128 Stat. 3395][/us/stat/128/3395].
 
  __Governors’ Reports on Implementation of Recommendations for Changes in State Law Made Under Federal Voting Assistance Program__ 
 
@@ -290,8 +260,8 @@ By virtue of the authority vested in me as President by the Constitution and law
 [/us/stat/115/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1277
 [/us/pl/108/375/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs567
 [/us/stat/118/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1919
-[/us/usc/t42/s1973ff–6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%936%2F1
-[/us/usc/t52/s20310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20310%2F1
+[/us/pl/113/291/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs593
+[/us/stat/128/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3395
 [/us/pl/107/107/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1605
 [/us/stat/115/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1277
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
