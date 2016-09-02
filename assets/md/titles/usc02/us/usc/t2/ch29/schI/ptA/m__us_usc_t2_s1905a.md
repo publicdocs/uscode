@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Chief of the Capitol Police is authorized to receive moneys from the Department of the Treasury as reimbursements for salaries paid by the Capitol Police in connection with certain officers and members of the United States Capitol Police serving as instructors at the Federal Law Enforcement Training Center. Moneys so received shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-([Pub. L. 95–26, title I, § 111][/us/pl/95/26/s111], May 4, 1977, [91 Stat. 87][/us/stat/91/87]; [Pub. L. 108–7, div. H, title I, § 1018(h)(3)][/us/pl/108/7/s1018/h/3], Feb. 20, 2003, [117 Stat. 369][/us/stat/117/369].)
+([Pub. L. 95–26, title I][/us/pl/95/26/tI], § 111, May 4, 1977, [91 Stat. 87][/us/stat/91/87]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1018(h)(3), Feb. 20, 2003, [117 Stat. 369][/us/stat/117/369].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/26/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs111
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F87
-[/us/pl/108/7/s1018/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018%2Fh%2F3
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F369
 [/us/usc/t2/s64–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs64%E2%80%933
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7

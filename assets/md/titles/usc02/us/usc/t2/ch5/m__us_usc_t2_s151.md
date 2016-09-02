@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    R.S. § 99 derived from [act Apr. 5, 1866, ch. 25, § 1][/us/act/1866-04-05/ch25/s1], [14 Stat. 13][/us/stat/14/13].
+    R.S. § 99 derived from [act Apr. 5, 1866, ch. 25][/us/act/1866-04-05/ch25], § 1, [14 Stat. 13][/us/stat/14/13].
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F102
-[/us/act/1866-04-05/ch25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-05%2Fch25%2Fs1
+[/us/act/1866-04-05/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-05%2Fch25
 [/us/stat/14/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F13
 
 

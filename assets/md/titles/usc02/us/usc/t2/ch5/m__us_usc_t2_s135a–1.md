@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 87–765][/us/pl/87/765], Oct. 9, 1962, [76 Stat. 763][/us/stat/76/763]; [Pub. L. 89–522, § 2][/us/pl/89/522/s2], July 30, 1966, [80 Stat. 331][/us/stat/80/331].)
+([Pub. L. 87–765][/us/pl/87/765], Oct. 9, 1962, [76 Stat. 763][/us/stat/76/763]; [Pub. L. 89–522][/us/pl/89/522], § 2, July 30, 1966, [80 Stat. 331][/us/stat/80/331].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 
 [/us/pl/87/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F765
 [/us/stat/76/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F763
-[/us/pl/89/522/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F522%2Fs2
+[/us/pl/89/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F522
 [/us/stat/80/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F331
 [/us/pl/89/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F522
 

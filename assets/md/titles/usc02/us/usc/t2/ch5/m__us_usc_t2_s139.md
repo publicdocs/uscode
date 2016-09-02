@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Feb. 19, 1897, ch. 265, § 1][/us/act/1897-02-19/ch265/s1], [29 Stat. 546][/us/stat/29/546]; [Pub. L. 94–273, § 30][/us/pl/94/273/s30], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380], which required the Librarian of Congress to make an annual report to Congress on the affairs of the Library, including copyright business and a detailed statement of receipts and expenditures, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 10 of House Document No. 103–7.
+    Section, acts [Feb. 19, 1897, ch. 265][/us/act/1897-02-19/ch265], § 1, [29 Stat. 546][/us/stat/29/546]; [Pub. L. 94–273][/us/pl/94/273], § 30, Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380], which required the Librarian of Congress to make an annual report to Congress on the affairs of the Library, including copyright business and a detailed statement of receipts and expenditures, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 10 of House Document No. 103–7.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1897-02-19/ch265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265%2Fs1
+[/us/act/1897-02-19/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265
 [/us/stat/29/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F546
-[/us/pl/94/273/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs30
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F380
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

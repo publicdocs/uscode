@@ -35,7 +35,7 @@
 
         This section shall be effective for fiscal years beginning on or after October 1, 1996.
 
-([Pub. L. 104–197, title I, § 8][/us/pl/104/197/s8], Sept. 16, 1996, [110 Stat. 2398][/us/stat/110/2398].)
+([Pub. L. 104–197, title I][/us/pl/104/197/tI], § 8, Sept. 16, 1996, [110 Stat. 2398][/us/stat/110/2398].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/104/197/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs8
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2398
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/stat/108/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1423

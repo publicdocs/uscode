@@ -19,7 +19,7 @@
 
     (b) Appropriations made pursuant to the authority provided in subsection (a) shall remain available for obligation, for expenditure, or for obligation and expenditure for such period or periods as may be specified in the Act making such appropriations.
 
-([Pub. L. 92–484, § 12][/us/pl/92/484/s12], Oct. 13, 1972, [86 Stat. 803][/us/stat/86/803].)
+([Pub. L. 92–484][/us/pl/92/484], § 12, Oct. 13, 1972, [86 Stat. 803][/us/stat/86/803].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/92/484/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs12
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F803
 
 

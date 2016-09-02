@@ -51,7 +51,7 @@
 
         In the Senate, if a point of order under this Act against a bill or resolution is sustained, the Presiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.
 
-([Pub. L. 93–344, title III, § 312][/us/pl/93/344/s312], as added [Pub. L. 101–508, title XIII, § 13207(b)(1)][/us/pl/101/508/s13207/b/1], Nov. 5, 1990, [104 Stat. 1388–618][/us/stat/104/1388-618]; amended [Pub. L. 105–33, title X, § 10113(a)][/us/pl/105/33/s10113/a], Aug. 5, 1997, [111 Stat. 687][/us/stat/111/687].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 312, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13207(b)(1), Nov. 5, 1990, [104 Stat. 1388–618][/us/stat/104/1388-618]; amended [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10113(a), Aug. 5, 1997, [111 Stat. 687][/us/stat/111/687].)
 
  __References in Text__ 
 
@@ -72,10 +72,10 @@
 
 [/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
 [/us/usc/t2/s907a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907a
-[/us/pl/93/344/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs312
-[/us/pl/101/508/s13207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fb%2F1
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-618
-[/us/pl/105/33/s10113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10113%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F687
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038

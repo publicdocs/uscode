@@ -69,19 +69,19 @@
 
     (11) The term “Director” means the Director of the Office of Management and Budget.
 
-([Pub. L. 93–344, title V, § 502][/us/pl/93/344/s502], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–610][/us/stat/104/1388-610]; amended [Pub. L. 105–33, title X, § 10117(a)][/us/pl/105/33/s10117/a], Aug. 5, 1997, [111 Stat. 692][/us/stat/111/692].)
+([Pub. L. 93–344, title V][/us/pl/93/344/tV], § 502, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–610][/us/stat/104/1388-610]; amended [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10117(a), Aug. 5, 1997, [111 Stat. 692][/us/stat/111/692].)
 
  __Prior Provisions__ 
 
-    A prior [section 502 of Pub. L. 93–344][/us/pl/93/344/s502], title V, July 12, 1974, [88 Stat. 321][/us/stat/88/321], was set out as a note under section 1020 of former Title 31, prior to repeal by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
+    A prior [section 502 of Pub. L. 93–344][/us/pl/93/344/s502], title V, July 12, 1974, [88 Stat. 321][/us/stat/88/321], was set out as a note under section 1020 of former Title 31, prior to repeal by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
 
  __Amendments__ 
 
-    1997—Par. (1). [Pub. L. 105–33, § 10117(a)(1)][/us/pl/105/33/s10117/a/1], inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+    1997—Par. (1). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
 
-    Par. (5)(A). [Pub. L. 105–33, § 10117(a)(2)][/us/pl/105/33/s10117/a/2], inserted “or modification thereof” after “or loan guarantee”.
+    Par. (5)(A). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
 
-    Par. (5)(B), (C). [Pub. L. 105–33, § 10117(a)(3)][/us/pl/105/33/s10117/a/3], added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+    Par. (5)(B), (C). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(3), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following cash flows:
 
@@ -97,13 +97,13 @@
 
     “(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries.”
 
-    Par. (5)(D). [Pub. L. 105–33, § 10117(a)(4)][/us/pl/105/33/s10117/a/4], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.”
+    Par. (5)(D). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.”
 
-    Par. (5)(E). [Pub. L. 105–33, § 10117(a)(5)][/us/pl/105/33/s10117/a/5], inserted “the cash flows of” after “similar maturity to”.
+    Par. (5)(E). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(5), inserted “the cash flows of” after “similar maturity to”.
 
-    Par. (5)(F). [Pub. L. 105–33, § 10117(a)(6)][/us/pl/105/33/s10117/a/6], added subpar. (F).
+    Par. (5)(F). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(6), added subpar. (F).
 
-    Pars. (9) to (11). [Pub. L. 105–33, § 10117(a)(7)][/us/pl/105/33/s10117/a/7], added pars. (9) and (10) and redesignated former par. (9) as (11).
+    Pars. (9) to (11). [Pub. L. 105–33][/us/pl/105/33], § 10117(a)(7), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
 ----------
 
@@ -113,21 +113,21 @@
 ----------
 
 [/us/usc/t2/s900/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900%2Fc%2F9
-[/us/pl/93/344/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs502
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/93/344/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtV
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-610
-[/us/pl/105/33/s10117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F692
 [/us/pl/93/344/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs502
 [/us/stat/88/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F321
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/105/33/s10117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F1
-[/us/pl/105/33/s10117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F2
-[/us/pl/105/33/s10117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F3
-[/us/pl/105/33/s10117/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F4
-[/us/pl/105/33/s10117/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F5
-[/us/pl/105/33/s10117/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F6
-[/us/pl/105/33/s10117/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fa%2F7
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 
 

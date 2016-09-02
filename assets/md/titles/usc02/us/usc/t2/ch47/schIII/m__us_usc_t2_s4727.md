@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 110–81, title V, § 546][/us/pl/110/81/s546], Sept. 14, 2007, [121 Stat. 772][/us/stat/121/772].)
+([Pub. L. 110–81, title V][/us/pl/110/81/tV], § 546, Sept. 14, 2007, [121 Stat. 772][/us/stat/121/772].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/110/81/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs546
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F772
 [/us/usc/t2/s104g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104g
 

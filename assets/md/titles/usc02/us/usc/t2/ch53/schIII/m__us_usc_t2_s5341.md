@@ -35,7 +35,7 @@
 
         This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.
 
-([Pub. L. 104–186, title I, § 101][/us/pl/104/186/s101], Aug. 20, 1996, [110 Stat. 1719][/us/stat/110/1719].)
+([Pub. L. 104–186, title I][/us/pl/104/186/tI], § 101, Aug. 20, 1996, [110 Stat. 1719][/us/stat/110/1719].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/104/186/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs101
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1719
 [/us/usc/t2/s57b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs57b
 

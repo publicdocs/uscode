@@ -21,7 +21,7 @@
 
  __Transfer of Positions in Corrections Calendar Office__ 
 
-    [Pub. L. 108–83, title I, § 106][/us/pl/108/83/s106], Sept. 30, 2003, [117 Stat. 1018][/us/stat/117/1018], which related to the transfer of positions in the Corrections Calendar Office, was editorially reclassified as [section 5624 of this title][/us/usc/t2/s5624].
+    [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 106, Sept. 30, 2003, [117 Stat. 1018][/us/stat/117/1018], which related to the transfer of positions in the Corrections Calendar Office, was editorially reclassified as [section 5624 of this title][/us/usc/t2/s5624].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s5621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5621
-[/us/pl/108/83/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs106
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1018
 [/us/usc/t2/s5624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5624
 

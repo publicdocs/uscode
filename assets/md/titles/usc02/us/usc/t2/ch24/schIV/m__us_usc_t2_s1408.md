@@ -43,7 +43,7 @@
 
             (C) any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
 
-([Pub. L. 104–1, title IV, § 408][/us/pl/104/1/s408], Jan. 23, 1995, [109 Stat. 37][/us/stat/109/37]; [Pub. L. 107–68, title I, § 119(a)][/us/pl/107/68/s119/a], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 408, Jan. 23, 1995, [109 Stat. 37][/us/stat/109/37]; [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 119(a), Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–68, title I, § 119(b)][/us/pl/107/68/s119/b], Nov. 12, 2001, [115 Stat. 574][/us/stat/115/574], provided that: 
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 119(b), Nov. 12, 2001, [115 Stat. 574][/us/stat/115/574], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to proceedings occurring on or after the date of the enactment of this Act \[Nov. 12, 2001\].”
 
@@ -70,15 +70,15 @@
 [/us/usc/t2/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1402
 [/us/usc/t2/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1403
 [/us/usc/t2/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1311
-[/us/pl/104/1/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs408
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F37
-[/us/pl/107/68/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs119%2Fa
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3
 [/us/usc/t2/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1301
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
-[/us/pl/107/68/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs119%2Fb
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F574
 
 

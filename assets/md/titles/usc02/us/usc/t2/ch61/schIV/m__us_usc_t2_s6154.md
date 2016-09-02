@@ -31,7 +31,7 @@
 
         This section shall apply to fiscal year 2008 and each fiscal year thereafter.
 
-([Pub. L. 110–161, div. H, title I, § 3][/us/pl/110/161/s3], Dec. 26, 2007, [121 Stat. 2221][/us/stat/121/2221].)
+([Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 3, Dec. 26, 2007, [121 Stat. 2221][/us/stat/121/2221].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/110/161/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs3
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2221
 [/us/usc/t2/s61g–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%936b
 

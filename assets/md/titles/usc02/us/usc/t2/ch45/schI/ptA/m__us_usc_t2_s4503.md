@@ -67,7 +67,7 @@
 
         No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of that House or to testimony by an employee of that House concerning activities related to his employment.
 
-([Pub. L. 91–563, § 6][/us/pl/91/563/s6], Dec. 19, 1970, [84 Stat. 1478][/us/stat/84/1478]; [Pub. L. 94–310, § 2][/us/pl/94/310/s2], June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 104–186, title II, § 204(74)][/us/pl/104/186/s204/74], (75), Aug. 20, 1996, [110 Stat. 1741][/us/stat/110/1741].)
+([Pub. L. 91–563][/us/pl/91/563], § 6, Dec. 19, 1970, [84 Stat. 1478][/us/stat/84/1478]; [Pub. L. 94–310][/us/pl/94/310], § 2, June 15, 1976, [90 Stat. 687][/us/stat/90/687]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(74), (75), Aug. 20, 1996, [110 Stat. 1741][/us/stat/110/1741].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–186, § 204(74)][/us/pl/104/186/s204/74], substituted “Chief Administrative Officer” for “Clerk”.
+    1996—Subsec. (a)(1). [Pub. L. 104–186][/us/pl/104/186], § 204(74), substituted “Chief Administrative Officer” for “Clerk”.
 
-    Subsec. (f). [Pub. L. 104–186, § 204(75)][/us/pl/104/186/s204/75], substituted “House Oversight” for “House Administration”.
+    Subsec. (f). [Pub. L. 104–186][/us/pl/104/186], § 204(75), substituted “House Oversight” for “House Administration”.
 
     1976—Subsec. (b)(2). [Pub. L. 94–310][/us/pl/94/310] substituted “other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–310, § 4][/us/pl/94/310/s4], June 15, 1976, [90 Stat. 687][/us/stat/90/687], provided that: 
+[Pub. L. 94–310][/us/pl/94/310], § 4, June 15, 1976, [90 Stat. 687][/us/stat/90/687], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1976, or on the date of the enactment of this Act \[June 15, 1976\], whichever date is later.”
 
@@ -101,7 +101,7 @@
 
  __Termination of United States District Court for the District of the Canal Zone__ 
 
-    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of [Pub. L. 96–70, title II][/us/pl/96/70], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+    For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of [Pub. L. 96–70, title II][/us/pl/96/70/tII], Sept. 27, 1979, [93 Stat. 493][/us/stat/93/493], formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 ----------
 
@@ -111,21 +111,21 @@
 ----------
 
 [/us/usc/t28/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs451
-[/us/pl/91/563/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563%2Fs6
+[/us/pl/91/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F563
 [/us/stat/84/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1478
-[/us/pl/94/310/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs2
+[/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/stat/90/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F687
-[/us/pl/104/186/s204/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F74
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1741
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t2/s130b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130b
-[/us/pl/104/186/s204/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F74
-[/us/pl/104/186/s204/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F75
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
-[/us/pl/94/310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310%2Fs4
+[/us/pl/94/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F310
 [/us/stat/90/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F687
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
+[/us/pl/96/70/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2FtII
 [/us/stat/93/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F493
 
 

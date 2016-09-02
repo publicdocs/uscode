@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was classified to section 163a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 163a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is from the Sundry Civil Appropriation Act July 7, 1884, fiscal year 1885.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1884-07-07/ch332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-07%2Fch332
 [/us/stat/23/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F209
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

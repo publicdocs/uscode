@@ -31,11 +31,11 @@
 
         This section shall be effective on and after October 1, 1996.
 
-([Pub. L. 104–197, title I, § 6][/us/pl/104/197/s6], Sept. 16, 1996, [110 Stat. 2397][/us/stat/110/2397].)
+([Pub. L. 104–197, title I][/us/pl/104/197/tI], § 6, Sept. 16, 1996, [110 Stat. 2397][/us/stat/110/2397].)
 
  __Codification__ 
 
-    Section was classified to section 214e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 214e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t31/s1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1345
-[/us/pl/104/197/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs6
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2397
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

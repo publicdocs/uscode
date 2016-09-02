@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    Section was classified to section 187 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 187 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
-    R.S. § 1814 derived from [act July 2, 1864, ch. 210, § 2][/us/act/1864-07-02/ch210/s2], [13 Stat. 347][/us/stat/13/347].
+    R.S. § 1814 derived from [act July 2, 1864, ch. 210][/us/act/1864-07-02/ch210], § 2, [13 Stat. 347][/us/stat/13/347].
 
     Section 2 of act July 2, 1864, gave the supervision and direction of the National Statuary Hall to the Commissioner of Public Buildings.
 
@@ -40,9 +40,9 @@
 
 [/us/act/1876-08-15/ch287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-08-15%2Fch287
 [/us/stat/19/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F147
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/act/1864-07-02/ch210/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch210%2Fs2
+[/us/act/1864-07-02/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-07-02%2Fch210
 [/us/stat/13/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F347
 [/us/usc/t2/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1801
 

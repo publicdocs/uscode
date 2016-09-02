@@ -17,7 +17,7 @@
 
     If the Committee on Ethics of the Senate determines that there is a reasonable basis to believe that a Member, officer, or employee of the Senate may have committed an ethics violation, the committee may request the Office of Special Investigations of the Government Accountability Office to conduct factfinding and an investigation into the matter. The Office of Special Investigations shall promptly investigate the matter as directed by the committee.
 
-([Pub. L. 101–194, title V, § 501][/us/pl/101/194/s501], Nov. 30, 1989, [103 Stat. 1753][/us/stat/103/1753]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 101–194, title V][/us/pl/101/194/tV], § 501, Nov. 30, 1989, [103 Stat. 1753][/us/stat/103/1753]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/194/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs501
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1753
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t2/s72a–1g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931g
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

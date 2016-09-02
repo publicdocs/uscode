@@ -51,7 +51,7 @@
 
         The Center shall be located at or near Starkville, Mississippi, the location of Mississippi State University.
 
-([Pub. L. 100–458, title I, § 114][/us/pl/100/458/s114], Oct. 1, 1988, [102 Stat. 2173][/us/stat/102/2173].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 114, Oct. 1, 1988, [102 Stat. 2173][/us/stat/102/2173].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/100/458/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs114
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2173
 
 

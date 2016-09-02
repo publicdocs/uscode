@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    Section 50 of the Revised Statutes, referred to in text, was classified to [section 38 of this title][/us/usc/t2/s38] and was repealed by [Pub. L. 104–186, title II, § 203(4)][/us/pl/104/186/s203/4], Aug. 20, 1996, [110 Stat. 1725][/us/stat/110/1725]. See [section 5305 of this title][/us/usc/t2/s5305].
+    Section 50 of the Revised Statutes, referred to in text, was classified to [section 38 of this title][/us/usc/t2/s38] and was repealed by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(4), Aug. 20, 1996, [110 Stat. 1725][/us/stat/110/1725]. See [section 5305 of this title][/us/usc/t2/s5305].
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1505
 [/us/usc/t2/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs38
-[/us/pl/104/186/s203/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F4
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1725
 [/us/usc/t2/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5305
 [/us/usc/t2/s36a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs36a

@@ -63,7 +63,7 @@
 
         (2) the Senate to hold any individual or entity in contempt of the Senate.
 
-([Pub. L. 95–521, title VII, § 705][/us/pl/95/521/s705], Oct. 26, 1978, [92 Stat. 1878][/us/stat/92/1878]; [Pub. L. 99–336, § 6(a)(2)][/us/pl/99/336/s6/a/2], June 19, 1986, [100 Stat. 639][/us/stat/100/639].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 705, Oct. 26, 1978, [92 Stat. 1878][/us/stat/92/1878]; [Pub. L. 99–336][/us/pl/99/336], § 6(a)(2), June 19, 1986, [100 Stat. 639][/us/stat/100/639].)
 
  __Codification__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t2/s288b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288b%2Fb
 [/us/usc/t28/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1365
 [/us/usc/t2/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs194
-[/us/pl/95/521/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs705
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1878
-[/us/pl/99/336/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336%2Fs6%2Fa%2F2
+[/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/stat/100/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F639
 [/us/pl/99/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F336
 [/us/usc/t28/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1365

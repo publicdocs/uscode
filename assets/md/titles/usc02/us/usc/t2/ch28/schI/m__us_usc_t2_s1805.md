@@ -79,7 +79,7 @@
 
         As of October 1, 2006, the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.
 
-([Pub. L. 108–7, div. H, title I, § 1203][/us/pl/108/7/s1203], Feb. 20, 2003, [117 Stat. 373][/us/stat/117/373]; [Pub. L. 108–11, title II, § 2601(a)][/us/pl/108/11/s2601/a], Apr. 16, 2003, [117 Stat. 599][/us/stat/117/599]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–316, § 1(b)][/us/pl/111/316/s1/b], Dec. 18, 2010, [124 Stat. 3452][/us/stat/124/3452].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1203, Feb. 20, 2003, [117 Stat. 373][/us/stat/117/373]; [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2601(a), Apr. 16, 2003, [117 Stat. 599][/us/stat/117/599]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–316][/us/pl/111/316], § 1(b), Dec. 18, 2010, [124 Stat. 3452][/us/stat/124/3452].)
 
  __Codification__ 
 
@@ -95,15 +95,15 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–316, § 1(c)][/us/pl/111/316/s1/c], Dec. 18, 2010, [124 Stat. 3452][/us/stat/124/3452], provided that: 
+[Pub. L. 111–316][/us/pl/111/316], § 1(c), Dec. 18, 2010, [124 Stat. 3452][/us/stat/124/3452], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1849 of this title][/us/usc/t2/s1849]\] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act \[Dec. 18, 2010\].”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–11, title II, § 2601(b)][/us/pl/108/11/s2601/b], Apr. 16, 2003, [117 Stat. 599][/us/stat/117/599], provided that: 
+[Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2601(b), Apr. 16, 2003, [117 Stat. 599][/us/stat/117/599], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[[Pub. L. 108–7, div. H][/us/pl/108/7]\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[[Pub. L. 108–7, div. H][/us/pl/108/7/dH]\].”
 
 ----------
 
@@ -112,24 +112,24 @@
 ----------
 ----------
 
-[/us/pl/108/7/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1203
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F373
-[/us/pl/108/11/s2601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs2601%2Fa
+[/us/pl/108/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtII
 [/us/stat/117/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F599
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/111/316/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F316%2Fs1%2Fb
+[/us/pl/111/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F316
 [/us/stat/124/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3452
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/111/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F316
 [/us/usc/t2/s1849/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849%2Fa
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
-[/us/pl/111/316/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F316%2Fs1%2Fc
+[/us/pl/111/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F316
 [/us/stat/124/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3452
 [/us/usc/t2/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849
-[/us/pl/108/11/s2601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs2601%2Fb
+[/us/pl/108/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtII
 [/us/stat/117/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F599
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH
 
 

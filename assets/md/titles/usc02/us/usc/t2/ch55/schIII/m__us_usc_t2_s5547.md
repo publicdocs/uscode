@@ -19,7 +19,7 @@
 
     (b) Nothing in this section may be construed to affect any other authority of the Chief Administrative Officer to incur obligations and make expenditures for the items and services described in subsection (a) for Members, officers, and employees of the House of Representatives.
 
-([Pub. L. 108–7, div. H, title I, § 107][/us/pl/108/7/s107], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 107, Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs107
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F355
 [/us/usc/t2/s130k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130k
 

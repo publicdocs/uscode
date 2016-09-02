@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 100–458, title I, § 120][/us/pl/100/458/s120], Oct. 1, 1988, [102 Stat. 2176][/us/stat/102/2176].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 120, Oct. 1, 1988, [102 Stat. 2176][/us/stat/102/2176].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/458/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs120
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2176
 
 

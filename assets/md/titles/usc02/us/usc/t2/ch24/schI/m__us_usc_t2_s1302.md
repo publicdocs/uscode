@@ -61,7 +61,7 @@
 
             On the objection of any Member, it shall not be in order for the Senate or the House of Representatives to consider any such bill or joint resolution if the report of the committee on such bill or joint resolution does not comply with the provisions of this paragraph. This paragraph may be waived in either House by majority vote of that House.
 
-([Pub. L. 104–1, title I, § 102][/us/pl/104/1/s102], Jan. 23, 1995, [109 Stat. 5][/us/stat/109/5].)
+([Pub. L. 104–1, title I][/us/pl/104/1/tI], § 102, Jan. 23, 1995, [109 Stat. 5][/us/stat/109/5].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 [/us/usc/t29/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2001
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/104/1/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs102
+[/us/pl/104/1/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtI
 [/us/stat/109/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F5
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

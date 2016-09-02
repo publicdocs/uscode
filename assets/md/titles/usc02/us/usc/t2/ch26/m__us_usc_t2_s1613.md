@@ -23,11 +23,11 @@
 
         The persons subject to the prohibition under subsection (a) are any lobbyist that is registered or is required to register under [section 1603(a)(1) of this title][/us/usc/t2/s1603/a/1], any organization that employs 1 or more lobbyists and is registered or is required to register under [section 1603(a)(2) of this title][/us/usc/t2/s1603/a/2], and any employee listed or required to be listed as a lobbyist by a registrant under section 1603(b)(6) or 1604(b)(2)(C) of this title.
 
-([Pub. L. 104–65, § 25][/us/pl/104/65/s25], as added [Pub. L. 110–81, title II, § 206(a)][/us/pl/110/81/s206/a], Sept. 14, 2007, [121 Stat. 747][/us/stat/121/747].)
+([Pub. L. 104–65][/us/pl/104/65], § 25, as added [Pub. L. 110–81, title II][/us/pl/110/81/tII], § 206(a), Sept. 14, 2007, [121 Stat. 747][/us/stat/121/747].)
 
  __Effective Date__ 
 
-[Pub. L. 110–81, title II, § 206(b)][/us/pl/110/81/s206/b], Sept. 14, 2007, [121 Stat. 747][/us/stat/121/747], provided that: 
+[Pub. L. 110–81, title II][/us/pl/110/81/tII], § 206(b), Sept. 14, 2007, [121 Stat. 747][/us/stat/121/747], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 14, 2007\].”
 
@@ -40,10 +40,10 @@
 
 [/us/usc/t2/s1603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fa%2F1
 [/us/usc/t2/s1603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fa%2F2
-[/us/pl/104/65/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs25
-[/us/pl/110/81/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs206%2Fa
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F747
-[/us/pl/110/81/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs206%2Fb
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F747
 
 

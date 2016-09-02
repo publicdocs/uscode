@@ -31,7 +31,7 @@
 
         As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-([Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 636][/us/stat/85/636]; [Pub. L. 104–186, title I, § 102][/us/pl/104/186/s102], Aug. 20, 1996, [110 Stat. 1719][/us/stat/110/1719]; [Pub. L. 106–57, title I, § 103(a)(4)(A)][/us/pl/106/57/s103/a/4/A], Sept. 29, 1999, [113 Stat. 415][/us/stat/113/415].)
+([Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 636][/us/stat/85/636]; [Pub. L. 104–186, title I][/us/pl/104/186/tI], § 102, Aug. 20, 1996, [110 Stat. 1719][/us/stat/110/1719]; [Pub. L. 106–57, title I][/us/pl/106/57/tI], § 103(a)(4)(A), Sept. 29, 1999, [113 Stat. 415][/us/stat/113/415].)
 
  __Codification__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–57, title I, § 103(c)][/us/pl/106/57/s103/c], Sept. 29, 1999, [113 Stat. 416][/us/stat/113/416], provided that: 
+[Pub. L. 106–57, title I][/us/pl/106/57/tI], § 103(c), Sept. 29, 1999, [113 Stat. 416][/us/stat/113/416], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 503 and 5321 of this title\] shall apply with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress.”
 
  __Clerk Hire Allowance; Increase__ 
 
-    [Pub. L. 101–520, title I, § 104][/us/pl/101/520/s104], Nov. 5, 1990, [104 Stat. 2262][/us/stat/104/2262], effective for 102d Congress, increased authorization for the Clerk Hire Allowance by $50,000.
+    [Pub. L. 101–520, title I][/us/pl/101/520/tI], § 104, Nov. 5, 1990, [104 Stat. 2262][/us/stat/104/2262], effective for 102d Congress, increased authorization for the Clerk Hire Allowance by $50,000.
 
 ----------
 
@@ -71,17 +71,17 @@
 [/us/usc/t2/s4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4314
 [/us/pl/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F184
 [/us/stat/85/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F636
-[/us/pl/104/186/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs102
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1719
-[/us/pl/106/57/s103/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs103%2Fa%2F4%2FA
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F415
 [/us/usc/t2/s57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs57
 [/us/pl/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F184
 [/us/pl/106/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/106/57/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs103%2Fc
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F416
-[/us/pl/101/520/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs104
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2262
 
 

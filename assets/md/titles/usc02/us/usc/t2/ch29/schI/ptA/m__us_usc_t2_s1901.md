@@ -17,31 +17,31 @@
 
     There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
 
-(R.S. § 1821; [Apr. 28, 1902, ch. 594][/us/act/1902-04-28/ch594], [32 Stat. 124][/us/stat/32/124]; [June 28, 1943, ch. 173][/us/act/1943-06-28/ch173], title I, [57 Stat. 230][/us/stat/57/230]; [Pub. L. 96–152, § 1(a)][/us/pl/96/152/s1/a], Dec. 20, 1979, [93 Stat. 1099][/us/stat/93/1099]; [Pub. L. 108–7, div. H, title I, § 1018(h)(1)][/us/pl/108/7/s1018/h/1], Feb. 20, 2003, [117 Stat. 368][/us/stat/117/368]; [Pub. L. 111–145, § 6(e)(1)][/us/pl/111/145/s6/e/1]–(3), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54], 55.)
+(R.S. § 1821; [Apr. 28, 1902, ch. 594][/us/act/1902-04-28/ch594], [32 Stat. 124][/us/stat/32/124]; [June 28, 1943, ch. 173][/us/act/1943-06-28/ch173], title I, [57 Stat. 230][/us/stat/57/230]; [Pub. L. 96–152][/us/pl/96/152], § 1(a), Dec. 20, 1979, [93 Stat. 1099][/us/stat/93/1099]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1018(h)(1), Feb. 20, 2003, [117 Stat. 368][/us/stat/117/368]; [Pub. L. 111–145][/us/pl/111/145], § 6(e)(1)–(3), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54], 55.)
 
  __Codification__ 
 
-    Section was classified to section 206 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 206 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
-    Section was a composite of provisions of R.S. § 1821, act Apr. 28, 1902, and act June 28, 1943, cited in the credits. Provisions from act Apr. 28, 1902, and act June 28, 1943, were repealed by [Pub. L. 111–145, § 6(e)(1)][/us/pl/111/145/s6/e/1].
+    Section was a composite of provisions of R.S. § 1821, act Apr. 28, 1902, and act June 28, 1943, cited in the credits. Provisions from act Apr. 28, 1902, and act June 28, 1943, were repealed by [Pub. L. 111–145][/us/pl/111/145], § 6(e)(1).
 
-    R.S. § 1821 derived from acts [Mar. 2, 1867, ch. 167, § 2][/us/act/1867-03-02/ch167/s2], [14 Stat. 466][/us/stat/14/466]; [Mar. 3, 1873, ch. 226][/us/act/1873-03-03/ch226], [17 Stat. 488][/us/stat/17/488].
+    R.S. § 1821 derived from acts [Mar. 2, 1867, ch. 167][/us/act/1867-03-02/ch167], § 2, [14 Stat. 466][/us/stat/14/466]; [Mar. 3, 1873, ch. 226][/us/act/1873-03-03/ch226], [17 Stat. 488][/us/stat/17/488].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–145, § 6(e)(3)][/us/pl/111/145/s6/e/3], amended first sentence of R.S. § 1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
+    2010—[Pub. L. 111–145][/us/pl/111/145], § 6(e)(3), amended first sentence of R.S. § 1821 by striking “, the members of which shall be appointed by the Sergeants-at-Arms of the two Houses and the Architect of the Capitol Extension” after “There shall be a Capitol police”.
 
-    [Pub. L. 111–145, § 6(e)(2)][/us/pl/111/145/s6/e/2], repealed [Pub. L. 108–7, § 1018(h)(1)][/us/pl/108/7/s1018/h/1], and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
+    [Pub. L. 111–145][/us/pl/111/145], § 6(e)(2), repealed [Pub. L. 108–7][/us/pl/108/7], § 1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
 
-    [Pub. L. 111–145, § 6(e)(1)][/us/pl/111/145/s6/e/1], struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
+    [Pub. L. 111–145][/us/pl/111/145], § 6(e)(1), struck out “The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives.” after “from year to year.”
 
-    2003—[Pub. L. 108–7, § 1018(h)(1)][/us/pl/108/7/s1018/h/1], which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by [Pub. L. 111–145, § 6(e)(2)][/us/pl/111/145/s6/e/2].
+    2003—[Pub. L. 108–7][/us/pl/108/7], § 1018(h)(1), which struck out last sentence which read “The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.”, was repealed by [Pub. L. 111–145][/us/pl/111/145], § 6(e)(2).
 
     1979—[Pub. L. 96–152][/us/pl/96/152] inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 6(d)][/us/pl/111/145/s6/d], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54], provided that:
+[Pub. L. 111–145][/us/pl/111/145], § 6(d), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54], provided that:
 
 >     “(1)  __Repeal of duplicate provisions__  __.—__ 
 
@@ -51,9 +51,9 @@
 
 >     Nothing in paragraph (1) may be construed to prevent the enactment or implementation of any provision of the U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007 ([Public Law 110–178][/us/pl/110/178]) \[see Tables for classification\], including any provision of such Act that amends or repeals a provision of law which is restored or revived pursuant to paragraph (1).”
 
-[Pub. L. 111–145, § 6(e)(4)][/us/pl/111/145/s6/e/4], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 6(e)(4), Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55], provided that: 
 
-> “The amendments made by this subsection \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[[Pub. L. 108–7, div. H][/us/pl/108/7]\].”
+> “The amendments made by this subsection \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 \[[Pub. L. 108–7, div. H][/us/pl/108/7/dH]\].”
 
  __Effective Date of 2003 Amendment__ 
 
@@ -61,29 +61,29 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–152, § 7][/us/pl/96/152/s7], Dec. 20, 1979, [93 Stat. 1100][/us/stat/93/1100], provided that: 
+[Pub. L. 96–152][/us/pl/96/152], § 7, Dec. 20, 1979, [93 Stat. 1100][/us/stat/93/1100], provided that: 
 
 > “This Act \[enacting [section 1902 of this title][/us/usc/t2/s1902] and amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[Dec. 1979\].”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 1][/us/pl/111/145/s1], Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 1, Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘United States Capitol Police Administrative Technical Corrections Act of 2009’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–178, § 1][/us/pl/110/178/s1], Jan. 7, 2008, [121 Stat. 2546][/us/stat/121/2546], provided that: 
+[Pub. L. 110–178][/us/pl/110/178], § 1, Jan. 7, 2008, [121 Stat. 2546][/us/stat/121/2546], provided that: 
 
 > “This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.”
 
  __Short Title of 2007 Amendment__ 
 
-    [Pub. L. 110–161, div. H, title I, § 1004(a)][/us/pl/110/161/s1004/a], Dec. 26, 2007, [121 Stat. 2227][/us/stat/121/2227], which provided that [section 1004 of Pub. L. 110–161][/us/pl/110/161/s1004] could be cited as the “U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007”, was repealed by [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54]. For identical short title, see above.
+    [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(a), Dec. 26, 2007, [121 Stat. 2227][/us/stat/121/2227], which provided that [section 1004 of Pub. L. 110–161][/us/pl/110/161/s1004] could be cited as the “U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007”, was repealed by [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54]. For identical short title, see above.
 
  __Capitol Police Board__ 
 
-[Pub. L. 108–7, div. H, title I, § 1014][/us/pl/108/7/s1014], Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361], provided that:
+[Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1014, Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361], provided that:
 
 >     “(a) __Capitol Police Board; Composition; Redefining Mission.—__ 
 
@@ -343,15 +343,15 @@
 
 >     “(4) the term ‘transition period’ means the period the first day of which is the date of the enactment of this Act \[Jan. 7, 2008\] and the final day of which is September 30, 2009.”
 
-    Similar provisions were contained in [Pub. L. 110–161, div. H, title I, § 1004(b)][/us/pl/110/161/s1004/b], (c), (h), Dec. 26, 2007, [121 Stat. 2227][/us/stat/121/2227], 2231, 2236, prior to repeal by [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].
+    Similar provisions were contained in [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(b), (c), (h), Dec. 26, 2007, [121 Stat. 2227][/us/stat/121/2227], 2231, 2236, prior to repeal by [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].
 
-    [Pub. L. 108–83, title I, § 1006][/us/pl/108/83/s1006], Sept. 30, 2003, [117 Stat. 1023][/us/stat/117/1023], as amended by [Pub. L. 108–447, div. G, title I, § 1002][/us/pl/108/447/s1002], Dec. 8, 2004, [118 Stat. 3179][/us/stat/118/3179]; [Pub. L. 109–55, title I, § 1006(a)][/us/pl/109/55/s1006/a], Aug. 2, 2005, [119 Stat. 576][/us/stat/119/576], related to the effective and efficient transfer of Library of Congress Police to Capitol Police under [section 1015 of Pub. L. 108–7][/us/pl/108/7/s1015], prior to repeal by [Pub. L. 110–161, div. H, title I, § 1004(g)][/us/pl/110/161/s1004/g], Dec. 26, 2007, [121 Stat. 2236][/us/stat/121/2236], and [Pub. L. 110–178, § 7][/us/pl/110/178/s7], Jan. 7, 2008, [121 Stat. 2554][/us/stat/121/2554], effective Oct. 1, 2009. [Pub. L. 110–161, § 1004][/us/pl/110/161/s1004], was repealed by [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].
+    [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1006, Sept. 30, 2003, [117 Stat. 1023][/us/stat/117/1023], as amended by [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1002, Dec. 8, 2004, [118 Stat. 3179][/us/stat/118/3179]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1006(a), Aug. 2, 2005, [119 Stat. 576][/us/stat/119/576], related to the effective and efficient transfer of Library of Congress Police to Capitol Police under [section 1015 of Pub. L. 108–7][/us/pl/108/7/s1015], prior to repeal by [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(g), Dec. 26, 2007, [121 Stat. 2236][/us/stat/121/2236], and [Pub. L. 110–178][/us/pl/110/178], § 7, Jan. 7, 2008, [121 Stat. 2554][/us/stat/121/2554], effective Oct. 1, 2009. [Pub. L. 110–161][/us/pl/110/161], § 1004, was repealed by [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].
 
-    [Pub. L. 108–7, div. H, title I, § 1015][/us/pl/108/7/s1015], Feb. 20, 2003, [117 Stat. 362][/us/stat/117/362], related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by [Pub. L. 110–161, div. H, title I, § 1004(g)][/us/pl/110/161/s1004/g], Dec. 26, 2007, [121 Stat. 2236][/us/stat/121/2236], and [Pub. L. 110–178, § 7][/us/pl/110/178/s7], Jan. 7, 2008, [121 Stat. 2554][/us/stat/121/2554], effective Oct. 1, 2009. [Pub. L. 110–161, § 1004][/us/pl/110/161/s1004], was repealed by [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].
+    [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1015, Feb. 20, 2003, [117 Stat. 362][/us/stat/117/362], related to the transfer of Library of Congress Police to the United States Capitol Police, prior to repeal by [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(g), Dec. 26, 2007, [121 Stat. 2236][/us/stat/121/2236], and [Pub. L. 110–178][/us/pl/110/178], § 7, Jan. 7, 2008, [121 Stat. 2554][/us/stat/121/2554], effective Oct. 1, 2009. [Pub. L. 110–161][/us/pl/110/161], § 1004, was repealed by [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].
 
  __Long Term Strategic Plan__ 
 
-[Pub. L. 108–7, div. H, title I, § 1019][/us/pl/108/7/s1019], Feb. 20, 2003, [117 Stat. 369][/us/stat/117/369], provided that:
+[Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1019, Feb. 20, 2003, [117 Stat. 369][/us/stat/117/369], provided that:
 
 >     “(a) __Long Term Strategic Plan.—__ 
 
@@ -387,7 +387,7 @@
 
  __Compensation of Assistant Chief of Capitol Police__ 
 
-[Pub. L. 107–117, div. B, § 907(b)][/us/pl/107/117/s907/b], Jan. 10, 2002, [115 Stat. 2319][/us/stat/115/2319], as amended by [Pub. L. 108–7, div. H, title I, § 1013(b)][/us/pl/108/7/s1013/b], Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361], provided that: 
+[Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 907(b), Jan. 10, 2002, [115 Stat. 2319][/us/stat/115/2319], as amended by [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1013(b), Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361], provided that: 
 
 > “The annual rate of pay for the Assistant Chief of the Capitol Police shall be the amount equal to $1,000 less than the annual rate of pay in effect for the Chief of the Capitol Police.”
 
@@ -439,15 +439,15 @@ Similar provisions as to the selection of privates were contained in the followi
 
  __Capitol Police Civilian Support Positions With Respect to the House of Representatives__ 
 
-    House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law [Pub. L. 102–392, title I, § 102][/us/pl/102/392/s102], Oct. 6, 1992, [106 Stat. 1710][/us/stat/106/1710], and amended by [Pub. L. 104–186, title II, § 221(9)(B)][/us/pl/104/186/s221/9/B], Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749], authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+    House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law [Pub. L. 102–392, title I][/us/pl/102/392/tI], § 102, Oct. 6, 1992, [106 Stat. 1710][/us/stat/106/1710], and amended by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(9)(B), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749], authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
  __Director of Employment Practices Under Capitol Police Board__ 
 
-    House Resolution No. 420, One Hundred First Congress, June 26, 1990, made permanent law [Pub. L. 101–520, title I, § 105][/us/pl/101/520/s105], Nov. 5, 1990, [104 Stat. 2262][/us/stat/104/2262], and amended by [Pub. L. 104–186, title II, § 221(9)(C)][/us/pl/104/186/s221/9/C], Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749], established the position of Director of Employment Practices with respect to members of the Capitol Police, at the appropriate rate of pay under level HS–11 of the House Employees Schedule, with payment from amounts appropriated for the Capitol Police, such appointment to be made by the Capitol Police Board, subject to prior approval of the Committee on House Oversight \[now Committee on House Administration\], without regard to political affiliation and solely on basis of fitness to perform functions of the position.
+    House Resolution No. 420, One Hundred First Congress, June 26, 1990, made permanent law [Pub. L. 101–520, title I][/us/pl/101/520/tI], § 105, Nov. 5, 1990, [104 Stat. 2262][/us/stat/104/2262], and amended by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(9)(C), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749], established the position of Director of Employment Practices with respect to members of the Capitol Police, at the appropriate rate of pay under level HS–11 of the House Employees Schedule, with payment from amounts appropriated for the Capitol Police, such appointment to be made by the Capitol Police Board, subject to prior approval of the Committee on House Oversight \[now Committee on House Administration\], without regard to political affiliation and solely on basis of fitness to perform functions of the position.
 
  __General Counsel to Chief of Capitol Police__ 
 
-    House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law [Pub. L. 95–391, title I, § 111][/us/pl/95/391/s111], Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777], and amended by [Pub. L. 104–186, title II, § 221(9)(A)][/us/pl/104/186/s221/9/A], Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749], which established the position of General Counsel to the Chief of the Capitol Police, the appropriate rate of compensation, and method of appointment, was repealed by [Pub. L. 111–145, § 3(a)(4)][/us/pl/111/145/s3/a/4], Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52].
+    House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law [Pub. L. 95–391, title I][/us/pl/95/391/tI], § 111, Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777], and amended by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(9)(A), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749], which established the position of General Counsel to the Chief of the Capitol Police, the appropriate rate of compensation, and method of appointment, was repealed by [Pub. L. 111–145][/us/pl/111/145], § 3(a)(4), Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52].
 
 ----------
 
@@ -460,48 +460,48 @@ Similar provisions as to the selection of privates were contained in the followi
 [/us/stat/32/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F124
 [/us/act/1943-06-28/ch173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-28%2Fch173
 [/us/stat/57/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F230
-[/us/pl/96/152/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F152%2Fs1%2Fa
+[/us/pl/96/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F152
 [/us/stat/93/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1099
-[/us/pl/108/7/s1018/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018%2Fh%2F1
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F368
-[/us/pl/111/145/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/111/145/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F1
-[/us/act/1867-03-02/ch167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch167%2Fs2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/act/1867-03-02/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch167
 [/us/stat/14/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F466
 [/us/act/1873-03-03/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1873-03-03%2Fch226
 [/us/stat/17/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F488
-[/us/pl/111/145/s6/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F3
-[/us/pl/111/145/s6/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F2
-[/us/pl/108/7/s1018/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018%2Fh%2F1
-[/us/pl/111/145/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F1
-[/us/pl/108/7/s1018/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018%2Fh%2F1
-[/us/pl/111/145/s6/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/96/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F152
-[/us/pl/111/145/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
-[/us/pl/111/145/s6/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fe%2F4
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F55
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t2/s1907/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907%2Fi
-[/us/pl/96/152/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F152%2Fs7
+[/us/pl/96/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F152
 [/us/stat/93/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1100
 [/us/usc/t2/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1902
-[/us/pl/111/145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F49
-[/us/pl/110/178/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs1
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2546
-[/us/pl/110/161/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fa
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2227
 [/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
-[/us/pl/108/7/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1014
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F361
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2546
@@ -511,38 +511,38 @@ Similar provisions as to the selection of privates were contained in the followi
 [/us/usc/t2/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1301
 [/us/usc/t2/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167
 [/us/usc/t2/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167
-[/us/pl/110/161/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fb
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2227
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
-[/us/pl/108/83/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1006
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1023
-[/us/pl/108/447/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1002
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3179
-[/us/pl/109/55/s1006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1006%2Fa
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F576
 [/us/pl/108/7/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1015
-[/us/pl/110/161/s1004/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fg
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2236
-[/us/pl/110/178/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs7
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2554
-[/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
-[/us/pl/108/7/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1015
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F362
-[/us/pl/110/161/s1004/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fg
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2236
-[/us/pl/110/178/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs7
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2554
-[/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
-[/us/pl/108/7/s1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1019
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F369
-[/us/pl/107/117/s907/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs907%2Fb
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2319
-[/us/pl/108/7/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1013%2Fb
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F361
 [/us/act/1942-06-08/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-08%2Fch396
 [/us/stat/56/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F340
@@ -586,19 +586,19 @@ Similar provisions as to the selection of privates were contained in the followi
 [/us/stat/42/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1272
 [/us/act/1922-03-20/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-03-20%2Fch103
 [/us/stat/42/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F429
-[/us/pl/102/392/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs102
+[/us/pl/102/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtI
 [/us/stat/106/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1710
-[/us/pl/104/186/s221/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F9%2FB
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1749
-[/us/pl/101/520/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs105
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2262
-[/us/pl/104/186/s221/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F9%2FC
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1749
-[/us/pl/95/391/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs111
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F777
-[/us/pl/104/186/s221/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F9%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1749
-[/us/pl/111/145/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3%2Fa%2F4
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F52
 
 

@@ -51,7 +51,7 @@
 
         Payments under this section may be made with respect to separations from employment taking place after June 30, 1995.
 
-([Pub. L. 104–53, title I, § 109][/us/pl/104/53/s109], Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522]; [Pub. L. 105–55, title I, § 103(a)][/us/pl/105/55/s103/a], Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
+([Pub. L. 104–53, title I][/us/pl/104/53/tI], § 109, Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522]; [Pub. L. 105–55, title I][/us/pl/105/55/tI], § 103(a), Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
 
  __Codification__ 
 
@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–55, § 103(a)(1)][/us/pl/105/55/s103/a/1], (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
+    1997—Subsec. (a). [Pub. L. 105–55][/us/pl/105/55], § 103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
 
-    Subsec. (a)(1)(B). [Pub. L. 105–55, § 103(a)(3)][/us/pl/105/55/s103/a/3], substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
+    Subsec. (a)(1)(B). [Pub. L. 105–55][/us/pl/105/55], § 103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
 
  __Change of Name__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–55, title I, § 103(b)][/us/pl/105/55/s103/b], Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183], provided that: 
+[Pub. L. 105–55, title I][/us/pl/105/55/tI], § 103(b), Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning on or after October 1, 1997.”
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/104/53/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs109
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F522
-[/us/pl/105/55/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs103%2Fa
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1183
-[/us/pl/105/55/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs103%2Fa%2F1
-[/us/pl/105/55/s103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs103%2Fa%2F3
-[/us/pl/105/55/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs103%2Fb
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1183
 
 

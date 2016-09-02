@@ -39,7 +39,7 @@
 
         Nothing in this section or the amendments made by this section may be construed to affect the status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010.
 
-([Pub. L. 111–145, § 3(a)][/us/pl/111/145/s3/a], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
+([Pub. L. 111–145][/us/pl/111/145], § 3(a), Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t2/s1907/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907%2Fe%2F1
-[/us/pl/111/145/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3%2Fa
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
 [/us/pl/111/145/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F4
 [/us/pl/111/145/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3

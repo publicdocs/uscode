@@ -21,7 +21,7 @@
 
  __Reduction in Number of Employee Positions; Reports__ 
 
-    [Pub. L. 103–69, title III, § 307][/us/pl/103/69/s307], Aug. 11, 1993, [107 Stat. 710][/us/stat/107/710], as amended by [Pub. L. 103–283, title III, § 305][/us/pl/103/283/s305], July 22, 1994, [108 Stat. 1441][/us/stat/108/1441]; [Pub. L. 104–316, title I, § 102(a)][/us/pl/104/316/s102/a], Oct. 19, 1996, [110 Stat. 3827][/us/stat/110/3827], provided for reduction in number of employee positions on full-time equivalent basis, other than those supported by gift and trust funds, for each entity of legislative branch with more than 100 employee positions, on full-time equivalent basis, as of Sept. 30, 1992, by at least 4 percent from level as of such date, provided that such reduction was to be completed not later than Sept. 30, 1995, with at least 62.5 percent of reduction for each entity to be achieved by Sept. 30, 1994, and defined “entity of legislative branch”.
+    [Pub. L. 103–69, title III][/us/pl/103/69/tIII], § 307, Aug. 11, 1993, [107 Stat. 710][/us/stat/107/710], as amended by [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 305, July 22, 1994, [108 Stat. 1441][/us/stat/108/1441]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 102(a), Oct. 19, 1996, [110 Stat. 3827][/us/stat/110/3827], provided for reduction in number of employee positions on full-time equivalent basis, other than those supported by gift and trust funds, for each entity of legislative branch with more than 100 employee positions, on full-time equivalent basis, as of Sept. 30, 1992, by at least 4 percent from level as of such date, provided that such reduction was to be completed not later than Sept. 30, 1995, with at least 62.5 percent of reduction for each entity to be achieved by Sept. 30, 1994, and defined “entity of legislative branch”.
 
 ----------
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/usc/t2/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4101
-[/us/pl/103/69/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs307
+[/us/pl/103/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtIII
 [/us/stat/107/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F710
-[/us/pl/103/283/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs305
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1441
-[/us/pl/104/316/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs102%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3827
 
 

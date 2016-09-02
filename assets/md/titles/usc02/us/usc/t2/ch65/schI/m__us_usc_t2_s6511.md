@@ -17,7 +17,7 @@
 
     If at the close of any fiscal year there is an unexpended balance of funds which were appropriated for such year (or for prior fiscal years) and which are subject to disbursement by the Secretary of the Senate for any purpose, then, if such unexpended balance is by law rescinded, any unpaid obligations chargeable to the balance so rescinded (or to appropriations for such purpose for prior years) shall be liquidated from any appropriations for the same general purpose, which, at the time of payment, are available for disbursement.
 
-([Pub. L. 97–257, title I, § 106][/us/pl/97/257/s106], Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849].)
+([Pub. L. 97–257, title I][/us/pl/97/257/tI], § 106, Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/257/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs106
+[/us/pl/97/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2FtI
 [/us/stat/96/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F849
 [/us/usc/t2/s68d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68d
 

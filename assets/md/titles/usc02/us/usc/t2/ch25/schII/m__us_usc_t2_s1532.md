@@ -55,7 +55,7 @@
 
         Any agency may prepare any statement required under subsection (a) in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a).
 
-([Pub. L. 104–4, title II, § 202][/us/pl/104/4/s202], Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 202, Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t2/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1534
-[/us/pl/104/4/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs202
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F64
 
 

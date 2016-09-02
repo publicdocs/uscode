@@ -31,11 +31,11 @@
 
         (2) The United States District Court for the District of Columbia shall have the power to authorize the member of the Capitol Police referred to in subsection (a) of this section to take bond from persons arrested upon writs and process from that court in criminal cases in the same manner as provided for with respect to an official of the Metropolitan Police Department of the District of Columbia under the third sentence of section 23–1110(a) of the District of Columbia Code.
 
-([Pub. L. 104–186, title I, § 108][/us/pl/104/186/s108], Aug. 20, 1996, [110 Stat. 1723][/us/stat/110/1723].)
+([Pub. L. 104–186, title I][/us/pl/104/186/tI], § 108, Aug. 20, 1996, [110 Stat. 1723][/us/stat/110/1723].)
 
  __Codification__ 
 
-    Section was classified to section 212a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 212a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/104/186/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs108
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1723
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

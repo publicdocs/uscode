@@ -39,11 +39,11 @@
 
         As used in this section, the term “United States” means each of the several States of the United States, the District of Columbia, and territories and possessions of the United States.
 
-([July 31, 1946, ch. 707, § 9A][/us/act/1946-07-31/ch707/s9A], as added [Pub. L. 97–143, § 1(a)][/us/pl/97/143/s1/a], Dec. 29, 1981, [95 Stat. 1723][/us/stat/95/1723].)
+([July 31, 1946, ch. 707][/us/act/1946-07-31/ch707], § 9A, as added [Pub. L. 97–143][/us/pl/97/143], § 1(a), Dec. 29, 1981, [95 Stat. 1723][/us/stat/95/1723].)
 
  __Codification__ 
 
-    Section was classified to section 212a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 212a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -53,10 +53,10 @@
 ----------
 
 [/us/usc/t2/s4101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4101%2Fb
-[/us/act/1946-07-31/ch707/s9A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707%2Fs9A
-[/us/pl/97/143/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F143%2Fs1%2Fa
+[/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
+[/us/pl/97/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F143
 [/us/stat/95/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1723
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

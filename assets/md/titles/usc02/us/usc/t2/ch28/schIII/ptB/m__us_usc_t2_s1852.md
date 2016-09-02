@@ -61,11 +61,11 @@
 
         For the purposes of this section, “State” means any of the States of the United States.
 
-([Pub. L. 94–59, title V, § 501][/us/pl/94/59/s501], July 25, 1975, [89 Stat. 290][/us/stat/89/290].)
+([Pub. L. 94–59, title V][/us/pl/94/59/tV], § 501, July 25, 1975, [89 Stat. 290][/us/stat/89/290].)
 
  __Codification__ 
 
-    Section was classified to section 166b–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166b–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/94/59/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs501
+[/us/pl/94/59/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtV
 [/us/stat/89/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F290
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

@@ -39,11 +39,11 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 110–437, title II, § 202][/us/pl/110/437/s202], Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
+([Pub. L. 110–437, title II][/us/pl/110/437/tII], § 202, Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
 
  __References in Text__ 
 
-    [Section 1806 of this title][/us/usc/t2/s1806], referred to in subsec. (e)(1), was repealed by [Pub. L. 110–437, title II, § 202(e)(2)][/us/pl/110/437/s202/e/2], Oct. 20, 2008, [122 Stat. 4987][/us/stat/122/4987].
+    [Section 1806 of this title][/us/usc/t2/s1806], referred to in subsec. (e)(1), was repealed by [Pub. L. 110–437, title II][/us/pl/110/437/tII], § 202(e)(2), Oct. 20, 2008, [122 Stat. 4987][/us/stat/122/4987].
 
  __Codification__ 
 
@@ -57,10 +57,10 @@
 ----------
 
 [/us/usc/t2/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1806
-[/us/pl/110/437/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs202
+[/us/pl/110/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtII
 [/us/stat/122/4986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4986
 [/us/usc/t2/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1806
-[/us/pl/110/437/s202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs202%2Fe%2F2
+[/us/pl/110/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtII
 [/us/stat/122/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4987
 [/us/pl/110/437/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs202
 [/us/pl/110/437/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs202

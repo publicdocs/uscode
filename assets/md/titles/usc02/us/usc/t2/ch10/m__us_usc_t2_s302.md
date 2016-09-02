@@ -17,7 +17,7 @@
 
     The committee is authorized to prescribe such regulations as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 88–652, § 13][/us/pl/88/652/s13], Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084].)
+([Pub. L. 88–652][/us/pl/88/652], § 13, Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/652/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs13
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1084
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079

@@ -19,7 +19,7 @@
 
     (b) This section is effective on and after June 12, 1997.
 
-([Pub. L. 105–18, title II, § 7002][/us/pl/105/18/s7002], June 12, 1997, [111 Stat. 192][/us/stat/111/192].)
+([Pub. L. 105–18, title II][/us/pl/105/18/tII], § 7002, June 12, 1997, [111 Stat. 192][/us/stat/111/192].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/105/18/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs7002
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F192
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

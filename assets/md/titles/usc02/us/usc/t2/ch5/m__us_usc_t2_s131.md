@@ -17,11 +17,11 @@
 
     The Library of Congress, composed of the books, maps, and other publications which on December 1, 1873, remained in existence, from the collections theretofore united under authority of law and those added from time to time by purchase, exchange, donation, reservation from publications ordered by Congress, acquisition of material under the copyright law, and otherwise, shall be preserved in the Library Building.
 
-(R.S. § 80; [Feb. 19, 1897, ch. 265, § 1][/us/act/1897-02-19/ch265/s1], [29 Stat. 545][/us/stat/29/545], 546; [Pub. L. 94–553, title I, § 105(g)][/us/pl/94/553/s105/g], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title III, § 310\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310.)
+(R.S. § 80; [Feb. 19, 1897, ch. 265][/us/act/1897-02-19/ch265], § 1, [29 Stat. 545][/us/stat/29/545], 546; [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 105(g), Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title III, § 310\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310.)
 
  __Codification__ 
 
-    R.S. § 80 derived from [act Jan. 26, 1802, ch. 2][/us/act/1802-01-26/ch2], [2 Stat. 128][/us/stat/2/128]; Res. Oct. 21, 1814, No. 3, [3 Stat. 246][/us/stat/3/246]; [act Jan. 30, 1815, ch. 27][/us/act/1815-01-30/ch27], [3 Stat. 195][/us/stat/3/195]; [act June 25, 1864, ch. 147, § 1][/us/act/1864-06-25/ch147/s1], [13 Stat. 148][/us/stat/13/148]; Res. July 25, 1866, No. 77, [14 Stat. 365][/us/stat/14/365]; and [act Mar. 2, 1867, ch. 167, § 1][/us/act/1867-03-02/ch167/s1], [14 Stat. 464][/us/stat/14/464].
+    R.S. § 80 derived from [act Jan. 26, 1802, ch. 2][/us/act/1802-01-26/ch2], [2 Stat. 128][/us/stat/2/128]; Res. Oct. 21, 1814, No. 3, [3 Stat. 246][/us/stat/3/246]; [act Jan. 30, 1815, ch. 27][/us/act/1815-01-30/ch27], [3 Stat. 195][/us/stat/3/195]; [act June 25, 1864, ch. 147][/us/act/1864-06-25/ch147], § 1, [13 Stat. 148][/us/stat/13/148]; Res. July 25, 1866, No. 77, [14 Stat. 365][/us/stat/14/365]; and [act Mar. 2, 1867, ch. 167][/us/act/1867-03-02/ch167], § 1, [14 Stat. 464][/us/stat/14/464].
 
  __Amendments__ 
 
@@ -52,21 +52,21 @@
 ----------
 ----------
 
-[/us/act/1897-02-19/ch265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265%2Fs1
+[/us/act/1897-02-19/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265
 [/us/stat/29/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F545
-[/us/pl/94/553/s105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs105%2Fg
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
 [/us/act/1802-01-26/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1802-01-26%2Fch2
 [/us/stat/2/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F128
 [/us/stat/3/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F246
 [/us/act/1815-01-30/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1815-01-30%2Fch27
 [/us/stat/3/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F195
-[/us/act/1864-06-25/ch147/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-25%2Fch147%2Fs1
+[/us/act/1864-06-25/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-25%2Fch147
 [/us/stat/13/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F148
 [/us/stat/14/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F365
-[/us/act/1867-03-02/ch167/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch167%2Fs1
+[/us/act/1867-03-02/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch167
 [/us/stat/14/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F464
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553

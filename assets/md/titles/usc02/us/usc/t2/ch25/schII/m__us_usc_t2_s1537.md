@@ -27,7 +27,7 @@
 
         The pilot programs shall focus on rules in effect or proposed rules, or a combination thereof.
 
-([Pub. L. 104–4, title II, § 207][/us/pl/104/4/s207], Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 207, Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs207
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F67
 
 

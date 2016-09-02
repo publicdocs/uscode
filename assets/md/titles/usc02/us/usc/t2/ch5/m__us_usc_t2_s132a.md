@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 82 derived from acts [Apr. 24, 1800, ch. 37, § 5][/us/act/1800-04-24/ch37/s5], [2 Stat. 56][/us/stat/2/56], and [Jan. 26, 1802, ch. 2, § 6][/us/act/1802-01-26/ch2/s6], [2 Stat. 129][/us/stat/2/129].
+    R.S. § 82 derived from acts [Apr. 24, 1800, ch. 37][/us/act/1800-04-24/ch37], § 5, [2 Stat. 56][/us/stat/2/56], and [Jan. 26, 1802, ch. 2][/us/act/1802-01-26/ch2], § 6, [2 Stat. 129][/us/stat/2/129].
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 [/us/stat/32/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F735
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F838
-[/us/act/1800-04-24/ch37/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1800-04-24%2Fch37%2Fs5
+[/us/act/1800-04-24/ch37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1800-04-24%2Fch37
 [/us/stat/2/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F56
-[/us/act/1802-01-26/ch2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1802-01-26%2Fch2%2Fs6
+[/us/act/1802-01-26/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1802-01-26%2Fch2
 [/us/stat/2/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F129
 [/us/usc/t2/s132b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs132b
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301

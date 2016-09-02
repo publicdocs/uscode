@@ -17,7 +17,7 @@
 
     There is established in the House of Representatives an office to be known as the Speaker’s Office for Legislative Floor Activities. The Speaker shall appoint and set the annual rate of pay for employees of the Office. The Office shall have the responsibility of assisting the Speaker in the management of legislative floor activity.
 
-([Pub. L. 104–53, title I, § 103][/us/pl/104/53/s103], Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520].)
+([Pub. L. 104–53, title I][/us/pl/104/53/tI], § 103, Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Transfer of Majority and Minority Positions__ 
 
-[Pub. L. 107–68, title I, § 113][/us/pl/107/68/s113], Nov. 12, 2001, [115 Stat. 572][/us/stat/115/572], provided that:
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 113, Nov. 12, 2001, [115 Stat. 572][/us/stat/115/572], provided that:
 
 >     “(a)
 
@@ -58,11 +58,11 @@
 ----------
 ----------
 
-[/us/pl/104/53/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs103
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F520
 [/us/usc/t2/s74a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%937
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
-[/us/pl/107/68/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs113
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F572
 
 

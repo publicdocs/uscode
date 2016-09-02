@@ -17,7 +17,7 @@
 
     With the approval of the President Pro Tempore of the Senate, the Legislative Counsel of the Senate may make such expenditures as may be necessary or appropriate for the functioning of the Office of the Legislative Counsel of the Senate.
 
-([Pub. L. 98–51, title I, § 105][/us/pl/98/51/s105], July 14, 1983, [97 Stat. 267][/us/stat/97/267].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 105, July 14, 1983, [97 Stat. 267][/us/stat/97/267].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/51/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs105
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F267
 
 

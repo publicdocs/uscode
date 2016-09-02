@@ -17,7 +17,7 @@
 
     Regional award directors may be appointed by the Board, upon recommendation of the Director, for any State or other appropriate geographic area of the United States. The Director shall make such recommendations with respect to a State or geographic area only after soliciting recommendations regarding such appointments from public and private youth organizations within such State or geographic area.
 
-([Pub. L. 96–114, title I, § 105][/us/pl/96/114/s105], formerly § 6, Nov. 16, 1979, [93 Stat. 853][/us/stat/93/853]; renumbered title I, § 105, [Pub. L. 106–533, § 1(b)(1)][/us/pl/106/533/s1/b/1], (2), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553].)
+([Pub. L. 96–114, title I][/us/pl/96/114/tI], § 105, formerly § 6, Nov. 16, 1979, [93 Stat. 853][/us/stat/93/853]; renumbered title I, § 105, [Pub. L. 106–533][/us/pl/106/533], § 1(b)(1), (2), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/96/114/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2Fs105
+[/us/pl/96/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2FtI
 [/us/stat/93/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F853
-[/us/pl/106/533/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F1
+[/us/pl/106/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533
 [/us/stat/114/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2553
 
 

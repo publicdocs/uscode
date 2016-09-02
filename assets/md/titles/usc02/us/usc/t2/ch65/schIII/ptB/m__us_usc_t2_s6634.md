@@ -61,41 +61,41 @@
 
         This section shall be effective on and after October 1, 1998, or 30 days after the date of enactment of this Act \[October 21, 1998\], whichever is later.
 
-([Pub. L. 105–275, title I, § 6][/us/pl/105/275/s6], Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434]; [Pub. L. 106–57, title I, § 4][/us/pl/106/57/s4], Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412]; [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 3(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96.)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 6, Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434]; [Pub. L. 106–57, title I][/us/pl/106/57/tI], § 4, Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 3(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96.)
 
  __References in Text__ 
 
-    [Section 121a of this title][/us/usc/t2/s121a], referred to in subsec. (g), was repealed by [Pub. L. 105–275, title I, § 6(h)(1)][/us/pl/105/275/s6/h/1], Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434].
+    [Section 121a of this title][/us/usc/t2/s121a], referred to in subsec. (g), was repealed by [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 6(h)(1), Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434].
 
  __Codification__ 
 
     Section was formerly classified to [section 121b–1 of this title][/us/usc/t2/s121b–1] prior to editorial reclassification and renumbering as this section.
 
-    Section is comprised of [section 6 of Pub. L. 105–275][/us/pl/105/275/s6]. Subsec. (h) of [section 6 of Pub. L. 105–275][/us/pl/105/275/s6] amended [section 10 of title I of Pub. L. 100–458][/us/pl/100/458/s10], set out as a note below, and repealed [section 121a of this title][/us/usc/t2/s121a].
+    Section is comprised of [section 6 of Pub. L. 105–275][/us/pl/105/275/s6]. Subsec. (h) of [section 6 of Pub. L. 105–275][/us/pl/105/275/s6] amended [section 10 of title I of Pub. L. 100–458][/us/pl/100/458/tI/s10], set out as a note below, and repealed [section 121a of this title][/us/usc/t2/s121a].
 
     Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
 
-    In subsec. (c), in the first par. (3), “[section 5104(c) of title 40][/us/usc/t40/s5104/c]” substituted for “[section 4 of the Act of July 31, 1946][/us/act/1946-07-31/s4] ([40 U.S.C. 193d][/us/usc/t40/s193d])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (c), in the first par. (3), “[section 5104(c) of title 40][/us/usc/t40/s5104/c]” substituted for “[section 4 of the Act of July 31, 1946][/us/act/1946-07-31/s4] ([40 U.S.C. 193d][/us/usc/t40/s193d])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    2000—Subsec. (c)(2)(A). [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 3(a)(1)\], struck out “and agency contributions” after “salaries”.
+    2000—Subsec. (c)(2)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 3(a)(1)\], struck out “and agency contributions” after “salaries”.
 
-    Subsec. (c)(3). [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 3(a)(2)\], added par. (3) relating to agency contributions.
+    Subsec. (c)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 3(a)(2)\], added par. (3) relating to agency contributions.
 
     1999—Subsec. (c)(3). [Pub. L. 106–57][/us/pl/106/57] added par. (3).
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 3(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 3(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96, provided that: 
 
 > “This section \[amending this section\] shall apply to pay periods beginning on or after October 1, 2000.”
 
  __Senate Beauty Shop__ 
 
-[Pub. L. 100–458, title I, § 10][/us/pl/100/458/s10], Oct. 1, 1988, [102 Stat. 2162][/us/stat/102/2162], as amended by [Pub. L. 105–275, title I, § 6(h)(2)][/us/pl/105/275/s6/h/2], Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434], provided that:
+[Pub. L. 100–458, title I][/us/pl/100/458/tI], § 10, Oct. 1, 1988, [102 Stat. 2162][/us/stat/102/2162], as amended by [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 6(h)(2), Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434], provided that:
 
->     “\[(a) Repealed. [Pub. L. 105–275, title I, § 6(h)(2)][/us/pl/105/275/s6/h/2], Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434].\]
+>     “\[(a) Repealed. [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 6(h)(2), Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434].\]
 
 >     “\[(b) Amended former [section 121a of this title][/us/usc/t2/s121a].\]
 
@@ -124,35 +124,35 @@
 
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
 [/us/usc/t2/s121a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121a
-[/us/pl/105/275/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs6
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2434
-[/us/pl/106/57/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs4
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F412
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t2/s121a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121a
-[/us/pl/105/275/s6/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs6%2Fh%2F1
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2434
 [/us/usc/t2/s121b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121b%E2%80%931
 [/us/pl/105/275/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs6
 [/us/pl/105/275/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs6
-[/us/pl/100/458/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs10
+[/us/pl/100/458/tI/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI%2Fs10
 [/us/usc/t2/s121a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121a
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
 [/us/act/1946-07-31/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs4
 [/us/usc/t40/s193d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193d
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/100/458/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs10
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2162
-[/us/pl/105/275/s6/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs6%2Fh%2F2
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2434
-[/us/pl/105/275/s6/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs6%2Fh%2F2
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2434
 [/us/usc/t2/s121a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121a
 [/us/usc/t5/s8411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8411

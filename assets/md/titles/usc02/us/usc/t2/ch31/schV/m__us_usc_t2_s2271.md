@@ -27,7 +27,7 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 110–437, title V, § 501][/us/pl/110/437/s501], Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997].)
+([Pub. L. 110–437, title V][/us/pl/110/437/tV], § 501, Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs501
+[/us/pl/110/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtV
 [/us/stat/122/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4997
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4983

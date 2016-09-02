@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 102 derived from [act Jan. 24, 1857, ch. 19, § 1][/us/act/1857-01-24/ch19/s1], [11 Stat. 155][/us/stat/11/155].
+    R.S. § 102 derived from [act Jan. 24, 1857, ch. 19][/us/act/1857-01-24/ch19], § 1, [11 Stat. 155][/us/stat/11/155].
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1938-06-22/ch594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch594
 [/us/stat/52/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F942
-[/us/act/1857-01-24/ch19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1857-01-24%2Fch19%2Fs1
+[/us/act/1857-01-24/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1857-01-24%2Fch19
 [/us/stat/11/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F155
 
 

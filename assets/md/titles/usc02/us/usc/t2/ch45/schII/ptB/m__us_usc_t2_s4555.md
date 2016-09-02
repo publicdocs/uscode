@@ -47,7 +47,7 @@
 
         This section and [section 4556 of this title][/us/usc/t2/s4556] impose no duty, burden, or requirement upon the United States, the House of Representatives, or any officer or employee of the United States, except as specifically provided in this section and [section 4556 of this title][/us/usc/t2/s4556]. Nothing in this section and [section 4556 of this title][/us/usc/t2/s4556] shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the House of Representatives, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section and [section 4556 of this title][/us/usc/t2/s4556]. Any paper, form, document, or any other item filed with, or submitted to, the Chief Administrative Officer under this section and [section 4556 of this title][/us/usc/t2/s4556] is considered to be a paper of the House of Representatives within the provisions of the Rules of the House of Representatives.
 
-([Pub. L. 94–440, title II, § 101][/us/pl/94/440/s101], Oct. 1, 1976, [90 Stat. 1448][/us/stat/90/1448]; [Pub. L. 104–186, title II, § 204(4)][/us/pl/104/186/s204/4], Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
+([Pub. L. 94–440, title II][/us/pl/94/440/tII], § 101, Oct. 1, 1976, [90 Stat. 1448][/us/stat/90/1448]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(4), Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–186, § 204(4)(B)][/us/pl/104/186/s204/4/B], substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
+    1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186], § 204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
 
     “(1) the Clerk, in the case of employees whose compensation is disbursed by the Clerk; and
 
@@ -65,15 +65,15 @@
 
     shall withhold”.
 
-    [Pub. L. 104–186, § 204(4)(A)][/us/pl/104/186/s204/4/A], substituted “Chief Administrative Officer of the House of Representatives shall, in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and [section 60e–1b of this title][/us/usc/t2/s60e–1b] referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and [section 60e–1b of this title][/us/usc/t2/s60e–1b] referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
+    [Pub. L. 104–186][/us/pl/104/186], § 204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall, in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and [section 60e–1b of this title][/us/usc/t2/s60e–1b] referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and [section 60e–1b of this title][/us/usc/t2/s60e–1b] referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
 
-    Subsec. (b). [Pub. L. 104–186, § 204(4)(C)][/us/pl/104/186/s204/4/C], substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms”.
+    Subsec. (b). [Pub. L. 104–186][/us/pl/104/186], § 204(4)(C), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms”.
 
-    Subsec. (c)(1). [Pub. L. 104–186, § 204(4)(D)][/us/pl/104/186/s204/4/D], substituted “Chief Administrative Officer” for “Clerk and the Sergeant at Arms”.
+    Subsec. (c)(1). [Pub. L. 104–186][/us/pl/104/186], § 204(4)(D), substituted “Chief Administrative Officer” for “Clerk and the Sergeant at Arms”.
 
-    Subsec. (c)(2). [Pub. L. 104–186, § 204(4)(E)][/us/pl/104/186/s204/4/E], substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms, as the case may be,” in two places.
+    Subsec. (c)(2). [Pub. L. 104–186][/us/pl/104/186], § 204(4)(E), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms, as the case may be,” in two places.
 
-    Subsecs. (d), (e). [Pub. L. 104–186, § 204(4)(F)][/us/pl/104/186/s204/4/F], substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 104–186][/us/pl/104/186], § 204(4)(F), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms” wherever appearing.
 
 ----------
 
@@ -88,19 +88,19 @@
 [/us/usc/t2/s4556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4556
 [/us/usc/t2/s4556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4556
 [/us/usc/t2/s4556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4556
-[/us/pl/94/440/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs101
+[/us/pl/94/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtII
 [/us/stat/90/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1448
-[/us/pl/104/186/s204/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1730
 [/us/usc/t2/s60e–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931a
 [/us/pl/94/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440
-[/us/pl/104/186/s204/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4%2FB
-[/us/pl/104/186/s204/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4%2FA
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/usc/t2/s60e–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931b
 [/us/usc/t2/s60e–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931b
-[/us/pl/104/186/s204/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4%2FC
-[/us/pl/104/186/s204/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4%2FD
-[/us/pl/104/186/s204/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4%2FE
-[/us/pl/104/186/s204/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F4%2FF
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 
 

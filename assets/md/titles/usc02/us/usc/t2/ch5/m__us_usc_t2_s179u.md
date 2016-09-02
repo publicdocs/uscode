@@ -27,7 +27,7 @@
 
     (5) the term “Registry version” means, with respect to a film, the version of a film first published, or as complete a version as bona fide preservation and restoration activities by the Librarian, an archivist other than the Librarian, or the copyright owner can compile in those cases where the original material has been irretrievably lost.
 
-([Pub. L. 104–285, title I, § 111][/us/pl/104/285/s111], Oct. 11, 1996, [110 Stat. 3382][/us/stat/110/3382].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 111, Oct. 11, 1996, [110 Stat. 3382][/us/stat/110/3382].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/104/285/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs111
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3382
 
 

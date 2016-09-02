@@ -21,7 +21,7 @@
 
     (2) the term “Director” means the Director of the Congressional Budget Office.
 
-([Pub. L. 104–4, § 3][/us/pl/104/4/s3], Mar. 22, 1995, [109 Stat. 49][/us/stat/109/49].)
+([Pub. L. 104–4][/us/pl/104/4], § 3, Mar. 22, 1995, [109 Stat. 49][/us/stat/109/49].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t2/s1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1555
 [/us/usc/t2/s658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658
-[/us/pl/104/4/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs3
+[/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F49
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48

@@ -17,7 +17,7 @@
 
     Effective October 1, 1981, the Sergeant at Arms and Doorkeeper of the Senate is authorized to dispose of used or surplus furniture and equipment by trade-in or by sale directly or through the General Services Administration. Receipts from the sale of such furniture and equipment shall be deposited in the United States Treasury for credit to the appropriation for “Miscellaneous Items” under the heading “Contingent Expenses of the Senate”.
 
-([Pub. L. 95–94, title I, § 103][/us/pl/95/94/s103], Aug. 5, 1977, [91 Stat. 660][/us/stat/91/660]; [Pub. L. 97–51, § 118][/us/pl/97/51/s118], Oct. 1, 1981, [95 Stat. 964][/us/stat/95/964].)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 103, Aug. 5, 1977, [91 Stat. 660][/us/stat/91/660]; [Pub. L. 97–51][/us/pl/97/51], § 118, Oct. 1, 1981, [95 Stat. 964][/us/stat/95/964].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/95/94/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs103
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F660
-[/us/pl/97/51/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs118
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F964
 [/us/usc/t2/s117b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117b
 [/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51

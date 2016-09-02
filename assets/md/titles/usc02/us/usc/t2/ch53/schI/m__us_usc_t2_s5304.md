@@ -17,7 +17,7 @@
 
     The salaries of Representatives in Congress, Delegates from Territories, and Resident Commissioners, elected for unexpired terms, shall commence on the date of their election and not before.
 
-([July 16, 1914, ch. 141, § 1][/us/act/1914-07-16/ch141/s1], [38 Stat. 458][/us/stat/38/458].)
+([July 16, 1914, ch. 141][/us/act/1914-07-16/ch141], § 1, [38 Stat. 458][/us/stat/38/458].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-07-16/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-07-16%2Fch141%2Fs1
+[/us/act/1914-07-16/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-07-16%2Fch141
 [/us/stat/38/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F458
 [/us/usc/t2/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs37
 

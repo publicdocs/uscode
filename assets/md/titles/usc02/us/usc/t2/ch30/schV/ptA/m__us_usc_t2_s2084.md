@@ -17,11 +17,11 @@
 
     The Comptroller General shall conduct periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, the Secretary of the Senate, or the Clerk of the House of Representatives requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Congress.
 
-([Pub. L. 100–696, title VIII, § 804][/us/pl/100/696/s804], Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610]; [Pub. L. 112–234, § 2(a)][/us/pl/112/234/s2/a], Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].)
+([Pub. L. 100–696, title VIII][/us/pl/100/696/tVIII], § 804, Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610]; [Pub. L. 112–234][/us/pl/112/234], § 2(a), Dec. 28, 2012, [126 Stat. 1624][/us/stat/126/1624].)
 
  __Codification__ 
 
-    Section was classified to section 188a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/100/696/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs804
+[/us/pl/100/696/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVIII
 [/us/stat/102/4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4610
-[/us/pl/112/234/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fa
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1624
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 

@@ -33,13 +33,13 @@
 
         The use of the seal described in [section 179m(a)(3) of this title][/us/usc/t2/s179m/a/3] shall be effective for each film after the Librarian publishes in the Federal Register, in accordance with [section 179m(a)(2) of this title][/us/usc/t2/s179m/a/2], the name of that film as selected for inclusion in the National Film Registry.
 
-([Pub. L. 104–285, title I, § 107][/us/pl/104/285/s107], Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381]; [Pub. L. 109–9, title III, § 302(d)][/us/pl/109/9/s302/d], Apr. 27, 2005, [119 Stat. 225][/us/stat/119/225].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 107, Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381]; [Pub. L. 109–9, title III][/us/pl/109/9/tIII], § 302(d), Apr. 27, 2005, [119 Stat. 225][/us/stat/119/225].)
 
  __Amendments__ 
 
-    2005—Subsec. (a)(1). [Pub. L. 109–9, § 302(d)(1)][/us/pl/109/9/s302/d/1], inserted “in any format” after “or any copy” in introductory provisions.
+    2005—Subsec. (a)(1). [Pub. L. 109–9][/us/pl/109/9], § 302(d)(1), inserted “in any format” after “or any copy” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–9, § 302(d)(2)][/us/pl/109/9/s302/d/2], substituted “in any format” for “or film copy”.
+    Subsec. (a)(2). [Pub. L. 109–9][/us/pl/109/9], § 302(d)(2), substituted “in any format” for “or film copy”.
 
 ----------
 
@@ -53,11 +53,11 @@
 [/us/usc/t2/s179m/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179m%2Fa%2F3
 [/us/usc/t2/s179m/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179m%2Fa%2F3
 [/us/usc/t2/s179m/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179m%2Fa%2F2
-[/us/pl/104/285/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs107
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3381
-[/us/pl/109/9/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fd
+[/us/pl/109/9/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtIII
 [/us/stat/119/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F225
-[/us/pl/109/9/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fd%2F1
-[/us/pl/109/9/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fd%2F2
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 
 

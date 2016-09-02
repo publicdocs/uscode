@@ -17,7 +17,7 @@
 
     Effective with respect to fiscal year 2003 and each succeeding fiscal year, any amount received by House Information Resources from any office of the House of Representatives as reimbursement for services provided shall be deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer of the House of Representatives.
 
-([Pub. L. 108–7, div. H, title I, § 103][/us/pl/108/7/s103], Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 103, Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs103
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F354
 
 

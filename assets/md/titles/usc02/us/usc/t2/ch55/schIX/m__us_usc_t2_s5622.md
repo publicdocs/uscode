@@ -17,7 +17,7 @@
 
     There shall be a lump sum allowance of $300,000 per fiscal year for the salaries and expenses of the Corrections Calendar Office, established by [section 5621 of this title][/us/usc/t2/s5621]. Such amount shall be allocated between the majority party and the minority party as determined by the Speaker, in consultation with the minority leader.
 
-([Pub. L. 105–55, title I, § 101][/us/pl/105/55/s101], Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
+([Pub. L. 105–55, title I][/us/pl/105/55/tI], § 101, Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s5621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5621
-[/us/pl/105/55/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs101
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1183
 [/us/usc/t2/s74d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74d%E2%80%931
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55

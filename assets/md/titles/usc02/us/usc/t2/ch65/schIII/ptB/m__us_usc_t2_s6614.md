@@ -19,7 +19,7 @@
 
     In accordance with the provisions of this section, a detailed voucher shall be submitted to the Secretary of the Senate by such Sergeant at Arms whenever necessary, in order to replenish funds expended.
 
-([Pub. L. 98–51, title I, § 104][/us/pl/98/51/s104], July 14, 1983, [97 Stat. 266][/us/stat/97/266].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 104, July 14, 1983, [97 Stat. 266][/us/stat/97/266].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/51/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs104
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F266
 [/us/usc/t2/s65d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs65d
 

@@ -27,7 +27,7 @@
 
         The Office shall notify the employee in writing when the counseling period has ended.
 
-([Pub. L. 104–1, title IV, § 402][/us/pl/104/1/s402], Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 402, Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs402
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F32
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F7

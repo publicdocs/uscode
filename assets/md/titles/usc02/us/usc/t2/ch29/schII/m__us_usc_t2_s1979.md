@@ -43,7 +43,7 @@
 
         (2) fiscal year 2005 and each fiscal year thereafter.
 
-([Pub. L. 108–447, div. G, title I, § 1009][/us/pl/108/447/s1009], Dec. 8, 2004, [118 Stat. 3182][/us/stat/118/3182].)
+([Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1009, Dec. 8, 2004, [118 Stat. 3182][/us/stat/118/3182].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1009
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3182
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3166

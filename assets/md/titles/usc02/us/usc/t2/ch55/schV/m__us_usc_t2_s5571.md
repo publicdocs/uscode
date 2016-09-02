@@ -37,7 +37,7 @@
 
         The provisions of this section shall become effective beginning with September 29, 1999.
 
-([Pub. L. 106–57, title I, § 101][/us/pl/106/57/s101], Sept. 29, 1999, [113 Stat. 414][/us/stat/113/414]; [Pub. L. 107–273, div. A, title II, § 202(b)(5)][/us/pl/107/273/s202/b/5], Nov. 2, 2002, [116 Stat. 1775][/us/stat/116/1775]; [Pub. L. 108–7, div. H, title I, § 110(a)][/us/pl/108/7/s110/a], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355].)
+([Pub. L. 106–57, title I][/us/pl/106/57/tI], § 101, Sept. 29, 1999, [113 Stat. 414][/us/stat/113/414]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 202(b)(5), Nov. 2, 2002, [116 Stat. 1775][/us/stat/116/1775]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 110(a), Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. H, title I, § 110(c)][/us/pl/108/7/s110/c], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355], provided that: 
+[Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 110(c), Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 288k of this title][/us/usc/t2/s288k]\] shall take effect as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act \[[Pub. L. 107–273][/us/pl/107/273]\].”
 
@@ -65,11 +65,11 @@
 ----------
 
 [/us/usc/t28/s530D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530D
-[/us/pl/106/57/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs101
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F414
-[/us/pl/107/273/s202/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs202%2Fb%2F5
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1775
-[/us/pl/108/7/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs110%2Fa
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F355
 [/us/usc/t2/s130f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130f
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -77,7 +77,7 @@
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t28/s530D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530D
-[/us/pl/108/7/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs110%2Fc
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F355
 [/us/usc/t2/s288k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288k
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

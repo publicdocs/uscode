@@ -45,7 +45,7 @@
 
         The Architect of the Capitol and the Librarian of Congress may enter into agreements with each other to perform work under this section, and, subject to the approval of the Committees on Appropriations of the House of Representatives and the Senate and the Joint Committee on the Library, may transfer between themselves appropriations or other available funds to pay the costs therefor.
 
-([June 29, 1922, ch. 251, § 1][/us/act/1922-06-29/ch251/s1], [42 Stat. 715][/us/stat/42/715]; [Pub. L. 91–280][/us/pl/91/280], June 12, 1970, [84 Stat. 309][/us/stat/84/309]; [Pub. L. 101–520, title II, § 205(b)][/us/pl/101/520/s205/b], Nov. 5, 1990, [104 Stat. 2272][/us/stat/104/2272]; [Pub. L. 101–562, § 2(a)][/us/pl/101/562/s2/a], Nov. 15, 1990, [104 Stat. 2780][/us/stat/104/2780]; [Pub. L. 108–7, div. H, title I, § 1208(a)][/us/pl/108/7/s1208/a], Feb. 20, 2003, [117 Stat. 375][/us/stat/117/375].)
+([June 29, 1922, ch. 251][/us/act/1922-06-29/ch251], § 1, [42 Stat. 715][/us/stat/42/715]; [Pub. L. 91–280][/us/pl/91/280], June 12, 1970, [84 Stat. 309][/us/stat/84/309]; [Pub. L. 101–520, title II][/us/pl/101/520/tII], § 205(b), Nov. 5, 1990, [104 Stat. 2272][/us/stat/104/2272]; [Pub. L. 101–562][/us/pl/101/562], § 2(a), Nov. 15, 1990, [104 Stat. 2780][/us/stat/104/2780]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1208(a), Feb. 20, 2003, [117 Stat. 375][/us/stat/117/375].)
 
  __Amendments__ 
 
@@ -57,17 +57,17 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. H, title I, § 1208(b)][/us/pl/108/7/s1208/b], Feb. 20, 2003, [117 Stat. 376][/us/stat/117/376], provided that: 
+[Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1208(b), Feb. 20, 2003, [117 Stat. 376][/us/stat/117/376], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 142 of this title][/us/usc/t2/s142]\] shall apply to fiscal year 2003 and each fiscal year thereafter.”
 
  __Effective Date of 1990 Amendments__ 
 
-    Amendment by [Pub. L. 101–520][/us/pl/101/520] and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in [Pub. L. 101–520, § 205(a)][/us/pl/101/520/s205/a], and [Pub. L. 101–562, § 1][/us/pl/101/562/s1], see [section 205(e) of Pub. L. 101–520][/us/pl/101/520/s205/e] and former [section 2(d) of Pub. L. 101–562][/us/pl/101/562/s2/d], set out as a Special Facilities Center; Acquisition note below.
+    Amendment by [Pub. L. 101–520][/us/pl/101/520] and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in [Pub. L. 101–520][/us/pl/101/520], § 205(a), and [Pub. L. 101–562][/us/pl/101/562], § 1, see [section 205(e) of Pub. L. 101–520][/us/pl/101/520/s205/e] and former [section 2(d) of Pub. L. 101–562][/us/pl/101/562/s2/d], set out as a Special Facilities Center; Acquisition note below.
 
  __Acquisition of Real Property for Library of Congress__ 
 
-[Pub. L. 105–144][/us/pl/105/144], Dec. 15, 1997, [111 Stat. 2667][/us/stat/111/2667], as amended by [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title II, § 207\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114; [Pub. L. 108–83, title I, § 1203(a)][/us/pl/108/83/s1203/a], Sept. 30, 2003, [117 Stat. 1031][/us/stat/117/1031], provided that:
+[Pub. L. 105–144][/us/pl/105/144], Dec. 15, 1997, [111 Stat. 2667][/us/stat/111/2667], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title II, § 207\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114; [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1203(a), Sept. 30, 2003, [117 Stat. 1031][/us/stat/117/1031], provided that:
 
 > “SECTION 1. __ACQUISITION OF FACILITY IN CULPEPER, VIRGINIA.__ 
 
@@ -111,7 +111,7 @@
 
  __Transfer of Property by Secretary of Army To Provide Facilities To Accommodate Long-Term Storage and Service Needs__ 
 
-[Pub. L. 103–110, § 122][/us/pl/103/110/s122], Oct. 21, 1993, [107 Stat. 1043][/us/stat/107/1043], provided that:
+[Pub. L. 103–110][/us/pl/103/110], § 122, Oct. 21, 1993, [107 Stat. 1043][/us/stat/107/1043], provided that:
 
 >     “(a) Notwithstanding any other provision of law, the Secretary of the Army shall transfer, no later than September 30, 1994, without reimbursement or transfer of funds, to the Architect of the Capitol, a portion of the real property, including improvements thereon, consisting of not more than 100 acres located at Fort George G. Meade in Anne Arundel County, Maryland, as determined under subsection (c).
 
@@ -127,13 +127,13 @@
 
  __Special Facilities Center; Temporary Restriction on Evening Use__ 
 
-[Pub. L. 102–451, § 4][/us/pl/102/451/s4], Oct. 23, 1992, [106 Stat. 2253][/us/stat/106/2253], provided that: 
+[Pub. L. 102–451][/us/pl/102/451], § 4, Oct. 23, 1992, [106 Stat. 2253][/us/stat/106/2253], provided that: 
 
 > “No evening meetings may be held at the Library of Congress Special Facilities Center until an on-site parking plan for the property is approved by the Joint Committee on the Library.”
 
  __Special Facilities Center; Acquisition__ 
 
-[Pub. L. 101–520, title II, § 205][/us/pl/101/520/s205], Nov. 5, 1990, [104 Stat. 2272][/us/stat/104/2272], as amended by [Pub. L. 102–451][/us/pl/102/451], §§ 1–3, Oct. 23, 1992, [106 Stat. 2253][/us/stat/106/2253], provided that:
+[Pub. L. 101–520, title II][/us/pl/101/520/tII], § 205, Nov. 5, 1990, [104 Stat. 2272][/us/stat/104/2272], as amended by [Pub. L. 102–451][/us/pl/102/451], §§ 1–3, Oct. 23, 1992, [106 Stat. 2253][/us/stat/106/2253], provided that:
 
 >     “(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the ‘Library of Congress Special Facilities Center’ (hereinafter in this section referred to as the ‘Center’).
 
@@ -183,7 +183,7 @@
 
 >             “(B) subject to audit by the Comptroller General at the discretion of the Comptroller General.”
 
-    Similar provisions were contained in [Pub. L. 101–562][/us/pl/101/562], §§ 1, 2, 4, Nov. 15, 1990, [104 Stat. 2780][/us/stat/104/2780], 2781, which was repealed by [Pub. L. 102–451, § 5][/us/pl/102/451/s5], Oct. 23, 1992, [106 Stat. 2254][/us/stat/106/2254], eff. Nov. 15, 1990.
+    Similar provisions were contained in [Pub. L. 101–562][/us/pl/101/562], §§ 1, 2, 4, Nov. 15, 1990, [104 Stat. 2780][/us/stat/104/2780], 2781, which was repealed by [Pub. L. 102–451][/us/pl/102/451], § 5, Oct. 23, 1992, [106 Stat. 2254][/us/stat/106/2254], eff. Nov. 15, 1990.
 
  __Additional Building for Library of Congress__ 
 
@@ -191,29 +191,29 @@
 
  __Library of Congress Thomas Jefferson Building__ 
 
-[Pub. L. 104–208, div. A, title V, § 5402][/us/pl/104/208/s5402], Sept. 30, 1996, [110 Stat. 3009–511][/us/stat/110/3009-511], provided that: 
+[Pub. L. 104–208, div. A, title V][/us/pl/104/208/dA/tV], § 5402, Sept. 30, 1996, [110 Stat. 3009–511][/us/stat/110/3009-511], provided that: 
 
 > “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
 
-[Pub. L. 96–269, § 1][/us/pl/96/269/s1], June 13, 1980, [94 Stat. 486][/us/stat/94/486], provided: 
+[Pub. L. 96–269][/us/pl/96/269], § 1, June 13, 1980, [94 Stat. 486][/us/stat/94/486], provided: 
 
 > “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 
-    [Pub. L. 94–264][/us/pl/94/264], Apr. 13, 1976, [90 Stat. 329][/us/stat/90/329], which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by [Pub. L. 96–269, § 3][/us/pl/96/269/s3], June 13, 1980, [94 Stat. 486][/us/stat/94/486], as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
+    [Pub. L. 94–264][/us/pl/94/264], Apr. 13, 1976, [90 Stat. 329][/us/stat/90/329], which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by [Pub. L. 96–269][/us/pl/96/269], § 3, June 13, 1980, [94 Stat. 486][/us/stat/94/486], as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
 
  __Library of Congress John Adams Building__ 
 
-[Pub. L. 96–269, § 2][/us/pl/96/269/s2], June 13, 1980, [94 Stat. 486][/us/stat/94/486], provided that: 
+[Pub. L. 96–269][/us/pl/96/269], § 2, June 13, 1980, [94 Stat. 486][/us/stat/94/486], provided that: 
 
 > “The building in the block bounded by East Capitol Street, Second Street Southeast, Third Street Southeast, and Pennsylvania Avenue Southeast, in the District of Columbia (commonly known as the Library of Congress Thomas Jefferson Building or the Library of Congress Annex Building), shall hereafter be known and designated as the ‘Library of Congress John Adams Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress John Adams Building.”
 
  __Library of Congress James Madison Memorial Building__ 
 
-[Pub. L. 91–214, § 2][/us/pl/91/214/s2], Mar. 16, 1970, [84 Stat. 69][/us/stat/84/69], provided that: 
+[Pub. L. 91–214][/us/pl/91/214], § 2, Mar. 16, 1970, [84 Stat. 69][/us/stat/84/69], provided that: 
 
 > “Nothing contained in the Act of October 19, 1965 ([79 Stat. 986][/us/stat/79/986]) \[set out as a note under this section\], shall be construed to authorize the use of the third Library of Congress building authorized by such Act for general office building purposes.”
 
-[Pub. L. 89–260][/us/pl/89/260], Oct. 19, 1965, [79 Stat. 987][/us/stat/79/987], as amended by [Pub. L. 91–214, § 1][/us/pl/91/214/s1], Mar. 16, 1970, [84 Stat. 69][/us/stat/84/69]; [Pub. L. 94–219][/us/pl/94/219], Feb. 27, 1976, [90 Stat. 194][/us/stat/90/194]; [Pub. L. 95–548][/us/pl/95/548], Oct. 30, 1978, [92 Stat. 2064][/us/stat/92/2064], provided: 
+[Pub. L. 89–260][/us/pl/89/260], Oct. 19, 1965, [79 Stat. 987][/us/stat/79/987], as amended by [Pub. L. 91–214][/us/pl/91/214], § 1, Mar. 16, 1970, [84 Stat. 69][/us/stat/84/69]; [Pub. L. 94–219][/us/pl/94/219], Feb. 27, 1976, [90 Stat. 194][/us/stat/90/194]; [Pub. L. 95–548][/us/pl/95/548], Oct. 30, 1978, [92 Stat. 2064][/us/stat/92/2064], provided: 
 
 >     “That 
 
@@ -233,15 +233,15 @@
 ----------
 
 [/us/usc/t2/s167j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167j
-[/us/act/1922-06-29/ch251/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-29%2Fch251%2Fs1
+[/us/act/1922-06-29/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-29%2Fch251
 [/us/stat/42/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F715
 [/us/pl/91/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F280
 [/us/stat/84/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F309
-[/us/pl/101/520/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fb
+[/us/pl/101/520/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtII
 [/us/stat/104/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2272
-[/us/pl/101/562/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562%2Fs2%2Fa
+[/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
 [/us/stat/104/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2780
-[/us/pl/108/7/s1208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1208%2Fa
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F375
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t2/s167j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167j
@@ -249,27 +249,27 @@
 [/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
 [/us/usc/t2/s167j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167j
 [/us/pl/91/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F280
-[/us/pl/108/7/s1208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1208%2Fb
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F376
 [/us/usc/t2/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs142
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
-[/us/pl/101/520/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fa
-[/us/pl/101/562/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562%2Fs1
+[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
+[/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
 [/us/pl/101/520/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fe
 [/us/pl/101/562/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562%2Fs2%2Fd
 [/us/pl/105/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F144
 [/us/stat/111/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2667
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/83/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1203%2Fa
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1031
 [/us/usc/t2/s167j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167j
 [/us/usc/t2/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs141
-[/us/pl/103/110/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F110%2Fs122
+[/us/pl/103/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F110
 [/us/stat/107/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1043
-[/us/pl/102/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F451%2Fs4
+[/us/pl/102/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F451
 [/us/stat/106/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2253
-[/us/pl/101/520/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205
+[/us/pl/101/520/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtII
 [/us/stat/104/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2272
 [/us/pl/102/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F451
 [/us/stat/106/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2253
@@ -277,26 +277,26 @@
 [/us/usc/t2/s167j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167j
 [/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
 [/us/stat/104/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2780
-[/us/pl/102/451/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F451%2Fs5
+[/us/pl/102/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F451
 [/us/stat/106/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2254
 [/us/pl/86/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F469
 [/us/stat/74/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F132
-[/us/pl/104/208/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs5402
+[/us/pl/104/208/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtV
 [/us/stat/110/3009-511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-511
-[/us/pl/96/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F269%2Fs1
+[/us/pl/96/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F269
 [/us/stat/94/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F486
 [/us/pl/94/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F264
 [/us/stat/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F329
-[/us/pl/96/269/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F269%2Fs3
+[/us/pl/96/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F269
 [/us/stat/94/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F486
-[/us/pl/96/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F269%2Fs2
+[/us/pl/96/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F269
 [/us/stat/94/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F486
-[/us/pl/91/214/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F214%2Fs2
+[/us/pl/91/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F214
 [/us/stat/84/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F69
 [/us/stat/79/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F986
 [/us/pl/89/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F260
 [/us/stat/79/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F987
-[/us/pl/91/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F214%2Fs1
+[/us/pl/91/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F214
 [/us/stat/84/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F69
 [/us/pl/94/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F219
 [/us/stat/90/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F194

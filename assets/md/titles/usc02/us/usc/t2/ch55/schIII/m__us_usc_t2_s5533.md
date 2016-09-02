@@ -33,7 +33,7 @@
 
         This section shall apply with respect to fiscal year 2004 and each succeeding fiscal year.
 
-([Pub. L. 108–199, div. H, § 156][/us/pl/108/199/s156], Jan. 23, 2004, [118 Stat. 450][/us/stat/118/450].)
+([Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 156, Jan. 23, 2004, [118 Stat. 450][/us/stat/118/450].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/199/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs156
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F450
 [/us/usc/t2/s95e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95e
 

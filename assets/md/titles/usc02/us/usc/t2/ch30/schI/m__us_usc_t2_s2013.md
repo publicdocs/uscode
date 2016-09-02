@@ -17,7 +17,7 @@
 
     There is established in the Treasury a revolving fund for the House of Representatives gymnasium. The Architect of the Capitol shall deposit in the fund such amounts as the Architect may receive as gymnasium dues or assessments from Members of the House of Representatives and other authorized users of the gymnasium. The amounts so deposited shall be available for obligation by the Architect for expenses of the gymnasium.
 
-([Pub. L. 102–392, title I, § 106][/us/pl/102/392/s106], Oct. 6, 1992, [106 Stat. 1715][/us/stat/106/1715].)
+([Pub. L. 102–392, title I][/us/pl/102/392/tI], § 106, Oct. 6, 1992, [106 Stat. 1715][/us/stat/106/1715].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/392/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs106
+[/us/pl/102/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtI
 [/us/stat/106/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1715
 [/us/usc/t2/s117i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117i
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Feb. 23, 1927, ch. 168, § 1][/us/act/1927-02-23/ch168/s1], [44 Stat. 1150][/us/stat/44/1150], changed the name of “clerk to Speaker’s table” to “parliamentarian” and was omitted as executed.
+    Section, [act Feb. 23, 1927, ch. 168][/us/act/1927-02-23/ch168], § 1, [44 Stat. 1150][/us/stat/44/1150], changed the name of “clerk to Speaker’s table” to “parliamentarian” and was omitted as executed.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-23/ch168/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch168%2Fs1
+[/us/act/1927-02-23/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch168
 [/us/stat/44/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1150
 
 

@@ -141,7 +141,7 @@
 
             The Comptroller General of the United States shall conduct periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Commission.
 
-([Pub. L. 108–83, title I, § 3][/us/pl/108/83/s3], Sept. 30, 2003, [117 Stat. 1010][/us/stat/117/1010]; [Pub. L. 109–55, title I, § 4][/us/pl/109/55/s4], Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568]; [Pub. L. 112–234, § 2(h)][/us/pl/112/234/s2/h], Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625].)
+([Pub. L. 108–83, title I][/us/pl/108/83/tI], § 3, Sept. 30, 2003, [117 Stat. 1010][/us/stat/117/1010]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 4, Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568]; [Pub. L. 112–234][/us/pl/112/234], § 2(h), Dec. 28, 2012, [126 Stat. 1625][/us/stat/126/1625].)
 
  __Codification__ 
 
@@ -163,11 +163,11 @@
 ----------
 
 [/us/usc/t2/s2107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2107%2Fa
-[/us/pl/108/83/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs3
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1010
-[/us/pl/109/55/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs4
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F568
-[/us/pl/112/234/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234%2Fs2%2Fh
+[/us/pl/112/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F234
 [/us/stat/126/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1625
 [/us/pl/108/83/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs3
 [/us/pl/108/83/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs3

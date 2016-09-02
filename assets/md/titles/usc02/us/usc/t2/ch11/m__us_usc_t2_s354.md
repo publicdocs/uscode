@@ -17,7 +17,7 @@
 
     The Commission may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
 
-([Pub. L. 90–206, title II, § 225(d)][/us/pl/90/206/s225/d], Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(d), Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/206/s225/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fd
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F643
 
 

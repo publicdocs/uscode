@@ -43,7 +43,7 @@
 
         This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-([Pub. L. 107–117, div. B, § 901][/us/pl/107/117/s901], Jan. 10, 2002, [115 Stat. 2315][/us/stat/115/2315]; [Pub. L. 107–206, title I, § 902(a)(1)][/us/pl/107/206/s902/a/1], Aug. 2, 2002, [116 Stat. 876][/us/stat/116/876].)
+([Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 901, Jan. 10, 2002, [115 Stat. 2315][/us/stat/115/2315]; [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 902(a)(1), Aug. 2, 2002, [116 Stat. 876][/us/stat/116/876].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    Section was classified to section 174b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 174b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is comprised of [section 901 of Pub. L. 107–117][/us/pl/107/117/s901]. Subsec. (c)(2) of [section 901 of Pub. L. 107–117][/us/pl/107/117/s901] amended [section 1961 of this title][/us/usc/t2/s1961].
 
@@ -61,9 +61,9 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–206, title I, § 902(c)][/us/pl/107/206/s902/c], Aug. 2, 2002, [116 Stat. 876][/us/stat/116/876], provided that: 
+[Pub. L. 107–206, title I][/us/pl/107/206/tI], § 902(c), Aug. 2, 2002, [116 Stat. 876][/us/stat/116/876], provided that: 
 
-> “The amendment made by this section \[amending this section and [section 1961 of this title][/us/usc/t2/s1961]\] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 \[[Pub. L. 107–117, div. B][/us/pl/107/117]\].”
+> “The amendment made by this section \[amending this section and [section 1961 of this title][/us/usc/t2/s1961]\] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 \[[Pub. L. 107–117, div. B][/us/pl/107/117/dB]\].”
 
 ----------
 
@@ -73,19 +73,19 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/107/117/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs901
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2315
-[/us/pl/107/206/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs902%2Fa%2F1
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F876
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/107/117/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs901
 [/us/pl/107/117/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs901
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
 [/us/pl/107/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206
-[/us/pl/107/206/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs902%2Fc
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F876
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
-[/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 
 

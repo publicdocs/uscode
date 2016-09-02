@@ -25,7 +25,7 @@
 
  __National Trust Endowment for Care and Maintenance of Congressional Cemetery__ 
 
-[Pub. L. 105–275, title II, § 209][/us/pl/105/275/s209], Oct. 21, 1998, [112 Stat. 2448][/us/stat/112/2448], provided that:
+[Pub. L. 105–275, title II][/us/pl/105/275/tII], § 209, Oct. 21, 1998, [112 Stat. 2448][/us/stat/112/2448], provided that:
 
 >     “(a)  __Grant for Care and Maintenance of Congressional Cemetery__  __.—__ 
 
@@ -73,7 +73,7 @@
 [/us/act/1876-05-23/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-05-23%2Fch103
 [/us/stat/19/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F54
 [/us/usc/t2/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs51
-[/us/pl/105/275/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs209
+[/us/pl/105/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtII
 [/us/stat/112/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2448
 [/us/pl/97/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F245
 [/us/stat/96/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F313

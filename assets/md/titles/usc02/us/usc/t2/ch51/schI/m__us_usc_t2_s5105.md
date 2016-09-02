@@ -27,7 +27,7 @@
 
         This section shall apply with respect to fiscal year 1999 and each succeeding fiscal year.
 
-([Pub. L. 106–31, title III, § 3009][/us/pl/106/31/s3009], May 21, 1999, [113 Stat. 93][/us/stat/113/93].)
+([Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3009, May 21, 1999, [113 Stat. 93][/us/stat/113/93].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/31/s3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3009
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F93
 [/us/usc/t2/s74a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%9311
 

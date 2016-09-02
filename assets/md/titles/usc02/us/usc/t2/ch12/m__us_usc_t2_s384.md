@@ -33,7 +33,7 @@
 
         Papers filed subsequent to the notice of contest shall be accompanied by proof of service showing the time and manner of service, made by affidavit of the person making service or by certificate of an attorney representing the party in whose behalf service is made. Failure to make proof of service does not affect the validity of such service.
 
-([Pub. L. 91–138, § 5][/us/pl/91/138/s5], Dec. 5, 1969, [83 Stat. 286][/us/stat/83/286].)
+([Pub. L. 91–138][/us/pl/91/138], § 5, Dec. 5, 1969, [83 Stat. 286][/us/stat/83/286].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs5
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F286
 
 

@@ -29,7 +29,7 @@
 
         (2) the term “official records and papers” means books, records, papers, and official files which could be sent as franked mail.
 
-([Pub. L. 98–51, title I, § 111(1)][/us/pl/98/51/s111/1], July 14, 1983, [97 Stat. 269][/us/stat/97/269]; [Pub. L. 104–186, title II, § 203(21)][/us/pl/104/186/s203/21], Aug. 20, 1996, [110 Stat. 1728][/us/stat/110/1728].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 111(1), July 14, 1983, [97 Stat. 269][/us/stat/97/269]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(21), Aug. 20, 1996, [110 Stat. 1728][/us/stat/110/1728].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–186, § 203(21)(A)][/us/pl/104/186/s203/21/A]–(C), substituted “applicable accounts” for “contingent fund” in first par. and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration” in second par.
+    1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186], § 203(21)(A)–(C), substituted “applicable accounts” for “contingent fund” in first par. and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration” in second par.
 
-    Subsec. (b)(1). [Pub. L. 104–186, § 203(21)(D)][/us/pl/104/186/s203/21/D], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the term ‘Member’ means a Representative, a Resident Commissioner in the House, and a Delegate to the House; and”.
+    Subsec. (b)(1). [Pub. L. 104–186][/us/pl/104/186], § 203(21)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the term ‘Member’ means a Representative, a Resident Commissioner in the House, and a Delegate to the House; and”.
 
  __Change of Name__ 
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/pl/98/51/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs111%2F1
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F269
-[/us/pl/104/186/s203/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F21
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1728
 [/us/usc/t2/s59d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59d
 [/us/pl/98/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51
-[/us/pl/104/186/s203/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F21%2FA
-[/us/pl/104/186/s203/21/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F21%2FD
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 
 

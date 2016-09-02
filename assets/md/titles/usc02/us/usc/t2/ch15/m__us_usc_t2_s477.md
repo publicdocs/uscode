@@ -31,7 +31,7 @@
 
         Services and assistance made available to the Office by the Congressional Research Service in accordance with this section may be provided with or without reimbursement from funds of the Office, as agreed upon by the Board and the Librarian of Congress.
 
-([Pub. L. 92–484, § 8][/us/pl/92/484/s8], Oct. 13, 1972, [86 Stat. 801][/us/stat/86/801].)
+([Pub. L. 92–484][/us/pl/92/484], § 8, Oct. 13, 1972, [86 Stat. 801][/us/stat/86/801].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/92/484/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs8
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F801
 
 

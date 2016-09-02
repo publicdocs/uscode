@@ -25,7 +25,7 @@
 
     (b) Representation of a Member, officer, or employee under subsection (a) shall be undertaken by the Counsel only upon the consent of such Member, officer, or employee.
 
-([Pub. L. 95–521, title VII, § 704][/us/pl/95/521/s704], Oct. 26, 1978, [92 Stat. 1877][/us/stat/92/1877].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 704, Oct. 26, 1978, [92 Stat. 1877][/us/stat/92/1877].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t2/s288b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288b%2Fa
-[/us/pl/95/521/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs704
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1877
 
 

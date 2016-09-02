@@ -19,7 +19,7 @@
 
     (b) The authority of the Committee on House Oversight to prescribe regulations pursuant to subsection (a) shall apply with respect to fiscal year 1999 and each succeeding fiscal year.
 
-([Pub. L. 105–275, title I, § 106][/us/pl/105/275/s106], Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439].)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 106, Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/275/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs106
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2439
 [/us/usc/t2/s112f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112f
 

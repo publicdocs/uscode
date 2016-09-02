@@ -51,7 +51,7 @@
 
         The Counsel and other employees of the Office shall maintain the attorney-client relationship with respect to all communications between them and any Member, officer, or employee of the Senate.
 
-([Pub. L. 95–521, title VII, § 701][/us/pl/95/521/s701], Oct. 26, 1978, [92 Stat. 1875][/us/stat/92/1875].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 701, Oct. 26, 1978, [92 Stat. 1875][/us/stat/92/1875].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–521, title VII, § 717][/us/pl/95/521/s717], Oct. 26, 1978, [92 Stat. 1885][/us/stat/92/1885], provided that: 
+[Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 717, Oct. 26, 1978, [92 Stat. 1885][/us/stat/92/1885], provided that: 
 
 > “This title \[enacting this chapter, [section 5504 of this title][/us/usc/t2/s5504], [section 1364 of Title 28][/us/usc/t28/s1364], Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] shall take effect on January 3, 1979.”
 
  __Separability__ 
 
-[Pub. L. 95–521, title VII, § 715][/us/pl/95/521/s715], Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884], provided that: 
+[Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 715, Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884], provided that: 
 
 > “If any part of this title or any amendment made by this title \[enacting this chapter, [section 5504 of this title][/us/usc/t2/s5504], [section 1364 of Title 28][/us/usc/t28/s1364], Judiciary and Judicial Procedure, amending sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under this section\] is held invalid, the remainder of the title and any amendment made by this title shall not be affected thereby. If any provision of any part of this title or of any amendment made by this title, or the application thereof to any person or circumstance is held invalid, the provisions of other parts and of any amendment made by this title and their application to other persons or circumstances shall not be affected thereby.”
 
@@ -85,16 +85,16 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t2/s4301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301%2Fi
 [/us/usc/t2/s288e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288e%2Fb
-[/us/pl/95/521/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs701
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1875
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504
 [/us/usc/t28/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1364
-[/us/pl/95/521/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs717
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1885
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504
 [/us/usc/t28/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1364
-[/us/pl/95/521/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs715
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1884
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504
 [/us/usc/t28/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1364

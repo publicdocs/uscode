@@ -17,7 +17,7 @@
 
     As used in [section 5324 of this title][/us/usc/t2/s5324] the phrase “Member of the House” shall mean a Representative, Representative-elect, Delegate, Delegate-elect, Resident Commissioner, or Resident Commissioner-elect.
 
-([Aug. 21, 1935, ch. 600, § 3][/us/act/1935-08-21/ch600/s3], [49 Stat. 680][/us/stat/49/680].)
+([Aug. 21, 1935, ch. 600][/us/act/1935-08-21/ch600], § 3, [49 Stat. 680][/us/stat/49/680].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t2/s5324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5324
-[/us/act/1935-08-21/ch600/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600%2Fs3
+[/us/act/1935-08-21/ch600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600
 [/us/stat/49/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F680
 [/us/usc/t2/s92d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92d
 [/us/usc/t2/s5324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5324

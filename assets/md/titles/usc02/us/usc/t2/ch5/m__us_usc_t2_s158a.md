@@ -23,7 +23,7 @@
 
     If the gift is not so approved within the 12-month period after the Librarian so takes possession, the principal of the gift shall be returned to the donor and any income earned during that period shall be available for use with respect to the Library of Congress as provided by law.
 
-([Mar. 3, 1925, ch. 423, § 2][/us/act/1925-03-03/ch423/s2] (par.), as added [Pub. L. 102–246, § 3][/us/pl/102/246/s3], Feb. 18, 1992, [106 Stat. 31][/us/stat/106/31].)
+([Mar. 3, 1925, ch. 423][/us/act/1925-03-03/ch423], § 2 (par.), as added [Pub. L. 102–246][/us/pl/102/246], § 3, Feb. 18, 1992, [106 Stat. 31][/us/stat/106/31].)
 
  __Codification__ 
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t2/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs156
 [/us/usc/t2/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs157
-[/us/act/1925-03-03/ch423/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423%2Fs2
-[/us/pl/102/246/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F246%2Fs3
+[/us/act/1925-03-03/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423
+[/us/pl/102/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F246
 [/us/stat/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F31
 [/us/pl/102/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F246
 

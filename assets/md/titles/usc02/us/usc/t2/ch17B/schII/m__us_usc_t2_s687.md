@@ -17,11 +17,11 @@
 
     If, under this chapter, budget authority is required to be made available for obligation and such budget authority is not made available for obligation, the Comptroller General is hereby expressly empowered, through attorneys of his own selection, to bring a civil action in the United States District Court for the District of Columbia to require such budget authority to be made available for obligation, and such court is hereby expressly empowered to enter in such civil action, against any department, agency, officer, or employee of the United States, any decree, judgment, or order which may be necessary or appropriate to make such budget authority available for obligation. No civil action shall be brought by the Comptroller General under this section until the expiration of 25 calendar days of continuous session of the Congress following the date on which an explanatory statement by the Comptroller General of the circumstances giving rise to the action contemplated has been filed with the Speaker of the House of Representatives and the President of the Senate.
 
-([Pub. L. 93–344, title X, § 1016][/us/pl/93/344/s1016], July 12, 1974, [88 Stat. 336][/us/stat/88/336]; [Pub. L. 98–620, title IV, § 402(35)][/us/pl/98/620/s402/35], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 100–119, title II, § 206(b)][/us/pl/100/119/s206/b], Sept. 29, 1987, [101 Stat. 786][/us/stat/101/786].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1016, July 12, 1974, [88 Stat. 336][/us/stat/88/336]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(35), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 100–119, title II][/us/pl/100/119/tII], § 206(b), Sept. 29, 1987, [101 Stat. 786][/us/stat/101/786].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1406 of Title 31][/us/usc/t31/s1406] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1406 of Title 31][/us/usc/t31/s1406] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/93/344/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1016
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F336
-[/us/pl/98/620/s402/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F35
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/100/119/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs206%2Fb
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F786
 [/us/usc/t31/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1406
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

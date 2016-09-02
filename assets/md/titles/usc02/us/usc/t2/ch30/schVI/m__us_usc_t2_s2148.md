@@ -49,7 +49,7 @@
 
         This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
 
-([Pub. L. 113–235, div. H, title I, § 1102][/us/pl/113/235/s1102], Dec. 16, 2014, [128 Stat. 2532][/us/stat/128/2532].)
+([Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1102, Dec. 16, 2014, [128 Stat. 2532][/us/stat/128/2532].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
-[/us/pl/113/235/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1102
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2532
 
 

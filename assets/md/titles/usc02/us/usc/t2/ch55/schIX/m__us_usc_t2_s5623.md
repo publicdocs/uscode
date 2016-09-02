@@ -23,7 +23,7 @@
 
     (3) beginning with fiscal year 1998, shall be paid as provided in appropriations Acts.
 
-([Pub. L. 105–55, title I, § 101][/us/pl/105/55/s101], Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
+([Pub. L. 105–55, title I][/us/pl/105/55/tI], § 101, Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t2/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5622
-[/us/pl/105/55/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs101
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1183
 [/us/usc/t2/s74d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74d%E2%80%932
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55

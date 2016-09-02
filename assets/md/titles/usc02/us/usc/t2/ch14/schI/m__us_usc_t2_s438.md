@@ -21,7 +21,7 @@
 
  __Annual Reports for Calendar Years Beginning After__  __Dec. 31, 1972__ 
 
-    [Pub. L. 93–443, title II, § 209(a)(2)][/us/pl/93/443/s209/a/2], Oct. 15, 1974, [88 Stat. 1287][/us/stat/88/1287], provided that notwithstanding a provision of the Federal Election Campaign Act of 1971 requiring an annual report, no such annual report was required with respect to any calendar year beginning after December 31, 1972.
+    [Pub. L. 93–443, title II][/us/pl/93/443/tII], § 209(a)(2), Oct. 15, 1974, [88 Stat. 1287][/us/stat/88/1287], provided that notwithstanding a provision of the Federal Election Campaign Act of 1971 requiring an annual report, no such annual report was required with respect to any calendar year beginning after December 31, 1972.
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t52/s30111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30111
-[/us/pl/93/443/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs209%2Fa%2F2
+[/us/pl/93/443/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtII
 [/us/stat/88/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1287
 
 

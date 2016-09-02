@@ -35,7 +35,7 @@
 
         No later than 1 year after March 22, 1995, the Director of the Office of Management and Budget shall certify to Congress, with a written explanation, agency compliance with this section and include in that certification agencies and rulemakings that fail to adequately comply with this section.
 
-([Pub. L. 104–4, title II, § 205][/us/pl/104/4/s205], Mar. 22, 1995, [109 Stat. 66][/us/stat/109/66].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 205, Mar. 22, 1995, [109 Stat. 66][/us/stat/109/66].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t2/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1532
-[/us/pl/104/4/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs205
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F66
 
 

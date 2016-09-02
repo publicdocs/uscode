@@ -51,7 +51,7 @@
 
         The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 102–392, title I, § 2][/us/pl/102/392/s2], Oct. 6, 1992, [106 Stat. 1706][/us/stat/106/1706]; [Pub. L. 107–68, title I, § 107(a)][/us/pl/107/68/s107/a], Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568]; [Pub. L. 110–39, § 1][/us/pl/110/39/s1], June 21, 2007, [121 Stat. 231][/us/stat/121/231].)
+([Pub. L. 102–392, title I][/us/pl/102/392/tI], § 2, Oct. 6, 1992, [106 Stat. 1706][/us/stat/106/1706]; [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 107(a), Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568]; [Pub. L. 110–39][/us/pl/110/39], § 1, June 21, 2007, [121 Stat. 231][/us/stat/121/231].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
     Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
-    In subsec. (d), “[section 5104(c) of title 40][/us/usc/t40/s5104/c]” substituted for “[section 4 of the Act of July 31, 1946][/us/act/1946-07-31/s4] ([40 U.S.C. 193d][/us/usc/t40/s193d])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (d), “[section 5104(c) of title 40][/us/usc/t40/s5104/c]” substituted for “[section 4 of the Act of July 31, 1946][/us/act/1946-07-31/s4] ([40 U.S.C. 193d][/us/usc/t40/s193d])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -73,13 +73,13 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–68, title I, § 107(b)][/us/pl/107/68/s107/b], Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569], provided that: 
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 107(b), Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to fiscal years beginning before, on, or after the date of enactment of this Act \[Nov. 12, 2001\].”
 
  __Additional Capitalization__ 
 
-[Pub. L. 103–283, title I, § 1][/us/pl/103/283/s1], July 22, 1994, [108 Stat. 1426][/us/stat/108/1426], provided that: 
+[Pub. L. 103–283, title I][/us/pl/103/283/tI], § 1, July 22, 1994, [108 Stat. 1426][/us/stat/108/1426], provided that: 
 
 > “Effective on and after the date of enactment of this Act \[July 22, 1994\], the Secretary of the Senate, subject to the approval of the Committee on Appropriations of the Senate, is authorized to transfer up to $300,000 from any Senate appropriations account with respect to which the Secretary has disbursing authority to the revolving fund established under section 2(c) under the subheading ‘ADMINISTRATIVE PROVISIONS’ under the heading ‘SENATE’ in [Public Law 102–392][/us/pl/102/392] ([2 U.S.C. 121d(c)][/us/usc/t2/s121d/c]) \[now [2 U.S.C. 6576(c)][/us/usc/t2/s6576/c]\] to provide additional capitalization for such revolving fund. Any moneys so transferred shall be available for use in the same manner and to the same extent as the moneys otherwise in such revolving fund.”
 
@@ -91,11 +91,11 @@
 ----------
 
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
-[/us/pl/102/392/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs2
+[/us/pl/102/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtI
 [/us/stat/106/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1706
-[/us/pl/107/68/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs107%2Fa
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F568
-[/us/pl/110/39/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F39%2Fs1
+[/us/pl/110/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F39
 [/us/stat/121/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F231
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
 [/us/stat/104/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2254
@@ -103,13 +103,13 @@
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
 [/us/act/1946-07-31/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs4
 [/us/usc/t40/s193d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193d
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/110/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F39
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
-[/us/pl/107/68/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs107%2Fb
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F569
-[/us/pl/103/283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs1
+[/us/pl/103/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtI
 [/us/stat/108/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1426
 [/us/pl/102/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392
 [/us/usc/t2/s121d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121d%2Fc

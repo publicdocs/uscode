@@ -17,7 +17,7 @@
 
     The management, supervision, and administration of the Office are vested in the Legislative Counsel, who shall be appointed by the Speaker of the House of Representatives without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person so appointed shall serve at the pleasure of the Speaker.
 
-([Pub. L. 91–510, title V, § 521][/us/pl/91/510/s521], Oct. 26, 1970, [84 Stat. 1202][/us/stat/84/1202].)
+([Pub. L. 91–510, title V][/us/pl/91/510/tV], § 521, Oct. 26, 1970, [84 Stat. 1202][/us/stat/84/1202].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/510/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs521
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1202
 
 

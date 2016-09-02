@@ -19,11 +19,11 @@
 
     (b) The Secretary of the Interior in the case of the United States Park Police force, the Secretary of the Treasury in the case of the United States Secret Service Uniformed Division, the Capitol Police Board in the case of the Capitol Police, and the Mayor of the District of Columbia in the case of the Metropolitan Police force shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-([Pub. L. 91–297, title II, § 201(a)][/us/pl/91/297/s201/a], (b), June 30, 1970, [84 Stat. 357][/us/stat/84/357]; [Pub. L. 93–198, title IV, § 421][/us/pl/93/198/s421], Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789]; [Pub. L. 95–179][/us/pl/95/179], Nov. 15, 1977, [91 Stat. 1371][/us/stat/91/1371].)
+([Pub. L. 91–297, title II][/us/pl/91/297/tII], § 201(a), (b), June 30, 1970, [84 Stat. 357][/us/stat/84/357]; [Pub. L. 93–198, title IV][/us/pl/93/198/tIV], § 421, Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789]; [Pub. L. 95–179][/us/pl/95/179], Nov. 15, 1977, [91 Stat. 1371][/us/stat/91/1371].)
 
  __Codification__ 
 
-    Section was classified to section 210a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 210a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Transfer of Functions__ 
 
-    Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in text for “commissioner”.
+    Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in text for “commissioner”.
 
 ----------
 
@@ -40,16 +40,16 @@
 ----------
 ----------
 
-[/us/pl/91/297/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F297%2Fs201%2Fa
+[/us/pl/91/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F297%2FtII
 [/us/stat/84/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F357
-[/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
+[/us/pl/93/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtIV
 [/us/stat/87/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F789
 [/us/pl/95/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F179
 [/us/stat/91/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1371
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/95/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F179
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
 

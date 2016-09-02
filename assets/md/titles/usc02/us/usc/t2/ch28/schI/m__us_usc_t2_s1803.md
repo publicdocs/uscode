@@ -17,7 +17,7 @@
 
     The Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003.
 
-([Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], [69 Stat. 515][/us/stat/69/515]; [Pub. L. 108–7, div. H, title I, § 1205][/us/pl/108/7/s1205], Feb. 20, 2003, [117 Stat. 375][/us/stat/117/375].)
+([Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], [69 Stat. 515][/us/stat/69/515]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1205, Feb. 20, 2003, [117 Stat. 375][/us/stat/117/375].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was classified to section 163b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 163b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is from the Legislative Branch Appropriation Act, 1956.
 
@@ -42,11 +42,11 @@
 
 [/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568
 [/us/stat/69/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F515
-[/us/pl/108/7/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1205
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F375
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F345
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

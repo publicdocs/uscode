@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190a–3.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
+[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190b _us_usc_t2_s190c.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
 
 ## § 190d. Legislative review by standing committees of the Senate and the House of Representatives
 
@@ -33,7 +33,7 @@
 
         The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
 
-([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 136, [60 Stat. 832][/us/stat/60/832]; [Pub. L. 91–510, title I, § 118(a)(1)][/us/pl/91/510/s118/a/1], Oct. 26, 1970, [84 Stat. 1156][/us/stat/84/1156]; [Pub. L. 92–136, § 1][/us/pl/92/136/s1], Oct. 11, 1971, [85 Stat. 376][/us/stat/85/376]; [Pub. L. 93–344, title VII, § 701][/us/pl/93/344/s701], title IX, § 903(b), July 12, 1974, [88 Stat. 325][/us/stat/88/325], 331; [Pub. L. 104–186, title II, § 206(1)][/us/pl/104/186/s206/1], Aug. 20, 1996, [110 Stat. 1742][/us/stat/110/1742].)
+([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 136, [60 Stat. 832][/us/stat/60/832]; [Pub. L. 91–510, title I][/us/pl/91/510/tI], § 118(a)(1), Oct. 26, 1970, [84 Stat. 1156][/us/stat/84/1156]; [Pub. L. 92–136][/us/pl/92/136], § 1, Oct. 11, 1971, [85 Stat. 376][/us/stat/85/376]; [Pub. L. 93–344, title VII][/us/pl/93/344/tVII], § 701, title IX, § 903(b), July 12, 1974, [88 Stat. 325][/us/stat/88/325], 331; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 206(1), Aug. 20, 1996, [110 Stat. 1742][/us/stat/110/1742].)
 
  __Partial Repeal__ 
 
@@ -43,9 +43,9 @@
 
     1996—Subsec. (c). [Pub. L. 104–186][/us/pl/104/186] substituted “House Oversight” for “House Administration”.
 
-    1974—Subsec. (a). [Pub. L. 93–344, § 701][/us/pl/93/344/s701], authorized the committees to carry out the required analysis, appraisal, and evaluation themselves, or by contract, or to require a Government agency to do so and furnish a report thereon to the Congress, and authorized the committees to rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
+    1974—Subsec. (a). [Pub. L. 93–344][/us/pl/93/344], § 701, authorized the committees to carry out the required analysis, appraisal, and evaluation themselves, or by contract, or to require a Government agency to do so and furnish a report thereon to the Congress, and authorized the committees to rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
 
-    Subsec. (c). [Pub. L. 93–344, § 903(b)][/us/pl/93/344/s903/b], substituted “Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget,” for “Committee on Appropriations of the Senate and the Committee on Appropriations,”.
+    Subsec. (c). [Pub. L. 93–344][/us/pl/93/344], § 903(b), substituted “Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget,” for “Committee on Appropriations of the Senate and the Committee on Appropriations,”.
 
     1971—Subsec. (a). [Pub. L. 92–136][/us/pl/92/136] substituted “Congress” for “Senate” in provisions preceding cl. (1) and inserted reference to the House of Representatives in provisions following cl. (2).
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 92–136, § 9(a)][/us/pl/92/136/s9/a], Oct. 11, 1971, [85 Stat. 378][/us/stat/85/378], provided that: 
+[Pub. L. 92–136][/us/pl/92/136], § 9(a), Oct. 11, 1971, [85 Stat. 378][/us/stat/85/378], provided that: 
 
 > “The amendments made by the first section \[amending this section\] section 2, and section 5 of this Act \[amending [section 4301 of this title][/us/usc/t2/s4301]\] shall become effective as of noon on January 3, 1971.”
 
@@ -73,40 +73,40 @@
 
  __Effective Date__ 
 
-    Section effective Jan. 2, 1947, see section 142 of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, [60 Stat. 834][/us/stat/60/834].
+    Section effective Jan. 2, 1947, see section 142 of [act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], [60 Stat. 834][/us/stat/60/834].
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190a–3.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
+[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190b _us_usc_t2_s190c.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
 
 ----------
 ----------
 
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F832
-[/us/pl/91/510/s118/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs118%2Fa%2F1
+[/us/pl/91/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtI
 [/us/stat/84/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1156
-[/us/pl/92/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs1
+[/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/stat/85/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F376
-[/us/pl/93/344/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs701
+[/us/pl/93/344/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtVII
 [/us/stat/88/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F325
-[/us/pl/104/186/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs206%2F1
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1742
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/93/344/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs701
-[/us/pl/93/344/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs903%2Fb
+[/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
+[/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
-[/us/pl/92/136/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs9%2Fa
+[/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/stat/85/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F378
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 
 

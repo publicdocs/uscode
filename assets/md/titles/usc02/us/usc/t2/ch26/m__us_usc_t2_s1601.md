@@ -23,11 +23,11 @@
 
     (3) the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.
 
-([Pub. L. 104–65, § 2][/us/pl/104/65/s2], Dec. 19, 1995, [109 Stat. 691][/us/stat/109/691].)
+([Pub. L. 104–65][/us/pl/104/65], § 2, Dec. 19, 1995, [109 Stat. 691][/us/stat/109/691].)
 
  __Effective Date__ 
 
-[Pub. L. 104–65, § 24][/us/pl/104/65/s24], Dec. 19, 1995, [109 Stat. 705][/us/stat/109/705], provided that:
+[Pub. L. 104–65][/us/pl/104/65], § 24, Dec. 19, 1995, [109 Stat. 705][/us/stat/109/705], provided that:
 
 >     “(a) Except as otherwise provided in this section, this Act \[see Short Title note below\] and the amendments made by this Act shall take effect on January 1, 1996.
 
@@ -41,25 +41,25 @@
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–81, § 1(a)][/us/pl/110/81/s1/a], Sept. 14, 2007, [121 Stat. 735][/us/stat/121/735], provided that: 
+[Pub. L. 110–81][/us/pl/110/81], § 1(a), Sept. 14, 2007, [121 Stat. 735][/us/stat/121/735], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Honest Leadership and Open Government Act of 2007’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–166, § 1(a)][/us/pl/105/166/s1/a], Apr. 6, 1998, [112 Stat. 38][/us/stat/112/38], provided that: 
+[Pub. L. 105–166][/us/pl/105/166], § 1(a), Apr. 6, 1998, [112 Stat. 38][/us/stat/112/38], provided that: 
 
 > “This Act \[amending sections 1602, 1604, and 1610 of this title and [section 613 of Title 22][/us/usc/t22/s613], Foreign Relations and Intercourse\] may be cited as the ‘Lobbying Disclosure Technical Amendments Act of 1998’.”
 
  __Short Title__ 
 
-[Pub. L. 104–65, § 1][/us/pl/104/65/s1], Dec. 19, 1995, [109 Stat. 691][/us/stat/109/691], provided that: 
+[Pub. L. 104–65][/us/pl/104/65], § 1, Dec. 19, 1995, [109 Stat. 691][/us/stat/109/691], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 3304 of Title 5, Government Organization and Employees, [section 102 of Pub. L. 95–521][/us/pl/95/521/s102], set out in the Appendix to Title 5, [section 4804 of Title 15][/us/usc/t15/s4804], Commerce and Trade, sections 207 and 219 of Title 18, Crimes and Criminal Procedure, [section 2171 of Title 19][/us/usc/t19/s2171], Customs Duties, sections 611, 613, 614, 616, 618, 621, and 4002 of Title 22, Foreign Relations and Intercourse, [section 1352 of Title 31][/us/usc/t31/s1352], Money and Finance, and [section 1490p of Title 42][/us/usc/t42/s1490p], The Public Health and Welfare, repealing sections 261 to 270 of this title and [section 3537b of Title 42][/us/usc/t42/s3537b], enacting provisions set out as notes under this section, [section 3304 of Title 5][/us/usc/t5/s3304], [section 102 of Pub. L. 95–521][/us/pl/95/521/s102], set out in the Appendix to Title 5, and [section 207 of Title 18][/us/usc/t18/s207], and repealing provisions set out as a note under [section 261 of this title][/us/usc/t2/s261]\] may be cited as the ‘Lobbying Disclosure Act of 1995’.”
 
  __Construction of 2007 Amendment__ 
 
-[Pub. L. 110–81, title VII, § 703][/us/pl/110/81/s703], Sept. 14, 2007, [121 Stat. 776][/us/stat/121/776], provided that: 
+[Pub. L. 110–81, title VII][/us/pl/110/81/tVII], § 703, Sept. 14, 2007, [121 Stat. 776][/us/stat/121/776], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\] or the amendments made by this Act shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activities protected by the free speech, free exercise, or free association clauses of, the First Amendment to the Constitution.”
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/104/65/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs2
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
-[/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F705
 [/us/usc/t15/s4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4804
 [/us/usc/t18/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219
@@ -80,12 +80,12 @@
 [/us/usc/t42/s1490p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1490p
 [/us/usc/t42/s3537b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3537b
 [/us/usc/t2/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs261
-[/us/pl/110/81/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs1%2Fa
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/stat/121/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F735
-[/us/pl/105/166/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs1%2Fa
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/stat/112/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F38
 [/us/usc/t22/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs613
-[/us/pl/104/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs1
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/pl/95/521/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs102
 [/us/usc/t15/s4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4804
@@ -97,7 +97,7 @@
 [/us/pl/95/521/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs102
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/usc/t2/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs261
-[/us/pl/110/81/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs703
+[/us/pl/110/81/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtVII
 [/us/stat/121/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F776
 
 

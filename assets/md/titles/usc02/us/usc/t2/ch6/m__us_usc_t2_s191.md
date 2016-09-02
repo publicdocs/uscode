@@ -23,7 +23,7 @@
 
  __Codification__ 
 
-    R.S. § 101 derived from acts [May 3, 1798, ch. 36, § 1][/us/act/1798-05-03/ch36/s1], [1 Stat. 554][/us/stat/1/554], and [Feb. 8, 1817, ch. 10][/us/act/1817-02-08/ch10], [3 Stat. 345][/us/stat/3/345].
+    R.S. § 101 derived from acts [May 3, 1798, ch. 36][/us/act/1798-05-03/ch36], § 1, [1 Stat. 554][/us/stat/1/554], and [Feb. 8, 1817, ch. 10][/us/act/1817-02-08/ch10], [3 Stat. 345][/us/stat/3/345].
 
     R.S. § 101 constitutes first sentence, and act June 26, 1884, constitutes second sentence.
 
@@ -42,7 +42,7 @@
 [/us/stat/23/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F60
 [/us/act/1938-06-22/ch594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch594
 [/us/stat/52/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F942
-[/us/act/1798-05-03/ch36/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-05-03%2Fch36%2Fs1
+[/us/act/1798-05-03/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-05-03%2Fch36
 [/us/stat/1/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F554
 [/us/act/1817-02-08/ch10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1817-02-08%2Fch10
 [/us/stat/3/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F345

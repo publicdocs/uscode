@@ -17,7 +17,7 @@
 
     The Page Board shall have authority to prescribe such regulations as may be necessary to carry out sections 4911 to 4913 of this title.
 
-([Pub. L. 97–377, title I, § 127][/us/pl/97/377/s127], Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914].)
+([Pub. L. 97–377, title I][/us/pl/97/377/tI], § 127, Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/377/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs127
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1914
 [/us/usc/t2/s88b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%934
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377

@@ -103,7 +103,7 @@
 
         may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.
 
-([Pub. L. 104–65, § 4][/us/pl/104/65/s4], Dec. 19, 1995, [109 Stat. 696][/us/stat/109/696]; [Pub. L. 110–81, title II][/us/pl/110/81], §§ 201(b)(2), (5), 207(a)(1), (b), 208, Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742], 747, 748.)
+([Pub. L. 104–65][/us/pl/104/65], § 4, Dec. 19, 1995, [109 Stat. 696][/us/stat/109/696]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], §§ 201(b)(2), (5), 207(a)(1), (b), 208, Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742], 747, 748.)
 
  __References in Text__ 
 
@@ -111,25 +111,25 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–81, § 201(b)(2)(A)][/us/pl/110/81/s201/b/2/A], inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
+    2007—Subsec. (a)(1). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(2)(A), inserted “or on the first business day after such 45th day if the 45th day is not a business day,” after “earlier,”.
 
-    Subsec. (a)(3)(A). [Pub. L. 110–81, § 201(b)(2)(B)][/us/pl/110/81/s201/b/2/B], substituted “quarterly period” for “semiannual period” in concluding provisions.
+    Subsec. (a)(3)(A). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(2)(B), substituted “quarterly period” for “semiannual period” in concluding provisions.
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 110–81, § 201(b)(5)(A)][/us/pl/110/81/s201/b/5/A], substituted “$2,500” for “$5,000”.
+    Subsec. (a)(3)(A)(i). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(5)(A), substituted “$2,500” for “$5,000”.
 
-    Subsec. (a)(3)(A)(ii). [Pub. L. 110–81, § 201(b)(5)(B)][/us/pl/110/81/s201/b/5/B], substituted “$10,000” for “$20,000”.
+    Subsec. (a)(3)(A)(ii). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(5)(B), substituted “$10,000” for “$20,000”.
 
-    Subsec. (b). [Pub. L. 110–81, § 207(b)][/us/pl/110/81/s207/b], inserted concluding provisions.
+    Subsec. (b). [Pub. L. 110–81][/us/pl/110/81], § 207(b), inserted concluding provisions.
 
-    Subsec. (b)(3)(A). [Pub. L. 110–81, § 207(a)(1)(A)][/us/pl/110/81/s207/a/1/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “contributes more than $5,000 toward the lobbying activities of the registrant in a semiannual period described in [section 1604(a) of this title][/us/usc/t2/s1604/a]; and”.
+    Subsec. (b)(3)(A). [Pub. L. 110–81][/us/pl/110/81], § 207(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “contributes more than $5,000 toward the lobbying activities of the registrant in a semiannual period described in [section 1604(a) of this title][/us/usc/t2/s1604/a]; and”.
 
-    [Pub. L. 110–81, § 201(b)(5)(C)][/us/pl/110/81/s201/b/5/C], substituted “$5,000” for “$10,000”.
+    [Pub. L. 110–81][/us/pl/110/81], § 201(b)(5)(C), substituted “$5,000” for “$10,000”.
 
-    Subsec. (b)(3)(B). [Pub. L. 110–81, § 207(a)(1)(B)][/us/pl/110/81/s207/a/1/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in whole or in major part plans, supervises, or controls such lobbying activities.”
+    Subsec. (b)(3)(B). [Pub. L. 110–81][/us/pl/110/81], § 207(a)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in whole or in major part plans, supervises, or controls such lobbying activities.”
 
-    Subsec. (b)(4). [Pub. L. 110–81, § 201(b)(5)(D)][/us/pl/110/81/s201/b/5/D], substituted “$5,000” for “$10,000” in introductory provisions.
+    Subsec. (b)(4). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(5)(D), substituted “$5,000” for “$10,000” in introductory provisions.
 
-    Subsec. (b)(6). [Pub. L. 110–81, § 208][/us/pl/110/81/s208], substituted “in the 20 years before the date on which the employee first acted” for “in the 2 years before the date on which such employee first acted (after December 19, 1995)”.
+    Subsec. (b)(6). [Pub. L. 110–81][/us/pl/110/81], § 208, substituted “in the 20 years before the date on which the employee first acted” for “in the 2 years before the date on which such employee first acted (after December 19, 1995)”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -144,24 +144,24 @@
 
 [/us/usc/t2/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604
 [/us/usc/t2/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fa
-[/us/pl/104/65/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs4
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F696
-[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F742
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/110/81/s201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F2%2FA
-[/us/pl/110/81/s201/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F2%2FB
-[/us/pl/110/81/s201/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F5%2FA
-[/us/pl/110/81/s201/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F5%2FB
-[/us/pl/110/81/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs207%2Fb
-[/us/pl/110/81/s207/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs207%2Fa%2F1%2FA
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/usc/t2/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fa
-[/us/pl/110/81/s201/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F5%2FC
-[/us/pl/110/81/s207/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs207%2Fa%2F1%2FB
-[/us/pl/110/81/s201/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F5%2FD
-[/us/pl/110/81/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs208
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs215
 [/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104

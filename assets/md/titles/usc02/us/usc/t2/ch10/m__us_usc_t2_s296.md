@@ -43,7 +43,7 @@
 
         (3) the benefit of successive step increases under such system of step increases shall be preserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
 
-([Pub. L. 88–652, § 7][/us/pl/88/652/s7], Oct. 13, 1964, [78 Stat. 1081][/us/stat/78/1081].)
+([Pub. L. 88–652][/us/pl/88/652], § 7, Oct. 13, 1964, [78 Stat. 1081][/us/stat/78/1081].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/88/652/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs7
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1081
 
 

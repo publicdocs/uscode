@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t2/ch10A/m__us_usc_t2_s331.md) | [Next](./../../../..//us/usc/t2/ch10A/m__us_usc_t2_s333.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs332)
 
-## § 332. Repealed. [Pub. L. 104–186, title II, § 210(2)(A)][/us/pl/104/186/s210/2/A], Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743]
+## § 332. Repealed. [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 210(2)(A), Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743]
 
-    Section, [Pub. L. 91–510, title IV, § 472][/us/pl/91/510/s472], Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194], directed single per annum gross rates of clerk hire allowances of Members determined on basis of population.
+    Section, [Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 472, Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194], directed single per annum gross rates of clerk hire allowances of Members determined on basis of population.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/186/s210/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs210%2F2%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1743
-[/us/pl/91/510/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs472
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1194
 
 

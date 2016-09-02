@@ -23,7 +23,7 @@
 
  __Codification__ 
 
-    R.S. § 30 derived from [act June 1, 1789, ch. 1, § 2][/us/act/1789-06-01/ch1/s2], [1 Stat. 23][/us/stat/1/23].
+    R.S. § 30 derived from [act June 1, 1789, ch. 1][/us/act/1789-06-01/ch1], § 2, [1 Stat. 23][/us/stat/1/23].
 
     The last paragraph of this section, which permitted Members and Delegates of the House of Representatives of the Eightieth Congress to subscribe and deliver two signed copies of the printed oath of office at any time before the expiration of the Eightieth Congress, was omitted.
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-02-18/ch53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-18%2Fch53
 [/us/stat/62/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F20
-[/us/act/1789-06-01/ch1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-06-01%2Fch1%2Fs2
+[/us/act/1789-06-01/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-06-01%2Fch1
 [/us/stat/1/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F23
 
 

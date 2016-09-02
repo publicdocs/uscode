@@ -29,7 +29,7 @@
 
  __Designation of Deputy Legislative Counsel__ 
 
-[Pub. L. 106–57, title I, § 6][/us/pl/106/57/s6], Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412], provided that: 
+[Pub. L. 106–57, title I][/us/pl/106/57/tI], § 6, Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412], provided that: 
 
 > “The Legislative Counsel may, subject to the approval of the President pro tempore of the Senate, designate one of the Senior Counsels appointed under section 102 of the Legislative Branch Appropriation Act, 1979 ([2 U.S.C. 274][/us/usc/t2/s274] note; [Public Law 95–391][/us/pl/95/391]; [92 Stat. 771][/us/stat/92/771]) as Deputy Legislative Counsel. The Deputy Legislative Counsel shall perform the functions of the Legislative Counsel during the absence or disability of the Legislative Counsel, or when the office is vacant.”
 
@@ -41,7 +41,7 @@
 
  __Additional Senior Counsel__ 
 
-[Pub. L. 95–391, title I, § 102][/us/pl/95/391/s102], Sept. 30, 1978, [92 Stat. 771][/us/stat/92/771], provided that: 
+[Pub. L. 95–391, title I][/us/pl/95/391/tI], § 102, Sept. 30, 1978, [92 Stat. 771][/us/stat/92/771], provided that: 
 
 > “Effective October 1, 1978, the number of employees in the Office of the Legislative Counsel of the Senate who may be designated as, and receive the compensation of, a Senior Counsel is increased to five.”
 
@@ -51,9 +51,9 @@
 
  __Increases in Compensation of Four Senior Counsels__ 
 
-    [Pub. L. 94–59, title I, § 105][/us/pl/94/59/s105], July 25, 1975, [89 Stat. 275][/us/stat/89/275], eff. July 1, 1975, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000.
+    [Pub. L. 94–59, title I][/us/pl/94/59/tI], § 105, July 25, 1975, [89 Stat. 275][/us/stat/89/275], eff. July 1, 1975, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000.
 
-    [Pub. L. 93–371, § 4][/us/pl/93/371/s4], Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429], eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
+    [Pub. L. 93–371][/us/pl/93/371], § 4, Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429], eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 
  __1974__  __Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate__ 
 
@@ -78,20 +78,20 @@
 [/us/stat/55/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F726
 [/us/pl/91/510/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs531
 [/us/usc/t2/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs281
-[/us/pl/106/57/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs6
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F412
 [/us/usc/t2/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs274
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391
 [/us/stat/92/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F771
 [/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
 [/us/stat/71/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F251
-[/us/pl/95/391/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs102
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F771
 [/us/pl/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F248
 [/us/stat/77/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F804
-[/us/pl/94/59/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs105
+[/us/pl/94/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtI
 [/us/stat/89/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F275
-[/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F429
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4

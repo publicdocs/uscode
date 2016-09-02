@@ -89,7 +89,7 @@
 
         This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
 
-([Pub. L. 112–170, § 1][/us/pl/112/170/s1], Aug. 16, 2012, [126 Stat. 1303][/us/stat/126/1303].)
+([Pub. L. 112–170][/us/pl/112/170], § 1, Aug. 16, 2012, [126 Stat. 1303][/us/stat/126/1303].)
 
 ----------
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/112/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F170%2Fs1
+[/us/pl/112/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F170
 [/us/stat/126/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1303
 
 

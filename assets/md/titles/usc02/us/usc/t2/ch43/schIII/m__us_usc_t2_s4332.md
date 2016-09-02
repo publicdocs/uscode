@@ -27,13 +27,13 @@
 
         A Senator shall notify the chairman and ranking minority member of a committee whenever a designation of an employee under this section with respect to such committee is terminated.
 
-([Pub. L. 95–94, title I, § 111(c)][/us/pl/95/94/s111/c], Aug. 5, 1977, [91 Stat. 662][/us/stat/91/662].)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(c), Aug. 5, 1977, [91 Stat. 662][/us/stat/91/662].)
 
  __References in Text__ 
 
-    Section 705(c)(1) of Senate Resolution 4, 95th Congress, referred to in par. (2), which was not classified to the Code, was repealed by [Pub. L. 95–94, title I, § 111(e)(2)][/us/pl/95/94/s111/e/2], Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663].
+    Section 705(c)(1) of Senate Resolution 4, 95th Congress, referred to in par. (2), which was not classified to the Code, was repealed by [Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(e)(2), Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663].
 
-    [Section 72a–1d(c)(1) of this title][/us/usc/t2/s72a–1d/c/1], referred to in par. (2), was repealed by [Pub. L. 95–94, title I, § 111(e)(1)][/us/pl/95/94/s111/e/1], Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663].
+    [Section 72a–1d(c)(1) of this title][/us/usc/t2/s72a–1d/c/1], referred to in par. (2), was repealed by [Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(e)(1), Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663].
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–94, title I, § 111(f)][/us/pl/95/94/s111/f], Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663], provided that: 
+[Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(f), Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663], provided that: 
 
 > “This section, and the amendments made by subsection (d) and the repeals made by subsection (e) \[enacting this section, amending [section 4575 of this title][/us/usc/t2/s4575], enacting notes set out under [section 4575 of this title][/us/usc/t2/s4575], and repealing section 72a–1d and notes set out under former [section 72a–1d of this title][/us/usc/t2/s72a–1d]\], shall take effect on October 1, 1977.”
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/95/94/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fc
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F662
-[/us/pl/95/94/s111/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fe%2F2
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F663
 [/us/usc/t2/s72a–1d/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931d%2Fc%2F1
-[/us/pl/95/94/s111/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fe%2F1
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F663
 [/us/usc/t2/s72a–1e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931e
-[/us/pl/95/94/s111/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Ff
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F663
 [/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
 [/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575

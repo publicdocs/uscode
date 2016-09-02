@@ -21,7 +21,7 @@
 
  __Law Enforcement Authority of Sergeant at Arms__ 
 
-    [Pub. L. 104–53, title III, § 313][/us/pl/104/53/s313], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], which related to the law enforcement authority of the Sergeant at Arms, was editorially reclassified as [section 5605 of this title][/us/usc/t2/s5605].
+    [Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 313, Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], which related to the law enforcement authority of the Sergeant at Arms, was editorially reclassified as [section 5605 of this title][/us/usc/t2/s5605].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s5604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5604
-[/us/pl/104/53/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs313
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 [/us/usc/t2/s5605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5605
 

@@ -25,13 +25,13 @@
 
     (4) improve the allocation of resources among credit programs and between credit and other spending programs.
 
-([Pub. L. 93–344, title V, § 501][/us/pl/93/344/s501], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–610][/us/stat/104/1388-610].)
+([Pub. L. 93–344, title V][/us/pl/93/344/tV], § 501, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–610][/us/stat/104/1388-610].)
 
  __Prior Provisions__ 
 
-    A prior section 661, [Pub. L. 93–344, title VI, § 606][/us/pl/93/344/s606], July 12, 1974, [88 Stat. 325][/us/stat/88/325], directed that Budget Committees of House and Senate study, on a continuing basis, any provisions of law which exempt agencies or programs from inclusion in the budget and make recommendations from time to time with regard to terminating or modifying such provisions, prior to repeal by [Pub. L. 99–177, title II][/us/pl/99/177], §§ 223, 275(a)(1), Dec. 12, 1985, [99 Stat. 1060][/us/stat/99/1060], 1100, effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985.
+    A prior section 661, [Pub. L. 93–344, title VI][/us/pl/93/344/tVI], § 606, July 12, 1974, [88 Stat. 325][/us/stat/88/325], directed that Budget Committees of House and Senate study, on a continuing basis, any provisions of law which exempt agencies or programs from inclusion in the budget and make recommendations from time to time with regard to terminating or modifying such provisions, prior to repeal by [Pub. L. 99–177, title II][/us/pl/99/177/tII], §§ 223, 275(a)(1), Dec. 12, 1985, [99 Stat. 1060][/us/stat/99/1060], 1100, effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985.
 
-    A prior [section 501 of Pub. L. 93–344][/us/pl/93/344/s501], title V, July 12, 1974, [88 Stat. 321][/us/stat/88/321], was classified to section 1020 of former Title 31, prior to repeal and reenactment as [section 1102 of Title 31][/us/usc/t31/s1102], Money and Finance, by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31.
+    A prior [section 501 of Pub. L. 93–344][/us/pl/93/344/s501], title V, July 12, 1974, [88 Stat. 321][/us/stat/88/321], was classified to section 1020 of former Title 31, prior to repeal and reenactment as [section 1102 of Title 31][/us/usc/t31/s1102], Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31.
 
  __Short Title__ 
 
@@ -44,17 +44,17 @@
 ----------
 ----------
 
-[/us/pl/93/344/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs501
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/93/344/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtV
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-610
-[/us/pl/93/344/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs606
+[/us/pl/93/344/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtVI
 [/us/stat/88/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F325
-[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1060
 [/us/pl/93/344/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs501
 [/us/stat/88/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F321
 [/us/usc/t31/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1102
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/pl/93/344/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs500

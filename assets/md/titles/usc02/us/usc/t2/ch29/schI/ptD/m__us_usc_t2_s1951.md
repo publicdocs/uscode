@@ -17,11 +17,11 @@
 
     There is hereby established in the Treasury of the United States the United States Capitol Police Memorial Fund (hereafter in this part referred to as the “Fund”). All amounts received by the Capitol Police Board which are designated for deposit into the Fund shall be deposited into the Fund.
 
-([Pub. L. 105–223, § 1][/us/pl/105/223/s1], Aug. 7, 1998, [112 Stat. 1250][/us/stat/112/1250].)
+([Pub. L. 105–223][/us/pl/105/223], § 1, Aug. 7, 1998, [112 Stat. 1250][/us/stat/112/1250].)
 
  __Codification__ 
 
-    Section was classified to section 207c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 207c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/105/223/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F223%2Fs1
+[/us/pl/105/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F223
 [/us/stat/112/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1250
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

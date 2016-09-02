@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 100 derived from [act Apr. 5, 1866, ch. 25, § 2][/us/act/1866-04-05/ch25/s2], [14 Stat. 13][/us/stat/14/13].
+    R.S. § 100 derived from [act Apr. 5, 1866, ch. 25][/us/act/1866-04-05/ch25], § 2, [14 Stat. 13][/us/stat/14/13].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs151
-[/us/act/1866-04-05/ch25/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-05%2Fch25%2Fs2
+[/us/act/1866-04-05/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-04-05%2Fch25
 [/us/stat/14/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F13
 
 

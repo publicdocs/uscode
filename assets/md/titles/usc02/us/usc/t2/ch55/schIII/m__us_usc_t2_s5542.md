@@ -31,7 +31,7 @@
 
         This section shall apply with respect to fiscal year 2004 and each succeeding fiscal year.
 
-([Pub. L. 108–447, div. G, title I, § 108][/us/pl/108/447/s108], Dec. 8, 2004, [118 Stat. 3177][/us/stat/118/3177].)
+([Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 108, Dec. 8, 2004, [118 Stat. 3177][/us/stat/118/3177].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs108
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3177
 [/us/usc/t2/s117j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117j%E2%80%931
 

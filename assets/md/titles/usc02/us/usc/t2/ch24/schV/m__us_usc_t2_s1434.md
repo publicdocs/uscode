@@ -41,7 +41,7 @@
 
     The report shall be submitted to Congress not later than December 31, 1996, and shall include any recommendations the Judicial Conference may have for legislation to provide to employees of the judicial branch the rights, protections, and procedures under the listed laws, including administrative and judicial relief, that are comparable to those available to employees of the legislative branch under subchapters I through IV of this chapter.
 
-([Pub. L. 104–1, title V, § 505][/us/pl/104/1/s505], Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41].)
+([Pub. L. 104–1, title V][/us/pl/104/1/tV], § 505, Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 [/us/usc/t29/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2001
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/104/1/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs505
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

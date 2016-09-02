@@ -31,7 +31,7 @@
 
         This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-([Pub. L. 107–117, div. B, § 904][/us/pl/107/117/s904], Jan. 10, 2002, [115 Stat. 2318][/us/stat/115/2318].)
+([Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 904, Jan. 10, 2002, [115 Stat. 2318][/us/stat/115/2318].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/107/117/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs904
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2318
 [/us/usc/t2/s130h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130h
 

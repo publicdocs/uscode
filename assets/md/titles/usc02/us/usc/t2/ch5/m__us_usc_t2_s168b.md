@@ -17,7 +17,7 @@
 
     There shall be printed four thousand eight hundred and seventy additional copies of the hardbound revised editions prepared pursuant to clause (1) of [section 168 of this title][/us/usc/t2/s168] and of all cumulative pocket-part supplements thereto, of which two thousand six hundred and thirty-four copies shall be for the use of the House of Representatives, one thousand two hundred and thirty-six copies shall be for the use of the Senate, and one thousand copies shall be for the use of the Joint Committee on Printing. All Members of the Congress, Vice Presidents of the United States, and Delegates and Resident Commissioners, newly elected subsequent to the issuance of the hardbound revised edition prepared pursuant to such clause and prior to the first hardbound decennial revised edition, who did not receive a copy of the edition prepared pursuant to such clause, shall, upon timely request, receive one copy of such edition and the then current cumulative pocket-part supplement and any further supplements thereto. All Members of the Congress, Vice Presidents of the United States, and Delegates and Resident Commissioners, no longer serving after the issuance of the hardbound revised edition prepared pursuant to such clause and who received such edition, may receive one copy of each cumulative pocket-part supplement thereto upon timely request.
 
-([Pub. L. 91–589, § 3][/us/pl/91/589/s3], Dec. 24, 1970, [84 Stat. 1586][/us/stat/84/1586].)
+([Pub. L. 91–589][/us/pl/91/589], § 3, Dec. 24, 1970, [84 Stat. 1586][/us/stat/84/1586].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t2/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs168
-[/us/pl/91/589/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589%2Fs3
+[/us/pl/91/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589
 [/us/stat/84/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1586
 
 

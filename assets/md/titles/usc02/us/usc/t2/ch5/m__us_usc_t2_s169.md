@@ -17,27 +17,27 @@
 
     From and after October 1, 1983, not to exceed fifteen positions in the Library of Congress may be exempt from the provisions of appropriation Acts concerning the employment of aliens during the current fiscal year, but the Librarian shall not make any appointment to any such position until he has ascertained that he cannot secure for such appointments a person in any of the categories specified in such provisions who possesses the special qualifications for the particular position and also otherwise meets the general requirements for employment in the Library of Congress.
 
-([Pub. L. 98–51, title II, § 202][/us/pl/98/51/s202], July 14, 1983, [97 Stat. 276][/us/stat/97/276].)
+([Pub. L. 98–51, title II][/us/pl/98/51/tII], § 202, July 14, 1983, [97 Stat. 276][/us/stat/97/276].)
 
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    Oct. 2, 1982, [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e] \[S. 2939, title II, § 202\], [96 Stat. 1189][/us/stat/96/1189].
+    Oct. 2, 1982, [Pub. L. 97–276][/us/pl/97/276], § 101(e) \[S. 2939, title II, § 202\], [96 Stat. 1189][/us/stat/96/1189].
 
-    Oct. 1, 1981, [Pub. L. 97–51, § 101(c)][/us/pl/97/51/s101/c] \[H.R. 4120, title II, § 202\], [95 Stat. 959][/us/stat/95/959].
+    Oct. 1, 1981, [Pub. L. 97–51][/us/pl/97/51], § 101(c) \[H.R. 4120, title II, § 202\], [95 Stat. 959][/us/stat/95/959].
 
-    Dec. 16, 1980, [Pub. L. 96–536, § 101(c)][/us/pl/96/536/s101/c] \[H.R. 7593, title II, § 202\], [94 Stat. 3167][/us/stat/94/3167].
+    Dec. 16, 1980, [Pub. L. 96–536][/us/pl/96/536], § 101(c) \[H.R. 7593, title II, § 202\], [94 Stat. 3167][/us/stat/94/3167].
 
-    Oct. 12, 1979, [Pub. L. 96–86, § 101(c)][/us/pl/96/86/s101/c] \[H.R. 4390, title II, § 202\], [93 Stat. 657][/us/stat/93/657].
+    Oct. 12, 1979, [Pub. L. 96–86][/us/pl/96/86], § 101(c) \[H.R. 4390, title II, § 202\], [93 Stat. 657][/us/stat/93/657].
 
-    Sept. 30, 1978, [Pub. L. 95–391, title II, § 202][/us/pl/95/391/s202], [92 Stat. 785][/us/stat/92/785].
+    Sept. 30, 1978, [Pub. L. 95–391, title II][/us/pl/95/391/tII], § 202, [92 Stat. 785][/us/stat/92/785].
 
-    Aug. 5, 1977, [Pub. L. 95–94, title II, § 202][/us/pl/95/94/s202], [91 Stat. 677][/us/stat/91/677].
+    Aug. 5, 1977, [Pub. L. 95–94, title II][/us/pl/95/94/tII], § 202, [91 Stat. 677][/us/stat/91/677].
 
-    Oct. 1, 1976, [Pub. L. 94–440, title VIII, § 802][/us/pl/94/440/s802], [90 Stat. 1457][/us/stat/90/1457].
+    Oct. 1, 1976, [Pub. L. 94–440, title VIII][/us/pl/94/440/tVIII], § 802, [90 Stat. 1457][/us/stat/90/1457].
 
-    July 25, 1975, [Pub. L. 94–59, title VII, § 702][/us/pl/94/59/s702], [89 Stat. 294][/us/stat/89/294].
+    July 25, 1975, [Pub. L. 94–59, title VII][/us/pl/94/59/tVII], § 702, [89 Stat. 294][/us/stat/89/294].
 
     Aug. 13, 1974, [Pub. L. 93–371][/us/pl/93/371], [88 Stat. 441][/us/stat/88/441].
 
@@ -110,23 +110,23 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/98/51/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs202
+[/us/pl/98/51/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtII
 [/us/stat/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F276
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
-[/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3167
-[/us/pl/96/86/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86%2Fs101%2Fc
+[/us/pl/96/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86
 [/us/stat/93/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F657
-[/us/pl/95/391/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs202
+[/us/pl/95/391/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtII
 [/us/stat/92/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F785
-[/us/pl/95/94/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs202
+[/us/pl/95/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtII
 [/us/stat/91/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F677
-[/us/pl/94/440/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs802
+[/us/pl/94/440/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtVIII
 [/us/stat/90/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1457
-[/us/pl/94/59/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs702
+[/us/pl/94/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtVII
 [/us/stat/89/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F294
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F441

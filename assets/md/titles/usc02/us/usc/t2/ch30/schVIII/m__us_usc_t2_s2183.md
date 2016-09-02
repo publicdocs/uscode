@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    Section was classified to section 193 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 193 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
-    R.S. § 1820 derived from acts [Mar. 30, 1867, ch. 20, § 2][/us/act/1867-03-30/ch20/s2], [15 Stat. 12][/us/stat/15/12]; [Apr. 29, 1876, ch. 86][/us/act/1876-04-29/ch86], [19 Stat. 41][/us/stat/19/41].
+    R.S. § 1820 derived from acts [Mar. 30, 1867, ch. 20][/us/act/1867-03-30/ch20], § 2, [15 Stat. 12][/us/stat/15/12]; [Apr. 29, 1876, ch. 86][/us/act/1876-04-29/ch86], [19 Stat. 41][/us/stat/19/41].
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/act/1867-03-30/ch20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-30%2Fch20%2Fs2
+[/us/act/1867-03-30/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-30%2Fch20
 [/us/stat/15/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F12
 [/us/act/1876-04-29/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-04-29%2Fch86
 [/us/stat/19/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F41

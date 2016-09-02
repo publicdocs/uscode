@@ -133,7 +133,7 @@
 
     (e) __Gross rate of compensation of employee of committee of Senate employed by joint committee, select committee, or standing committee__ 
 
-        (1), (2) Repealed. [Pub. L. 96–304, title I, § 112(b)(1)][/us/pl/96/304/s112/b/1], July 8, 1980, [94 Stat. 892][/us/stat/94/892].
+        (1), (2) Repealed. [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 112(b)(1), July 8, 1980, [94 Stat. 892][/us/stat/94/892].
 
         (3)
 
@@ -159,7 +159,7 @@
 
         No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $2,677 or in excess of $169,459 unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
 
-([Pub. L. 90–57, § 105(a)][/us/pl/90/57/s105/a]–(f), (j), July 28, 1967, [81 Stat. 141–144][/us/stat/81/141-144]; [Pub. L. 90–206, title II, § 214][/us/pl/90/206/s214] (j)–(l), Dec. 16, 1967, [81 Stat. 637][/us/stat/81/637]; [Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 340][/us/stat/83/340]; [Pub. L. 91–510, title III, § 305][/us/pl/91/510/s305], Oct. 26, 1970, [84 Stat. 1181][/us/stat/84/1181]; [Pub. L. 91–656, § 4][/us/pl/91/656/s4], Jan. 8, 1971, [84 Stat. 1952][/us/stat/84/1952]; [Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 633][/us/stat/85/633]; [Pub. L. 92–607][/us/pl/92/607], ch. V, § 505, Oct. 31, 1972, [86 Stat. 1505][/us/stat/86/1505]; [Pub. L. 93–145][/us/pl/93/145], Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532]; [Pub. L. 93–245][/us/pl/93/245], ch. VI, Jan. 3, 1974, [87 Stat. 1078][/us/stat/87/1078]; [Pub. L. 93–255, § 1][/us/pl/93/255/s1], Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 93–371, § 6][/us/pl/93/371/s6], Aug. 13, 1974, [88 Stat. 430][/us/stat/88/430]; [Pub. L. 94–59, title I, § 102][/us/pl/94/59/s102], July 25, 1975, [89 Stat. 274][/us/stat/89/274]; [Pub. L. 94–440, title I, § 101(a)][/us/pl/94/440/s101/a], Oct. 1, 1976, [90 Stat. 1443][/us/stat/90/1443]; [Pub. L. 95–94, title I, § 111(d)][/us/pl/95/94/s111/d], Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663]; [Pub. L. 95–391, title I, § 104(b)][/us/pl/95/391/s104/b], Sept. 30, 1978, [92 Stat. 772][/us/stat/92/772]; [Pub. L. 95–482, § 112][/us/pl/95/482/s112], Oct. 18, 1978, [92 Stat. 1605][/us/stat/92/1605]; [Pub. L. 96–304, title I][/us/pl/96/304], §§ 107(a), 112(b)(1), July 8, 1980, [94 Stat. 890][/us/stat/94/890], 892; [Pub. L. 98–181, title I, § 1203(a)][/us/pl/98/181/s1203/a], Nov. 30, 1983, [97 Stat. 1289][/us/stat/97/1289]; [Pub. L. 98–367, title I][/us/pl/98/367], §§ 3(a), 12(a), (b), July 17, 1984, [98 Stat. 475][/us/stat/98/475], 476; [Pub. L. 100–71, title I, § 3(a)][/us/pl/100/71/s3/a], July 11, 1987, [101 Stat. 423][/us/stat/101/423]; [Pub. L. 100–137, § 1(c)(1)][/us/pl/100/137/s1/c/1], Oct. 21, 1987, [101 Stat. 818][/us/stat/101/818]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 1(a)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–293; [Pub. L. 104–186, title II, § 204(9)][/us/pl/104/186/s204/9], Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731]; [Pub. L. 105–18, title II, § 7001][/us/pl/105/18/s7001], June 12, 1997, [111 Stat. 192][/us/stat/111/192]; [Pub. L. 105–55, title I, § 5][/us/pl/105/55/s5], Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181]; [Pub. L. 105–275, title I, § 8][/us/pl/105/275/s8], Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434]; [Pub. L. 106–57, title I, § 2][/us/pl/106/57/s2], Sept. 29, 1999, [113 Stat. 411][/us/stat/113/411]; [Pub. L. 107–68, title I, § 106][/us/pl/107/68/s106], Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568]; [Pub. L. 108–7, div. H, title I, § 3][/us/pl/108/7/s3], Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349]; [Pub. L. 108–83, title I, § 1][/us/pl/108/83/s1], Sept. 30, 2003, [117 Stat. 1010][/us/stat/117/1010]; [Pub. L. 108–447, div. G, title I, § 1][/us/pl/108/447/s1], Dec. 8, 2004, [118 Stat. 3168][/us/stat/118/3168]; [Pub. L. 109–55, title I, § 1][/us/pl/109/55/s1], Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161], §§ 1, 4(a), Dec. 26, 2007, [121 Stat. 2220][/us/stat/121/2220], 2221; [Pub. L. 111–8, div. G, title I, § 1][/us/pl/111/8/s1], Mar. 11, 2009, [123 Stat. 814][/us/stat/123/814]; [Pub. L. 111–68, div. A, title I, § 1][/us/pl/111/68/s1], Oct. 1, 2009, [123 Stat. 2026][/us/stat/123/2026].)
+([Pub. L. 90–57][/us/pl/90/57], § 105(a)–(f), (j), July 28, 1967, [81 Stat. 141–144][/us/stat/81/141-144]; [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 214 (j)–(l), Dec. 16, 1967, [81 Stat. 637][/us/stat/81/637]; [Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 340][/us/stat/83/340]; [Pub. L. 91–510, title III][/us/pl/91/510/tIII], § 305, Oct. 26, 1970, [84 Stat. 1181][/us/stat/84/1181]; [Pub. L. 91–656][/us/pl/91/656], § 4, Jan. 8, 1971, [84 Stat. 1952][/us/stat/84/1952]; [Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 633][/us/stat/85/633]; [Pub. L. 92–607][/us/pl/92/607], ch. V, § 505, Oct. 31, 1972, [86 Stat. 1505][/us/stat/86/1505]; [Pub. L. 93–145][/us/pl/93/145], Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532]; [Pub. L. 93–245][/us/pl/93/245], ch. VI, Jan. 3, 1974, [87 Stat. 1078][/us/stat/87/1078]; [Pub. L. 93–255][/us/pl/93/255], § 1, Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 93–371][/us/pl/93/371], § 6, Aug. 13, 1974, [88 Stat. 430][/us/stat/88/430]; [Pub. L. 94–59, title I][/us/pl/94/59/tI], § 102, July 25, 1975, [89 Stat. 274][/us/stat/89/274]; [Pub. L. 94–440, title I][/us/pl/94/440/tI], § 101(a), Oct. 1, 1976, [90 Stat. 1443][/us/stat/90/1443]; [Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(d), Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663]; [Pub. L. 95–391, title I][/us/pl/95/391/tI], § 104(b), Sept. 30, 1978, [92 Stat. 772][/us/stat/92/772]; [Pub. L. 95–482][/us/pl/95/482], § 112, Oct. 18, 1978, [92 Stat. 1605][/us/stat/92/1605]; [Pub. L. 96–304, title I][/us/pl/96/304/tI], §§ 107(a), 112(b)(1), July 8, 1980, [94 Stat. 890][/us/stat/94/890], 892; [Pub. L. 98–181, title I][/us/pl/98/181/tI], § 1203(a), Nov. 30, 1983, [97 Stat. 1289][/us/stat/97/1289]; [Pub. L. 98–367, title I][/us/pl/98/367/tI], §§ 3(a), 12(a), (b), July 17, 1984, [98 Stat. 475][/us/stat/98/475], 476; [Pub. L. 100–71, title I][/us/pl/100/71/tI], § 3(a), July 11, 1987, [101 Stat. 423][/us/stat/101/423]; [Pub. L. 100–137][/us/pl/100/137], § 1(c)(1), Oct. 21, 1987, [101 Stat. 818][/us/stat/101/818]; [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title I, § 1(a)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–293; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(9), Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 7001, June 12, 1997, [111 Stat. 192][/us/stat/111/192]; [Pub. L. 105–55, title I][/us/pl/105/55/tI], § 5, Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181]; [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 8, Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434]; [Pub. L. 106–57, title I][/us/pl/106/57/tI], § 2, Sept. 29, 1999, [113 Stat. 411][/us/stat/113/411]; [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 106, Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 3, Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349]; [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1, Sept. 30, 2003, [117 Stat. 1010][/us/stat/117/1010]; [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1, Dec. 8, 2004, [118 Stat. 3168][/us/stat/118/3168]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1, Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], §§ 1, 4(a), Dec. 26, 2007, [121 Stat. 2220][/us/stat/121/2220], 2221; [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1, Mar. 11, 2009, [123 Stat. 814][/us/stat/123/814]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1, Oct. 1, 2009, [123 Stat. 2026][/us/stat/123/2026].)
 
  __Increase in Aggregate Compensation of Employees in Offices of Senators__ 
 
@@ -191,11 +191,11 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Subsec. (f). Figure “$2,677” to be deemed to refer, effective Jan. 1, 2010, to the figure “$2,742”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    2009—Subsec. (d)(1)(A). [Pub. L. 111–68, § 1][/us/pl/111/68/s1], revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2009, to be increased by an additional $50,000 each.
+    2009—Subsec. (d)(1)(A). [Pub. L. 111–68][/us/pl/111/68], § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2009, to be increased by an additional $50,000 each.
 
     The table was revised upward, effective Jan. 1, 2009, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1], which deemed dollar amounts in table in effect on Dec. 31, 2008, to be increased by an additional 4.78 percent.
 
-    [Pub. L. 111–8, § 1][/us/pl/111/8/s1], revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2008, to be increased by an additional $50,000 each.
+    [Pub. L. 111–8][/us/pl/111/8], § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2008, to be increased by an additional $50,000 each.
 
     Subsec. (d)(2). Figures “$2,554” and “$164,759” to be deemed to refer, effective Jan. 1, 2009, to the figures “$2,677” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
@@ -211,13 +211,13 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Subsec. (f). Figures “$2,444” and “$160,659” to be deemed to refer, effective Jan. 1, 2008, to the figures “$2,554” and “$164,759”, respectively, see section 7 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    2007—Subsec. (d)(1)(A). [Pub. L. 110–161, § 1][/us/pl/110/161/s1], revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2007, to be increased by an additional $50,000 each.
+    2007—Subsec. (d)(1)(A). [Pub. L. 110–161][/us/pl/110/161], § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2007, to be increased by an additional $50,000 each.
 
     The table was revised upward, effective Jan. 1, 2007, by section 6(b) of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1], which deemed dollar amounts in table in effect on Dec. 31, 2006, to be increased by an additional 2.64 percent.
 
     Subsec. (d)(2). Figures “$2,381” and “$160,659” to be deemed to refer, effective Jan. 1, 2007, to the figures “$2,444” and “$160,659”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    Subsec. (e)(3). [Pub. L. 110–161, § 4(a)][/us/pl/110/161/s4/a], added par. (3) and struck out former par. (3) which read as follows: “No employee of a committee of the Senate shall be paid at a gross rate in excess of $160,164, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $160,659, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $162,515, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate. For the purpose of this paragraph, an employee of a subcommittee shall be considered to be an employee of the full committee.”
+    Subsec. (e)(3). [Pub. L. 110–161][/us/pl/110/161], § 4(a), added par. (3) and struck out former par. (3) which read as follows: “No employee of a committee of the Senate shall be paid at a gross rate in excess of $160,164, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $160,659, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $162,515, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate. For the purpose of this paragraph, an employee of a subcommittee shall be considered to be an employee of the full committee.”
 
     Subsec. (f). Figure “$2,381” to be deemed to refer, effective Jan. 1, 2007, to the figure “$2,444”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
@@ -397,11 +397,11 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Subsec. (f). Figures “$1,251” and “$68,172” to be deemed to refer, effective Jan. 1, 1985, to the figures “$1,295” and “$70,559”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    1984—Subsec. (d)(1). [Pub. L. 98–367, § 3(a)][/us/pl/98/367/s3/a], struck out subpar. (A) designation, substituted “In the event that the term of office of a Senator begins after the first month of a fiscal year or ends (except by reason of death, resignation, or expulsion) before the last month of a fiscal year, the aggregate amount available for gross compensation of employees in the office of such Senator for such year shall be the applicable amount contained in the table included in the preceding sentence, divided by 12, and multiplied by the number of months in such year which are included in the Senator’s term of office, counting any fraction of a month as a full month” for “In any fiscal year in which a Senator does not hold the office of Senator at least part of each month of that year, the aggregate amount available for gross compensation of employees in the office of that Senator shall be the applicable amount contained in the table included in this subparagraph, divided by 12, and multiplied by the number of months the Senator holds such office during that fiscal year, counting any fraction of a month as a full month”, and struck out subpar. (B), which provided that the aggregate of payments of gross compensation made to employees in the office of a Senator during each fiscal year would not exceed at any time during such fiscal year one-twelfth of the applicable amount contained in the table included in former subpar. (A) multiplied by the number of months (counting a fraction of a month as a month) elapsing from the first month in that fiscal year in which the Senator held the office of Senator through the end of the current month for which the payment of gross compensation was to be made.
+    1984—Subsec. (d)(1). [Pub. L. 98–367][/us/pl/98/367], § 3(a), struck out subpar. (A) designation, substituted “In the event that the term of office of a Senator begins after the first month of a fiscal year or ends (except by reason of death, resignation, or expulsion) before the last month of a fiscal year, the aggregate amount available for gross compensation of employees in the office of such Senator for such year shall be the applicable amount contained in the table included in the preceding sentence, divided by 12, and multiplied by the number of months in such year which are included in the Senator’s term of office, counting any fraction of a month as a full month” for “In any fiscal year in which a Senator does not hold the office of Senator at least part of each month of that year, the aggregate amount available for gross compensation of employees in the office of that Senator shall be the applicable amount contained in the table included in this subparagraph, divided by 12, and multiplied by the number of months the Senator holds such office during that fiscal year, counting any fraction of a month as a full month”, and struck out subpar. (B), which provided that the aggregate of payments of gross compensation made to employees in the office of a Senator during each fiscal year would not exceed at any time during such fiscal year one-twelfth of the applicable amount contained in the table included in former subpar. (A) multiplied by the number of months (counting a fraction of a month as a month) elapsing from the first month in that fiscal year in which the Senator held the office of Senator through the end of the current month for which the payment of gross compensation was to be made.
 
-    Subsec. (d)(2). [Pub. L. 98–367, § 12(a)][/us/pl/98/367/s12/a], substituted “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 or in excess of $68,172 per annum” for “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 per annum or in excess of $40,721 per annum except that (i) the salaries of three employees may be fixed at rates of not more than $64,106 per annum, (ii) the salaries of five employees may be fixed at rates of not more than $64,704 per annum, and (iii) the salary of one employee may be fixed at a rate of not more than $68,172 per annum”.
+    Subsec. (d)(2). [Pub. L. 98–367][/us/pl/98/367], § 12(a), substituted “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 or in excess of $68,172 per annum” for “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 per annum or in excess of $40,721 per annum except that (i) the salaries of three employees may be fixed at rates of not more than $64,106 per annum, (ii) the salaries of five employees may be fixed at rates of not more than $64,704 per annum, and (iii) the salary of one employee may be fixed at a rate of not more than $68,172 per annum”.
 
-    Subsec. (e)(3). [Pub. L. 98–367, § 12(b)][/us/pl/98/367/s12/b], substituted “No employee of a committee of the Senate shall be paid at a gross rate in excess of $67,694, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $68,172, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $69,966, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate” for “No employee of any standing or select committee of the Senate (including the majority and minority policy committees and the conference majority and conference minority of the Senate), or of any joint committee the expenses of which are paid from the contingent fund of the Senate, shall be paid at a gross rate in excess of $64,106 per annum, except that (A) two employees of any such committee (other than the Committee on Appropriations), who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and four such employees may be paid at gross rates not in excess of $69,966 per annum; and (B) sixteen employees of the Committee on Appropriations who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and five such employees may be paid at gross rates not in excess of $69,966 per annum”.
+    Subsec. (e)(3). [Pub. L. 98–367][/us/pl/98/367], § 12(b), substituted “No employee of a committee of the Senate shall be paid at a gross rate in excess of $67,694, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $68,172, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $69,966, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate” for “No employee of any standing or select committee of the Senate (including the majority and minority policy committees and the conference majority and conference minority of the Senate), or of any joint committee the expenses of which are paid from the contingent fund of the Senate, shall be paid at a gross rate in excess of $64,106 per annum, except that (A) two employees of any such committee (other than the Committee on Appropriations), who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and four such employees may be paid at gross rates not in excess of $69,966 per annum; and (B) sixteen employees of the Committee on Appropriations who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and five such employees may be paid at gross rates not in excess of $69,966 per annum”.
 
     1983—Subsec. (a)(2). [Pub. L. 98–181][/us/pl/98/181] amended par. (2) generally. Prior to amendment par. (2) read: “New or changed rates of compensation of any such employees shall be certified in writing to the disbursing office of the Senate on or before the day on which they are to become effective, except that in the case of any change, other than an appointment, to become effective on or after the first day and prior to the tenth day of any month, such certification may be made at any time not later than the tenth day of such month.”
 
@@ -431,17 +431,17 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Subsec. (f). Figures “$1,102” and “$71,625” to be deemed to refer, effective Oct. 1, 1981, to the figures “$1,155” and “$75,063”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    1980—Subsec. (a)(1). [Pub. L. 96–304, § 107(a)][/us/pl/96/304/s107/a], substituted “October 1, 1980, such rate as so fixed or adjusted shall be at a single whole dollar per annum gross rate and may not include a fractional part of a dollar” for “August 1, 1967, such rate as so fixed or adjusted shall be a single per annum gross rate which is a multiple of $202”.
+    1980—Subsec. (a)(1). [Pub. L. 96–304][/us/pl/96/304], § 107(a), substituted “October 1, 1980, such rate as so fixed or adjusted shall be at a single whole dollar per annum gross rate and may not include a fractional part of a dollar” for “August 1, 1967, such rate as so fixed or adjusted shall be a single per annum gross rate which is a multiple of $202”.
 
     Subsec. (d)(1)(A). The table was revised upward, effective Oct. 1, 1980, by section 6(b) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
     Subsec. (d)(2). Figures “$1,010”, “$32,926”, “$57,974”, and “$60,600” increased, effective Oct. 1, 1980, to the figures “$1,102”, “$35,923”, “$63,250”, and “$66,115”, respectively, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    [Pub. L. 96–304, § 112(b)(1)][/us/pl/96/304/s112/b/1], substituted “that portion of subsection (e)(3) of this section preceding subparagraph (A)” for “subsection (e)(1) of this section”.
+    [Pub. L. 96–304][/us/pl/96/304], § 112(b)(1), substituted “that portion of subsection (e)(3) of this section preceding subparagraph (A)” for “subsection (e)(1) of this section”.
 
     Subsec. (e). Figures “$23,836”, “$35,956”, “$59,792”, “$62,216”, and “$65,650” to be deemed to refer, effective Oct. 1, 1980, to the figures “$26,006”, “$39,228”, “$65,234”, “$67,878” and “$71,625”, respectively, see section 5(b)(1), (2) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    [Pub. L. 96–304, § 112(b)(1)][/us/pl/96/304/s112/b/1], struck out par. (1) which provided that the professional staff members of standing committees of the Senate receive gross annual compensation to be fixed by the chairman at not to exceed $65,234, and par. (2) which provided that the rates of gross compensation of the clerical staff of each standing committee of the Senate, as fixed by the chairman, be for each committee, other than the Committee on Appropriations, one chief clerk and one assistant chief clerk at not to exceed $65,234, and not to exceed four other clerical assist­ants at not to exceed $26,006, and for the Committee on Appropriations, one chief clerk and one assistant chief clerk and two assistant clerks at not to exceed $65,234, such assistant clerks as may be necessary at not to exceed $39,228, and such other clerical assistants as may be necessary at not to exceed $26,006.
+    [Pub. L. 96–304][/us/pl/96/304], § 112(b)(1), struck out par. (1) which provided that the professional staff members of standing committees of the Senate receive gross annual compensation to be fixed by the chairman at not to exceed $65,234, and par. (2) which provided that the rates of gross compensation of the clerical staff of each standing committee of the Senate, as fixed by the chairman, be for each committee, other than the Committee on Appropriations, one chief clerk and one assistant chief clerk at not to exceed $65,234, and not to exceed four other clerical assist­ants at not to exceed $26,006, and for the Committee on Appropriations, one chief clerk and one assistant chief clerk and two assistant clerks at not to exceed $65,234, such assistant clerks as may be necessary at not to exceed $39,228, and such other clerical assistants as may be necessary at not to exceed $26,006.
 
     Subsec. (f). Figures “$1,010” and “$65,650” to be deemed to refer, effective Oct. 1, 1980, to the figures “$1,102” and “$71,625”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
@@ -465,9 +465,9 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Subsec. (e). Figures “$21,122”, “$31,862”, “$52,984”, “$55,132”, and “$58,175” to be deemed to refer, effective Oct. 1, 1978, to the figures “$22,302”, “$33,642”, “$55,944”, “$58,212”, and “$61,425”, respectively, see section 5(b)(1), (2) of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    Subsec. (e)(3)(A). [Pub. L. 95–482, § 112(1)][/us/pl/95/482/s112/1], (2), substituted “two employees” for “four employees” and “four such employees” for “two such employees”.
+    Subsec. (e)(3)(A). [Pub. L. 95–482][/us/pl/95/482], § 112(1), (2), substituted “two employees” for “four employees” and “four such employees” for “two such employees”.
 
-    Subsec. (e)(3)(B). [Pub. L. 95–482, § 112(3)][/us/pl/95/482/s112/3], substituted “five such employees” for “three such employees”.
+    Subsec. (e)(3)(B). [Pub. L. 95–482][/us/pl/95/482], § 112(3), substituted “five such employees” for “three such employees”.
 
     Subsec. (f). Figures “$1,074” and “$58,175” to be deemed to refer, effective Oct. 1, 1978, to the figures “$1,134” and “$61,425”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
@@ -605,79 +605,79 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Subsecs. (d)(2) to (f). Figures were increased, effective July 1, 1968, see sections 1(g) and 2(b) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under [section 60a–1 of this title][/us/usc/t2/s60a–1].
 
-    1967—Subsec. (a)(1). [Pub. L. 90–206, § 214(j)][/us/pl/90/206/s214/j], substituted “$188” for “$180”.
+    1967—Subsec. (a)(1). [Pub. L. 90–206][/us/pl/90/206], § 214(j), substituted “$188” for “$180”.
 
-    Subsec. (d)(1). [Pub. L. 90–206, § 214(k)][/us/pl/90/206/s214/k], increased the aggregate amount of the per annum gross rates of compensation of employees in the office of a Senator.
+    Subsec. (d)(1). [Pub. L. 90–206][/us/pl/90/206], § 214(k), increased the aggregate amount of the per annum gross rates of compensation of employees in the office of a Senator.
 
-    Subsecs. (d)(2) to (f). [Pub. L. 90–206, § 214][/us/pl/90/206/s214](l), substituted “$1,128”, “$6,392”, “$11,092”, “$11,280”, “$14,852”, “$15,040”, “$16,356”, “$16,544”, “$18,988”, “$23,312”, “$24,440”, and “$25,568” for “$1,080”, “$6,120”, “$10,620”, “$10,800”, “$14,220”, “$14,400”, “$15,660”, “$15,840”, “$18,180”, “$22,320”, “$23,400”, and “$24,480”, respectively, wherever appearing.
+    Subsecs. (d)(2) to (f). [Pub. L. 90–206][/us/pl/90/206], § 214(l), substituted “$1,128”, “$6,392”, “$11,092”, “$11,280”, “$14,852”, “$15,040”, “$16,356”, “$16,544”, “$18,988”, “$23,312”, “$24,440”, and “$25,568” for “$1,080”, “$6,120”, “$10,620”, “$10,800”, “$14,220”, “$14,400”, “$15,660”, “$15,840”, “$18,180”, “$22,320”, “$23,400”, and “$24,480”, respectively, wherever appearing.
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–68, div. A, title I, § 1][/us/pl/111/68/s1], Oct. 1, 2009, [123 Stat. 2026][/us/stat/123/2026], provided that the amendment made by section 1 is effective on and after Oct. 1, 2009.
+    [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1, Oct. 1, 2009, [123 Stat. 2026][/us/stat/123/2026], provided that the amendment made by section 1 is effective on and after Oct. 1, 2009.
 
-    [Pub. L. 111–8, div. G, title I, § 1][/us/pl/111/8/s1], Mar. 11, 2009, [123 Stat. 814][/us/stat/123/814], provided that the amendment made by section 1 is effective on and after Oct. 1, 2008.
+    [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1, Mar. 11, 2009, [123 Stat. 814][/us/stat/123/814], provided that the amendment made by section 1 is effective on and after Oct. 1, 2008.
 
  __Effective Date of 2007 Amendment__ 
 
-    [Pub. L. 110–161, div. H, title I, § 1][/us/pl/110/161/s1], Dec. 26, 2007, [121 Stat. 2220][/us/stat/121/2220], provided that the amendment made by section 1 is effective on and after Oct. 1, 2007.
+    [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1, Dec. 26, 2007, [121 Stat. 2220][/us/stat/121/2220], provided that the amendment made by section 1 is effective on and after Oct. 1, 2007.
 
-[Pub. L. 110–161, div. H, title I, § 4(b)][/us/pl/110/161/s4/b], Dec. 26, 2007, [121 Stat. 2221][/us/stat/121/2221], provided that: 
+[Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 4(b), Dec. 26, 2007, [121 Stat. 2221][/us/stat/121/2221], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to fiscal year 2008 and each fiscal year thereafter.”
 
  __Effective Date of 2005 Amendment__ 
 
-    [Pub. L. 109–55, title I, § 1][/us/pl/109/55/s1], Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568], provided that the amendment made by section 1 is effective on and after Oct. 1, 2005.
+    [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1, Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568], provided that the amendment made by section 1 is effective on and after Oct. 1, 2005.
 
  __Effective Date of 2004 Amendment__ 
 
-    [Pub. L. 108–447, div. G, title I, § 1][/us/pl/108/447/s1], Dec. 8, 2004, [118 Stat. 3168][/us/stat/118/3168], provided that the amendment made by section 1 is effective on and after Oct. 1, 2004.
+    [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1, Dec. 8, 2004, [118 Stat. 3168][/us/stat/118/3168], provided that the amendment made by section 1 is effective on and after Oct. 1, 2004.
 
  __Effective Date of 2003 Amendments__ 
 
-    [Pub. L. 108–83, title I, § 1][/us/pl/108/83/s1], Sept. 30, 2003, [117 Stat. 1010][/us/stat/117/1010], provided that the amendment made by section 1 is effective on and after Oct. 1, 2003.
+    [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1, Sept. 30, 2003, [117 Stat. 1010][/us/stat/117/1010], provided that the amendment made by section 1 is effective on and after Oct. 1, 2003.
 
-    [Pub. L. 108–7, div. H, title I, § 3][/us/pl/108/7/s3], Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349], provided that the amendment made by section 3 is effective on and after Oct. 1, 2002.
+    [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 3, Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349], provided that the amendment made by section 3 is effective on and after Oct. 1, 2002.
 
  __Effective Date of 2001 Amendment__ 
 
-    [Pub. L. 107–68, title I, § 106][/us/pl/107/68/s106], Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568], provided that the amendment made by section 106 is effective on and after Oct. 1, 2001.
+    [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 106, Nov. 12, 2001, [115 Stat. 568][/us/stat/115/568], provided that the amendment made by section 106 is effective on and after Oct. 1, 2001.
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–57, title I, § 2][/us/pl/106/57/s2], Sept. 29, 1999, [113 Stat. 411][/us/stat/113/411], provided that the amendment made by section 2 is effective on and after Oct. 1, 1999.
+    [Pub. L. 106–57, title I][/us/pl/106/57/tI], § 2, Sept. 29, 1999, [113 Stat. 411][/us/stat/113/411], provided that the amendment made by section 2 is effective on and after Oct. 1, 1999.
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–275, title I, § 8][/us/pl/105/275/s8], Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434], provided that the amendment made by section 8 is effective on and after Oct. 1, 1998.
+    [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 8, Oct. 21, 1998, [112 Stat. 2434][/us/stat/112/2434], provided that the amendment made by section 8 is effective on and after Oct. 1, 1998.
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–55, title I, § 5][/us/pl/105/55/s5], Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181], provided that the amendment made by that section is effective on and after Oct. 1, 1997.
+    [Pub. L. 105–55, title I][/us/pl/105/55/tI], § 5, Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181], provided that the amendment made by that section is effective on and after Oct. 1, 1997.
 
  __Effective Date of 1987 Amendments__ 
 
-[Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 1(b)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title I, § 1(b)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294, provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective in the case of fiscal years beginning after September 30, 1987.”
 
-    [Pub. L. 100–137, § 1(c)(1)][/us/pl/100/137/s1/c/1], Oct. 21, 1987, [101 Stat. 818][/us/stat/101/818], provided that the amendment made by that section is effective Jan. 1, 1988.
+    [Pub. L. 100–137][/us/pl/100/137], § 1(c)(1), Oct. 21, 1987, [101 Stat. 818][/us/stat/101/818], provided that the amendment made by that section is effective Jan. 1, 1988.
 
-    [Pub. L. 100–71, title I, § 3(a)][/us/pl/100/71/s3/a], July 11, 1987, [101 Stat. 423][/us/stat/101/423], provided that the amendment made by that section is effective July 1, 1987.
+    [Pub. L. 100–71, title I][/us/pl/100/71/tI], § 3(a), July 11, 1987, [101 Stat. 423][/us/stat/101/423], provided that the amendment made by that section is effective July 1, 1987.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–367, title I, § 3(b)][/us/pl/98/367/s3/b], July 17, 1984, [98 Stat. 475][/us/stat/98/475], provided that: 
+[Pub. L. 98–367, title I][/us/pl/98/367/tI], § 3(b), July 17, 1984, [98 Stat. 475][/us/stat/98/475], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall be effective with respect to fiscal years beginning after September 30, 1984.”
 
-[Pub. L. 98–367, title I, § 12(c)][/us/pl/98/367/s12/c], July 17, 1984, [98 Stat. 477][/us/stat/98/477], provided that: 
+[Pub. L. 98–367, title I][/us/pl/98/367/tI], § 12(c), July 17, 1984, [98 Stat. 477][/us/stat/98/477], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1984.”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–181, title I, § 1203(b)][/us/pl/98/181/s1203/b], Nov. 30, 1983, [97 Stat. 1290][/us/stat/97/1290], provided that: 
+[Pub. L. 98–181, title I][/us/pl/98/181/tI], § 1203(b), Nov. 30, 1983, [97 Stat. 1290][/us/stat/97/1290], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be applicable in the case of new or changed rates of compensation which are certified to the Disbursing Office of the Senate on or after January 1, 1984.”
 
@@ -685,7 +685,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
     Amendment by [section 107(a) of Pub. L. 96–304][/us/pl/96/304/s107/a] effective Oct. 1, 1980, see [section 107(d) of Pub. L. 96–304][/us/pl/96/304/s107/d], set out as an Effective Date of 1980 Amendment note under [section 4507 of this title][/us/usc/t2/s4507].
 
-    [Pub. L. 96–304, title I, § 112(b)][/us/pl/96/304/s112/b], July 8, 1980, [94 Stat. 892][/us/stat/94/892], provided that the amendment made by that section is effective as of the close of Feb. 28, 1981.
+    [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 112(b), July 8, 1980, [94 Stat. 892][/us/stat/94/892], provided that the amendment made by that section is effective as of the close of Feb. 28, 1981.
 
  __Effective Date of 1977 Amendment__ 
 
@@ -693,11 +693,11 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–440, title I, § 101(a)][/us/pl/94/440/s101/a], Oct. 1, 1976, [90 Stat. 1443][/us/stat/90/1443], provided that the amendment made by that section is effective Oct. 1, 1976.
+    [Pub. L. 94–440, title I][/us/pl/94/440/tI], § 101(a), Oct. 1, 1976, [90 Stat. 1443][/us/stat/90/1443], provided that the amendment made by that section is effective Oct. 1, 1976.
 
  __Effective Date of 1974 Amendment__ 
 
-    [Pub. L. 93–371, § 6][/us/pl/93/371/s6], Aug. 13, 1974, [88 Stat. 430][/us/stat/88/430], provided that the amendment made by that section is effective July 1, 1974.
+    [Pub. L. 93–371][/us/pl/93/371], § 6, Aug. 13, 1974, [88 Stat. 430][/us/stat/88/430], provided that the amendment made by that section is effective July 1, 1974.
 
  __Effective Date of 1973 Amendment__ 
 
@@ -721,7 +721,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Effective Date__ 
 
-[Pub. L. 90–57, § 105(k)][/us/pl/90/57/s105/k], July 28, 1967, [81 Stat. 144][/us/stat/81/144], provided that: 
+[Pub. L. 90–57][/us/pl/90/57], § 105(k), July 28, 1967, [81 Stat. 144][/us/stat/81/144], provided that: 
 
 > “This section \[enacting this section, amending [section 4507 of this title][/us/usc/t2/s4507] and [section 5533 of Title 5][/us/usc/t5/s5533], Government Organization and Employees, repealing sections 60f, 72a–1, 72a–1a, and 72a–4 of this title, and amending provisions set out as notes under [section 4571 of this title][/us/usc/t2/s4571]\] shall be effective from and after August 1, 1967.”
 
@@ -731,7 +731,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __High Cost of Living Allowance__ 
 
-[Pub. L. 108–83, title I, § 10][/us/pl/108/83/s10], Sept. 30, 2003, [117 Stat. 1014][/us/stat/117/1014], provided that:
+[Pub. L. 108–83, title I][/us/pl/108/83/tI], § 10, Sept. 30, 2003, [117 Stat. 1014][/us/stat/117/1014], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -761,35 +761,35 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __1975__  __Adjustments in Compensation in Maximum Annual Rates to Employees in Offices of Senators, Employees of Senators, Employees of Standing and Select Committees and Joint Committees the Expenses of Which are Paid From Senate Contingent Fund, and Officers or Employees Paid by Secretary of Senate__ 
 
-[Pub. L. 94–59, title I, § 105][/us/pl/94/59/s105], July 25, 1975, [89 Stat. 275][/us/stat/89/275], as amended by [Pub. L. 94–157, title I, § 111(a)][/us/pl/94/157/s111/a], Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that, effective July 1, 1975: 
+[Pub. L. 94–59, title I][/us/pl/94/59/tI], § 105, July 25, 1975, [89 Stat. 275][/us/stat/89/275], as amended by [Pub. L. 94–157, title I][/us/pl/94/157/tI], § 111(a), Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that, effective July 1, 1975: 
 
 > “The two committee employees referred to in clause (A), and the three committee employees referred to in clause (B), of section 105(e)(3) of the Legislative Branch Appropriations Act, 1968, as amended and modified \[[2 U.S.C. 4575(e)(3)][/us/usc/t2/s4575/e/3]\], whose salaries are appropriated under the heading ‘Salaries, Officers and Employees’ for ‘Committee Employees’ for the Senate during any fiscal year, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority, may each be paid at a maximum annual rate of compensation not to exceed $38,000, except that the Committee on Commerce is authorized to pay two employees, in addition to the two employees referred to in clause (A) of such section, at such maximum annual rate of compensation during the fiscal year ending June 30, 1976, and the transition period ending September 30, 1976. The two committee employees, other than joint committee employees, referred to in clause (A) of section 105(e)(3) of such Act \[[2 U.S.C. 4575(e)(3)][/us/usc/t2/s4575/e/3]\] whose salaries are not appropriated under such heading may each be paid at a maximum annual rate of compensation not to exceed $37,500, except, that the two employees of the majority policy committee and the two employees of the minority policy committee referred to in clause (A) of section 105(e)(3) of such Act \[[2 U.S.C. 4575(e)(3)][/us/usc/t2/s4575/e/3]\] may each be paid at a maximum annual rate of compensation not to exceed $38,000. The one employee in a Senator’s office referred to in section 105(d)(2)(ii) of such Act \[[2 U.S.C. 4575(d)(2)(ii)][/us/usc/t2/s4575/d/2/ii]\] may be paid at a maximum annual rate of compensation not to exceed $38,000. Any officer or employee whose pay is subject to the maximum limitation referred to in section 105(f) of such Act \[[2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]\] may be paid at a maximum annual rate of compensation not to exceed $38,000. This section does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in this paragraph under section 4 of the Federal Pay Comparability Act of 1970 \[[2 U.S.C. 4571][/us/usc/t2/s4571]\].”
 
-    [Pub. L. 94–157, title I, § 111(c)][/us/pl/94/157/s111/c], Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that amendment by [section 111(a) of Pub. L. 94–157][/us/pl/94/157/s111/a] inserting after “fiscal year” the words “, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
+    [Pub. L. 94–157, title I][/us/pl/94/157/tI], § 111(c), Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that amendment by [section 111(a) of Pub. L. 94–157][/us/pl/94/157/s111/a] inserting after “fiscal year” the words “, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
 
  __1974 Adjustments in Compensation in Maximum Annual Rates to Employees in Offices of Senators, Professional Staff and Clerical Staff Members of Standing Committees, Employees of Standing and Select Committees and Joint Committees the Expenses of Which Are Paid From Senate Contingent Fund, and Officers or Employees Paid by Secretary of Senate__ 
 
-[Pub. L. 93–371, § 4][/us/pl/93/371/s4], Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429], as amended by [Pub. L. 94–157, title I, § 111(b)][/us/pl/94/157/s111/b], Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that: 
+[Pub. L. 93–371][/us/pl/93/371], § 4, Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429], as amended by [Pub. L. 94–157, title I][/us/pl/94/157/tI], § 111(b), Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that: 
 
 > “The two committee employees other than joint committee employees referred to in clause (A), and the three committee employees referred to in clause (B), of section 105(e)(3) of the Legislative Branch Appropriation Act, 1968, as amended and modified \[[2 U.S.C. 4575(e)(3)][/us/usc/t2/s4575/e/3]\], may each be paid at a maximum annual rate of compensation not to exceed $37,050. The four committee employees other than joint committee employees, who are not employees of a joint committee having legislative authority, referred to in such clause (A) and the sixteen committee employees referred to in such clause (B) may each be paid at a maximum annual rate of compensation not to exceed $35,625. The one employee in a Senator’s office referred to in section 105(d)(2)(ii) of such Act \[[2 U.S.C. 4575(d)(2)(ii)][/us/usc/t2/s4575/d/2/ii]\] may be paid at a maximum annual rate of compensation not to exceed $37,050. Any officer or employee whose pay is subject to the maximum limitation referred to in section 105(f) of such Act \[[2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]\] may be paid at a maximum annual rate of compensation not to exceed $37,050.”
 
     \[For provisions that [section 4 of Pub. L. 93–371][/us/pl/93/371/s4], set out above, do not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in [section 4 of Pub. L. 93–371][/us/pl/93/371/s4] under section 4 of the Federal Pay Comparability Act of 1970 \[[2 U.S.C. 4571][/us/usc/t2/s4571]\] and that the provisions of [section 4 of Pub. L. 93–371][/us/pl/93/371/s4] are effective July 1, 1974, see 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate note under [section 6531 of this title][/us/usc/t2/s6531].\]
 
-    [Pub. L. 94–157, title I, § 111(c)][/us/pl/94/157/s111/c], Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that amendment by [section 111(b) of Pub. L. 94–157][/us/pl/94/157/s111/b] inserting after “joint committee employees” the words “, who are not employees of a joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
+    [Pub. L. 94–157, title I][/us/pl/94/157/tI], § 111(c), Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], provided in part that amendment by [section 111(b) of Pub. L. 94–157][/us/pl/94/157/s111/b] inserting after “joint committee employees” the words “, who are not employees of a joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
 
  __Aggregate of Gross Compensation for Employees in Office of Senator for Each Fiscal Year; Increase in Amount; Reduction in Amounts for Committee Chairmen, Ranking Minority Members, etc.__ 
 
-[Pub. L. 95–94, title I, § 111(a)][/us/pl/95/94/s111/a], (b), Aug. 5, 1977, [91 Stat. 662][/us/stat/91/662], as amended by [Pub. L. 95–240, title II, § 206][/us/pl/95/240/s206], Mar. 7, 1978, [92 Stat. 117][/us/stat/92/117], eff. Oct. 1, 1977; [Pub. L. 100–137, § 3][/us/pl/100/137/s3], Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819]; [Pub. L. 102–392, title I, § 1][/us/pl/102/392/s1], Oct. 6, 1992, [106 Stat. 1706][/us/stat/106/1706], eff. Oct. 1, 1992, provided that:
+[Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(a), (b), Aug. 5, 1977, [91 Stat. 662][/us/stat/91/662], as amended by [Pub. L. 95–240, title II][/us/pl/95/240/tII], § 206, Mar. 7, 1978, [92 Stat. 117][/us/stat/92/117], eff. Oct. 1, 1977; [Pub. L. 100–137][/us/pl/100/137], § 3, Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819]; [Pub. L. 102–392, title I][/us/pl/102/392/tI], § 1, Oct. 6, 1992, [106 Stat. 1706][/us/stat/106/1706], eff. Oct. 1, 1992, provided that:
 
 >     “(a) Except as provided in subsection (b), the aggregate of the gross compensation which may be paid to employees in the office of a Senator during each fiscal year under section 105(d) of the Legislative Branch Appropriation Act, 1968, as amended and modified ([2 U.S.C. 61–1(d)][/us/usc/t2/s61–1/d]) \[now [2 U.S.C. 4575(d)][/us/usc/t2/s4575/d]\], is increased by an amount equal to 3 times the maximum annual gross rate of compensation that may be paid to an employee of the office of a Senator.
 
->     “(b) \[Repealed. [Pub. L. 100–137, § 3][/us/pl/100/137/s3], Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819]\].”
+>     “(b) \[Repealed. [Pub. L. 100–137][/us/pl/100/137], § 3, Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819]\].”
 
     \[The amount of the increase referred to in [section 111(a) of Pub. L. 95–94][/us/pl/95/94/s111/a], set out above, was set at $508,377 by § 6(d) of the Salary Directive of President pro tempore of the Senate, Jan. 5, 2010, set out as a note under [section 4571 of this title][/us/usc/t2/s4571].\]
 
 \[Prior increases in the amount of increase authorized by [section 111(a) of Pub. L. 95–94][/us/pl/95/94/s111/a], set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under [section 60a–1 of this title][/us/usc/t2/s60a–1]: Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d).\]
 
-    \[[Pub. L. 100–137, § 3][/us/pl/100/137/s3], Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819], provided that the repeal of [section 111(b) of Pub. L. 95–94][/us/pl/95/94/s111/b] is effective as of the first day of the 100th Congress \[Jan. 6, 1987\]\].
+    \[[Pub. L. 100–137][/us/pl/100/137], § 3, Oct. 21, 1987, [101 Stat. 819][/us/stat/101/819], provided that the repeal of [section 111(b) of Pub. L. 95–94][/us/pl/95/94/s111/b] is effective as of the first day of the 100th Congress \[Jan. 6, 1987\]\].
 
     \[S. Res. 34, Jan. 6, 1987, provided: “That subsection (b) of section 111 of the Legislative Branch Appropriation Act, 1978 ([P.L. 95–94][/us/pl/95/94]) \[set out as a note above\] shall not be effective during the 100th Congress.” Similar provisions covering the 99th Congress were contained in S. Res. 85, § 23, Feb. 28, 1985.\]
 
@@ -885,13 +885,13 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __1977 Addition of Employees in Office of Senator Not to Effect Section 6(c) of Order of President Pro Tempore Issued on__  __October 8, 1976__ 
 
-[Pub. L. 95–94, title I, § 111(d)][/us/pl/95/94/s111/d], Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663], provided in part that: 
+[Pub. L. 95–94, title I][/us/pl/95/94/tI], § 111(d), Aug. 5, 1977, [91 Stat. 663][/us/stat/91/663], provided in part that: 
 
 > “The amendments made by this subsection \[amending subsec. (d)(2) of this section\] shall have no effect on section 6(c) of the Order of the President pro tempore issued on October 8, 1976, under section 4 of the Federal Pay Comparability Act of 1970 \[set out as a note under [section 4571 of this title][/us/usc/t2/s4571]\].”
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1987__ 
 
-[Pub. L. 100–71, title I, § 3(b)][/us/pl/100/71/s3/b], (c), July 11, 1987, [101 Stat. 423][/us/stat/101/423], provided that:
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], § 3(b), (c), July 11, 1987, [101 Stat. 423][/us/stat/101/423], provided that:
 
 >     “(b) Effective July 1, 1987, the administrative and clerical allowance of each Senator from the State of Georgia and the State of North Carolina is increased to that allowed Senators from States having a population of six million but less than seven million, the population of said State having exceeded six million inhabitants.
 
@@ -899,7 +899,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1986__ 
 
-[Pub. L. 99–349, title I, § 1][/us/pl/99/349/s1], July 2, 1986, [100 Stat. 741][/us/stat/100/741], provided that:
+[Pub. L. 99–349, title I][/us/pl/99/349/tI], § 1, July 2, 1986, [100 Stat. 741][/us/stat/100/741], provided that:
 
 >     “(a) Effective October 1, 1985, the allowance for administrative and clerical assistance of each Senator from the State of Alabama is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.
 
@@ -907,19 +907,19 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1985__ 
 
-[Pub. L. 99–88, title I, § 191][/us/pl/99/88/s191], Aug. 15, 1985, [99 Stat. 348][/us/stat/99/348], provided that: 
+[Pub. L. 99–88, title I][/us/pl/99/88/tI], § 191, Aug. 15, 1985, [99 Stat. 348][/us/stat/99/348], provided that: 
 
 > “Effective October 1, 1984, the allowance for administrative and clerical assistance of each Senator from the State of Missouri is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1983__ 
 
-[Pub. L. 98–367, title I, § 9][/us/pl/98/367/s9], July 17, 1984, [98 Stat. 475][/us/stat/98/475], provided that: 
+[Pub. L. 98–367, title I][/us/pl/98/367/tI], § 9, July 17, 1984, [98 Stat. 475][/us/stat/98/475], provided that: 
 
 > “Effective October 1, 1983, the allowance for administration and clerical assistance of each Senator from the State of Arizona is increased to that allowed to Senators from States having population of three million but less than four million, the population of such State having exceeded three million inhabitants.”
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1982__ 
 
-[Pub. L. 98–63, title I, § 901][/us/pl/98/63/s901], July 30, 1983, [97 Stat. 335][/us/stat/97/335], provided that:
+[Pub. L. 98–63, title I][/us/pl/98/63/tI], § 901, July 30, 1983, [97 Stat. 335][/us/stat/97/335], provided that:
 
 >     “(a) Effective October 1, 1982, the allowance for administrative and clerical assistance of each Senator from the State of Texas is increased to that allowed to Senators from States having a population of fifteen million but less than seventeen million, the population of said State having exceeded fifteen million inhabitants.
 
@@ -927,11 +927,11 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increases in Allowances for Administrative and Clerical Assistance to Senators—1981__ 
 
-[Pub. L. 97–257, title I][/us/pl/97/257], Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849], provided that: 
+[Pub. L. 97–257, title I][/us/pl/97/257/tI], Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849], provided that: 
 
 > “Effective October 1, 1981, the allowance for administrative and clerical assistance of each Senator from the State of Florida is increased to that allowed Senators from States having a population of ten million but less than eleven million, the population of said State having exceeded ten million inhabitants.”
 
-[Pub. L. 97–12, title I, § 106][/us/pl/97/12/s106], June 5, 1981, [95 Stat. 62][/us/stat/95/62], provided that:
+[Pub. L. 97–12, title I][/us/pl/97/12/tI], § 106, June 5, 1981, [95 Stat. 62][/us/stat/95/62], provided that:
 
 >     “(a) Effective January 1, 1981, the allowance for administrative and clerical assistance of each Senator from the State of Florida is increased to that allowed Senators from States having a population of nine million but less than ten million, the population of said State having exceeded nine million inhabitants.
 
@@ -941,11 +941,11 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1979__ 
 
-[Pub. L. 96–304, title I, § 105][/us/pl/96/304/s105], July 8, 1980, [94 Stat. 889][/us/stat/94/889], provided that: 
+[Pub. L. 96–304, title I][/us/pl/96/304/tI], § 105, July 8, 1980, [94 Stat. 889][/us/stat/94/889], provided that: 
 
 > “Effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Louisiana is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.”
 
-[Pub. L. 96–86, § 111(a)][/us/pl/96/86/s111/a], (b), Oct. 12, 1979, [93 Stat. 660][/us/stat/93/660], 661, provided:
+[Pub. L. 96–86][/us/pl/96/86], § 111(a), (b), Oct. 12, 1979, [93 Stat. 660][/us/stat/93/660], 661, provided:
 
 >     “(a) effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Minnesota is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants;
 
@@ -953,25 +953,25 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1978__ 
 
-[Pub. L. 95–391, title I, § 104(a)][/us/pl/95/391/s104/a], Sept. 30, 1978, [92 Stat. 772][/us/stat/92/772], provided that: 
+[Pub. L. 95–391, title I][/us/pl/95/391/tI], § 104(a), Sept. 30, 1978, [92 Stat. 772][/us/stat/92/772], provided that: 
 
 > “Effective April 1, 1978, the clerk-hire allowance of each Senator from the State of Georgia is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
 
  __Increase in Allowances for Administrative and Clerical Assistants to Senators—1977__ 
 
-[Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 81][/us/stat/91/81], provided in part: 
+[Pub. L. 95–26, title I][/us/pl/95/26/tI], May 4, 1977, [91 Stat. 81][/us/stat/91/81], provided in part: 
 
 > “That, effective April 1, 1977, the clerk hire allowance of each Senator from the State of Virginia shall be increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1976__ 
 
-[Pub. L. 94–157, title I][/us/pl/94/157], ch. IV, Dec. 18, 1975, [89 Stat. 830][/us/stat/89/830], provided: 
+[Pub. L. 94–157, title I][/us/pl/94/157/tI], ch. IV, Dec. 18, 1975, [89 Stat. 830][/us/stat/89/830], provided: 
 
 > “That effective January 1, 1976, the clerk hire allowance of each Senator from the State of California shall be increased to that allowed Senators from States having a population of more than twenty-one million, the population of said State having exceeded twenty-one million inhabitants.”
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1975__ 
 
-[Pub. L. 94–32, title I][/us/pl/94/32], June 12, 1975, [89 Stat. 182][/us/stat/89/182], provided in part: 
+[Pub. L. 94–32, title I][/us/pl/94/32/tI], June 12, 1975, [89 Stat. 182][/us/stat/89/182], provided in part: 
 
 > “That effective January 1, 1975, the clerk hire allowance of each Senator from the State of Texas shall be increased to that allowed Senators from States having a population of more than twelve million, the population of said State having exceeded twelve million inhabitants.”
 
@@ -1001,13 +1001,13 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1963__ 
 
-[Pub. L. 88–25, title I][/us/pl/88/25], May 17, 1963, [77 Stat. 31][/us/stat/77/31], provided in part: 
+[Pub. L. 88–25, title I][/us/pl/88/25/tI], May 17, 1963, [77 Stat. 31][/us/stat/77/31], provided in part: 
 
 > “That the clerk hire allowance of each Senator from the State of California shall be increased to that allowed Senators from States having a population of over seventeen million, the population of said State having exceeded seventeen million inhabitants, that the clerk hire allowance of each Senator from the State of Georgia shall be increased to that allowed Senators from States having a population of four million, the population of said State having exceeded four million inhabitants, and that the clerk hire allowance of each Senator from the State of Washington shall be increased to that allowed Senators from States having a population of three million, the population of said State having exceeded three million inhabitants.”
 
  __Increase in Allowances for Administrative and Clerical Assistance to Senators—1962__ 
 
-[Pub. L. 87–545, title I][/us/pl/87/545], July 25, 1962, [76 Stat. 215][/us/stat/76/215], provided in part that:
+[Pub. L. 87–545, title I][/us/pl/87/545/tI], July 25, 1962, [76 Stat. 215][/us/stat/76/215], provided in part that:
 
 >     “The basic clerk hire allowance of each Senator is hereby increased by $3,000.
 
@@ -1015,7 +1015,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Increase in Allowance for Administrative and Clerical Assistance to Senators—1955__ 
 
-[Act June 28, 1955, ch. 189, § 4(d)][/us/act/1955-06-28/ch189/s4/d], (f), [69 Stat. 176][/us/stat/69/176], 177, as amended Aug. 21, 1959, [Pub. L. 86–176][/us/pl/86/176], [73 Stat. 401][/us/stat/73/401]; Aug. 20, 1964, [Pub. L. 88–454][/us/pl/88/454], [78 Stat. 538][/us/stat/78/538]; Aug. 27, 1966, [Pub. L. 89–545][/us/pl/89/545], [80 Stat. 357][/us/stat/80/357]; July 28, 1967, [Pub. L. 90–57, § 105(i)(6)][/us/pl/90/57/s105/i/6], [81 Stat. 144][/us/stat/81/144], provided that:
+[Act June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 4(d), (f), [69 Stat. 176][/us/stat/69/176], 177, as amended Aug. 21, 1959, [Pub. L. 86–176][/us/pl/86/176], [73 Stat. 401][/us/stat/73/401]; Aug. 20, 1964, [Pub. L. 88–454][/us/pl/88/454], [78 Stat. 538][/us/stat/78/538]; Aug. 27, 1966, [Pub. L. 89–545][/us/pl/89/545], [80 Stat. 357][/us/stat/80/357]; July 28, 1967, [Pub. L. 90–57][/us/pl/90/57], § 105(i)(6), [81 Stat. 144][/us/stat/81/144], provided that:
 
 >     “(d)
 
@@ -1035,13 +1035,13 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
 >         “(3) Notwithstanding the third proviso in such paragraph \[this section\], any increase in the compensation of an employee in a Senator’s office shall take effect on the effective date of this subsection or on the date such employee became employed, whichever is later, if (A) the certification filed by such Senator under such proviso so provides, (B) such certification is filed in the disbursing office of the Senate not later than fifteen days following the date of enactment of this Act \[June 28, 1955\], and (C) the amount of such increase does not exceed the amount of the increase which would be payable in the case of such employee if he were subject to the provisions of subsection (a) of this section \[former [section 60e–7 of this title][/us/usc/t2/s60e–7]\] plus any additional amount which may result from fixing the rate of basic compensation at the lowest multiple of $60 which will result in an increase not less than the amount of such increase which would be payable under subsection (a) \[former [section 60e–7(a) of this title][/us/usc/t2/s60e–7/a]\].
 
->     “(f) __\[Repealed.__  __[__  __Pub. L. 90–57, § 105(i)(6)__  __][/us/pl/90/57/s105/i/6]__  __,__  __July 28, 1967__  __,__  __[__  __81 Stat. 144__  __][/us/stat/81/144]__  __, eff.__  __Aug. 1, 1967__  __.\]__ 
+>     “(f) __\[Repealed.__  __[__  __Pub. L. 90–57__  __][/us/pl/90/57]__  __, § 105(i)(6),__  __July 28, 1967__  __,__  __[__  __81 Stat. 144__  __][/us/stat/81/144]__  __, eff.__  __Aug. 1, 1967__  __.\]__ 
 
 >     ”
 
  __Increase in Allowance for Administrative and Clerical Assistance to Senators—1951__ 
 
-[Act Oct. 24, 1951, ch. 554, § 2(c)(1)][/us/act/1951-10-24/ch554/s2/c/1], [65 Stat. 614][/us/stat/65/614], provided that: 
+[Act Oct. 24, 1951, ch. 554][/us/act/1951-10-24/ch554], § 2(c)(1), [65 Stat. 614][/us/stat/65/614], provided that: 
 
 > “The aggregate amount of the basic compensation authorized to be paid for administrative and clerical assistance and messenger service in the offices of Senators is hereby increased by—
 
@@ -1055,61 +1055,61 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __1966__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Pub. L. 89–504, title III, § 302(f)][/us/pl/89/504/s302/f], July 18, 1966, [80 Stat. 295][/us/stat/80/295], provided that: 
+[Pub. L. 89–504, title III][/us/pl/89/504/tIII], § 302(f), July 18, 1966, [80 Stat. 295][/us/stat/80/295], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act \[July 18, 1966\], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[July 18, 1966\], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) \[former [section 60e–13(a) of this title][/us/usc/t2/s60e–13/a]\] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act \[July 18, 1966\]. No additional compensation shall be paid to any person under subsection (a) \[former [section 60e–13(a) of this title][/us/usc/t2/s60e–13/a]\] for any period prior to the first day of the month following the date of enactment of this Act \[July 18, 1966\] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act \[July 18, 1966\] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
 
  __1965__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Pub. L. 89–301, § 11(f)][/us/pl/89/301/s11/f], Oct. 29, 1965, [79 Stat. 1121][/us/stat/79/1121], provided that: 
+[Pub. L. 89–301][/us/pl/89/301], § 11(f), Oct. 29, 1965, [79 Stat. 1121][/us/stat/79/1121], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act \[Oct. 29, 1965\], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[Oct. 29, 1965\], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) \[former [section 60e–12(a) of this title][/us/usc/t2/s60e–12/a]\] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act \[Oct. 29, 1965\]. No additional compensation shall be paid to any person under subsection (a) \[former [section 60e–12(a) of this title][/us/usc/t2/s60e–12/a]\] for any period prior to the first day of the month following the date of enactment of this Act \[Oct. 29, 1965\] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act \[Oct. 29, 1965\] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
 
  __1964__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Pub. L. 88–426, title II, § 202(e)][/us/pl/88/426/s202/e], Aug. 14, 1964, [78 Stat. 413][/us/stat/78/413], provided that: 
+[Pub. L. 88–426, title II][/us/pl/88/426/tII], § 202(e), Aug. 14, 1964, [78 Stat. 413][/us/stat/78/413], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator is hereby adjusted effective on the first day of the month following the date of enactment of this Act \[Aug. 14, 1964\], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[Aug. 14, 1964\], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) \[former [section 60e–11(a) of this title][/us/usc/t2/s60e–11/a]\] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act \[Aug. 14, 1964\]. No additional compensation shall be paid to any person under subsection (a) \[former [section 60e–11(a) of this title][/us/usc/t2/s60e–11/a]\] for any period prior to the first day of the month following the date of enactment of this Act \[Aug. 14, 1964\] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act \[Aug. 14, 1964\] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
  __1962__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Pub. L. 87–793, § 1005(b)][/us/pl/87/793/s1005/b], Oct. 11, 1962, [76 Stat. 867][/us/stat/76/867], provided that: 
+[Pub. L. 87–793][/us/pl/87/793], § 1005(b), Oct. 11, 1962, [76 Stat. 867][/us/stat/76/867], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on October 16, 1962, to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[Oct. 11, 1962\] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
  __1960__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Pub. L. 86–568, title I, § 117(b)][/us/pl/86/568/s117/b], July 1, 1960, [74 Stat. 303][/us/stat/74/303], provided that: 
+[Pub. L. 86–568, title I][/us/pl/86/568/tI], § 117(b), July 1, 1960, [74 Stat. 303][/us/stat/74/303], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on July 1, 1960, to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[July 1, 1960\] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
  __1958__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Pub. L. 85–462, § 4(b)][/us/pl/85/462/s4/b], June 20, 1958, [72 Stat. 207][/us/stat/72/207], provided that: 
+[Pub. L. 85–462][/us/pl/85/462], § 4(b), June 20, 1958, [72 Stat. 207][/us/stat/72/207], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act \[June 20, 1958\], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act \[June 20, 1958\] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) \[former [section 60e–8(a) of this title][/us/usc/t2/s60e–8/a]\] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act \[June 20, 1958\]. No additional compensation shall be paid to any person under subsection (a) \[former [section 60e–8(a) of this title][/us/usc/t2/s60e–8/a]\] for any period prior to the first day of the month following the date of enactment of this Act \[June 20, 1958\] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act \[June 20, 1958\] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
  __1955__  __Adjustment of Basic Compensation of Employees in Office of Senator__ 
 
-[Act June 28, 1955, ch. 189, § 4(e)(2)][/us/act/1955-06-28/ch189/s4/e/2], [69 Stat. 177][/us/stat/69/177], provided that: 
+[Act June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 4(e)(2), [69 Stat. 177][/us/stat/69/177], provided that: 
 
 > “The basic compensation of each employee in the office of a Senator on the effective date of this subsection is hereby adjusted to the lowest multiple of $60 which will provide basic compensation, plus additional compensation payable under subsection (a) \[former [section 60e–7(a) of this title][/us/usc/t2/s60e–7/a]\] and the provisions of law referred to in subsection (a) \[former [section 60e–7(a) of this title][/us/usc/t2/s60e–7/a]\], not less than the amount of basic compensation, plus additional compensation under the provisions of sections 501 and 502 of the Federal Employees’ Pay Act of 1945, as amended \[former sections 60e–3 and 60e–4 of this title\], and section 301 of the Postal Rate Revision and Federal Employees’ Salary Act of 1948 \[former [section 60e–4a of this title][/us/usc/t2/s60e–4a]\], which he is receiving on the effective date of this subsection.”
 
  __Compensation of Administrative Assistant Charged to Senator__ 
 
-[Act Oct. 28, 1949, ch. 783][/us/act/1949-10-28/ch783], title I, § 101(c)(1), [63 Stat. 974][/us/stat/63/974], provided that: 
+[Act Oct. 28, 1949, ch. 783, title I][/us/act/1949-10-28/ch783/tI], § 101(c)(1), [63 Stat. 974][/us/stat/63/974], provided that: 
 
 > “The basic compensation of the administrative assistant to a Senator shall be charged against the aggregate amount authorized to be paid for clerical assistance and messenger service in the office of such Senator.”
 
  __Additional Increase in Clerk Hire__ 
 
-[Act Oct. 28, 1949, ch. 783][/us/act/1949-10-28/ch783], title I, § 101(c)(2), [63 Stat. 974][/us/stat/63/974], provided that: 
+[Act Oct. 28, 1949, ch. 783, title I][/us/act/1949-10-28/ch783/tI], § 101(c)(2), [63 Stat. 974][/us/stat/63/974], provided that: 
 
 > “The aggregate amount of the basic compensation authorized to be paid for clerical assistance and messenger service in the office of each Senator is increased by $11,520.”
 
  __Increase of Clerk Hire for Senators__ 
 
-[Act Dec. 20, 1944, ch. 617, § 2(b)][/us/act/1944-12-20/ch617/s2/b], [58 Stat. 832][/us/stat/58/832], effective Jan. 1, 1945, provided: 
+[Act Dec. 20, 1944, ch. 617][/us/act/1944-12-20/ch617], § 2(b), [58 Stat. 832][/us/stat/58/832], effective Jan. 1, 1945, provided: 
 
 > “The aggregate amount of the basic compensation authorized to be paid to employees in the offices of Senators (including employees of standing committees of which Senators are chairmen) is hereby increased by (1) $4,020 in the case of each Senator from a State which has a population of less than four million inhabitants and (2) by $5,040 in the case of each Senator from a State which has a population of four million or more inhabitants.”
 
@@ -1133,7 +1133,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
  __Rates of Pay for Employees of Senate Select Committee To Study Governmental Operations With Respect to Intelligence Activities__ 
 
-[Pub. L. 94–32, title I, § 5][/us/pl/94/32/s5], June 12, 1975, [89 Stat. 183][/us/stat/89/183], provided in part that: 
+[Pub. L. 94–32, title I][/us/pl/94/32/tI], § 5, June 12, 1975, [89 Stat. 183][/us/stat/89/183], provided in part that: 
 
 > “Notwithstanding paragraph (3) of section 105(e) of the Legislative Branch Appropriations Act, 1968, as amended \[[2 U.S.C. 4575(e)(3)][/us/usc/t2/s4575/e/3]\], two employees of the Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities may be paid at the highest gross rate provided in subparagraph (A) of such paragraph, and eleven employees of such committee may be paid at the next highest gross rate provided in such subparagraph.”
 
@@ -1154,17 +1154,17 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s6314/b/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314%2Fb%2F2%2FA%2Fiii
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/usc/t2/s6314/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314%2Fb%2F3
-[/us/pl/96/304/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs112%2Fb%2F1
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F892
-[/us/pl/90/57/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fa
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/141-144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F141-144
-[/us/pl/90/206/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F637
 [/us/pl/91/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F145
 [/us/stat/83/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F340
-[/us/pl/91/510/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs305
+[/us/pl/91/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIII
 [/us/stat/84/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1181
-[/us/pl/91/656/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs4
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1952
 [/us/pl/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F184
 [/us/stat/85/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F633
@@ -1174,57 +1174,57 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/stat/87/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F532
 [/us/pl/93/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F245
 [/us/stat/87/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1078
-[/us/pl/93/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255%2Fs1
+[/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/stat/88/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F52
-[/us/pl/93/371/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs6
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F430
-[/us/pl/94/59/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs102
+[/us/pl/94/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtI
 [/us/stat/89/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F274
-[/us/pl/94/440/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs101%2Fa
+[/us/pl/94/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtI
 [/us/stat/90/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1443
-[/us/pl/95/94/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fd
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F663
-[/us/pl/95/391/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs104%2Fb
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F772
-[/us/pl/95/482/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F482%2Fs112
+[/us/pl/95/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F482
 [/us/stat/92/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1605
-[/us/pl/96/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F890
-[/us/pl/98/181/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs1203%2Fa
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1289
-[/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F475
-[/us/pl/100/71/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs3%2Fa
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F423
-[/us/pl/100/137/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs1%2Fc%2F1
+[/us/pl/100/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137
 [/us/stat/101/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F818
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
-[/us/pl/104/186/s204/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F9
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1731
-[/us/pl/105/18/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs7001
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F192
-[/us/pl/105/55/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs5
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1181
-[/us/pl/105/275/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs8
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2434
-[/us/pl/106/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs2
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F411
-[/us/pl/107/68/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs106
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F568
-[/us/pl/108/7/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs3
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F349
-[/us/pl/108/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1010
-[/us/pl/108/447/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3168
-[/us/pl/109/55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F568
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2220
-[/us/pl/111/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F814
-[/us/pl/111/68/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2026
 [/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
 [/us/pl/90/57/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105
@@ -1241,20 +1241,20 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/111/68/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1
+[/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/111/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/110/161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/110/161/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs4%2Fa
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
@@ -1340,9 +1340,9 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/98/367/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs3%2Fa
-[/us/pl/98/367/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs12%2Fa
-[/us/pl/98/367/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs12%2Fb
+[/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367
+[/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367
+[/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
@@ -1361,12 +1361,12 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/96/304/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs107%2Fa
+[/us/pl/96/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/96/304/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs112%2Fb%2F1
+[/us/pl/96/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/96/304/s112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs112%2Fb%2F1
+[/us/pl/96/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
@@ -1378,8 +1378,8 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/95/482/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F482%2Fs112%2F1
-[/us/pl/95/482/s112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F482%2Fs112%2F3
+[/us/pl/95/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F482
+[/us/pl/95/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F482
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
@@ -1454,56 +1454,56 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/90/206/s214/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214%2Fj
-[/us/pl/90/206/s214/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214%2Fk
-[/us/pl/90/206/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214
-[/us/pl/111/68/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1
+[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2026
-[/us/pl/111/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F814
-[/us/pl/110/161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2220
-[/us/pl/110/161/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs4%2Fb
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2221
-[/us/pl/109/55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F568
-[/us/pl/108/447/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3168
-[/us/pl/108/83/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1010
-[/us/pl/108/7/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs3
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F349
-[/us/pl/107/68/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs106
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F568
-[/us/pl/106/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs2
+[/us/pl/106/57/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtI
 [/us/stat/113/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F411
-[/us/pl/105/275/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs8
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2434
-[/us/pl/105/55/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs5
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1181
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
-[/us/pl/100/137/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs1%2Fc%2F1
+[/us/pl/100/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137
 [/us/stat/101/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F818
-[/us/pl/100/71/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs3%2Fa
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F423
-[/us/pl/98/367/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs3%2Fb
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F475
-[/us/pl/98/367/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs12%2Fc
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F477
-[/us/pl/98/181/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs1203%2Fb
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1290
 [/us/pl/96/304/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs107%2Fa
 [/us/pl/96/304/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs107%2Fd
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
-[/us/pl/96/304/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs112%2Fb
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F892
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/pl/95/94/s111/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Ff
 [/us/usc/t2/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4332
-[/us/pl/94/440/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs101%2Fa
+[/us/pl/94/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtI
 [/us/stat/90/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1443
-[/us/pl/93/371/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs6
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F430
 [/us/pl/93/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145
 [/us/stat/87/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F532
@@ -1518,21 +1518,21 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/90/206/s220/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F3
 [/us/usc/t28/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs603
-[/us/pl/90/57/s105/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fk
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 [/us/usc/t5/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/usc/t2/s1907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907%2Fa
-[/us/pl/108/83/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs10
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1014
 [/us/usc/t2/s61–1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fd%2F2
 [/us/usc/t2/s4575/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F2
 [/us/usc/t2/s61–1/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fd%2F1%2FA
 [/us/usc/t2/s4575/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F1%2FA
-[/us/pl/94/59/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs105
+[/us/pl/94/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtI
 [/us/stat/89/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F275
-[/us/pl/94/157/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs111%2Fa
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F832
 [/us/usc/t2/s4575/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fe%2F3
 [/us/usc/t2/s4575/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fe%2F3
@@ -1540,12 +1540,12 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s4575/d/2/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F2%2Fii
 [/us/usc/t2/s4575/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Ff
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
-[/us/pl/94/157/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs111%2Fc
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F832
 [/us/pl/94/157/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs111%2Fa
-[/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F429
-[/us/pl/94/157/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs111%2Fb
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F832
 [/us/usc/t2/s4575/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fe%2F3
 [/us/usc/t2/s4575/d/2/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F2%2Fii
@@ -1555,60 +1555,60 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
 [/us/usc/t2/s6531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6531
-[/us/pl/94/157/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs111%2Fc
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F832
 [/us/pl/94/157/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs111%2Fb
-[/us/pl/95/94/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fa
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F662
-[/us/pl/95/240/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F240%2Fs206
+[/us/pl/95/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F240%2FtII
 [/us/stat/92/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F117
-[/us/pl/100/137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs3
+[/us/pl/100/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137
 [/us/stat/101/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F819
-[/us/pl/102/392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs1
+[/us/pl/102/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtI
 [/us/stat/106/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1706
 [/us/usc/t2/s61–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fd
 [/us/usc/t2/s4575/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd
-[/us/pl/100/137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs3
+[/us/pl/100/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137
 [/us/stat/101/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F819
 [/us/pl/95/94/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fa
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/pl/95/94/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fa
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/100/137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs3
+[/us/pl/100/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137
 [/us/stat/101/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F819
 [/us/pl/95/94/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fb
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/95/94/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs111%2Fd
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F663
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
-[/us/pl/100/71/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs3%2Fb
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F423
-[/us/pl/99/349/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349%2Fs1
+[/us/pl/99/349/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349%2FtI
 [/us/stat/100/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F741
-[/us/pl/99/88/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs191
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F348
-[/us/pl/98/367/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs9
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F475
-[/us/pl/98/63/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs901
+[/us/pl/98/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2FtI
 [/us/stat/97/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F335
-[/us/pl/97/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257
+[/us/pl/97/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2FtI
 [/us/stat/96/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F849
-[/us/pl/97/12/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2Fs106
+[/us/pl/97/12/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2FtI
 [/us/stat/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F62
-[/us/pl/96/304/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs105
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F889
-[/us/pl/96/86/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86%2Fs111%2Fa
+[/us/pl/96/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86
 [/us/stat/93/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F660
-[/us/pl/95/391/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs104%2Fa
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F772
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F81
-[/us/pl/94/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F830
-[/us/pl/94/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32
+[/us/pl/94/32/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2FtI
 [/us/stat/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F182
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F425
@@ -1618,11 +1618,11 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/stat/81/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F774
 [/us/pl/89/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F697
 [/us/stat/80/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1063
-[/us/pl/88/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F25
+[/us/pl/88/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F25%2FtI
 [/us/stat/77/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F31
-[/us/pl/87/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F545
+[/us/pl/87/545/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F545%2FtI
 [/us/stat/76/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F215
-[/us/act/1955-06-28/ch189/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs4%2Fd
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F176
 [/us/pl/86/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F176
 [/us/stat/73/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F401
@@ -1630,45 +1630,45 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/stat/78/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F538
 [/us/pl/89/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F545
 [/us/stat/80/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F357
-[/us/pl/90/57/s105/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F6
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
 [/us/usc/t2/s60e–6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%936%2Fb
 [/us/usc/t2/s60e–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%937
 [/us/usc/t2/s60e–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%937%2Fa
-[/us/pl/90/57/s105/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F6
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/act/1951-10-24/ch554/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch554%2Fs2%2Fc%2F1
+[/us/act/1951-10-24/ch554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch554
 [/us/stat/65/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F614
-[/us/pl/89/504/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs302%2Ff
+[/us/pl/89/504/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2FtIII
 [/us/stat/80/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F295
 [/us/usc/t2/s60e–13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9313%2Fa
 [/us/usc/t2/s60e–13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9313%2Fa
-[/us/pl/89/301/s11/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs11%2Ff
+[/us/pl/89/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301
 [/us/stat/79/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1121
 [/us/usc/t2/s60e–12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9312%2Fa
 [/us/usc/t2/s60e–12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9312%2Fa
-[/us/pl/88/426/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs202%2Fe
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F413
 [/us/usc/t2/s60e–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9311%2Fa
 [/us/usc/t2/s60e–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9311%2Fa
-[/us/pl/87/793/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1005%2Fb
+[/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F867
-[/us/pl/86/568/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2Fs117%2Fb
+[/us/pl/86/568/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2FtI
 [/us/stat/74/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F303
-[/us/pl/85/462/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs4%2Fb
+[/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/stat/72/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F207
 [/us/usc/t2/s60e–8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%938%2Fa
 [/us/usc/t2/s60e–8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%938%2Fa
-[/us/act/1955-06-28/ch189/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs4%2Fe%2F2
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F177
 [/us/usc/t2/s60e–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%937%2Fa
 [/us/usc/t2/s60e–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%937%2Fa
 [/us/usc/t2/s60e–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%934a
-[/us/act/1949-10-28/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783
+[/us/act/1949-10-28/ch783/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783%2FtI
 [/us/stat/63/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F974
-[/us/act/1949-10-28/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783
+[/us/act/1949-10-28/ch783/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783%2FtI
 [/us/stat/63/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F974
-[/us/act/1944-12-20/ch617/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-20%2Fch617%2Fs2%2Fb
+[/us/act/1944-12-20/ch617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-20%2Fch617
 [/us/stat/58/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F832
 [/us/pl/95/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F4
 [/us/stat/91/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F12
@@ -1679,7 +1679,7 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 [/us/pl/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/94/32/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2Fs5
+[/us/pl/94/32/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2FtI
 [/us/stat/89/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F183
 [/us/usc/t2/s4575/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fe%2F3
 [/us/pl/86/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F213

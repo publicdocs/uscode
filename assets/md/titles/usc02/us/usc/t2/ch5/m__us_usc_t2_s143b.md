@@ -17,7 +17,7 @@
 
     From and after October 1, 1980, payments in advance for subscriptions or other charges for bibliographical data, publications, materials in any other form, and services may be made by the Librarian of Congress whenever he determines it to be more prompt, efficient, or economical to do so in the interest of carrying out required Library programs.
 
-([Pub. L. 96–536, § 101(c)][/us/pl/96/536/s101/c], Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167].)
+([Pub. L. 96–536][/us/pl/96/536], § 101(c), Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167].)
 
  __Codification__ 
 
@@ -27,15 +27,15 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 96–86, § 101(c)][/us/pl/96/86/s101/c] \[H.R. 4390, title II, § 204\], Oct. 12, 1979, [93 Stat. 657][/us/stat/93/657].
+    [Pub. L. 96–86][/us/pl/96/86], § 101(c) \[H.R. 4390, title II, § 204\], Oct. 12, 1979, [93 Stat. 657][/us/stat/93/657].
 
-    [Pub. L. 95–391, title II, § 204][/us/pl/95/391/s204], Sept. 30, 1978, [92 Stat. 786][/us/stat/92/786].
+    [Pub. L. 95–391, title II][/us/pl/95/391/tII], § 204, Sept. 30, 1978, [92 Stat. 786][/us/stat/92/786].
 
-    [Pub. L. 95–94, title II, § 204][/us/pl/95/94/s204], Aug. 5, 1977, [91 Stat. 677][/us/stat/91/677].
+    [Pub. L. 95–94, title II][/us/pl/95/94/tII], § 204, Aug. 5, 1977, [91 Stat. 677][/us/stat/91/677].
 
-    [Pub. L. 94–440, title VIII, § 804][/us/pl/94/440/s804], Oct. 1, 1976, [90 Stat. 1457][/us/stat/90/1457].
+    [Pub. L. 94–440, title VIII][/us/pl/94/440/tVIII], § 804, Oct. 1, 1976, [90 Stat. 1457][/us/stat/90/1457].
 
-    [Pub. L. 94–59, title VII, § 704][/us/pl/94/59/s704], July 25, 1975, [89 Stat. 295][/us/stat/89/295].
+    [Pub. L. 94–59, title VII][/us/pl/94/59/tVII], § 704, July 25, 1975, [89 Stat. 295][/us/stat/89/295].
 
     [Pub. L. 93–371][/us/pl/93/371], Aug. 13, 1974, [88 Stat. 441][/us/stat/88/441].
 
@@ -60,18 +60,18 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3167
 [/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
-[/us/pl/96/86/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86%2Fs101%2Fc
+[/us/pl/96/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86
 [/us/stat/93/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F657
-[/us/pl/95/391/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs204
+[/us/pl/95/391/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtII
 [/us/stat/92/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F786
-[/us/pl/95/94/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs204
+[/us/pl/95/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtII
 [/us/stat/91/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F677
-[/us/pl/94/440/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs804
+[/us/pl/94/440/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtVIII
 [/us/stat/90/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1457
-[/us/pl/94/59/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs704
+[/us/pl/94/59/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtVII
 [/us/stat/89/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F295
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F441

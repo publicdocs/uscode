@@ -75,7 +75,7 @@
 
         This section shall take effect immediately before noon January 3, 1991, except that subsections (g), (h), and (i) shall take effect on January 1, 1990.
 
-([Pub. L. 101–194, title VIII, § 803][/us/pl/101/194/s803], Nov. 30, 1989, [103 Stat. 1774][/us/stat/103/1774].)
+([Pub. L. 101–194, title VIII][/us/pl/101/194/tVIII], § 803, Nov. 30, 1989, [103 Stat. 1774][/us/stat/103/1774].)
 
  __References in Text__ 
 
@@ -93,19 +93,19 @@
 
  __Acceptance of Gifts; Amendments to Advisory Opinions__ 
 
-[Pub. L. 101–194, title VIII, § 801(e)][/us/pl/101/194/s801/e], Nov. 30, 1989, [103 Stat. 1772][/us/stat/103/1772], provided that: 
+[Pub. L. 101–194, title VIII][/us/pl/101/194/tVIII], § 801(e), Nov. 30, 1989, [103 Stat. 1772][/us/stat/103/1772], provided that: 
 
 > “The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives.”
 
  __Noncampaign Use of Campaign Vehicles__ 
 
-[Pub. L. 101–194, title VIII, § 802(e)][/us/pl/101/194/s802/e], Nov. 30, 1989, [103 Stat. 1773][/us/stat/103/1773], provided that: 
+[Pub. L. 101–194, title VIII][/us/pl/101/194/tVIII], § 802(e), Nov. 30, 1989, [103 Stat. 1773][/us/stat/103/1773], provided that: 
 
 > “The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall issue an advisory opinion to provide for appropriate conditions for the incidental noncampaign use of vehicles owned or leased by a campaign committee of a Member of the House of Representatives.”
 
  __Restrictions on Reimbursable Travel Expenses__ 
 
-[Pub. L. 101–194, title VIII, § 805][/us/pl/101/194/s805], Nov. 30, 1989, [103 Stat. 1778][/us/stat/103/1778], provided that:
+[Pub. L. 101–194, title VIII][/us/pl/101/194/tVIII], § 805, Nov. 30, 1989, [103 Stat. 1778][/us/stat/103/1778], provided that:
 
 >     “(a)  __Restrictions__  __.—__ 
 
@@ -126,15 +126,15 @@
 ----------
 ----------
 
-[/us/pl/101/194/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs803
+[/us/pl/101/194/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVIII
 [/us/stat/103/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1774
 [/us/usc/t2/s29d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs29d
 [/us/pl/101/194/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs803
-[/us/pl/101/194/s801/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs801%2Fe
+[/us/pl/101/194/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVIII
 [/us/stat/103/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1772
-[/us/pl/101/194/s802/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs802%2Fe
+[/us/pl/101/194/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVIII
 [/us/stat/103/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1773
-[/us/pl/101/194/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs805
+[/us/pl/101/194/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVIII
 [/us/stat/103/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1778
 
 

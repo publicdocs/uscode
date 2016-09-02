@@ -17,7 +17,7 @@
 
     The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982) to the President of the Senate, upon request by such person, United States special delivery postage stamps in such amount as may be necessary for the mailing of postal matters arising in connection with his official business.
 
-([Pub. L. 97–51, § 127(a)(1)][/us/pl/97/51/s127/a/1], Oct. 1, 1981, [95 Stat. 965][/us/stat/95/965].)
+([Pub. L. 97–51][/us/pl/97/51], § 127(a)(1), Oct. 1, 1981, [95 Stat. 965][/us/stat/95/965].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/51/s127/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs127%2Fa%2F1
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F965
 [/us/usc/t2/s42a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs42a
 

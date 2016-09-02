@@ -47,7 +47,7 @@
 
         The Secretary of the Treasury shall invest any portion of the fund that, as determined by the Commission, is not required to meet current withdrawals. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Commission has a maturity suitable for the fund. In carrying out this subsection, the Secretary may make such purchases, sales, and redemptions of obligations as may be approved by the Commission.
 
-([Pub. L. 100–696, title VIII, § 803][/us/pl/100/696/s803], Nov. 18, 1988, [102 Stat. 4609][/us/stat/102/4609]; [Pub. L. 101–302, title III, § 312(b)][/us/pl/101/302/s312/b], May 25, 1990, [104 Stat. 245][/us/stat/104/245].)
+([Pub. L. 100–696, title VIII][/us/pl/100/696/tVIII], § 803, Nov. 18, 1988, [102 Stat. 4609][/us/stat/102/4609]; [Pub. L. 101–302, title III][/us/pl/101/302/tIII], § 312(b), May 25, 1990, [104 Stat. 245][/us/stat/104/245].)
 
  __References in Text__ 
 
@@ -55,17 +55,17 @@
 
  __Codification__ 
 
-    Section was classified to section 188a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
-    1990—Subsec. (b). [Pub. L. 101–302, § 312(b)(1)][/us/pl/101/302/s312/b/1], struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
+    1990—Subsec. (b). [Pub. L. 101–302][/us/pl/101/302], § 312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
 
-    Subsec. (b)(2). [Pub. L. 101–302, § 312(b)(2)][/us/pl/101/302/s312/b/2], inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
+    Subsec. (b)(2). [Pub. L. 101–302][/us/pl/101/302], § 312(b)(2), inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
 
  __Capitol Visitor Center Funding__ 
 
-[Pub. L. 107–117, div. B, § 913][/us/pl/107/117/s913], Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324], provided that:
+[Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 913, Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324], provided that:
 
 >     “(a) Notwithstanding any other provision of law, the United States Capitol Preservation Commission established under section 801 of the Arizona-Idaho Conservation Act of 1988 ([40 U.S.C. 188a][/us/usc/t40/s188a]) \[now [2 U.S.C. 2081][/us/usc/t2/s2081]\] may transfer to the Architect of the Capitol amounts in the Capitol Preservation Fund established under section 803 of such Act ([40 U.S.C. 188a–2][/us/usc/t40/s188a–2]) \[now [2 U.S.C. 2083][/us/usc/t2/s2083]\] if the amounts are to be used by the Architect for the planning, engineering, design, or construction of the Capitol Visitor Center.
 
@@ -85,18 +85,18 @@
 [/us/usc/t2/s2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2081
 [/us/usc/t2/s2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2082
 [/us/usc/t2/s2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2082
-[/us/pl/100/696/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs803
+[/us/pl/100/696/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVIII
 [/us/stat/102/4609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4609
-[/us/pl/101/302/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs312%2Fb
+[/us/pl/101/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtIII
 [/us/stat/104/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F245
 [/us/pl/100/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F673
 [/us/stat/102/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3992
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/101/302/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs312%2Fb%2F1
-[/us/pl/101/302/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs312%2Fb%2F2
-[/us/pl/107/117/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs913
+[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
+[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2324
 [/us/usc/t40/s188a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs188a
 [/us/usc/t2/s2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2081

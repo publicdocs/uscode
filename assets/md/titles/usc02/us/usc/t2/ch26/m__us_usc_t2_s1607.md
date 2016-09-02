@@ -35,7 +35,7 @@
 
         Nothing in this chapter shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.
 
-([Pub. L. 104–65, § 8][/us/pl/104/65/s8], Dec. 19, 1995, [109 Stat. 699][/us/stat/109/699].)
+([Pub. L. 104–65][/us/pl/104/65], § 8, Dec. 19, 1995, [109 Stat. 699][/us/stat/109/699].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/65/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs8
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F699
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691

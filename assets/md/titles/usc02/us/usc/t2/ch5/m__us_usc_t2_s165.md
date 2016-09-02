@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated annually for carrying out the provisions of [section 164 of this title][/us/usc/t2/s164] the sum of $30,000, to remain available until expended.
 
-([Feb. 10, 1927, ch. 99, § 2][/us/act/1927-02-10/ch99/s2], [44 Stat. 1066][/us/stat/44/1066].)
+([Feb. 10, 1927, ch. 99][/us/act/1927-02-10/ch99], § 2, [44 Stat. 1066][/us/stat/44/1066].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t2/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs164
-[/us/act/1927-02-10/ch99/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-10%2Fch99%2Fs2
+[/us/act/1927-02-10/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-10%2Fch99
 [/us/stat/44/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1066
 
 

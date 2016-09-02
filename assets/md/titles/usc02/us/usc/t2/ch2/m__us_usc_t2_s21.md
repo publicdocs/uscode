@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 28 derived from [act June 1, 1789, ch. 1, § 2][/us/act/1789-06-01/ch1/s2], [1 Stat. 23][/us/stat/1/23].
+    R.S. § 28 derived from [act June 1, 1789, ch. 1][/us/act/1789-06-01/ch1], § 2, [1 Stat. 23][/us/stat/1/23].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1789-06-01/ch1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-06-01%2Fch1%2Fs2
+[/us/act/1789-06-01/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1789-06-01%2Fch1
 [/us/stat/1/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F23
 
 

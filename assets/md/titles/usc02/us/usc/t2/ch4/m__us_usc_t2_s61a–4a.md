@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 92–342, § 101][/us/pl/92/342/s101], July 10, 1972, [86 Stat. 433][/us/stat/86/433], authorized Comptroller of Senate to appoint and fix compensation of an auditor in lieu of a secretary. Section was omitted in view of repeal of [section 61a–4 of this title][/us/usc/t2/s61a–4] which authorized appointment of a Comptroller of Senate by President pro tempore of the Senate and the appointment by Comptroller of Senate of a secretary, and repeal of [section 61a–5 of this title][/us/usc/t2/s61a–5] which set out duties of Comptroller of Senate, one of which was to appoint a secretary.
+    Section, [Pub. L. 92–342][/us/pl/92/342], § 101, July 10, 1972, [86 Stat. 433][/us/stat/86/433], authorized Comptroller of Senate to appoint and fix compensation of an auditor in lieu of a secretary. Section was omitted in view of repeal of [section 61a–4 of this title][/us/usc/t2/s61a–4] which authorized appointment of a Comptroller of Senate by President pro tempore of the Senate and the appointment by Comptroller of Senate of a secretary, and repeal of [section 61a–5 of this title][/us/usc/t2/s61a–5] which set out duties of Comptroller of Senate, one of which was to appoint a secretary.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/342/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342%2Fs101
+[/us/pl/92/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342
 [/us/stat/86/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F433
 [/us/usc/t2/s61a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%934
 [/us/usc/t2/s61a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%935

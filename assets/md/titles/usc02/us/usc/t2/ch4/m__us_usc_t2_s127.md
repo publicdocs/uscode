@@ -19,7 +19,7 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Act June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360], as amended by acts July 12, 1960, [Pub. L. 86–628][/us/pl/86/628], [74 Stat. 449][/us/stat/74/449]; Mar. 31, 1961, [Pub. L. 87–14, title I][/us/pl/87/14], [75 Stat. 29][/us/stat/75/29].
+    [Act June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360], as amended by acts July 12, 1960, [Pub. L. 86–628][/us/pl/86/628], [74 Stat. 449][/us/stat/74/449]; Mar. 31, 1961, [Pub. L. 87–14, title I][/us/pl/87/14/tI], [75 Stat. 29][/us/stat/75/29].
 
     [Act Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], [69 Stat. 504][/us/stat/69/504].
 
@@ -46,7 +46,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/70/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F360
 [/us/pl/86/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F628
 [/us/stat/74/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F449
-[/us/pl/87/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F14
+[/us/pl/87/14/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F14%2FtI
 [/us/stat/75/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F29
 [/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568
 [/us/stat/69/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F504

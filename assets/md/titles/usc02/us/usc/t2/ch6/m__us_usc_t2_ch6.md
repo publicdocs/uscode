@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs190" data-uslm-ref="/us/usc/t2/s190">190</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs190l" data-uslm-ref="/us/usc/t2/s190l">190l.</a>  </td>
 
     <td> Private claims pending before Congress; taking of testimony.  </td>
 

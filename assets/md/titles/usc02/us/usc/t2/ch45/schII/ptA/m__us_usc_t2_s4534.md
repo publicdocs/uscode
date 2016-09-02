@@ -23,11 +23,11 @@
 
     such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or resolution, under section 334  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title on and after such date.
 
-([Pub. L. 91–510, title IV, § 475][/us/pl/91/510/s475], Oct. 26, 1970, [84 Stat. 1195][/us/stat/84/1195]; [Pub. L. 104–186, title II, § 210(4)][/us/pl/104/186/s210/4], Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 475, Oct. 26, 1970, [84 Stat. 1195][/us/stat/84/1195]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 210(4), Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].)
 
  __References in Text__ 
 
-    [Section 334 of this title][/us/usc/t2/s334], referred to in text, was repealed by [Pub. L. 104–186, title II, § 210(3)(A)][/us/pl/104/186/s210/3/A], Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].
+    [Section 334 of this title][/us/usc/t2/s334], referred to in text, was repealed by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 210(3)(A), Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].
 
  __Codification__ 
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/91/510/s475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs475
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1195
-[/us/pl/104/186/s210/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs210%2F4
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1743
 [/us/usc/t2/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs334
-[/us/pl/104/186/s210/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs210%2F3%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1743
 [/us/usc/t2/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs335
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

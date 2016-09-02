@@ -17,7 +17,7 @@
 
     The Legislative Counsel of the Senate shall be paid at an annual rate of compensation of $40,000.
 
-([Feb. 24, 1919, ch. 18][/us/act/1919-02-24/ch18], title XIII, § 1303(d), as added [June 2, 1924, ch. 234][/us/act/1924-06-02/ch234], title XI, § 1101, [43 Stat. 353][/us/stat/43/353]; amended [June 18, 1940, ch. 396, § 1][/us/act/1940-06-18/ch396/s1], [54 Stat. 472][/us/stat/54/472]; [Sept. 20, 1941, ch. 412][/us/act/1941-09-20/ch412], title VI, § 602, [55 Stat. 726][/us/stat/55/726]; [Oct. 15, 1949, ch. 695, § 6(c)][/us/act/1949-10-15/ch695/s6/c], [63 Stat. 881][/us/stat/63/881]; [Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], §§ 9, 101, [69 Stat. 509][/us/stat/69/509], 514; [Pub. L. 85–75][/us/pl/85/75], July 1, 1957, [71 Stat. 250][/us/stat/71/250]; [Pub. L. 88–426, title II, § 203(g)][/us/pl/88/426/s203/g], Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]; [Pub. L. 93–371, § 4][/us/pl/93/371/s4], Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429]; [Pub. L. 94–59, title I, § 105][/us/pl/94/59/s105], July 25, 1975, [89 Stat. 275][/us/stat/89/275].)
+([Feb. 24, 1919, ch. 18][/us/act/1919-02-24/ch18], title XIII, § 1303(d), as added [June 2, 1924, ch. 234][/us/act/1924-06-02/ch234], title XI, § 1101, [43 Stat. 353][/us/stat/43/353]; amended [June 18, 1940, ch. 396][/us/act/1940-06-18/ch396], § 1, [54 Stat. 472][/us/stat/54/472]; [Sept. 20, 1941, ch. 412][/us/act/1941-09-20/ch412], title VI, § 602, [55 Stat. 726][/us/stat/55/726]; [Oct. 15, 1949, ch. 695][/us/act/1949-10-15/ch695], § 6(c), [63 Stat. 881][/us/stat/63/881]; [Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], §§ 9, 101, [69 Stat. 509][/us/stat/69/509], 514; [Pub. L. 85–75][/us/pl/85/75], July 1, 1957, [71 Stat. 250][/us/stat/71/250]; [Pub. L. 88–426, title II][/us/pl/88/426/tII], § 203(g), Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]; [Pub. L. 93–371][/us/pl/93/371], § 4, Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429]; [Pub. L. 94–59, title I][/us/pl/94/59/tI], § 105, July 25, 1975, [89 Stat. 275][/us/stat/89/275].)
 
  __Codification__ 
 
@@ -43,13 +43,13 @@
 
  __Effective Date of 1949 Amendment__ 
 
-[Act Oct. 15, 1949, ch. 695, § 9][/us/act/1949-10-15/ch695/s9], [63 Stat. 882][/us/stat/63/882], provided that: 
+[Act Oct. 15, 1949, ch. 695][/us/act/1949-10-15/ch695], § 9, [63 Stat. 882][/us/stat/63/882], provided that: 
 
 > “This Act shall take effect on the first day of the first pay period which begins after the date of enactment of this Act \[Oct. 15, 1949\].”
 
  __Repeals__ 
 
-    [Act Mar. 10, 1928, ch. 167, § 23(a)][/us/act/1928-03-10/ch167/s23/a], [45 Stat. 279][/us/stat/45/279], formerly cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647].
+    [Act Mar. 10, 1928, ch. 167][/us/act/1928-03-10/ch167], § 23(a), [45 Stat. 279][/us/stat/45/279], formerly cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 647][/us/stat/80/647].
 
  __1974__  __Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate__ 
 
@@ -69,21 +69,21 @@
 [/us/act/1919-02-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-24%2Fch18
 [/us/act/1924-06-02/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234
 [/us/stat/43/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F353
-[/us/act/1940-06-18/ch396/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-18%2Fch396%2Fs1
+[/us/act/1940-06-18/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-18%2Fch396
 [/us/stat/54/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F472
 [/us/act/1941-09-20/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-20%2Fch412
 [/us/stat/55/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F726
-[/us/act/1949-10-15/ch695/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs6%2Fc
+[/us/act/1949-10-15/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695
 [/us/stat/63/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F881
 [/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568
 [/us/stat/69/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F509
 [/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
 [/us/stat/71/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F250
-[/us/pl/88/426/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs203%2Fg
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F415
-[/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F429
-[/us/pl/94/59/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs105
+[/us/pl/94/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtI
 [/us/stat/89/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F275
 [/us/pl/91/510/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs531
 [/us/usc/t2/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs281
@@ -92,11 +92,11 @@
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
-[/us/act/1949-10-15/ch695/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs9
+[/us/act/1949-10-15/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695
 [/us/stat/63/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F882
-[/us/act/1928-03-10/ch167/s23/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167%2Fs23%2Fa
+[/us/act/1928-03-10/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-10%2Fch167
 [/us/stat/45/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F279
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F647
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4

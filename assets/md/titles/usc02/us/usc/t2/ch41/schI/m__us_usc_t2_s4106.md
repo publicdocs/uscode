@@ -17,7 +17,7 @@
 
     The Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, respectively, shall make and issue regulations specifying the classes of articles which may be purchased by or through the stationery rooms of the House and Senate.
 
-([May 13, 1926, ch. 294, § 2][/us/act/1926-05-13/ch294/s2], [44 Stat. 552][/us/stat/44/552]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Pub. L. 104–186, title II, § 204(65)][/us/pl/104/186/s204/65], Aug. 20, 1996, [110 Stat. 1739][/us/stat/110/1739].)
+([May 13, 1926, ch. 294][/us/act/1926-05-13/ch294], § 2, [44 Stat. 552][/us/stat/44/552]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(65), Aug. 20, 1996, [110 Stat. 1739][/us/stat/110/1739].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
+    [Act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
 
 ----------
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/act/1926-05-13/ch294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-13%2Fch294%2Fs2
+[/us/act/1926-05-13/ch294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-13%2Fch294
 [/us/stat/44/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F552
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F814
-[/us/pl/104/186/s204/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F65
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1739
 [/us/usc/t2/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs119
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 
 

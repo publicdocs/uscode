@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall preclude a State, local, or tribal government that already complies with all or part of the Federal intergovernmental mandates included in the bill, joint resolution, amendment, motion, or conference report from consideration for Federal funding under [section 658d(a)(2) of this title][/us/usc/t2/s658d/a/2] for the cost of the mandate, including the costs the State, local, or tribal government is currently paying and any additional costs necessary to meet the mandate.
 
-([Pub. L. 104–4, title I, § 105][/us/pl/104/4/s105], Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62].)
+([Pub. L. 104–4, title I][/us/pl/104/4/tI], § 105, Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s658d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658d%2Fa%2F2
-[/us/pl/104/4/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs105
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F62
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48

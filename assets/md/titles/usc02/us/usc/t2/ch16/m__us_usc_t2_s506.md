@@ -47,7 +47,7 @@
 
         This section shall apply with respect to sessions of Congress beginning after September 16, 1996.
 
-([Pub. L. 104–197, title III, § 311][/us/pl/104/197/s311], Sept. 16, 1996, [110 Stat. 2414][/us/stat/110/2414].)
+([Pub. L. 104–197, title III][/us/pl/104/197/tIII], § 311, Sept. 16, 1996, [110 Stat. 2414][/us/stat/110/2414].)
 
  __Codification__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t39/s3210/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fd%2F7%2FB
 [/us/usc/t39/s3210/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fd%2F7%2FB
 [/us/usc/t39/s3210/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fa%2F6%2FE
-[/us/pl/104/197/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs311
+[/us/pl/104/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtIII
 [/us/stat/110/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2414
 [/us/usc/t2/s59h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59h
 

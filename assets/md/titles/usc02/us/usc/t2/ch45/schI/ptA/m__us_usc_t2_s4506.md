@@ -17,7 +17,7 @@
 
     Any death gratuity payment at any time specifically appropriated by any Act of Congress or at any time made out of the applicable accounts of the House of Representatives or the contingent fund of the Senate shall be held to have been a gift.
 
-([June 5, 1952, ch. 369][/us/act/1952-06-05/ch369], Ch. I, [66 Stat. 101][/us/stat/66/101]; [Pub. L. 104–186, title II, § 203(6)][/us/pl/104/186/s203/6], Aug. 20, 1996, [110 Stat. 1725][/us/stat/110/1725].)
+([June 5, 1952, ch. 369][/us/act/1952-06-05/ch369], Ch. I, [66 Stat. 101][/us/stat/66/101]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(6), Aug. 20, 1996, [110 Stat. 1725][/us/stat/110/1725].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1952-06-05/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-05%2Fch369
 [/us/stat/66/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F101
-[/us/pl/104/186/s203/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F6
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1725
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 

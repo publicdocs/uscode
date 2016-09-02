@@ -17,7 +17,7 @@
 
     At the regular election held in any State next preceding the expiration of the term for which any Senator was elected to represent such State in Congress, at which election a Representative to Congress is regularly by law to be chosen, a United States Senator from said State shall be elected by the people thereof for the term commencing on the 3d day of January next thereafter.
 
-([June 4, 1914, ch. 103, § 1][/us/act/1914-06-04/ch103/s1], [38 Stat. 384][/us/stat/38/384]; [June 5, 1934, ch. 390, § 3][/us/act/1934-06-05/ch390/s3], [48 Stat. 879][/us/stat/48/879].)
+([June 4, 1914, ch. 103][/us/act/1914-06-04/ch103], § 1, [38 Stat. 384][/us/stat/38/384]; [June 5, 1934, ch. 390][/us/act/1934-06-05/ch390], § 3, [48 Stat. 879][/us/stat/48/879].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1914-06-04/ch103/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-06-04%2Fch103%2Fs1
+[/us/act/1914-06-04/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-06-04%2Fch103
 [/us/stat/38/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F384
-[/us/act/1934-06-05/ch390/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-05%2Fch390%2Fs3
+[/us/act/1934-06-05/ch390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-05%2Fch390
 [/us/stat/48/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F879
 
 

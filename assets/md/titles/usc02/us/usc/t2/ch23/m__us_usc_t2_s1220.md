@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 102–166, title III, § 304][/us/pl/102/166/s304], formerly § 321, Nov. 21, 1991, [105 Stat. 1097][/us/stat/105/1097]; renumbered § 304 and amended [Pub. L. 104–1, title V, § 504(a)(3)][/us/pl/104/1/s504/a/3], (4), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], which provided for application of provisions of section 1202 to previously exempt State employees, enforcement by administrative action, judicial review, and attorney fees, was transferred to [section 2000e–16c of Title 42][/us/usc/t42/s2000e–16c], The Public Health and Welfare.
+    Section, [Pub. L. 102–166, title III][/us/pl/102/166/tIII], § 304, formerly § 321, Nov. 21, 1991, [105 Stat. 1097][/us/stat/105/1097]; renumbered § 304 and amended [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(a)(3), (4), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], which provided for application of provisions of section 1202 to previously exempt State employees, enforcement by administrative action, judicial review, and attorney fees, was transferred to [section 2000e–16c of Title 42][/us/usc/t42/s2000e–16c], The Public Health and Welfare.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/102/166/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs304
+[/us/pl/102/166/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtIII
 [/us/stat/105/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1097
-[/us/pl/104/1/s504/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fa%2F3
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
 [/us/usc/t42/s2000e–16c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316c
 

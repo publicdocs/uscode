@@ -49,7 +49,7 @@
 
         (2) The members of the Council appointed under subsection (a)(1) shall receive compensation for each day engaged in the actual performance of duties vested in the Council at rates of pay not in excess of the daily equivalent of the highest rate of basic pay set forth in the General Schedule of [section 5332(a) of title 5][/us/usc/t5/s5332/a], and in addition shall be reimbursed for travel, subsistence, and other necessary expenses in the manner provided for other members of the Council under paragraph (1) of this subsection.
 
-([Pub. L. 92–484, § 7][/us/pl/92/484/s7], Oct. 13, 1972, [86 Stat. 800][/us/stat/86/800]; [Pub. L. 99–234, title I, § 107(a)][/us/pl/99/234/s107/a], Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759].)
+([Pub. L. 92–484][/us/pl/92/484], § 7, Oct. 13, 1972, [86 Stat. 800][/us/stat/86/800]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 107(a), Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759].)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 [/us/usc/t2/s472/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs472%2Fd
 [/us/usc/t5/s5731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5731
 [/us/usc/t5/s5332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332%2Fa
-[/us/pl/92/484/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs7
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F800
-[/us/pl/99/234/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs107%2Fa
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1759
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234

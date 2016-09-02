@@ -21,7 +21,7 @@
 
  __Reporting Payments Made to Witnesses Before Committee on Standards of Official Conduct__ 
 
-    [Pub. L. 105–275, title I, § 105][/us/pl/105/275/s105], Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439], which related to reporting payments made to witnesses before Committee on Standards of Official Conduct, was editorially reclassified as [section 4713 of this title][/us/usc/t2/s4713].
+    [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 105, Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439], which related to reporting payments made to witnesses before Committee on Standards of Official Conduct, was editorially reclassified as [section 4713 of this title][/us/usc/t2/s4713].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s5535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5535
-[/us/pl/105/275/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs105
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2439
 [/us/usc/t2/s4713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4713
 

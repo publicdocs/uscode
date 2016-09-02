@@ -59,7 +59,7 @@
 
         This section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-([Pub. L. 108–7, div. H, title I, § 1017][/us/pl/108/7/s1017], Feb. 20, 2003, [117 Stat. 365][/us/stat/117/365].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1017, Feb. 20, 2003, [117 Stat. 365][/us/stat/117/365].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1017
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F365
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

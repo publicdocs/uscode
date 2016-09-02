@@ -27,7 +27,7 @@
 
     (5) The term “Registry version” means, with respect to a sound recording, the version of a recording first published or offered for mass distribution whether as a publication or a broadcast, or as complete a version as bona fide preservation and restoration activities by the Librarian, an archivist other than the Librarian, or the copyright legal owner can compile in those cases where the original material has been irretrievably lost or the recording is unpublished.
 
-([Pub. L. 106–474, title I, § 131][/us/pl/106/474/s131], Nov. 9, 2000, [114 Stat. 2090][/us/stat/114/2090].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 131, Nov. 9, 2000, [114 Stat. 2090][/us/stat/114/2090].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/106/474/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs131
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2090
 
 

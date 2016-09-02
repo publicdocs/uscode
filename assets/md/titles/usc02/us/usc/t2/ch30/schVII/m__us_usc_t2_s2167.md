@@ -81,7 +81,7 @@
 
         Funds otherwise made available to the Architect of the Capitol under this Act shall be available to carry out this section.
 
-([Pub. L. 107–68, title I, § 134][/us/pl/107/68/s134], Nov. 12, 2001, [115 Stat. 582][/us/stat/115/582].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 134, Nov. 12, 2001, [115 Stat. 582][/us/stat/115/582].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Codification__ 
 
-    Section was classified to section 217c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 217c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -98,11 +98,11 @@
 ----------
 ----------
 
-[/us/pl/107/68/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs134
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F582
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
 [/us/stat/115/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F560
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

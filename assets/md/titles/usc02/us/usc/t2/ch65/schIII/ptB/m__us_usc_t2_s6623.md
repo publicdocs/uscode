@@ -17,7 +17,7 @@
 
     The Sergeant at Arms shall report to the Committee on Rules and Administration of the Senate, at such time or times, and in such form and manner, as the Committee may direct, on expenditures made, and revenues received, pursuant to sections 6621 to 6623 of this title. It shall be the function of the Sergeant at Arms to advise the Committee, as soon as possible, of any dispute regarding payments to and from such Appropriation Account as related to the line item for Telecommunications, including any amounts due and unpaid by any user, if any such dispute has remained unresolved for a period of at least 60 days.
 
-([Pub. L. 100–123, § 3][/us/pl/100/123/s3], Oct. 5, 1987, [101 Stat. 795][/us/stat/101/795].)
+([Pub. L. 100–123][/us/pl/100/123], § 3, Oct. 5, 1987, [101 Stat. 795][/us/stat/101/795].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/123/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs3
+[/us/pl/100/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123
 [/us/stat/101/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F795
 [/us/usc/t2/s58a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58a%E2%80%933
 [/us/pl/100/123/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs4

@@ -29,15 +29,15 @@
 
         If the President has transmitted a special message to both Houses of Congress in accordance with section 683 or 684 of this title, and the Comptroller General believes that the President so transmitted the special message in accordance with one of those sections when the special message should have been transmitted in accordance with the other of those sections, the Comptroller General shall make a report to both Houses of the Congress setting forth his reasons.
 
-([Pub. L. 93–344, title X, § 1015][/us/pl/93/344/s1015], July 12, 1974, [88 Stat. 336][/us/stat/88/336].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1015, July 12, 1974, [88 Stat. 336][/us/stat/88/336].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1405 of Title 31][/us/usc/t31/s1405] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1405 of Title 31][/us/usc/t31/s1405] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Reaffirmation__ 
 
-[Pub. L. 100–119, title II, § 206(c)][/us/pl/100/119/s206/c], Sept. 29, 1987, [101 Stat. 786][/us/stat/101/786], provided that: 
+[Pub. L. 100–119, title II][/us/pl/100/119/tII], § 206(c), Sept. 29, 1987, [101 Stat. 786][/us/stat/101/786], provided that: 
 
 > “Sections 1015 and 1016 of the Impoundment Control Act of 1974 \[[2 U.S.C. 686][/us/usc/t2/s686], 687\] are reaffirmed.”
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/93/344/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1015
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F336
 [/us/usc/t31/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1405
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
-[/us/pl/100/119/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs206%2Fc
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F786
 [/us/usc/t2/s686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs686
 

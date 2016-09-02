@@ -63,7 +63,7 @@
 
         (2) a conference report on a concurrent resolution on the budget unless the figures contained in such resolution, as recommended in such conference report, are mathematically consistent.
 
-([Pub. L. 93–344, title III, § 305][/us/pl/93/344/s305], July 12, 1974, [88 Stat. 310][/us/stat/88/310]; [Pub. L. 95–523, title III, § 303(b)][/us/pl/95/523/s303/b], (c), Oct. 27, 1978, [92 Stat. 1905][/us/stat/92/1905], 1906; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1047][/us/stat/99/1047]; [Pub. L. 100–119, title II, § 209][/us/pl/100/119/s209], Sept. 29, 1987, [101 Stat. 787][/us/stat/101/787]; [Pub. L. 100–203, title VIII, § 8003(d)][/us/pl/100/203/s8003/d], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13209, 13210(1), Nov. 5, 1990, [104 Stat. 1388–619][/us/stat/104/1388-619], 1388–620; [Pub. L. 105–33, title X, § 10109(a)][/us/pl/105/33/s10109/a], Aug. 5, 1997, [111 Stat. 684][/us/stat/111/684]; [Pub. L. 113–67, div. A, title I, § 122(4)][/us/pl/113/67/s122/4]–(6), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 305, July 12, 1974, [88 Stat. 310][/us/stat/88/310]; [Pub. L. 95–523, title III][/us/pl/95/523/tIII], § 303(b), (c), Oct. 27, 1978, [92 Stat. 1905][/us/stat/92/1905], 1906; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1047][/us/stat/99/1047]; [Pub. L. 100–119, title II][/us/pl/100/119/tII], § 209, Sept. 29, 1987, [101 Stat. 787][/us/stat/101/787]; [Pub. L. 100–203, title VIII][/us/pl/100/203/tVIII], § 8003(d), Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], §§ 13209, 13210(1), Nov. 5, 1990, [104 Stat. 1388–619][/us/stat/104/1388-619], 1388–620; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10109(a), Aug. 5, 1997, [111 Stat. 684][/us/stat/111/684]; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(4)–(6), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -71,29 +71,29 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1326 of Title 31][/us/usc/t31/s1326] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1326 of Title 31][/us/usc/t31/s1326] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–67, § 122(4)][/us/pl/113/67/s122/4], substituted “clause 4 of rule XIII” for “clause 2(l)(6) of rule XI”.
+    2013—Subsec. (a)(1). [Pub. L. 113–67][/us/pl/113/67], § 122(4), substituted “clause 4 of rule XIII” for “clause 2(l)(6) of rule XI”.
 
-    Subsec. (a)(5). [Pub. L. 113–67, § 122(5)][/us/pl/113/67/s122/5], substituted “provisions of rule XVIII” for “provisions of rule XXIII”.
+    Subsec. (a)(5). [Pub. L. 113–67][/us/pl/113/67], § 122(5), substituted “provisions of rule XVIII” for “provisions of rule XXIII”.
 
-    Subsec. (b)(1). [Pub. L. 113–67, § 122(6)][/us/pl/113/67/s122/6], substituted “section 635” for “section 635(a)”.
+    Subsec. (b)(1). [Pub. L. 113–67][/us/pl/113/67], § 122(6), substituted “section 635” for “section 635(a)”.
 
     1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “When the Committee on the Budget of the House of Representatives has reported any concurrent resolution on the budget, it is in order at any time after the fifth day (excluding Saturdays, Sundays, and legal holidays) following the day on which the report upon such resolution by the Committee on the Budget has been available to Members of the House and, if applicable, after the first day (excluding Saturdays, Sundays, and legal holidays) following the day on which a report upon such resolution by the Committee on Rules pursuant to [section 632(c) of this title][/us/usc/t2/s632/c] has been available to Members of the House (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.”
 
-    1990—Subsec. (c)(1). [Pub. L. 101–508, § 13209(1)][/us/pl/101/508/s13209/1], struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
+    1990—Subsec. (c)(1). [Pub. L. 101–508][/us/pl/101/508], § 13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 13209(2)][/us/pl/101/508/s13209/2], inserted “(or a message between Houses)” after “conference report” wherever appearing.
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 13209(2), inserted “(or a message between Houses)” after “conference report” wherever appearing.
 
-    Subsecs. (d), (e). [Pub. L. 101–508, § 13210(1)][/us/pl/101/508/s13210/1], redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “If at the end of 7 days (excluding Saturdays, Sundays, and legal holidays) after the conferees of both Houses have been appointed to a committee of conference on a concurrent resolution on the budget, the conferees are unable to reach agreement with respect to all matters in disagreement between the two Houses, then the conferees shall submit to their respective Houses, on the first day thereafter on which their House is in session—
+    Subsecs. (d), (e). [Pub. L. 101–508][/us/pl/101/508], § 13210(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “If at the end of 7 days (excluding Saturdays, Sundays, and legal holidays) after the conferees of both Houses have been appointed to a committee of conference on a concurrent resolution on the budget, the conferees are unable to reach agreement with respect to all matters in disagreement between the two Houses, then the conferees shall submit to their respective Houses, on the first day thereafter on which their House is in session—
 
     “(1) a conference report recommending those matters on which they have agreed and reporting in disagreement those matters on which they have not agreed; or
 
     “(2) a conference report in disagreement, if the matter in disagreement is an amendment which strikes out the entire text of the concurrent resolution and inserts a substitute text.”
 
-    1987—Subsec. (c)(2). [Pub. L. 100–203, § 8003(d)][/us/pl/100/203/s8003/d], inserted a comma after “therewith”.
+    1987—Subsec. (c)(2). [Pub. L. 100–203][/us/pl/100/203], § 8003(d), inserted a comma after “therewith”.
 
     [Pub. L. 100–119][/us/pl/100/119] inserted “and all amendments in disagreement, and all amendments thereto, and debatable motions and appeals in connection therewith” after “budget,”.
 
@@ -103,13 +103,13 @@
 
     Subsecs. (c) to (e). [Pub. L. 99–177][/us/pl/99/177], in amending section generally, reenacted subsecs. (c) to (e) without change.
 
-    1978—Subsec. (a). [Pub. L. 95–523, § 303(b)][/us/pl/95/523/s303/b], inserted in par. (2) “, plus such additional hours of debate as are consumed pursuant to paragraph (3)” after “and minority parties”, added pars. (3) and (4) and redesignated existing pars. (3) to (6) as (6) to (9), respectively. Existing pars. (3) to (6) were renumbered (5) to (8), respectively, as the probable intent of Congress, notwithstanding the language of [section 303(b)(2) of Pub. L. 95–523][/us/pl/95/523/s303/b/2] directing that existing pars. (3) to (6) be redesignated (6) to (9), respectively.
+    1978—Subsec. (a). [Pub. L. 95–523][/us/pl/95/523], § 303(b), inserted in par. (2) “, plus such additional hours of debate as are consumed pursuant to paragraph (3)” after “and minority parties”, added pars. (3) and (4) and redesignated existing pars. (3) to (6) as (6) to (9), respectively. Existing pars. (3) to (6) were renumbered (5) to (8), respectively, as the probable intent of Congress, notwithstanding the language of [section 303(b)(2) of Pub. L. 95–523][/us/pl/95/523/s303/b/2] directing that existing pars. (3) to (6) be redesignated (6) to (9), respectively.
 
-    Subsec. (b). [Pub. L. 95–523, § 303(c)][/us/pl/95/523/s303/c], added pars. (3) and (4) and redesignated existing pars. (3) and (4) as (6) and (7), respectively. Existing pars. (3) and (4) were renumbered (5) and (6), respectively, as the probable intent of Congress, notwithstanding the language of [section 303(c)(1) of Pub. L. 95–523][/us/pl/95/523/s303/c/1] directing that existing pars. (3) and (4) be redesignated (6) and (7), respectively.
+    Subsec. (b). [Pub. L. 95–523][/us/pl/95/523], § 303(c), added pars. (3) and (4) and redesignated existing pars. (3) and (4) as (6) and (7), respectively. Existing pars. (3) and (4) were renumbered (5) and (6), respectively, as the probable intent of Congress, notwithstanding the language of [section 303(c)(1) of Pub. L. 95–523][/us/pl/95/523/s303/c/1] directing that existing pars. (3) and (4) be redesignated (6) and (7), respectively.
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -121,21 +121,21 @@
 [/us/usc/t2/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632%2Fa
 [/us/usc/t2/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs635
 [/us/usc/t2/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632%2Fa
-[/us/pl/93/344/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs305
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F310
-[/us/pl/95/523/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs303%2Fb
+[/us/pl/95/523/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIII
 [/us/stat/92/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1905
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1047
-[/us/pl/100/119/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs209
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F787
-[/us/pl/100/203/s8003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs8003%2Fd
+[/us/pl/100/203/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtVIII
 [/us/stat/101/1330-282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-282
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-619
-[/us/pl/105/33/s10109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10109%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F684
-[/us/pl/113/67/s122/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F4
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
@@ -144,29 +144,29 @@
 [/us/usc/t1/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs105
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/usc/t31/s1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1326
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
-[/us/pl/113/67/s122/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F4
-[/us/pl/113/67/s122/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F5
-[/us/pl/113/67/s122/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F6
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s632/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632%2Fc
-[/us/pl/101/508/s13209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13209%2F1
-[/us/pl/101/508/s13209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13209%2F2
-[/us/pl/101/508/s13210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13210%2F1
-[/us/pl/100/203/s8003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs8003%2Fd
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
-[/us/pl/95/523/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs303%2Fb
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/pl/95/523/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs303%2Fb%2F2
-[/us/pl/95/523/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs303%2Fc
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/pl/95/523/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs303%2Fc%2F1
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177/s275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs275%2Fa%2F1
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

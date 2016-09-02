@@ -23,7 +23,7 @@
 
         The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal referred to in subsection (a), advance the appeal on the docket, and expedite the appeal to the greatest extent possible.
 
-([Pub. L. 104–1, title IV, § 412][/us/pl/104/1/s412], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 412, Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs412
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F38
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

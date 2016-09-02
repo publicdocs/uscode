@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated for each fiscal year (commencing with the fiscal year ending September 30, 1985) not more than $20,000 to the Allowance Account established by this section.
 
-([Pub. L. 99–88, title I, § 197][/us/pl/99/88/s197], Aug. 15, 1985, [99 Stat. 350][/us/stat/99/350].)
+([Pub. L. 99–88, title I][/us/pl/99/88/tI], § 197, Aug. 15, 1985, [99 Stat. 350][/us/stat/99/350].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/99/88/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs197
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F350
 [/us/usc/t2/s31a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a%E2%80%932
 

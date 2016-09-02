@@ -39,7 +39,7 @@
 
         This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each year, beginning with the semiannual period in which this section is enacted.
 
-([Pub. L. 109–55, title I, § 1005][/us/pl/109/55/s1005], Aug. 2, 2005, [119 Stat. 575][/us/stat/119/575].)
+([Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1005, Aug. 2, 2005, [119 Stat. 575][/us/stat/119/575].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/55/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1005
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F575
 
 

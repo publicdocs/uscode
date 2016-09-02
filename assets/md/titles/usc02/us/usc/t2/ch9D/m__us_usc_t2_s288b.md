@@ -39,7 +39,7 @@
 
         The Office shall make no recommendation with respect to the consideration of a resolution under this section.
 
-([Pub. L. 95–521, title VII, § 703][/us/pl/95/521/s703], Oct. 26, 1978, [92 Stat. 1877][/us/stat/92/1877].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 703, Oct. 26, 1978, [92 Stat. 1877][/us/stat/92/1877].)
 
 ----------
 
@@ -52,7 +52,7 @@
 [/us/usc/t2/s288d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288d
 [/us/usc/t2/s288e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288e
 [/us/usc/t2/s288f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288f
-[/us/pl/95/521/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs703
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1877
 
 

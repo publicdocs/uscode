@@ -33,7 +33,7 @@
 
         Except for covered employees, witnesses before a hearing officer or the Board in any proceeding under this chapter other than rulemaking shall be paid the same fee and mileage allowances as are paid subpoenaed witnesses in the courts of the United States. Covered employees who are summoned, or are assigned by their employer, to testify in their official capacity or to produce official records in any proceeding under this chapter shall be entitled to travel expenses under subchapter I and section 5751 of chapter 57 of title 5.
 
-([Pub. L. 104–1, title III, § 305][/us/pl/104/1/s305], Jan. 23, 1995, [109 Stat. 31][/us/stat/109/31].)
+([Pub. L. 104–1, title III][/us/pl/104/1/tIII], § 305, Jan. 23, 1995, [109 Stat. 31][/us/stat/109/31].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs305
+[/us/pl/104/1/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIII
 [/us/stat/109/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F31
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

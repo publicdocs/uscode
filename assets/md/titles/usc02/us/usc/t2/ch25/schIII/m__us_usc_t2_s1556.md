@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Advisory Commission to carry out [section 1551 of this title][/us/usc/t2/s1551] and [section 1552 of this title][/us/usc/t2/s1552], $500,000 for each of fiscal years 1995 and 1996.
 
-([Pub. L. 104–4, title III, § 306][/us/pl/104/4/s306], Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
+([Pub. L. 104–4, title III][/us/pl/104/4/tIII], § 306, Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t2/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1551
 [/us/usc/t2/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1552
-[/us/pl/104/4/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs306
+[/us/pl/104/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIII
 [/us/stat/109/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F70
 
 

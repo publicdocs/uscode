@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–4.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46b–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46b)
 
-## § 46b. Repealed. [Pub. L. 104–186, title II, § 203(16)][/us/pl/104/186/s203/16], Aug. 20, 1996, [110 Stat. 1727][/us/stat/110/1727]
+## § 46b. Repealed. [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(16), Aug. 20, 1996, [110 Stat. 1727][/us/stat/110/1727]
 
-    Section, acts [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, [68 Stat. 402][/us/stat/68/402]; July 12, 1960, [Pub. L. 86–628][/us/pl/86/628], [74 Stat. 452][/us/stat/74/452]; H. Res. No. 533, Eighty-eighth Congress, Oct. 2, 1963, enacted into permanent law by act Aug. 20, 1964, [Pub. L. 88–454, § 103][/us/pl/88/454/s103], [78 Stat. 550][/us/stat/78/550]; H. Res. No. 1029, Eighty-ninth Congress, Oct. 5, 1966; H. Res. No. 112, Ninetieth Congress, Mar. 8, 1967, enacted into permanent law by act May 29, 1967, [Pub. L. 90–21, title I][/us/pl/90/21], [81 Stat. 38][/us/stat/81/38], related to stationery allowance for House Members.
+    Section, acts [July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, [68 Stat. 402][/us/stat/68/402]; July 12, 1960, [Pub. L. 86–628][/us/pl/86/628], [74 Stat. 452][/us/stat/74/452]; H. Res. No. 533, Eighty-eighth Congress, Oct. 2, 1963, enacted into permanent law by act Aug. 20, 1964, [Pub. L. 88–454][/us/pl/88/454], § 103, [78 Stat. 550][/us/stat/78/550]; H. Res. No. 1029, Eighty-ninth Congress, Oct. 5, 1966; H. Res. No. 112, Ninetieth Congress, Mar. 8, 1967, enacted into permanent law by act May 29, 1967, [Pub. L. 90–21, title I][/us/pl/90/21/tI], [81 Stat. 38][/us/stat/81/38], related to stationery allowance for House Members.
 
 Provisions similar to those in this section were contained in the following prior acts:
 
@@ -42,15 +42,15 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/104/186/s203/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F16
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1727
 [/us/act/1954-07-02/ch455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-02%2Fch455
 [/us/stat/68/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F402
 [/us/pl/86/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F628
 [/us/stat/74/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F452
-[/us/pl/88/454/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs103
+[/us/pl/88/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454
 [/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
-[/us/pl/90/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F21
+[/us/pl/90/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F21%2FtI
 [/us/stat/81/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F38
 [/us/act/1953-08-01/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-01%2Fch304
 [/us/stat/67/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F324

@@ -41,7 +41,7 @@
 
         The revolving fund shall be subject to audit by the Comptroller General at the Comptroller General’s discretion.
 
-([Pub. L. 105–55, title II, § 207][/us/pl/105/55/s207], Oct. 7, 1997, [111 Stat. 1193][/us/stat/111/1193]; [Pub. L. 110–161, div. H, title I, § 1403][/us/pl/110/161/s1403], Dec. 26, 2007, [121 Stat. 2247][/us/stat/121/2247].)
+([Pub. L. 105–55, title II][/us/pl/105/55/tII], § 207, Oct. 7, 1997, [111 Stat. 1193][/us/stat/111/1193]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1403, Dec. 26, 2007, [121 Stat. 2247][/us/stat/121/2247].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/105/55/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs207
+[/us/pl/105/55/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtII
 [/us/stat/111/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1193
-[/us/pl/110/161/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1403
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2247
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 

@@ -37,7 +37,7 @@
 
         This section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-([Pub. L. 108–447, div. G, title I, § 1007][/us/pl/108/447/s1007], Dec. 8, 2004, [118 Stat. 3182][/us/stat/118/3182]; [Pub. L. 111–145, § 2(c)][/us/pl/111/145/s2/c], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
+([Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1007, Dec. 8, 2004, [118 Stat. 3182][/us/stat/118/3182]; [Pub. L. 111–145][/us/pl/111/145], § 2(c), Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
 
  __Codification__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/108/447/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1007
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3182
-[/us/pl/111/145/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fc
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 

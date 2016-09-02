@@ -21,7 +21,7 @@
 
     (2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of each House.
 
-([Pub. L. 104–4, title I, § 108][/us/pl/104/4/s108], Mar. 22, 1995, [109 Stat. 63][/us/stat/109/63].)
+([Pub. L. 104–4, title I][/us/pl/104/4/tI], § 108, Mar. 22, 1995, [109 Stat. 63][/us/stat/109/63].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs108
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F63
 
 

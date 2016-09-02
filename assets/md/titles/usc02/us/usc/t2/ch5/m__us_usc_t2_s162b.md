@@ -83,7 +83,7 @@
 
         The Librarian of Congress may prescribe regulations to carry out this section.
 
-([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title II, § 210\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title II, § 210\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114.)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 [/us/usc/t5/s8901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F1
 [/us/usc/t5/s8701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701%2Fa
 [/us/usc/t26/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3111
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/101/520/s205/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fg%2F1
 [/us/usc/t2/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs141

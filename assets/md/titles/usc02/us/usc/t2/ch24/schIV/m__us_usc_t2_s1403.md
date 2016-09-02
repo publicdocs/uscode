@@ -45,17 +45,17 @@
 
             In developing the master list under this subsection, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
 
-([Pub. L. 104–1, title IV, § 403][/us/pl/104/1/s403], Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32]; [Pub. L. 114–6, § 2(a)][/us/pl/114/6/s2/a], Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 403, Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32]; [Pub. L. 114–6][/us/pl/114/6], § 2(a), Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81].)
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–6, § 2(a)(1)][/us/pl/114/6/s2/a/1], substituted “from the master list developed and maintained under subsection (e)” for “after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters”.
+    2015—Subsec. (b)(1). [Pub. L. 114–6][/us/pl/114/6], § 2(a)(1), substituted “from the master list developed and maintained under subsection (e)” for “after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters”.
 
-    Subsec. (e). [Pub. L. 114–6, § 2(a)(2)][/us/pl/114/6/s2/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–6][/us/pl/114/6], § 2(a)(2), added subsec. (e).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–6, § 2(d)][/us/pl/114/6/s2/d], Mar. 20, 2015, [129 Stat. 82][/us/stat/129/82], provided that: 
+[Pub. L. 114–6][/us/pl/114/6], § 2(d), Mar. 20, 2015, [129 Stat. 82][/us/stat/129/82], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1404 and 1416 of this title\] shall apply with respect to mediations and other proceedings which are first initiated after the date of the enactment of this Act \[Mar. 20, 2015\].”
 
@@ -69,13 +69,13 @@
 [/us/usc/t2/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1402
 [/us/usc/t2/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1404
 [/us/usc/t2/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1405
-[/us/pl/104/1/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs403
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F32
-[/us/pl/114/6/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fa
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
 [/us/stat/129/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F81
-[/us/pl/114/6/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fa%2F1
-[/us/pl/114/6/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fa%2F2
-[/us/pl/114/6/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fd
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
 [/us/stat/129/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F82
 
 

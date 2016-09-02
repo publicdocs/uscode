@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s42a.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b _us_usc_t2_s43b–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b%E2%80%932)
 
 ## § 43b–2. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s42a.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b _us_usc_t2_s43b–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43b–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b%E2%80%932)
 
 ----------
 ----------

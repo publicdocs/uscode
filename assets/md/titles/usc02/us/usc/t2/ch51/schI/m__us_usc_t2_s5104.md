@@ -63,11 +63,11 @@
 
         This section shall apply with respect to any months occurring during the One Hundred Twelfth Congress that begin after December 23, 2011, and to any succeeding Congress.
 
-([Pub. L. 112–74, div. G, title I, § 103][/us/pl/112/74/s103], Dec. 23, 2011, [125 Stat. 1121][/us/stat/125/1121].)
+([Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 103, Dec. 23, 2011, [125 Stat. 1121][/us/stat/125/1121].)
 
  __References in Text__ 
 
-    The most recent bill making appropriations for the legislative branch that was enacted prior to December 23, 2011, containing the heading “House leadership offices”, referred to in subsecs. (a)(2)(E) and (b)(2)(D), is [Pub. L. 111–68, div. A][/us/pl/111/68], Oct. 1, 2009, [123 Stat. 2023][/us/stat/123/2023]. For complete classification of this Act to the Code, see Tables.
+    The most recent bill making appropriations for the legislative branch that was enacted prior to December 23, 2011, containing the heading “House leadership offices”, referred to in subsecs. (a)(2)(E) and (b)(2)(D), is [Pub. L. 111–68, div. A][/us/pl/111/68/dA], Oct. 1, 2009, [123 Stat. 2023][/us/stat/123/2023]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/112/74/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs103
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1121
-[/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
+[/us/pl/111/68/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA
 [/us/stat/123/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2023
 [/us/usc/t2/s74a–11a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%9311a
 

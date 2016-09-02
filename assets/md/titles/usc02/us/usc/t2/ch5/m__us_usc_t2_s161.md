@@ -17,7 +17,7 @@
 
     Gifts or bequests or devises to or for the benefit of the Library of Congress, including those to the board, and the income therefrom, shall be exempt from all Federal taxes, including all taxes levied by the District of Columbia.
 
-([Mar. 3, 1925, ch. 423, § 5][/us/act/1925-03-03/ch423/s5], [43 Stat. 1108][/us/stat/43/1108]; [Oct. 2, 1942, ch. 576][/us/act/1942-10-02/ch576], [56 Stat. 765][/us/stat/56/765].)
+([Mar. 3, 1925, ch. 423][/us/act/1925-03-03/ch423], § 5, [43 Stat. 1108][/us/stat/43/1108]; [Oct. 2, 1942, ch. 576][/us/act/1942-10-02/ch576], [56 Stat. 765][/us/stat/56/765].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch423/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423%2Fs5
+[/us/act/1925-03-03/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423
 [/us/stat/43/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1108
 [/us/act/1942-10-02/ch576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-02%2Fch576
 [/us/stat/56/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F765

@@ -43,7 +43,7 @@
 
         The Secretary of the Senate shall promulgate rules and regulations to carry out the provisions of this section.
 
-([Pub. L. 93–359, § 2][/us/pl/93/359/s2], July 25, 1974, [88 Stat. 394][/us/stat/88/394]; [Pub. L. 103–69, title III, § 315][/us/pl/103/69/s315], Aug. 11, 1993, [107 Stat. 713][/us/stat/107/713]; [Pub. L. 104–316, title I, § 102(b)][/us/pl/104/316/s102/b], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828].)
+([Pub. L. 93–359][/us/pl/93/359], § 2, July 25, 1974, [88 Stat. 394][/us/stat/88/394]; [Pub. L. 103–69, title III][/us/pl/103/69/tIII], § 315, Aug. 11, 1993, [107 Stat. 713][/us/stat/107/713]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 102(b), Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–316, title I, § 101(e)][/us/pl/104/316/s101/e], Oct. 19, 1996, [110 Stat. 3827][/us/stat/110/3827], provided that:
+[Pub. L. 104–316, title I][/us/pl/104/316/tI], § 101(e), Oct. 19, 1996, [110 Stat. 3827][/us/stat/110/3827], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -74,16 +74,16 @@
 ----------
 ----------
 
-[/us/pl/93/359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F359%2Fs2
+[/us/pl/93/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F359
 [/us/stat/88/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F394
-[/us/pl/103/69/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs315
+[/us/pl/103/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtIII
 [/us/stat/107/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F713
-[/us/pl/104/316/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs102%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3828
 [/us/usc/t2/s130c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130c
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/103/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69
-[/us/pl/104/316/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs101%2Fe
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3827
 [/us/usc/t5/s5584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5584
 [/us/usc/t10/s2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2774

@@ -27,11 +27,11 @@
 
         This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year. Any amounts provided to the Architect of the Capitol prior to August 2, 2002, for the maintenance, care, and operation of buildings of the United States Capitol Police during fiscal year 2002 shall be transferred to the account.
 
-([Pub. L. 107–206, title I, § 906][/us/pl/107/206/s906], Aug. 2, 2002, [116 Stat. 877][/us/stat/116/877].)
+([Pub. L. 107–206, title I][/us/pl/107/206/tI], § 906, Aug. 2, 2002, [116 Stat. 877][/us/stat/116/877].)
 
  __Codification__ 
 
-    Section was classified to section 166l of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166l of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/107/206/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs906
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F877
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

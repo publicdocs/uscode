@@ -17,7 +17,7 @@
 
     Any settlement entered into by the parties to a process described in section 1331, 1341, 1351, or 1401 of this title shall be in writing and not become effective unless it is approved by the Executive Director. Nothing in this chapter shall affect the power of the Senate and the House of Representatives, respectively, to establish rules governing the process by which a settlement may be entered into by such House or by any employing office of such House.
 
-([Pub. L. 104–1, title IV, § 414][/us/pl/104/1/s414], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 414, Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs414
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F38
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

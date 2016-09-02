@@ -27,7 +27,7 @@
 
         (2) Senators and Senate staff serving or employed on September 14, 2007, not later than 165 days after September 14, 2007.
 
-([Pub. L. 110–81, title V, § 553][/us/pl/110/81/s553], Sept. 14, 2007, [121 Stat. 773][/us/stat/121/773].)
+([Pub. L. 110–81, title V][/us/pl/110/81/tV], § 553, Sept. 14, 2007, [121 Stat. 773][/us/stat/121/773].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/81/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs553
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F773
 [/us/usc/t2/s72a–1h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931h
 

@@ -125,7 +125,7 @@
 
         It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-([Pub. L. 93–344, title III, § 301][/us/pl/93/344/s301], July 12, 1974, [88 Stat. 306][/us/stat/88/306]; [Pub. L. 95–523, title III][/us/pl/95/523], §§ 303(a), 304, Oct. 27, 1978, [92 Stat. 1905][/us/stat/92/1905], 1906; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1040][/us/stat/99/1040]; [Pub. L. 100–119, title I, § 106(d)][/us/pl/100/119/s106/d], title II, § 208(a), Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781], 786; [Pub. L. 100–418, title V, § 5302][/us/pl/100/418/s5302], Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–615, 1388–616, 1388–623, 1388–625; [Pub. L. 104–4, title I, § 102(2)][/us/pl/104/4/s102/2], Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62]; [Pub. L. 105–33, title X, § 10105(a)][/us/pl/105/33/s10105/a]–(f)(1), Aug. 5, 1997, [111 Stat. 679][/us/stat/111/679], 680; [Pub. L. 113–67, div. A, title I, § 122(1)][/us/pl/113/67/s122/1], (2), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 301, July 12, 1974, [88 Stat. 306][/us/stat/88/306]; [Pub. L. 95–523, title III][/us/pl/95/523/tIII], §§ 303(a), 304, Oct. 27, 1978, [92 Stat. 1905][/us/stat/92/1905], 1906; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1040][/us/stat/99/1040]; [Pub. L. 100–119, title I][/us/pl/100/119/tI], § 106(d), title II, § 208(a), Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781], 786; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5302, Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–615, 1388–616, 1388–623, 1388–625; [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 102(2), Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62]; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10105(a)–(f)(1), Aug. 5, 1997, [111 Stat. 679][/us/stat/111/679], 680; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(1), (2), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -141,47 +141,47 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1322 of Title 31][/us/usc/t31/s1322] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1322 of Title 31][/us/usc/t31/s1322] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–67, § 122(2)][/us/pl/113/67/s122/2], substituted “old-age” for “old age” in concluding provisions.
+    2013—Subsec. (a). [Pub. L. 113–67][/us/pl/113/67], § 122(2), substituted “old-age” for “old age” in concluding provisions.
 
-    Subsec. (a)(6), (7). [Pub. L. 113–67, § 122(1)][/us/pl/113/67/s122/1], substituted “for purposes” for “For purposes”.
+    Subsec. (a)(6), (7). [Pub. L. 113–67][/us/pl/113/67], § 122(1), substituted “for purposes” for “For purposes”.
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 10105(a)][/us/pl/105/33/s10105/a], in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
-    Subsec. (a)(1), (4). [Pub. L. 105–33, § 10105(b)][/us/pl/105/33/s10105/b], substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
+    Subsec. (a)(1), (4). [Pub. L. 105–33][/us/pl/105/33], § 10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
 
-    Subsec. (b)(7). [Pub. L. 105–33, § 10105(c)(1)][/us/pl/105/33/s10105/c/1], added par. (7) and struck out former par. (7) which related to setting forth pay-as-you-go procedures for the Senate.
+    Subsec. (b)(7). [Pub. L. 105–33][/us/pl/105/33], § 10105(c)(1), added par. (7) and struck out former par. (7) which related to setting forth pay-as-you-go procedures for the Senate.
 
-    Subsec. (b)(9). [Pub. L. 105–33, § 10105(c)(2)][/us/pl/105/33/s10105/c/2], (3), added par. (9).
+    Subsec. (b)(9). [Pub. L. 105–33][/us/pl/105/33], § 10105(c)(2), (3), added par. (9).
 
-    Subsec. (d). [Pub. L. 105–33, § 10105(d)][/us/pl/105/33/s10105/d], in first sentence, inserted “or at such time as may be requested by the Committee on the Budget,” after “title 31,”.
+    Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 10105(d), in first sentence, inserted “or at such time as may be requested by the Committee on the Budget,” after “title 31,”.
 
-    Subsec. (e). [Pub. L. 105–33, § 10105(e)][/us/pl/105/33/s10105/e], designated existing provisions as par. (1), inserted par. heading, added pars. (2) and (3), and struck out former last sentence consisting of pars. (1) to (9) which contained requirements for contents of report to accompany the concurrent resolution on the budget.
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 10105(e), designated existing provisions as par. (1), inserted par. heading, added pars. (2) and (3), and struck out former last sentence consisting of pars. (1) to (9) which contained requirements for contents of report to accompany the concurrent resolution on the budget.
 
-    Subsec. (i). [Pub. L. 105–33, § 10105(f)(1)][/us/pl/105/33/s10105/f/1], inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
+    Subsec. (i). [Pub. L. 105–33][/us/pl/105/33], § 10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
 
     1995—Subsec. (d). [Pub. L. 104–4][/us/pl/104/4] inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 13301(b)][/us/pl/101/508/s13301/b], inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
 
-    Subsec. (a)(6), (7). [Pub. L. 101–508, § 13303(a)][/us/pl/101/508/s13303/a], added pars. (6) and (7).
+    Subsec. (a)(6), (7). [Pub. L. 101–508][/us/pl/101/508], § 13303(a), added pars. (6) and (7).
 
-    Subsec. (b)(5), (6). [Pub. L. 101–508, § 13203][/us/pl/101/508/s13203], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 101–508][/us/pl/101/508], § 13203, added pars. (5) and (6).
 
-    Subsec. (b)(7), (8). [Pub. L. 101–508, § 13204][/us/pl/101/508/s13204], added pars. (7) and (8).
+    Subsec. (b)(7), (8). [Pub. L. 101–508][/us/pl/101/508], § 13204, added pars. (7) and (8).
 
-    Subsec. (d). [Pub. L. 101–508, § 13112(a)(5)][/us/pl/101/508/s13112/a/5], substituted “Within 6 weeks after the President submits a budget under [section 1105(a) of title 31][/us/usc/t31/s1105/a]” for “On or before February 25 of each year”.
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 13112(a)(5), substituted “Within 6 weeks after the President submits a budget under [section 1105(a) of title 31][/us/usc/t31/s1105/a]” for “On or before February 25 of each year”.
 
-    Subsec. (i). [Pub. L. 101–508, § 13303(b)][/us/pl/101/508/s13303/b], amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
+    Subsec. (i). [Pub. L. 101–508][/us/pl/101/508], § 13303(b), amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
 
     1988—Subsec. (e)(10). [Pub. L. 100–418][/us/pl/100/418] temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
 
-    1987—Subsec. (g). [Pub. L. 100–119, § 208(a)][/us/pl/100/119/s208/a], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
+    1987—Subsec. (g). [Pub. L. 100–119][/us/pl/100/119], § 208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
 
-    Subsec. (i)(2). [Pub. L. 100–119, § 106(d)][/us/pl/100/119/s106/d], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    Subsec. (i)(2). [Pub. L. 100–119][/us/pl/100/119], § 106(d), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
     1985—[Pub. L. 99–177][/us/pl/99/177] substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
 
@@ -197,11 +197,11 @@
 
     Subsecs. (f) to (i). [Pub. L. 99–177][/us/pl/99/177], §§ 201(b), 275(b)(2)(B), in amending section generally, added subsecs. (f) to (i).
 
-    1978—Subsec. (a)(6), (7). [Pub. L. 95–523, § 304(a)][/us/pl/95/523/s304/a], added par. (6) and redesignated former par. (6) as (7).
+    1978—Subsec. (a)(6), (7). [Pub. L. 95–523][/us/pl/95/523], § 304(a), added par. (6) and redesignated former par. (6) as (7).
 
-    Subsec. (d). [Pub. L. 95–523, § 303(a)][/us/pl/95/523/s303/a], which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 95–523][/us/pl/95/523], § 303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 95–523, § 304(b)][/us/pl/95/523/s304/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–523][/us/pl/95/523], § 304(b), added subsec. (e).
 
  __Effective Date of 1995 Amendment__ 
 
@@ -209,7 +209,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XIII, § 13306][/us/pl/101/508/s13306], Nov. 5, 1990, [104 Stat. 1388–628][/us/stat/104/1388-628], provided that: 
+[Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13306, Nov. 5, 1990, [104 Stat. 1388–628][/us/stat/104/1388-628], provided that: 
 
 > “Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending [section 401 of Title 42][/us/usc/t42/s401], The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
 
@@ -219,11 +219,11 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
  __Exclusion of Social Security From All Budgets__ 
 
-[Pub. L. 101–508, title XIII, § 13301(a)][/us/pl/101/508/s13301/a], Nov. 5, 1990, [104 Stat. 1388–623][/us/stat/104/1388-623], provided that: 
+[Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13301(a), Nov. 5, 1990, [104 Stat. 1388–623][/us/stat/104/1388-623], provided that: 
 
 > “Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
 
@@ -235,7 +235,7 @@
 
  __Protection of OASDI Trust Funds in House of Representatives__ 
 
-[Pub. L. 101–508, title XIII, § 13302][/us/pl/101/508/s13302], Nov. 5, 1990, [104 Stat. 1388–623][/us/stat/104/1388-623], provided that:
+[Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13302, Nov. 5, 1990, [104 Stat. 1388–623][/us/stat/104/1388-623], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -285,11 +285,11 @@
 
  __Balanced Federal Budgets; Congressional Budget Committee Reports by__  __April 15, 1979__  __, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982__ 
 
-    [Pub. L. 96–5, § 5][/us/pl/96/5/s5], Apr. 2, 1979, [93 Stat. 8][/us/stat/93/8], which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
+    [Pub. L. 96–5][/us/pl/96/5], § 5, Apr. 2, 1979, [93 Stat. 8][/us/stat/93/8], which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
 
  __Application of Congressional Budget Process to Fiscal Year Beginning__  __July 1, 1975__ 
 
-    [Pub. L. 93–344, title IX, § 906][/us/pl/93/344/s906], July 12, 1974, [88 Stat. 332][/us/stat/88/332], provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by [Pub. L. 105–33, title X, § 10120(a)][/us/pl/105/33/s10120/a], Aug. 5, 1997, [111 Stat. 696][/us/stat/111/696].
+    [Pub. L. 93–344, title IX][/us/pl/93/344/tIX], § 906, July 12, 1974, [88 Stat. 332][/us/stat/88/332], provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10120(a), Aug. 5, 1997, [111 Stat. 696][/us/stat/111/696].
 
 ----------
 
@@ -314,23 +314,23 @@
 [/us/usc/t15/s1022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022%2Fa%2F2
 [/us/usc/t2/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs631
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/93/344/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs301
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F306
-[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIII
 [/us/stat/92/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1905
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1040
-[/us/pl/100/119/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs106%2Fd
+[/us/pl/100/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtI
 [/us/stat/101/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F781
-[/us/pl/100/418/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5302
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1462
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
-[/us/pl/104/4/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs102%2F2
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F62
-[/us/pl/105/33/s10105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F679
-[/us/pl/113/67/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F1
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -348,28 +348,28 @@
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/usc/t31/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1322
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
-[/us/pl/113/67/s122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F2
-[/us/pl/113/67/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F1
-[/us/pl/105/33/s10105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fa
-[/us/pl/105/33/s10105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fb
-[/us/pl/105/33/s10105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fc%2F1
-[/us/pl/105/33/s10105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fc%2F2
-[/us/pl/105/33/s10105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fd
-[/us/pl/105/33/s10105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Fe
-[/us/pl/105/33/s10105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10105%2Ff%2F1
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
-[/us/pl/101/508/s13301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13301%2Fb
-[/us/pl/101/508/s13303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fa
-[/us/pl/101/508/s13203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13203
-[/us/pl/101/508/s13204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13204
-[/us/pl/101/508/s13112/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fa%2F5
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/101/508/s13303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fb
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/119/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs208%2Fa
-[/us/pl/100/119/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs106%2Fd
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
@@ -378,14 +378,14 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
-[/us/pl/95/523/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs304%2Fa
-[/us/pl/95/523/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs303%2Fa
-[/us/pl/95/523/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs304%2Fb
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/usc/t2/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1516
 [/us/pl/104/4/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs110
 [/us/usc/t2/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1511
-[/us/pl/101/508/s13306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13306
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-628
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -394,25 +394,25 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177/s275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs275%2Fa%2F1
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
-[/us/pl/101/508/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13301%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-623
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/101/508/s13302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13302
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-623
 [/us/usc/t42/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401%2Fc%2F2
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t26/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1401%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs86
-[/us/pl/96/5/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F5%2Fs5
+[/us/pl/96/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F5
 [/us/stat/93/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F8
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/93/344/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs906
+[/us/pl/93/344/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIX
 [/us/stat/88/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F332
-[/us/pl/105/33/s10120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10120%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F696
 
 

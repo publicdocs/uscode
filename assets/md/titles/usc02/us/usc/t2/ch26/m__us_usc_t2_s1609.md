@@ -35,7 +35,7 @@
 
         Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.
 
-([Pub. L. 104–65, § 14][/us/pl/104/65/s14], Dec. 19, 1995, [109 Stat. 702][/us/stat/109/702].)
+([Pub. L. 104–65][/us/pl/104/65], § 14, Dec. 19, 1995, [109 Stat. 702][/us/stat/109/702].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t2/s1603/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F4
 [/us/usc/t2/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603
 [/us/usc/t2/s1603/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F4
-[/us/pl/104/65/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs14
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F702
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691

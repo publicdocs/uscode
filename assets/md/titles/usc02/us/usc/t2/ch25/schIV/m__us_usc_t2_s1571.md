@@ -51,7 +51,7 @@
 
         (2) no provision of this chapter shall be construed to create any right or benefit, substantive or procedural, enforceable by any person in any administrative or judicial action.
 
-([Pub. L. 104–4, title IV, § 401][/us/pl/104/4/s401], Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
+([Pub. L. 104–4, title IV][/us/pl/104/4/tIV], § 401, Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t5/s706/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F1
 [/us/usc/t2/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1532
-[/us/pl/104/4/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs401
+[/us/pl/104/4/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIV
 [/us/stat/109/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F70
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48

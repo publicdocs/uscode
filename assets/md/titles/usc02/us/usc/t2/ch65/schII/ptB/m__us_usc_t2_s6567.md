@@ -27,7 +27,7 @@
 
         Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) specified in the request, but not to exceed $10,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
-([Pub. L. 100–71, title I, § 2][/us/pl/100/71/s2], July 11, 1987, [101 Stat. 423][/us/stat/101/423]; [Pub. L. 102–90, title I, § 4][/us/pl/102/90/s4], Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450]; [Pub. L. 105–18, title II, § 7003(a)][/us/pl/105/18/s7003/a], June 12, 1997, [111 Stat. 192][/us/stat/111/192]; [Pub. L. 108–447, div. G, title I, § 6][/us/pl/108/447/s6], Dec. 8, 2004, [118 Stat. 3170][/us/stat/118/3170].)
+([Pub. L. 100–71, title I][/us/pl/100/71/tI], § 2, July 11, 1987, [101 Stat. 423][/us/stat/101/423]; [Pub. L. 102–90, title I][/us/pl/102/90/tI], § 4, Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450]; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 7003(a), June 12, 1997, [111 Stat. 192][/us/stat/111/192]; [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 6, Dec. 8, 2004, [118 Stat. 3170][/us/stat/118/3170].)
 
  __Codification__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–18, title II, § 7003(b)][/us/pl/105/18/s7003/b], June 12, 1997, [111 Stat. 192][/us/stat/111/192], provided that: 
+[Pub. L. 105–18, title II][/us/pl/105/18/tII], § 7003(b), June 12, 1997, [111 Stat. 192][/us/stat/111/192], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/100/71/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs2
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F423
-[/us/pl/102/90/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs4
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F450
-[/us/pl/105/18/s7003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs7003%2Fa
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F192
-[/us/pl/108/447/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs6
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3170
 [/us/usc/t2/s65f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs65f
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
-[/us/pl/105/18/s7003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs7003%2Fb
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F192
 
 

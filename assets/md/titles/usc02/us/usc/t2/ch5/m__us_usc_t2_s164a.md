@@ -17,7 +17,7 @@
 
     The Librarian of Congress is directed to have the indexes and digests authorized by [section 164 of this title][/us/usc/t2/s164] printed and bound for official distribution only.
 
-([Feb. 28, 1929, ch. 367, § 1][/us/act/1929-02-28/ch367/s1], [45 Stat. 1398][/us/stat/45/1398].)
+([Feb. 28, 1929, ch. 367][/us/act/1929-02-28/ch367], § 1, [45 Stat. 1398][/us/stat/45/1398].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t2/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs164
-[/us/act/1929-02-28/ch367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch367%2Fs1
+[/us/act/1929-02-28/ch367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch367
 [/us/stat/45/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1398
 
 

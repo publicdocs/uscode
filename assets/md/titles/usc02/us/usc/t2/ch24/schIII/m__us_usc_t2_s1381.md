@@ -127,11 +127,11 @@
 
         Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
 
-([Pub. L. 104–1, title III, § 301][/us/pl/104/1/s301], Jan. 23, 1995, [109 Stat. 24][/us/stat/109/24]; [Pub. L. 108–349, § 1(a)][/us/pl/108/349/s1/a], Oct. 21, 2004, [118 Stat. 1389][/us/stat/118/1389]; [Pub. L. 110–161, div. H, title I, § 1101(a)][/us/pl/110/161/s1101/a], Dec. 26, 2007, [121 Stat. 2237][/us/stat/121/2237]; [Pub. L. 110–164, § 1][/us/pl/110/164/s1], Dec. 26, 2007, [121 Stat. 2459][/us/stat/121/2459]; [Pub. L. 113–235, div. H, title I, § 1001][/us/pl/113/235/s1001], Dec. 16, 2014, [128 Stat. 2530][/us/stat/128/2530].)
+([Pub. L. 104–1, title III][/us/pl/104/1/tIII], § 301, Jan. 23, 1995, [109 Stat. 24][/us/stat/109/24]; [Pub. L. 108–349][/us/pl/108/349], § 1(a), Oct. 21, 2004, [118 Stat. 1389][/us/stat/118/1389]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1101(a), Dec. 26, 2007, [121 Stat. 2237][/us/stat/121/2237]; [Pub. L. 110–164][/us/pl/110/164], § 1, Dec. 26, 2007, [121 Stat. 2459][/us/stat/121/2459]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1001, Dec. 16, 2014, [128 Stat. 2530][/us/stat/128/2530].)
 
  __References in Text__ 
 
-    The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], [60 Stat. 839][/us/stat/60/839], which was classified generally to chapter 8A (§ 261 et seq.) of this title prior to repeal by [Pub. L. 104–65, § 11(a)][/us/pl/104/65/s11/a], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701]. See section 1601 et seq. of this title.
+    The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], [60 Stat. 839][/us/stat/60/839], which was classified generally to chapter 8A (§ 261 et seq.) of this title prior to repeal by [Pub. L. 104–65][/us/pl/104/65], § 11(a), Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701]. See section 1601 et seq. of this title.
 
     This chapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning [Pub. L. 104–1][/us/pl/104/1], Jan. 23, 1995, [109 Stat. 3][/us/stat/109/3], as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title][/us/usc/t2/s1301] and Tables.
 
@@ -157,17 +157,17 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–349, § 1(b)][/us/pl/108/349/s1/b], Oct. 21, 2004, [118 Stat. 1389][/us/stat/118/1389], provided that: 
+[Pub. L. 108–349][/us/pl/108/349], § 1(b), Oct. 21, 2004, [118 Stat. 1389][/us/stat/118/1389], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
  __Additional Term for Members of Board of Directors of Office of Compliance__ 
 
-[Pub. L. 114–6, § 3][/us/pl/114/6/s3], Mar. 20, 2015, [129 Stat. 82][/us/stat/129/82], provided that: 
+[Pub. L. 114–6][/us/pl/114/6], § 3, Mar. 20, 2015, [129 Stat. 82][/us/stat/129/82], provided that: 
 
 > “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)][/us/usc/t2/s1381/e/1]), any individual serving as a member of the Board of Directors of the Office of Compliance as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
 
-[Pub. L. 111–114, § 1][/us/pl/111/114/s1], Dec. 14, 2009, [123 Stat. 3028][/us/stat/123/3028], provided that: 
+[Pub. L. 111–114][/us/pl/111/114], § 1, Dec. 14, 2009, [123 Stat. 3028][/us/stat/123/3028], provided that: 
 
 > “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)][/us/usc/t2/s1381/e/1]), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.”
 
@@ -180,19 +180,19 @@
 
 [/us/usc/t2/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1302
 [/us/usc/t2/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1402
-[/us/pl/104/1/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs301
+[/us/pl/104/1/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIII
 [/us/stat/109/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F24
-[/us/pl/108/349/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F349%2Fs1%2Fa
+[/us/pl/108/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F349
 [/us/stat/118/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1389
-[/us/pl/110/161/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1101%2Fa
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2237
-[/us/pl/110/164/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F164%2Fs1
+[/us/pl/110/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F164
 [/us/stat/121/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2459
-[/us/pl/113/235/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1001
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2530
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
-[/us/pl/104/65/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs11%2Fa
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3
@@ -207,12 +207,12 @@
 [/us/pl/108/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F349
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/108/349/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F349%2Fs1%2Fb
+[/us/pl/108/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F349
 [/us/stat/118/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1389
-[/us/pl/114/6/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs3
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
 [/us/stat/129/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F82
 [/us/usc/t2/s1381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1381%2Fe%2F1
-[/us/pl/111/114/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F114%2Fs1
+[/us/pl/111/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F114
 [/us/stat/123/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3028
 [/us/usc/t2/s1381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1381%2Fe%2F1
 

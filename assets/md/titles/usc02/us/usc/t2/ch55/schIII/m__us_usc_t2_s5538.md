@@ -33,13 +33,13 @@
 
         This section and the amendments made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year, except that for purposes of making deposits into the Revolving Fund under subsection (a), the Chief Administrative Officer may deposit amounts provided by legislative branch offices during fiscal year 2004 or any succeeding fiscal year.
 
-([Pub. L. 108–447, div. G, title I, § 102][/us/pl/108/447/s102], Dec. 8, 2004, [118 Stat. 3174][/us/stat/118/3174].)
+([Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 102, Dec. 8, 2004, [118 Stat. 3174][/us/stat/118/3174].)
 
  __Codification__ 
 
     Section was formerly classified to [section 112h of this title][/us/usc/t2/s112h] prior to editorial reclassification and renumbering as this section.
 
-    Section is comprised of [section 102 of div. G of Pub. L. 108–447][/us/pl/108/447/s102]. Subsecs. (d) and (e) of [section 102 of div. G of Pub. L. 108–447][/us/pl/108/447/s102] amended sections 5539 and 5537 of this title, respectively.
+    Section is comprised of [section 102 of div. G of Pub. L. 108–447][/us/pl/108/447/dG/s102]. Subsecs. (d) and (e) of [section 102 of div. G of Pub. L. 108–447][/us/pl/108/447/dG/s102] amended sections 5539 and 5537 of this title, respectively.
 
     Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
@@ -51,10 +51,10 @@
 ----------
 
 [/us/usc/t2/s5507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5507%2Fa
-[/us/pl/108/447/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs102
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3174
 [/us/usc/t2/s112h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112h
-[/us/pl/108/447/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs102
-[/us/pl/108/447/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs102
+[/us/pl/108/447/dG/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2Fs102
+[/us/pl/108/447/dG/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2Fs102
 
 

@@ -31,7 +31,7 @@
 
         This section is effective on and after October 1, 1997.
 
-([Pub. L. 105–275, title I, § 5][/us/pl/105/275/s5], Oct. 21, 1998, [112 Stat. 2433][/us/stat/112/2433].)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 5, Oct. 21, 1998, [112 Stat. 2433][/us/stat/112/2433].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/105/275/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs5
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2433
 [/us/usc/t2/s69b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs69b
 

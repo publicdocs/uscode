@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437a)
 
-## § 437a. Repealed. [Pub. L. 94–283, title I, § 105][/us/pl/94/283/s105], May 11, 1976, [90 Stat. 481][/us/stat/90/481]
+## § 437a. Repealed. [Pub. L. 94–283, title I][/us/pl/94/283/tI], § 105, May 11, 1976, [90 Stat. 481][/us/stat/90/481]
 
-    Section, [Pub. L. 92–225, title III, § 308][/us/pl/92/225/s308], as added [Pub. L. 93–443, title II, § 208(a)][/us/pl/93/443/s208/a], Oct. 15, 1974, [88 Stat. 1279][/us/stat/88/1279], required the filing of reports with the Commission by certain named persons other than individuals who act to influence others to vote for or against political candidates. See section 30120 et seq. of Title 52, Voting and Elections.
+    Section, [Pub. L. 92–225, title III][/us/pl/92/225/tIII], § 308, as added [Pub. L. 93–443, title II][/us/pl/93/443/tII], § 208(a), Oct. 15, 1974, [88 Stat. 1279][/us/stat/88/1279], required the filing of reports with the Commission by certain named persons other than individuals who act to influence others to vote for or against political candidates. See section 30120 et seq. of Title 52, Voting and Elections.
 
  __Savings Provision__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/94/283/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs105
+[/us/pl/94/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtI
 [/us/stat/90/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F481
-[/us/pl/92/225/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs308
-[/us/pl/93/443/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs208%2Fa
+[/us/pl/92/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtIII
+[/us/pl/93/443/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtII
 [/us/stat/88/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1279
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/283/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs114

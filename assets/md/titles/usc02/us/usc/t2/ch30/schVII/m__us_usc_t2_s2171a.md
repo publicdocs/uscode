@@ -83,7 +83,7 @@
 
         This section shall apply with respect to fiscal year 2016 and each fiscal year thereafter.
 
-([Pub. L. 114–113, div. I, title II, § 209][/us/pl/114/113/s209], Dec. 18, 2015, [129 Stat. 2673][/us/stat/129/2673].)
+([Pub. L. 114–113, div. I, title II][/us/pl/114/113/dI/tII], § 209, Dec. 18, 2015, [129 Stat. 2673][/us/stat/129/2673].)
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209
+[/us/pl/114/113/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdI%2FtII
 [/us/stat/129/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2673
 
 

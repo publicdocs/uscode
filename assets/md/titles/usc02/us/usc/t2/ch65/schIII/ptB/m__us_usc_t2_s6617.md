@@ -33,7 +33,7 @@
 
         The Committee on Rules and Administration of the Senate shall have authority to prescribe regulations to carry out this section.
 
-([Pub. L. 111–145, § 8][/us/pl/111/145/s8], Mar. 4, 2010, [124 Stat. 56][/us/stat/124/56].)
+([Pub. L. 111–145][/us/pl/111/145], § 8, Mar. 4, 2010, [124 Stat. 56][/us/stat/124/56].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/111/145/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs8
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F56
 [/us/usc/t2/s61f–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61f%E2%80%9314
 

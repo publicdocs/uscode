@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t2/ch28/schI/m__us_usc_t2_s1805.md) | [Next](./../../../../..//us/usc/t2/ch28/schI/m__us_usc_t2_s1807.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1806)
 
-## § 1806. Repealed. [Pub. L. 110–437, title II, § 202(e)(2)][/us/pl/110/437/s202/e/2], Oct. 20, 2008, [122 Stat. 4987][/us/stat/122/4987]
+## § 1806. Repealed. [Pub. L. 110–437, title II][/us/pl/110/437/tII], § 202(e)(2), Oct. 20, 2008, [122 Stat. 4987][/us/stat/122/4987]
 
-    Section, [Pub. L. 110–28, title VI, § 6701][/us/pl/110/28/s6701], May 25, 2007, [121 Stat. 182][/us/stat/121/182], related to Chief Executive Officer for Visitor Services.
+    Section, [Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6701, May 25, 2007, [121 Stat. 182][/us/stat/121/182], related to Chief Executive Officer for Visitor Services.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/110/437/s202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs202%2Fe%2F2
+[/us/pl/110/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtII
 [/us/stat/122/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4987
-[/us/pl/110/28/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6701
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F182
 
 

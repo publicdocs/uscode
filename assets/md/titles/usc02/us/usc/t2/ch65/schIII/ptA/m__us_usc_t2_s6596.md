@@ -17,7 +17,7 @@
 
     The Sergeant at Arms and Doorkeeper of the Senate, in carrying out the duties of his office, is authorized to employ personnel at daily rates of compensation; no individual so employed shall be paid at a daily rate of compensation which is in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate; and payments under authority of this section shall be made from the account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”, upon vouchers approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
-([Pub. L. 98–367, title I, § 6][/us/pl/98/367/s6], July 17, 1984, [98 Stat. 475][/us/stat/98/475].)
+([Pub. L. 98–367, title I][/us/pl/98/367/tI], § 6, July 17, 1984, [98 Stat. 475][/us/stat/98/475].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/367/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs6
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F475
 [/us/usc/t2/s61f–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61f%E2%80%939
 

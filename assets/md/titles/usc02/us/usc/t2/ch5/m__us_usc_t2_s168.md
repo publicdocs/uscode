@@ -25,7 +25,7 @@
 
     (4) upon the completion of the October 1983 term of the Supreme Court, and upon the completion of each subsequent October term of the Supreme Court beginning in an odd-numbered year (the final digit of which is not a 1), a cumulative pocket-part supplement to the most recent hardbound decennial revised edition of the Constitution Annotated, which shall contain cumulative annotations of all such decisions rendered by the Supreme Court which were not included in that hardbound decennial revised edition of the Constitution Annotated.
 
-([Pub. L. 91–589, § 1][/us/pl/91/589/s1], Dec. 24, 1970, [84 Stat. 1586][/us/stat/84/1586].)
+([Pub. L. 91–589][/us/pl/91/589], § 1, Dec. 24, 1970, [84 Stat. 1586][/us/stat/84/1586].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/91/589/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589%2Fs1
+[/us/pl/91/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589
 [/us/stat/84/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1586
 
 

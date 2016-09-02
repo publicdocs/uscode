@@ -23,7 +23,7 @@
 
         The remedy available for a violation of subsection (a) shall be such legal or equitable remedy as may be appropriate to redress a violation of subsection (a).
 
-([Pub. L. 104–1, title II, § 207][/us/pl/104/1/s207], Jan. 23, 1995, [109 Stat. 13][/us/stat/109/13].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 207, Jan. 23, 1995, [109 Stat. 13][/us/stat/109/13].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs207
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F13
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

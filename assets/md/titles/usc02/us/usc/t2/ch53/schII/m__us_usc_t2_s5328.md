@@ -17,7 +17,7 @@
 
     The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations for the carrying out of sections 5327 to 5329 of this title.
 
-([Pub. L. 97–51, § 101(c)][/us/pl/97/51/s101/c], Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959]; [Pub. L. 104–186, title II, § 204(44)][/us/pl/104/186/s204/44], Aug. 20, 1996, [110 Stat. 1736][/us/stat/110/1736].)
+([Pub. L. 97–51][/us/pl/97/51], § 101(c), Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(44), Aug. 20, 1996, [110 Stat. 1736][/us/stat/110/1736].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
-[/us/pl/104/186/s204/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F44
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1736
 [/us/usc/t2/s92b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92b%E2%80%932
 [/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc

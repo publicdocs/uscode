@@ -29,7 +29,7 @@
 
             In the case of a pattern or practice of the willful violation of [section 179q(a) of this title][/us/usc/t2/s179q/a], the United States district courts may order a civil fine of not more than $10,000 and appropriate injunctive relief.
 
-([Pub. L. 104–285, title I, § 108][/us/pl/104/285/s108], Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 108, Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t2/s179q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179q%2Fa
 [/us/usc/t2/s179q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179q%2Fa
 [/us/usc/t2/s179q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179q%2Fa
-[/us/pl/104/285/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs108
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3381
 
 

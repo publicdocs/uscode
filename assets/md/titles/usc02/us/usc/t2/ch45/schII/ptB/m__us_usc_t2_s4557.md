@@ -55,7 +55,7 @@
 
         This section imposes no duty, burden, or requirement upon the United States, the House of Representatives, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the House of Representatives, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, document, or any other item filed with, or submitted to, the Chief Administrative Officer of the House of Representatives under this section is considered to be a paper of the House of Representatives within the provisions of the Rules of the House of Representatives.
 
-([Pub. L. 95–391, title I, § 111][/us/pl/95/391/s111], Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]; [Pub. L. 104–186, title II, § 204(5)(A)][/us/pl/104/186/s204/5/A], Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
+([Pub. L. 95–391, title I][/us/pl/95/391/tI], § 111, Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(5)(A), Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–186, § 204(5)(A)(i)][/us/pl/104/186/s204/5/A/i], substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186], § 204(5)(A)(i), substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
-    Subsecs. (b), (d). [Pub. L. 104–186, § 204(5)(A)(ii)][/us/pl/104/186/s204/5/A/ii], substituted “Chief Administrative Officer of the House of Representatives” for “Clerk”.
+    Subsecs. (b), (d). [Pub. L. 104–186][/us/pl/104/186], § 204(5)(A)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk”.
 
 ----------
 
@@ -80,13 +80,13 @@
 ----------
 ----------
 
-[/us/pl/95/391/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs111
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F777
-[/us/pl/104/186/s204/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1730
 [/us/usc/t2/s60e–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931c
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391
-[/us/pl/104/186/s204/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FA%2Fi
-[/us/pl/104/186/s204/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FA%2Fii
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s103 _us_usc_t2_s104.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102a)
 
 ## § 102a. Transferred
 
@@ -19,17 +19,9 @@
 
     Section 102a was editorially reclassified as [section 4107 of this title][/us/usc/t2/s4107].
 
-§§ 103, 104. __Omitted__ 
-
- __Codification__ 
-
-    Section 103, R.S. § 62, authorized Secretary of Senate and Clerk of House to require disbursing officers subject to their authority to return analytical statements and receipts for expenditures and to communicate such returns annually to Congress. See sections 4108 and 5535 of this title.
-
-    Section 104, R.S. § 63, required that all expenditures of Senate and House be made up to end of each fiscal year and reported to Congress at beginning of each regular session. See sections 4108 and 5535 of this title.
-
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s103 _us_usc_t2_s104.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102a)
 
 ----------
 ----------

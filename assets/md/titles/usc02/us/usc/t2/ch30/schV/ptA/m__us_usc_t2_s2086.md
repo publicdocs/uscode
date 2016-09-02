@@ -17,11 +17,11 @@
 
     As used in this part, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-([Pub. L. 100–696, title VIII, § 806][/us/pl/100/696/s806], Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610].)
+([Pub. L. 100–696, title VIII][/us/pl/100/696/tVIII], § 806, Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610].)
 
  __Codification__ 
 
-    Section was classified to section 188a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/100/696/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs806
+[/us/pl/100/696/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVIII
 [/us/stat/102/4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4610
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

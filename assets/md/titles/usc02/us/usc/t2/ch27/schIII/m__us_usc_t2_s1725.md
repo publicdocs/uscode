@@ -23,7 +23,7 @@
 
         Two sitting members of the Board shall be appointed by the Librarian and shall serve as members of the board of directors of the National Recording Preservation Foundation, in accordance with [section 152403 of title 36][/us/usc/t36/s152403].
 
-([Pub. L. 106–474, title I, § 125][/us/pl/106/474/s125], Nov. 9, 2000, [114 Stat. 2090][/us/stat/114/2090].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 125, Nov. 9, 2000, [114 Stat. 2090][/us/stat/114/2090].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t36/s152403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152403
-[/us/pl/106/474/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs125
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2090
 
 

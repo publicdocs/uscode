@@ -17,7 +17,7 @@
 
     The disbursing officer of the Library of Congress shall (1) disburse moneys of the Library of Congress only upon, and in strict accordance with, vouchers duly certified by the Librarian of Congress or by an officer or employee of the Library of Congress duly authorized in writing by the Librarian to certify such vouchers; (2) make such examination of vouchers as may be necessary to ascertain whether they are in proper form, and duly certified and approved; and (3) be held accountable accordingly: Provided, That the disbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which, under [section 142b of this title][/us/usc/t2/s142b], is imposed upon a certifying officer or employee of the Library of Congress.
 
-([Pub. L. 85–53, § 3][/us/pl/85/53/s3], June 13, 1957, [71 Stat. 81][/us/stat/71/81].)
+([Pub. L. 85–53][/us/pl/85/53], § 3, June 13, 1957, [71 Stat. 81][/us/stat/71/81].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t2/s142b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs142b
-[/us/pl/85/53/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F53%2Fs3
+[/us/pl/85/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F53
 [/us/stat/71/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F81
 
 

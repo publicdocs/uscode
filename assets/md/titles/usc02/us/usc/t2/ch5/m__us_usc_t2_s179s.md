@@ -17,7 +17,7 @@
 
     The remedies provided in [section 179r of this title][/us/usc/t2/s179r] shall be the exclusive remedies under sections 179l to 179w of this title, or any other Federal or State law, regarding the use of the seal described in [section 179m(a)(3) of this title][/us/usc/t2/s179m/a/3].
 
-([Pub. L. 104–285, title I, § 109][/us/pl/104/285/s109], Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 109, Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t2/s179r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179r
 [/us/usc/t2/s179m/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179m%2Fa%2F3
-[/us/pl/104/285/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs109
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3381
 
 

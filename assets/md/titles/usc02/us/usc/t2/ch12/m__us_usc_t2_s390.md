@@ -17,7 +17,7 @@
 
     Every person who, having been subpenaed as a witness under this chapter to give testimony or to produce documents, willfully makes default, or who, having appeared, refuses to answer any question pertinent to the contested election case, shall be deemed guilty of a misdemeanor punishable by fine of not more than $1,000 nor less than $100 or imprisonment for not less than one month nor more than twelve months, or both.
 
-([Pub. L. 91–138, § 11][/us/pl/91/138/s11], Dec. 5, 1969, [83 Stat. 288][/us/stat/83/288].)
+([Pub. L. 91–138][/us/pl/91/138], § 11, Dec. 5, 1969, [83 Stat. 288][/us/stat/83/288].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs11
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F288
 
 

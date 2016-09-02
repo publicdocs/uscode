@@ -17,7 +17,7 @@
 
     In any proceeding under section 1405, 1406, 1407, or 1408 of this title, except a proceeding to enforce [section 1351 of this title][/us/usc/t2/s1351] with respect to offices listed under [section 1351(e)(2) of this title][/us/usc/t2/s1351/e/2], if the Board has not issued a regulation on a matter for which this chapter requires a regulation to be issued, the hearing officer, Board, or court, as the case may be, shall apply, to the extent necessary and appropriate, the most relevant substantive executive agency regulation promulgated to implement the statutory provision at issue in the proceeding.
 
-([Pub. L. 104–1, title IV, § 411][/us/pl/104/1/s411], Jan. 23, 1995, [109 Stat. 37][/us/stat/109/37].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 411, Jan. 23, 1995, [109 Stat. 37][/us/stat/109/37].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t2/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1351
 [/us/usc/t2/s1351/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1351%2Fe%2F2
-[/us/pl/104/1/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs411
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F37
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

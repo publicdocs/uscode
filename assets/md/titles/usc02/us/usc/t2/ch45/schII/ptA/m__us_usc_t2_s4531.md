@@ -41,23 +41,23 @@
 
     (e) No rate of pay shall be adjusted under this section to an amount in excess of the rate of basic pay of level V of the Executive Schedule contained in [section 5316 of title 5][/us/usc/t5/s5316].
 
-([Pub. L. 91–656, § 5][/us/pl/91/656/s5], Jan. 8, 1971, [84 Stat. 1952][/us/stat/84/1952]; [Pub. L. 92–298, § 3(b)][/us/pl/92/298/s3/b], May 17, 1972, [86 Stat. 146][/us/stat/86/146]; [Pub. L. 92–392, § 14(b)][/us/pl/92/392/s14/b], Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(F), (10)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440, 1442; [Pub. L. 102–378, § 5(b)][/us/pl/102/378/s5/b], Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358]; [Pub. L. 104–186, title II, § 204(1)][/us/pl/104/186/s204/1], Aug. 20, 1996, [110 Stat. 1729][/us/stat/110/1729].)
+([Pub. L. 91–656][/us/pl/91/656], § 5, Jan. 8, 1971, [84 Stat. 1952][/us/stat/84/1952]; [Pub. L. 92–298][/us/pl/92/298], § 3(b), May 17, 1972, [86 Stat. 146][/us/stat/86/146]; [Pub. L. 92–392][/us/pl/92/392], § 14(b), Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(F), (10)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440, 1442; [Pub. L. 102–378][/us/pl/102/378], § 5(b), Oct. 2, 1992, [106 Stat. 1358][/us/stat/106/1358]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(1), Aug. 20, 1996, [110 Stat. 1729][/us/stat/110/1729].)
 
  __Codification__ 
 
     Section was formerly classified to [section 60a–2 of this title][/us/usc/t2/s60a–2] prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (b), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “[section 665 of title 31][/us/usc/t31/s665], United States Code” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “[section 665 of title 31][/us/usc/t31/s665], United States Code” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–186, § 204(1)(A)][/us/pl/104/186/s204/1/A], substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(A), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 104–186, § 204(1)(D)][/us/pl/104/186/s204/1/D], substituted “Chief Administrative Officer” for “Clerk” in concluding provisions.
+    Subsec. (a)(1). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(D), substituted “Chief Administrative Officer” for “Clerk” in concluding provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 104–186, § 204(1)(B)][/us/pl/104/186/s204/1/B], substituted “Chief Administrative Officer” for “Clerk of the House”.
+    Subsec. (a)(1)(A). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(B), substituted “Chief Administrative Officer” for “Clerk of the House”.
 
-    Subsec. (a)(1)(B). [Pub. L. 104–186, § 204(1)(C)][/us/pl/104/186/s204/1/C], struck out “, including but not limited to—
+    Subsec. (a)(1)(B). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(C), struck out “, including but not limited to—
 
     “(i) the clerk hire allowance for each Member of the House of Representatives and the Resident Commissioner from Puerto Rico; and
 
@@ -65,23 +65,23 @@
 
     after “class of employees”.
 
-    Subsec. (a)(2). [Pub. L. 104–186, § 204(1)(E)][/us/pl/104/186/s204/1/E], substituted “Chief Administrative Officer” for “Clerk” in two places.
+    Subsec. (a)(2). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(E), substituted “Chief Administrative Officer” for “Clerk” in two places.
 
-    Subsec. (b). [Pub. L. 104–186, § 204(1)(F)][/us/pl/104/186/s204/1/F], substituted “Chief Administrative Officer” for “Clerk of the House”.
+    Subsec. (b). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(F), substituted “Chief Administrative Officer” for “Clerk of the House”.
 
-    Subsec. (d). [Pub. L. 104–186, § 204(1)(G)][/us/pl/104/186/s204/1/G], substituted “Chief Administrative Officer” for “Clerk of the House of Representatives”.
+    Subsec. (d). [Pub. L. 104–186][/us/pl/104/186], § 204(1)(G), substituted “Chief Administrative Officer” for “Clerk of the House of Representatives”.
 
     1992—Subsec. (a). [Pub. L. 102–378][/us/pl/102/378] inserted “of title 5” after “section 5303”.
 
-    1990—Subsec. (a). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(F)(i)\], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under [section 5305 of title 5][/us/usc/t5/s5305] is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
+    1990—Subsec. (a). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(4)(F)(i)\], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under [section 5305 of title 5][/us/usc/t5/s5305] is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
 
-    Subsec. (a)(1). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(10)\], made technical correction to [Pub. L. 92–298][/us/pl/92/298] and [Pub. L. 92–392][/us/pl/92/392], see 1972 Amendment note below.
+    Subsec. (a)(1). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(10)\], made technical correction to [Pub. L. 92–298][/us/pl/92/298] and [Pub. L. 92–392][/us/pl/92/392], see 1972 Amendment note below.
 
-    [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(F)(iii)\], in closing provisions, substituted “adjustment under such section 5303;” for “pay adjustment made by the President;”.
+    [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(4)(F)(iii)\], in closing provisions, substituted “adjustment under such section 5303;” for “pay adjustment made by the President;”.
 
-    Subsec. (a)(1)(A). [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(F)(ii)\], substituted “adjustment)” for “pay adjustment by the President)”.
+    Subsec. (a)(1)(A). [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(4)(F)(ii)\], substituted “adjustment)” for “pay adjustment by the President)”.
 
-    1972—Subsec. (a)(1). [Pub. L. 92–298][/us/pl/92/298] and [Pub. L. 92–392][/us/pl/92/392], as amended by [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(10)\], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
+    1972—Subsec. (a)(1). [Pub. L. 92–298][/us/pl/92/298] and [Pub. L. 92–392][/us/pl/92/392], as amended by [Pub. L. 101–509][/us/pl/101/509], § 529 \[title I, § 101(b)(10)\], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -103,11 +103,11 @@
 
 The following acts provided increases in compensation for elected officers and certain employees of the House of Representatives:
 
-    [Pub. L. 85–462, § 4(k)][/us/pl/85/462/s4/k], (l), June 20, 1958, [72 Stat. 209][/us/stat/72/209].
+    [Pub. L. 85–462][/us/pl/85/462], § 4(k), (l), June 20, 1958, [72 Stat. 209][/us/stat/72/209].
 
-    [June 28, 1955, ch. 189, § 4(c)][/us/act/1955-06-28/ch189/s4/c], [69 Stat. 176][/us/stat/69/176].
+    [June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 4(c), [69 Stat. 176][/us/stat/69/176].
 
-    [Oct. 24, 1951, ch. 554, § 2(e)][/us/act/1951-10-24/ch554/s2/e], [65 Stat. 614][/us/stat/65/614].
+    [Oct. 24, 1951, ch. 554][/us/act/1951-10-24/ch554], § 2(e), [65 Stat. 614][/us/stat/65/614].
 
     [Oct. 28, 1949, ch. 783][/us/act/1949-10-28/ch783], title I, § 101(d), [63 Stat. 974][/us/stat/63/974].
 
@@ -121,40 +121,40 @@ The following acts provided increases in compensation for elected officers and c
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/91/656/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs5
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1952
-[/us/pl/92/298/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F298%2Fs3%2Fb
+[/us/pl/92/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F298
 [/us/stat/86/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F146
-[/us/pl/92/392/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs14%2Fb
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F575
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/378/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs5%2Fb
+[/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
 [/us/stat/106/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1358
-[/us/pl/104/186/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1729
 [/us/usc/t2/s60a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932
 [/us/usc/t31/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/104/186/s204/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FA
-[/us/pl/104/186/s204/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FD
-[/us/pl/104/186/s204/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FB
-[/us/pl/104/186/s204/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FC
-[/us/pl/104/186/s204/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FE
-[/us/pl/104/186/s204/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FF
-[/us/pl/104/186/s204/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F1%2FG
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/92/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F298
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/92/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F298
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
@@ -162,11 +162,11 @@ The following acts provided increases in compensation for elected officers and c
 [/us/pl/92/392/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs15%2Fa
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
 [/us/usc/t5/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5304
-[/us/pl/85/462/s4/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs4%2Fk
+[/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/stat/72/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F209
-[/us/act/1955-06-28/ch189/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs4%2Fc
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F176
-[/us/act/1951-10-24/ch554/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch554%2Fs2%2Fe
+[/us/act/1951-10-24/ch554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch554
 [/us/stat/65/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F614
 [/us/act/1949-10-28/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783
 [/us/stat/63/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F974

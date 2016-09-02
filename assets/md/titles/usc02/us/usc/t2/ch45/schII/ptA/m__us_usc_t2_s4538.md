@@ -19,7 +19,7 @@
 
     (b) The Committee on House Oversight shall promulgate such regulations as are necessary to implement this section.
 
-([Pub. L. 105–275, title I, § 109][/us/pl/105/275/s109], Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439].)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 109, Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/105/275/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs109
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2439
 [/us/usc/t2/s127b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs127b
 

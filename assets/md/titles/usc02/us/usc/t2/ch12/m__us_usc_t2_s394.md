@@ -27,7 +27,7 @@
 
         When by this chapter or by the rules or any order of the committee an act is required or allowed to be done at or within a specified time, the committee, for good cause shown, may at any time in its discretion (1) with or without motion or notice, order the period enlarged if request therefor is made before the expiration of the period originally prescribed or as extended by a previous order, or (2) upon motion made after the expiration of the specified period, permit the act to be done where the failure to act was the result of excusable neglect, but it shall not extend the time for serving and filing the notice of contest under [section 382 of this title][/us/usc/t2/s382].
 
-([Pub. L. 91–138, § 15][/us/pl/91/138/s15], Dec. 5, 1969, [83 Stat. 290][/us/stat/83/290].)
+([Pub. L. 91–138][/us/pl/91/138], § 15, Dec. 5, 1969, [83 Stat. 290][/us/stat/83/290].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs382
-[/us/pl/91/138/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs15
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F290
 
 

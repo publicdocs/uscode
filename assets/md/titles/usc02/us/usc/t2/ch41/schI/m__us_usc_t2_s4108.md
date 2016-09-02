@@ -49,7 +49,7 @@
 
         (3) may issue each report required under this section in other forms at the discretion of the Secretary of the Senate.
 
-([Pub. L. 88–454, § 105(a)][/us/pl/88/454/s105/a], Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550]; [Pub. L. 88–656][/us/pl/88/656], Oct. 13, 1964, [78 Stat. 1088][/us/stat/78/1088]; [Pub. L. 94–303, title I, § 118(b)(1)][/us/pl/94/303/s118/b/1], June 1, 1976, [90 Stat. 615][/us/stat/90/615]; [Pub. L. 102–392, title I, § 6][/us/pl/102/392/s6], Oct. 6, 1992, [106 Stat. 1707][/us/stat/106/1707]; [Pub. L. 103–283, title I, § 3(a)][/us/pl/103/283/s3/a], July 22, 1994, [108 Stat. 1426][/us/stat/108/1426]; [Pub. L. 104–186, title II, § 204(54)][/us/pl/104/186/s204/54], Aug. 20, 1996, [110 Stat. 1738][/us/stat/110/1738]; [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 1(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–95; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–68, div. A, title I, § 2][/us/pl/111/68/s2], Oct. 1, 2009, [123 Stat. 2026][/us/stat/123/2026].)
+([Pub. L. 88–454][/us/pl/88/454], § 105(a), Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550]; [Pub. L. 88–656][/us/pl/88/656], Oct. 13, 1964, [78 Stat. 1088][/us/stat/78/1088]; [Pub. L. 94–303, title I][/us/pl/94/303/tI], § 118(b)(1), June 1, 1976, [90 Stat. 615][/us/stat/90/615]; [Pub. L. 102–392, title I][/us/pl/102/392/tI], § 6, Oct. 6, 1992, [106 Stat. 1707][/us/stat/106/1707]; [Pub. L. 103–283, title I][/us/pl/103/283/tI], § 3(a), July 22, 1994, [108 Stat. 1426][/us/stat/108/1426]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(54), Aug. 20, 1996, [110 Stat. 1738][/us/stat/110/1738]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 1(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–95; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 2, Oct. 1, 2009, [123 Stat. 2026][/us/stat/123/2026].)
 
  __Inapplicability of Section to House of Representatives__ 
 
@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    [Section 102 of this title][/us/usc/t2/s102], referred to in par. (1), was repealed by [Pub. L. 104–186, title II, § 204(52)][/us/pl/104/186/s204/52], Aug. 20, 1996, [110 Stat. 1737][/us/stat/110/1737].
+    [Section 102 of this title][/us/usc/t2/s102], referred to in par. (1), was repealed by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(52), Aug. 20, 1996, [110 Stat. 1737][/us/stat/110/1737].
 
     Sections 103 and 104 of this title, referred to in par. (1), were omitted from the Code.
 
@@ -65,15 +65,15 @@
 
     Section was formerly classified to [section 104a of this title][/us/usc/t2/s104a] prior to editorial reclassification and renumbering as this section.
 
-    In par. (1), “[section 3523(a) of title 31][/us/usc/t31/s3523/a]” substituted for “section 117(a) of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 67(a)][/us/usc/t31/s67/a])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In par. (1), “[section 3523(a) of title 31][/us/usc/t31/s3523/a]” substituted for “section 117(a) of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 67(a)][/us/usc/t31/s67/a])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    Section is based on the first paragraph of [section 105(a) of Pub. L. 88–454][/us/pl/88/454/s105/a]. Remainder of section 105(a) was classified to section 67 of former Title 31, which was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted as [section 3523 of Title 31][/us/usc/t31/s3523], Money and Finance.
+    Section is based on the first paragraph of [section 105(a) of Pub. L. 88–454][/us/pl/88/454/s105/a]. Remainder of section 105(a) was classified to section 67 of former Title 31, which was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted as [section 3523 of Title 31][/us/usc/t31/s3523], Money and Finance.
 
  __Amendments__ 
 
-    2009—Par. (1). [Pub. L. 111–68, § 2(1)][/us/pl/111/68/s2/1], substituted “may” for “shall” in last sentence.
+    2009—Par. (1). [Pub. L. 111–68][/us/pl/111/68], § 2(1), substituted “may” for “shall” in last sentence.
 
-    Par. (6). [Pub. L. 111–68, § 2(2)][/us/pl/111/68/s2/2], added par. (6).
+    Par. (6). [Pub. L. 111–68][/us/pl/111/68], § 2(2), added par. (6).
 
     2004—Par. (1). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 1(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 1(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -117,39 +117,39 @@
 ----------
 
 [/us/usc/t31/s3523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523%2Fa
-[/us/pl/88/454/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs105%2Fa
+[/us/pl/88/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454
 [/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
 [/us/pl/88/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F656
 [/us/stat/78/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1088
-[/us/pl/94/303/s118/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2Fs118%2Fb%2F1
+[/us/pl/94/303/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2FtI
 [/us/stat/90/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F615
-[/us/pl/102/392/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs6
+[/us/pl/102/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtI
 [/us/stat/106/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1707
-[/us/pl/103/283/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs3%2Fa
+[/us/pl/103/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtI
 [/us/stat/108/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1426
-[/us/pl/104/186/s204/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F54
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1738
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/111/68/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs2
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2026
 [/us/usc/t2/s5535/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5535%2Fe
 [/us/usc/t2/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102
-[/us/pl/104/186/s204/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F52
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1737
 [/us/usc/t2/s104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104a
 [/us/usc/t31/s3523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523%2Fa
 [/us/usc/t31/s67/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs67%2Fa
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/88/454/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs105%2Fa
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/usc/t31/s3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523
-[/us/pl/111/68/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs2%2F1
-[/us/pl/111/68/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs2%2F2
+[/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
+[/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
@@ -157,7 +157,7 @@
 [/us/pl/102/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392
 [/us/pl/94/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303
 [/us/pl/88/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F656
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/pl/103/283/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs3%2Fc

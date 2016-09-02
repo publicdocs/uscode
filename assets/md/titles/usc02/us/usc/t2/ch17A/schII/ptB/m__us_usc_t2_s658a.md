@@ -31,7 +31,7 @@
 
     (7) relates to the old-age, survivors, and disability insurance program under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (including taxes imposed by sections 3101(a) and 3111(a) of title 26 (relating to old-age, survivors, and disability insurance)).
 
-([Pub. L. 93–344, title IV, § 422][/us/pl/93/344/s422], as added [Pub. L. 104–4, title I, § 101(a)(2)][/us/pl/104/4/s101/a/2], Mar. 22, 1995, [109 Stat. 53][/us/stat/109/53].)
+([Pub. L. 93–344, title IV][/us/pl/93/344/tIV], § 422, as added [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 101(a)(2), Mar. 22, 1995, [109 Stat. 53][/us/stat/109/53].)
 
  __References in Text__ 
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/93/344/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs422
-[/us/pl/104/4/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs101%2Fa%2F2
+[/us/pl/93/344/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIV
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F53
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

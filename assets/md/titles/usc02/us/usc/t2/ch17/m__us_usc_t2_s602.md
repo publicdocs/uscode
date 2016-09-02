@@ -91,31 +91,31 @@
 
                 (iii) the effect of Federal private sector mandates in the bill or joint resolution on the national economy, including the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services.
 
-([Pub. L. 93–344, title II, § 202][/us/pl/93/344/s202], July 12, 1974, [88 Stat. 304][/us/stat/88/304]; [Pub. L. 99–177, title II, § 221][/us/pl/99/177/s221], Dec. 12, 1985, [99 Stat. 1060][/us/stat/99/1060]; [Pub. L. 101–508, title XIII, § 13112(a)(3)][/us/pl/101/508/s13112/a/3], Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608]; [Pub. L. 104–4, title I, § 102(1)][/us/pl/104/4/s102/1], Mar. 22, 1995, [109 Stat. 60][/us/stat/109/60]; [Pub. L. 104–186, title II, § 213][/us/pl/104/186/s213], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 105–33, title X, § 10103][/us/pl/105/33/s10103], Aug. 5, 1997, [111 Stat. 678][/us/stat/111/678].)
+([Pub. L. 93–344, title II][/us/pl/93/344/tII], § 202, July 12, 1974, [88 Stat. 304][/us/stat/88/304]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 221, Dec. 12, 1985, [99 Stat. 1060][/us/stat/99/1060]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13112(a)(3), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608]; [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 102(1), Mar. 22, 1995, [109 Stat. 60][/us/stat/109/60]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 213, Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10103, Aug. 5, 1997, [111 Stat. 678][/us/stat/111/678].)
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 10103(a)][/us/pl/105/33/s10103/a], inserted “primary” before “duty” in first sentence.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 10103(a), inserted “primary” before “duty” in first sentence.
 
-    Subsec. (e). [Pub. L. 105–33, § 10103(b)][/us/pl/105/33/s10103/b], redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text of par. (1) of subsec. (e) read as follows: “The duties, functions, and personnel of the Joint Committee on Reduction of Federal Expenditures are transferred to the Office, and the Joint Committee is abolished.” Par. (2) of subsec. (e) repealed section 571 of former Title 31, Money and Finance.
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 10103(b), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text of par. (1) of subsec. (e) read as follows: “The duties, functions, and personnel of the Joint Committee on Reduction of Federal Expenditures are transferred to the Office, and the Joint Committee is abolished.” Par. (2) of subsec. (e) repealed section 571 of former Title 31, Money and Finance.
 
-    Subsec. (e)(1)(C). [Pub. L. 105–33, § 10103(c)][/us/pl/105/33/s10103/c], added subpar. (C).
+    Subsec. (e)(1)(C). [Pub. L. 105–33][/us/pl/105/33], § 10103(c), added subpar. (C).
 
-    Subsecs. (f) to (h). [Pub. L. 105–33, § 10103(b)][/us/pl/105/33/s10103/b], redesignated subsecs. (g) and (h) as (f) and (g), respectively.
+    Subsecs. (f) to (h). [Pub. L. 105–33][/us/pl/105/33], § 10103(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
     1996—Subsec. (g). [Pub. L. 104–186][/us/pl/104/186] substituted “House Oversight” for “House Administration”.
 
-    1995—Subsec. (c)(2), (3). [Pub. L. 104–4, § 102(1)(A)][/us/pl/104/4/s102/1/A], added par. (2) and redesignated former par. (2) as (3).
+    1995—Subsec. (c)(2), (3). [Pub. L. 104–4][/us/pl/104/4], § 102(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (h). [Pub. L. 104–4, § 102(1)(B)][/us/pl/104/4/s102/1/B], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
+    Subsec. (h). [Pub. L. 104–4][/us/pl/104/4], § 102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
 
     1990—Subsecs. (a)(1), (f)(1). [Pub. L. 101–508][/us/pl/101/508] substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
 
-    1985—Subsec. (f)(1). [Pub. L. 99–177, § 221(a)][/us/pl/99/177/s221/a], substituted “February 15” for “April 1”.
+    1985—Subsec. (f)(1). [Pub. L. 99–177][/us/pl/99/177], § 221(a), substituted “February 15” for “April 1”.
 
-    Subsec. (f)(3). [Pub. L. 99–177, § 221(b)][/us/pl/99/177/s221/b], added par. (3).
+    Subsec. (f)(3). [Pub. L. 99–177][/us/pl/99/177], § 221(b), added par. (3).
 
-    Subsec. (h). [Pub. L. 99–177, § 221(c)][/us/pl/99/177/s221/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 99–177][/us/pl/99/177], § 221(c), added subsec. (h).
 
  __Change of Name__ 
 
@@ -127,7 +127,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
  __Effective Date__ 
 
@@ -135,7 +135,7 @@
 
  __Credit Reform__ 
 
-    [Pub. L. 100–119, title II, § 212][/us/pl/100/119/s212], Sept. 29, 1987, [101 Stat. 787][/us/stat/101/787], provided that the Congressional Budget Office, in consultation with the General Accounting Office, was to study and report to Congress, as soon as practicable, on Federal direct loan and loan guarantee programs for fiscal years 1987 and 1988.
+    [Pub. L. 100–119, title II][/us/pl/100/119/tII], § 212, Sept. 29, 1987, [101 Stat. 787][/us/stat/101/787], provided that the Congressional Budget Office, in consultation with the General Accounting Office, was to study and report to Congress, as soon as practicable, on Federal direct loan and loan guarantee programs for fiscal years 1987 and 1988.
 
 ----------
 
@@ -146,29 +146,29 @@
 
 [/us/usc/t2/s907/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907%2Fb%2F2%2FA
 [/us/usc/t2/s907/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907%2Fb%2F2%2FC
-[/us/pl/93/344/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs202
+[/us/pl/93/344/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtII
 [/us/stat/88/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F304
-[/us/pl/99/177/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs221
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1060
-[/us/pl/101/508/s13112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fa%2F3
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
-[/us/pl/104/4/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs102%2F1
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F60
-[/us/pl/104/186/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs213
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1745
-[/us/pl/105/33/s10103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10103
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F678
-[/us/pl/105/33/s10103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10103%2Fa
-[/us/pl/105/33/s10103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10103%2Fb
-[/us/pl/105/33/s10103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10103%2Fc
-[/us/pl/105/33/s10103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10103%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/104/4/s102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs102%2F1%2FA
-[/us/pl/104/4/s102/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs102%2F1%2FB
+[/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
+[/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/99/177/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs221%2Fa
-[/us/pl/99/177/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs221%2Fb
-[/us/pl/99/177/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs221%2Fc
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/usc/t2/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1516
 [/us/pl/104/4/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs110
@@ -176,12 +176,12 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177/s275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs275%2Fa%2F1
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 [/us/usc/t2/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs601%2Fa
 [/us/pl/93/344/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs905%2Fb
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/100/119/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs212
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F787
 
 

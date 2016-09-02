@@ -19,7 +19,7 @@
 
     (b) “Elected official of the legislative branch” shall mean each Member of the United States House of Representatives, the Delegates from the District of Columbia, Guam, the American Virgin Islands, and American Samoa, and the Resident Commissioner from Puerto Rico, and each United States Senator.
 
-([Pub. L. 101–520, title III, § 310][/us/pl/101/520/s310], Nov. 5, 1990, [104 Stat. 2278][/us/stat/104/2278].)
+([Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 310, Nov. 5, 1990, [104 Stat. 2278][/us/stat/104/2278].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/520/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs310
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2278
 
 

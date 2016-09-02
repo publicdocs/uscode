@@ -45,7 +45,7 @@
 
     (8) The term “timing shift” refers to a delay of the date on which outlays flowing from direct spending would otherwise occur from the ninth outyear to the tenth outyear or an acceleration of the date on which revenues would otherwise occur from the tenth outyear to the ninth outyear.
 
-([Pub. L. 111–139, title I, § 3][/us/pl/111/139/s3], Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 3, Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/usc/t2/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs933
 [/us/usc/t2/s900/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900%2Fc%2F8
-[/us/pl/111/139/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs3
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
 [/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8

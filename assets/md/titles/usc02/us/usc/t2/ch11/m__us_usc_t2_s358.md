@@ -19,7 +19,7 @@
 
     (2) The President shall transmit his recommendations under this section to Congress on the first Monday after January 3 of the first calendar year beginning after the date on which the Commission submits its report and recommendations to the President under [section 357 of this title][/us/usc/t2/s357].
 
-([Pub. L. 90–206, title II, § 225(h)][/us/pl/90/206/s225/h], Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 99–190, § 135(d)][/us/pl/99/190/s135/d], Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII, § 701(f)][/us/pl/101/194/s701/f], Nov. 30, 1989, [103 Stat. 1765][/us/stat/103/1765].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(h), Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 99–190][/us/pl/99/190], § 135(d), Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(f), Nov. 30, 1989, [103 Stat. 1765][/us/stat/103/1765].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Commission’s First Report After__  __July 30, 1983__  __, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria__ 
 
-    [Pub. L. 98–63, title I, § 908(e)][/us/pl/98/63/s908/e], July 30, 1983, [97 Stat. 338][/us/stat/97/338], which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by [Pub. L. 102–90, title I, § 6(c)][/us/pl/102/90/s6/c], Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451].
+    [Pub. L. 98–63, title I][/us/pl/98/63/tI], § 908(e), July 30, 1983, [97 Stat. 338][/us/stat/97/338], which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by [Pub. L. 102–90, title I][/us/pl/102/90/tI], § 6(c), Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451].
 
  __Compensation and Emoluments of Attorney General__ 
 
@@ -371,7 +371,7 @@ U.S. Claims Court  </td>
 
  __Prior Salary Recommendations__ 
 
-    A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 5, 1987 (52 F.R. 4125; [101 Stat. 1967][/us/stat/101/1967]), was disapproved by [Pub. L. 100–6, § 3][/us/pl/100/6/s3], Feb. 12, 1987, [101 Stat. 94][/us/stat/101/94]. However, such recommendation became effective pursuant to [section 359 of this title][/us/usc/t2/s359].
+    A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 5, 1987 (52 F.R. 4125; [101 Stat. 1967][/us/stat/101/1967]), was disapproved by [Pub. L. 100–6][/us/pl/100/6], § 3, Feb. 12, 1987, [101 Stat. 94][/us/stat/101/94]. However, such recommendation became effective pursuant to [section 359 of this title][/us/usc/t2/s359].
 
     A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 7, 1981 (H.Doc. No. 97–6, Cong. Rec., vol. 127, pt. 1, p. 241, Jan. 9, 1981), was disapproved by House Resolution No. 109, Ninety-sixth Congress, Mar. 12, 1981, Senate Resolution No. 89, Ninety-sixth Congress, Mar. 12, 1981, Senate Resolution No. 90, Ninety-sixth Congress, Mar. 12, 1981, Senate Resolution No. 91, Ninety-sixth Congress, Mar. 12, 1981, and Senate Resolution No. 92, Ninety-sixth Congress, Mar. 12, 1981.
 
@@ -389,11 +389,11 @@ U.S. Claims Court  </td>
 [/us/usc/t2/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs357
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
 [/us/usc/t2/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs357
-[/us/pl/90/206/s225/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fh
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F644
-[/us/pl/99/190/s135/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs135%2Fd
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1322
-[/us/pl/101/194/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Ff
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1765
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
@@ -401,9 +401,9 @@ U.S. Claims Court  </td>
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/98/63/s908/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs908%2Fe
+[/us/pl/98/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2FtI
 [/us/stat/97/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F338
-[/us/pl/102/90/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Fc
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/pl/94/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F2
 [/us/stat/89/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F4
@@ -418,7 +418,7 @@ U.S. Claims Court  </td>
 [/us/pl/101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F1
 [/us/stat/102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3
 [/us/stat/101/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1967
-[/us/pl/100/6/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F6%2Fs3
+[/us/pl/100/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F6
 [/us/stat/101/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F94
 [/us/usc/t2/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs359
 [/us/stat/91/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1643

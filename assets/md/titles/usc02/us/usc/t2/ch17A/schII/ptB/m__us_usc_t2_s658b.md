@@ -63,7 +63,7 @@
 
             If the statement is not published in the report, or if the bill or joint resolution to which the statement relates is expected to be considered by the Senate or the House of Representatives before the report is published, the committee shall cause the statement, or a summary thereof, to be published in the Congressional Record in advance of floor consideration of the bill or joint resolution.
 
-([Pub. L. 93–344, title IV, § 423][/us/pl/93/344/s423], as added [Pub. L. 104–4, title I, § 101(a)(2)][/us/pl/104/4/s101/a/2], Mar. 22, 1995, [109 Stat. 53][/us/stat/109/53]; amended [Pub. L. 106–141, § 2(a)][/us/pl/106/141/s2/a], Dec. 7, 1999, [113 Stat. 1699][/us/stat/113/1699].)
+([Pub. L. 93–344, title IV][/us/pl/93/344/tIV], § 423, as added [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 101(a)(2), Mar. 22, 1995, [109 Stat. 53][/us/stat/109/53]; amended [Pub. L. 106–141][/us/pl/106/141], § 2(a), Dec. 7, 1999, [113 Stat. 1699][/us/stat/113/1699].)
 
  __Amendments__ 
 
@@ -79,10 +79,10 @@
 [/us/usc/t2/s658d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658d%2Fa%2F2
 [/us/usc/t2/s658/5/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658%2F5%2FB%2Fi%2FII
 [/us/usc/t2/s658c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658c
-[/us/pl/93/344/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs423
-[/us/pl/104/4/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs101%2Fa%2F2
+[/us/pl/93/344/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIV
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F53
-[/us/pl/106/141/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F141%2Fs2%2Fa
+[/us/pl/106/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F141
 [/us/stat/113/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1699
 [/us/pl/106/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F141
 

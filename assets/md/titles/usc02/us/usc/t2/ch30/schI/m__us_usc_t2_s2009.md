@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    Section was classified to section 182 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 182 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
-    Words “and the Philippine Islands” after “Puerto Rico” were omitted pursuant to 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352], which granted independence to the Philippine Islands on July 4, 1946, under the authority of [act Mar. 24, 1934, ch. 84, § 10][/us/act/1934-03-24/ch84/s10], [48 Stat. 463][/us/stat/48/463], as amended, which is classified to [section 1394 of Title 22][/us/usc/t22/s1394], Foreign Relations and Intercourse.
+    Words “and the Philippine Islands” after “Puerto Rico” were omitted pursuant to 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352], which granted independence to the Philippine Islands on July 4, 1946, under the authority of [act Mar. 24, 1934, ch. 84][/us/act/1934-03-24/ch84], § 10, [48 Stat. 463][/us/stat/48/463], as amended, which is classified to [section 1394 of Title 22][/us/usc/t22/s1394], Foreign Relations and Intercourse.
 
  __Change of Name__ 
 
@@ -44,10 +44,10 @@
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/act/1934-03-24/ch84/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84%2Fs10
+[/us/act/1934-03-24/ch84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-24%2Fch84
 [/us/stat/48/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F463
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a

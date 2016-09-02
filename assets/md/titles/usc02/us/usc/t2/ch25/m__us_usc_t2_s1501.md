@@ -45,7 +45,7 @@
 
     (8) to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations of Federal statutes and regulations that impose Federal intergovernmental mandates.
 
-([Pub. L. 104–4, § 2][/us/pl/104/4/s2], Mar. 22, 1995, [109 Stat. 48][/us/stat/109/48].)
+([Pub. L. 104–4][/us/pl/104/4], § 2, Mar. 22, 1995, [109 Stat. 48][/us/stat/109/48].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Short Title__ 
 
-[Pub. L. 104–4, § 1][/us/pl/104/4/s1], Mar. 22, 1995, [109 Stat. 48][/us/stat/109/48], provided that: 
+[Pub. L. 104–4][/us/pl/104/4], § 1, Mar. 22, 1995, [109 Stat. 48][/us/stat/109/48], provided that: 
 
 > “This Act \[enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title\] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/104/4/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs2
+[/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48
-[/us/pl/104/4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs1
+[/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48
 
 

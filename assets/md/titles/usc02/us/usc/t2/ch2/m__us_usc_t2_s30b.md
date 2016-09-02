@@ -49,17 +49,17 @@
 
         “I, Senator \_\_\_\_, do not object to proceed to \_\_\_\_, dated \_\_\_\_.”.
 
-([Pub. L. 110–81, title V, § 512][/us/pl/110/81/s512], Sept. 14, 2007, [121 Stat. 759][/us/stat/121/759].)
+([Pub. L. 110–81, title V][/us/pl/110/81/tV], § 512, Sept. 14, 2007, [121 Stat. 759][/us/stat/121/759].)
 
  __Effective Date__ 
 
-[Pub. L. 110–81, title V, § 556][/us/pl/110/81/s556], Sept. 14, 2007, [121 Stat. 774][/us/stat/121/774], provided that: 
+[Pub. L. 110–81, title V][/us/pl/110/81/tV], § 556, Sept. 14, 2007, [121 Stat. 774][/us/stat/121/774], provided that: 
 
 > “Except as otherwise provided in this title \[enacting this section, sections 4722, 4723, 4726, 4727, and 4728 of this title, and provisions set out as notes under this section and [section 4726 of this title][/us/usc/t2/s4726]\], this title shall take effect on the date of enactment of this title \[Sept. 14, 2007\].”
 
  __Exercise of Rulemaking Powers__ 
 
-[Pub. L. 110–81, title V, § 555][/us/pl/110/81/s555], Sept. 14, 2007, [121 Stat. 774][/us/stat/121/774], provided that: 
+[Pub. L. 110–81, title V][/us/pl/110/81/tV], § 555, Sept. 14, 2007, [121 Stat. 774][/us/stat/121/774], provided that: 
 
 > “The Senate adopts the provisions of this title \[see Effective Date note above\]—
 
@@ -74,12 +74,12 @@
 ----------
 ----------
 
-[/us/pl/110/81/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs512
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F759
-[/us/pl/110/81/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs556
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F774
 [/us/usc/t2/s4726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4726
-[/us/pl/110/81/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs555
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F774
 
 

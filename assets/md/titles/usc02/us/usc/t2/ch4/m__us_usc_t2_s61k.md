@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 61k, [Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 79][/us/stat/91/79], authorized President pro tempore of Senate to appoint and fix compensation of an Administrative Assistant, a Legislative Assistant, and an Executive Secretary. These positions were abolished effective Oct. 1, 1979, by [section 101 of Pub. L. 96–38][/us/pl/96/38/s101].
+    A prior section 61k, [Pub. L. 95–26, title I][/us/pl/95/26/tI], May 4, 1977, [91 Stat. 79][/us/stat/91/79], authorized President pro tempore of Senate to appoint and fix compensation of an Administrative Assistant, a Legislative Assistant, and an Executive Secretary. These positions were abolished effective Oct. 1, 1979, by [section 101 of Pub. L. 96–38][/us/pl/96/38/s101].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s6113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6113
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F79
 [/us/pl/96/38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs101
 

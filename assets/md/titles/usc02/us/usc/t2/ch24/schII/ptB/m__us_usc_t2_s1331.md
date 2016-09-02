@@ -123,7 +123,7 @@
 
             Subsection (g) shall be effective 1 year after transmission to the Congress of the study under [section 1371 of this title][/us/usc/t2/s1371].
 
-([Pub. L. 104–1, title II, § 210][/us/pl/104/1/s210], Jan. 23, 1995, [109 Stat. 13][/us/stat/109/13]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–279, § 1(g)(2)][/us/pl/110/279/s1/g/2], July 17, 2008, [122 Stat. 2609][/us/stat/122/2609]; [Pub. L. 110–437, title IV, § 422(b)(3)][/us/pl/110/437/s422/b/3], Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 210, Jan. 23, 1995, [109 Stat. 13][/us/stat/109/13]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–279][/us/pl/110/279], § 1(g)(2), July 17, 2008, [122 Stat. 2609][/us/stat/122/2609]; [Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 422(b)(3), Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -171,15 +171,15 @@
 [/us/usc/t2/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1407
 [/us/usc/t2/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1384
 [/us/usc/t2/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1371
-[/us/pl/104/1/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs210
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F13
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/279/s1/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279%2Fs1%2Fg%2F2
+[/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
 [/us/stat/122/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2609
-[/us/pl/110/437/s422/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fb%2F3
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4996
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327

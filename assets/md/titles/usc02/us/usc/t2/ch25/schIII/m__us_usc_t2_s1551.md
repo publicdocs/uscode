@@ -27,7 +27,7 @@
 
         (2) how to measure both the direct and indirect benefits of Federal financial assistance and tax benefits to State, local, and tribal governments.
 
-([Pub. L. 104–4, title III, § 301][/us/pl/104/4/s301], Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
+([Pub. L. 104–4, title III][/us/pl/104/4/tIII], § 301, Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs301
+[/us/pl/104/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIII
 [/us/stat/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F67
 
 

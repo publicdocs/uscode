@@ -35,7 +35,7 @@
 
         (3) the amount by which the sequestration in the budget year of the budgetary resources of other nonexempt mandatory programs reduces outlays in the budget year and in the subsequent fiscal year.
 
-([Pub. L. 111–139, title I, § 6][/us/pl/111/139/s6], Feb. 12, 2010, [124 Stat. 16][/us/stat/124/16].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 6, Feb. 12, 2010, [124 Stat. 16][/us/stat/124/16].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
 [/us/usc/t2/s906/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fj
 [/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
-[/us/pl/111/139/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs6
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F16
 [/us/pl/111/139/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11
 [/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905

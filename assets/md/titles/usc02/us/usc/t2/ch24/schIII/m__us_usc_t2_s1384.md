@@ -119,7 +119,7 @@
 
         (2) may consult with any other persons with whom consultation, in the opinion of the Board, the Executive Director, or Deputy Directors, may be helpful.
 
-([Pub. L. 104–1, title III, § 304][/us/pl/104/1/s304], Jan. 23, 1995, [109 Stat. 29][/us/stat/109/29].)
+([Pub. L. 104–1, title III][/us/pl/104/1/tIII], § 304, Jan. 23, 1995, [109 Stat. 29][/us/stat/109/29].)
 
  __References in Text__ 
 
@@ -138,7 +138,7 @@
 [/us/usc/t5/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb
 [/us/usc/t5/s553/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fd%2F3
 [/us/usc/t5/s553/b/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb%2FB
-[/us/pl/104/1/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs304
+[/us/pl/104/1/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIII
 [/us/stat/109/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F29
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

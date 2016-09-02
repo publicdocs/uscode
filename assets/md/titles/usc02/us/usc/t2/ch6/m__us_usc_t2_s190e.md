@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190d.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190e)
 
-## § 190e. Repealed. [Pub. L. 91–510, title II, § 242(b)(1)][/us/pl/91/510/s242/b/1], Oct. 26, 1970, [84 Stat. 1172][/us/stat/84/1172]
+## § 190e. Repealed. [Pub. L. 91–510, title II][/us/pl/91/510/tII], § 242(b)(1), Oct. 26, 1970, [84 Stat. 1172][/us/stat/84/1172]
 
-    Section, [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 138, [60 Stat. 832][/us/stat/60/832], related to report of legislative budget by Committee on Ways and Means and Committee on Appropriations of House and Committee on Finance and Committee on Appropriations of Senate, its contents, and concurrent resolution adopting the budget. See Rules of the House of Representatives and Standing Rules of the Senate.
+    Section, [act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], § 138, [60 Stat. 832][/us/stat/60/832], related to report of legislative budget by Committee on Ways and Means and Committee on Appropriations of House and Committee on Finance and Committee on Appropriations of Senate, its contents, and concurrent resolution adopting the budget. See Rules of the House of Representatives and Standing Rules of the Senate.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/91/510/s242/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs242%2Fb%2F1
+[/us/pl/91/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtII
 [/us/stat/84/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1172
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F832
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301

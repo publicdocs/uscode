@@ -17,7 +17,7 @@
 
     No employee of Congress, either in the Senate or House, shall sublet to, or hire, another to do or perform any part of the duties or work attached to the position to which he was appointed.
 
-([Mar. 2, 1895, ch. 177, § 1][/us/act/1895-03-02/ch177/s1], [28 Stat. 771][/us/stat/28/771].)
+([Mar. 2, 1895, ch. 177][/us/act/1895-03-02/ch177], § 1, [28 Stat. 771][/us/stat/28/771].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1895-03-02/ch177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177%2Fs1
+[/us/act/1895-03-02/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-03-02%2Fch177
 [/us/stat/28/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F771
 [/us/usc/t2/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs101
 

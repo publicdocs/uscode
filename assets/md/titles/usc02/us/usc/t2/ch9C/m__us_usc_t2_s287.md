@@ -17,7 +17,7 @@
 
     There is hereby established in the House of Representatives an office to be known as the Office of the Parliamentarian, hereinafter in this chapter referred to as the “Office”.
 
-([Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668].)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 115, Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@ Section 6 of House Resolution No. 502, Apr. 20, 1977, as enacted into permanent 
 ----------
 ----------
 
-[/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115

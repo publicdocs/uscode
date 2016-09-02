@@ -23,7 +23,7 @@
 
         This section shall take effect 60 days after September 14, 2007.
 
-([Pub. L. 110–81, title V, § 535][/us/pl/110/81/s535], Sept. 14, 2007, [121 Stat. 766][/us/stat/121/766].)
+([Pub. L. 110–81, title V][/us/pl/110/81/tV], § 535, Sept. 14, 2007, [121 Stat. 766][/us/stat/121/766].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/81/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs535
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F766
 [/us/usc/t2/s104f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104f
 

@@ -31,17 +31,17 @@
 
         The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
 
-([Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 133][/us/stat/85/133]; [Pub. L. 104–186, title II, § 221(3)(A)][/us/pl/104/186/s221/3/A], Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
+([Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 133][/us/stat/85/133]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(3)(A), Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].)
 
  __References in Text__ 
 
-    Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of [act Oct. 9, 1940, ch. 780][/us/act/1940-10-09/ch780], title II, [54 Stat. 1056][/us/stat/54/1056], which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 104–186, title II, § 221(3)(B)][/us/pl/104/186/s221/3/B], Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].
+    Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of [act Oct. 9, 1940, ch. 780, title II][/us/act/1940-10-09/ch780/tII], [54 Stat. 1056][/us/stat/54/1056], which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(3)(B), Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].
 
     The date of adoption of this resolution, referred to in subsec. (d), is Mar. 25, 1971. See Codification note below.
 
  __Codification__ 
 
-    Section was classified to section 174k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 174k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is based on section 2 of House Resolution No. 317, Ninety-second Congress, Mar. 25, 1971, which was enacted into permanent law by [Pub. L. 92–51][/us/pl/92/51].
 
@@ -55,13 +55,13 @@
 
  __Special Deposit Account From Vending Operations__ 
 
-[Pub. L. 104–53, title I, § 107A][/us/pl/104/53/s107A], Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522], as amended by [Pub. L. 104–197, title I, § 101(a)][/us/pl/104/197/s101/a], Sept. 16, 1996, [110 Stat. 2400][/us/stat/110/2400], provided that:
+[Pub. L. 104–53, title I][/us/pl/104/53/tI], § 107A, Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522], as amended by [Pub. L. 104–197, title I][/us/pl/104/197/tI], § 101(a), Sept. 16, 1996, [110 Stat. 2400][/us/stat/110/2400], provided that:
 
 >     “(a) Subject to the direction of the Committee on House Oversight of the House of Representatives, the amounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
 
 >     “(b) The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 ([40 U.S.C. 174k][/us/usc/t40/s174k] note) \[former [40 U.S.C. 174k][/us/usc/t40/s174k]\].”
 
-\[[Pub. L. 104–197, title I, § 101(b)][/us/pl/104/197/s101/b], Sept. 16, 1996, [110 Stat. 2401][/us/stat/110/2401], provided that: 
+\[[Pub. L. 104–197, title I][/us/pl/104/197/tI], § 101(b), Sept. 16, 1996, [110 Stat. 2401][/us/stat/110/2401], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 107A of Pub. L. 104–53][/us/pl/104/53/s107A], set out above\] shall apply with respect to fiscal years beginning after September 30, 1996.”
 
@@ -69,7 +69,7 @@
 
  __Transfer of Food Service Operations; Election by Certain Affected Employees; Disability and Retirement Benefits; Promulgation of Regulations__ 
 
-[Pub. L. 99–500, § 111][/us/pl/99/500/s111], Oct. 18, 1986, [100 Stat. 1783–348][/us/stat/100/1783-348], and [Pub. L. 99–591, § 111][/us/pl/99/591/s111], Oct. 30, 1986, [100 Stat. 3341–348][/us/stat/100/3341-348], provided that:
+[Pub. L. 99–500][/us/pl/99/500], § 111, Oct. 18, 1986, [100 Stat. 1783–348][/us/stat/100/1783-348], and [Pub. L. 99–591][/us/pl/99/591], § 111, Oct. 30, 1986, [100 Stat. 3341–348][/us/stat/100/3341-348], provided that:
 
 >     “(a)
 
@@ -121,28 +121,28 @@
 [/us/stat/54/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1056
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/stat/85/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F133
-[/us/pl/104/186/s221/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F3%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1748
-[/us/act/1940-10-09/ch780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch780
+[/us/act/1940-10-09/ch780/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch780%2FtII
 [/us/stat/54/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1056
-[/us/pl/104/186/s221/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F3%2FB
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1748
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/104/53/s107A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs107A
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F522
-[/us/pl/104/197/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs101%2Fa
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2400
 [/us/usc/t40/s174k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs174k
 [/us/usc/t40/s174k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs174k
-[/us/pl/104/197/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs101%2Fb
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2401
 [/us/pl/104/53/s107A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs107A
-[/us/pl/99/500/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs111
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-348
-[/us/pl/99/591/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs111
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-348
 [/us/usc/t5/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2107
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335

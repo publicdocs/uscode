@@ -101,7 +101,7 @@
 
         For purposes of this section the term “State mandate” means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
 
-([Pub. L. 104–4, title III, § 302][/us/pl/104/4/s302], Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
+([Pub. L. 104–4, title III][/us/pl/104/4/tIII], § 302, Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
 
  __Change of Name__ 
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs302
+[/us/pl/104/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIII
 [/us/stat/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F67
 
 

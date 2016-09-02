@@ -37,7 +37,7 @@
 
         This section shall be effective on and after October 1, 1998, or the date of enactment of this Act \[October 21, 1998\], whichever is later.
 
-([Pub. L. 105–275, title I, § 10][/us/pl/105/275/s10], Oct. 21, 1998, [112 Stat. 2435][/us/stat/112/2435]; [Pub. L. 109–55, title I, § 6][/us/pl/109/55/s6], Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568].)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 10, Oct. 21, 1998, [112 Stat. 2435][/us/stat/112/2435]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 6, Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 
 [/us/usc/t2/s4301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301%2Fi
 [/us/usc/t2/s4301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301%2Fj
-[/us/pl/105/275/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs10
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2435
-[/us/pl/109/55/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs6
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F568
 [/us/usc/t2/s72d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72d
 [/us/pl/105/275/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs10

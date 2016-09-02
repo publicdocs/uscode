@@ -19,11 +19,11 @@
 
     (b) Sections 5504 and 6101(a)(5) of title 5 shall apply to employees of the House and Senate Restaurants who are paid at per annum rates of pay as long as such employees are under the supervision of the Architect of the Capitol as an agent of the House or Senate, respectively, as the case may be.
 
-([Pub. L. 91–510, title IV, § 485][/us/pl/91/510/s485], Oct. 26, 1970, [84 Stat. 1197][/us/stat/84/1197].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 485, Oct. 26, 1970, [84 Stat. 1197][/us/stat/84/1197].)
 
  __Codification__ 
 
-    Section was classified to section 166b–1e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166b–1e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Effective Date__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/91/510/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs485
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1197
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301

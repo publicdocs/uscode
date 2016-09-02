@@ -17,7 +17,7 @@
 
     The facilities provided for the education of Congressional and Supreme Court pages shall be available from and after January 2, 1947, also for the education of such other minors who are Senate employees as may be certified by the Secretary of the Senate to receive such education.
 
-([Mar. 22, 1947, ch. 20][/us/act/1947-03-22/ch20], title I, [61 Stat. 16][/us/stat/61/16]; [Pub. L. 98–367, title I, § 103][/us/pl/98/367/s103], July 17, 1984, [98 Stat. 479][/us/stat/98/479]; [Pub. L. 104–186, title II, § 204(35)][/us/pl/104/186/s204/35], Aug. 20, 1996, [110 Stat. 1735][/us/stat/110/1735].)
+([Mar. 22, 1947, ch. 20][/us/act/1947-03-22/ch20], title I, [61 Stat. 16][/us/stat/61/16]; [Pub. L. 98–367, title I][/us/pl/98/367/tI], § 103, July 17, 1984, [98 Stat. 479][/us/stat/98/479]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(35), Aug. 20, 1996, [110 Stat. 1735][/us/stat/110/1735].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 
 [/us/act/1947-03-22/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-03-22%2Fch20
 [/us/stat/61/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F16
-[/us/pl/98/367/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs103
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F479
-[/us/pl/104/186/s204/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F35
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1735
 [/us/usc/t2/s88b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b
 [/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367

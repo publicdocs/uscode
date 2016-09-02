@@ -19,7 +19,7 @@
 
     (b) Not later than 60 days after the date of the enactment of this Act, the Chief of the Capitol Police shall transfer to the Chief of the United States Park Police the horses, equipment, and supplies of the Capitol Police mounted horse unit which remain in the possession of the Capitol Police as of such date.
 
-([Pub. L. 109–55, title I, § 1002][/us/pl/109/55/s1002], Aug. 2, 2005, [119 Stat. 572][/us/stat/119/572].)
+([Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1002, Aug. 2, 2005, [119 Stat. 572][/us/stat/119/572].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/55/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1002
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F572
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
 

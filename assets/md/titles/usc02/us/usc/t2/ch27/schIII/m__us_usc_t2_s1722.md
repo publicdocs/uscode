@@ -81,7 +81,7 @@
 
             A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
 
-([Pub. L. 106–474, title I, § 122][/us/pl/106/474/s122], Nov. 9, 2000, [114 Stat. 2088][/us/stat/114/2088]; [Pub. L. 110–336, § 2(a)(2)][/us/pl/110/336/s2/a/2], Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 122, Nov. 9, 2000, [114 Stat. 2088][/us/stat/114/2088]; [Pub. L. 110–336][/us/pl/110/336], § 2(a)(2), Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726].)
 
  __Amendments__ 
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/106/474/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs122
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2088
-[/us/pl/110/336/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs2%2Fa%2F2
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3726
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 

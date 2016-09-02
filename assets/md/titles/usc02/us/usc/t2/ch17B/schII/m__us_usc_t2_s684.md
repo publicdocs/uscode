@@ -49,11 +49,11 @@
 
         The provisions of this section do not apply to any budget authority proposed to be rescinded or that is to be reserved as set forth in a special message required to be transmitted under [section 683 of this title][/us/usc/t2/s683].
 
-([Pub. L. 93–344, title X, § 1013][/us/pl/93/344/s1013], July 12, 1974, [88 Stat. 334][/us/stat/88/334]; [Pub. L. 100–119, title II, § 206(a)][/us/pl/100/119/s206/a], Sept. 29, 1987, [101 Stat. 785][/us/stat/101/785].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1013, July 12, 1974, [88 Stat. 334][/us/stat/88/334]; [Pub. L. 100–119, title II][/us/pl/100/119/tII], § 206(a), Sept. 29, 1987, [101 Stat. 785][/us/stat/101/785].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1403 of Title 31][/us/usc/t31/s1403] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1403 of Title 31][/us/usc/t31/s1403] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t2/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs683
-[/us/pl/93/344/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1013
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F334
-[/us/pl/100/119/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs206%2Fa
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F785
 [/us/usc/t31/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1403
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 

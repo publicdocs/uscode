@@ -17,7 +17,7 @@
 
     The Librarian shall carry out activities to make sound recordings included in the National Recording Registry more broadly accessible for research and educational purposes and to generate public awareness and support of the Registry and the comprehensive national sound recording preservation program established under this subchapter.
 
-([Pub. L. 106–474, title I, § 112][/us/pl/106/474/s112], Nov. 9, 2000, [114 Stat. 2088][/us/stat/114/2088].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 112, Nov. 9, 2000, [114 Stat. 2088][/us/stat/114/2088].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/474/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs112
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2088
 
 

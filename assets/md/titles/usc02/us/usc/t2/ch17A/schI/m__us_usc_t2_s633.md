@@ -127,7 +127,7 @@
 
             (B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
-([Pub. L. 93–344, title III, § 302][/us/pl/93/344/s302], July 12, 1974, [88 Stat. 308][/us/stat/88/308]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1044][/us/stat/99/1044]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–614, 1388–617, 1388–618, 1388–625; [Pub. L. 105–33, title X, § 10106][/us/pl/105/33/s10106], Aug. 5, 1997, [111 Stat. 680][/us/stat/111/680]; [Pub. L. 113–67, div. A, title I, § 122(3)][/us/pl/113/67/s122/3], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 302, July 12, 1974, [88 Stat. 308][/us/stat/88/308]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1044][/us/stat/99/1044]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–614, 1388–617, 1388–618, 1388–625; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10106, Aug. 5, 1997, [111 Stat. 680][/us/stat/111/680]; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(3), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -135,17 +135,17 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1323 of Title 31][/us/usc/t31/s1323] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1323 of Title 31][/us/usc/t31/s1323] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
     2013—Subsec. (g)(2)(A). [Pub. L. 113–67][/us/pl/113/67] substituted “Committee on the Budget” for “committee on the Budget”.
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 10106(a)][/us/pl/105/33/s10106/a], added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
-    Subsec. (b). [Pub. L. 105–33, § 10106(a)][/us/pl/105/33/s10106/a], added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
+    Subsec. (b). [Pub. L. 105–33][/us/pl/105/33], § 10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
 
-    Subsec. (c). [Pub. L. 105–33, § 10106(b)][/us/pl/105/33/s10106/b], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, providing—
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 10106(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, providing—
 
     “(1) new budget authority for a fiscal year; or
 
@@ -153,41 +153,41 @@
 
     within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.”
 
-    Subsec. (f)(1). [Pub. L. 105–33, § 10106(c)(1)][/us/pl/105/33/s10106/c/1], substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
+    Subsec. (f)(1). [Pub. L. 105–33][/us/pl/105/33], § 10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
 
-    Subsec. (f)(2). [Pub. L. 105–33, § 10106(c)(2)][/us/pl/105/33/s10106/c/2], reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
+    Subsec. (f)(2). [Pub. L. 105–33][/us/pl/105/33], § 10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
 
-    Subsec. (g). [Pub. L. 105–33, § 10106(d)][/us/pl/105/33/s10106/d], amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
+    Subsec. (g). [Pub. L. 105–33][/us/pl/105/33], § 10106(d), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–508, § 13201(b)(3)(A)][/us/pl/101/508/s13201/b/3/A], substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
+    1990—Subsec. (a)(1). [Pub. L. 101–508][/us/pl/101/508], § 13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
 
-    Subsec. (a)(2). [Pub. L. 101–508, § 13303(c)(1)][/us/pl/101/508/s13303/c/1], inserted “social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years,” after “appropriate levels of”.
+    Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508], § 13303(c)(1), inserted “social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years,” after “appropriate levels of”.
 
-    [Pub. L. 101–508, § 13201(b)(3)(B)][/us/pl/101/508/s13201/b/3/B], substituted “total budget outlays and total new budget authority” for “total budget outlays, total new budget authority and new credit authority”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13201(b)(3)(B), substituted “total budget outlays and total new budget authority” for “total budget outlays, total new budget authority and new credit authority”.
 
-    [Pub. L. 101–508, § 13112(a)(6)][/us/pl/101/508/s13112/a/6], struck out “the House of Representatives and” after “among each committee of”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13112(a)(6), struck out “the House of Representatives and” after “among each committee of”.
 
-    Subsec. (b)(1)(A). [Pub. L. 101–508, § 13201(b)(3)(C)][/us/pl/101/508/s13201/b/3/C], substituted “budget outlays and new budget authority” for “budget outlays, new budget authority, and new credit authority”.
+    Subsec. (b)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 13201(b)(3)(C), substituted “budget outlays and new budget authority” for “budget outlays, new budget authority, and new credit authority”.
 
-    Subsec. (c). [Pub. L. 101–508, § 13207(a)(1)(A)][/us/pl/101/508/s13207/a/1/A], substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution, or amendment thereto”.
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 13207(a)(1)(A), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution, or amendment thereto”.
 
-    Subsec. (c)(3). [Pub. L. 101–508, § 13201(b)(3)(D)][/us/pl/101/508/s13201/b/3/D], struck out par. (3) which read as follows: “new credit authority for a fiscal year;”.
+    Subsec. (c)(3). [Pub. L. 101–508][/us/pl/101/508], § 13201(b)(3)(D), struck out par. (3) which read as follows: “new credit authority for a fiscal year;”.
 
-    Subsec. (f)(1). [Pub. L. 101–508, § 13207(a)(1)(B)][/us/pl/101/508/s13207/a/1/B], inserted “joint” before “resolution” the second and third places appearing in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 101–508][/us/pl/101/508], § 13207(a)(1)(B), inserted “joint” before “resolution” the second and third places appearing in introductory provisions.
 
-    [Pub. L. 101–508, § 13201(b)(3)(E)][/us/pl/101/508/s13201/b/3/E], substituted “year or new entitlement authority effective during such fiscal year,” for “year, new entitlement authority effective during such fiscal year, or new credit authority for such fiscal year,” in introductory provisions and “authority or new entitlement authority” for “authority, new entitlement authority, or new credit authority” in closing provisions.
+    [Pub. L. 101–508][/us/pl/101/508], § 13201(b)(3)(E), substituted “year or new entitlement authority effective during such fiscal year,” for “year, new entitlement authority effective during such fiscal year, or new credit authority for such fiscal year,” in introductory provisions and “authority or new entitlement authority” for “authority, new entitlement authority, or new credit authority” in closing provisions.
 
-    Subsec. (f)(2). [Pub. L. 101–508, § 13303(c)(3)][/us/pl/101/508/s13303/c/3], inserted three sentences at end beginning with “In applying this paragraph—”.
+    Subsec. (f)(2). [Pub. L. 101–508][/us/pl/101/508], § 13303(c)(3), inserted three sentences at end beginning with “In applying this paragraph—”.
 
-    [Pub. L. 101–508, § 13303(c)(2)][/us/pl/101/508/s13303/c/2], which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
+    [Pub. L. 101–508][/us/pl/101/508], § 13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
 
-    [Pub. L. 101–508, § 13207(a)(2)][/us/pl/101/508/s13207/a/2], substituted “outlays, new budget authority, or new spending authority (as defined in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2])” for “outlays or new budget authority”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13207(a)(2), substituted “outlays, new budget authority, or new spending authority (as defined in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2])” for “outlays or new budget authority”.
 
-    [Pub. L. 101–508, § 13207(a)(1)(B)][/us/pl/101/508/s13207/a/1/B], substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (including a conference report thereon), or any amendment to a bill or resolution”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13207(a)(1)(B), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (including a conference report thereon), or any amendment to a bill or resolution”.
 
-    [Pub. L. 101–508, § 13201(b)(2)][/us/pl/101/508/s13201/b/2], temporarily inserted “or new credit authority” after “new budget authority”. See Effective and Termination Dates of 1990 Amendment note below.
+    [Pub. L. 101–508][/us/pl/101/508], § 13201(b)(2), temporarily inserted “or new credit authority” after “new budget authority”. See Effective and Termination Dates of 1990 Amendment note below.
 
-    [Pub. L. 101–508, § 13112(a)(7)][/us/pl/101/508/s13112/a/7], inserted “(A)” after “in excess of”, substituted “under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section” for “under subsection (b) of this section”, and inserted after first sentence “Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations.”
+    [Pub. L. 101–508][/us/pl/101/508], § 13112(a)(7), inserted “(A)” after “in excess of”, substituted “under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section” for “under subsection (b) of this section”, and inserted after first sentence “Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations.”
 
     1985—[Pub. L. 99–177][/us/pl/99/177] substituted “Committee allocations” for “Matters to be included in joint statement of managers; reports by committees” in section catchline.
 
@@ -201,15 +201,15 @@
 
  __Effective and Termination Dates of 1990 Amendment__ 
 
-    [Pub. L. 101–508, title XIII, § 13201(b)(2)][/us/pl/101/508/s13201/b/2], Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614], provided that the amendment made by section 13201(b)(2) is effective Jan. 1, 1991, for fiscal year 1991 only.
+    [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(b)(2), Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614], provided that the amendment made by section 13201(b)(2) is effective Jan. 1, 1991, for fiscal year 1991 only.
 
-    [Pub. L. 101–508, title XIII, § 13201(b)(3)][/us/pl/101/508/s13201/b/3], Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614], provided that the amendment made by section 13201(b)(3) is effective for fiscal years beginning after Sept. 30, 1991.
+    [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(b)(3), Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614], provided that the amendment made by section 13201(b)(3) is effective for fiscal years beginning after Sept. 30, 1991.
 
     Amendment by [section 13303(c) of Pub. L. 101–508][/us/pl/101/508/s13303/c] applicable with respect to fiscal years beginning on or after Oct. 1, 1990, see [section 13306 of Pub. L. 101–508][/us/pl/101/508/s13306], set out as an Effective Date of 1990 Amendment note under [section 632 of this title][/us/usc/t2/s632].
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -227,15 +227,15 @@
 [/us/usc/t2/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs642%2Fa
 [/us/usc/t2/s632/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632%2Fb%2F8
 [/us/usc/t2/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs642%2Fa
-[/us/pl/93/344/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs302
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F308
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1044
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
-[/us/pl/105/33/s10106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F680
-[/us/pl/113/67/s122/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F3
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
@@ -244,41 +244,41 @@
 [/us/usc/t1/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs105
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/usc/t31/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1323
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
-[/us/pl/105/33/s10106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fa
-[/us/pl/105/33/s10106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fa
-[/us/pl/105/33/s10106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/105/33/s10106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fc%2F1
-[/us/pl/105/33/s10106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fc%2F2
-[/us/pl/105/33/s10106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10106%2Fd
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/101/508/s13201/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F3%2FA
-[/us/pl/101/508/s13303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fc%2F1
-[/us/pl/101/508/s13201/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F3%2FB
-[/us/pl/101/508/s13112/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fa%2F6
-[/us/pl/101/508/s13201/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F3%2FC
-[/us/pl/101/508/s13207/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fa%2F1%2FA
-[/us/pl/101/508/s13201/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F3%2FD
-[/us/pl/101/508/s13207/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fa%2F1%2FB
-[/us/pl/101/508/s13201/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F3%2FE
-[/us/pl/101/508/s13303/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fc%2F3
-[/us/pl/101/508/s13303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fc%2F2
-[/us/pl/101/508/s13207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fa%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/101/508/s13207/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fa%2F1%2FB
-[/us/pl/101/508/s13201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F2
-[/us/pl/101/508/s13112/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fa%2F7
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
-[/us/pl/101/508/s13201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F2
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-614
-[/us/pl/101/508/s13201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fb%2F3
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-614
 [/us/pl/101/508/s13303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fc
 [/us/pl/101/508/s13306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13306
@@ -286,7 +286,7 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

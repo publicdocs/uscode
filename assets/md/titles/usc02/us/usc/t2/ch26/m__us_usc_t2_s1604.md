@@ -97,7 +97,7 @@
 
         A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
-([Pub. L. 104–65, § 5][/us/pl/104/65/s5], Dec. 19, 1995, [109 Stat. 697][/us/stat/109/697]; [Pub. L. 105–166, § 4(c)][/us/pl/105/166/s4/c], Apr. 6, 1998, [112 Stat. 39][/us/stat/112/39]; [Pub. L. 110–81, title II][/us/pl/110/81], §§ 201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], 742, 746, 747.)
+([Pub. L. 104–65][/us/pl/104/65], § 5, Dec. 19, 1995, [109 Stat. 697][/us/stat/109/697]; [Pub. L. 105–166][/us/pl/105/166], § 4(c), Apr. 6, 1998, [112 Stat. 39][/us/stat/112/39]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], §§ 201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], 742, 746, 747.)
 
  __References in Text__ 
 
@@ -105,33 +105,33 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–81, § 201(a)(1)][/us/pl/110/81/s201/a/1], substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under [section 1603 of this title][/us/usc/t2/s1603], or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under [section 1603 of this title][/us/usc/t2/s1603],” and “such quarterly period” for “such semiannual period”.
+    2007—Subsec. (a). [Pub. L. 110–81][/us/pl/110/81], § 201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under [section 1603 of this title][/us/usc/t2/s1603], or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under [section 1603 of this title][/us/usc/t2/s1603],” and “such quarterly period” for “such semiannual period”.
 
-    Subsec. (b). [Pub. L. 110–81, § 201(a)(2)(A)][/us/pl/110/81/s201/a/2/A], substituted “quarterly report” for “semiannual report” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–81][/us/pl/110/81], § 201(a)(2)(A), substituted “quarterly report” for “semiannual report” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 110–81, § 207(a)(2)][/us/pl/110/81/s207/a/2], inserted “, including information under [section 1603(b)(3) of this title][/us/usc/t2/s1603/b/3]” before semicolon.
+    Subsec. (b)(1). [Pub. L. 110–81][/us/pl/110/81], § 207(a)(2), inserted “, including information under [section 1603(b)(3) of this title][/us/usc/t2/s1603/b/3]” before semicolon.
 
-    Subsec. (b)(2). [Pub. L. 110–81, § 201(a)(2)(B)][/us/pl/110/81/s201/a/2/B], substituted “quarterly period” for “semiannual filing period” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 110–81][/us/pl/110/81], § 201(a)(2)(B), substituted “quarterly period” for “semiannual filing period” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 110–81, § 201(a)(2)(C)][/us/pl/110/81/s201/a/2/C], substituted “quarterly period” for “semiannual period”.
+    Subsec. (b)(3). [Pub. L. 110–81][/us/pl/110/81], § 201(a)(2)(C), substituted “quarterly period” for “semiannual period”.
 
-    Subsec. (b)(4). [Pub. L. 110–81, § 201(a)(2)(D)][/us/pl/110/81/s201/a/2/D], substituted “quarterly period” for “semiannual filing period”.
+    Subsec. (b)(4). [Pub. L. 110–81][/us/pl/110/81], § 201(a)(2)(D), substituted “quarterly period” for “semiannual filing period”.
 
-    Subsec. (b)(5). [Pub. L. 110–81, § 202][/us/pl/110/81/s202], added par. (5).
+    Subsec. (b)(5). [Pub. L. 110–81][/us/pl/110/81], § 202, added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 110–81, § 201(b)(6)(A)][/us/pl/110/81/s201/b/6/A], substituted “$5,000” for “$10,000” and “$10,000” for “$20,000”.
+    Subsec. (c)(1). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(6)(A), substituted “$5,000” for “$10,000” and “$10,000” for “$20,000”.
 
-    Subsec. (c)(2). [Pub. L. 110–81, § 201(b)(6)(B)][/us/pl/110/81/s201/b/6/B], substituted “$5,000” for “$10,000” in two places.
+    Subsec. (c)(2). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(6)(B), substituted “$5,000” for “$10,000” in two places.
 
-    Subsec. (d). [Pub. L. 110–81, § 203(a)][/us/pl/110/81/s203/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–81][/us/pl/110/81], § 203(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 110–81, § 205][/us/pl/110/81/s205], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–81][/us/pl/110/81], § 205, added subsec. (e).
 
     1998—Subsec. (c)(3). [Pub. L. 105–166][/us/pl/105/166] struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to [section 6033(b)(8) of title 26][/us/usc/t26/s6033/b/8] may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–81, title II, § 203(b)][/us/pl/110/81/s203/b], Sept. 14, 2007, [121 Stat. 744][/us/stat/121/744], provided that: 
+[Pub. L. 110–81, title II][/us/pl/110/81/tII], § 203(b), Sept. 14, 2007, [121 Stat. 744][/us/stat/121/744], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the first semiannual period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 \[[2 U.S.C. 1604(d)(1)][/us/usc/t2/s1604/d/1]\] (as added by this section) that begins after the date of the enactment of this Act \[Sept. 14, 2007\] and each succeeding semiannual period.”
 
@@ -151,32 +151,32 @@
 [/us/usc/t2/s1603/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F6
 [/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104
 [/us/usc/t52/s30104/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104%2Fi%2F8%2FB
-[/us/pl/104/65/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs5
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F697
-[/us/pl/105/166/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fc
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/stat/112/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F39
-[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F741
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/110/81/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fa%2F1
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/usc/t2/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603
 [/us/usc/t2/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603
-[/us/pl/110/81/s201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fa%2F2%2FA
-[/us/pl/110/81/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs207%2Fa%2F2
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/usc/t2/s1603/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F3
-[/us/pl/110/81/s201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fa%2F2%2FB
-[/us/pl/110/81/s201/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fa%2F2%2FC
-[/us/pl/110/81/s201/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fa%2F2%2FD
-[/us/pl/110/81/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs202
-[/us/pl/110/81/s201/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F6%2FA
-[/us/pl/110/81/s201/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F6%2FB
-[/us/pl/110/81/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs203%2Fa
-[/us/pl/110/81/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs205
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/usc/t26/s6033/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6033%2Fb%2F8
-[/us/pl/110/81/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs203%2Fb
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F744
 [/us/usc/t2/s1604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fd%2F1
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81

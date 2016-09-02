@@ -17,7 +17,7 @@
 
     The Architect of the Capitol shall convert, as of the effective date of this section, to a single per annum gross rate, the rate of pay of each employee described in subparagraph (1) or subparagraph (2) of [section 1841 of this title][/us/usc/t2/s1841], whose pay immediately prior to such effective date was fixed at a basic rate with respect to which additional pay was payable by law.
 
-([Pub. L. 91–510, title IV, § 482][/us/pl/91/510/s482], Oct. 26, 1970, [84 Stat. 1196][/us/stat/84/1196].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 482, Oct. 26, 1970, [84 Stat. 1196][/us/stat/84/1196].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was classified to section 166b–1b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166b–1b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -35,11 +35,11 @@
 ----------
 
 [/us/usc/t2/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1841
-[/us/pl/91/510/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs482
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1196
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

@@ -27,7 +27,7 @@
 
         By written stipulation of the parties, the testimony of any witness of either party may be filed in the form of an affidavit by such witness or the parties may agree what a particular witness would testify to if his deposition were taken. Such testimonial affidavits or stipulations shall be filed within the time limits prescribed for the taking of testimony in [section 386 of this title][/us/usc/t2/s386].
 
-([Pub. L. 91–138, § 8][/us/pl/91/138/s8], Dec. 5, 1969, [83 Stat. 287][/us/stat/83/287].)
+([Pub. L. 91–138][/us/pl/91/138], § 8, Dec. 5, 1969, [83 Stat. 287][/us/stat/83/287].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs386
-[/us/pl/91/138/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs8
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F287
 
 

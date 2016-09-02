@@ -63,7 +63,7 @@
 
         would not cause the appropriate allocation of new budget authority made pursuant to [section 633(a) of this title][/us/usc/t2/s633/a] for that fiscal year to be exceeded.
 
-([Pub. L. 93–344, title III, § 311][/us/pl/93/344/s311], July 12, 1974, [88 Stat. 316][/us/stat/88/316]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1055][/us/stat/99/1055]; [Pub. L. 100–119, title I, § 106(e)(1)][/us/pl/100/119/s106/e/1], Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–617, 1388–626; [Pub. L. 105–33, title X, § 10112(a)][/us/pl/105/33/s10112/a], Aug. 5, 1997, [111 Stat. 686][/us/stat/111/686].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 311, July 12, 1974, [88 Stat. 316][/us/stat/88/316]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1055][/us/stat/99/1055]; [Pub. L. 100–119, title I][/us/pl/100/119/tI], § 106(e)(1), Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], §§ 13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–617, 1388–626; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10112(a), Aug. 5, 1997, [111 Stat. 686][/us/stat/111/686].)
 
  __References in Text__ 
 
@@ -71,17 +71,17 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1332 of Title 31][/us/usc/t31/s1332] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1332 of Title 31][/us/usc/t31/s1332] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
     1997—[Pub. L. 105–33][/us/pl/105/33] amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 13303(d)][/us/pl/101/508/s13303/d], designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 
-    [Pub. L. 101–508, § 13207(a)(1)(E)][/us/pl/101/508/s13207/a/1/E], substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13207(a)(1)(E), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
 
-    [Pub. L. 101–508, § 13112(a)(10)][/us/pl/101/508/s13112/a/10], in closing provisions, substituted “except in the case that a declaration of war by the Congress is in effect” for “or, in the Senate, would otherwise result in a deficit for such fiscal year that—
+    [Pub. L. 101–508][/us/pl/101/508], § 13112(a)(10), in closing provisions, substituted “except in the case that a declaration of war by the Congress is in effect” for “or, in the Senate, would otherwise result in a deficit for such fiscal year that—
 
     “(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in [section 622(7) of this title][/us/usc/t2/s622/7]; and
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -123,23 +123,23 @@
 [/us/usc/t2/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs633%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t2/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs633%2Fa
-[/us/pl/93/344/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs311
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F316
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1055
-[/us/pl/100/119/s106/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs106%2Fe%2F1
+[/us/pl/100/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtI
 [/us/stat/101/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F781
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
-[/us/pl/105/33/s10112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10112%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F686
 [/us/usc/t31/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1332
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/101/508/s13303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13303%2Fd
-[/us/pl/101/508/s13207/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fa%2F1%2FE
-[/us/pl/101/508/s13112/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fa%2F10
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s622/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs622%2F7
 [/us/usc/t2/s901/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fa%2F6
 [/us/usc/t2/s632/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632%2Fi
@@ -162,7 +162,7 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177/s275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs275%2Fa%2F1
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

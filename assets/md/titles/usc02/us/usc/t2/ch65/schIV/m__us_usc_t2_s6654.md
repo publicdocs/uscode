@@ -31,13 +31,13 @@
 
         This section shall apply with respect to fiscal year 2004, and each fiscal year thereafter.
 
-([Pub. L. 108–199, div. H, § 155][/us/pl/108/199/s155], Jan. 23, 2004, [118 Stat. 450][/us/stat/118/450].)
+([Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 155, Jan. 23, 2004, [118 Stat. 450][/us/stat/118/450].)
 
  __Codification__ 
 
     Section was formerly classified to [section 61d–4 of this title][/us/usc/t2/s61d–4] prior to editorial reclassification and renumbering as this section.
 
-    Section is comprised of [section 155 of div. H of Pub. L. 108–199][/us/pl/108/199/s155]. Subsec. (b)(1) of [section 155 of Pub. L. 108–199][/us/pl/108/199/s155] repealed [section 61d–3 of this title][/us/usc/t2/s61d–3].
+    Section is comprised of [section 155 of div. H of Pub. L. 108–199][/us/pl/108/199/dH/s155]. Subsec. (b)(1) of [section 155 of Pub. L. 108–199][/us/pl/108/199/s155] repealed [section 61d–3 of this title][/us/usc/t2/s61d–3].
 
     Section is from the Miscellaneous Appropriations and Offsets Act, 2004, which is division H of the Consolidated Appropriations Act, 2004.
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/108/199/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs155
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F450
 [/us/usc/t2/s61d–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61d%E2%80%934
-[/us/pl/108/199/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs155
+[/us/pl/108/199/dH/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH%2Fs155
 [/us/pl/108/199/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs155
 [/us/usc/t2/s61d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61d%E2%80%933
 

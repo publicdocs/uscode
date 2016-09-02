@@ -71,15 +71,15 @@
 
         (2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
 
-([Pub. L. 99–177, title II, § 258][/us/pl/99/177/s258], as added [Pub. L. 101–508, title XIII, § 13101(f)][/us/pl/101/508/s13101/f], Nov. 5, 1990, [104 Stat. 1388–593][/us/stat/104/1388-593]; amended [Pub. L. 113–67, div. A, title I, § 121(10)][/us/pl/113/67/s121/10], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 99–177, title II][/us/pl/99/177/tII], § 258, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13101(f), Nov. 5, 1990, [104 Stat. 1388–593][/us/stat/104/1388-593]; amended [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 121(10), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
     This title, referred to in subsec. (a)(1), means title II (§ 200 et seq.) of [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1038][/us/stat/99/1038], as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title][/us/usc/t2/s900] and Tables.
 
-    The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. Title III of the Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by [Pub. L. 105–33, title X, § 10118(a)][/us/pl/105/33/s10118/a], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695]. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title][/us/usc/t2/s621] and Tables.
+    The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. Title III of the Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10118(a), Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695]. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title][/us/usc/t2/s621] and Tables.
 
-    Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is [section 254(j) of Pub. L. 99–177][/us/pl/99/177/s254/j], which was redesignated section 254(i) of that Act by [Pub. L. 105–33, title X, § 10206(1)][/us/pl/105/33/s10206/1], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704], and is classified to [section 904(i) of this title][/us/usc/t2/s904/i].
+    Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is [section 254(j) of Pub. L. 99–177][/us/pl/99/177/s254/j], which was redesignated section 254(i) of that Act by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10206(1), Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704], and is classified to [section 904(i) of this title][/us/usc/t2/s904/i].
 
     The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title][/us/usc/t2/s621] and Tables.
 
@@ -87,7 +87,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 258 of Pub. L. 99–177][/us/pl/99/177/s258] was classified to [section 908 of this title][/us/usc/t2/s908] prior to repeal by [Pub. L. 105–33, title X, § 10210][/us/pl/105/33/s10210], Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711].
+    A prior [section 258 of Pub. L. 99–177][/us/pl/99/177/s258] was classified to [section 908 of this title][/us/usc/t2/s908] prior to repeal by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10210, Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711].
 
  __Amendments__ 
 
@@ -105,21 +105,21 @@
 [/us/usc/t31/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1103
 [/us/usc/t2/s633/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs633%2Ff
 [/us/usc/t31/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1103
-[/us/pl/99/177/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs258
-[/us/pl/101/508/s13101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Ff
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-593
-[/us/pl/113/67/s121/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F10
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
-[/us/pl/105/33/s10118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10118%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F695
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/99/177/s254/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs254%2Fj
-[/us/pl/105/33/s10206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10206%2F1
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F704
 [/us/usc/t2/s904/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904%2Fi
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
@@ -127,7 +127,7 @@
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/99/177/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs258
 [/us/usc/t2/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs908
-[/us/pl/105/33/s10210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10210
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F711
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 

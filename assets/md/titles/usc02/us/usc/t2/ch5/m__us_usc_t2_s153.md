@@ -17,7 +17,7 @@
 
     The library of the House of Representatives shall be under the control and direction of the Librarian of Congress, who shall provide all needful books of reference therefor. The librarian, two assistant librarians, and assistant in the library, shall be appointed by the Clerk of the House, with the approval of the Speaker of the House of Representatives. No removals shall be made from the said positions except for cause reported to and approved by the Committee on Rules.
 
-([Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 964][/us/stat/31/964].)
+([Mar. 3, 1901, ch. 830][/us/act/1901-03-03/ch830], § 1, [31 Stat. 964][/us/stat/31/964].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
+[/us/act/1901-03-03/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830
 [/us/stat/31/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F964
 
 

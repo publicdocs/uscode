@@ -17,7 +17,7 @@
 
     The failure of contestee to answer the notice of contest or to otherwise defend as provided by this chapter shall not be deemed an admission of the truth of the averments in the notice of contest. Notwithstanding such failure, the burden is upon contestant to prove that the election results entitle him to contestee’s seat.
 
-([Pub. L. 91–138, § 6][/us/pl/91/138/s6], Dec. 5, 1969, [83 Stat. 286][/us/stat/83/286].)
+([Pub. L. 91–138][/us/pl/91/138], § 6, Dec. 5, 1969, [83 Stat. 286][/us/stat/83/286].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs6
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F286
 
 

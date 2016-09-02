@@ -201,7 +201,7 @@
 
         There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section, to remain available until expended.
 
-([Pub. L. 107–171, title IV, § 4404][/us/pl/107/171/s4404], May 13, 2002, [116 Stat. 335][/us/stat/116/335]; [Pub. L. 110–161, div. H, title I, § 1502(c)][/us/pl/110/161/s1502/c], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250]; [Pub. L. 110–234, title IV, § 4401][/us/pl/110/234/s4401], May 22, 2008, [122 Stat. 1132][/us/stat/122/1132]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1894.)
+([Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4404, May 13, 2002, [116 Stat. 335][/us/stat/116/335]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1502(c), Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4401, May 22, 2008, [122 Stat. 1132][/us/stat/122/1132]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1894.)
 
  __Codification__ 
 
@@ -209,7 +209,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 4401][/us/pl/110/246/s4401], amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
 
     2007—Subsec. (f)(4)(A). [Pub. L. 110–161][/us/pl/110/161], which directed that subpar. (A) be amended by substituting “may” for “shall” and striking out “annual.”, was executed by making the substitution and striking out “annual” before “audit”, to reflect the probable intent of Congress.
 
@@ -217,7 +217,7 @@
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-[Pub. L. 110–234, title IV, § 4407][/us/pl/110/234/s4407], May 22, 2008, [122 Stat. 1142][/us/stat/122/1142], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4407, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1903, provided that: 
+[Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4407, May 22, 2008, [122 Stat. 1142][/us/stat/122/1142], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4407, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1903, provided that: 
 
 > “Except as otherwise provided in this title \[see Tables for classification\], this title and the amendments made by this title take effect on October 1, 2008.”
 
@@ -225,7 +225,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–171, title IV, § 4405][/us/pl/107/171/s4405], May 13, 2002, [116 Stat. 341][/us/stat/116/341], provided that: 
+[Pub. L. 107–171, title IV][/us/pl/107/171/tIV], § 4405, May 13, 2002, [116 Stat. 341][/us/stat/116/341], provided that: 
 
 > “Except as otherwise provided in this title \[see Short Title of 2002 Amendment note set out under [section 2011 of Title 7][/us/usc/t7/s2011], Agriculture\], the amendments made by this title take effect on October 1, 2002.”
 
@@ -236,35 +236,35 @@
 ----------
 ----------
 
-[/us/pl/107/171/s4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4404
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F335
-[/us/pl/110/161/s1502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1502%2Fc
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2250
-[/us/pl/110/234/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4401
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1132
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4401
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4407
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1142
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/107/171/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4405
+[/us/pl/107/171/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtIV
 [/us/stat/116/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F341
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 

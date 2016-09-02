@@ -61,7 +61,7 @@
 
         (2) the Board considers it necessary or advisable to withhold such information in accordance with one or more of the numbered paragraphs in [section 552(b) of title 5][/us/usc/t5/s552/b].
 
-([Pub. L. 92–484, § 3][/us/pl/92/484/s3], Oct. 13, 1972, [86 Stat. 797][/us/stat/86/797].)
+([Pub. L. 92–484][/us/pl/92/484], § 3, Oct. 13, 1972, [86 Stat. 797][/us/stat/86/797].)
 
 ----------
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t2/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs471
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/92/484/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs3
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F797
 
 

@@ -33,7 +33,7 @@
 
         (5) Such other form or means as may be suitable for the recording and preservation of such information.
 
-([Pub. L. 106–99, § 3][/us/pl/106/99/s3], Nov. 12, 1999, [113 Stat. 1331][/us/stat/113/1331].)
+([Pub. L. 106–99][/us/pl/106/99], § 3, Nov. 12, 1999, [113 Stat. 1331][/us/stat/113/1331].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/99/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F99%2Fs3
+[/us/pl/106/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F99
 [/us/stat/113/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1331
 
 

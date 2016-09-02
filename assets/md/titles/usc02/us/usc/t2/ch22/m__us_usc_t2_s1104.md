@@ -61,7 +61,7 @@
 
         The Board of Trustees shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs.
 
-([Pub. L. 100–458, title I, § 115][/us/pl/100/458/s115], Oct. 1, 1988, [102 Stat. 2173][/us/stat/102/2173].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 115, Oct. 1, 1988, [102 Stat. 2173][/us/stat/102/2173].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/100/458/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs115
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2173
 
 

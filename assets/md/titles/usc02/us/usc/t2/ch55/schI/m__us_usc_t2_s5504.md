@@ -17,7 +17,7 @@
 
     [Section 5503 of this title][/us/usc/t2/s5503] shall not apply to officers of the Senate.
 
-([Pub. L. 95–521, title VII, § 714(d)][/us/pl/95/521/s714/d], Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 714(d), Oct. 26, 1978, [92 Stat. 1884][/us/stat/92/1884].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t2/s5503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5503
-[/us/pl/95/521/s714/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs714%2Fd
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1884
 [/us/usc/t2/s118a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs118a
 [/us/pl/95/521/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs717

@@ -19,7 +19,7 @@
 
     (b) The number of sets authorized to be printed and bound by or pursuant to sections 28b to 28e of this title shall be in lieu of the usual number of copies for binding and distribution required by [section 701 of title 44][/us/usc/t44/s701].
 
-([Pub. L. 94–551, § 1][/us/pl/94/551/s1], Oct. 18, 1976, [90 Stat. 2537][/us/stat/90/2537].)
+([Pub. L. 94–551][/us/pl/94/551], § 1, Oct. 18, 1976, [90 Stat. 2537][/us/stat/90/2537].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F265
 [/us/usc/t44/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs701
-[/us/pl/94/551/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551%2Fs1
+[/us/pl/94/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551
 [/us/stat/90/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2537
 [/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F265

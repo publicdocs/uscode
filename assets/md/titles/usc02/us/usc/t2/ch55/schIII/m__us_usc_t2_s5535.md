@@ -57,11 +57,11 @@
 
         This section shall apply to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.
 
-([Pub. L. 104–186, title I, § 106][/us/pl/104/186/s106], Aug. 20, 1996, [110 Stat. 1722][/us/stat/110/1722].)
+([Pub. L. 104–186, title I][/us/pl/104/186/tI], § 106, Aug. 20, 1996, [110 Stat. 1722][/us/stat/110/1722].)
 
  __References in Text__ 
 
-    [Section 102 of this title][/us/usc/t2/s102], referred to in subsec. (e)(1), was repealed by [Pub. L. 104–186, title II, § 204(52)][/us/pl/104/186/s204/52], Aug. 20, 1996, [110 Stat. 1737][/us/stat/110/1737].
+    [Section 102 of this title][/us/usc/t2/s102], referred to in subsec. (e)(1), was repealed by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(52), Aug. 20, 1996, [110 Stat. 1737][/us/stat/110/1737].
 
     Sections 103 and 104 of this title, referred to in subsec. (e)(1), were omitted from the Code.
 
@@ -86,10 +86,10 @@
 
 [/us/usc/t31/s3523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523%2Fa
 [/us/usc/t2/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4108
-[/us/pl/104/186/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs106
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1722
 [/us/usc/t2/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102
-[/us/pl/104/186/s204/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F52
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1737
 [/us/usc/t2/s104b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104b
 [/us/usc/t2/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4108

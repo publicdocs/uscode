@@ -93,7 +93,7 @@
 
         For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shall be determined based on the estimates made by the Committee on the Budget.
 
-([Pub. L. 93–344, title IV, § 425][/us/pl/93/344/s425], as added [Pub. L. 104–4, title I, § 101(a)(2)][/us/pl/104/4/s101/a/2], Mar. 22, 1995, [109 Stat. 56][/us/stat/109/56].)
+([Pub. L. 93–344, title IV][/us/pl/93/344/tIV], § 425, as added [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 101(a)(2), Mar. 22, 1995, [109 Stat. 56][/us/stat/109/56].)
 
  __Change of Name__ 
 
@@ -109,8 +109,8 @@
 [/us/usc/t2/s658b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658b%2Ff
 [/us/usc/t2/s658c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658c%2Fd
 [/us/usc/t2/s658c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658c%2Fa%2F1
-[/us/pl/93/344/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs425
-[/us/pl/104/4/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs101%2Fa%2F2
+[/us/pl/93/344/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIV
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F56
 
 

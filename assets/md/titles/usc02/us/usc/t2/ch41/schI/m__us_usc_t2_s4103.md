@@ -17,7 +17,7 @@
 
     Notwithstanding any provision to the contrary in any contract which is entered into by any person and either the Administrator of General Services or a contracting officer of any executive agency and under which such person agrees to sell or lease to the Federal Government (or any one or more entities thereof) any unit of property, supplies, or services at a specified price or under specified terms and conditions (or both), such person may sell or lease to the Congress the same type of such property, supplies, or services at a unit price or under terms and conditions (or both) which are different from those specified in such contract; and any such sale or lease of any unit or units of such property, supplies, or services to the Congress shall not be taken into account for the purpose of determining the price at which, or the terms and conditions under which, such person is obligated under such contract to sell or lease any unit of such property, supplies, or services to any entity of the Federal Government other than the Congress. For purposes of the preceding sentence, any sale or lease of property, supplies, or services to the Senate (or any office or instrumentality thereof) or to the House of Representatives (or any office or instrumentality thereof) shall be deemed to be a sale or lease of such property, supplies, or services to the Congress.
 
-([Pub. L. 98–63, title I, § 903(a)][/us/pl/98/63/s903/a], July 30, 1983, [97 Stat. 336][/us/stat/97/336].)
+([Pub. L. 98–63, title I][/us/pl/98/63/tI], § 903(a), July 30, 1983, [97 Stat. 336][/us/stat/97/336].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–63, title I, § 903(b)][/us/pl/98/63/s903/b], July 30, 1983, [97 Stat. 336][/us/stat/97/336], provided that: 
+[Pub. L. 98–63, title I][/us/pl/98/63/tI], § 903(b), July 30, 1983, [97 Stat. 336][/us/stat/97/336], provided that: 
 
 > “The provisions of this section \[enacting this section\] shall take effect with respect to sales or leases of property, supplies, or services to the Congress after the date of enactment of this section \[July 30, 1983\].”
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/98/63/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs903%2Fa
+[/us/pl/98/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2FtI
 [/us/stat/97/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F336
 [/us/usc/t2/s111b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs111b
-[/us/pl/98/63/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs903%2Fb
+[/us/pl/98/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2FtI
 [/us/stat/97/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F336
 [/us/usc/t2/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs605
 

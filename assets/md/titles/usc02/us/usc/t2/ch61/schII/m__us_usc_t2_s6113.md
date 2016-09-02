@@ -17,7 +17,7 @@
 
     Effective October 1, 1979, the President pro tempore is authorized to appoint and fix the compensation of such employees as he deems appropriate: Provided, That the gross compensation paid to such employees shall not exceed $123,000 each fiscal year.
 
-([Pub. L. 96–38, title I, § 101][/us/pl/96/38/s101], July 25, 1979, [93 Stat. 111][/us/stat/93/111].)
+([Pub. L. 96–38, title I][/us/pl/96/38/tI], § 101, July 25, 1979, [93 Stat. 111][/us/stat/93/111].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs101
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F111
 [/us/usc/t2/s61k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61k
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656

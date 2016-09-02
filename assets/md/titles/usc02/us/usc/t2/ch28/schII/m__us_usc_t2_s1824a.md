@@ -57,7 +57,7 @@
 
         This section shall apply with respect to fiscal year 2009 and each fiscal year thereafter.
 
-([Pub. L. 111–8, div. G, title I, § 1101][/us/pl/111/8/s1101], Mar. 11, 2009, [123 Stat. 822][/us/stat/123/822]; [Pub. L. 113–76, div. I, title I, § 1303][/us/pl/113/76/s1303], Jan. 17, 2014, [128 Stat. 429][/us/stat/128/429].)
+([Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1101, Mar. 11, 2009, [123 Stat. 822][/us/stat/123/822]; [Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1303, Jan. 17, 2014, [128 Stat. 429][/us/stat/128/429].)
 
  __Codification__ 
 
@@ -77,9 +77,9 @@
 [/us/usc/t2/s6516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6516
 [/us/usc/t2/s5540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5540
 [/us/usc/t2/s2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2026
-[/us/pl/111/8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1101
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F822
-[/us/pl/113/76/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1303
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F429
 [/us/usc/t2/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1811
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76

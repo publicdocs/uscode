@@ -75,7 +75,7 @@
 
         The Office of Personnel Management may prescribe regulations to carry out the provisions of this section.
 
-([Pub. L. 102–392, title III, § 320][/us/pl/102/392/s320], Oct. 6, 1992, [106 Stat. 1725][/us/stat/106/1725]; [Pub. L. 103–50][/us/pl/103/50], ch. XII, § 1203(a)(1), (b)(1), July 2, 1993, [107 Stat. 268][/us/stat/107/268].)
+([Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 320, Oct. 6, 1992, [106 Stat. 1725][/us/stat/106/1725]; [Pub. L. 103–50][/us/pl/103/50], ch. XII, § 1203(a)(1), (b)(1), July 2, 1993, [107 Stat. 268][/us/stat/107/268].)
 
  __References in Text__ 
 
@@ -83,13 +83,13 @@
 
  __Codification__ 
 
-    Section was classified to section 214d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 214d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–50, § 1203(b)(1)][/us/pl/103/50/s1203/b/1], substituted “January 1, 1993” for “October 6, 1992”.
+    1993—Subsec. (b)(1). [Pub. L. 103–50][/us/pl/103/50], § 1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
 
-    Subsecs. (h) to (j). [Pub. L. 103–50, § 1203(a)(1)][/us/pl/103/50/s1203/a/1], added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+    Subsecs. (h) to (j). [Pub. L. 103–50][/us/pl/103/50], § 1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -116,15 +116,15 @@
 [/us/usc/t5/s8422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8422
 [/us/usc/t5/s8701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8701%2Fa%2F3
 [/us/usc/t26/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3111
-[/us/pl/102/392/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs320
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1725
 [/us/pl/103/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50
 [/us/stat/107/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F268
 [/us/usc/t2/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2061
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/103/50/s1203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50%2Fs1203%2Fb%2F1
-[/us/pl/103/50/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50%2Fs1203%2Fa%2F1
+[/us/pl/103/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50
+[/us/pl/103/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50
 [/us/pl/103/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50
 [/us/stat/107/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F268
 [/us/pl/103/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60b _us_usc_t2_s60c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
 
 ## § 60c–1. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60b _us_usc_t2_s60c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
 
 ----------
 ----------

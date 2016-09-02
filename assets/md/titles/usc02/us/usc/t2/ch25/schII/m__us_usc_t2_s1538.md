@@ -17,7 +17,7 @@
 
     No later than 1 year after March 22, 1995, and annually thereafter, the Director of the Office of Management and Budget shall submit to the Congress, including the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives, a written report detailing compliance by each agency during the preceding reporting period with the requirements of this subchapter.
 
-([Pub. L. 104–4, title II, § 208][/us/pl/104/4/s208], Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 208, Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67].)
 
  __Change of Name__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs208
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F67
 
 

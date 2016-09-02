@@ -49,21 +49,21 @@
 
         As used in this section, the term “crime of violence” has the meaning given that term in [section 16 of title 18][/us/usc/t18/s16].
 
-([July 31, 1946, ch. 707, § 9B][/us/act/1946-07-31/ch707/s9B], as added [Pub. L. 102–397, title I, § 101][/us/pl/102/397/s101], Oct. 6, 1992, [106 Stat. 1949][/us/stat/106/1949]; amended [Pub. L. 104–186, title II, § 221(13)][/us/pl/104/186/s221/13], Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750]; [Pub. L. 108–83, title I, § 1003(a)][/us/pl/108/83/s1003/a], Sept. 30, 2003, [117 Stat. 1021][/us/stat/117/1021].)
+([July 31, 1946, ch. 707][/us/act/1946-07-31/ch707], § 9B, as added [Pub. L. 102–397, title I][/us/pl/102/397/tI], § 101, Oct. 6, 1992, [106 Stat. 1949][/us/stat/106/1949]; amended [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(13), Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750]; [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1003(a), Sept. 30, 2003, [117 Stat. 1021][/us/stat/117/1021].)
 
  __Codification__ 
 
-    Section was classified to section 212a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 212a–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
-    2003—Subsec. (a)(3). [Pub. L. 108–83, § 1003(a)(1)(A)][/us/pl/108/83/s1003/a/1/A], struck out “and” after the semicolon.
+    2003—Subsec. (a)(3). [Pub. L. 108–83][/us/pl/108/83], § 1003(a)(1)(A), struck out “and” after the semicolon.
 
-    Subsec. (a)(4). [Pub. L. 108–83, § 1003(a)(1)(B)][/us/pl/108/83/s1003/a/1/B], which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
+    Subsec. (a)(4). [Pub. L. 108–83][/us/pl/108/83], § 1003(a)(1)(B), which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(5). [Pub. L. 108–83, § 1003(a)(1)(C)][/us/pl/108/83/s1003/a/1/C], added par. (5).
+    Subsec. (a)(5). [Pub. L. 108–83][/us/pl/108/83], § 1003(a)(1)(C), added par. (5).
 
-    Subsec. (b). [Pub. L. 108–83, § 1003(a)(2)][/us/pl/108/83/s1003/a/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 108–83][/us/pl/108/83], § 1003(a)(2), designated existing provisions as par. (1) and added par. (2).
 
     1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186] substituted “House Oversight” for “House Administration”.
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–83, title I, § 1003(c)][/us/pl/108/83/s1003/c], Sept. 30, 2003, [117 Stat. 1022][/us/stat/117/1022], provided that: 
+[Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1003(c), Sept. 30, 2003, [117 Stat. 1022][/us/stat/117/1022], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the date on which the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.”
 
@@ -81,7 +81,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 108–83, title I, § 1003(b)][/us/pl/108/83/s1003/b], Sept. 30, 2003, [117 Stat. 1022][/us/stat/117/1022], provided that: 
+[Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1003(b), Sept. 30, 2003, [117 Stat. 1022][/us/stat/117/1022], provided that: 
 
 > “Nothing in the amendments made by this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
 
@@ -93,23 +93,23 @@
 ----------
 
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
-[/us/act/1946-07-31/ch707/s9B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707%2Fs9B
-[/us/pl/102/397/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2Fs101
+[/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
+[/us/pl/102/397/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2FtI
 [/us/stat/106/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1949
-[/us/pl/104/186/s221/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F13
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1750
-[/us/pl/108/83/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fa
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1021
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/108/83/s1003/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fa%2F1%2FA
-[/us/pl/108/83/s1003/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fa%2F1%2FB
-[/us/pl/108/83/s1003/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fa%2F1%2FC
-[/us/pl/108/83/s1003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fa%2F2
+[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/108/83/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fc
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1022
-[/us/pl/108/83/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1003%2Fb
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1022
 
 

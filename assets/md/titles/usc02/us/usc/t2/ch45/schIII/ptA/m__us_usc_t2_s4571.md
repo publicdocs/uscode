@@ -39,7 +39,7 @@
 
     (f) For purposes of this section, the term “personnel” does not include any Senator.
 
-([Pub. L. 91–656, § 4][/us/pl/91/656/s4], Jan. 8, 1971, [84 Stat. 1952][/us/stat/84/1952]; [Pub. L. 92–298, § 3(a)][/us/pl/92/298/s3/a], May 17, 1972, [86 Stat. 146][/us/stat/86/146]; [Pub. L. 92–392, § 14(a)][/us/pl/92/392/s14/a], Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 94–82, title II, § 204(d)][/us/pl/94/82/s204/d], Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title III, § 311(a), (b)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(E)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 2\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96.)
+([Pub. L. 91–656][/us/pl/91/656], § 4, Jan. 8, 1971, [84 Stat. 1952][/us/stat/84/1952]; [Pub. L. 92–298][/us/pl/92/298], § 3(a), May 17, 1972, [86 Stat. 146][/us/stat/86/146]; [Pub. L. 92–392][/us/pl/92/392], § 14(a), Aug. 19, 1972, [86 Stat. 575][/us/stat/86/575]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 204(d), Aug. 9, 1975, [89 Stat. 422][/us/stat/89/422]; [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title III, § 311(a), (b)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(E)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 2\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96.)
 
  __References in Text__ 
 
@@ -51,15 +51,15 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 2(1)\], in introductory provisions, inserted “(or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “employees under [section 5303 of title 5][/us/usc/t5/s5303]” and in concluding provisions, inserted “(and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “the President under such section 5303”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 2(1)\], in introductory provisions, inserted “(or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “employees under [section 5303 of title 5][/us/usc/t5/s5303]” and in concluding provisions, inserted “(and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “the President under such section 5303”.
 
-    Subsecs. (e), (f). [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 2(2), (3)\], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 2(2), (3)\], added subsec. (e) and redesignated former subsec. (e) as (f).
 
     1990—Subsec. (a). [Pub. L. 101–509][/us/pl/101/509] substituted “5303” for “5305” wherever appearing.
 
-    1987—Subsec. (a). [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title III, § 311(a)\], inserted requirement that rates of personnel be adjusted by such amounts as necessary to restore same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
+    1987—Subsec. (a). [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title III, § 311(a)\], inserted requirement that rates of personnel be adjusted by such amounts as necessary to restore same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
 
-    Subsec. (d). [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title III, § 311(b)\], inserted exception for cases in which it is necessary to restore and maintain same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
+    Subsec. (d). [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title III, § 311(b)\], inserted exception for cases in which it is necessary to restore and maintain same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
 
     1975—Subsec. (d). [Pub. L. 94–82][/us/pl/94/82] substituted “level III” for “level V”, and “[section 5314 of title 5][/us/usc/t5/s5314]” for “[section 5316 of title 5][/us/usc/t5/s5316].”
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title III, § 311(c)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310, provided that: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title III, § 311(c)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310, provided that: 
 
 > “Notwithstanding any other provision of this Act \[see Tables for classification\] or any other provision of law, subsections (a) and (b) of this section \[amending this section\] shall be effective in the case of pay orders issued by the President pro tempore of the Senate on or after January 1, 1988.”
 
@@ -275,79 +275,79 @@ President pro tempore
 
  __Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1966__ 
 
-[Pub. L. 89–504, title III, § 302(g)][/us/pl/89/504/s302/g], (h), July 18, 1966, [80 Stat. 295][/us/stat/80/295], provided that:
+[Pub. L. 89–504, title III][/us/pl/89/504/tIII], § 302(g), (h), July 18, 1966, [80 Stat. 295][/us/stat/80/295], provided that:
 
 >     “(g) Notwithstanding the provision referred to in subsection (h), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Chief Reporter of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, the Chief Clerk of the Senate, the Chaplain of the Senate, and the Postmaster and Assistant Postmaster of the Senate are hereby increased by 2.9 per centum.
 
 >     “(h) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended ([74 Stat. 304][/us/stat/74/304]; [Public Law 86–568][/us/pl/86/568]), is amended by striking out ‘$23,770’ and inserting in lieu thereof ‘$24,460’.”
 
- \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57, § 105(i)(3)][/us/pl/90/57/s105/i/3], July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
+ \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57][/us/pl/90/57], § 105(i)(3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
 
  __Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1965__ 
 
-[Pub. L. 89–301, § 11(g)][/us/pl/89/301/s11/g], (h), Oct. 29, 1965, [79 Stat. 1121][/us/stat/79/1121], provided that:
+[Pub. L. 89–301][/us/pl/89/301], § 11(g), (h), Oct. 29, 1965, [79 Stat. 1121][/us/stat/79/1121], provided that:
 
 >     “(g) Notwithstanding the provision referred to in subsection (h), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Chief Reporter of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, the Chief Clerk of the Senate, the Chaplain of the Senate, and the Postmaster and Assistant Postmaster of the Senate are hereby increased by 3.6 per centum.
 
 >     “(h) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended ([74 Stat. 304][/us/stat/74/304]; [Public Law 86–568][/us/pl/86/568]), is amended by striking out ‘$22,945’ and inserting in lieu thereof ‘$23,770’.”
 
- \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57, § 105(i)(3)][/us/pl/90/57/s105/i/3], July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
+ \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57][/us/pl/90/57], § 105(i)(3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
 
  __Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1964__ 
 
-[Pub. L. 88–426, title II, § 202(f)][/us/pl/88/426/s202/f], (g), Aug. 14, 1964, [78 Stat. 414][/us/stat/78/414], provided that:
+[Pub. L. 88–426, title II][/us/pl/88/426/tII], § 202(f), (g), Aug. 14, 1964, [78 Stat. 414][/us/stat/78/414], provided that:
 
 >     “(f) Notwithstanding the provision referred to in subsection (g), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Official Reporters of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by an amount which is equal to the amount of the increase which would be provided by subsection (a) of this section \[former [section 60e–11 of this title][/us/usc/t2/s60e–11]\] in that gross rate determined without regard to the provisions referred to in subsection (g) of this section which is nearest in amount to the total annual compensation of such officer or employee.
 
 >     “(g) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended ([74 Stat. 304][/us/stat/74/304]; [Public Law 86–568][/us/pl/86/568]), is amended by striking out ‘$18,880’ and inserting in lieu thereof ‘$22,945’.”
 
- \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57, § 105(i)(3)][/us/pl/90/57/s105/i/3], July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
+ \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57][/us/pl/90/57], § 105(i)(3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
 
  __Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1962__ 
 
-[Pub. L. 87–793, title VI, § 1005(c)][/us/pl/87/793/s1005/c], (d), Oct. 11, 1962, [76 Stat. 867][/us/stat/76/867], provided that:
+[Pub. L. 87–793, title VI][/us/pl/87/793/tVI], § 1005(c), (d), Oct. 11, 1962, [76 Stat. 867][/us/stat/76/867], provided that:
 
 >     “(c) Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of the elected officers of the Senate (except the Presiding Officer of the Senate), the Legislative Counsel of the Senate, the Official Reporters of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 7 per centum.
 
 >     “(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended ([74 Stat. 304][/us/stat/74/304]; [Public Law 86–568][/us/pl/86/568]), is amended to read as follows:    “ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $18,880 per annum, unless expressly authorized by law.’ ”
 
- \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57, § 105(i)(3)][/us/pl/90/57/s105/i/3], July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
+ \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57][/us/pl/90/57], § 105(i)(3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
 
  __Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1960__ 
 
-[Pub. L. 86–568, title I, § 117(c)][/us/pl/86/568/s117/c], (d), July 1, 1960, [74 Stat. 303][/us/stat/74/303], provided that:
+[Pub. L. 86–568, title I][/us/pl/86/568/tI], § 117(c), (d), July 1, 1960, [74 Stat. 303][/us/stat/74/303], provided that:
 
 >     “(c) Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of each of the elected officers of the Senate (except the Presiding Officer of the Senate), the Parliamentarian of the Senate, the Legislative Counsel of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 7.5 per centum.
 
 >     “(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 ([69 Stat. 510][/us/stat/69/510]; Public Law 242, Eighty-fourth Congress), is amended to read as follows:    “ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.’ ”
 
- \[Prior to this amendment “$8,880” and “$17,525” were, respectively, “$8,880” and “$16,300” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by [Pub. L. 90–57, § 105(i)(3)][/us/pl/90/57/s105/i/3], July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
+ \[Prior to this amendment “$8,880” and “$17,525” were, respectively, “$8,880” and “$16,300” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by [Pub. L. 90–57][/us/pl/90/57], § 105(i)(3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
 
  __Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1958__ 
 
-[Pub. L. 85–462, § 4(c)][/us/pl/85/462/s4/c], (d), June 20, 1958, [72 Stat. 208][/us/stat/72/208], provided that:
+[Pub. L. 85–462][/us/pl/85/462], § 4(c), (d), June 20, 1958, [72 Stat. 208][/us/stat/72/208], provided that:
 
 >     “(c) Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of each of the elected officers of the Senate (except the presiding officer of the Senate), the Parliamentarian of the Senate, the Legislative Counsel of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 10 per centum.
 
 >     “(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 ([69 Stat. 510][/us/stat/69/510]; Public Law 242, Eighty-fourth Congress), is amended to read as follows:    “ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ”
 
- \[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57, § 105(i)][/us/pl/90/57/s105/i] (3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
+ \[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by [Pub. L. 90–57][/us/pl/90/57], § 105(i) (3), July 28, 1967, [81 Stat. 144][/us/stat/81/144], eff. Aug. 1, 1967.\]
 
  __Increase in Compensation of Officers of Senate and House—1955__ 
 
-[Act June 28, 1955, ch. 189, § 4(c)][/us/act/1955-06-28/ch189/s4/c], [69 Stat. 176][/us/stat/69/176], provided that: 
+[Act June 28, 1955, ch. 189][/us/act/1955-06-28/ch189], § 4(c), [69 Stat. 176][/us/stat/69/176], provided that: 
 
 > “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses), the Parliamentarian of the Senate, the Parliamentarian of the House of Representatives, the Legislative Counsel of the Senate, the Legislative Counsel of the House of Representatives, and the Coordinator of Information of the House of Representatives are hereby increased by 7.5 per centum.”
 
  __Increase in Compensation of Officers of Senate and House—1951__ 
 
-[Act Oct. 24, 1951, ch. 554, § 2(e)][/us/act/1951-10-24/ch554/s2/e], [65 Stat. 614][/us/stat/65/614], provided that: 
+[Act Oct. 24, 1951, ch. 554][/us/act/1951-10-24/ch554], § 2(e), [65 Stat. 614][/us/stat/65/614], provided that: 
 
 > “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses), the Parliamentarian of the Senate, the Parliamentarian of the House of Representatives, the legislative counsel of the Senate, the legislative counsel of the House of Representatives, and the Coordinator of Information of the House of Representatives are hereby increased by 10 per centum, except that in no case shall any such rate be increased by less than $300 per annum or by more than $800 per annum.”
 
  __Increase in Compensation of Officers of Senate and House—1949__ 
 
-[Act Oct. 28, 1949, ch. 783][/us/act/1949-10-28/ch783], title I, § 101(d), [63 Stat. 974][/us/stat/63/974], provided that: 
+[Act Oct. 28, 1949, ch. 783, title I][/us/act/1949-10-28/ch783/tI], § 101(d), [63 Stat. 974][/us/stat/63/974], provided that: 
 
 > “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
 
@@ -361,29 +361,29 @@ President pro tempore
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/91/656/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs4
+[/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/stat/84/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1952
-[/us/pl/92/298/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F298%2Fs3%2Fa
+[/us/pl/92/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F298
 [/us/stat/86/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F146
-[/us/pl/92/392/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs14%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F575
-[/us/pl/94/82/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs204%2Fd
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F422
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/91/656/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656%2Fs3%2Fc
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/pl/94/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
@@ -392,7 +392,7 @@ President pro tempore
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs15%2Fa
@@ -421,46 +421,46 @@ President pro tempore
 [/us/usc/t2/s4575/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fa%2F2
 [/us/usc/t2/s4575/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fa%2F2
 [/us/usc/t5/s5533/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533%2Fc%2F1
-[/us/pl/89/504/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs302%2Fg
+[/us/pl/89/504/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2FtIII
 [/us/stat/80/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F295
 [/us/stat/74/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F304
 [/us/pl/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568
-[/us/pl/90/57/s105/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F3
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/pl/89/301/s11/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs11%2Fg
+[/us/pl/89/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301
 [/us/stat/79/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1121
 [/us/stat/74/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F304
 [/us/pl/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568
-[/us/pl/90/57/s105/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F3
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/pl/88/426/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs202%2Ff
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F414
 [/us/usc/t2/s60e–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9311
 [/us/stat/74/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F304
 [/us/pl/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568
-[/us/pl/90/57/s105/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F3
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/pl/87/793/s1005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1005%2Fc
+[/us/pl/87/793/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2FtVI
 [/us/stat/76/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F867
 [/us/stat/74/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F304
 [/us/pl/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568
-[/us/pl/90/57/s105/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F3
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/pl/86/568/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2Fs117%2Fc
+[/us/pl/86/568/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2FtI
 [/us/stat/74/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F303
 [/us/stat/69/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F510
-[/us/pl/90/57/s105/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F3
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/pl/85/462/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs4%2Fc
+[/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/stat/72/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F208
 [/us/stat/69/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F510
-[/us/pl/90/57/s105/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
-[/us/act/1955-06-28/ch189/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189%2Fs4%2Fc
+[/us/act/1955-06-28/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch189
 [/us/stat/69/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F176
-[/us/act/1951-10-24/ch554/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch554%2Fs2%2Fe
+[/us/act/1951-10-24/ch554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch554
 [/us/stat/65/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F614
-[/us/act/1949-10-28/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783
+[/us/act/1949-10-28/ch783/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch783%2FtI
 [/us/stat/63/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F974
 
 

@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 61d–2, [Pub. L. 94–303, title I, § 114][/us/pl/94/303/s114], June 1, 1976, [90 Stat. 614][/us/stat/90/614], authorized a postage allowance for Chaplain of Senate, prior to repeal by [Pub. L. 97–51, § 127(b)(2)][/us/pl/97/51/s127/b/2], Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966].
+    A prior section 61d–2, [Pub. L. 94–303, title I][/us/pl/94/303/tI], § 114, June 1, 1976, [90 Stat. 614][/us/stat/90/614], authorized a postage allowance for Chaplain of Senate, prior to repeal by [Pub. L. 97–51][/us/pl/97/51], § 127(b)(2), Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966].
 
 ----------
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t2/s6653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6653
-[/us/pl/94/303/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2Fs114
+[/us/pl/94/303/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2FtI
 [/us/stat/90/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F614
-[/us/pl/97/51/s127/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs127%2Fb%2F2
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F966
 
 

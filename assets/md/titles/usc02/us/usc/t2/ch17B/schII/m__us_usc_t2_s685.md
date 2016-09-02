@@ -49,11 +49,11 @@
 
         (2) Each report submitted under paragraph (1) shall be printed in the first issue of the Federal Register published after its submission.
 
-([Pub. L. 93–344, title X, § 1014][/us/pl/93/344/s1014], July 12, 1974, [88 Stat. 335][/us/stat/88/335].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1014, July 12, 1974, [88 Stat. 335][/us/stat/88/335].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1404 of Title 31][/us/usc/t31/s1404] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1404 of Title 31][/us/usc/t31/s1404] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Ex. Ord. No. 11845. Delegation of Certain Reporting Functions to Director of Office of Management and Budget__ 
 
@@ -72,10 +72,10 @@
 [/us/usc/t2/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs684
 [/us/usc/t2/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs683
 [/us/usc/t2/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs684
-[/us/pl/93/344/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1014
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F335
 [/us/usc/t31/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1404
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F332

@@ -35,7 +35,7 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
+    [Act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
 [/us/usc/t2/s68a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68a
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 
 

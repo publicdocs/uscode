@@ -75,7 +75,7 @@
 
             For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.
 
-([Pub. L. 99–177, title II, § 258C][/us/pl/99/177/s258C], as added [Pub. L. 101–508, title XIII, § 13101(g)][/us/pl/101/508/s13101/g], Nov. 5, 1990, [104 Stat. 1388–600][/us/stat/104/1388-600].)
+([Pub. L. 99–177, title II][/us/pl/99/177/tII], § 258C, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13101(g), Nov. 5, 1990, [104 Stat. 1388–600][/us/stat/104/1388-600].)
 
 ----------
 
@@ -89,8 +89,8 @@
 [/us/usc/t2/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641%2Fa
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 [/us/usc/t2/s641/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641%2Fd%2F2
-[/us/pl/99/177/s258C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs258C
-[/us/pl/101/508/s13101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fg
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-600
 
 

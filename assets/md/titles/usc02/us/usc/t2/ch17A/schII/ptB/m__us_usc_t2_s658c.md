@@ -73,7 +73,7 @@
 
         If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
 
-([Pub. L. 93–344, title IV, § 424][/us/pl/93/344/s424], as added [Pub. L. 104–4, title I, § 101(a)(2)][/us/pl/104/4/s101/a/2], Mar. 22, 1995, [109 Stat. 55][/us/stat/109/55]; amended [Pub. L. 106–141, § 2(b)][/us/pl/106/141/s2/b], Dec. 7, 1999, [113 Stat. 1699][/us/stat/113/1699].)
+([Pub. L. 93–344, title IV][/us/pl/93/344/tIV], § 424, as added [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 101(a)(2), Mar. 22, 1995, [109 Stat. 55][/us/stat/109/55]; amended [Pub. L. 106–141][/us/pl/106/141], § 2(b), Dec. 7, 1999, [113 Stat. 1699][/us/stat/113/1699].)
 
  __Amendments__ 
 
@@ -90,10 +90,10 @@
 [/us/usc/t2/s658/5/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658%2F5%2FB%2Fi%2FII
 [/us/usc/t2/s658d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658d%2Fa%2F1
 [/us/usc/t2/s658d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs658d%2Fa%2F1
-[/us/pl/93/344/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs424
-[/us/pl/104/4/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs101%2Fa%2F2
+[/us/pl/93/344/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIV
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F55
-[/us/pl/106/141/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F141%2Fs2%2Fb
+[/us/pl/106/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F141
 [/us/stat/113/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1699
 [/us/pl/106/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F141
 

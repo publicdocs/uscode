@@ -35,7 +35,7 @@
 
         In formulating its plan, the Library shall examine issues regarding efficient ways to make this information available to the public. This analysis shall be submitted to the Committees on Appropriations of the Senate and the House of Representatives as well as the Committee on Rules and Administration of the Senate, and the Committee on House Oversight of the House of Representatives for their consideration and possible action.
 
-([Pub. L. 104–53, title II, § 209][/us/pl/104/53/s209], Nov. 19, 1995, [109 Stat. 532][/us/stat/109/532].)
+([Pub. L. 104–53, title II][/us/pl/104/53/tII], § 209, Nov. 19, 1995, [109 Stat. 532][/us/stat/109/532].)
 
  __Change of Name__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/53/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs209
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F532
 
 

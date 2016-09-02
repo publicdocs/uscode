@@ -35,7 +35,7 @@
 
         The Senate may by resolution authorize the reimbursement of any Member, officer, or employee of the Senate who is not represented by the Counsel for fees and costs, including attorneys’ fees, reasonably incurred in obtaining representation. Such reimbursement shall be from funds appropriated to the contingent fund of the Senate.
 
-([Pub. L. 95–521, title VII, § 710][/us/pl/95/521/s710], Oct. 26, 1978, [92 Stat. 1882][/us/stat/92/1882].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 710, Oct. 26, 1978, [92 Stat. 1882][/us/stat/92/1882].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/521/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs710
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1882
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504

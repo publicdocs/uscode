@@ -35,7 +35,7 @@
 
         Vouchers under this section shall be submitted and paid subject to such regulations as may be promulgated by the Committee on Rules and Administration.
 
-([Pub. L. 103–69, title I, § 1][/us/pl/103/69/s1], Aug. 11, 1993, [107 Stat. 695][/us/stat/107/695].)
+([Pub. L. 103–69, title I][/us/pl/103/69/tI], § 1, Aug. 11, 1993, [107 Stat. 695][/us/stat/107/695].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs1
+[/us/pl/103/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtI
 [/us/stat/107/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F695
 [/us/usc/t2/s68–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68%E2%80%938
 

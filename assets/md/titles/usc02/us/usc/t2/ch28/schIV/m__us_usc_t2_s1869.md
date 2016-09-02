@@ -17,7 +17,7 @@
 
     During fiscal year 2008 and each succeeding fiscal year, following notification of the Committees on Appropriations of the House of Representatives and the Senate, the Architect of the Capitol may make payments in advance for obligations of the Office of the Architect of the Capitol for subscription services if the Architect determines it to be more prompt, efficient, or economical to do so.
 
-([Pub. L. 110–161, div. H, title I, § 1304][/us/pl/110/161/s1304], Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242].)
+([Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1304, Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/161/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1304
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2242
 
 

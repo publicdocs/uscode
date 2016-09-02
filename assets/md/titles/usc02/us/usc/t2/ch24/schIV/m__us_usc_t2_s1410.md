@@ -17,7 +17,7 @@
 
     Except as expressly authorized by sections 1407, 1408, and 1409 of this title, the compliance or noncompliance with the provisions of this chapter and any action taken pursuant to this chapter shall not be subject to judicial review.
 
-([Pub. L. 104–1, title IV, § 410][/us/pl/104/1/s410], Jan. 23, 1995, [109 Stat. 37][/us/stat/109/37].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 410, Jan. 23, 1995, [109 Stat. 37][/us/stat/109/37].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs410
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F37
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

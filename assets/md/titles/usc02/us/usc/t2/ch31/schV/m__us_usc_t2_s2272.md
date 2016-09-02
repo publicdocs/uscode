@@ -17,7 +17,7 @@
 
     Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Architect of the Capitol, upon the recommendation of the Chief Executive Officer, may accept and use voluntary and uncompensated services for the Capitol Visitor Center as the Architect of the Capitol determines necessary. No person shall be permitted to donate personal services under this section unless such person has first agreed, in writing, to waive any and all claims against the United States arising out of or connection with such services, other than a claim under the provisions of chapter 81 of title 5. No person donating personal services under this section shall be considered an employee of the United States for any purpose other than for purposes of chapter 81 of such title. In no case shall the acceptance of personal services under this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  result in the reduction of pay or displacement of any employee of the Office of the Architect of the Capitol.
 
-([Pub. L. 110–437, title V, § 503][/us/pl/110/437/s503], Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997].)
+([Pub. L. 110–437, title V][/us/pl/110/437/tV], § 503, Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/110/437/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs503
+[/us/pl/110/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtV
 [/us/stat/122/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4997
 
 

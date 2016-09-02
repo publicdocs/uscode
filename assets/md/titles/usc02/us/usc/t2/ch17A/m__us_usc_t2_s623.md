@@ -31,11 +31,11 @@
 
     (c) Nothing in this section shall preclude studies to improve the budgetary process by any other committee of the House of Representatives or the Senate or any joint committee of the Congress.
 
-([Pub. L. 93–344, title VII, § 703][/us/pl/93/344/s703], July 12, 1974, [88 Stat. 326][/us/stat/88/326].)
+([Pub. L. 93–344, title VII][/us/pl/93/344/tVII], § 703, July 12, 1974, [88 Stat. 326][/us/stat/88/326].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1303 of Title 31][/us/usc/t31/s1303] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1303 of Title 31][/us/usc/t31/s1303] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/93/344/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs703
+[/us/pl/93/344/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtVII
 [/us/stat/88/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F326
 [/us/usc/t31/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1303
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

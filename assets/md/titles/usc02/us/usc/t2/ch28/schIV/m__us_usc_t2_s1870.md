@@ -33,7 +33,7 @@
 
         This section and the amendment made by this section shall apply with respect to fiscal year 2010 and each succeeding fiscal year.
 
-([Pub. L. 111–68, div. A, title I, § 1304][/us/pl/111/68/s1304], Oct. 1, 2009, [123 Stat. 2035][/us/stat/123/2035].)
+([Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1304, Oct. 1, 2009, [123 Stat. 2035][/us/stat/123/2035].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/68/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2035
 [/us/pl/111/68/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304
 [/us/pl/111/68/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304

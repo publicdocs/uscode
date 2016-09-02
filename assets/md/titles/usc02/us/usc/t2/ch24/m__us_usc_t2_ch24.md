@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1222.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
+[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1223 _us_usc_t2_s1224.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
 
 ## CHAPTER 24—CONGRESSIONAL ACCOUNTABILITY
 
@@ -483,7 +483,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1222.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
+[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1223 _us_usc_t2_s1224.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
 
 ----------
 ----------

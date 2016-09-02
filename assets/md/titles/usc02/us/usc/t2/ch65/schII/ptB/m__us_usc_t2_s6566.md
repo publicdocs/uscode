@@ -17,7 +17,7 @@
 
     For the purpose of carrying out his duties under the Federal Election Campaign Act of 1971 \[[52 U.S.C. 30101][/us/usc/t52/s30101] et seq.\], the Secretary of the Senate is authorized, from and after July 1, 1972, (1) to procure technical support services, (2) to procure the temporary or intermittent services of individual technicians, experts, or consultants, or organizations thereof, in the same manner and under the same conditions, to the extent applicable, as a standing committee of the Senate may procure such services under [section 4301(i) of this title][/us/usc/t2/s4301/i], (3) with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration, to use on a reimbursable basis the services of personnel of any such department or agency, and (4) to incur official travel expenses. Payments to carry out the provisions of this paragraph shall be made from funds included in the appropriation “Miscellaneous Items” under the heading “Contingent Expenses of the Senate” upon vouchers approved by the Secretary of the Senate. All sums received by the Secretary under authority of the Federal Election Campaign Act of 1971 shall be covered into the Treasury as miscellaneous receipts.
 
-([Pub. L. 92–342, § 101][/us/pl/92/342/s101], July 10, 1972, [86 Stat. 435][/us/stat/86/435].)
+([Pub. L. 92–342][/us/pl/92/342], § 101, July 10, 1972, [86 Stat. 435][/us/stat/86/435].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/usc/t2/s4301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301%2Fi
-[/us/pl/92/342/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342%2Fs101
+[/us/pl/92/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342
 [/us/stat/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F435
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3

@@ -27,11 +27,11 @@
 
  __Codification__ 
 
-    Section was classified to section 174b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 174b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Acquisition of Property for Use as Residential Facility for United States Senate Pages__ 
 
-[Pub. L. 102–330, § 1][/us/pl/102/330/s1], Aug. 3, 1992, [106 Stat. 849][/us/stat/106/849], as amended by [Pub. L. 103–50][/us/pl/103/50], ch. XII, § 1202, July 2, 1993, [107 Stat. 267][/us/stat/107/267], provided that:
+[Pub. L. 102–330][/us/pl/102/330], § 1, Aug. 3, 1992, [106 Stat. 849][/us/stat/106/849], as amended by [Pub. L. 103–50][/us/pl/103/50], ch. XII, § 1202, July 2, 1993, [107 Stat. 267][/us/stat/107/267], provided that:
 
 >     “(a)  __Acquisition of Property__  __.—__ 
 
@@ -61,7 +61,7 @@
 
  __Authorization of Architect of Capitol To Lease City Post Office Building for Use by Senate and for Other Purposes__ 
 
-[Pub. L. 111–310, § 1][/us/pl/111/310/s1], Dec. 15, 2010, [124 Stat. 3293][/us/stat/124/3293], provided that:
+[Pub. L. 111–310][/us/pl/111/310], § 1, Dec. 15, 2010, [124 Stat. 3293][/us/stat/124/3293], provided that:
 
 >     “(a)  __Designation__  __.—__ 
 
@@ -71,7 +71,7 @@
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the ‘Dorothy I. Height Post Office’.”
 
-[Pub. L. 101–520, title I, § 107][/us/pl/101/520/s107], Nov. 5, 1990, [104 Stat. 2267][/us/stat/104/2267], provided that:
+[Pub. L. 101–520, title I][/us/pl/101/520/tI], § 107, Nov. 5, 1990, [104 Stat. 2267][/us/stat/104/2267], provided that:
 
 >     “(a) Notwithstanding any other provision of law, the Architect of the Capitol, subject to the approval of the Committee on Rules and Administration, is authorized to lease, for use by the United States Senate, and for such other purposes as such committee may approve, 150,000 square feet of space, more or less, in the property located at 2 Massachusetts Avenue, N.E., Washington, District of Columbia, known as the City Post Office Building: Provided, That rental payments shall be paid from the account ‘Architect of the Capitol, Senate Office Buildings’ upon vouchers approved by the Architect of the Capitol: Provided further, That nothing in this section shall be construed so as to obligate the Senate or any of its Members, officers, or employees to enter into any such lease or to imply any obligation to enter into any such lease.
 
@@ -85,7 +85,7 @@
 
  __North Capitol Plaza Building; Continuation of Authority for Lease and Sublease of Property; Leased Property As Part of Senate Office Buildings; Rent Limitations; Necessity of Senate Resolution; Term of Lease; Purchase Option__ 
 
-[Pub. L. 94–157, title I, § 112][/us/pl/94/157/s112], Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 94–157, title I][/us/pl/94/157/tI], § 112, Dec. 18, 1975, [89 Stat. 832][/us/stat/89/832], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 >     “(a) Notwithstanding any other provision of law, the Sergeant at Arms of the Senate, subject to the approval of the Committee on Rules and Administration, and the Committee on Appropriations, is authorized to lease, for use by the United States Senate, and for such other purposes as such committees may approve, all or any part of the property located at 400 North Capitol Street, Washington, District of Columbia, known as the ‘North Capitol Plaza Building’: Provided, That rental payments under such lease for the entire property shall not exceed $3,375,000 per annum, exclusive of amounts for reimbursement for taxes paid and utilities furnished by the lessor: Provided further, That a lease shall not become effective until approved by Senate Resolution. Prior to such approval process the Government Accountability Office shall examine the terms of the proposed lease and shall report to the Senate on its reasonableness, taking into account such factors as rental rates for similar space, advantages of proximity, and possible alternative arrangements. Such payments shall be paid from the Contingent Fund of the Senate upon vouchers approved by the Sergeant at Arms: Provided further, That such lease may be for a term not in excess of five years, and shall contain an option to purchase such property, and shall include such other terms and conditions as such committees may determine to be in the best interests of the Government: Provided further, That nothing in this section shall be construed so as to obligate the Senate or any of its Members, officers, or employees to enter into any such lease or to imply any obligation to enter into any such lease.
 
@@ -103,7 +103,7 @@
 
  __Acquisition of Property as Site for Parking Facilities for Senate__ 
 
-    [Pub. L. 92–607][/us/pl/92/607], ch. V, Oct. 31, 1972, [86 Stat. 1510][/us/stat/86/1510], as amended by [Pub. L. 93–305, title I][/us/pl/93/305], ch. VIII, § 801, June 8, 1974, [88 Stat. 206][/us/stat/88/206], authorized the Architect of the Capitol to acquire certain real property as a site for parking facilities for the Senate, with such property to become a part of the United States Capitol Grounds upon acquisition.
+    [Pub. L. 92–607][/us/pl/92/607], ch. V, Oct. 31, 1972, [86 Stat. 1510][/us/stat/86/1510], as amended by [Pub. L. 93–305, title I][/us/pl/93/305/tI], ch. VIII, § 801, June 8, 1974, [88 Stat. 206][/us/stat/88/206], authorized the Architect of the Capitol to acquire certain real property as a site for parking facilities for the Senate, with such property to become a part of the United States Capitol Grounds upon acquisition.
 
  __Acquisition of Property To Extend Additional Senate Office Building Site__ 
 
@@ -129,9 +129,9 @@
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/act/1942-06-08/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-08%2Fch396
 [/us/stat/56/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F330
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/102/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F330%2Fs1
+[/us/pl/102/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F330
 [/us/stat/106/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F849
 [/us/pl/103/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F50
 [/us/stat/107/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F267
@@ -141,13 +141,13 @@
 [/us/usc/t40/s174c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs174c
 [/us/usc/t2/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2023
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/310/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F310%2Fs1
+[/us/pl/111/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F310
 [/us/stat/124/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3293
-[/us/pl/101/520/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs107
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2267
-[/us/pl/94/157/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2Fs112
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F832
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1510
@@ -156,7 +156,7 @@
 [/us/usc/t2/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2023
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1510
-[/us/pl/93/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F305
+[/us/pl/93/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F305%2FtI
 [/us/stat/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F206
 [/us/pl/85/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F429
 [/us/stat/72/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F148

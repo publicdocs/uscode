@@ -27,7 +27,7 @@
 
     (b) The Attorney General shall notify Counsel as required by [section 530D of title 28][/us/usc/t28/s530D].
 
-([Pub. L. 95–521, title VII, § 712][/us/pl/95/521/s712], Oct. 26, 1978, [92 Stat. 1883][/us/stat/92/1883]; [Pub. L. 107–273, div. A, title II, § 202(b)(2)][/us/pl/107/273/s202/b/2], Nov. 2, 2002, [116 Stat. 1774][/us/stat/116/1774]; [Pub. L. 108–7, div. H, title I, § 110(b)][/us/pl/108/7/s110/b], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 712, Oct. 26, 1978, [92 Stat. 1883][/us/stat/92/1883]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 202(b)(2), Nov. 2, 2002, [116 Stat. 1774][/us/stat/116/1774]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 110(b), Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 [/us/usc/t2/s288c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288c%2Fa
 [/us/usc/t2/s288c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288c%2Fa
 [/us/usc/t28/s530D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530D
-[/us/pl/95/521/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs712
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1883
-[/us/pl/107/273/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs202%2Fb%2F2
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1774
-[/us/pl/108/7/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs110%2Fb
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F355
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/usc/t28/s530D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs530D

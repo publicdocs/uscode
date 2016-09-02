@@ -31,7 +31,7 @@
 
         Subsection (a) shall take effect on January 23, 2004, and shall apply during any fiscal year occurring on or after January 23, 2004.
 
-([Pub. L. 108–199, div. H, § 151][/us/pl/108/199/s151], Jan. 23, 2004, [118 Stat. 448][/us/stat/118/448].)
+([Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 151, Jan. 23, 2004, [118 Stat. 448][/us/stat/118/448].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t40/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5101
 [/us/usc/t40/s5102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102%2Fa
-[/us/pl/108/199/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs151
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F448
 [/us/usc/t2/s121g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121g
 

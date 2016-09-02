@@ -35,7 +35,7 @@
 
         Any determination under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (a) shall not be appealable or reviewable in any manner.
 
-([Pub. L. 108–7, div. H, title I, § 1011][/us/pl/108/7/s1011], Feb. 20, 2003, [117 Stat. 360][/us/stat/117/360].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1011, Feb. 20, 2003, [117 Stat. 360][/us/stat/117/360].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1011
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F360
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7

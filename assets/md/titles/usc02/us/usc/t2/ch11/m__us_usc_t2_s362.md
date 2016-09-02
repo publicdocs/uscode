@@ -33,7 +33,7 @@
 
         (B) Nothing in this section shall be considered to require that the rate recommended for any office or position by the President under [section 358 of this title][/us/usc/t2/s358] be the same as the rate recommended for such office or position by the Commission under [section 357 of this title][/us/usc/t2/s357].
 
-([Pub. L. 90–206, title II, § 225][/us/pl/90/206/s225](l), as added [Pub. L. 101–194, title VII, § 701(i)][/us/pl/101/194/s701/i], Nov. 30, 1989, [103 Stat. 1766][/us/stat/103/1766].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(l), as added [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(i), Nov. 30, 1989, [103 Stat. 1766][/us/stat/103/1766].)
 
 ----------
 
@@ -49,8 +49,8 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs357
-[/us/pl/90/206/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225
-[/us/pl/101/194/s701/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fi
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1766
 
 

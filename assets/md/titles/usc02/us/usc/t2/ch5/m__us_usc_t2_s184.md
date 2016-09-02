@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2006 and each fiscal year thereafter.
 
-([Pub. L. 109–55, title I, § 1306][/us/pl/109/55/s1306], Aug. 2, 2005, [119 Stat. 583][/us/stat/119/583].)
+([Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1306, Aug. 2, 2005, [119 Stat. 583][/us/stat/119/583].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/55/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1306
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F583
 
 

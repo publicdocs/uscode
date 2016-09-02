@@ -23,7 +23,7 @@
 
         This section shall apply with respect to fiscal year 2010, and each fiscal year thereafter.
 
-([Pub. L. 111–68, div. A, title I, § 1301][/us/pl/111/68/s1301], Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034].)
+([Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1301, Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/68/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1301
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2034
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 

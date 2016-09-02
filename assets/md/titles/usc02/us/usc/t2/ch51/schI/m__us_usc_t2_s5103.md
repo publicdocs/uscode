@@ -27,7 +27,7 @@
 
     (5) the Minority Whip, $55,000.
 
-([Pub. L. 91–510, title IV, § 473][/us/pl/91/510/s473], Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 473, Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/91/510/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs473
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1194
 [/us/usc/t2/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs333
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1

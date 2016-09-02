@@ -17,7 +17,7 @@
 
     In the event of the death of the contestant, the contested election case shall abate.
 
-([Pub. L. 91–138, § 16][/us/pl/91/138/s16], Dec. 5, 1969, [83 Stat. 290][/us/stat/83/290].)
+([Pub. L. 91–138][/us/pl/91/138], § 16, Dec. 5, 1969, [83 Stat. 290][/us/stat/83/290].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs16
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F290
 
 

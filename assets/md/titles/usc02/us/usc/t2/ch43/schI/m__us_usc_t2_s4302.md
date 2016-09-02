@@ -17,7 +17,7 @@
 
     The per annum rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall be the same as the per annum rate of compensation of the Legislative Counsel of the House of Representatives.
 
-([Pub. L. 90–206, title II, § 214(e)][/us/pl/90/206/s214/e], Dec. 16, 1967, [81 Stat. 636][/us/stat/81/636]; [Pub. L. 103–437, § 2(a)][/us/pl/103/437/s2/a], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 214(e), Dec. 16, 1967, [81 Stat. 636][/us/stat/81/636]; [Pub. L. 103–437][/us/pl/103/437], § 2(a), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581].)
 
  __Codification__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/90/206/s214/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214%2Fe
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F636
-[/us/pl/103/437/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs2%2Fa
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
 [/us/usc/t2/s74a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%932
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

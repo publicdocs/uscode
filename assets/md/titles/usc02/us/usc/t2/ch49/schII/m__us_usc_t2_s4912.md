@@ -43,7 +43,7 @@
 
         As used in sections 4911 to 4913 of this title, the term “Member of the House” means a Representative in, and a Delegate or Resident Commissioner to, the Congress.
 
-([Pub. L. 97–377, title I, § 127][/us/pl/97/377/s127], Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914]; [Pub. L. 104–186, title II, § 204(37)][/us/pl/104/186/s204/37], Aug. 20, 1996, [110 Stat. 1735][/us/stat/110/1735]; [Pub. L. 105–275, title I, § 101(a)][/us/pl/105/275/s101/a], Oct. 21, 1998, [112 Stat. 2438][/us/stat/112/2438]; [Pub. L. 110–2, § 2][/us/pl/110/2/s2], Feb. 2, 2007, [121 Stat. 4][/us/stat/121/4].)
+([Pub. L. 97–377, title I][/us/pl/97/377/tI], § 127, Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(37), Aug. 20, 1996, [110 Stat. 1735][/us/stat/110/1735]; [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 101(a), Oct. 21, 1998, [112 Stat. 2438][/us/stat/112/2438]; [Pub. L. 110–2][/us/pl/110/2], § 2, Feb. 2, 2007, [121 Stat. 4][/us/stat/121/4].)
 
  __Codification__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–2, § 2(a)(1)][/us/pl/110/2/s2/a/1], substituted “and two Members” for “and one Member”.
+    2007—Subsec. (a)(1). [Pub. L. 110–2][/us/pl/110/2], § 2(a)(1), substituted “and two Members” for “and one Member”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 110–2, § 2(a)(2)][/us/pl/110/2/s2/a/2]–(4), added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (a)(2) to (4). [Pub. L. 110–2][/us/pl/110/2], § 2(a)(2)–(4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-    Subsecs. (b), (c). [Pub. L. 110–2, § 2(b)][/us/pl/110/2/s2/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 110–2][/us/pl/110/2], § 2(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1998—Subsec. (a)(3). [Pub. L. 105–275][/us/pl/105/275] inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–275, title I, § 101(b)][/us/pl/105/275/s101/b], Oct. 21, 1998, [112 Stat. 2438][/us/stat/112/2438], provided that: 
+[Pub. L. 105–275, title I][/us/pl/105/275/tI], § 101(b), Oct. 21, 1998, [112 Stat. 2438][/us/stat/112/2438], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the One Hundred Sixth Congress and each succeeding Congress.”
 
@@ -80,25 +80,25 @@
 ----------
 ----------
 
-[/us/pl/97/377/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs127
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1914
-[/us/pl/104/186/s204/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F37
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1735
-[/us/pl/105/275/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs101%2Fa
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2438
-[/us/pl/110/2/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs2
+[/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
 [/us/stat/121/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F4
 [/us/usc/t2/s88b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%933
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
-[/us/pl/110/2/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs2%2Fa%2F1
-[/us/pl/110/2/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs2%2Fa%2F2
-[/us/pl/110/2/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs2%2Fb
+[/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
+[/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
+[/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
 [/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
 [/us/pl/110/2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs4
 [/us/usc/t2/s4911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4911
-[/us/pl/105/275/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs101%2Fb
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2438
 
 

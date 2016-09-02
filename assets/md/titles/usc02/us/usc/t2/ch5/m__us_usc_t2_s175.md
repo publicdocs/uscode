@@ -23,7 +23,7 @@
 
     (3) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 95–129, § 5][/us/pl/95/129/s5], Oct. 13, 1977, [91 Stat. 1152][/us/stat/91/1152].)
+([Pub. L. 95–129][/us/pl/95/129], § 5, Oct. 13, 1977, [91 Stat. 1152][/us/stat/91/1152].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/95/129/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F129%2Fs5
+[/us/pl/95/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F129
 [/us/stat/91/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1152
 
 

@@ -23,7 +23,7 @@
 
         (2) The term “Leader’s Expense Allowance”, when used in reference to the Majority or Minority Leader of the Senate, refers to the moneys available, for any fiscal year, to such Leader as an expense allowance and the appropriation account from which such moneys are funded.
 
-([Pub. L. 100–71, title I, § 1][/us/pl/100/71/s1], July 11, 1987, [101 Stat. 422][/us/stat/101/422].)
+([Pub. L. 100–71, title I][/us/pl/100/71/tI], § 1, July 11, 1987, [101 Stat. 422][/us/stat/101/422].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t2/s6135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6135
-[/us/pl/100/71/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs1
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F422
 [/us/usc/t2/s31a–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a%E2%80%932a
 

@@ -61,7 +61,7 @@
 
         (2) “head of the employing office” means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
 
-([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 6\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–97.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 6\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–97.)
 
  __Codification__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

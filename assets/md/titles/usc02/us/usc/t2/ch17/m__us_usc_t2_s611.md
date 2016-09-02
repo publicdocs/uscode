@@ -23,7 +23,7 @@
 
         This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-([Pub. L. 108–7, div. H, title I, § 1101][/us/pl/108/7/s1101], Feb. 20, 2003, [117 Stat. 370][/us/stat/117/370].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1101, Feb. 20, 2003, [117 Stat. 370][/us/stat/117/370].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Executive Exchange Program for the Congressional Budget Office__ 
 
-    [Pub. L. 110–161, div. H, title I, § 1201][/us/pl/110/161/s1201], Dec. 26, 2007, [121 Stat. 2238][/us/stat/121/2238], as amended by [Pub. L. 111–68, div. A, title I, § 1201][/us/pl/111/68/s1201], Oct. 1, 2009, [123 Stat. 2032][/us/stat/123/2032], which established an executive exchange program and was formerly set out as a note under this section, was transferred to [section 612 of this title][/us/usc/t2/s612].
+    [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1201, Dec. 26, 2007, [121 Stat. 2238][/us/stat/121/2238], as amended by [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1201, Oct. 1, 2009, [123 Stat. 2032][/us/stat/123/2032], which established an executive exchange program and was formerly set out as a note under this section, was transferred to [section 612 of this title][/us/usc/t2/s612].
 
 ----------
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t5/s3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396
-[/us/pl/108/7/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1101
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F370
-[/us/pl/110/161/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1201
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2238
-[/us/pl/111/68/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1201
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2032
 [/us/usc/t2/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs612
 

@@ -41,7 +41,7 @@
 
             The Director of Accessibility Services may not impose a period of probation with respect to the transfer of any individual who is transferred to the Office of Congressional Accessibility Services under subsection (a).
 
-([Pub. L. 110–437, title IV, § 412][/us/pl/110/437/s412], Oct. 20, 2008, [122 Stat. 4995][/us/stat/122/4995].)
+([Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 412, Oct. 20, 2008, [122 Stat. 4995][/us/stat/122/4995].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t2/s2172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2172%2Fa
 [/us/usc/t2/s2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2251
 [/us/usc/t5/s8414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8414%2Fb
-[/us/pl/110/437/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs412
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4995
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4990

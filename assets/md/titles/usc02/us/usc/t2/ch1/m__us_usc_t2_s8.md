@@ -95,7 +95,7 @@
 
             (G) The Help America Vote Act of 2002 ([42 U.S.C. 15301][/us/usc/t42/s15301] et seq.) \[now [52 U.S.C. 20901][/us/usc/t52/s20901] et seq.\], as amended.
 
-(R.S. § 26; [Pub. L. 109–55, title III, § 301][/us/pl/109/55/s301], Aug. 2, 2005, [119 Stat. 588][/us/stat/119/588].)
+(R.S. § 26; [Pub. L. 109–55, title III][/us/pl/109/55/tIII], § 301, Aug. 2, 2005, [119 Stat. 588][/us/stat/119/588].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
  __Codification__ 
 
-    R.S. § 26 derived from [act Feb. 2, 1872, ch. 11, § 4][/us/act/1872-02-02/ch11/s4], [17 Stat. 28][/us/stat/17/28].
+    R.S. § 26 derived from [act Feb. 2, 1872, ch. 11][/us/act/1872-02-02/ch11], § 4, [17 Stat. 28][/us/stat/17/28].
 
  __Amendments__ 
 
@@ -146,7 +146,7 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t42/s15301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15301
 [/us/usc/t52/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20901
-[/us/pl/109/55/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs301
+[/us/pl/109/55/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtIII
 [/us/stat/119/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F588
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
@@ -164,7 +164,7 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/stat/116/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1666
-[/us/act/1872-02-02/ch11/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-02-02%2Fch11%2Fs4
+[/us/act/1872-02-02/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-02-02%2Fch11
 [/us/stat/17/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F28
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
 

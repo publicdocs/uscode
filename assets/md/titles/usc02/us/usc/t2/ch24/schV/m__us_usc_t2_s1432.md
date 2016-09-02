@@ -49,7 +49,7 @@
 
         (5) an applicant for a position that is to be occupied by an individual described in any of paragraphs (1) through (4).
 
-([Pub. L. 104–1, title V, § 502][/us/pl/104/1/s502], Jan. 23, 1995, [109 Stat. 39][/us/stat/109/39].)
+([Pub. L. 104–1, title V][/us/pl/104/1/tV], § 502, Jan. 23, 1995, [109 Stat. 39][/us/stat/109/39].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t2/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1311
-[/us/pl/104/1/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs502
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F39
 
 

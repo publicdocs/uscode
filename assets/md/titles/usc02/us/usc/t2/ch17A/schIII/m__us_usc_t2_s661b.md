@@ -39,11 +39,11 @@
 
         The Director and the Director of the Congressional Budget Office shall each analyze and report to Congress on differences in long-term administrative costs for credit programs versus grant programs by January 31, 1992. Their reports shall recommend to Congress any changes, if necessary, in the treatment of administrative costs under credit reform accounting.
 
-([Pub. L. 93–344, title V, § 503][/us/pl/93/344/s503], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–611][/us/stat/104/1388-611].)
+([Pub. L. 93–344, title V][/us/pl/93/344/tV], § 503, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–611][/us/stat/104/1388-611].)
 
  __Prior Provisions__ 
 
-    A prior [section 503 of Pub. L. 93–344][/us/pl/93/344/s503], title V, July 12, 1974, [88 Stat. 321][/us/stat/88/321], was classified to section 701 of former Title 31, prior to repeal and reenactment in [section 1552(a) of Title 31][/us/usc/t31/s1552/a], Money and Finance, by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31.
+    A prior [section 503 of Pub. L. 93–344][/us/pl/93/344/s503], title V, July 12, 1974, [88 Stat. 321][/us/stat/88/321], was classified to section 701 of former Title 31, prior to repeal and reenactment in [section 1552(a) of Title 31][/us/usc/t31/s1552/a], Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], the first section of which enacted Title 31.
 
 ----------
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/93/344/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs503
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/93/344/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtV
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-611
 [/us/pl/93/344/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs503
 [/us/stat/88/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F321
 [/us/usc/t31/s1552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1552%2Fa
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 
 

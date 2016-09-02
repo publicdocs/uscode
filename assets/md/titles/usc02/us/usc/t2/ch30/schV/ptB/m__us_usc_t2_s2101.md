@@ -31,27 +31,27 @@
 
         The Commission shall be empowered to hold hearings, summon witnesses, administer oaths, employ reporters, request the production of papers and records, take such testimony, and adopt such rules for the conduct of its hearings and meetings, as it deems necessary.
 
-([Pub. L. 100–696, title IX, § 901(a)][/us/pl/100/696/s901/a], (b)(1), (3), Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610], 4611; [Pub. L. 108–83, title I, § 3(d)(1)][/us/pl/108/83/s3/d/1], Sept. 30, 2003, [117 Stat. 1012][/us/stat/117/1012].)
+([Pub. L. 100–696, title IX][/us/pl/100/696/tIX], § 901(a), (b)(1), (3), Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610], 4611; [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 3(d)(1), Sept. 30, 2003, [117 Stat. 1012][/us/stat/117/1012].)
 
  __Codification__ 
 
-    Section was classified to section 188b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is based on section 1 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law and amended by [Pub. L. 100–696][/us/pl/100/696].
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–83, § 3(d)(1)(A)][/us/pl/108/83/s3/d/1/A], substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
+    2003—Subsec. (b). [Pub. L. 108–83][/us/pl/108/83], § 3(d)(1)(A), substituted “The Majority Leader and Minority Leader of the Senate shall be the chairman and vice chairman, respectively, of the Commission.” for “The Commission shall elect a Chairman and a Vice Chairman at the beginning of each Congress.”
 
-    Subsec. (c). [Pub. L. 108–83, § 3(d)(1)(B)][/us/pl/108/83/s3/d/1/B], added subsec. (c) and struck out former subsec. (c) which read as follows: “The Commission shall select a Curator of Art and Antiquities of the Senate who shall be appointed by and be an employee of the Secretary of the Senate. The Curator shall serve at the pleasure of the Commission, shall perform such duties as it may prescribe, and shall receive compensation at a gross rate, not to exceed $22,089 per annum to be fixed by the Commission. At the request of the Commission the Secretary of the Senate shall detail to the Commission such additional professional, clerical, and other assistants as, from time to time, it deems necessary.”
+    Subsec. (c). [Pub. L. 108–83][/us/pl/108/83], § 3(d)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Commission shall select a Curator of Art and Antiquities of the Senate who shall be appointed by and be an employee of the Secretary of the Senate. The Curator shall serve at the pleasure of the Commission, shall perform such duties as it may prescribe, and shall receive compensation at a gross rate, not to exceed $22,089 per annum to be fixed by the Commission. At the request of the Commission the Secretary of the Senate shall detail to the Commission such additional professional, clerical, and other assistants as, from time to time, it deems necessary.”
 
-    1988—Subsec. (a). [Pub. L. 100–696, § 901(b)(3)][/us/pl/100/696/s901/b/3], substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
+    1988—Subsec. (a). [Pub. L. 100–696][/us/pl/100/696], § 901(b)(3), substituted “Senate Commission on Art” for “Commission on Art and Antiquities of the United States Senate”.
 
-    Subsec. (b). [Pub. L. 100–696, § 901(b)(1)][/us/pl/100/696/s901/b/1], inserted “The Secretary of the Senate shall be the Executive Secretary of the Commission”.
+    Subsec. (b). [Pub. L. 100–696][/us/pl/100/696], § 901(b)(1), inserted “The Secretary of the Senate shall be the Executive Secretary of the Commission”.
 
  __Senate Rulemaking Power__ 
 
-[Pub. L. 100–696, title IX, § 901(d)][/us/pl/100/696/s901/d], Nov. 18, 1988, [102 Stat. 4611][/us/stat/102/4611], provided that: 
+[Pub. L. 100–696, title IX][/us/pl/100/696/tIX], § 901(d), Nov. 18, 1988, [102 Stat. 4611][/us/stat/102/4611], provided that: 
 
 > “The provisions of this section \[enacting sections 2101 to 2106 of this title and amending sections 2101, 2102, and 2106 of this title\] are enacted by the Congress—
 
@@ -70,18 +70,18 @@
 ----------
 ----------
 
-[/us/pl/100/696/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs901%2Fa
+[/us/pl/100/696/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtIX
 [/us/stat/102/4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4610
-[/us/pl/108/83/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs3%2Fd%2F1
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1012
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696
-[/us/pl/108/83/s3/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs3%2Fd%2F1%2FA
-[/us/pl/108/83/s3/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs3%2Fd%2F1%2FB
-[/us/pl/100/696/s901/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs901%2Fb%2F3
-[/us/pl/100/696/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs901%2Fb%2F1
-[/us/pl/100/696/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs901%2Fd
+[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696
+[/us/pl/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696
+[/us/pl/100/696/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtIX
 [/us/stat/102/4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4611
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571

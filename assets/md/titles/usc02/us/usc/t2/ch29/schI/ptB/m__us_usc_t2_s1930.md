@@ -23,7 +23,7 @@
 
         This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-([Pub. L. 108–7, div. H, title I, § 1008][/us/pl/108/7/s1008], Feb. 20, 2003, [117 Stat. 359][/us/stat/117/359].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1008, Feb. 20, 2003, [117 Stat. 359][/us/stat/117/359].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1008
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F359
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

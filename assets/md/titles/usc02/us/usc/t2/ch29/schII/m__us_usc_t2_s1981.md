@@ -17,7 +17,7 @@
 
     During fiscal year 2008 and each succeeding fiscal year, following notification of the Committees on Appropriations of the House of Representatives and the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  the Chief of the Capitol Police may make payments in advance for obligations of the United States Capitol Police for subscription services if the Chief determines it to be more prompt, efficient, or economical to do so.
 
-([Pub. L. 110–161, div. H, title I, § 1002][/us/pl/110/161/s1002], Dec. 26, 2007, [121 Stat. 2227][/us/stat/121/2227]; [Pub. L. 111–145, § 2(d)(1)][/us/pl/111/145/s2/d/1], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
+([Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1002, Dec. 26, 2007, [121 Stat. 2227][/us/stat/121/2227]; [Pub. L. 111–145][/us/pl/111/145], § 2(d)(1), Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 2(d)(2)][/us/pl/111/145/s2/d/2], Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 2(d)(2), Mar. 4, 2010, [124 Stat. 51][/us/stat/124/51], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Mar. 4, 2010\] and apply to payments made on or after that effective date.”
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/110/161/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1002
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2227
-[/us/pl/111/145/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/111/145/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fd%2F2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F51
 
 

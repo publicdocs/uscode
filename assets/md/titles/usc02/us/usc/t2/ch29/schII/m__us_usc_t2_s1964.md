@@ -47,11 +47,11 @@
 
         (3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
 
-([Pub. L. 104–53, title III, § 308][/us/pl/104/53/s308], Nov. 19, 1995, [109 Stat. 537][/us/stat/109/537].)
+([Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 308, Nov. 19, 1995, [109 Stat. 537][/us/stat/109/537].)
 
  __References in Text__ 
 
-    The paragraph under the heading “capitol buildings”, under the general headings “JOINT ITEMS”, “ARCHITECT OF THE CAPITOL”, and “Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in [Pub. L. 103–283, title I][/us/pl/103/283], July 22, 1994, [108 Stat. 1423][/us/stat/108/1423], 1434, and is not classified to the Code.
+    The paragraph under the heading “capitol buildings”, under the general headings “JOINT ITEMS”, “ARCHITECT OF THE CAPITOL”, and “Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in [Pub. L. 103–283, title I][/us/pl/103/283/tI], July 22, 1994, [108 Stat. 1423][/us/stat/108/1423], 1434, and is not classified to the Code.
 
     This Act, referred to in subsec. (a)(2)(A), is [Pub. L. 104–53][/us/pl/104/53], Nov. 19, 1995, [109 Stat. 514][/us/stat/109/514], known as the Legislative Branch Appropriations Act, 1996. Provisions under such headings in this Act appear at [109 Stat. 527][/us/stat/109/527], and are not classified to the Code.
 
@@ -59,9 +59,9 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 212a–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Change of Name__ 
 
@@ -77,9 +77,9 @@
 [/us/stat/108/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1434
 [/us/stat/102/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2165
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/104/53/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs308
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F537
-[/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
+[/us/pl/103/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtI
 [/us/stat/108/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1423
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/stat/109/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F514
@@ -88,9 +88,9 @@
 [/us/stat/102/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2165
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

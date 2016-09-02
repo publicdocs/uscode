@@ -103,7 +103,7 @@
 
         If the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) after the Senate has disposed of a Senate originated joint resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
-([Pub. L. 99–177, title II, § 258B][/us/pl/99/177/s258B], as added [Pub. L. 101–508, title XIII, § 13101(g)][/us/pl/101/508/s13101/g], Nov. 5, 1990, [104 Stat. 1388–597][/us/stat/104/1388-597].)
+([Pub. L. 99–177, title II][/us/pl/99/177/tII], § 258B, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13101(g), Nov. 5, 1990, [104 Stat. 1388–597][/us/stat/104/1388-597].)
 
  __References in Text__ 
 
@@ -125,8 +125,8 @@
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 [/us/usc/t2/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs631
 [/us/usc/t2/s633/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs633%2Fc
-[/us/pl/99/177/s258B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs258B
-[/us/pl/101/508/s13101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fg
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-597
 [/us/pl/99/177/s258B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs258B
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344

@@ -45,13 +45,13 @@
 
         Any gift accepted by the Architect of the Capitol under this section shall be considered a gift to the United States for purposes of income, estate, and gift tax laws of the United States.
 
-([Pub. L. 100–458, title III, § 307E][/us/pl/100/458/s307E], Oct. 1, 1988, [102 Stat. 2183][/us/stat/102/2183]; [Pub. L. 102–229, title II, § 209(a)][/us/pl/102/229/s209/a], Dec. 12, 1991, [105 Stat. 1716][/us/stat/105/1716]; [Pub. L. 104–53, title II, § 201(b)][/us/pl/104/53/s201/b], Nov. 19, 1995, [109 Stat. 529][/us/stat/109/529]; [Pub. L. 105–275, title II, § 201][/us/pl/105/275/s201], Oct. 21, 1998, [112 Stat. 2445][/us/stat/112/2445].)
+([Pub. L. 100–458, title III][/us/pl/100/458/tIII], § 307E, Oct. 1, 1988, [102 Stat. 2183][/us/stat/102/2183]; [Pub. L. 102–229, title II][/us/pl/102/229/tII], § 209(a), Dec. 12, 1991, [105 Stat. 1716][/us/stat/105/1716]; [Pub. L. 104–53, title II][/us/pl/104/53/tII], § 201(b), Nov. 19, 1995, [109 Stat. 529][/us/stat/109/529]; [Pub. L. 105–275, title II][/us/pl/105/275/tII], § 201, Oct. 21, 1998, [112 Stat. 2445][/us/stat/112/2445].)
 
  __Codification__ 
 
-    In subsec. (b)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(3), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    Section was classified to section 216c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 216c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Funds Available for Constructing, Equipping, and Maintaining National Garden__ 
 
-[Pub. L. 102–392, title II, § 201][/us/pl/102/392/s201], Oct. 6, 1992, [106 Stat. 1716][/us/stat/106/1716], as amended by [Pub. L. 104–53, title II, § 201(a)][/us/pl/104/53/s201/a], Nov. 19, 1995, [109 Stat. 529][/us/stat/109/529]; [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title III, § 312\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–120; [Pub. L. 107–68, title I, § 135][/us/pl/107/68/s135], Nov. 12, 2001, [115 Stat. 583][/us/stat/115/583], provided that:
+[Pub. L. 102–392, title II][/us/pl/102/392/tII], § 201, Oct. 6, 1992, [106 Stat. 1716][/us/stat/106/1716], as amended by [Pub. L. 104–53, title II][/us/pl/104/53/tII], § 201(a), Nov. 19, 1995, [109 Stat. 529][/us/stat/109/529]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title III, § 312\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–120; [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 135, Nov. 12, 2001, [115 Stat. 583][/us/stat/115/583], provided that:
 
 >     “(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 ([40 U.S.C. 216c][/us/usc/t40/s216c]) \[now [2 U.S.C. 2146][/us/usc/t2/s2146]\], not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
 
@@ -75,7 +75,7 @@
 
  __Renovation of Conservatory of Botanic Garden__ 
 
-[Pub. L. 102–229, title II, § 209(b)][/us/pl/102/229/s209/b], Dec. 12, 1991, [105 Stat. 1717][/us/stat/105/1717], provided that: 
+[Pub. L. 102–229, title II][/us/pl/102/229/tII], § 209(b), Dec. 12, 1991, [105 Stat. 1717][/us/stat/105/1717], provided that: 
 
 > “Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 \[[2 U.S.C. 2146][/us/usc/t2/s2146]\], not more than $2,000,000 shall be accepted and not more than $2,000,000 of the amounts accepted shall be available for obligation by the Architect for preparation of working drawings, specifications, and cost estimates for renovation of the Conservatory of the Botanic Garden.”
 
@@ -87,29 +87,29 @@
 ----------
 
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/100/458/s307E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs307E
+[/us/pl/100/458/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtIII
 [/us/stat/102/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2183
-[/us/pl/102/229/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs209%2Fa
+[/us/pl/102/229/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2FtII
 [/us/stat/105/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1716
-[/us/pl/104/53/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs201%2Fb
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F529
-[/us/pl/105/275/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs201
+[/us/pl/105/275/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtII
 [/us/stat/112/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2445
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
-[/us/pl/102/392/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs201
+[/us/pl/102/392/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtII
 [/us/stat/106/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1716
-[/us/pl/104/53/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs201%2Fa
+[/us/pl/104/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtII
 [/us/stat/109/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F529
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/68/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs135
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F583
 [/us/usc/t40/s216c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs216c
 [/us/usc/t2/s2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2146
@@ -117,7 +117,7 @@
 [/us/usc/t2/s2146/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2146%2Fa%2F2
 [/us/usc/t40/s216c/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs216c%2Fb%2F3
 [/us/usc/t2/s2146/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2146%2Fb%2F3
-[/us/pl/102/229/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs209%2Fb
+[/us/pl/102/229/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2FtII
 [/us/stat/105/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1717
 [/us/usc/t2/s2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2146
 

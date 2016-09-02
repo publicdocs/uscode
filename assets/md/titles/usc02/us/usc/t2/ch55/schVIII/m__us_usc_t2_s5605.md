@@ -33,7 +33,7 @@
 
         The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
 
-([Pub. L. 104–53, title III, § 313][/us/pl/104/53/s313], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538].)
+([Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 313, Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/104/53/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs313
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 [/us/usc/t2/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs78
 

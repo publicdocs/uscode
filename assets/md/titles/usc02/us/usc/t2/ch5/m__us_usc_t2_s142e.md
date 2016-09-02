@@ -21,11 +21,11 @@
 
     The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Congressional Budget Office.
 
-([Pub. L. 96–536, § 101(c)][/us/pl/96/536/s101/c], Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167].)
+([Pub. L. 96–536][/us/pl/96/536], § 101(c), Dec. 16, 1980, [94 Stat. 3167][/us/stat/94/3167].)
 
  __Codification__ 
 
-    In the second par., “[section 3726 of title 31][/us/usc/t31/s3726]” substituted for “[section 244 of title 31][/us/usc/t31/s244]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In the second par., “[section 3726 of title 31][/us/usc/t31/s3726]” substituted for “[section 244 of title 31][/us/usc/t31/s244]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section is based on section 207 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980, and incorporated by reference in [section 101(c) of Pub. L. 96–536][/us/pl/96/536/s101/c], to be effective as if enacted into law.
 
@@ -33,15 +33,15 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 96–86, § 101(c)][/us/pl/96/86/s101/c] \[H.R. 4390, title II, § 207\], Oct. 12, 1979, [93 Stat. 657][/us/stat/93/657].
+    [Pub. L. 96–86][/us/pl/96/86], § 101(c) \[H.R. 4390, title II, § 207\], Oct. 12, 1979, [93 Stat. 657][/us/stat/93/657].
 
-    [Pub. L. 95–391, title II, § 207][/us/pl/95/391/s207], Sept. 30, 1978, [92 Stat. 786][/us/stat/92/786].
+    [Pub. L. 95–391, title II][/us/pl/95/391/tII], § 207, Sept. 30, 1978, [92 Stat. 786][/us/stat/92/786].
 
-    [Pub. L. 95–94, title II, § 207][/us/pl/95/94/s207], Aug. 5, 1977, [91 Stat. 678][/us/stat/91/678].
+    [Pub. L. 95–94, title II][/us/pl/95/94/tII], § 207, Aug. 5, 1977, [91 Stat. 678][/us/stat/91/678].
 
-    [Pub. L. 94–440, title VIII, § 808][/us/pl/94/440/s808], Oct. 1, 1976, [90 Stat. 1458][/us/stat/90/1458].
+    [Pub. L. 94–440, title VIII][/us/pl/94/440/tVIII], § 808, Oct. 1, 1976, [90 Stat. 1458][/us/stat/90/1458].
 
-    [Pub. L. 94–157, title I][/us/pl/94/157], ch. IV, Dec. 18, 1975, [89 Stat. 835][/us/stat/89/835].
+    [Pub. L. 94–157, title I][/us/pl/94/157/tI], ch. IV, Dec. 18, 1975, [89 Stat. 835][/us/stat/89/835].
 
 ----------
 
@@ -53,22 +53,22 @@ Provisions similar to those in this section were contained in the following prio
 [/us/usc/t5/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504
 [/us/usc/t5/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5505
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
-[/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
+[/us/pl/96/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536
 [/us/stat/94/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3167
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
 [/us/usc/t31/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs244
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/96/536/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F536%2Fs101%2Fc
-[/us/pl/96/86/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86%2Fs101%2Fc
+[/us/pl/96/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F86
 [/us/stat/93/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F657
-[/us/pl/95/391/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs207
+[/us/pl/95/391/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtII
 [/us/stat/92/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F786
-[/us/pl/95/94/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs207
+[/us/pl/95/94/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtII
 [/us/stat/91/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F678
-[/us/pl/94/440/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs808
+[/us/pl/94/440/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtVIII
 [/us/stat/90/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1458
-[/us/pl/94/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F835
 
 

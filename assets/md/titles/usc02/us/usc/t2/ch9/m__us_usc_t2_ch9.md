@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch8A/m__us_usc_t2_ch8A.md) | [Next](./../../../..//us/usc/t2/ch9/schI/m__us_usc_t2_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9)
+[Previous](./../../../..//us/usc/t2/ch8A/m__us_usc_t2_s261...270.md) | [Next](./../../../..//us/usc/t2/ch9/schI/m__us_usc_t2_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9)
 
 ## CHAPTER 9—OFFICE OF LEGISLATIVE COUNSEL
 
@@ -203,16 +203,16 @@ Part II—Administration  </td>
 
  __Change of Name__ 
 
-    [Act June 2, 1924, ch. 234, § 1101][/us/act/1924-06-02/ch234/s1101], [43 Stat. 353][/us/stat/43/353], classified to sections 271 to 277 of this title, changed legislative drafting service to office of the legislative counsel, and draftsman to legislative counsel.
+    [Act June 2, 1924, ch. 234][/us/act/1924-06-02/ch234], § 1101, [43 Stat. 353][/us/stat/43/353], classified to sections 271 to 277 of this title, changed legislative drafting service to office of the legislative counsel, and draftsman to legislative counsel.
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch8A/m__us_usc_t2_ch8A.md) | [Next](./../../../..//us/usc/t2/ch9/schI/m__us_usc_t2_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9)
+[Previous](./../../../..//us/usc/t2/ch8A/m__us_usc_t2_s261...270.md) | [Next](./../../../..//us/usc/t2/ch9/schI/m__us_usc_t2_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9)
 
 ----------
 ----------
 
-[/us/act/1924-06-02/ch234/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234%2Fs1101
+[/us/act/1924-06-02/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-02%2Fch234
 [/us/stat/43/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F353
 
 

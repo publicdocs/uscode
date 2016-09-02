@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to reestablish a statutory procedure to enforce a rule of budget neutrality on new revenue and direct spending legislation.
 
-([Pub. L. 111–139, title I, § 2][/us/pl/111/139/s2], Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 2, Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 111–139, title I, § 1][/us/pl/111/139/s1], Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8], provided that: 
+[Pub. L. 111–139, title I][/us/pl/111/139/tI], § 1, Feb. 12, 2010, [124 Stat. 8][/us/stat/124/8], provided that: 
 
 > “This title \[enacting this chapter and amending sections 639, 900, 905, and 906 of this title\] may be cited as the ‘Statutory Pay-As-You-Go Act of 2010’.”
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/111/139/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs2
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
 [/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
-[/us/pl/111/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs1
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
 
 

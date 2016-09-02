@@ -45,11 +45,11 @@
 
     (3) For the purpose of this section, the term “Member of the House of Representatives” means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
-([Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title III, § 311(d)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310; [Pub. L. 101–520, title III, § 308][/us/pl/101/520/s308], Nov. 5, 1990, [104 Stat. 2277][/us/stat/104/2277]; [Pub. L. 102–90, title III, § 308][/us/pl/102/90/s308], Aug. 14, 1991, [105 Stat. 466][/us/stat/105/466]; [Pub. L. 104–186, title II, § 204(2)][/us/pl/104/186/s204/2], Aug. 20, 1996, [110 Stat. 1729][/us/stat/110/1729].)
+([Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title III, § 311(d)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310; [Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 308, Nov. 5, 1990, [104 Stat. 2277][/us/stat/104/2277]; [Pub. L. 102–90, title III][/us/pl/102/90/tIII], § 308, Aug. 14, 1991, [105 Stat. 466][/us/stat/105/466]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(2), Aug. 20, 1996, [110 Stat. 1729][/us/stat/110/1729].)
 
  __References in Text__ 
 
-    This Act, referred to in par. (1), probably means the Legislative Branch Appropriations Act, 1988, [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in par. (1), probably means the Legislative Branch Appropriations Act, 1988, [Pub. L. 100–202][/us/pl/100/202], § 101(i), Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290]. For complete classification of this Act to the Code, see Tables.
 
     The amendments made by this section, referred to in par. (1), means the amendments made by section 101(i) \[title III, § 311\] of [Pub. L. 100–202][/us/pl/100/202], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–310, which enacted this section, amended [section 4571 of this title][/us/usc/t2/s4571], and enacted provisions set out as a note under [section 4571 of this title][/us/usc/t2/s4571].
 
@@ -202,15 +202,15 @@ Speaker of the House
 
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
-[/us/pl/101/520/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs308
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2277
-[/us/pl/102/90/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs308
+[/us/pl/102/90/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtIII
 [/us/stat/105/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F466
-[/us/pl/104/186/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F2
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1729
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290

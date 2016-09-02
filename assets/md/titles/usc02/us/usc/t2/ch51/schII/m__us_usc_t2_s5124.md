@@ -19,7 +19,7 @@
 
     (b) This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-([Pub. L. 107–68, title I, § 117][/us/pl/107/68/s117], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 117, Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/68/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs117
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
 [/us/usc/t2/s74a–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%9312
 

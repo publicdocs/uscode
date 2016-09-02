@@ -39,11 +39,11 @@
 
         (2) the terms of any agreements between the Librarian and persons who hold copyrights to such audiovisual works.
 
-([Pub. L. 104–285, title I, § 106][/us/pl/104/285/s106], Oct. 11, 1996, [110 Stat. 3380][/us/stat/110/3380]; [Pub. L. 109–9, title III, § 302(c)][/us/pl/109/9/s302/c], Apr. 27, 2005, [119 Stat. 225][/us/stat/119/225].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 106, Oct. 11, 1996, [110 Stat. 3380][/us/stat/110/3380]; [Pub. L. 109–9, title III][/us/pl/109/9/tIII], § 302(c), Apr. 27, 2005, [119 Stat. 225][/us/stat/119/225].)
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (a), is [Pub. L. 104–285][/us/pl/104/285], Oct. 11, 1996, [110 Stat. 3377][/us/stat/110/3377], which enacted this section and sections 179l to 179o and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179l of this title, and repealed provisions set out as a note under [section 179 of this title][/us/usc/t2/s179]. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§ 151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by [Pub. L. 105–225, § 5(b)][/us/pl/105/225/s5/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (a), is [Pub. L. 104–285][/us/pl/104/285], Oct. 11, 1996, [110 Stat. 3377][/us/stat/110/3377], which enacted this section and sections 179l to 179o and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179l of this title, and repealed provisions set out as a note under [section 179 of this title][/us/usc/t2/s179]. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§ 151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by [Pub. L. 105–225][/us/pl/105/225], § 5(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/104/285/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs106
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3380
-[/us/pl/109/9/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fc
+[/us/pl/109/9/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtIII
 [/us/stat/119/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F225
 [/us/pl/104/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285
 [/us/stat/110/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3377
 [/us/usc/t2/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179
-[/us/pl/105/225/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 

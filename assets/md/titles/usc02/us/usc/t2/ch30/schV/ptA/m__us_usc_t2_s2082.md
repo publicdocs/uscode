@@ -43,11 +43,11 @@
 
         (3) assure that each transaction is directly related to the purposes referred to in [section 2081(a) of this title][/us/usc/t2/s2081/a].
 
-([Pub. L. 100–696, title VIII, § 802][/us/pl/100/696/s802], Nov. 18, 1988, [102 Stat. 4609][/us/stat/102/4609]; [Pub. L. 101–302, title III, § 312(a)][/us/pl/101/302/s312/a], May 25, 1990, [104 Stat. 245][/us/stat/104/245].)
+([Pub. L. 100–696, title VIII][/us/pl/100/696/tVIII], § 802, Nov. 18, 1988, [102 Stat. 4609][/us/stat/102/4609]; [Pub. L. 101–302, title III][/us/pl/101/302/tIII], § 312(a), May 25, 1990, [104 Stat. 245][/us/stat/104/245].)
 
  __Codification__ 
 
-    Section was classified to section 188a–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188a–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -64,11 +64,11 @@
 [/us/usc/t2/s2081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2081%2Fa
 [/us/usc/t2/s2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2083
 [/us/usc/t2/s2081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2081%2Fa
-[/us/pl/100/696/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs802
+[/us/pl/100/696/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVIII
 [/us/stat/102/4609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4609
-[/us/pl/101/302/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs312%2Fa
+[/us/pl/101/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtIII
 [/us/stat/104/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F245
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
 

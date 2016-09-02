@@ -17,7 +17,7 @@
 
     There shall be paid from the applicable accounts of the House of Representatives until otherwise provided by law, for personal services in the office of the Speaker of the House, an additional basic sum of $10,000 per annum.
 
-([Pub. L. 87–730, § 103][/us/pl/87/730/s103], Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693]; [Pub. L. 104–186, title II, § 204(14)][/us/pl/104/186/s204/14], Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
+([Pub. L. 87–730][/us/pl/87/730], § 103, Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(14), Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/87/730/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730%2Fs103
+[/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730
 [/us/stat/76/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F693
-[/us/pl/104/186/s204/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F14
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1732
 [/us/usc/t2/s74–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74%E2%80%931
 [/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730

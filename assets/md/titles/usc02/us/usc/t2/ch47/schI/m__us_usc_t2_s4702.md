@@ -23,7 +23,7 @@
 
         The Clerk of the House of Representatives, with respect to notifications under subsection (a) relating to Members, officers, and employees of the House, and the Secretary of the Senate, with respect to such notifications relating to Members, officers, and employees of the Senate, shall post the information contained in such notifications on the public Internet site of the Office of the Clerk or the Secretary of the Senate, as the case may be, in a format that, to the extent technically practicable, is searchable, sortable, and downloadable.
 
-([Pub. L. 110–81, title I, § 103][/us/pl/110/81/s103], Sept. 14, 2007, [121 Stat. 739][/us/stat/121/739].)
+([Pub. L. 110–81, title I][/us/pl/110/81/tI], § 103, Sept. 14, 2007, [121 Stat. 739][/us/stat/121/739].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–81, title I, § 105(c)][/us/pl/110/81/s105/c], Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], provided that:
+[Pub. L. 110–81, title I][/us/pl/110/81/tI], § 105(c), Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], provided that:
 
 >     “(1)  __Notification of post-employment restrictions__  __.—__ 
 
@@ -53,10 +53,10 @@
 ----------
 
 [/us/usc/t18/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207%2Fe
-[/us/pl/110/81/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs103
+[/us/pl/110/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtI
 [/us/stat/121/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F739
 [/us/usc/t2/s104d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104d
-[/us/pl/110/81/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs105%2Fc
+[/us/pl/110/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtI
 [/us/stat/121/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F741
 [/us/usc/t2/s4702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4702%2Fa
 [/us/usc/t2/s4702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4702%2Fb

@@ -17,7 +17,7 @@
 
     The Sergeant at Arms and Doorkeeper of the Senate shall be paid at an annual rate of compensation of $40,000.
 
-([Pub. L. 88–426, title II, § 203(g)][/us/pl/88/426/s203/g], Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]; [Pub. L. 93–371, § 4][/us/pl/93/371/s4], Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429]; [Pub. L. 94–59, title I, § 105][/us/pl/94/59/s105], July 25, 1975, [89 Stat. 275][/us/stat/89/275].)
+([Pub. L. 88–426, title II][/us/pl/88/426/tII], § 203(g), Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]; [Pub. L. 93–371][/us/pl/93/371], § 4, Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429]; [Pub. L. 94–59, title I][/us/pl/94/59/tI], § 105, July 25, 1975, [89 Stat. 275][/us/stat/89/275].)
 
  __Codification__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/88/426/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs203%2Fg
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F415
-[/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F429
-[/us/pl/94/59/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs105
+[/us/pl/94/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtI
 [/us/stat/89/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F275
 [/us/usc/t2/s61e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61e
 [/us/pl/94/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59

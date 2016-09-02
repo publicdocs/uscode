@@ -19,7 +19,7 @@
 
     (b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
-([Pub. L. 104–197, title I, § 106][/us/pl/104/197/s106], Sept. 16, 1996, [110 Stat. 2404][/us/stat/110/2404].)
+([Pub. L. 104–197, title I][/us/pl/104/197/tI], § 106, Sept. 16, 1996, [110 Stat. 2404][/us/stat/110/2404].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/197/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs106
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2404
 
 

@@ -33,11 +33,11 @@
 
             Two sitting members of the Board shall be appointed by the Librarian, and shall serve, as Board members of the National Film Preservation Foundation, in accordance with [section 151703 of title 36][/us/usc/t36/s151703].
 
-([Pub. L. 104–285, title I, § 105][/us/pl/104/285/s105], Oct. 11, 1996, [110 Stat. 3380][/us/stat/110/3380].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 105, Oct. 11, 1996, [110 Stat. 3380][/us/stat/110/3380].)
 
  __Codification__ 
 
-    “[Section 151703 of title 36][/us/usc/t36/s151703]” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of [Pub. L. 105–225, § 5(b)][/us/pl/105/225/s5/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+    “[Section 151703 of title 36][/us/usc/t36/s151703]” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of [Pub. L. 105–225][/us/pl/105/225], § 5(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 ----------
 
@@ -48,10 +48,10 @@
 
 [/us/usc/t2/s179m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179m
 [/us/usc/t36/s151703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs151703
-[/us/pl/104/285/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs105
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3380
 [/us/usc/t36/s151703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs151703
-[/us/pl/105/225/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 
 

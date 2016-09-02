@@ -29,7 +29,7 @@
 
         (2) All moneys, derived from the payment of metered charges on copying equipment provided from funds from the Appropriation Account within the contingent fund of the Senate for “Contingent Expenses, Sergeant at Arms and Doorkeeper of the Senate” under the line item for the Service Department, shall be deposited in and made a part of such Appropriation Account and under such line item, and shall be available for expenditure or obligation, or both, in like manner and subject to the same limitations as any other moneys in such account and under such line item.
 
-([Pub. L. 101–520, title I, § 4(a)][/us/pl/101/520/s4/a], (b), Nov. 5, 1990, [104 Stat. 2257][/us/stat/104/2257].)
+([Pub. L. 101–520, title I][/us/pl/101/520/tI], § 4(a), (b), Nov. 5, 1990, [104 Stat. 2257][/us/stat/104/2257].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/520/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs4%2Fa
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2257
 [/us/pl/101/520/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs4
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314

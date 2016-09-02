@@ -21,7 +21,7 @@
 
  __Effective Date__ 
 
-    Section effective Aug. 2, 1946, see section 142 of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, [60 Stat. 834][/us/stat/60/834].
+    Section effective Aug. 2, 1946, see section 142 of [act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], [60 Stat. 834][/us/stat/60/834].
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 
 

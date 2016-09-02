@@ -27,11 +27,11 @@
 
         The Architect of the Capitol shall provide assistance to the Board and to the Clerk of the House of Representatives in the carrying out of their responsibilities under sections 2121 and 2122 of this title.
 
-([Pub. L. 100–696, title X, § 1001][/us/pl/100/696/s1001], Nov. 18, 1988, [102 Stat. 4611][/us/stat/102/4611]; [Pub. L. 104–186, title II, § 221(8)][/us/pl/104/186/s221/8], Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749].)
+([Pub. L. 100–696, title X][/us/pl/100/696/tX], § 1001, Nov. 18, 1988, [102 Stat. 4611][/us/stat/102/4611]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(8), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749].)
 
  __Codification__ 
 
-    Section was classified to section 188c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/100/696/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs1001
+[/us/pl/100/696/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtX
 [/us/stat/102/4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4611
-[/us/pl/104/186/s221/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F8
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1749
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 

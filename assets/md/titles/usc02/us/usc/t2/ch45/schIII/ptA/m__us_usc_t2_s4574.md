@@ -17,7 +17,7 @@
 
     No officer or employee of the Senate shall receive pay for any services performed by him at any rate higher than that provided for the office or employment to which he has been regularly appointed.
 
-([Aug. 5, 1882, ch. 390, § 1][/us/act/1882-08-05/ch390/s1], [22 Stat. 270][/us/stat/22/270].)
+([Aug. 5, 1882, ch. 390][/us/act/1882-08-05/ch390], § 1, [22 Stat. 270][/us/stat/22/270].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1882-08-05/ch390/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-05%2Fch390%2Fs1
+[/us/act/1882-08-05/ch390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-05%2Fch390
 [/us/stat/22/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F270
 [/us/usc/t2/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61
 

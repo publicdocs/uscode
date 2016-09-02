@@ -27,7 +27,7 @@
 
         An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under this section.
 
-([Pub. L. 111–139, title I, § 13][/us/pl/111/139/s13], Feb. 12, 2010, [124 Stat. 29][/us/stat/124/29].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 13, Feb. 12, 2010, [124 Stat. 29][/us/stat/124/29].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/111/139/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs13
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F29
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application thereof, is held invalid, the validity of the remainder of this chapter and the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Pub. L. 104–65, § 13][/us/pl/104/65/s13], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
+([Pub. L. 104–65][/us/pl/104/65], § 13, Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/65/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs13
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691

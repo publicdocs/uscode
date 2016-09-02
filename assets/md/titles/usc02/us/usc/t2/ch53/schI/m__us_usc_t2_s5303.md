@@ -17,7 +17,7 @@
 
     [Section 5302 of this title][/us/usc/t2/s5302] shall not be construed as being applicable to a Senator.
 
-([Pub. L. 97–51, § 112(c)][/us/pl/97/51/s112/c], Oct. 1, 1981, [95 Stat. 963][/us/stat/95/963].)
+([Pub. L. 97–51][/us/pl/97/51], § 112(c), Oct. 1, 1981, [95 Stat. 963][/us/stat/95/963].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5302
-[/us/pl/97/51/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs112%2Fc
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F963
 [/us/usc/t2/s35a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs35a
 [/us/pl/97/51/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs112

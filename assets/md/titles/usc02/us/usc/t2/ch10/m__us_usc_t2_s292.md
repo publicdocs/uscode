@@ -25,7 +25,7 @@
 
     (4) all positions under the House Radio and Television Correspondents’ Gallery and the House Periodical Press Gallery.
 
-([Pub. L. 88–652, § 3][/us/pl/88/652/s3], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079]; [Pub. L. 104–53, title I, § 108(1)][/us/pl/104/53/s108/1], Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522].)
+([Pub. L. 88–652][/us/pl/88/652], § 3, Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079]; [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 108(1), Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/88/652/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs3
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079
-[/us/pl/104/53/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs108%2F1
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F522
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079

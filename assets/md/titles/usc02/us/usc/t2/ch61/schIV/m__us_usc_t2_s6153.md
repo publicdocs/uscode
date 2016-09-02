@@ -45,7 +45,7 @@
 
         The Chairman of a committee or the Chaplain of the Senate, as the case may be, transferring funds under this section shall notify the Committee on Appropriations of the Senate of the transfer.
 
-([Pub. L. 101–520, title I, § 1][/us/pl/101/520/s1], Nov. 5, 1990, [104 Stat. 2257][/us/stat/104/2257]; [Pub. L. 102–90, title I, § 1(a)][/us/pl/102/90/s1/a], Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450]; [Pub. L. 104–53, title I, § 7][/us/pl/104/53/s7]\[(a)\], Nov. 19, 1995, [109 Stat. 518][/us/stat/109/518]; [Pub. L. 114–113, div. I, title I, § 2][/us/pl/114/113/s2], Dec. 18, 2015, [129 Stat. 2657][/us/stat/129/2657].)
+([Pub. L. 101–520, title I][/us/pl/101/520/tI], § 1, Nov. 5, 1990, [104 Stat. 2257][/us/stat/104/2257]; [Pub. L. 102–90, title I][/us/pl/102/90/tI], § 1(a), Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450]; [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 7\[(a)\], Nov. 19, 1995, [109 Stat. 518][/us/stat/109/518]; [Pub. L. 114–113, div. I, title I][/us/pl/114/113/dI/tI], § 2, Dec. 18, 2015, [129 Stat. 2657][/us/stat/129/2657].)
 
  __Codification__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–113, § 2(2)][/us/pl/114/113/s2/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113], § 2(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 114–113, § 2(1)][/us/pl/114/113/s2/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 114–113][/us/pl/114/113], § 2(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 114–113, § 2(3)(A)][/us/pl/114/113/s2/3/A], inserted “or the Office of the Chaplain of the Senate, as the case may be,” after “such committee” in two places.
+    Subsec. (d)(1). [Pub. L. 114–113][/us/pl/114/113], § 2(3)(A), inserted “or the Office of the Chaplain of the Senate, as the case may be,” after “such committee” in two places.
 
-    Subsec. (d)(2). [Pub. L. 114–113, § 2(3)(B)][/us/pl/114/113/s2/3/B], inserted “or the Chaplain of the Senate, as the case may be,” after “the Chairman”.
+    Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113], § 2(3)(B), inserted “or the Chaplain of the Senate, as the case may be,” after “the Chairman”.
 
-    Subsec. (e). [Pub. L. 114–113, § 2(1)][/us/pl/114/113/s2/1], (4), redesignated subsec. (d) as (e) and inserted “or the Chaplain of the Senate, as the case may be,” after “The Chairman of a committee”.
+    Subsec. (e). [Pub. L. 114–113][/us/pl/114/113], § 2(1), (4), redesignated subsec. (d) as (e) and inserted “or the Chaplain of the Senate, as the case may be,” after “The Chairman of a committee”.
 
     1995—[Pub. L. 104–53][/us/pl/104/53] amended section generally. Prior to amendment, section read as follows: “The Chairman of the Majority or Minority Conference Committee of the Senate may, during any fiscal year (commencing with the fiscal year ending September 30, 1991), at his election transfer not more than $275,000 from the appropriation account for salaries for the Conference of the Majority and the Conference of the Minority of the Senate, to the account, within the contingent fund of the Senate, from which expenses are payable under [section 61g–6 of this title][/us/usc/t2/s61g–6]. Any transfer of funds under authority of the preceding sentence shall be made at such time or times as such chairman shall specify in writing to the Senate Disbursing Office. Any funds so transferred by the Chairman of the Majority or Minority Conference Committee shall be available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from the account, within the contingent fund of the Senate, from which expenses are payable under [section 61g–6 of this title][/us/usc/t2/s61g–6].”
 
@@ -71,13 +71,13 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–53, title I, § 7(b)][/us/pl/104/53/s7/b], Nov. 19, 1995, [109 Stat. 518][/us/stat/109/518], provided that: 
+[Pub. L. 104–53, title I][/us/pl/104/53/tI], § 7(b), Nov. 19, 1995, [109 Stat. 518][/us/stat/109/518], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on October 1, 1995, and shall be effective with respect to fiscal years beginning on or after that date.”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–90, title I, § 1(b)][/us/pl/102/90/s1/b], Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450], provided that: 
+[Pub. L. 102–90, title I][/us/pl/102/90/tI], § 1(b), Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450], provided that: 
 
 > “Subsection (a) \[amending this section\] shall take effect on October 1, 1991.”
 
@@ -85,11 +85,11 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 101–163, title I, § 1][/us/pl/101/163/s1], Nov. 21, 1989, [103 Stat. 1044][/us/stat/103/1044].
+    [Pub. L. 101–163, title I][/us/pl/101/163/tI], § 1, Nov. 21, 1989, [103 Stat. 1044][/us/stat/103/1044].
 
-    [Pub. L. 100–458, title I, § 1][/us/pl/100/458/s1], Oct. 1, 1988, [102 Stat. 2161][/us/stat/102/2161].
+    [Pub. L. 100–458, title I][/us/pl/100/458/tI], § 1, Oct. 1, 1988, [102 Stat. 2161][/us/stat/102/2161].
 
-    [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 7\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title I, § 7\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294.
 
 ----------
 
@@ -98,33 +98,33 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/101/520/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs1
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2257
-[/us/pl/102/90/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs1%2Fa
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F450
-[/us/pl/104/53/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs7
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F518
-[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/pl/114/113/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdI%2FtI
 [/us/stat/129/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2657
 [/us/usc/t2/s61g–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%936a
-[/us/pl/114/113/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2%2F2
-[/us/pl/114/113/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2%2F1
-[/us/pl/114/113/s2/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2%2F3%2FA
-[/us/pl/114/113/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2%2F3%2FB
-[/us/pl/114/113/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2%2F1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/usc/t2/s61g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%936
 [/us/usc/t2/s61g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%936
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
-[/us/pl/104/53/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs7%2Fb
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F518
-[/us/pl/102/90/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs1%2Fb
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F450
-[/us/pl/101/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs1
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1044
-[/us/pl/100/458/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs1
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2161
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
 
 

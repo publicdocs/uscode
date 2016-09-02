@@ -17,7 +17,7 @@
 
     For each fiscal year (commencing with the fiscal year ending September 30, 1985), there is hereby authorized an expense allowance for the Chairmen of the Majority and Minority Conference Committees which shall not exceed $5,000 each fiscal year for each such Chairman; and amounts from such allowance shall be paid to either of such Chairmen only as reimbursement for actual expenses incurred by him and upon certification and documentation of such expenses, and amounts so paid shall not be reported as income and shall not be allowed as a deduction under title 26.
 
-([Pub. L. 99–88, title I][/us/pl/99/88], Aug. 15, 1985, [99 Stat. 348][/us/stat/99/348]; [Pub. L. 108–7, div. H, title I, § 1(d)][/us/pl/108/7/s1/d], Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349].)
+([Pub. L. 99–88, title I][/us/pl/99/88/tI], Aug. 15, 1985, [99 Stat. 348][/us/stat/99/348]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1(d), Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/99/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F348
-[/us/pl/108/7/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1%2Fd
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F349
 [/us/usc/t2/s31a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a%E2%80%933
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7

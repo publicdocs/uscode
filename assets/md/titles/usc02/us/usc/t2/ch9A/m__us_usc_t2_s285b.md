@@ -31,7 +31,7 @@
 
     (7) To provide the Committee on the Judiciary with such advice and assistance as the committee may request in carrying out its functions with respect to the revision and codification of the Federal statutes.
 
-([Pub. L. 93–554, title I][/us/pl/93/554], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777]; [Pub. L. 94–386, § 1][/us/pl/94/386/s1], Aug. 14, 1976, [90 Stat. 1170][/us/stat/90/1170].)
+([Pub. L. 93–554, title I][/us/pl/93/554/tI], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777]; [Pub. L. 94–386][/us/pl/94/386], § 1, Aug. 14, 1976, [90 Stat. 1170][/us/stat/90/1170].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Preparation and Publication of District of Columbia Code Under Direction of Council of the District of Columbia__ 
 
-[Pub. L. 94–386, § 2][/us/pl/94/386/s2], Aug. 14, 1976, [90 Stat. 1170][/us/stat/90/1170], provided that:
+[Pub. L. 94–386][/us/pl/94/386], § 2, Aug. 14, 1976, [90 Stat. 1170][/us/stat/90/1170], provided that:
 
 >     “(a) After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
+[/us/pl/93/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554%2FtI
 [/us/stat/88/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1777
-[/us/pl/94/386/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F386%2Fs1
+[/us/pl/94/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F386
 [/us/stat/90/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1170
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/pl/94/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F386
-[/us/pl/94/386/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F386%2Fs2
+[/us/pl/94/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F386
 [/us/stat/90/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1170
 
 

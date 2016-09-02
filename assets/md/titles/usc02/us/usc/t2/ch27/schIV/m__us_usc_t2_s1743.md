@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2016 such sums as may be necessary to carry out this chapter, except that the amount authorized for any fiscal year may not exceed $250,000.
 
-([Pub. L. 106–474, title I, § 133][/us/pl/106/474/s133], Nov. 9, 2000, [114 Stat. 2091][/us/stat/114/2091]; [Pub. L. 110–336, § 2(a)(1)(A)][/us/pl/110/336/s2/a/1/A], Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 133, Nov. 9, 2000, [114 Stat. 2091][/us/stat/114/2091]; [Pub. L. 110–336][/us/pl/110/336], § 2(a)(1)(A), Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–336, § 2(a)(1)(B)][/us/pl/110/336/s2/a/1/B], Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726], provided that: 
+[Pub. L. 110–336][/us/pl/110/336], § 2(a)(1)(B), Oct. 2, 2008, [122 Stat. 3726][/us/stat/122/3726], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 \[[Pub. L. 106–474][/us/pl/106/474]\].”
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/106/474/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs133
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2091
-[/us/pl/110/336/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs2%2Fa%2F1%2FA
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3726
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
-[/us/pl/110/336/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs2%2Fa%2F1%2FB
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3726
 [/us/pl/106/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474
 

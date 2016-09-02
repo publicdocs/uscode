@@ -59,7 +59,7 @@
 
         Nothing in this part shall affect the operation of [section 4903 of this title][/us/usc/t2/s4903], relating to educational facilities of pages and other minors who are congressional employees.
 
-([Pub. L. 91–510, title IV, § 492][/us/pl/91/510/s492], Oct. 26, 1970, [84 Stat. 1199][/us/stat/84/1199]; [Pub. L. 93–198, title IV, § 421][/us/pl/93/198/s421], Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789]; [Pub. L. 104–186, title II, § 204(34)(C)][/us/pl/104/186/s204/34/C], Aug. 20, 1996, [110 Stat. 1734][/us/stat/110/1734].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 492, Oct. 26, 1970, [84 Stat. 1199][/us/stat/84/1199]; [Pub. L. 93–198, title IV][/us/pl/93/198/tIV], § 421, Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(34)(C), Aug. 20, 1996, [110 Stat. 1734][/us/stat/110/1734].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 2161 of this title][/us/usc/t2/s2161] prior to editorial reclassification and renumbering as this section, and to section 184a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was formerly classified to [section 2161 of this title][/us/usc/t2/s2161] prior to editorial reclassification and renumbering as this section, and to section 184a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -81,7 +81,7 @@
 
  __Transfer of Functions__ 
 
-    Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
+    Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
 
  __Acquisition of Property as Site for John W. McCormack Residential Page School__ 
 
@@ -96,11 +96,11 @@
 
 [/us/usc/t2/s4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4903
 [/us/usc/t2/s4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4903
-[/us/pl/91/510/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs492
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1199
-[/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
+[/us/pl/93/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtIV
 [/us/stat/87/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F789
-[/us/pl/104/186/s204/34/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F34%2FC
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1734
 [/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
 [/us/stat/60/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F718
@@ -117,13 +117,13 @@
 [/us/usc/t2/s88c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88c
 [/us/usc/t2/s4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4901
 [/us/usc/t2/s2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2161
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/usc/t2/s88a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88a
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607

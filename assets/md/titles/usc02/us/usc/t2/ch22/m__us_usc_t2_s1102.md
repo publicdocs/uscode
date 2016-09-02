@@ -23,7 +23,7 @@
 
     (3) The term “fund” means the John C. Stennis Center for Public Service Training and Development Trust Fund provided for under [section 1105 of this title][/us/usc/t2/s1105].
 
-([Pub. L. 100–458, title I, § 113][/us/pl/100/458/s113], Oct. 1, 1988, [102 Stat. 2172][/us/stat/102/2172].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 113, Oct. 1, 1988, [102 Stat. 2172][/us/stat/102/2172].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t2/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1103%2Fa
 [/us/usc/t2/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1103%2Fb
 [/us/usc/t2/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1105
-[/us/pl/100/458/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs113
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2172
 
 

@@ -45,7 +45,7 @@
 
             (D) [Section 1965 of this title][/us/usc/t2/s1965].
 
-([Pub. L. 110–161, div. H, title I, § 1004(e)][/us/pl/110/161/s1004/e], Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178, § 5][/us/pl/110/178/s5], Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
+([Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(e), Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178][/us/pl/110/178], § 5, Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Codification__ 
 
-    [Pub. L. 110–161, div. H, title I, § 1004(e)][/us/pl/110/161/s1004/e], and [Pub. L. 110–178, § 5][/us/pl/110/178/s5], enacted substantially identical provisions. This section is based on text of [section 5 of Pub. L. 110–178][/us/pl/110/178/s5]. [Pub. L. 110–161, § 1004][/us/pl/110/161/s1004], was repealed by [Pub. L. 111–145][/us/pl/111/145].
+    [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(e), and [Pub. L. 110–178][/us/pl/110/178], § 5, enacted substantially identical provisions. This section is based on text of [section 5 of Pub. L. 110–178][/us/pl/110/178/s5]. [Pub. L. 110–161][/us/pl/110/161], § 1004, was repealed by [Pub. L. 111–145][/us/pl/111/145].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -71,19 +71,19 @@
 [/us/usc/t2/s141a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs141a
 [/us/usc/t2/s1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1964
 [/us/usc/t2/s1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1965
-[/us/pl/110/161/s1004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fe
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2234
-[/us/pl/110/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs5
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2552
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2546
 [/us/usc/t2/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1901
-[/us/pl/110/161/s1004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fe
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/pl/110/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs5
-[/us/pl/110/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs5
-[/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145

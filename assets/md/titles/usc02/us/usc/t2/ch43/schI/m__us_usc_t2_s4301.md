@@ -31,7 +31,7 @@
 
         All committee hearings, records, data, charts, and files shall be kept separate and distinct from the congressional office records of the Member serving as chairman of the committee; and such records shall be the property of the Congress and all members of the committee and the respective Houses shall have access to such records. Each committee is authorized to have printed and bound such testimony and other data presented at hearings held by the committee.
 
-    (e) __Repealed.__  __[__  __Pub. L. 91–510, title IV, § 477(a)(3)__  __][/us/pl/91/510/s477/a/3]__  __,__  __Oct. 26, 1970__  __,__  __[__  __84 Stat. 1195__  __][/us/stat/84/1195]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 91–510, title IV__  __][/us/pl/91/510/tIV]__  __, § 477(a)(3),__  __Oct. 26, 1970__  __,__  __[__  __84 Stat. 1195__  __][/us/stat/84/1195]__ 
 
     (f) __Limitations on appointment of professional members__ 
 
@@ -75,7 +75,7 @@
 
             (C) chapter 89 (relating to Federal employees group health insurance) of title 5.
 
-([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 202, [60 Stat. 834][/us/stat/60/834]; [July 30, 1947, ch. 361][/us/act/1947-07-30/ch361], title I, § 101, [61 Stat. 611][/us/stat/61/611]; [Feb. 24, 1949, ch. 8][/us/act/1949-02-24/ch8], [63 Stat. 6][/us/stat/63/6]; [Aug. 5, 1955, ch. 568, § 12][/us/act/1955-08-05/ch568/s12], [69 Stat. 509][/us/stat/69/509]; [Pub. L. 85–462, § 4][/us/pl/85/462/s4](o), June 20, 1958, [72 Stat. 209][/us/stat/72/209]; [Pub. L. 88–426, title II, § 202(j)][/us/pl/88/426/s202/j], Aug. 14, 1964, [78 Stat. 414][/us/stat/78/414]; [Pub. L. 91–510, title III][/us/pl/91/510], §§ 301(a)–(c), 303, 304, title IV, § 477(a)(3), Oct. 26, 1970, [84 Stat. 1175][/us/stat/84/1175], 1176, 1179, 1180, 1195; [Pub. L. 92–136, § 5][/us/pl/92/136/s5], Oct. 11, 1971, [85 Stat. 378][/us/stat/85/378]; [Pub. L. 100–458, title III, § 312][/us/pl/100/458/s312], Oct. 1, 1988, [102 Stat. 2184][/us/stat/102/2184]; [Pub. L. 104–186, title II, § 204(10)][/us/pl/104/186/s204/10], (11), Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731]; [Pub. L. 105–55, title I, § 105(a)][/us/pl/105/55/s105/a], Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184].)
+([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 202, [60 Stat. 834][/us/stat/60/834]; [July 30, 1947, ch. 361][/us/act/1947-07-30/ch361], title I, § 101, [61 Stat. 611][/us/stat/61/611]; [Feb. 24, 1949, ch. 8][/us/act/1949-02-24/ch8], [63 Stat. 6][/us/stat/63/6]; [Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], § 12, [69 Stat. 509][/us/stat/69/509]; [Pub. L. 85–462][/us/pl/85/462], § 4(o), June 20, 1958, [72 Stat. 209][/us/stat/72/209]; [Pub. L. 88–426, title II][/us/pl/88/426/tII], § 202(j), Aug. 14, 1964, [78 Stat. 414][/us/stat/78/414]; [Pub. L. 91–510, title III][/us/pl/91/510/tIII], §§ 301(a)–(c), 303, 304, title IV, § 477(a)(3), Oct. 26, 1970, [84 Stat. 1175][/us/stat/84/1175], 1176, 1179, 1180, 1195; [Pub. L. 92–136][/us/pl/92/136], § 5, Oct. 11, 1971, [85 Stat. 378][/us/stat/85/378]; [Pub. L. 100–458, title III][/us/pl/100/458/tIII], § 312, Oct. 1, 1988, [102 Stat. 2184][/us/stat/102/2184]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(10), (11), Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731]; [Pub. L. 105–55, title I][/us/pl/105/55/tI], § 105(a), Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184].)
 
  __Partial Repeal__ 
 
@@ -89,51 +89,51 @@
 
     Section was formerly classified to [section 72a of this title][/us/usc/t2/s72a] prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (i)(2), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (i)(2), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 A former subsec. (k) authorized additional professional staff members and clerical employees for specific House committees. Committee staffs are now covered by the Rules of the House of Representatives. Former subsec. (k) was based on the following House resolutions which were enacted into permanent law:
 
-    Subsec. (k)(1) was based on House Resolution No. 172 of the Eighty-first Congress, which was enacted into permanent law by [act June 22, 1949, ch. 235, § 105][/us/act/1949-06-22/ch235/s105], [63 Stat. 230][/us/stat/63/230], and House Resolution No. 464 of the Eighty-first Congress, which was enacted into permanent law by [act Oct. 11, 1951, ch. 485, § 105][/us/act/1951-10-11/ch485/s105], [65 Stat. 403][/us/stat/65/403].
+    Subsec. (k)(1) was based on House Resolution No. 172 of the Eighty-first Congress, which was enacted into permanent law by [act June 22, 1949, ch. 235][/us/act/1949-06-22/ch235], § 105, [63 Stat. 230][/us/stat/63/230], and House Resolution No. 464 of the Eighty-first Congress, which was enacted into permanent law by [act Oct. 11, 1951, ch. 485][/us/act/1951-10-11/ch485], § 105, [65 Stat. 403][/us/stat/65/403].
 
-    Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congress, which was enacted into permanent law by [act Oct. 11, 1951, ch. 485, § 105][/us/act/1951-10-11/ch485/s105], [65 Stat. 403][/us/stat/65/403], House Resolution No. 393 of the Eighty-eighth Congress, which was enacted into permanent law by [Pub. L. 88–454, § 103][/us/pl/88/454/s103], Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], House Resolution No. 248 of the Eighty-ninth Congress, which was enacted into permanent law by [Pub. L. 89–90, § 103][/us/pl/89/90/s103], July 27, 1965, [79 Stat. 281][/us/stat/79/281], and House Resolution No. 640 of the Eighty-ninth Congress, which was enacted into permanent law by [Pub. L. 89–545, § 103][/us/pl/89/545/s103], Aug. 27, 1966, [80 Stat. 369][/us/stat/80/369].
+    Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congress, which was enacted into permanent law by [act Oct. 11, 1951, ch. 485][/us/act/1951-10-11/ch485], § 105, [65 Stat. 403][/us/stat/65/403], House Resolution No. 393 of the Eighty-eighth Congress, which was enacted into permanent law by [Pub. L. 88–454][/us/pl/88/454], § 103, Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], House Resolution No. 248 of the Eighty-ninth Congress, which was enacted into permanent law by [Pub. L. 89–90][/us/pl/89/90], § 103, July 27, 1965, [79 Stat. 281][/us/stat/79/281], and House Resolution No. 640 of the Eighty-ninth Congress, which was enacted into permanent law by [Pub. L. 89–545][/us/pl/89/545], § 103, Aug. 27, 1966, [80 Stat. 369][/us/stat/80/369].
 
-    Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by [act July 2, 1954, ch. 455, § 103][/us/act/1954-07-02/ch455/s103], [68 Stat. 409][/us/stat/68/409], House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by [act June 27, 1956, ch. 453, § 103][/us/act/1956-06-27/ch453/s103], [70 Stat. 370][/us/stat/70/370], House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–75, § 103][/us/pl/85/75/s103], July 1, 1957, [71 Stat. 256][/us/stat/71/256], House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–570, § 103][/us/pl/85/570/s103], July 31, 1958, [72 Stat. 453][/us/stat/72/453], and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by [Pub. L. 87–730, § 103][/us/pl/87/730/s103], Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693].
+    Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by [act July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], § 103, [68 Stat. 409][/us/stat/68/409], House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by [act June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], § 103, [70 Stat. 370][/us/stat/70/370], House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–75][/us/pl/85/75], § 103, July 1, 1957, [71 Stat. 256][/us/stat/71/256], House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–570][/us/pl/85/570], § 103, July 31, 1958, [72 Stat. 453][/us/stat/72/453], and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by [Pub. L. 87–730][/us/pl/87/730], § 103, Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693].
 
-    Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–75, § 103][/us/pl/85/75/s103], July 1, 1957, [71 Stat. 256][/us/stat/71/256], and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by [Pub. L. 87–730, § 103][/us/pl/87/730/s103], Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693].
+    Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–75][/us/pl/85/75], § 103, July 1, 1957, [71 Stat. 256][/us/stat/71/256], and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by [Pub. L. 87–730][/us/pl/87/730], § 103, Oct. 2, 1962, [76 Stat. 693][/us/stat/76/693].
 
-    Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–570, § 103][/us/pl/85/570/s103], July 31, 1958, [72 Stat. 453][/us/stat/72/453], and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by [Pub. L. 88–248, § 103][/us/pl/88/248/s103], Dec. 30, 1963, [77 Stat. 817][/us/stat/77/817].
+    Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by [Pub. L. 85–570][/us/pl/85/570], § 103, July 31, 1958, [72 Stat. 453][/us/stat/72/453], and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by [Pub. L. 88–248][/us/pl/88/248], § 103, Dec. 30, 1963, [77 Stat. 817][/us/stat/77/817].
 
  __Amendments__ 
 
-    1997—Subsec. (j)(1). [Pub. L. 105–55][/us/pl/105/55] amended directory language of [Pub. L. 104–186, § 204(11)][/us/pl/104/186/s204/11]. See 1996 Amendment note below.
+    1997—Subsec. (j)(1). [Pub. L. 105–55][/us/pl/105/55] amended directory language of [Pub. L. 104–186][/us/pl/104/186], § 204(11). See 1996 Amendment note below.
 
-    1996—Subsec. (f). [Pub. L. 104–186, § 204(10)(A)][/us/pl/104/186/s204/10/A], substituted “House Oversight” for “House Administration”.
+    1996—Subsec. (f). [Pub. L. 104–186][/us/pl/104/186], § 204(10)(A), substituted “House Oversight” for “House Administration”.
 
-    Subsec. (i)(1). [Pub. L. 104–186, § 204(10)][/us/pl/104/186/s204/10], substituted “House Oversight” for “House Administration”, “contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate,” for “contingent funds of the respective Houses pursuant to resolutions, which”, and “the appropriate House” for “such respective Houses”.
+    Subsec. (i)(1). [Pub. L. 104–186][/us/pl/104/186], § 204(10), substituted “House Oversight” for “House Administration”, “contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate,” for “contingent funds of the respective Houses pursuant to resolutions, which”, and “the appropriate House” for “such respective Houses”.
 
-    Subsec. (i)(3). [Pub. L. 104–186, § 204(10)(A)][/us/pl/104/186/s204/10/A], substituted “House Oversight” for “House Administration”.
+    Subsec. (i)(3). [Pub. L. 104–186][/us/pl/104/186], § 204(10)(A), substituted “House Oversight” for “House Administration”.
 
-    Subsec. (j)(1). [Pub. L. 104–186, § 204(11)][/us/pl/104/186/s204/11], as amended by [Pub. L. 105–55, § 105(a)][/us/pl/105/55/s105/a], substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
+    Subsec. (j)(1). [Pub. L. 104–186][/us/pl/104/186], § 204(11), as amended by [Pub. L. 105–55][/us/pl/105/55], § 105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
 
     1988—Subsec. (i)(1). [Pub. L. 100–458][/us/pl/100/458] inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-    1971—Subsec. (g). [Pub. L. 92–136, § 5(a)][/us/pl/92/136/s5/a], permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+    1971—Subsec. (g). [Pub. L. 92–136][/us/pl/92/136], § 5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
-    Subsec. (j)(1). [Pub. L. 92–136, § 5(b)][/us/pl/92/136/s5/b], authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
+    Subsec. (j)(1). [Pub. L. 92–136][/us/pl/92/136], § 5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
-    1970—Subsec. (a). [Pub. L. 91–510, § 301(a)][/us/pl/91/510/s301/a], restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
+    1970—Subsec. (a). [Pub. L. 91–510][/us/pl/91/510], § 301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
 
-    Subsec. (c). [Pub. L. 91–510, § 301(b)][/us/pl/91/510/s301/b], inserted “of the Senate (other than the Committee on Appropriations)” after “each standing committee”, provided for appointment of one clerical staff member by majority vote of minority members of a committee whenever majority of minority members so request and handling by such appointee of committee correspondence and stenographic work for minority members of the committee and for any members of the committee staff appointed under subsec. (a) of this section pursuant to request by the minority members, on matters related to committee work, and for termination of services of clerical staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request.
+    Subsec. (c). [Pub. L. 91–510][/us/pl/91/510], § 301(b), inserted “of the Senate (other than the Committee on Appropriations)” after “each standing committee”, provided for appointment of one clerical staff member by majority vote of minority members of a committee whenever majority of minority members so request and handling by such appointee of committee correspondence and stenographic work for minority members of the committee and for any members of the committee staff appointed under subsec. (a) of this section pursuant to request by the minority members, on matters related to committee work, and for termination of services of clerical staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request.
 
-    Subsec. (e). [Pub. L. 91–510, § 477(a)(3)][/us/pl/91/510/s477/a/3], repealed provisions prescribing basic annual compensation of professional staff members and clerical staff members of standing committees and limiting such compensation, together with additional compensation authorized by law, to maximum amount authorized by Classification Act of 1949.
+    Subsec. (e). [Pub. L. 91–510][/us/pl/91/510], § 477(a)(3), repealed provisions prescribing basic annual compensation of professional staff members and clerical staff members of standing committees and limiting such compensation, together with additional compensation authorized by law, to maximum amount authorized by Classification Act of 1949.
 
-    Subsec. (g). [Pub. L. 91–510, § 301(c)][/us/pl/91/510/s301/c], added subsec. (g). Former provisions, declaring any individual employed as a professional staff member of any committee as provided in this section ineligible for appointment to any office or position in executive branch of Government for period of one year after he shall have ceased to be such a member, were repealed by [act Feb. 24, 1949, ch. 8][/us/act/1949-02-24/ch8], [63 Stat. 6][/us/stat/63/6].
+    Subsec. (g). [Pub. L. 91–510][/us/pl/91/510], § 301(c), added subsec. (g). Former provisions, declaring any individual employed as a professional staff member of any committee as provided in this section ineligible for appointment to any office or position in executive branch of Government for period of one year after he shall have ceased to be such a member, were repealed by [act Feb. 24, 1949, ch. 8][/us/act/1949-02-24/ch8], [63 Stat. 6][/us/stat/63/6].
 
-    Subsec. (h). [Pub. L. 91–510, § 301(c)][/us/pl/91/510/s301/c], added subsec. (h) and struck out former provisions which related to employees of House and Senate Appropriation Committees through fiscal year 1947, all other committee employees through Jan. 31, 1947, and appropriations for compensation of committee employees as contained in Legislative Branch Appropriation Act, 1947, [act July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 386][/us/stat/60/386].
+    Subsec. (h). [Pub. L. 91–510][/us/pl/91/510], § 301(c), added subsec. (h) and struck out former provisions which related to employees of House and Senate Appropriation Committees through fiscal year 1947, all other committee employees through Jan. 31, 1947, and appropriations for compensation of committee employees as contained in Legislative Branch Appropriation Act, 1947, [act July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 386][/us/stat/60/386].
 
-    Subsec. (i). [Pub. L. 91–510, § 303][/us/pl/91/510/s303], added subsec. (i).
+    Subsec. (i). [Pub. L. 91–510][/us/pl/91/510], § 303, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 91–510, § 304][/us/pl/91/510/s304], added subsec. (j).
+    Subsec. (j). [Pub. L. 91–510][/us/pl/91/510], § 304, added subsec. (j).
 
     1964—Subsec. (e). [Pub. L. 88–426][/us/pl/88/426] increased maximum basic annual compensation to professional staff members and clerical staff from $8,880 to highest amount which, together with additional compensation authorized by law, will not exceed maximum rate authorized by Classification Act of 1949, as amended.
 
@@ -151,7 +151,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–55, title I, § 105(b)][/us/pl/105/55/s105/b], Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184], provided that: 
+[Pub. L. 105–55, title I][/us/pl/105/55/tI], § 105(b), Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as of August 20, 1996.”
 
@@ -161,7 +161,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–510, title VI, § 601][/us/pl/91/510/s601], Oct. 26, 1970, [84 Stat. 1204][/us/stat/84/1204], provided that:
+[Pub. L. 91–510, title VI][/us/pl/91/510/tVI], § 601, Oct. 26, 1970, [84 Stat. 1204][/us/stat/84/1204], provided that:
 
 >     “The foregoing provisions of this Act \[see Tables for classification\] shall take effect as follows:
 
@@ -191,19 +191,19 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Effective Date__ 
 
-[Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 245, [60 Stat. 839][/us/stat/60/839], provided that: 
+[Act Aug. 2, 1946, ch. 753, title II][/us/act/1946-08-02/ch753/tII], § 245, [60 Stat. 839][/us/stat/60/839], provided that: 
 
 > “This title \[see Tables for classification\] shall take effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
 
  __Short Title__ 
 
-    [Pub. L. 91–510, § 1][/us/pl/91/510/s1], Oct. 26, 1970, [84 Stat. 1140][/us/stat/84/1140], provided that [Pub. L. 91–510][/us/pl/91/510] \[see Tables for classification\] may be cited as the “Legislative Reorganization Act of 1970.”
+    [Pub. L. 91–510][/us/pl/91/510], § 1, Oct. 26, 1970, [84 Stat. 1140][/us/stat/84/1140], provided that [Pub. L. 91–510][/us/pl/91/510] \[see Tables for classification\] may be cited as the “Legislative Reorganization Act of 1970.”
 
-    [Act Aug. 2, 1946, ch. 753, § 1(a)][/us/act/1946-08-02/ch753/s1/a], [60 Stat. 812][/us/stat/60/812], provided that such Act \[see Tables for classification\] may be cited as the “Legislative Reorganization Act of 1946.”
+    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 1(a), [60 Stat. 812][/us/stat/60/812], provided that such Act \[see Tables for classification\] may be cited as the “Legislative Reorganization Act of 1946.”
 
  __Travel for Studies and Examinations of Executive Agencies__ 
 
-[Pub. L. 104–53, title I, § 105][/us/pl/104/53/s105], Nov. 19, 1995, [109 Stat. 521][/us/stat/109/521], provided that:
+[Pub. L. 104–53, title I][/us/pl/104/53/tI], § 105, Nov. 19, 1995, [109 Stat. 521][/us/stat/109/521], provided that:
 
 >     “(a) Notwithstanding any other provision of law, or any rule, regulation, or other authority, travel for studies and examinations under section 202(b) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 72a(b)][/us/usc/t2/s72a/b]) \[now [2 U.S.C. 4301(b)][/us/usc/t2/s4301/b]\] shall be governed by applicable laws or regulations of the House of Representatives or as promulgated from time to time by the Chairman of the Committee on Appropriations of the House of Representatives.
 
@@ -211,7 +211,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Staff Members; Reduction in Number; Selection for Minority Members__ 
 
-[Pub. L. 91–510, title III, § 301(d)][/us/pl/91/510/s301/d], Oct. 26, 1970, [84 Stat. 1177][/us/stat/84/1177], provided that: 
+[Pub. L. 91–510, title III][/us/pl/91/510/tIII], § 301(d), Oct. 26, 1970, [84 Stat. 1177][/us/stat/84/1177], provided that: 
 
 > “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed—
 
@@ -227,7 +227,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Professional Staffs; Increase in Number__ 
 
-[Pub. L. 91–510, title III, § 301(e)][/us/pl/91/510/s301/e], Oct. 26, 1970, [84 Stat. 1177][/us/stat/84/1177], provided that: 
+[Pub. L. 91–510, title III][/us/pl/91/510/tIII], § 301(e), Oct. 26, 1970, [84 Stat. 1177][/us/stat/84/1177], provided that: 
 
 > “The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee.”
 
@@ -237,7 +237,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Reorganization of Committees and Personnel__ 
 
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, §§ 102, 121, [60 Stat. 814][/us/stat/60/814], 822, in amending Rule XXV of the Standing Rules of the Senate, and Rules X and XI of the Rules of the House of Representatives, reorganized the standing committees in the two Houses, and re-defined the jurisdiction of each such committee. The number of standing committees of the Senate was reduced from 33 to 13, and the number of such committees in the House of Representatives was reduced from 48 to 19. Section 142 of act Aug. 2, 1946, provided that sections 102 and 121 thereof should take effect on Jan. 2, 1947. For provisions of act Aug. 2, 1946, relating to appointment and compensation of clerical staffs of the revised committees and other personnel thereof, and retention of employees of existing committees, see this section and [section 5101 of this title][/us/usc/t2/s5101].
+    [Act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], §§ 102, 121, [60 Stat. 814][/us/stat/60/814], 822, in amending Rule XXV of the Standing Rules of the Senate, and Rules X and XI of the Rules of the House of Representatives, reorganized the standing committees in the two Houses, and re-defined the jurisdiction of each such committee. The number of standing committees of the Senate was reduced from 33 to 13, and the number of such committees in the House of Representatives was reduced from 48 to 19. Section 142 of act Aug. 2, 1946, provided that sections 102 and 121 thereof should take effect on Jan. 2, 1947. For provisions of act Aug. 2, 1946, relating to appointment and compensation of clerical staffs of the revised committees and other personnel thereof, and retention of employees of existing committees, see this section and [section 5101 of this title][/us/usc/t2/s5101].
 
  __Office of Senate Security__ 
 
@@ -287,7 +287,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 
  __Authorization of Appropriations__ 
 
-[Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 244, [60 Stat. 839][/us/stat/60/839], provided in part: 
+[Act Aug. 2, 1946, ch. 753, title II][/us/act/1946-08-02/ch753/tII], § 244, [60 Stat. 839][/us/stat/60/839], provided in part: 
 
 > “All necessary funds required to carry out the provisions of this Act \[see Tables for classification\], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated.”
 
@@ -298,7 +298,7 @@ A former subsec. (k) authorized additional professional staff members and cleric
 ----------
 ----------
 
-[/us/pl/91/510/s477/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs477%2Fa%2F3
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1195
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
@@ -307,115 +307,115 @@ A former subsec. (k) authorized additional professional staff members and cleric
 [/us/stat/61/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F611
 [/us/act/1949-02-24/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-02-24%2Fch8
 [/us/stat/63/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F6
-[/us/act/1955-08-05/ch568/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568%2Fs12
+[/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568
 [/us/stat/69/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F509
-[/us/pl/85/462/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs4
+[/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/stat/72/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F209
-[/us/pl/88/426/s202/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs202%2Fj
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F414
-[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
+[/us/pl/91/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIII
 [/us/stat/84/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1175
-[/us/pl/92/136/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs5
+[/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/stat/85/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F378
-[/us/pl/100/458/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs312
+[/us/pl/100/458/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtIII
 [/us/stat/102/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2184
-[/us/pl/104/186/s204/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F10
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1731
-[/us/pl/105/55/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs105%2Fa
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1184
 [/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/act/1949-06-22/ch235/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235%2Fs105
+[/us/act/1949-06-22/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235
 [/us/stat/63/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F230
-[/us/act/1951-10-11/ch485/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-11%2Fch485%2Fs105
+[/us/act/1951-10-11/ch485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-11%2Fch485
 [/us/stat/65/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F403
-[/us/act/1951-10-11/ch485/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-11%2Fch485%2Fs105
+[/us/act/1951-10-11/ch485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-11%2Fch485
 [/us/stat/65/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F403
-[/us/pl/88/454/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs103
+[/us/pl/88/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454
 [/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
-[/us/pl/89/90/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90%2Fs103
+[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F281
-[/us/pl/89/545/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F545%2Fs103
+[/us/pl/89/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F545
 [/us/stat/80/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F369
-[/us/act/1954-07-02/ch455/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-02%2Fch455%2Fs103
+[/us/act/1954-07-02/ch455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-02%2Fch455
 [/us/stat/68/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F409
-[/us/act/1956-06-27/ch453/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453%2Fs103
+[/us/act/1956-06-27/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453
 [/us/stat/70/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F370
-[/us/pl/85/75/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75%2Fs103
+[/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
 [/us/stat/71/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F256
-[/us/pl/85/570/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570%2Fs103
+[/us/pl/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570
 [/us/stat/72/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F453
-[/us/pl/87/730/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730%2Fs103
+[/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730
 [/us/stat/76/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F693
-[/us/pl/85/75/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75%2Fs103
+[/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
 [/us/stat/71/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F256
-[/us/pl/87/730/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730%2Fs103
+[/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730
 [/us/stat/76/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F693
-[/us/pl/85/570/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570%2Fs103
+[/us/pl/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570
 [/us/stat/72/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F453
-[/us/pl/88/248/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F248%2Fs103
+[/us/pl/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F248
 [/us/stat/77/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F817
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
-[/us/pl/104/186/s204/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F11
-[/us/pl/104/186/s204/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F10%2FA
-[/us/pl/104/186/s204/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F10
-[/us/pl/104/186/s204/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F10%2FA
-[/us/pl/104/186/s204/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F11
-[/us/pl/105/55/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs105%2Fa
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
 [/us/pl/100/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458
-[/us/pl/92/136/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs5%2Fa
-[/us/pl/92/136/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs5%2Fb
-[/us/pl/91/510/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs301%2Fa
-[/us/pl/91/510/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs301%2Fb
-[/us/pl/91/510/s477/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs477%2Fa%2F3
-[/us/pl/91/510/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs301%2Fc
+[/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
+[/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/act/1949-02-24/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-02-24%2Fch8
 [/us/stat/63/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F6
-[/us/pl/91/510/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs301%2Fc
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/act/1946-07-01/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch530
 [/us/stat/60/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F386
-[/us/pl/91/510/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs303
-[/us/pl/91/510/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs304
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
-[/us/pl/105/55/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs105%2Fb
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1184
 [/us/pl/92/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136
 [/us/pl/92/136/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F136%2Fs9%2Fa
 [/us/usc/t2/s190d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d
-[/us/pl/91/510/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601
+[/us/pl/91/510/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtVI
 [/us/stat/84/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1204
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501
 [/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/pl/85/462/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs17%2Fa
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtII
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
-[/us/pl/91/510/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs1
+[/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/stat/84/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1140
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
-[/us/act/1946-08-02/ch753/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs1%2Fa
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F812
-[/us/pl/104/53/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs105
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F521
 [/us/usc/t2/s72a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%2Fb
 [/us/usc/t2/s4301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301%2Fb
-[/us/pl/91/510/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs301%2Fd
+[/us/pl/91/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIII
 [/us/stat/84/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1177
-[/us/pl/91/510/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs301%2Fe
+[/us/pl/91/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIII
 [/us/stat/84/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1177
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F814
 [/us/usc/t2/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5101
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtII
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
 
 

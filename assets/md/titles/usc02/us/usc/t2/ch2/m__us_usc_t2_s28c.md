@@ -55,13 +55,13 @@
 
         (14) to the Superintendent of Documents, eight hundred and sixteen sets for distribution to the depository library system.
 
-([Pub. L. 94–551, § 2][/us/pl/94/551/s2], Oct. 18, 1976, [90 Stat. 2537][/us/stat/90/2537]; [Pub. L. 104–186, title II, § 202(3)][/us/pl/104/186/s202/3], Aug. 20, 1996, [110 Stat. 1724][/us/stat/110/1724]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 94–551][/us/pl/94/551], § 2, Oct. 18, 1976, [90 Stat. 2537][/us/stat/90/2537]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 202(3), Aug. 20, 1996, [110 Stat. 1724][/us/stat/110/1724]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
-    1996—Subsec. (c)(2). [Pub. L. 104–186, § 202(3)(A)][/us/pl/104/186/s202/3/A], substituted “Representatives, each” for “Representives, each”.
+    1996—Subsec. (c)(2). [Pub. L. 104–186][/us/pl/104/186], § 202(3)(A), substituted “Representatives, each” for “Representives, each”.
 
-    Subsec. (c)(5). [Pub. L. 104–186, § 202(3)(B)][/us/pl/104/186/s202/3/B], substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
+    Subsec. (c)(5). [Pub. L. 104–186][/us/pl/104/186], § 202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
 
  __Change of Name__ 
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/pl/94/551/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551%2Fs2
+[/us/pl/94/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551
 [/us/stat/90/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2537
-[/us/pl/104/186/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs202%2F3
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1724
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
-[/us/pl/104/186/s202/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs202%2F3%2FA
-[/us/pl/104/186/s202/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs202%2F3%2FB
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 

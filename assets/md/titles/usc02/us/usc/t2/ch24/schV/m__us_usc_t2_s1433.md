@@ -17,7 +17,7 @@
 
     The Select Committee on Ethics of the Senate and the Committee on Standards of Official Conduct of the House of Representatives retain full power, in accordance with the authority provided to them by the Senate and the House, with respect to the discipline of Members, officers, and employees for violating rules of the Senate and the House on nondiscrimination in employment.
 
-([Pub. L. 104–1, title V, § 503][/us/pl/104/1/s503], Jan. 23, 1995, [109 Stat. 40][/us/stat/109/40].)
+([Pub. L. 104–1, title V][/us/pl/104/1/tV], § 503, Jan. 23, 1995, [109 Stat. 40][/us/stat/109/40].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs503
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F40
 
 

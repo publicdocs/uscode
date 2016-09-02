@@ -49,7 +49,7 @@
 
         This section shall apply to fiscal year 2004, and each fiscal year thereafter.
 
-([Pub. L. 108–83, title I, § 1002][/us/pl/108/83/s1002], Sept. 30, 2003, [117 Stat. 1020][/us/stat/117/1020]; [Pub. L. 111–145][/us/pl/111/145], §§ 3(b)(1), 4(a)(1), Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52].)
+([Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1002, Sept. 30, 2003, [117 Stat. 1020][/us/stat/117/1020]; [Pub. L. 111–145][/us/pl/111/145], §§ 3(b)(1), 4(a)(1), Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52].)
 
  __Codification__ 
 
@@ -57,21 +57,21 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(A). [Pub. L. 111–145, § 3(b)(1)][/us/pl/111/145/s3/b/1], substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
+    2010—Subsec. (a)(2)(A). [Pub. L. 111–145][/us/pl/111/145], § 3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police”.
 
-    Subsec. (a)(2)(B). [Pub. L. 111–145, § 4(a)(1)][/us/pl/111/145/s4/a/1], substituted “the Employment Counsel to the Chief of Police and the United States Capitol Police” for “the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police”.
+    Subsec. (a)(2)(B). [Pub. L. 111–145][/us/pl/111/145], § 4(a)(1), substituted “the Employment Counsel to the Chief of Police and the United States Capitol Police” for “the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police”.
 
  __Construction of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 3(b)(2)][/us/pl/111/145/s3/b/2], Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 3(b)(2), Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52], provided that: 
 
 > “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act \[Mar. 4, 2010\].”
 
-[Pub. L. 111–145, § 4(a)(2)][/us/pl/111/145/s4/a/2], Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 4(a)(2), Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52], provided that: 
 
 > “Nothing in the amendment made by paragraph (1) \[amending this section\] may be construed to affect the authority of any individual to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof which is initiated prior to the date of the enactment of this Act \[Mar. 4, 2010\].”
 
-[Pub. L. 111–145, § 4(b)][/us/pl/111/145/s4/b], Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 4(b), Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52], provided that: 
 
 > “Nothing in this section \[amending this section and enacting provisions set out as a note above\] or the amendments made by this section may be construed to affect the status of the individual serving as the Employment Counsel to the Chief of Police and the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\].”
 
@@ -82,17 +82,17 @@
 ----------
 ----------
 
-[/us/pl/108/83/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1002
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1020
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F52
-[/us/pl/111/145/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3%2Fb%2F1
-[/us/pl/111/145/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs4%2Fa%2F1
-[/us/pl/111/145/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs3%2Fb%2F2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F52
-[/us/pl/111/145/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs4%2Fa%2F2
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F52
-[/us/pl/111/145/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs4%2Fb
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F52
 
 

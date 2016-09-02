@@ -41,7 +41,7 @@
 
         (2) with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
 
-([Pub. L. 95–521, title VII, § 711][/us/pl/95/521/s711], Oct. 26, 1978, [92 Stat. 1882][/us/stat/92/1882].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 711, Oct. 26, 1978, [92 Stat. 1882][/us/stat/92/1882].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t2/s288d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288d%2Fc
 [/us/usc/t2/s288b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288b%2Fa
 [/us/usc/t2/s288b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288b
-[/us/pl/95/521/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs711
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1882
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504

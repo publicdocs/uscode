@@ -17,11 +17,11 @@
 
     The Librarian of Congress shall make rules and regulations for the government of the Library.
 
-([Feb. 19, 1897, ch. 265, § 1][/us/act/1897-02-19/ch265/s1], [29 Stat. 544][/us/stat/29/544], 546; [Pub. L. 92–310, title II, § 220(f)][/us/pl/92/310/s220/f], June 6, 1972, [86 Stat. 204][/us/stat/86/204]; [Pub. L. 114–86, § 3][/us/pl/114/86/s3], Nov. 5, 2015, [129 Stat. 675][/us/stat/129/675].)
+([Feb. 19, 1897, ch. 265][/us/act/1897-02-19/ch265], § 1, [29 Stat. 544][/us/stat/29/544], 546; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 220(f), June 6, 1972, [86 Stat. 204][/us/stat/86/204]; [Pub. L. 114–86][/us/pl/114/86], § 3, Nov. 5, 2015, [129 Stat. 675][/us/stat/129/675].)
 
  __Prior Provisions__ 
 
-    R.S. §§ 88, 89, 4950, which were repealed by acts [Feb. 28, 1933, ch. 131, § 1][/us/act/1933-02-28/ch131/s1], [47 Stat. 1349][/us/stat/47/1349]; [Mar. 3, 1933, ch. 202, § 1][/us/act/1933-03-03/ch202/s1], [47 Stat. 1428][/us/stat/47/1428], 1431.
+    R.S. §§ 88, 89, 4950, which were repealed by acts [Feb. 28, 1933, ch. 131][/us/act/1933-02-28/ch131], § 1, [47 Stat. 1349][/us/stat/47/1349]; [Mar. 3, 1933, ch. 202][/us/act/1933-03-03/ch202], § 1, [47 Stat. 1428][/us/stat/47/1428], 1431.
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–86, § 1][/us/pl/114/86/s1], Nov. 5, 2015, [129 Stat. 675][/us/stat/129/675], provided that: 
+[Pub. L. 114–86][/us/pl/114/86], § 1, Nov. 5, 2015, [129 Stat. 675][/us/stat/129/675], provided that: 
 
 > “This Act \[enacting [section 136–1 of this title][/us/usc/t2/s136–1] and amending this section\] may be cited as the ‘Librarian of Congress Succession Modernization Act of 2015’.”
 
@@ -42,19 +42,19 @@
 ----------
 ----------
 
-[/us/act/1897-02-19/ch265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265%2Fs1
+[/us/act/1897-02-19/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-02-19%2Fch265
 [/us/stat/29/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F544
-[/us/pl/92/310/s220/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs220%2Ff
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F204
-[/us/pl/114/86/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F86%2Fs3
+[/us/pl/114/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F86
 [/us/stat/129/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F675
-[/us/act/1933-02-28/ch131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-28%2Fch131%2Fs1
+[/us/act/1933-02-28/ch131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-28%2Fch131
 [/us/stat/47/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1349
-[/us/act/1933-03-03/ch202/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch202%2Fs1
+[/us/act/1933-03-03/ch202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch202
 [/us/stat/47/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1428
 [/us/pl/114/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F86
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
-[/us/pl/114/86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F86%2Fs1
+[/us/pl/114/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F86
 [/us/stat/129/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F675
 [/us/usc/t2/s136–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136%E2%80%931
 

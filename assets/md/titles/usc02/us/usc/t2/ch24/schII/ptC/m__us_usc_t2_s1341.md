@@ -117,7 +117,7 @@
 
             This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under [section 1371 of this title][/us/usc/t2/s1371].
 
-([Pub. L. 104–1, title II, § 215][/us/pl/104/1/s215], Jan. 23, 1995, [109 Stat. 16][/us/stat/109/16]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–437, title IV, § 422(b)(4)][/us/pl/110/437/s422/b/4], Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 215, Jan. 23, 1995, [109 Stat. 16][/us/stat/109/16]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 422(b)(4), Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996].)
 
  __References in Text__ 
 
@@ -156,11 +156,11 @@
 [/us/usc/t2/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1407
 [/us/usc/t2/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1384
 [/us/usc/t2/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1371
-[/us/pl/104/1/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs215
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F16
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/437/s422/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fb%2F4
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4996
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

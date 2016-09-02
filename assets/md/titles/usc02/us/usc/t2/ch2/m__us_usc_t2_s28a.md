@@ -17,7 +17,7 @@
 
     The Speaker is authorized and directed to complete the Compilation of the Precedents of the House of Representatives by January 1, 1977, and prepare an updated compilation of such precedents every two years thereafter. Copies of the Compilation of Precedents shall be printed in sufficient quantity to be available to every Member and the standing committees of the House of Representatives.
 
-([Pub. L. 93–554, title I][/us/pl/93/554], ch. III, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777].)
+([Pub. L. 93–554, title I][/us/pl/93/554/tI], ch. III, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
+[/us/pl/93/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554%2FtI
 [/us/stat/88/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1777
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554

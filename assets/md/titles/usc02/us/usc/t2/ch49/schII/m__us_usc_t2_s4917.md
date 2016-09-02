@@ -27,7 +27,7 @@
 
         The House of Representatives Page Board shall prescribe such regulations as may be necessary to carry out this section.
 
-([Pub. L. 98–51, title I, § 110][/us/pl/98/51/s110], July 14, 1983, [97 Stat. 269][/us/stat/97/269]; [Pub. L. 104–186, title II, § 204(38)][/us/pl/104/186/s204/38], Aug. 20, 1996, [110 Stat. 1735][/us/stat/110/1735].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 110, July 14, 1983, [97 Stat. 269][/us/stat/97/269]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(38), Aug. 20, 1996, [110 Stat. 1735][/us/stat/110/1735].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–186, § 204(38)(A)][/us/pl/104/186/s204/38/A], (B), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” in first sentence and “Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives,” for “Clerk” in second sentence.
+    1996—Subsec. (b). [Pub. L. 104–186][/us/pl/104/186], § 204(38)(A), (B), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” in first sentence and “Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives,” for “Clerk” in second sentence.
 
-    Subsecs. (c), (d). [Pub. L. 104–186, § 204(38)(C)][/us/pl/104/186/s204/38/C], (D), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “As used in this section, the term ‘Clerk’ means the Clerk of the House of Representatives.”
+    Subsecs. (c), (d). [Pub. L. 104–186][/us/pl/104/186], § 204(38)(C), (D), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “As used in this section, the term ‘Clerk’ means the Clerk of the House of Representatives.”
 
 ----------
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/98/51/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs110
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F269
-[/us/pl/104/186/s204/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F38
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1735
 [/us/usc/t2/s88b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%935
 [/us/pl/98/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51
-[/us/pl/104/186/s204/38/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F38%2FA
-[/us/pl/104/186/s204/38/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F38%2FC
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 
 

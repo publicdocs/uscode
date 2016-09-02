@@ -49,11 +49,11 @@
 
         The Architect of the Capitol, upon the approval of the Joint Committee on the Library and with the advice of the Commission of Fine Arts as requested, is authorized and directed to relocate within the United States Capitol any of the statues received from the States under [section 2131 of this title][/us/usc/t2/s2131] prior to December 21, 2000, and to provide for the reception, location, and relocation of the statues received on and after December 21, 2000, from the States under such section.
 
-([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title III, § 311\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–119.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title III, § 311\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–119.)
 
  __Codification__ 
 
-    Section was classified to section 187a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 187a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Location of Statues__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t2/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2131
 [/us/usc/t2/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2131
 [/us/usc/t2/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2131
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

@@ -35,7 +35,7 @@
 
         Nothing in sections 6621 to 6623 of this title shall be construed as limiting or otherwise affecting the authority of the Committee on Rules and Administration of the Senate to classify or reclassify telephone equipment and services provided to any user as equipment or services for which reimbursement may or may not be required.
 
-([Pub. L. 100–123, § 2][/us/pl/100/123/s2], Oct. 5, 1987, [101 Stat. 794][/us/stat/101/794]; [Pub. L. 101–163, title I, § 3][/us/pl/101/163/s3], Nov. 21, 1989, [103 Stat. 1044][/us/stat/103/1044].)
+([Pub. L. 100–123][/us/pl/100/123], § 2, Oct. 5, 1987, [101 Stat. 794][/us/stat/101/794]; [Pub. L. 101–163, title I][/us/pl/101/163/tI], § 3, Nov. 21, 1989, [103 Stat. 1044][/us/stat/103/1044].)
 
  __Codification__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/100/123/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs2
+[/us/pl/100/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123
 [/us/stat/101/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F794
-[/us/pl/101/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs3
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1044
 [/us/usc/t2/s58a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58a%E2%80%932
 [/us/pl/101/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163

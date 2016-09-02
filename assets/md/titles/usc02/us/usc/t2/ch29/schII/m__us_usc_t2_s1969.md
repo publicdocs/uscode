@@ -31,7 +31,7 @@
 
         It shall be the duty of the Mayor of the District of Columbia, or any officer or employee of the government of the District of Columbia designated by said Mayor upon request of the Capitol Police Board, to cooperate with the Board in the preparation of the regulations authorized to be promulgated under this section, and any future amendments thereof.
 
-([July 31, 1946, ch. 707, § 14][/us/act/1946-07-31/ch707/s14], [60 Stat. 720][/us/stat/60/720]; [July 11, 1947, ch. 221][/us/act/1947-07-11/ch221], [61 Stat. 308][/us/stat/61/308]; [Pub. L. 87–873, § 1][/us/pl/87/873/s1], Oct. 23, 1962, [76 Stat. 1171][/us/stat/76/1171]; [Pub. L. 88–60, § 1][/us/pl/88/60/s1], July 8, 1963, [77 Stat. 77][/us/stat/77/77]; 1967 Reorg. Plan No. 3, § 401, eff. Nov. 3, 1967, 32 F.R. 11669, [81 Stat. 951][/us/stat/81/951]; [Pub. L. 91–358, title I, § 155(a)][/us/pl/91/358/s155/a], July 29, 1970, [84 Stat. 570][/us/stat/84/570]; [Pub. L. 93–198, title IV, § 421][/us/pl/93/198/s421], title VII, § 739(g)(6), Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789], 829.)
+([July 31, 1946, ch. 707][/us/act/1946-07-31/ch707], § 14, [60 Stat. 720][/us/stat/60/720]; [July 11, 1947, ch. 221][/us/act/1947-07-11/ch221], [61 Stat. 308][/us/stat/61/308]; [Pub. L. 87–873][/us/pl/87/873], § 1, Oct. 23, 1962, [76 Stat. 1171][/us/stat/76/1171]; [Pub. L. 88–60][/us/pl/88/60], § 1, July 8, 1963, [77 Stat. 77][/us/stat/77/77]; 1967 Reorg. Plan No. 3, § 401, eff. Nov. 3, 1967, 32 F.R. 11669, [81 Stat. 951][/us/stat/81/951]; [Pub. L. 91–358, title I][/us/pl/91/358/tI], § 155(a), July 29, 1970, [84 Stat. 570][/us/stat/84/570]; [Pub. L. 93–198, title IV][/us/pl/93/198/tIV], § 421, title VII, § 739(g)(6), Dec. 24, 1973, [87 Stat. 789][/us/stat/87/789], 829.)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
  __Codification__ 
 
-    Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
-    1973—Subsec. (a). [Pub. L. 93–198, § 739(g)(6)][/us/pl/93/198/s739/g/6], struck out “, except on those streets and roadways shown on the map referred to in [section 193a of this title][/us/usc/t2/s193a] as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
+    1973—Subsec. (a). [Pub. L. 93–198][/us/pl/93/198], § 739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in [section 193a of this title][/us/usc/t2/s193a] as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
 
     1947—Subsec. (b). Act July 11, 1947, § 1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
 
@@ -53,15 +53,15 @@
 
     “District of Columbia Court of General Sessions” changed to “Superior Court of the District of Columbia” pursuant to [Pub. L. 91–358][/us/pl/91/358], which provided that such change is effective first day of seventh calendar month which begins after July 29, 1970.
 
-    [Pub. L. 87–873, § 1][/us/pl/87/873/s1], Oct. 23, 1962, [76 Stat. 1171][/us/stat/76/1171] and [Pub. L. 88–60, § 1][/us/pl/88/60/s1], July 8, 1963, [77 Stat. 77][/us/stat/77/77], both redesignated the “Municipal Court for the District of Columbia” as the “District of Columbia Court of General Sessions”.
+    [Pub. L. 87–873][/us/pl/87/873], § 1, Oct. 23, 1962, [76 Stat. 1171][/us/stat/76/1171] and [Pub. L. 88–60][/us/pl/88/60], § 1, July 8, 1963, [77 Stat. 77][/us/stat/77/77], both redesignated the “Municipal Court for the District of Columbia” as the “District of Columbia Court of General Sessions”.
 
  __Effective Date of 1973 Amendment__ 
 
-    [Pub. L. 93–198, title VII, § 771(d)][/us/pl/93/198/s771/d], Dec. 24, 1973, [87 Stat. 836][/us/stat/87/836], provided that the amendment made by [Pub. L. 93–198][/us/pl/93/198] is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of [Pub. L. 93–198][/us/pl/93/198], Dec. 24, 1973, [87 Stat. 785][/us/stat/87/785]. The charter was approved by the voters on May 7, 1974.
+    [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 771(d), Dec. 24, 1973, [87 Stat. 836][/us/stat/87/836], provided that the amendment made by [Pub. L. 93–198][/us/pl/93/198] is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of [Pub. L. 93–198][/us/pl/93/198], Dec. 24, 1973, [87 Stat. 785][/us/stat/87/785]. The charter was approved by the voters on May 7, 1974.
 
  __Transfer of Functions__ 
 
-    Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
+    Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421]. Accordingly, “Mayor” substituted in subsec. (d) for “commissioner”.
 
 ----------
 
@@ -70,36 +70,36 @@
 ----------
 ----------
 
-[/us/act/1946-07-31/ch707/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707%2Fs14
+[/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
 [/us/stat/60/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F720
 [/us/act/1947-07-11/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-11%2Fch221
 [/us/stat/61/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F308
-[/us/pl/87/873/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F873%2Fs1
+[/us/pl/87/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F873
 [/us/stat/76/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1171
-[/us/pl/88/60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F60%2Fs1
+[/us/pl/88/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F60
 [/us/stat/77/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F77
 [/us/stat/81/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F951
-[/us/pl/91/358/s155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs155%2Fa
+[/us/pl/91/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtI
 [/us/stat/84/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F570
-[/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
+[/us/pl/93/198/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtIV
 [/us/stat/87/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F789
 [/us/act/1925-03-03/ch443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch443
 [/us/stat/43/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1119
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/93/198/s739/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs739%2Fg%2F6
+[/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/usc/t2/s193a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs193a
 [/us/pl/91/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358
-[/us/pl/87/873/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F873%2Fs1
+[/us/pl/87/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F873
 [/us/stat/76/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1171
-[/us/pl/88/60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F60%2Fs1
+[/us/pl/88/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F60
 [/us/stat/77/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F77
-[/us/pl/93/198/s771/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs771%2Fd
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F836
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/stat/87/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F785
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
 

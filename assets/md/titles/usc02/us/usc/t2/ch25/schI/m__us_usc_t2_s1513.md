@@ -35,7 +35,7 @@
 
         (3) one primary objective of this chapter and other efforts to change the relationship among Federal, State, and local governments should be to reduce taxes and spending at all levels and to end the practice of shifting costs from one level of government to another with little or no benefit to taxpayers.
 
-([Pub. L. 104–4, title I, § 106][/us/pl/104/4/s106], Mar. 22, 1995, [109 Stat. 63][/us/stat/109/63].)
+([Pub. L. 104–4, title I][/us/pl/104/4/tI], § 106, Mar. 22, 1995, [109 Stat. 63][/us/stat/109/63].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs106
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F63
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48

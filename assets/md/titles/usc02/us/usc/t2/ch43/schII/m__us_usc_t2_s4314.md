@@ -33,7 +33,7 @@
 
         The provision of law referred to in subsections (a) and (b) is [section 4313 of this title][/us/usc/t2/s4313].
 
-([Pub. L. 94–440, title II, § 101][/us/pl/94/440/s101], Oct. 1, 1976, [90 Stat. 1448][/us/stat/90/1448]; [Pub. L. 104–186, title I, § 103][/us/pl/104/186/s103], Aug. 20, 1996, [110 Stat. 1720][/us/stat/110/1720].)
+([Pub. L. 94–440, title II][/us/pl/94/440/tII], § 101, Oct. 1, 1976, [90 Stat. 1448][/us/stat/90/1448]; [Pub. L. 104–186, title I][/us/pl/104/186/tI], § 103, Aug. 20, 1996, [110 Stat. 1720][/us/stat/110/1720].)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t2/s4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4313
-[/us/pl/94/440/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs101
+[/us/pl/94/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtII
 [/us/stat/90/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1448
-[/us/pl/104/186/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs103
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1720
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs57a

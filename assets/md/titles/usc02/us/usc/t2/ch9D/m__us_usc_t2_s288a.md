@@ -35,7 +35,7 @@
 
         The Joint Leadership Group shall be assisted in the performance of its duties by the Secretary of the Senate.
 
-([Pub. L. 95–521, title VII, § 702][/us/pl/95/521/s702], Oct. 26, 1978, [92 Stat. 1877][/us/stat/92/1877].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 702, Oct. 26, 1978, [92 Stat. 1877][/us/stat/92/1877].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/521/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs702
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1877
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504

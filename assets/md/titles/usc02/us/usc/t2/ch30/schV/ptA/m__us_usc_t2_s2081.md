@@ -57,11 +57,11 @@
 
         The Senate Commission on Art, the House of Representatives Fine Arts Board, and the Architect of the Capitol shall provide to the Commission such staff support and assistance as the Commission may request.
 
-([Pub. L. 100–696, title VIII, § 801][/us/pl/100/696/s801], Nov. 18, 1988, [102 Stat. 4608][/us/stat/102/4608]; [Pub. L. 104–186, title II, § 221(7)][/us/pl/104/186/s221/7], Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749].)
+([Pub. L. 100–696, title VIII][/us/pl/100/696/tVIII], § 801, Nov. 18, 1988, [102 Stat. 4608][/us/stat/102/4608]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(7), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749].)
 
  __Codification__ 
 
-    Section was classified to section 188a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -78,11 +78,11 @@
 ----------
 ----------
 
-[/us/pl/100/696/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs801
+[/us/pl/100/696/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVIII
 [/us/stat/102/4608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4608
-[/us/pl/104/186/s221/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F7
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1749
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 

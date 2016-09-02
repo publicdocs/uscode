@@ -223,7 +223,7 @@
 
         The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-([Pub. L. 104–65, § 3][/us/pl/104/65/s3], Dec. 19, 1995, [109 Stat. 691][/us/stat/109/691]; [Pub. L. 105–166][/us/pl/105/166], §§ 2, 3, Apr. 6, 1998, [112 Stat. 38][/us/stat/112/38]; [Pub. L. 110–81, title II, § 201(b)(1)][/us/pl/110/81/s201/b/1], Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742].)
+([Pub. L. 104–65][/us/pl/104/65], § 3, Dec. 19, 1995, [109 Stat. 691][/us/stat/109/691]; [Pub. L. 105–166][/us/pl/105/166], §§ 2, 3, Apr. 6, 1998, [112 Stat. 38][/us/stat/112/38]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], § 201(b)(1), Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742].)
 
  __References in Text__ 
 
@@ -249,11 +249,11 @@
 
     2007—Par. (10). [Pub. L. 110–81][/us/pl/110/81] substituted “3-month period” for “six month period”.
 
-    1998—Par. (3)(F). [Pub. L. 105–166, § 2][/us/pl/105/166/s2], substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+    1998—Par. (3)(F). [Pub. L. 105–166][/us/pl/105/166], § 2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
 
-    Par. (8)(B)(ix). [Pub. L. 105–166, § 3(a)][/us/pl/105/166/s3/a], inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
+    Par. (8)(B)(ix). [Pub. L. 105–166][/us/pl/105/166], § 3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
 
-    Par. (15)(F). [Pub. L. 105–166, § 3(b)][/us/pl/105/166/s3/b], inserted before period at end “, or a group of governments acting together as an international organization”.
+    Par. (15)(F). [Pub. L. 105–166][/us/pl/105/166], § 3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -281,11 +281,11 @@
 [/us/usc/t20/s1085/d/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fd%2F1%2FF
 [/us/usc/t31/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/104/65/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs3
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/stat/112/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F38
-[/us/pl/110/81/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F1
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F742
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
@@ -312,9 +312,9 @@
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
-[/us/pl/105/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs2
-[/us/pl/105/166/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs3%2Fa
-[/us/pl/105/166/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs3%2Fb
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs215
 [/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104

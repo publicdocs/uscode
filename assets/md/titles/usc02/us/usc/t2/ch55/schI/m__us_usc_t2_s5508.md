@@ -27,7 +27,7 @@
 
         The account established under subsection (a) shall be treated as a category of allowances and expenses for purposes of [section 5507(a) of this title][/us/usc/t2/s5507/a].
 
-([Pub. L. 105–55, title I, § 109][/us/pl/105/55/s109], Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184]; [Pub. L. 113–76, div. I, title I, § 102(a)][/us/pl/113/76/s102/a], Jan. 17, 2014, [128 Stat. 422][/us/stat/128/422].)
+([Pub. L. 105–55, title I][/us/pl/105/55/tI], § 109, Oct. 7, 1997, [111 Stat. 1184][/us/stat/111/1184]; [Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 102(a), Jan. 17, 2014, [128 Stat. 422][/us/stat/128/422].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–76, div. I, title I, § 102(b)][/us/pl/113/76/s102/b], Jan. 17, 2014, [128 Stat. 422][/us/stat/128/422], provided that: 
+[Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 102(b), Jan. 17, 2014, [128 Stat. 422][/us/stat/128/422], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
@@ -54,13 +54,13 @@
 
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
 [/us/usc/t2/s5507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5507%2Fa
-[/us/pl/105/55/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs109
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1184
-[/us/pl/113/76/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs102%2Fa
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F422
 [/us/usc/t2/s95d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95d
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/113/76/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs102%2Fb
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F422
 
 

@@ -185,7 +185,7 @@
 
             For purposes of estimates made pursuant to subsection (e), changes to the AMT shall be estimated as if, on the date of enactment of legislation meeting the criteria in subsection (e)(1), all of the income tax provisions identified in subsection (f)(1) were made permanent.
 
-([Pub. L. 111–139, title I, § 7][/us/pl/111/139/s7], Feb. 12, 2010, [124 Stat. 16][/us/stat/124/16].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 7, Feb. 12, 2010, [124 Stat. 16][/us/stat/124/16].)
 
  __References in Text__ 
 
@@ -211,7 +211,7 @@
 [/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
 [/us/usc/t26/s179/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs179%2Fb
 [/us/usc/t26/s1/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1%2Ff%2F3
-[/us/pl/111/139/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs7
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F16
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/stat/115/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F38

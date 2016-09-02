@@ -35,7 +35,7 @@
 
         The select committee shall keep a complete record of all its actions, including a record of the votes on any question on which a record vote is demanded. All records, data, and files of the select committee shall be the property of the Senate and shall be kept in the offices of the select committee or such other places as the committee may direct.
 
-([Pub. L. 93–191, § 6][/us/pl/93/191/s6], Dec. 18, 1973, [87 Stat. 744][/us/stat/87/744]; [Pub. L. 93–255, § 3(b)][/us/pl/93/255/s3/b], Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52].)
+([Pub. L. 93–191][/us/pl/93/191], § 6, Dec. 18, 1973, [87 Stat. 744][/us/stat/87/744]; [Pub. L. 93–255][/us/pl/93/255], § 3(b), Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/93/191/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs6
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F744
-[/us/pl/93/255/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255%2Fs3%2Fb
+[/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/stat/88/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F52
 [/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/usc/t39/s3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3219

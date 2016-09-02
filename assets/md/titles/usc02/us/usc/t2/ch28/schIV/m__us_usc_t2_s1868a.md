@@ -43,7 +43,7 @@
 
         This section shall apply with respect to the semiannual periods of January 1 through June 30 and July 1 through December 31 of each year, beginning with the semiannual period in which this section is enacted.
 
-([Pub. L. 113–76, div. I, title I, § 1301][/us/pl/113/76/s1301], Jan. 17, 2014, [128 Stat. 428][/us/stat/128/428].)
+([Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1301, Jan. 17, 2014, [128 Stat. 428][/us/stat/128/428].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t31/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3523%2Fb
-[/us/pl/113/76/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1301
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F428
 
 

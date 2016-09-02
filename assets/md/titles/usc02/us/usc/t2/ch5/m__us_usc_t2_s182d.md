@@ -17,7 +17,7 @@
 
     Each of the revolving funds established under sections 182a to 182d of this title shall be subject to audit by the Comptroller General at the Comptroller General’s discretion.
 
-([Pub. L. 106–481, title I, § 104][/us/pl/106/481/s104], Nov. 9, 2000, [114 Stat. 2190][/us/stat/114/2190].)
+([Pub. L. 106–481, title I][/us/pl/106/481/tI], § 104, Nov. 9, 2000, [114 Stat. 2190][/us/stat/114/2190].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/481/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F481%2Fs104
+[/us/pl/106/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F481%2FtI
 [/us/stat/114/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2190
 [/us/pl/106/481/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F481%2Fs105
 [/us/usc/t2/s182a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs182a

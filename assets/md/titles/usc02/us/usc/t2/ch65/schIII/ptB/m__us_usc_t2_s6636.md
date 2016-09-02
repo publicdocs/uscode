@@ -45,7 +45,7 @@
 
         Disbursements from the revolving fund under subsections (b) and (c) shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries of employees paid at an annual rate.
 
-([Pub. L. 94–303, title I, § 116][/us/pl/94/303/s116], June 1, 1976, [90 Stat. 614][/us/stat/90/614].)
+([Pub. L. 94–303, title I][/us/pl/94/303/tI], § 116, June 1, 1976, [90 Stat. 614][/us/stat/90/614].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/94/303/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2Fs116
+[/us/pl/94/303/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2FtI
 [/us/stat/90/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F614
 [/us/usc/t2/s123d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123d
 

@@ -77,13 +77,13 @@
 
         Effective with the completion of the transfer provided for by subsection (i) hereof the joint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
 
-    (n) __Repealed.__  __[__  __Pub. L. 92–310, title II, § 220(j)__  __][/us/pl/92/310/s220/j]__  __,__  __June 6, 1972__  __,__  __[__  __86 Stat. 205__  __][/us/stat/86/205]__ 
+    (n) __Repealed.__  __[__  __Pub. L. 92–310, title II__  __][/us/pl/92/310/tII]__  __, § 220(j),__  __June 6, 1972__  __,__  __[__  __86 Stat. 205__  __][/us/stat/86/205]__ 
 
     (o) __Authorization of appropriations__ 
 
         Such sums as may be necessary to carry out the provisions of this section are authorized to be appropriated.
 
-([June 27, 1956, ch. 453, § 105][/us/act/1956-06-27/ch453/s105], [70 Stat. 370][/us/stat/70/370]; [Pub. L. 88–652, § 16(a)][/us/pl/88/652/s16/a], Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084]; [Pub. L. 92–310, title II, § 220(j)][/us/pl/92/310/s220/j], June 6, 1972, [86 Stat. 205][/us/stat/86/205]; [Pub. L. 96–304, title I, § 108(a)][/us/pl/96/304/s108/a], July 8, 1980, [94 Stat. 890][/us/stat/94/890]; [Pub. L. 97–257, title I, § 102][/us/pl/97/257/s102], Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849]; [Pub. L. 101–520, title I, § 7(a)][/us/pl/101/520/s7/a], (c), (d), Nov. 5, 1990, [104 Stat. 2258][/us/stat/104/2258], 2259; [Pub. L. 104–186, title II, § 204(68)][/us/pl/104/186/s204/68], Aug. 20, 1996, [110 Stat. 1740][/us/stat/110/1740].)
+([June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], § 105, [70 Stat. 370][/us/stat/70/370]; [Pub. L. 88–652][/us/pl/88/652], § 16(a), Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 220(j), June 6, 1972, [86 Stat. 205][/us/stat/86/205]; [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 108(a), July 8, 1980, [94 Stat. 890][/us/stat/94/890]; [Pub. L. 97–257, title I][/us/pl/97/257/tI], § 102, Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849]; [Pub. L. 101–520, title I][/us/pl/101/520/tI], § 7(a), (c), (d), Nov. 5, 1990, [104 Stat. 2258][/us/stat/104/2258], 2259; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(68), Aug. 20, 1996, [110 Stat. 1740][/us/stat/110/1740].)
 
  __Codification__ 
 
@@ -91,15 +91,15 @@
 
  __Amendments__ 
 
-    1996—Subsecs. (c), (d), (f). [Pub. L. 104–186, § 204(68)(A)][/us/pl/104/186/s204/68/A], substituted “Chief Administrative Officer” for “Clerk”.
+    1996—Subsecs. (c), (d), (f). [Pub. L. 104–186][/us/pl/104/186], § 204(68)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
-    Subsec. (g). [Pub. L. 104–186, § 204(68)(B)][/us/pl/104/186/s204/68/B], struck out “within the contingent fund of the House of Representatives” before “for the House Recording Studio”.
+    Subsec. (g). [Pub. L. 104–186][/us/pl/104/186], § 204(68)(B), struck out “within the contingent fund of the House of Representatives” before “for the House Recording Studio”.
 
-    Subsec. (h). [Pub. L. 104–186, § 204(68)(A)][/us/pl/104/186/s204/68/A], substituted “Chief Administrative Officer” for “Clerk” in two places.
+    Subsec. (h). [Pub. L. 104–186][/us/pl/104/186], § 204(68)(A), substituted “Chief Administrative Officer” for “Clerk” in two places.
 
-    1990—Subsec. (g). [Pub. L. 101–520, § 7(a)][/us/pl/101/520/s7/a], amended second sentence generally. Prior to amendment, second sentence read as follows: “There is also established in the Treasury of the United States, a revolving fund within the contingent fund of the Senate for the Senate Recording and Photographic Studios for the purposes of administering the duties of that studio.”
+    1990—Subsec. (g). [Pub. L. 101–520][/us/pl/101/520], § 7(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “There is also established in the Treasury of the United States, a revolving fund within the contingent fund of the Senate for the Senate Recording and Photographic Studios for the purposes of administering the duties of that studio.”
 
-    Subsec. (h). [Pub. L. 101–520, § 7(c)][/us/pl/101/520/s7/c], amended second sentence generally. Prior to amendment, second sentence read as follows: “All moneys received by the Senate Recording and Photographic Studios for disk, film, or tape recordings or from any other source, shall be deposited in the revolving fund established for the Senate Recording and Photographic Studios by subsection (g) of this section; moneys in such fund shall be available for disbursement therefrom upon vouchers signed and approved by the Sergeant at Arms for the care, maintenance, operation, and other expenses of the Senate Recording and Photographic Studios.”
+    Subsec. (h). [Pub. L. 101–520][/us/pl/101/520], § 7(c), amended second sentence generally. Prior to amendment, second sentence read as follows: “All moneys received by the Senate Recording and Photographic Studios for disk, film, or tape recordings or from any other source, shall be deposited in the revolving fund established for the Senate Recording and Photographic Studios by subsection (g) of this section; moneys in such fund shall be available for disbursement therefrom upon vouchers signed and approved by the Sergeant at Arms for the care, maintenance, operation, and other expenses of the Senate Recording and Photographic Studios.”
 
     1982—Subsec. (b). [Pub. L. 97–257][/us/pl/97/257] inserted reference to Secretary of Senate and Sergeant at Arms of Senate.
 
@@ -113,11 +113,11 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–520, title I, § 7(b)][/us/pl/101/520/s7/b], Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259], provided that: 
+[Pub. L. 101–520, title I][/us/pl/101/520/tI], § 7(b), Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1991, and, of the monies in the revolving fund within the contingent fund of the Senate for the Recording and Photographic Studios, as such fund was in existence immediately prior to the amendment made by subsection (a), $100,000 shall be deposited in the Senate Photographic Studio Revolving Fund (as established by the amendment made by subsection (a)) and the remainder shall be deposited into the Senate Recording Studio Revolving Fund (as so established).”
 
-    [Pub. L. 101–520, title I, § 7(c)][/us/pl/101/520/s7/c], Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259], provided that the amendment made by that section is effective Apr. 1, 1991.
+    [Pub. L. 101–520, title I][/us/pl/101/520/tI], § 7(c), Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259], provided that the amendment made by that section is effective Apr. 1, 1991.
 
  __Effective Date of 1964 Amendment__ 
 
@@ -129,7 +129,7 @@
 
  __Appropriations Acts as Determining Extent of Availability of Funds and Accounts__ 
 
-[Pub. L. 104–53, title I, § 107][/us/pl/104/53/s107], Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522], provided that:
+[Pub. L. 104–53, title I][/us/pl/104/53/tI], § 107, Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522], provided that:
 
 >     “(a) Each fund and account specified in subsection (b) shall be available only to the extent provided in appropriations Acts.
 
@@ -154,36 +154,36 @@
 ----------
 ----------
 
-[/us/pl/92/310/s220/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs220%2Fj
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F205
-[/us/act/1956-06-27/ch453/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453%2Fs105
+[/us/act/1956-06-27/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453
 [/us/stat/70/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F370
-[/us/pl/88/652/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs16%2Fa
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1084
-[/us/pl/92/310/s220/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs220%2Fj
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F205
-[/us/pl/96/304/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs108%2Fa
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F890
-[/us/pl/97/257/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2Fs102
+[/us/pl/97/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257%2FtI
 [/us/stat/96/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F849
-[/us/pl/101/520/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fa
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2258
-[/us/pl/104/186/s204/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F68
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1740
 [/us/usc/t2/s123b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123b
-[/us/pl/104/186/s204/68/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F68%2FA
-[/us/pl/104/186/s204/68/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F68%2FB
-[/us/pl/104/186/s204/68/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F68%2FA
-[/us/pl/101/520/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fa
-[/us/pl/101/520/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fc
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
+[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
 [/us/pl/97/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F257
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
-[/us/pl/101/520/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fb
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2259
-[/us/pl/101/520/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fc
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2259
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/pl/88/652/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs17
@@ -192,7 +192,7 @@
 [/us/pl/101/520/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fd
 [/us/usc/t2/s4132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4132%2Fa
 [/us/pl/96/304/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs108%2Fa
-[/us/pl/104/53/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs107
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F522
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/stat/88/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1776

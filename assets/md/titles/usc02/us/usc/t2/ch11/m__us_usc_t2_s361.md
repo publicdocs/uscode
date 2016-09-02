@@ -17,7 +17,7 @@
 
     The recommendations of the President which take effect shall be printed in the Statutes at Large in the same volume as public laws and shall be printed in the Federal Register and included in the Code of Federal Regulations.
 
-([Pub. L. 90–206, title II, § 225(k)][/us/pl/90/206/s225/k], Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(k), Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/206/s225/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fk
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F644
 
 

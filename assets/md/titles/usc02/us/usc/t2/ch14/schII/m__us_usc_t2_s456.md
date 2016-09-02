@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t2/ch14/schII/m__us_usc_t2_s455.md) | [Next](./../../../../..//us/usc/t2/ch14/schII/m__us_usc_t2_s457.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs456)
 
-## § 456. Repealed. [Pub. L. 94–283, title I, § 111][/us/pl/94/283/s111], May 11, 1976, [90 Stat. 486][/us/stat/90/486]
+## § 456. Repealed. [Pub. L. 94–283, title I][/us/pl/94/283/tI], § 111, May 11, 1976, [90 Stat. 486][/us/stat/90/486]
 
-    Section, [Pub. L. 92–225, title IV, § 407][/us/pl/92/225/s407], as added [Pub. L. 93–443, title III, § 302][/us/pl/93/443/s302], Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290], gave Commission additional enforcement authority by providing for disqualification of candidates for Federal office from elections for Federal office for a period of time following a finding by Commission that candidate failed to file a required report.
+    Section, [Pub. L. 92–225, title IV][/us/pl/92/225/tIV], § 407, as added [Pub. L. 93–443, title III][/us/pl/93/443/tIII], § 302, Oct. 15, 1974, [88 Stat. 1290][/us/stat/88/1290], gave Commission additional enforcement authority by providing for disqualification of candidates for Federal office from elections for Federal office for a period of time following a finding by Commission that candidate failed to file a required report.
 
  __Savings Provision__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/94/283/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs111
+[/us/pl/94/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtI
 [/us/stat/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F486
-[/us/pl/92/225/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs407
-[/us/pl/93/443/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs302
+[/us/pl/92/225/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtIV
+[/us/pl/93/443/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIII
 [/us/stat/88/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1290
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/283/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs114

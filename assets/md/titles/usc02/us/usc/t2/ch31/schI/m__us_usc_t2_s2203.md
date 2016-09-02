@@ -17,7 +17,7 @@
 
     The Emancipation Hall of the Capitol Visitor Center may not be used for any event, except upon the passage of a resolution agreed to by both houses of Congress authorizing the use of the Emancipation Hall for that event.
 
-([Pub. L. 110–437, title I, § 103][/us/pl/110/437/s103], Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
+([Pub. L. 110–437, title I][/us/pl/110/437/tI], § 103, Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs103
+[/us/pl/110/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtI
 [/us/stat/122/4986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4986
 
 

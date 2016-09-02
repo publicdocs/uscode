@@ -83,49 +83,49 @@
 
             The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
 
-        (2) __Repealed.__  __[__  __Pub. L. 108–7, div. H, title I, § 1004(2)__  __][/us/pl/108/7/s1004/2]__  __,__  __Feb. 20, 2003__  __,__  __[__  __117 Stat. 358__  __][/us/stat/117/358]__ 
+        (2) __Repealed.__  __[__  __Pub. L. 108–7, div. H, title I__  __][/us/pl/108/7/dH/tI]__  __, § 1004(2),__  __Feb. 20, 2003__  __,__  __[__  __117 Stat. 358__  __][/us/stat/117/358]__ 
 
     (f) __Effective date__ 
 
         This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-([Pub. L. 107–117, div. B, § 909][/us/pl/107/117/s909], Jan. 10, 2002, [115 Stat. 2320][/us/stat/115/2320]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7], §§ 1004, 1006, Feb. 20, 2003, [117 Stat. 358][/us/stat/117/358].)
+([Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 909, Jan. 10, 2002, [115 Stat. 2320][/us/stat/115/2320]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], §§ 1004, 1006, Feb. 20, 2003, [117 Stat. 358][/us/stat/117/358].)
 
  __Codification__ 
 
-    Section was classified to section 207b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 207b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
-    2003—Subsec. (a)(1). [Pub. L. 108–7, § 1004(1)(A)][/us/pl/108/7/s1004/1/A], substituted “the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
+    2003—Subsec. (a)(1). [Pub. L. 108–7][/us/pl/108/7], § 1004(1)(A), substituted “the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
 
-    Subsec. (a)(6). [Pub. L. 108–7, § 1004(1)(B)][/us/pl/108/7/s1004/1/B], added par. (6).
+    Subsec. (a)(6). [Pub. L. 108–7][/us/pl/108/7], § 1004(1)(B), added par. (6).
 
-    Subsec. (b)(1). [Pub. L. 108–7, § 1006(1)][/us/pl/108/7/s1006/1], substituted “if the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.” for “if—” and struck out pars. (A) and (B) which read as follows:
+    Subsec. (b)(1). [Pub. L. 108–7][/us/pl/108/7], § 1006(1), substituted “if the Chief, in the Chief’s sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.” for “if—” and struck out pars. (A) and (B) which read as follows:
 
     “(A) the unusually high or unique qualifications of the officer or employee or a special need of the Capitol Police for the officer’s or employee’s services makes it essential to retain the officer or employee; and
 
     “(B) the Chief determines that the officer or employee would be likely to leave in the absence of a retention allowance.”
 
-    Subsec. (b)(3). [Pub. L. 108–7, § 1006(2)][/us/pl/108/7/s1006/2], which directed the substitution of “any determination of the Chief under this subsection, or the reduction or elimination of a retention allowance, shall not be appealable or reviewable in any manner” for “the reduction or the elimination of a retention allowance may not be appealed”, was executed by making the substitution for “the reduction or elimination of a retention allowance may not be appealed”, to reflect the probable intent of Congress.
+    Subsec. (b)(3). [Pub. L. 108–7][/us/pl/108/7], § 1006(2), which directed the substitution of “any determination of the Chief under this subsection, or the reduction or elimination of a retention allowance, shall not be appealable or reviewable in any manner” for “the reduction or the elimination of a retention allowance may not be appealed”, was executed by making the substitution for “the reduction or elimination of a retention allowance may not be appealed”, to reflect the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 108–7, § 1004(2)][/us/pl/108/7/s1004/2], (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to additional compensation for field training officers.
+    Subsec. (e). [Pub. L. 108–7][/us/pl/108/7], § 1004(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to additional compensation for field training officers.
 
-    Subsec. (f). [Pub. L. 108–7, § 1004(3)][/us/pl/108/7/s1004/3], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 108–7][/us/pl/108/7], § 1004(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (f)(2). [Pub. L. 108–7, § 1004(2)][/us/pl/108/7/s1004/2], struck out heading and text of par. (2). Text read as follows: “The regulations prescribed pursuant to this subsection shall be subject to the approval of the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives.”
+    Subsec. (f)(2). [Pub. L. 108–7][/us/pl/108/7], § 1004(2), struck out heading and text of par. (2). Text read as follows: “The regulations prescribed pursuant to this subsection shall be subject to the approval of the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives.”
 
-    Subsec. (g). [Pub. L. 108–7, § 1004(3)][/us/pl/108/7/s1004/3], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 108–7][/us/pl/108/7], § 1004(3), redesignated subsec. (g) as (f).
 
  __Capitol Police Longevity Compensation__ 
 
-[Pub. L. 88–454, § 104(c)][/us/pl/88/454/s104/c], Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], provided that: 
+[Pub. L. 88–454][/us/pl/88/454], § 104(c), Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], provided that: 
 
 > “Any member of the Capitol Police who by reason of the provision repealed by subsection (b) \[subsec. (c) of [section 4507 of this title][/us/usc/t2/s4507]\] was receiving immediately prior to the effective date of this section \[Sept. 1, 1964\], longevity compensation provided by \[former\] section 105 of the Legislative Branch Appropriation Act, 1959 \[[Pub. L. 85–570][/us/pl/85/570], [72 Stat. 453][/us/stat/72/453]\], shall, on and after such effective date, receive in lieu thereof a longevity increase under section 106(b) of the Legislative Branch Appropriation Act, 1963 \[[2 U.S.C. 4507(b)][/us/usc/t2/s4507/b]\], in addition to any other such increases (not to exceed three) to which he may otherwise be entitled under such section. In computing the length of service of such member for the purpose of such other increases, only service performed subsequent to the date on which he began receiving longevity compensation in accordance with such \[former\] section 105 shall be counted.”
 
     \[[Section 4507 of this title][/us/usc/t2/s4507], referred to above, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 4509 of this title][/us/usc/t2/s4509].\]
 
-\[[Pub. L. 88–454, § 104(d)][/us/pl/88/454/s104/d], Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], provided that: 
+\[[Pub. L. 88–454][/us/pl/88/454], § 104(d), Aug. 20, 1964, [78 Stat. 550][/us/stat/78/550], provided that: 
 
 > “This section \[amending [section 4507 of this title][/us/usc/t2/s4507] and enacting provisions set out as a note above\] shall become effective on the first day of the month following the date of enactment of this Act \[Aug. 20, 1964\].”
 
@@ -139,23 +139,23 @@
 ----------
 
 [/us/usc/t2/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1302
-[/us/pl/108/7/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F2
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F358
-[/us/pl/107/117/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs909
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2320
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F358
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/108/7/s1004/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F1%2FA
-[/us/pl/108/7/s1004/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F1%2FB
-[/us/pl/108/7/s1006/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1006%2F1
-[/us/pl/108/7/s1006/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1006%2F2
-[/us/pl/108/7/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F2
-[/us/pl/108/7/s1004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F3
-[/us/pl/108/7/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F2
-[/us/pl/108/7/s1004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1004%2F3
-[/us/pl/88/454/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs104%2Fc
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/88/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454
 [/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 [/us/pl/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F570
@@ -163,7 +163,7 @@
 [/us/usc/t2/s4507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507%2Fb
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 [/us/usc/t2/s4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4509
-[/us/pl/88/454/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs104%2Fd
+[/us/pl/88/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454
 [/us/stat/78/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F550
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 

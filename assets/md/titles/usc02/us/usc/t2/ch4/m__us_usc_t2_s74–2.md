@@ -15,7 +15,7 @@
 
 ## § 74–2. Omitted
 
-    Section, [Pub. L. 88–248, § 103][/us/pl/88/248/s103], Dec. 30, 1963, [77 Stat. 817][/us/stat/77/817]; [Pub. L. 89–90, § 103][/us/pl/89/90/s103], July 27, 1965, [79 Stat. 81][/us/stat/79/81]; [Pub. L. 90–417, § 103][/us/pl/90/417/s103], July 23, 1968, [82 Stat. 413][/us/stat/82/413], was based on House Resolutions No. 603, Apr. 16, 1962, and No. 685, Apr. 14, 1964, related to messengers in Office of Speaker, and was omitted for lack of general applicability.
+    Section, [Pub. L. 88–248][/us/pl/88/248], § 103, Dec. 30, 1963, [77 Stat. 817][/us/stat/77/817]; [Pub. L. 89–90][/us/pl/89/90], § 103, July 27, 1965, [79 Stat. 81][/us/stat/79/81]; [Pub. L. 90–417][/us/pl/90/417], § 103, July 23, 1968, [82 Stat. 413][/us/stat/82/413], was based on House Resolutions No. 603, Apr. 16, 1962, and No. 685, Apr. 14, 1964, related to messengers in Office of Speaker, and was omitted for lack of general applicability.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/88/248/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F248%2Fs103
+[/us/pl/88/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F248
 [/us/stat/77/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F817
-[/us/pl/89/90/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90%2Fs103
+[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F81
-[/us/pl/90/417/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F417%2Fs103
+[/us/pl/90/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F417
 [/us/stat/82/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F413
 
 

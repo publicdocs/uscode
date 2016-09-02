@@ -27,13 +27,13 @@
 
         Any such consultant or organization shall be selected for the Majority or Minority Conference Committee of the Senate by the chairman thereof.
 
-([Pub. L. 99–88, title I, § 195][/us/pl/99/88/s195], Aug. 15, 1985, [99 Stat. 349][/us/stat/99/349]; [Pub. L. 104–197, title I, § 1][/us/pl/104/197/s1], Sept. 16, 1996, [110 Stat. 2396][/us/stat/110/2396].)
+([Pub. L. 99–88, title I][/us/pl/99/88/tI], § 195, Aug. 15, 1985, [99 Stat. 349][/us/stat/99/349]; [Pub. L. 104–197, title I][/us/pl/104/197/tI], § 1, Sept. 16, 1996, [110 Stat. 2396][/us/stat/110/2396].)
 
  __Codification__ 
 
     Section was formerly classified to [section 61g–7 of this title][/us/usc/t2/s61g–7] prior to editorial reclassification and renumbering as this section.
 
-    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5]” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5]” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Section is from the Supplemental Appropriations Act, 1985.
 
@@ -50,14 +50,14 @@
 
 [/us/usc/t2/s6155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6155
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/99/88/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs195
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F349
-[/us/pl/104/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs1
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2396
 [/us/usc/t2/s61g–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%937
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197
 

@@ -23,7 +23,7 @@
 
         This section shall apply with respect to appropriations for fiscal year 2013 and each year thereafter.
 
-([Pub. L. 113–6, div. F, title VI, § 1606][/us/pl/113/6/s1606], Mar. 26, 2013, [127 Stat. 426][/us/stat/127/426].)
+([Pub. L. 113–6, div. F, title VI][/us/pl/113/6/dF/tVI], § 1606, Mar. 26, 2013, [127 Stat. 426][/us/stat/127/426].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s8147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147%2Fb
-[/us/pl/113/6/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1606
+[/us/pl/113/6/dF/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdF%2FtVI
 [/us/stat/127/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F426
 [/us/stat/127/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F412
 

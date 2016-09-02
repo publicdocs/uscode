@@ -19,7 +19,7 @@
 
     (b) This section shall take effect at the beginning of the first month after October 1992.
 
-([Pub. L. 102–392, title I, § 104][/us/pl/102/392/s104], Oct. 6, 1992, [106 Stat. 1710][/us/stat/106/1710].)
+([Pub. L. 102–392, title I][/us/pl/102/392/tI], § 104, Oct. 6, 1992, [106 Stat. 1710][/us/stat/106/1710].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/102/392/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs104
+[/us/pl/102/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtI
 [/us/stat/106/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1710
 [/us/usc/t2/s117h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117h
 

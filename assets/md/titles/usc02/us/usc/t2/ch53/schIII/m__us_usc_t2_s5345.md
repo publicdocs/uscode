@@ -27,7 +27,7 @@
 
         The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.
 
-([Pub. L. 104–186, title I, § 107][/us/pl/104/186/s107], Aug. 20, 1996, [110 Stat. 1723][/us/stat/110/1723].)
+([Pub. L. 104–186, title I][/us/pl/104/186/tI], § 107, Aug. 20, 1996, [110 Stat. 1723][/us/stat/110/1723].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t1/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs212
-[/us/pl/104/186/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs107
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1723
 [/us/usc/t2/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs54
 [/us/pl/104/186/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs107

@@ -27,7 +27,7 @@
 
     (b) All papers filed with the Clerk pursuant to this chapter shall be promptly transmitted by him to the committee.
 
-([Pub. L. 91–138, § 14][/us/pl/91/138/s14], Dec. 5, 1969, [83 Stat. 289][/us/stat/83/289].)
+([Pub. L. 91–138][/us/pl/91/138], § 14, Dec. 5, 1969, [83 Stat. 289][/us/stat/83/289].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs14
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F289
 
 

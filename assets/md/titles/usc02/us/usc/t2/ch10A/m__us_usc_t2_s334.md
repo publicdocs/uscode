@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t2/ch10A/m__us_usc_t2_s333a.md) | [Next](./../../../..//us/usc/t2/ch10A/m__us_usc_t2_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs334)
 
-## § 334. Repealed. [Pub. L. 104–186, title II, § 210(3)(A)][/us/pl/104/186/s210/3/A], Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743]
+## § 334. Repealed. [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 210(3)(A), Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743]
 
-    Section, [Pub. L. 91–510, title IV, § 474][/us/pl/91/510/s474], Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194], directed Clerk of House to convert existing basic pay rates to per annum gross pay rates.
+    Section, [Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 474, Oct. 26, 1970, [84 Stat. 1194][/us/stat/84/1194], directed Clerk of House to convert existing basic pay rates to per annum gross pay rates.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/186/s210/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs210%2F3%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1743
-[/us/pl/91/510/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs474
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1194
 
 

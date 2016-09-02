@@ -75,7 +75,7 @@
 
         In making determinations under subsection (d), the court shall review the whole record, or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
-([Pub. L. 104–1, title IV, § 407][/us/pl/104/1/s407], Jan. 23, 1995, [109 Stat. 35][/us/stat/109/35].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 407, Jan. 23, 1995, [109 Stat. 35][/us/stat/109/35].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t28/s2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2344
 [/us/usc/t28/s2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2348
 [/us/usc/t2/s1406/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1406%2Fe
-[/us/pl/104/1/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs407
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F35
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F7

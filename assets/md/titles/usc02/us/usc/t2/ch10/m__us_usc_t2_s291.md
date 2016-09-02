@@ -29,7 +29,7 @@
 
     (3) the adoption of organization and position titles in the House which accurately reflect the respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
 
-([Pub. L. 88–652, § 2][/us/pl/88/652/s2], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079].)
+([Pub. L. 88–652][/us/pl/88/652], § 2, Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079].)
 
  __References in Text__ 
 
@@ -37,19 +37,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 88–652, § 17][/us/pl/88/652/s17], Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084], provided that: 
+[Pub. L. 88–652][/us/pl/88/652], § 17, Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084], provided that: 
 
 > “This Act \[enacting this chapter and amending sections 88c and 4131 of this title\] shall become effective on January 1, 1965.”
 
  __Short Title__ 
 
-[Pub. L. 88–652, § 1][/us/pl/88/652/s1], Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], provided that: 
+[Pub. L. 88–652][/us/pl/88/652], § 1, Oct. 13, 1964, [78 Stat. 1079][/us/stat/78/1079], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘House Employees Position Classification Act’.”
 
  __Savings Provision__ 
 
-[Pub. L. 88–652, § 15][/us/pl/88/652/s15], Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084], provided that:
+[Pub. L. 88–652][/us/pl/88/652], § 15, Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084], provided that:
 
 >     “(a) Notwithstanding any provision of this Act \[this chapter\], the aggregate (gross) rate of compensation of any employee immediately prior to the effective date of this Act \[Jan. 1, 1965\] shall not be reduced by reason of the enactment of this Act.
 
@@ -70,15 +70,15 @@
 ----------
 ----------
 
-[/us/pl/88/652/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs2
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079
-[/us/pl/88/652/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs17
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1084
-[/us/pl/88/652/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs1
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079
-[/us/pl/88/652/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs15
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1084
 
 

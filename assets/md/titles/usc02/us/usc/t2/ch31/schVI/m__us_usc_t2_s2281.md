@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-([Pub. L. 110–437, title VI, § 601][/us/pl/110/437/s601], Oct. 20, 2008, [122 Stat. 4999][/us/stat/122/4999].)
+([Pub. L. 110–437, title VI][/us/pl/110/437/tVI], § 601, Oct. 20, 2008, [122 Stat. 4999][/us/stat/122/4999].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs601
+[/us/pl/110/437/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtVI
 [/us/stat/122/4999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4999
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4983

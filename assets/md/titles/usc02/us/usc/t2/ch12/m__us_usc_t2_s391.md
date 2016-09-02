@@ -27,7 +27,7 @@
 
         Upon payment of reasonable charges therefor, not to exceed the charges allowed in the district court of the United States for the district wherein the place of examination is located, the officer shall furnish a copy of deposition to any party or the deponent.
 
-([Pub. L. 91–138, § 12][/us/pl/91/138/s12], Dec. 5, 1969, [83 Stat. 289][/us/stat/83/289].)
+([Pub. L. 91–138][/us/pl/91/138], § 12, Dec. 5, 1969, [83 Stat. 289][/us/stat/83/289].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs12
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F289
 
 

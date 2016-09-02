@@ -25,17 +25,17 @@
 
     (4) in accordance with prevailing rates under authority of sections 2042 to 2047 of this title, or section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 ([54 Stat. 1056][/us/stat/54/1056]; Public, No. 812, Seventy-sixth Congress), relating to the duties of the Architect of the Capitol with respect to the House of Representatives Restaurant.
 
-([Pub. L. 91–510, title IV, § 486][/us/pl/91/510/s486], Oct. 26, 1970, [84 Stat. 1197][/us/stat/84/1197].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 486, Oct. 26, 1970, [84 Stat. 1197][/us/stat/84/1197].)
 
  __References in Text__ 
 
     Section 3 of the Legislative Pay Act of 1929, referred to in par. (3), amended section 2 of the Classification Act of 1923, which was classified to section 662 of former Title 5, Executive Departments and Government Officers and Employees. The Classification Act of 1923, as amended, was repealed and superseded by the Classification Act of 1949, [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 954][/us/stat/63/954], 972. The amendment of section 3 of the Legislative Pay Act of 1929 made by act Aug. 1, 1941, § 6, [55 Stat. 615][/us/stat/55/615], was not repealed by the Classification Act of 1949. See section 1202(7), [63 Stat. 973][/us/stat/63/973].
 
-    Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in par. (4), means section 208 of [act Oct. 9, 1940, ch. 780][/us/act/1940-10-09/ch780], title II, [54 Stat. 1056][/us/stat/54/1056], which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 104–186, title II, § 221(3)(B)][/us/pl/104/186/s221/3/B], Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].
+    Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in par. (4), means section 208 of [act Oct. 9, 1940, ch. 780, title II][/us/act/1940-10-09/ch780/tII], [54 Stat. 1056][/us/stat/54/1056], which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(3)(B), Aug. 20, 1996, [110 Stat. 1748][/us/stat/110/1748].
 
  __Codification__ 
 
-    Section was classified to section 166b–1f of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166b–1f of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Effective Date__ 
 
@@ -52,17 +52,17 @@
 [/us/stat/46/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F38
 [/us/stat/55/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F615
 [/us/stat/54/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1056
-[/us/pl/91/510/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs486
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1197
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F954
 [/us/stat/55/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F615
 [/us/stat/63/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F973
-[/us/act/1940-10-09/ch780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch780
+[/us/act/1940-10-09/ch780/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch780%2FtII
 [/us/stat/54/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1056
-[/us/pl/104/186/s221/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F3%2FB
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1748
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301

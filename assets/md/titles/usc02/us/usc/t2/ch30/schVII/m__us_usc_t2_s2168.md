@@ -63,11 +63,11 @@
 
         This section and the amendment made by this section shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-([Pub. L. 108–447, div. G, title II, § 215][/us/pl/108/447/s215], Dec. 8, 2004, [118 Stat. 3197][/us/stat/118/3197].)
+([Pub. L. 108–447, div. G, title II][/us/pl/108/447/dG/tII], § 215, Dec. 8, 2004, [118 Stat. 3197][/us/stat/118/3197].)
 
  __Codification__ 
 
-    Section is comprised of [section 215 of div. G of Pub. L. 108–447][/us/pl/108/447/s215]. Subsec. (d) of [section 215 of div. G of Pub. L. 108–447][/us/pl/108/447/s215] amended [section 293 of this title][/us/usc/t2/s293].
+    Section is comprised of [section 215 of div. G of Pub. L. 108–447][/us/pl/108/447/dG/s215]. Subsec. (d) of [section 215 of div. G of Pub. L. 108–447][/us/pl/108/447/dG/s215] amended [section 293 of this title][/us/usc/t2/s293].
 
     Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
@@ -78,10 +78,10 @@
 ----------
 ----------
 
-[/us/pl/108/447/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs215
+[/us/pl/108/447/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtII
 [/us/stat/118/3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3197
-[/us/pl/108/447/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs215
-[/us/pl/108/447/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs215
+[/us/pl/108/447/dG/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2Fs215
+[/us/pl/108/447/dG/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2Fs215
 [/us/usc/t2/s293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs293
 
 

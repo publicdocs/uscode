@@ -17,7 +17,7 @@
 
     The law library shall be kept open every day so long as either House of Congress is in session.
 
-([July 11, 1888, ch. 615, § 1][/us/act/1888-07-11/ch615/s1], [25 Stat. 262][/us/stat/25/262].)
+([July 11, 1888, ch. 615][/us/act/1888-07-11/ch615], § 1, [25 Stat. 262][/us/stat/25/262].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-07-11/ch615/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-07-11%2Fch615%2Fs1
+[/us/act/1888-07-11/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-07-11%2Fch615
 [/us/stat/25/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F262
 
 

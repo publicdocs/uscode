@@ -17,7 +17,7 @@
 
     Effective April 1, 1977, the Deputy President pro tempore is authorized to appoint and fix the compensation of an Administrative Assistant at not to exceed $47,595 per annum; a Legislative Assistant at not to exceed $40,080 per annum, and an Executive Secretary at not to exceed $23,380 per annum.
 
-([Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 80][/us/stat/91/80].)
+([Pub. L. 95–26, title I][/us/pl/95/26/tI], May 4, 1977, [91 Stat. 80][/us/stat/91/80].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F80
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571

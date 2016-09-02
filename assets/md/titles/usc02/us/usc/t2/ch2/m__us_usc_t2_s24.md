@@ -17,7 +17,7 @@
 
     The Secretary of the Senate, and the assistant secretary thereof, shall, respectively, have power to administer any oath or affirmation required by law, or by the rules or orders of the Senate, to be taken by any officer of the Senate, and to any witness produced before it.
 
-([Apr. 18, 1876, ch. 66, § 2][/us/act/1876-04-18/ch66/s2], [19 Stat. 34][/us/stat/19/34]; [Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 125][/us/stat/85/125].)
+([Apr. 18, 1876, ch. 66][/us/act/1876-04-18/ch66], § 2, [19 Stat. 34][/us/stat/19/34]; [Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 125][/us/stat/85/125].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1876-04-18/ch66/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-04-18%2Fch66%2Fs2
+[/us/act/1876-04-18/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1876-04-18%2Fch66
 [/us/stat/19/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F34
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/stat/85/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F125

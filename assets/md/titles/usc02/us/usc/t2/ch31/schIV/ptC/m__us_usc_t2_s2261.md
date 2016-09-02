@@ -17,7 +17,7 @@
 
     In this subchapter, the term “transfer date” means the date occurring on the first day of the first pay period (applicable to employees transferred under [section 2241 of this title][/us/usc/t2/s2241]) occurring on or after 30 days after October 20, 2008.
 
-([Pub. L. 110–437, title IV, § 421][/us/pl/110/437/s421], Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996].)
+([Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 421, Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2241
-[/us/pl/110/437/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs421
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4996
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4990

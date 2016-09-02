@@ -49,11 +49,11 @@
 
         This section shall apply with respect to fiscal year 2003 and each succeeding fiscal year.
 
-([Pub. L. 107–117, div. B, § 908][/us/pl/107/117/s908], Jan. 10, 2002, [115 Stat. 2319][/us/stat/115/2319]; [Pub. L. 108–7, div. H, title I, § 1007][/us/pl/108/7/s1007], Feb. 20, 2003, [117 Stat. 358][/us/stat/117/358].)
+([Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 908, Jan. 10, 2002, [115 Stat. 2319][/us/stat/115/2319]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1007, Feb. 20, 2003, [117 Stat. 358][/us/stat/117/358].)
 
  __Codification__ 
 
-    Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 207b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Deadline for Regulations__ 
 
-[Pub. L. 108–7, div. H, title I, § 1020][/us/pl/108/7/s1020], Feb. 20, 2003, [117 Stat. 370][/us/stat/117/370], provided that: 
+[Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1020, Feb. 20, 2003, [117 Stat. 370][/us/stat/117/370], provided that: 
 
 > “Not later than 60 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Chief of the Capitol Police shall promulgate any regulations required by sections 1004, 1006, 1007, and 1011 of this Act \[enacting [section 1931 of this title][/us/usc/t2/s1931] and amending this section and [section 1927 of this title][/us/usc/t2/s1927]\].”
 
@@ -73,14 +73,14 @@
 ----------
 
 [/us/usc/t5/s5379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5379
-[/us/pl/107/117/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs908
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2319
-[/us/pl/108/7/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1007
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F358
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/108/7/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1020
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F370
 [/us/usc/t2/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1931
 [/us/usc/t2/s1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1927

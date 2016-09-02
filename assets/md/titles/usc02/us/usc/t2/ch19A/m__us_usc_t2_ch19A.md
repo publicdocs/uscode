@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch19/schII/m__us_usc_t2_ch19_schII.md) | [Next](./../../../..//us/usc/t2/ch19A/m__us_usc_t2_s831.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch19A)
+[Previous](./../../../..//us/usc/t2/ch19/schII/m__us_usc_t2_s811...817c.md) | [Next](./../../../..//us/usc/t2/ch19A/m__us_usc_t2_s831.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch19A)
 
 ## CHAPTER 19A—JOHN HEINZ COMPETITIVE EXCELLENCE AWARD
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch19/schII/m__us_usc_t2_ch19_schII.md) | [Next](./../../../..//us/usc/t2/ch19A/m__us_usc_t2_s831.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch19A)
+[Previous](./../../../..//us/usc/t2/ch19/schII/m__us_usc_t2_s811...817c.md) | [Next](./../../../..//us/usc/t2/ch19A/m__us_usc_t2_s831.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch19A)
 
 ----------
 ----------

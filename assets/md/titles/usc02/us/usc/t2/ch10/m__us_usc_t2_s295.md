@@ -17,7 +17,7 @@
 
     The committee shall place each position (in existence on, or established after, January 1, 1965) under the House of Representatives to which this chapter applies in its appropriate class, and in its appropriate compensation level of the appropriate compensation schedule, in accordance with the position standards and position descriptions provided for in [section 294 of this title][/us/usc/t2/s294]. The committee is authorized, when circumstances so warrant, to change any such position from one class or compensation level to another class or compensation level. All actions of the committee under this section shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
-([Pub. L. 88–652, § 6][/us/pl/88/652/s6], Oct. 13, 1964, [78 Stat. 1081][/us/stat/78/1081].)
+([Pub. L. 88–652][/us/pl/88/652], § 6, Oct. 13, 1964, [78 Stat. 1081][/us/stat/78/1081].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294
-[/us/pl/88/652/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs6
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1081
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079

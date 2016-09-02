@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 25, 1945, ch. 95][/us/act/1945-04-25/ch95], title I, [59 Stat. 78][/us/stat/59/78], limited salary increases under [section 60g of this title][/us/usc/t2/s60g] of standing committee clerks.
+    Section, [act Apr. 25, 1945, ch. 95, title I][/us/act/1945-04-25/ch95/tI], [59 Stat. 78][/us/stat/59/78], limited salary increases under [section 60g of this title][/us/usc/t2/s60g] of standing committee clerks.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1945-04-25/ch95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-04-25%2Fch95
+[/us/act/1945-04-25/ch95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-04-25%2Fch95%2FtI
 [/us/stat/59/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F78
 [/us/usc/t2/s60g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g
 

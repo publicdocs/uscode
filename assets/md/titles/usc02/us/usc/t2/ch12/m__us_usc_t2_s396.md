@@ -17,7 +17,7 @@
 
     The committee may allow any party reimbursement from the applicable accounts of the House of Representatives of his reasonable expenses of the contested election case, including reasonable attorneys fees, upon the verified application of such party accompanied by a complete and detailed account of his expenses and supporting vouchers and receipts.
 
-([Pub. L. 91–138, § 17][/us/pl/91/138/s17], Dec. 5, 1969, [83 Stat. 290][/us/stat/83/290]; [Pub. L. 104–186, title II, § 211(4)][/us/pl/104/186/s211/4], Aug. 20, 1996, [110 Stat. 1744][/us/stat/110/1744].)
+([Pub. L. 91–138][/us/pl/91/138], § 17, Dec. 5, 1969, [83 Stat. 290][/us/stat/83/290]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 211(4), Aug. 20, 1996, [110 Stat. 1744][/us/stat/110/1744].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/138/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs17
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F290
-[/us/pl/104/186/s211/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs211%2F4
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1744
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 

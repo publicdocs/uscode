@@ -91,7 +91,7 @@
 
         The term “Office” means the Office of Compliance.
 
-([Pub. L. 104–1, title I, § 101][/us/pl/104/1/s101], Jan. 23, 1995, [109 Stat. 4][/us/stat/109/4]; [Pub. L. 110–279, § 1(g)(1)][/us/pl/110/279/s1/g/1], July 17, 2008, [122 Stat. 2609][/us/stat/122/2609]; [Pub. L. 110–437, title IV, § 422(b)(1)][/us/pl/110/437/s422/b/1], (2), Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996]; [Pub. L. 111–145, § 2(a)(5)(A)][/us/pl/111/145/s2/a/5/A], Mar. 4, 2010, [124 Stat. 50][/us/stat/124/50].)
+([Pub. L. 104–1, title I][/us/pl/104/1/tI], § 101, Jan. 23, 1995, [109 Stat. 4][/us/stat/109/4]; [Pub. L. 110–279][/us/pl/110/279], § 1(g)(1), July 17, 2008, [122 Stat. 2609][/us/stat/122/2609]; [Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 422(b)(1), (2), Oct. 20, 2008, [122 Stat. 4996][/us/stat/122/4996]; [Pub. L. 111–145][/us/pl/111/145], § 2(a)(5)(A), Mar. 4, 2010, [124 Stat. 50][/us/stat/124/50].)
 
  __References in Text__ 
 
@@ -101,15 +101,15 @@
 
     2010—Par. (9)(D). [Pub. L. 111–145][/us/pl/111/145] substituted “the United States Capitol Police,” for “the Capitol Police Board,”.
 
-    2008—Par. (3)(C). [Pub. L. 110–437, § 422(b)(1)][/us/pl/110/437/s422/b/1], substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
+    2008—Par. (3)(C). [Pub. L. 110–437][/us/pl/110/437], § 422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
 
     Par. (5). [Pub. L. 110–279][/us/pl/110/279], which directed substitution of “or the Botanic Garden” for “, the Botanic Garden, or the Senate Restaurant”, was executed by making the substitution for “, the Botanic Garden, or the Senate Restaurants” to reflect the probable intent of Congress.
 
-    Par. (9)(D). [Pub. L. 110–437, § 422(b)(2)][/us/pl/110/437/s422/b/2], substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Board,”.
+    Par. (9)(D). [Pub. L. 110–437][/us/pl/110/437], § 422(b)(2), substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Board,”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–437, title IV, § 422(d)][/us/pl/110/437/s422/d], Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997], provided that: 
+[Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 422(d), Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1331 and 1341 of this title and [section 2107 of Title 5][/us/usc/t5/s2107], Government Organization and Employees, and repealing [section 2166 of this title][/us/usc/t2/s2166]\] shall take effect on the transfer date \[first day of first pay period (applicable to employees transferred under [section 2241 of this title][/us/usc/t2/s2241]) on or after 30 days after Oct. 20, 2008, see [section 2261 of this title][/us/usc/t2/s2261]\].”
 
@@ -117,19 +117,19 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–6, § 1][/us/pl/114/6/s1], Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81], provided that: 
+[Pub. L. 114–6][/us/pl/114/6], § 1, Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81], provided that: 
 
 > “This Act \[amending sections 1403, 1404, and 1416 of this title and enacting provisions set out as notes under sections 1381 and 1403 of this title\] may be cited as the ‘Office of Compliance Administrative and Technical Corrections Act of 2015’.”
 
  __Short Title__ 
 
-[Pub. L. 104–1, § 1(a)][/us/pl/104/1/s1/a], Jan. 23, 1995, [109 Stat. 3][/us/stat/109/3], provided that: 
+[Pub. L. 104–1][/us/pl/104/1], § 1(a), Jan. 23, 1995, [109 Stat. 3][/us/stat/109/3], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, [section 6381 of Title 5][/us/usc/t5/s6381], Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under [section 751 of Title 31][/us/usc/t31/s751], Money and Finance\] may be cited as the ‘Congressional Accountability Act of 1995’.”
 
  __Construction of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 2(a)(5)(B)][/us/pl/111/145/s2/a/5/B], Mar. 4, 2010, [124 Stat. 50][/us/stat/124/50], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 2(a)(5)(B), Mar. 4, 2010, [124 Stat. 50][/us/stat/124/50], provided that: 
 
 > “Nothing in the amendment made by subparagraph (A) \[amending this section\] may be construed to affect any procedure initiated under title IV of the Congressional Accountability Act of 1995 \[[2 U.S.C. 1401][/us/usc/t2/s1401] et seq.\] prior to the date of the enactment of this Act \[Mar. 4, 2010\].”
 
@@ -140,21 +140,21 @@
 ----------
 ----------
 
-[/us/pl/104/1/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs101
+[/us/pl/104/1/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtI
 [/us/stat/109/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F4
-[/us/pl/110/279/s1/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279%2Fs1%2Fg%2F1
+[/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
 [/us/stat/122/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2609
-[/us/pl/110/437/s422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fb%2F1
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4996
-[/us/pl/111/145/s2/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F5%2FA
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F50
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/437/s422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fb%2F1
+[/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
-[/us/pl/110/437/s422/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fb%2F2
-[/us/pl/110/437/s422/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs422%2Fd
+[/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4997
 [/us/usc/t5/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2107
 [/us/usc/t2/s2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2166
@@ -162,13 +162,13 @@
 [/us/usc/t2/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2261
 [/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
 [/us/usc/t2/s2051/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2051%2Fi
-[/us/pl/114/6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs1
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
 [/us/stat/129/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F81
-[/us/pl/104/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs1%2Fa
+[/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3
 [/us/usc/t5/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6381
 [/us/usc/t31/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs751
-[/us/pl/111/145/s2/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F5%2FB
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F50
 [/us/usc/t2/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1401
 

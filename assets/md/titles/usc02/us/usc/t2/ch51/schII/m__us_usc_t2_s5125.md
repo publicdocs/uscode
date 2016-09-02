@@ -19,7 +19,7 @@
 
     (b) Sections 5125 to 5129 of this title shall not apply with respect to any former Speaker of the House of Representatives for any period during which such former Speaker holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate or to any former Speaker separated from the service by reason of expulsion from the House.
 
-([Pub. L. 91–665][/us/pl/91/665], ch. VIII, Jan. 8, 1971, [84 Stat. 1989][/us/stat/84/1989]; [Pub. L. 93–532, § 1][/us/pl/93/532/s1], Dec. 22, 1974, [88 Stat. 1723][/us/stat/88/1723]; [Pub. L. 99–225][/us/pl/99/225], Dec. 28, 1985, [99 Stat. 1743][/us/stat/99/1743].)
+([Pub. L. 91–665][/us/pl/91/665], ch. VIII, Jan. 8, 1971, [84 Stat. 1989][/us/stat/84/1989]; [Pub. L. 93–532][/us/pl/93/532], § 1, Dec. 22, 1974, [88 Stat. 1723][/us/stat/88/1723]; [Pub. L. 99–225][/us/pl/99/225], Dec. 28, 1985, [99 Stat. 1743][/us/stat/99/1743].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@ Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as
 
  __Extension of House Resolution No. 1238, 91st Congress, to Former Speakers of House of Representatives__ 
 
-[Pub. L. 93–532, § 1(a)][/us/pl/93/532/s1/a], Dec. 22, 1974, [88 Stat. 1723][/us/stat/88/1723], provided that: 
+[Pub. L. 93–532][/us/pl/93/532], § 1(a), Dec. 22, 1974, [88 Stat. 1723][/us/stat/88/1723], provided that: 
 
 > “The provisions of H. Res. 1238, Ninety-first Congress, as enacted into permanent law by the Supplemental Appropriations Act, 1971 ([84 Stat. 1989][/us/stat/84/1989]) \[enacting this section, former sections 31b–3 and 31b–6 of this title, sections 5126 to 5128 of this title, and provisions set out as a note under this section\], are hereby extended to, and made applicable with respect to, each former Speaker of the House of Representatives, as long as he determines there is need therefor, commencing at the expiration of his term of office as Representative in Congress.”
 
@@ -56,7 +56,7 @@ Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as
 
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665
 [/us/stat/84/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1989
-[/us/pl/93/532/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F532%2Fs1
+[/us/pl/93/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F532
 [/us/stat/88/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1723
 [/us/pl/99/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F225
 [/us/stat/99/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1743
@@ -67,7 +67,7 @@ Section 7 of House Resolution No. 1238, Ninety-first Congress, Dec. 23, 1970, as
 [/us/pl/99/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F225
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665
 [/us/stat/84/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1989
-[/us/pl/93/532/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F532%2Fs1%2Fa
+[/us/pl/93/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F532
 [/us/stat/88/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1723
 [/us/stat/84/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1989
 

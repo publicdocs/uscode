@@ -17,7 +17,7 @@
 
     Whenever any person has left or leaves any civilian position in any department or agency in the executive branch of the Government in order to accept employment by the Senate Committee on Appropriations, he shall be carried on the rolls of such committee and shall be solely employed by such committee, and responsible only to it; but he shall be entitled upon making application to the Director of the Office of Personnel Management within thirty days after the termination of his employment by such committee (unless such employment is terminated for cause) to be restored to a position in the same or any other department or agency where an opening exists, comparable to the position which, according to the records of the department or agency which he left to accept employment by the Senate Committee on Appropriations or in the judgment of the Director of the Office of Personnel Management, such person would be occupying if he had remained in the employ of such department or agency during the time he was employed by such committee; and such person shall be restored to such position with the same seniority, status, and pay as if he had remained in the employ of the department or agency which he left, during such time. This section shall not be construed to require any person to be restored to a position in any department or agency after the expiration of the time for which he was appointed to the position which he left to accept employment by such committee.
 
-([June 13, 1945, ch. 189, § 1][/us/act/1945-06-13/ch189/s1], [59 Stat. 243][/us/stat/59/243]; [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], § 1, [59 Stat. 243][/us/stat/59/243]; [July 1, 1946, ch. 530][/us/act/1946-07-01/ch530], [60 Stat. 392][/us/stat/60/392]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1945-06-13/ch189/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-13%2Fch189%2Fs1
+[/us/act/1945-06-13/ch189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-13%2Fch189
 [/us/stat/59/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F243
 [/us/act/1946-07-01/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch530
 [/us/stat/60/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F392

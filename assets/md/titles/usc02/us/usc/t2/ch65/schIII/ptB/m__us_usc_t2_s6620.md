@@ -31,7 +31,7 @@
 
         This section shall apply to fiscal year 2004 and each succeeding fiscal year.
 
-([Pub. L. 108–83, title I, § 9][/us/pl/108/83/s9], Sept. 30, 2003, [117 Stat. 1013][/us/stat/117/1013].)
+([Pub. L. 108–83, title I][/us/pl/108/83/tI], § 9, Sept. 30, 2003, [117 Stat. 1013][/us/stat/117/1013].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/83/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs9
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1013
 [/us/usc/t2/s61f–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61f%E2%80%9311
 

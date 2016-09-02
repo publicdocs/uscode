@@ -49,7 +49,7 @@
 
         The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.
 
-([Pub. L. 110–81, title III, § 304][/us/pl/110/81/s304], Sept. 14, 2007, [121 Stat. 752][/us/stat/121/752]; [Pub. L. 112–105, § 19(b)(1)][/us/pl/112/105/s19/b/1], Apr. 4, 2012, [126 Stat. 304][/us/stat/126/304].)
+([Pub. L. 110–81, title III][/us/pl/110/81/tIII], § 304, Sept. 14, 2007, [121 Stat. 752][/us/stat/121/752]; [Pub. L. 112–105][/us/pl/112/105], § 19(b)(1), Apr. 4, 2012, [126 Stat. 304][/us/stat/126/304].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–105, § 19(b)(2)][/us/pl/112/105/s19/b/2], Apr. 4, 2012, [126 Stat. 305][/us/stat/126/305], provided that: 
+[Pub. L. 112–105][/us/pl/112/105], § 19(b)(2), Apr. 4, 2012, [126 Stat. 305][/us/stat/126/305], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) \[of [Pub. L. 112–105][/us/pl/112/105], set out as a note under [section 105 of Pub. L. 95–521][/us/pl/95/521/s105], in the Appendix to Title 5, Government Organization and Employees\] first take effect.”
 
  __Exercise of Rulemaking Authority__ 
 
-[Pub. L. 110–81, title III, § 306][/us/pl/110/81/s306], Sept. 14, 2007, [121 Stat. 754][/us/stat/121/754], provided that: 
+[Pub. L. 110–81, title III][/us/pl/110/81/tIII], § 306, Sept. 14, 2007, [121 Stat. 754][/us/stat/121/754], provided that: 
 
 > “The provisions of this title \[enacting this section\] are adopted by the House of Representatives—
 
@@ -90,18 +90,18 @@
 ----------
 ----------
 
-[/us/pl/110/81/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs304
+[/us/pl/110/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtIII
 [/us/stat/121/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F752
-[/us/pl/112/105/s19/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs19%2Fb%2F1
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F304
 [/us/pl/95/521/s103/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs103%2Fh%2F1
 [/us/usc/t2/s104e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104e
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
-[/us/pl/112/105/s19/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs19%2Fb%2F2
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F305
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/pl/95/521/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs105
-[/us/pl/110/81/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs306
+[/us/pl/110/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtIII
 [/us/stat/121/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F754
 
 

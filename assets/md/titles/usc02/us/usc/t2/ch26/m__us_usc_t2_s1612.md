@@ -23,7 +23,7 @@
 
         It is the sense of the Senate that lobbying expenses should not be tax deductible.
 
-([Pub. L. 104–65, § 23][/us/pl/104/65/s23], Dec. 19, 1995, [109 Stat. 705][/us/stat/109/705].)
+([Pub. L. 104–65][/us/pl/104/65], § 23, Dec. 19, 1995, [109 Stat. 705][/us/stat/109/705].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/65/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs23
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F705
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Senate is authorized to employ such administrative assistants as may be necessary in order to carry out the provisions of this Act under the jurisdiction of the Secretary.
 
-([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 244, [60 Stat. 839][/us/stat/60/839]; [Pub. L. 104–186, title II, § 204(18)][/us/pl/104/186/s204/18], Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
+([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 244, [60 Stat. 839][/us/stat/60/839]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(18), Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
-[/us/pl/104/186/s204/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F18
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1732
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F812

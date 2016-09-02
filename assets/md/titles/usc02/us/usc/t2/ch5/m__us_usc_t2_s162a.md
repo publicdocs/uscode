@@ -17,7 +17,7 @@
 
     Hereafter the gross salary of any position in the Library which is augmented by payment of an honorarium from other than appropriated funds under terms of [section 162 of this title][/us/usc/t2/s162] shall not exceed an amount, which when combined with such honorarium, will exceed the maximum salary provided in chapter 51 and subchapter III of chapter 53 of title 5.
 
-([June 22, 1949, ch. 235, § 101][/us/act/1949-06-22/ch235/s101], [63 Stat. 226][/us/stat/63/226]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972].)
+([June 22, 1949, ch. 235][/us/act/1949-06-22/ch235], § 101, [63 Stat. 226][/us/stat/63/226]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t2/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs162
-[/us/act/1949-06-22/ch235/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235%2Fs101
+[/us/act/1949-06-22/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235
 [/us/stat/63/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F226
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972

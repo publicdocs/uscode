@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288" data-uslm-ref="/us/usc/t2/s288">288</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288l" data-uslm-ref="/us/usc/t2/s288l">288l.</a>  </td>
 
     <td> Procedural provisions.  </td>
 

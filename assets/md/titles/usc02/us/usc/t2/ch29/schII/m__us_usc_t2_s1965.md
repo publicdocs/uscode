@@ -33,11 +33,11 @@
 
         (3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
 
-([Pub. L. 104–197, title III, § 308][/us/pl/104/197/s308], Sept. 16, 1996, [110 Stat. 2413][/us/stat/110/2413].)
+([Pub. L. 104–197, title III][/us/pl/104/197/tIII], § 308, Sept. 16, 1996, [110 Stat. 2413][/us/stat/110/2413].)
 
  __Codification__ 
 
-    Section was classified to section 212a–4a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 212a–4a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Change of Name__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/104/197/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs308
+[/us/pl/104/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtIII
 [/us/stat/110/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2413
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

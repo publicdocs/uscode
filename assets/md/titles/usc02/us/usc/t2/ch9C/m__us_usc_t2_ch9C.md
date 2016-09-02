@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_ch9B.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
+[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_s286...286g.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
 
 ## CHAPTER 9C—OFFICE OF PARLIAMENTARIAN OF HOUSE OF REPRESENTATIVES
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_ch9B.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
+[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_s286...286g.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
 
 ----------
 ----------

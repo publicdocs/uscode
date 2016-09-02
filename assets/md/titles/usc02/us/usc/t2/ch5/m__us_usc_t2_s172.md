@@ -21,7 +21,7 @@
 
     (2) the term Librarian means the Librarian of Congress.
 
-([Pub. L. 95–129, § 2][/us/pl/95/129/s2], Oct. 13, 1977, [91 Stat. 1151][/us/stat/91/1151].)
+([Pub. L. 95–129][/us/pl/95/129], § 2, Oct. 13, 1977, [91 Stat. 1151][/us/stat/91/1151].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F129%2Fs2
+[/us/pl/95/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F129
 [/us/stat/91/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1151
 
 

@@ -21,7 +21,7 @@
 
     (2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of each House.
 
-([Pub. L. 104–1, title V, § 501][/us/pl/104/1/s501], Jan. 23, 1995, [109 Stat. 39][/us/stat/109/39].)
+([Pub. L. 104–1, title V][/us/pl/104/1/tV], § 501, Jan. 23, 1995, [109 Stat. 39][/us/stat/109/39].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs501
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F39
 
 

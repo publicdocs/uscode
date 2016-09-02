@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of such provision to any person or circumstance is held to be invalid, the remainder of this chapter and the application of the provisions of the remainder to any person or circumstance shall not be affected thereby.
 
-([Pub. L. 104–1, title V, § 509][/us/pl/104/1/s509], Jan. 23, 1995, [109 Stat. 44][/us/stat/109/44].)
+([Pub. L. 104–1, title V][/us/pl/104/1/tV], § 509, Jan. 23, 1995, [109 Stat. 44][/us/stat/109/44].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs509
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F44
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

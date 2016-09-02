@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, R.S. § 56, authorizing payment on requisitions drawn by Secretary of Senate of moneys appropriated for compensation of Senate members and officers and for contingent Senate expenses, was omitted in view of the abolition of appropriation for the fund provided for in this section on and after July 1, 1935, and the authorization of annual definite appropriations by [act June 26, 1934, ch. 756, § 14][/us/act/1934-06-26/ch756/s14], [48 Stat. 1230][/us/stat/48/1230].
+    Section, R.S. § 56, authorizing payment on requisitions drawn by Secretary of Senate of moneys appropriated for compensation of Senate members and officers and for contingent Senate expenses, was omitted in view of the abolition of appropriation for the fund provided for in this section on and after July 1, 1935, and the authorization of annual definite appropriations by [act June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 14, [48 Stat. 1230][/us/stat/48/1230].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-26/ch756/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs14
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1230
 
 

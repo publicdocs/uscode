@@ -31,7 +31,7 @@
 
         The Committee on House Oversight shall prescribe such regulations as may be necessary to carry out this section.
 
-([Pub. L. 93–245][/us/pl/93/245], ch. VI, Jan. 3, 1974, [87 Stat. 1079][/us/stat/87/1079]; [Pub. L. 104–186, title II, § 204(6)][/us/pl/104/186/s204/6], (7), Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
+([Pub. L. 93–245][/us/pl/93/245], ch. VI, Jan. 3, 1974, [87 Stat. 1079][/us/stat/87/1079]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(6), (7), Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
 
  __Codification__ 
 
@@ -41,11 +41,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–186, § 204(7)(A)][/us/pl/104/186/s204/7/A], substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
+    1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186], § 204(7)(A), substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
-    Subsec. (b). [Pub. L. 104–186, § 204(6)][/us/pl/104/186/s204/6], substituted “Chief Administrative Officer” for “Clerk”.
+    Subsec. (b). [Pub. L. 104–186][/us/pl/104/186], § 204(6), substituted “Chief Administrative Officer” for “Clerk”.
 
-    Subsec. (c). [Pub. L. 104–186, § 204(7)(B)][/us/pl/104/186/s204/7/B], substituted “House Oversight” for “House Administration”.
+    Subsec. (c). [Pub. L. 104–186][/us/pl/104/186], § 204(7)(B), substituted “House Oversight” for “House Administration”.
 
  __Change of Name__ 
 
@@ -66,13 +66,13 @@ Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into pe
 
 [/us/pl/93/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F245
 [/us/stat/87/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1079
-[/us/pl/104/186/s204/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F6
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1730
 [/us/usc/t2/s60g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g%E2%80%932
 [/us/pl/93/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F245
-[/us/pl/104/186/s204/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F7%2FA
-[/us/pl/104/186/s204/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F6
-[/us/pl/104/186/s204/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F7%2FB
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/93/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F245
 [/us/stat/87/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1079
 [/us/usc/t2/s60g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g%E2%80%932

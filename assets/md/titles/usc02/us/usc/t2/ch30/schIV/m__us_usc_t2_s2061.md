@@ -35,7 +35,7 @@
 
         The day care center referred to in S. Res. 269, Ninety-eighth Congress, first session, is a day care center for which space may be designated under subsection (a) for use as a play area.
 
-([Pub. L. 98–392, § 3][/us/pl/98/392/s3], Aug. 21, 1984, [98 Stat. 1362][/us/stat/98/1362]; [Pub. L. 104–186, title II, § 221(14)][/us/pl/104/186/s221/14], Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750].)
+([Pub. L. 98–392][/us/pl/98/392], § 3, Aug. 21, 1984, [98 Stat. 1362][/us/stat/98/1362]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(14), Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    Section was classified to section 214b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 214b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/98/392/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F392%2Fs3
+[/us/pl/98/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F392
 [/us/stat/98/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1362
-[/us/pl/104/186/s221/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F14
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1750
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 

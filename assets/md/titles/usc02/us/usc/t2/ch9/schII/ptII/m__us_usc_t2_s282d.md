@@ -17,7 +17,7 @@
 
     The Legislative Counsel may send the official mail matter of the Office as franked mail under [section 3210 of title 39][/us/usc/t39/s3210].
 
-([Pub. L. 91–510, title V, § 525][/us/pl/91/510/s525], Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203]; [Pub. L. 92–51, § 101][/us/pl/92/51/s101], July 9, 1971, [85 Stat. 132][/us/stat/85/132].)
+([Pub. L. 91–510, title V][/us/pl/91/510/tV], § 525, Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203]; [Pub. L. 92–51][/us/pl/92/51], § 101, July 9, 1971, [85 Stat. 132][/us/stat/85/132].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t39/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210
-[/us/pl/91/510/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs525
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1203
-[/us/pl/92/51/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51%2Fs101
+[/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/stat/85/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F132
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/usc/t39/s3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210

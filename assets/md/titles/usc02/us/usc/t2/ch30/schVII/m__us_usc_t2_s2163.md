@@ -17,11 +17,11 @@
 
     Funds appropriated for the Capitol Grounds after October 1, 1976, shall be available for the purchase or rental, maintenance and operation of passenger motor vehicles to provide shuttle service for Members and employees of Congress to and from the buildings in the Legislative group.
 
-([Pub. L. 94–440, title VI][/us/pl/94/440], Oct. 1, 1976, [90 Stat. 1453][/us/stat/90/1453].)
+([Pub. L. 94–440, title VI][/us/pl/94/440/tVI], Oct. 1, 1976, [90 Stat. 1453][/us/stat/90/1453].)
 
  __Codification__ 
 
-    Section was classified to section 223 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 223 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/94/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440
+[/us/pl/94/440/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtVI
 [/us/stat/90/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1453
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

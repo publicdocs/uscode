@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 18 derived from [act July 25, 1866, ch. 245, § 3][/us/act/1866-07-25/ch245/s3], [14 Stat. 244][/us/stat/14/244].
+    R.S. § 18 derived from [act July 25, 1866, ch. 245][/us/act/1866-07-25/ch245], § 3, [14 Stat. 244][/us/stat/14/244].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1866-07-25/ch245/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-25%2Fch245%2Fs3
+[/us/act/1866-07-25/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-25%2Fch245
 [/us/stat/14/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F244
 
 

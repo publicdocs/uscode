@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 27 derived from acts [Feb. 28, 1871, ch. 99, § 19][/us/act/1871-02-28/ch99/s19], [16 Stat. 440][/us/stat/16/440], and [May 30, 1872, ch. 239][/us/act/1872-05-30/ch239], [17 Stat. 192][/us/stat/17/192].
+    R.S. § 27 derived from acts [Feb. 28, 1871, ch. 99][/us/act/1871-02-28/ch99], § 19, [16 Stat. 440][/us/stat/16/440], and [May 30, 1872, ch. 239][/us/act/1872-05-30/ch239], [17 Stat. 192][/us/stat/17/192].
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1899-02-14/ch154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-02-14%2Fch154
 [/us/stat/30/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F836
-[/us/act/1871-02-28/ch99/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-02-28%2Fch99%2Fs19
+[/us/act/1871-02-28/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-02-28%2Fch99
 [/us/stat/16/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F440
 [/us/act/1872-05-30/ch239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-05-30%2Fch239
 [/us/stat/17/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F192

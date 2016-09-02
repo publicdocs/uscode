@@ -17,7 +17,7 @@
 
     Funds expended by the Legislative Counsel of the Senate for travel and related expenses shall be subject to the same regulations and limitations (insofar as they are applicable) as those which the Senate Committee on Rules and Administration prescribes for application to travel and related expenses for which payment is authorized to be made from the contingent fund of the Senate.
 
-([Pub. L. 98–51, title I, § 106][/us/pl/98/51/s106], July 14, 1983, [97 Stat. 267][/us/stat/97/267].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 106, July 14, 1983, [97 Stat. 267][/us/stat/97/267].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/51/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs106
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F267
 [/us/usc/t2/s288n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288n
 

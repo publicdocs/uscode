@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch17A/schIV/m__us_usc_t2_ch17A_schIV.md) | [Next](./../../../..//us/usc/t2/ch17B/schI/m__us_usc_t2_ch17B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch17B)
+[Previous](./../../../..//us/usc/t2/ch17A/schIV/m__us_usc_t2_s665...665e.md) | [Next](./../../../..//us/usc/t2/ch17B/schI/m__us_usc_t2_ch17B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch17B)
 
 ## CHAPTER 17B—IMPOUNDMENT CONTROL
 
@@ -123,7 +123,7 @@ SUBCHAPTER III—LINE ITEM VETO  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch17A/schIV/m__us_usc_t2_ch17A_schIV.md) | [Next](./../../../..//us/usc/t2/ch17B/schI/m__us_usc_t2_ch17B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch17B)
+[Previous](./../../../..//us/usc/t2/ch17A/schIV/m__us_usc_t2_s665...665e.md) | [Next](./../../../..//us/usc/t2/ch17B/schI/m__us_usc_t2_ch17B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch17B)
 
 ----------
 ----------

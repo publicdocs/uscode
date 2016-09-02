@@ -19,7 +19,7 @@
 
     (b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
-([Pub. L. 104–197, title I, § 105][/us/pl/104/197/s105], Sept. 16, 1996, [110 Stat. 2404][/us/stat/110/2404]; [Pub. L. 107–68, title I, § 126][/us/pl/107/68/s126], Nov. 12, 2001, [115 Stat. 577][/us/stat/115/577].)
+([Pub. L. 104–197, title I][/us/pl/104/197/tI], § 105, Sept. 16, 1996, [110 Stat. 2404][/us/stat/110/2404]; [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 126, Nov. 12, 2001, [115 Stat. 577][/us/stat/115/577].)
 
  __Codification__ 
 
@@ -29,11 +29,11 @@
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–53, title I][/us/pl/104/53], Nov. 19, 1995, [109 Stat. 527][/us/stat/109/527].
+    [Pub. L. 104–53, title I][/us/pl/104/53/tI], Nov. 19, 1995, [109 Stat. 527][/us/stat/109/527].
 
-    [Pub. L. 103–283, title I][/us/pl/103/283], July 22, 1994, [108 Stat. 1433][/us/stat/108/1433].
+    [Pub. L. 103–283, title I][/us/pl/103/283/tI], July 22, 1994, [108 Stat. 1433][/us/stat/108/1433].
 
-    [Pub. L. 103–69, title I][/us/pl/103/69], Aug. 11, 1993, [107 Stat. 701][/us/stat/107/701].
+    [Pub. L. 103–69, title I][/us/pl/103/69/tI], Aug. 11, 1993, [107 Stat. 701][/us/stat/107/701].
 
  __Amendments__ 
 
@@ -46,15 +46,15 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/104/197/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs105
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2404
-[/us/pl/107/68/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs126
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F577
-[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F527
-[/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
+[/us/pl/103/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtI
 [/us/stat/108/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1433
-[/us/pl/103/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69
+[/us/pl/103/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtI
 [/us/stat/107/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F701
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
 

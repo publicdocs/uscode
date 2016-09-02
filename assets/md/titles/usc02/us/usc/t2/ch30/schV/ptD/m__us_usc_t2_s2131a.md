@@ -27,7 +27,7 @@
 
         (2) any statue provided and furnished by a State under [section 2131 of this title][/us/usc/t2/s2131] or any replacement statue provided by a State under [section 2132 of this title][/us/usc/t2/s2132].
 
-([Pub. L. 109–116, § 2][/us/pl/109/116/s2], Dec. 1, 2005, [119 Stat. 2524][/us/stat/119/2524].)
+([Pub. L. 109–116][/us/pl/109/116], § 2, Dec. 1, 2005, [119 Stat. 2524][/us/stat/119/2524].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Placement of Statue of Rosa Parks in National Statuary Hall__ 
 
-[Pub. L. 109–116, § 1][/us/pl/109/116/s1], Dec. 1, 2005, [119 Stat. 2524][/us/stat/119/2524], as amended by [Pub. L. 110–120, § 1(a)][/us/pl/110/120/s1/a], Nov. 19, 2007, [121 Stat. 1348][/us/stat/121/1348], provided that:
+[Pub. L. 109–116][/us/pl/109/116], § 1, Dec. 1, 2005, [119 Stat. 2524][/us/stat/119/2524], as amended by [Pub. L. 110–120][/us/pl/110/120], § 1(a), Nov. 19, 2007, [121 Stat. 1348][/us/stat/121/1348], provided that:
 
 >     “(a)  __Obtaining Statue__  __.—__ 
 
@@ -45,7 +45,7 @@
 
 >     The Joint Committee shall place the statue obtained under subsection (a) in the United States Capitol in a suitable permanent location in National Statuary Hall.”
 
-\[[Pub. L. 110–120, § 1(b)][/us/pl/110/120/s1/b], Nov. 19, 2007, [121 Stat. 1348][/us/stat/121/1348], provided that: 
+\[[Pub. L. 110–120][/us/pl/110/120], § 1(b), Nov. 19, 2007, [121 Stat. 1348][/us/stat/121/1348], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 1 of Pub. L. 109–116][/us/pl/109/116/s1], set out above\] shall take effect as if included in the enactment of [Public Law 109–116][/us/pl/109/116].”
 
@@ -60,15 +60,15 @@
 
 [/us/usc/t2/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2131
 [/us/usc/t2/s2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2132
-[/us/pl/109/116/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116%2Fs2
+[/us/pl/109/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116
 [/us/stat/119/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2524
 [/us/pl/109/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116
 [/us/stat/119/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2524
-[/us/pl/109/116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116%2Fs1
+[/us/pl/109/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116
 [/us/stat/119/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2524
-[/us/pl/110/120/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F120%2Fs1%2Fa
+[/us/pl/110/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F120
 [/us/stat/121/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1348
-[/us/pl/110/120/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F120%2Fs1%2Fb
+[/us/pl/110/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F120
 [/us/stat/121/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1348
 [/us/pl/109/116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116%2Fs1
 [/us/pl/109/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F116

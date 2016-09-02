@@ -31,7 +31,7 @@
 
         The Advisory Commission may, subject to appropriations, contract with and compensate government and private persons (including agencies) for property and services used to carry out its duties under this subchapter.
 
-([Pub. L. 104–4, title III, § 303][/us/pl/104/4/s303], Mar. 22, 1995, [109 Stat. 69][/us/stat/109/69].)
+([Pub. L. 104–4, title III][/us/pl/104/4/tIII], § 303, Mar. 22, 1995, [109 Stat. 69][/us/stat/109/69].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/104/4/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs303
+[/us/pl/104/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIII
 [/us/stat/109/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F69
 
 

@@ -23,7 +23,7 @@
 
         Subsection (a) shall apply with respect to hours of duty occurring on or after September 11, 2001.
 
-([Pub. L. 108–7, div. H, title I, § 1012][/us/pl/108/7/s1012], Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1012, Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1012
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F361
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

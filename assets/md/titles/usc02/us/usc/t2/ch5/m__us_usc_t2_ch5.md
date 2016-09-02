@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs142" data-uslm-ref="/us/usc/t2/s142">142</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs142l" data-uslm-ref="/us/usc/t2/s142l">142l.</a>  </td>
 
     <td> Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General.  </td>
 
@@ -761,7 +761,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs179" data-uslm-ref="/us/usc/t2/s179">179</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs179l" data-uslm-ref="/us/usc/t2/s179l">179l.</a>  </td>
 
     <td> National Film Registry of Library of Congress.  </td>
 
@@ -785,7 +785,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs179" data-uslm-ref="/us/usc/t2/s179">179</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs179o" data-uslm-ref="/us/usc/t2/s179o">179o.</a>  </td>
 
     <td> Responsibilities and powers of Board.  </td>
 

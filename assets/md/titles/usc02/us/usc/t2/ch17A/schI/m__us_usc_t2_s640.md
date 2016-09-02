@@ -17,11 +17,11 @@
 
     It shall not be in order in the House of Representatives to consider any resolution providing for an adjournment period of more than three calendar days during the month of July until the House of Representatives has approved annual appropriation bills providing new budget authority under the jurisdiction of all the subcommittees of the Committee on Appropriations for the fiscal year beginning on October 1 of such year. For purposes of this section, the chairman of the Committee on Appropriations of the House of Representatives shall periodically advise the Speaker as to changes in jurisdiction among its various subcommittees.
 
-([Pub. L. 93–344, title III, § 309][/us/pl/93/344/s309], July 12, 1974, [88 Stat. 314][/us/stat/88/314]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1052][/us/stat/99/1052].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 309, July 12, 1974, [88 Stat. 314][/us/stat/88/314]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1052][/us/stat/99/1052].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1330 of Title 31][/us/usc/t31/s1330] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1330 of Title 31][/us/usc/t31/s1330] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/93/344/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs309
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F314
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1052
 [/us/usc/t31/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1330
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t2/s641/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641%2Fc
@@ -57,7 +57,7 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177/s275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs275%2Fa%2F1
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

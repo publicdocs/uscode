@@ -17,11 +17,11 @@
 
     In addition to the authority provided under [section 1971 of this title][/us/usc/t2/s1971], at any time on or after January 10, 2002, the Capitol Police Board may accept contributions of comfort and other incidental items and services to support officers and employees of the United States Capitol Police while such officers and employees are on duty in response to emergencies involving the safety of human life or the protection of property.
 
-([Pub. L. 107–117, div. B, § 910][/us/pl/107/117/s910], Jan. 10, 2002, [115 Stat. 2322][/us/stat/115/2322].)
+([Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 910, Jan. 10, 2002, [115 Stat. 2322][/us/stat/115/2322].)
 
  __Codification__ 
 
-    Section was classified to section 206d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 206d–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t2/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1971
-[/us/pl/107/117/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs910
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2322
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

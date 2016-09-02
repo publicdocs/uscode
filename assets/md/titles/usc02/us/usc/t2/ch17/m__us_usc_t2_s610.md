@@ -43,7 +43,7 @@
 
         This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-([Pub. L. 107–68, title I, § 127][/us/pl/107/68/s127], Nov. 12, 2001, [115 Stat. 577][/us/stat/115/577].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 127, Nov. 12, 2001, [115 Stat. 577][/us/stat/115/577].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t5/s5379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5379
-[/us/pl/107/68/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs127
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F577
 
 

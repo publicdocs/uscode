@@ -17,11 +17,11 @@
 
     The Librarian of Congress shall establish the National Recording Registry for the purpose of maintaining and preserving sound recordings that are culturally, historically, or aesthetically significant.
 
-([Pub. L. 106–474, title I, § 101][/us/pl/106/474/s101], Nov. 9, 2000, [114 Stat. 2085][/us/stat/114/2085].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 101, Nov. 9, 2000, [114 Stat. 2085][/us/stat/114/2085].)
 
  __Short Title__ 
 
-[Pub. L. 106–474, § 1][/us/pl/106/474/s1], Nov. 9, 2000, [114 Stat. 2085][/us/stat/114/2085], provided that: 
+[Pub. L. 106–474][/us/pl/106/474], § 1, Nov. 9, 2000, [114 Stat. 2085][/us/stat/114/2085], provided that: 
 
 > “This Act \[enacting this chapter and chapter 1524 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations\] may be cited as the ‘National Recording Preservation Act of 2000’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/106/474/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs101
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2085
-[/us/pl/106/474/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs1
+[/us/pl/106/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474
 [/us/stat/114/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2085
 
 

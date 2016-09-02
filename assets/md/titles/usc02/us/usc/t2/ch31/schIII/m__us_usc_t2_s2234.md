@@ -27,7 +27,7 @@
 
         The Fund shall be subject to audit by the Comptroller General at the discretion of the Comptroller General.
 
-([Pub. L. 110–437, title III, § 304][/us/pl/110/437/s304], Oct. 20, 2008, [122 Stat. 4990][/us/stat/122/4990].)
+([Pub. L. 110–437, title III][/us/pl/110/437/tIII], § 304, Oct. 20, 2008, [122 Stat. 4990][/us/stat/122/4990].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs304
+[/us/pl/110/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIII
 [/us/stat/122/4990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4990
 
 

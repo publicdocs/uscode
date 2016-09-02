@@ -17,7 +17,7 @@
 
     It shall be the duty of the Secretary and Sergeant at Arms of the Senate to cause to be sold all waste paper and useless documents and condemned furniture that may accumulate, in their respective departments or offices, under the direction of the Committee on Rules and Administration of the Senate and cover the proceeds thereof into the Treasury.
 
-([Aug. 7, 1882, ch. 433, § 1][/us/act/1882-08-07/ch433/s1], [22 Stat. 337][/us/stat/22/337]; [May 29, 1928, ch. 901, § 1(122)][/us/act/1928-05-29/ch901/s1/122], [45 Stat. 995][/us/stat/45/995]; [Pub. L. 104–186, title II, § 204(62)][/us/pl/104/186/s204/62], Aug. 20, 1996, [110 Stat. 1739][/us/stat/110/1739].)
+([Aug. 7, 1882, ch. 433][/us/act/1882-08-07/ch433], § 1, [22 Stat. 337][/us/stat/22/337]; [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(122), [45 Stat. 995][/us/stat/45/995]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(62), Aug. 20, 1996, [110 Stat. 1739][/us/stat/110/1739].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Report on Sales Discontinued__ 
 
-[Act May 29, 1928, ch. 901, § 1(122)][/us/act/1928-05-29/ch901/s1/122], [45 Stat. 995][/us/stat/45/995], provided for the discontinuance of reports on waste paper, etc., as follows: 
+[Act May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(122), [45 Stat. 995][/us/stat/45/995], provided for the discontinuance of reports on waste paper, etc., as follows: 
 
 > “122. Reports by the Clerk and Doorkeeper of the House and the Secretary and Sergeant at Arms of the Senate of the sales of waste paper and useless documents and condemned furniture, and so forth.”
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/act/1882-08-07/ch433/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-07%2Fch433%2Fs1
+[/us/act/1882-08-07/ch433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-07%2Fch433
 [/us/stat/22/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F337
-[/us/act/1928-05-29/ch901/s1/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F122
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F995
-[/us/pl/104/186/s204/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F62
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1739
 [/us/usc/t2/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/act/1928-05-29/ch901/s1/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F122
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F995
 
 

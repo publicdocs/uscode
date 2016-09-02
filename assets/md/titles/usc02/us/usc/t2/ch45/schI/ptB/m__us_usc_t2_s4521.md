@@ -23,7 +23,7 @@
 
     Section was formerly classified to [section 47 of this title][/us/usc/t2/s47] prior to editorial reclassification and renumbering as this section.
 
-    R.S. § 46 derived from acts [Jan. 22, 1818, ch. 5, § 3][/us/act/1818-01-22/ch5/s3], [3 Stat. 404][/us/stat/3/404], and [Feb. 10, 1854, ch. 11, § 1][/us/act/1854-02-10/ch11/s1], [10 Stat. 267][/us/stat/10/267].
+    R.S. § 46 derived from acts [Jan. 22, 1818, ch. 5][/us/act/1818-01-22/ch5], § 3, [3 Stat. 404][/us/stat/3/404], and [Feb. 10, 1854, ch. 11][/us/act/1854-02-10/ch11], § 1, [10 Stat. 267][/us/stat/10/267].
 
 ----------
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t2/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs47
-[/us/act/1818-01-22/ch5/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1818-01-22%2Fch5%2Fs3
+[/us/act/1818-01-22/ch5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1818-01-22%2Fch5
 [/us/stat/3/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F3%2F404
-[/us/act/1854-02-10/ch11/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1854-02-10%2Fch11%2Fs1
+[/us/act/1854-02-10/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1854-02-10%2Fch11
 [/us/stat/10/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F267
 
 

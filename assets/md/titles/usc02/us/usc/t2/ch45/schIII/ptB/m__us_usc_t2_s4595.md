@@ -35,7 +35,7 @@
 
         This section shall apply to fiscal year 1996 and each fiscal year thereafter.
 
-([Pub. L. 104–197, title I, § 9][/us/pl/104/197/s9], Sept. 16, 1996, [110 Stat. 2398][/us/stat/110/2398].)
+([Pub. L. 104–197, title I][/us/pl/104/197/tI], § 9, Sept. 16, 1996, [110 Stat. 2398][/us/stat/110/2398].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/104/197/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs9
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2398
 [/us/usc/t2/s60p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60p
 

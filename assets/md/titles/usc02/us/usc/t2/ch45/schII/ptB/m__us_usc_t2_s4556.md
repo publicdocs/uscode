@@ -23,7 +23,7 @@
 
     (3) the term “legislative days” does not include any calendar day on which the House of Representatives is not in session.
 
-([Pub. L. 94–440, title II, § 101][/us/pl/94/440/s101], Oct. 1, 1976, [90 Stat. 1448][/us/stat/90/1448].)
+([Pub. L. 94–440, title II][/us/pl/94/440/tII], § 101, Oct. 1, 1976, [90 Stat. 1448][/us/stat/90/1448].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t2/s4555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4555
-[/us/pl/94/440/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs101
+[/us/pl/94/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtII
 [/us/stat/90/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1448
 [/us/usc/t2/s60e–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931b
 [/us/pl/94/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440

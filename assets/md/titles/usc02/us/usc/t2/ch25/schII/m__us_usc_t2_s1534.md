@@ -31,7 +31,7 @@
 
         No later than 6 months after March 22, 1995, the President shall issue guidelines and instructions to Federal agencies for appropriate implementation of subsections (a) and (b) consistent with applicable laws and regulations.
 
-([Pub. L. 104–4, title II, § 204][/us/pl/104/4/s204], Mar. 22, 1995, [109 Stat. 65][/us/stat/109/65].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 204, Mar. 22, 1995, [109 Stat. 65][/us/stat/109/65].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs204
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F65
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

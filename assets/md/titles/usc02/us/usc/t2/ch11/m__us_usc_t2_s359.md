@@ -41,7 +41,7 @@
 
         (B) For purposes of this paragraph, the term “election of Representatives” means an election held on the Tuesday following the first Monday of November in any even-numbered calendar year.
 
-([Pub. L. 90–206, title II, § 225(i)][/us/pl/90/206/s225/i], Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 95–19, title IV, § 401(a)][/us/pl/95/19/s401/a], Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45]; [Pub. L. 99–190, § 135(e)][/us/pl/99/190/s135/e], Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII, § 701(g)][/us/pl/101/194/s701/g], Nov. 30, 1989, [103 Stat. 1765][/us/stat/103/1765].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(i), Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 95–19, title IV][/us/pl/95/19/tIV], § 401(a), Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45]; [Pub. L. 99–190][/us/pl/99/190], § 135(e), Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(g), Nov. 30, 1989, [103 Stat. 1765][/us/stat/103/1765].)
 
  __Amendments__ 
 
@@ -71,13 +71,13 @@
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
-[/us/pl/90/206/s225/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fi
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F644
-[/us/pl/95/19/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs401%2Fa
+[/us/pl/95/19/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIV
 [/us/stat/91/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F45
-[/us/pl/99/190/s135/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs135%2Fe
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1322
-[/us/pl/101/194/s701/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fg
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1765
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358

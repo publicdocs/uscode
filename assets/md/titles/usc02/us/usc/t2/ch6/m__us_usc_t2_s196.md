@@ -17,7 +17,7 @@
 
     Senate resolutions providing for inquiries and investigations shall contain a limit of cost of such investigation, which limit shall not be exceeded except by vote of the Senate authorizing additional amounts.
 
-([Mar. 3, 1926, ch. 44, § 1][/us/act/1926-03-03/ch44/s1], [44 Stat. 162][/us/stat/44/162].)
+([Mar. 3, 1926, ch. 44][/us/act/1926-03-03/ch44], § 1, [44 Stat. 162][/us/stat/44/162].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-03-03/ch44/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-03-03%2Fch44%2Fs1
+[/us/act/1926-03-03/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-03-03%2Fch44
 [/us/stat/44/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F162
 
 

@@ -17,7 +17,7 @@
 
     Supplies for use of the Senate and the House of Representatives may be purchased in accordance with the schedule of contract articles and prices of the Administrator of General Services.
 
-([June 5, 1920, ch. 253, § 1][/us/act/1920-06-05/ch253/s1], [41 Stat. 1036][/us/stat/41/1036]; Ex. Ord. No. 6166, June 10, 1933, § 1; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 102, [63 Stat. 380][/us/stat/63/380].)
+([June 5, 1920, ch. 253][/us/act/1920-06-05/ch253], § 1, [41 Stat. 1036][/us/stat/41/1036]; Ex. Ord. No. 6166, June 10, 1933, § 1; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 102, [63 Stat. 380][/us/stat/63/380].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch253%2Fs1
+[/us/act/1920-06-05/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch253
 [/us/stat/41/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1036
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380

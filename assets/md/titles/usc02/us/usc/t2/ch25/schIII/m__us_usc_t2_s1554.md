@@ -17,7 +17,7 @@
 
     No later than 4 months after March 22, 1995, and no later than March 15 of each year thereafter, the Advisory Commission on Intergovernmental Relations shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives and the Committee on Governmental Affairs of the Senate, and to the President a report describing any Federal court case to which a State, local, or tribal government was a party in the preceding calendar year that required such State, local, or tribal government to undertake responsibilities or activities, beyond those such government would otherwise have undertaken, to comply with Federal statutes and regulations.
 
-([Pub. L. 104–4, title III, § 304][/us/pl/104/4/s304], Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
+([Pub. L. 104–4, title III][/us/pl/104/4/tIII], § 304, Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
 
  __Change of Name__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs304
+[/us/pl/104/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIII
 [/us/stat/109/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F70
 
 

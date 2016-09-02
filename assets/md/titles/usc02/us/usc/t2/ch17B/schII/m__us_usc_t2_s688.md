@@ -53,11 +53,11 @@
 
         (7) In any case in which there are amendments in disagreement, time on each amendment shall be limited to 30 minutes, to be equally divided between, and controlled by, the manager of the conference report and the minority leader or his designee. No amendment that is not germane to the provisions of such amendments shall be received.
 
-([Pub. L. 93–344, title X, § 1017][/us/pl/93/344/s1017], July 12, 1974, [88 Stat. 337][/us/stat/88/337].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1017, July 12, 1974, [88 Stat. 337][/us/stat/88/337].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1407 of Title 31][/us/usc/t31/s1407] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1407 of Title 31][/us/usc/t31/s1407] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -66,10 +66,10 @@
 ----------
 ----------
 
-[/us/pl/93/344/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1017
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F337
 [/us/usc/t31/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1407
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

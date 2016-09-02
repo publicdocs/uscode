@@ -27,7 +27,7 @@
 
         The Counsel shall limit any intervention or appearance as amicus curiae in an action or proceeding to issues relating to the powers and responsibilities of Congress.
 
-([Pub. L. 95–521, title VII, § 706][/us/pl/95/521/s706], Oct. 26, 1978, [92 Stat. 1880][/us/stat/92/1880].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 706, Oct. 26, 1978, [92 Stat. 1880][/us/stat/92/1880].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s288b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288b%2Fc
-[/us/pl/95/521/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs706
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1880
 
 

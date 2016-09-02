@@ -43,11 +43,11 @@
 
     (b) __Omitted__ 
 
-([Pub. L. 100–458, title I, § 119][/us/pl/100/458/s119], Oct. 1, 1988, [102 Stat. 2176][/us/stat/102/2176]; [Pub. L. 101–163, title III, § 320][/us/pl/101/163/s320], Nov. 21, 1989, [103 Stat. 1068][/us/stat/103/1068]; [Pub. L. 101–520, title III, § 313(c)][/us/pl/101/520/s313/c], Nov. 5, 1990, [104 Stat. 2282][/us/stat/104/2282].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 119, Oct. 1, 1988, [102 Stat. 2176][/us/stat/102/2176]; [Pub. L. 101–163, title III][/us/pl/101/163/tIII], § 320, Nov. 21, 1989, [103 Stat. 1068][/us/stat/103/1068]; [Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 313(c), Nov. 5, 1990, [104 Stat. 2282][/us/stat/104/2282].)
 
  __Codification__ 
 
-    In subsec. (a)(6), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(6), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 143 of House Document No. 103–7.
 
@@ -74,15 +74,15 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t2/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1104%2Fb
 [/us/usc/t2/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1105%2Fb
-[/us/pl/100/458/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs119
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2176
-[/us/pl/101/163/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs320
+[/us/pl/101/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtIII
 [/us/stat/103/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1068
-[/us/pl/101/520/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs313%2Fc
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2282
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

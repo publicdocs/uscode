@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 61e, [act Aug. 5, 1955, ch. 568, § 1][/us/act/1955-08-05/ch568/s1], [69 Stat. 501][/us/stat/69/501], prescribed gross annual compensation of Sergeant at Arms of Senate.
+    A prior section 61e, [act Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], § 1, [69 Stat. 501][/us/stat/69/501], prescribed gross annual compensation of Sergeant at Arms of Senate.
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s6591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6591
-[/us/act/1955-08-05/ch568/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568%2Fs1
+[/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568
 [/us/stat/69/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F501
 
 

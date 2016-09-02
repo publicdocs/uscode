@@ -285,11 +285,11 @@
 
         This section shall take effect on July 17, 2008, and apply to the remainder of the fiscal year in which enacted and each fiscal year thereafter.
 
-([Pub. L. 110–279, § 1][/us/pl/110/279/s1], July 17, 2008, [122 Stat. 2604][/us/stat/122/2604].)
+([Pub. L. 110–279][/us/pl/110/279], § 1, July 17, 2008, [122 Stat. 2604][/us/stat/122/2604].)
 
  __References in Text__ 
 
-    [Section 2048 of this title][/us/usc/t2/s2048], referred to in subsec. (a)(2)(A)(iii), was repealed by [Pub. L. 110–279, § 1(c)(4)(C)][/us/pl/110/279/s1/c/4/C], July 17, 2008, [122 Stat. 2606][/us/stat/122/2606].
+    [Section 2048 of this title][/us/usc/t2/s2048], referred to in subsec. (a)(2)(A)(iii), was repealed by [Pub. L. 110–279][/us/pl/110/279], § 1(c)(4)(C), July 17, 2008, [122 Stat. 2606][/us/stat/122/2606].
 
     The Social Security Act, referred to in subsec. (c)(2)(B), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -323,10 +323,10 @@
 [/us/usc/t2/s4505/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4505%2Fe
 [/us/usc/t2/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4505
 [/us/usc/t2/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1301
-[/us/pl/110/279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279%2Fs1
+[/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
 [/us/stat/122/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2604
 [/us/usc/t2/s2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2048
-[/us/pl/110/279/s1/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279%2Fs1%2Fc%2F4%2FC
+[/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
 [/us/stat/122/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2606
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

@@ -19,7 +19,7 @@
 
     Upon agreement by the Librarian of Congress and the Board, a gift or bequest accepted by the Librarian under the first paragraph of this section may be invested or reinvested in the same manner as provided for trust funds under [section 157 of this title][/us/usc/t2/s157].
 
-([Mar. 3, 1925, ch. 423, § 4][/us/act/1925-03-03/ch423/s4], [43 Stat. 1108][/us/stat/43/1108]; [Pub. L. 105–55, title II, § 208][/us/pl/105/55/s208], Oct. 7, 1997, [111 Stat. 1194][/us/stat/111/1194].)
+([Mar. 3, 1925, ch. 423][/us/act/1925-03-03/ch423], § 4, [43 Stat. 1108][/us/stat/43/1108]; [Pub. L. 105–55, title II][/us/pl/105/55/tII], § 208, Oct. 7, 1997, [111 Stat. 1194][/us/stat/111/1194].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t2/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs157
-[/us/act/1925-03-03/ch423/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423%2Fs4
+[/us/act/1925-03-03/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423
 [/us/stat/43/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1108
-[/us/pl/105/55/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs208
+[/us/pl/105/55/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtII
 [/us/stat/111/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1194
 [/us/usc/t2/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs163
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55

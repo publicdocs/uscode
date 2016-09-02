@@ -17,13 +17,13 @@
 
     The Chief Administrative Officer of the House of Representatives (upon certification by the Clerk of the House of Representatives) shall deduct from the monthly payments (or other periodic payments authorized by law) of each Member or Delegate the amount of his salary for each day that he has been absent from the House, unless such Member or Delegate assigns as the reason for such absence the sickness of himself or of some member of his family.
 
-(R.S. § 40; [Pub. L. 97–51, § 112(d)][/us/pl/97/51/s112/d], Oct. 1, 1981, [95 Stat. 963][/us/stat/95/963]; [Pub. L. 104–186, title II, § 203(7)][/us/pl/104/186/s203/7], Aug. 20, 1996, [110 Stat. 1726][/us/stat/110/1726]; [Pub. L. 109–55, title I, § 5][/us/pl/109/55/s5], Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568].)
+(R.S. § 40; [Pub. L. 97–51][/us/pl/97/51], § 112(d), Oct. 1, 1981, [95 Stat. 963][/us/stat/95/963]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(7), Aug. 20, 1996, [110 Stat. 1726][/us/stat/110/1726]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 5, Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568].)
 
  __Codification__ 
 
     Section was formerly classified to [section 39 of this title][/us/usc/t2/s39] prior to editorial reclassification and renumbering as this section.
 
-    R.S. § 40 derived from [act Aug. 16, 1856, ch. 123, § 6][/us/act/1856-08-16/ch123/s6], [11 Stat. 49][/us/stat/11/49].
+    R.S. § 40 derived from [act Aug. 16, 1856, ch. 123][/us/act/1856-08-16/ch123], § 6, [11 Stat. 49][/us/stat/11/49].
 
  __Amendments__ 
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/97/51/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs112%2Fd
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F963
-[/us/pl/104/186/s203/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F7
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1726
-[/us/pl/109/55/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs5
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F568
 [/us/usc/t2/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs39
-[/us/act/1856-08-16/ch123/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-16%2Fch123%2Fs6
+[/us/act/1856-08-16/ch123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-16%2Fch123
 [/us/stat/11/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F49
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

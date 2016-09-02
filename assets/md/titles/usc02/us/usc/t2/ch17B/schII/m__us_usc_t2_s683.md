@@ -33,11 +33,11 @@
 
         Any amount of budget authority proposed to be rescinded or that is to be reserved as set forth in such special message shall be made available for obligation unless, within the prescribed 45-day period, the Congress has completed action on a rescission bill rescinding all or part of the amount proposed to be rescinded or that is to be reserved. Funds made available for obligation under this procedure may not be proposed for rescission again.
 
-([Pub. L. 93–344, title X, § 1012][/us/pl/93/344/s1012], July 12, 1974, [88 Stat. 333][/us/stat/88/333]; [Pub. L. 100–119, title II, § 207][/us/pl/100/119/s207], Sept. 29, 1987, [101 Stat. 786][/us/stat/101/786].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1012, July 12, 1974, [88 Stat. 333][/us/stat/88/333]; [Pub. L. 100–119, title II][/us/pl/100/119/tII], § 207, Sept. 29, 1987, [101 Stat. 786][/us/stat/101/786].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1402 of Title 31][/us/usc/t31/s1402] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1402 of Title 31][/us/usc/t31/s1402] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/93/344/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1012
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F333
-[/us/pl/100/119/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs207
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F786
 [/us/usc/t31/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1402
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 

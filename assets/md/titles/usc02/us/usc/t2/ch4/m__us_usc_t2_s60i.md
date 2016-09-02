@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60h.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60i)
 
-## § 60i. Repealed. [Pub. L. 87–730, § 106(c)][/us/pl/87/730/s106/c], Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695]
+## § 60i. Repealed. [Pub. L. 87–730][/us/pl/87/730], § 106(c), Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695]
 
-    Section, [act Feb. 13, 1945, ch. 2, § 1][/us/act/1945-02-13/ch2/s1], [59 Stat. 4][/us/stat/59/4], prescribed basic rates of compensation of telephone operators on the United States Capitol telephone exchange and authorized certain longevity increases. See [section 4507 of this title][/us/usc/t2/s4507].
+    Section, [act Feb. 13, 1945, ch. 2][/us/act/1945-02-13/ch2], § 1, [59 Stat. 4][/us/stat/59/4], prescribed basic rates of compensation of telephone operators on the United States Capitol telephone exchange and authorized certain longevity increases. See [section 4507 of this title][/us/usc/t2/s4507].
 
  __Effective Date of Repeal__ 
 
@@ -23,7 +23,7 @@
 
  __Prohibition Against Payment of Longevity Increase After__  __September 1, 1962__ 
 
-    [Pub. L. 87–730, § 106(c)][/us/pl/87/730/s106/c], Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695], provided in part that no longevity increase payable under authority of this section prior to Sept. 1, 1962, shall be payable on or after Sept. 1, 1962.
+    [Pub. L. 87–730][/us/pl/87/730], § 106(c), Oct. 2, 1962, [76 Stat. 695][/us/stat/76/695], provided in part that no longevity increase payable under authority of this section prior to Sept. 1, 1962, shall be payable on or after Sept. 1, 1962.
 
 ----------
 
@@ -32,14 +32,14 @@
 ----------
 ----------
 
-[/us/pl/87/730/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730%2Fs106%2Fc
+[/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730
 [/us/stat/76/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F695
-[/us/act/1945-02-13/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-02-13%2Fch2%2Fs1
+[/us/act/1945-02-13/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-02-13%2Fch2
 [/us/stat/59/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F4
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 [/us/pl/87/730/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730%2Fs106%2Fe
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
-[/us/pl/87/730/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730%2Fs106%2Fc
+[/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730
 [/us/stat/76/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F695
 
 

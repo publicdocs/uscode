@@ -17,7 +17,7 @@
 
     Effective January 5, 1977, the compensation of a Deputy President pro tempore of the Senate shall be at a rate equal to the rate of annual compensation of the President pro tempore and the Majority and Minority Leaders of the Senate.
 
-([Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 79][/us/stat/91/79].)
+([Pub. L. 95–26, title I][/us/pl/95/26/tI], May 4, 1977, [91 Stat. 79][/us/stat/91/79].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F79
 [/us/usc/t2/s32a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs32a
 

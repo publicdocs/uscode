@@ -23,7 +23,7 @@
 
         This section shall apply with respect to fiscal year 2013 and each succeeding fiscal year.
 
-([Pub. L. 112–74, div. G, title I, § 1201][/us/pl/112/74/s1201], Dec. 23, 2011, [125 Stat. 1128][/us/stat/125/1128].)
+([Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1201, Dec. 23, 2011, [125 Stat. 1128][/us/stat/125/1128].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/112/74/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1201
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1128
 
 

@@ -29,7 +29,7 @@
 
         (3) Any amounts described under [section 2273(d) of this title][/us/usc/t2/s2273/d].
 
-([Pub. L. 110–437, title III, § 302][/us/pl/110/437/s302], Oct. 20, 2008, [122 Stat. 4989][/us/stat/122/4989].)
+([Pub. L. 110–437, title III][/us/pl/110/437/tIII], § 302, Oct. 20, 2008, [122 Stat. 4989][/us/stat/122/4989].)
 
 ----------
 
@@ -41,7 +41,7 @@
 [/us/usc/t2/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2215
 [/us/usc/t2/s2216/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2216%2Fc
 [/us/usc/t2/s2273/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2273%2Fd
-[/us/pl/110/437/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs302
+[/us/pl/110/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIII
 [/us/stat/122/4989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4989
 
 

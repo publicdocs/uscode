@@ -17,7 +17,7 @@
 
     During fiscal year 2014 and any succeeding fiscal year, the Capitol Police may transfer amounts appropriated for the fiscal year between the category for salaries and the category for general expenses, upon the approval of the Committees on Appropriations of the House of Representatives and Senate.
 
-([Pub. L. 113–76, div. I, title I, § 1001][/us/pl/113/76/s1001], Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
+([Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1001, Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/76/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1001
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
 
 

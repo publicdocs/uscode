@@ -25,7 +25,7 @@
 
     (4) The minority whip, $15,000.
 
-([Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668]; [Pub. L. 104–186, title II, § 204(15)(B)][/us/pl/104/186/s204/15/B], Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 115, Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(15)(B), Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Limits on Uses of Funds__ 
 
-[Pub. L. 98–51, title I, § 112][/us/pl/98/51/s112], July 14, 1983, [97 Stat. 270][/us/stat/97/270], as amended by [Pub. L. 104–186, title II, § 204(16)][/us/pl/104/186/s204/16], Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732], provided that: 
+[Pub. L. 98–51, title I][/us/pl/98/51/tI], § 112, July 14, 1983, [97 Stat. 270][/us/stat/97/270], as amended by [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(16), Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732], provided that: 
 
 > “The funds provided under the provisions of section 2 of House Resolution 393, Ninety-fifth Congress, agreed to March 31, 1977, as enacted into permanent law by section 115 of the Congressional Operations Appropriation Act, 1978 \[[2 U.S.C. 5142][/us/usc/t2/s5142]\], and section 473 of the Legislative Reorganization Act of 1970 \[[2 U.S.C. 5103][/us/usc/t2/s5103]\], shall be limited to use for the compensation of additional personnel and other necessary official expenses.”
 
@@ -50,16 +50,16 @@
 ----------
 ----------
 
-[/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
-[/us/pl/104/186/s204/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F15%2FB
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1732
 [/us/usc/t2/s74a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%934
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/98/51/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs112
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F270
-[/us/pl/104/186/s204/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F16
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1732
 [/us/usc/t2/s5142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5142
 [/us/usc/t2/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5103

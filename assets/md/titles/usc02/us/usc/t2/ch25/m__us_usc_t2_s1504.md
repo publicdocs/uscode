@@ -17,7 +17,7 @@
 
     Each agency shall provide to the Director such information and assistance as the Director may reasonably request to assist the Director in carrying out this chapter.
 
-([Pub. L. 104–4, § 5][/us/pl/104/4/s5], Mar. 22, 1995, [109 Stat. 50][/us/stat/109/50].)
+([Pub. L. 104–4][/us/pl/104/4], § 5, Mar. 22, 1995, [109 Stat. 50][/us/stat/109/50].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs5
+[/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F50
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F48

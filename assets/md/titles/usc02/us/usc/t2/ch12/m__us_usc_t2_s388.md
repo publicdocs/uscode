@@ -41,7 +41,7 @@
 
         A subpena may also command the person to whom it is directed to produce the books, papers, documents, or other tangible things designated therein, but the committee, upon motion promptly made and in any event at or before the time specified in the subpena for compliance therewith, may (1) quash or modify the subpena if it is unreasonable or oppressive, or (2) condition denial of the motion upon the advancement by the party in whose behalf the subpena is issued of the reasonable cost of producing the books, papers, documents, or tangible things. In the case of public records or documents, copies thereof, certified by the person having official custody thereof, may be produced in lieu of the originals.
 
-([Pub. L. 91–138, § 9][/us/pl/91/138/s9], Dec. 5, 1969, [83 Stat. 288][/us/stat/83/288].)
+([Pub. L. 91–138][/us/pl/91/138], § 9, Dec. 5, 1969, [83 Stat. 288][/us/stat/83/288].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t2/s389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs389
-[/us/pl/91/138/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs9
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F288
 
 

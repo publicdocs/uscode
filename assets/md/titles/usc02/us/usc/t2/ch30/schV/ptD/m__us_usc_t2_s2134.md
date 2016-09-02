@@ -17,15 +17,15 @@
 
     No work of art or manufacture other than the property of the United States shall be exhibited in the National Statuary Hall, the Rotunda, Emancipation Hall of the Capitol Visitor Center, or the corridors of the Capitol.
 
-(R.S. § 1815; [Mar. 3, 1875, ch. 130][/us/act/1875-03-03/ch130], [18 Stat. 376][/us/stat/18/376]; [Mar. 3, 1879, ch. 182][/us/act/1879-03-03/ch182], [20 Stat. 391][/us/stat/20/391]; [Pub. L. 110–437, title I, § 101(f)(2)][/us/pl/110/437/s101/f/2], Oct. 20, 2008, [122 Stat. 4985][/us/stat/122/4985].)
+(R.S. § 1815; [Mar. 3, 1875, ch. 130][/us/act/1875-03-03/ch130], [18 Stat. 376][/us/stat/18/376]; [Mar. 3, 1879, ch. 182][/us/act/1879-03-03/ch182], [20 Stat. 391][/us/stat/20/391]; [Pub. L. 110–437, title I][/us/pl/110/437/tI], § 101(f)(2), Oct. 20, 2008, [122 Stat. 4985][/us/stat/122/4985].)
 
  __Codification__ 
 
-    Section was classified to section 189 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 189 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is based on act Mar. 3, 1879, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1879”.
 
-    R.S. § 1815 derived from [act July 20, 1868, ch. 176, § 6][/us/act/1868-07-20/ch176/s6], [15 Stat. 110][/us/stat/15/110].
+    R.S. § 1815 derived from [act July 20, 1868, ch. 176][/us/act/1868-07-20/ch176], § 6, [15 Stat. 110][/us/stat/15/110].
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 [/us/stat/18/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F376
 [/us/act/1879-03-03/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182
 [/us/stat/20/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F391
-[/us/pl/110/437/s101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs101%2Ff%2F2
+[/us/pl/110/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtI
 [/us/stat/122/4985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4985
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/act/1868-07-20/ch176/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-20%2Fch176%2Fs6
+[/us/act/1868-07-20/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-07-20%2Fch176
 [/us/stat/15/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F110
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 

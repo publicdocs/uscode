@@ -55,7 +55,7 @@
 
         The deadline for the initial guidelines required by paragraph (1) may be extended for 30 days by the Committee on Rules and Administration.
 
-([Pub. L. 110–81, title V, § 544(b)][/us/pl/110/81/s544/b], Sept. 14, 2007, [121 Stat. 769][/us/stat/121/769].)
+([Pub. L. 110–81, title V][/us/pl/110/81/tV], § 544(b), Sept. 14, 2007, [121 Stat. 769][/us/stat/121/769].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–81, title V, § 544(f)][/us/pl/110/81/s544/f], Sept. 14, 2007, [121 Stat. 771][/us/stat/121/771], provided that: 
+[Pub. L. 110–81, title V][/us/pl/110/81/tV], § 544(f), Sept. 14, 2007, [121 Stat. 771][/us/stat/121/771], provided that: 
 
 > “The amendments made by subsections (a) \[[121 Stat. 767][/us/stat/121/767]\] and (b) \[enacting this section\] shall take effect 60 days after the date of enactment of this Act \[Sept. 14, 2007\] or the date the Select Committee on Ethics issues new guidelines as required by subsection (b), whichever is later. Subsection (c) \[[121 Stat. 770][/us/stat/121/770]\] shall take effect on the date of enactment of this Act.”
 
  __Separately Regulated Expenses__ 
 
-[Pub. L. 110–81, title V, § 544(e)][/us/pl/110/81/s544/e], Sept. 14, 2007, [121 Stat. 771][/us/stat/121/771], provided that: 
+[Pub. L. 110–81, title V][/us/pl/110/81/tV], § 544(e), Sept. 14, 2007, [121 Stat. 771][/us/stat/121/771], provided that: 
 
 > “Nothing in this section \[enacting this section and provisions set out as a note under this section\] or section 541 \[[121 Stat. 766][/us/stat/121/766]\] is meant to alter treatment under law or Senate rules of expenses that are governed by the Foreign Gifts and Decorations Act \[of 1966, [22 U.S.C. 2621][/us/usc/t22/s2621] et seq.\] or the Mutual Educational and Cultural Exchange Act \[of 1961, [22 U.S.C. 2451][/us/usc/t22/s2451] et seq.\].”
 
@@ -84,15 +84,15 @@
 ----------
 ----------
 
-[/us/pl/110/81/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs544%2Fb
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F769
 [/us/pl/110/81/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs544
 [/us/usc/t2/s31–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%933
-[/us/pl/110/81/s544/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs544%2Ff
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F771
 [/us/stat/121/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F767
 [/us/stat/121/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F770
-[/us/pl/110/81/s544/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs544%2Fe
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F771
 [/us/stat/121/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F766
 [/us/usc/t22/s2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2621

@@ -27,7 +27,7 @@
 
         For the purposes of subsection (b), the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
 
-([Pub. L. 93–344, title V, § 506][/us/pl/93/344/s506], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614]; amended [Pub. L. 105–33, title X, § 10117(d)][/us/pl/105/33/s10117/d], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695].)
+([Pub. L. 93–344, title V][/us/pl/93/344/tV], § 506, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–614][/us/stat/104/1388-614]; amended [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10117(d), Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695].)
 
  __Prior Provisions__ 
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/93/344/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs506
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/93/344/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtV
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-614
-[/us/pl/105/33/s10117/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fd
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F695
 [/us/pl/93/344/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs506
 [/us/stat/88/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F322

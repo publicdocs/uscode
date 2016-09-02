@@ -39,7 +39,7 @@
 
         (2) An individual who has served as a congressional page at any time during each of any three semesters or terms, as the case may be, shall not be eligible to serve as a page.
 
-([Pub. L. 98–367, title I, § 103][/us/pl/98/367/s103], July 17, 1984, [98 Stat. 479][/us/stat/98/479]; [Pub. L. 104–186, title II, § 204(40)(C)][/us/pl/104/186/s204/40/C]–(E), Aug. 20, 1996, [110 Stat. 1736][/us/stat/110/1736].)
+([Pub. L. 98–367, title I][/us/pl/98/367/tI], § 103, July 17, 1984, [98 Stat. 479][/us/stat/98/479]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(40)(C)–(E), Aug. 20, 1996, [110 Stat. 1736][/us/stat/110/1736].)
 
  __Codification__ 
 
@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1)(B). [Pub. L. 104–186, § 204(40)(C)][/us/pl/104/186/s204/40/C], substituted “semester or two full semesters” for “term or two full terms”.
+    1996—Subsec. (a)(1)(B). [Pub. L. 104–186][/us/pl/104/186], § 204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
 
-    Subsec. (b)(1). [Pub. L. 104–186, § 204(40)(D)][/us/pl/104/186/s204/40/D], substituted “except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester” for “but no appointment to fill that vacancy shall be for a period of less than two months”.
+    Subsec. (b)(1). [Pub. L. 104–186][/us/pl/104/186], § 204(40)(D), substituted “except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester” for “but no appointment to fill that vacancy shall be for a period of less than two months”.
 
-    Subsec. (b)(2). [Pub. L. 104–186, § 204(40)(E)][/us/pl/104/186/s204/40/E], substituted “semesters or terms, as the case may be,” for “terms”.
+    Subsec. (b)(2). [Pub. L. 104–186][/us/pl/104/186], § 204(40)(E), substituted “semesters or terms, as the case may be,” for “terms”.
 
  __Effective Date__ 
 
@@ -66,15 +66,15 @@
 ----------
 ----------
 
-[/us/pl/98/367/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs103
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F479
-[/us/pl/104/186/s204/40/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F40%2FC
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1736
 [/us/usc/t2/s88c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88c%E2%80%933
 [/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367
-[/us/pl/104/186/s204/40/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F40%2FC
-[/us/pl/104/186/s204/40/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F40%2FD
-[/us/pl/104/186/s204/40/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F40%2FE
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/usc/t2/s4914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4914
 
 

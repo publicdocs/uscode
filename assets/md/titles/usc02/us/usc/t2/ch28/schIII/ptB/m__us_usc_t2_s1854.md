@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    [Section 6102 of title 5][/us/usc/t5/s6102], referred to in text, was repealed by [Pub. L. 92–392, § 7(a)][/us/pl/92/392/s7/a], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573], and reenacted as [section 6101(a)(1) of Title 5][/us/usc/t5/s6101/a/1], Government Organization and Employees.
+    [Section 6102 of title 5][/us/usc/t5/s6102], referred to in text, was repealed by [Pub. L. 92–392][/us/pl/92/392], § 7(a), Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573], and reenacted as [section 6101(a)(1) of Title 5][/us/usc/t5/s6101/a/1], Government Organization and Employees.
 
     Sections 60e–3 and 60e–4 of this title, referred to in text, were omitted from the Code.
 
@@ -29,7 +29,7 @@
 
     Section was formerly classified to [section 60e–2b of this title][/us/usc/t2/s60e–2b] prior to editorial reclassification and renumbering as this section.
 
-    Section was classified to [section 933 of Title 5][/us/usc/t5/s933] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was classified to [section 933 of Title 5][/us/usc/t5/s933] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended”, and “sections 5544(a) and 6102 of title 5” substituted for “[section 23 of the Act of March 28, 1934][/us/act/1934-03-28/s23] (U.S.C., 1940 edition, title 5, sec. 673c)”, on authority of [section 7(b) of Pub. L. 89–554][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], section 1 of which enacted Title 5.
 
@@ -53,12 +53,12 @@
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/usc/t5/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6102
-[/us/pl/92/392/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs7%2Fa
+[/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/stat/86/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F573
 [/us/usc/t5/s6101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6101%2Fa%2F1
 [/us/usc/t2/s60e–2b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%932b
 [/us/usc/t5/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs933
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1934-03-28/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-28%2Fs23
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb

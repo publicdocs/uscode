@@ -35,11 +35,11 @@
 
         This section shall not apply with respect to any telecommunications equipment which is subject to coverage under section 5538  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (relating to the Net Expenses of Telecommunications Revolving Fund).
 
-([Pub. L. 108–7, div. H, title I, § 102][/us/pl/108/7/s102], Feb. 20, 2003, [117 Stat. 353][/us/stat/117/353]; [Pub. L. 108–447, div. G, title I, § 102(e)][/us/pl/108/447/s102/e], Dec. 8, 2004, [118 Stat. 3174][/us/stat/118/3174].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 102, Feb. 20, 2003, [117 Stat. 353][/us/stat/117/353]; [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 102(e), Dec. 8, 2004, [118 Stat. 3174][/us/stat/118/3174].)
 
  __References in Text__ 
 
-    [Section 5538 of this title][/us/usc/t2/s5538], referred to in subsec. (e), was in the original “section 103 of the Legislative Branch Appropriations Act, 2005” and was translated as reading “section 102” of that Act, meaning [section 102 of div. G of Pub. L. 108–447][/us/pl/108/447/s102], to reflect the probable intent of Congress, because [section 103 of div. G of Pub. L. 108–447][/us/pl/108/447/s103] does not relate to the Net Expenses of Telecommunications Revolving Fund.
+    [Section 5538 of this title][/us/usc/t2/s5538], referred to in subsec. (e), was in the original “section 103 of the Legislative Branch Appropriations Act, 2005” and was translated as reading “section 102” of that Act, meaning [section 102 of div. G of Pub. L. 108–447][/us/pl/108/447/dG/s102], to reflect the probable intent of Congress, because [section 103 of div. G of Pub. L. 108–447][/us/pl/108/447/dG/s103] does not relate to the Net Expenses of Telecommunications Revolving Fund.
 
  __Codification__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t2/s5507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5507%2Fa
-[/us/pl/108/7/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs102
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F353
-[/us/pl/108/447/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs102%2Fe
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3174
 [/us/usc/t2/s5538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5538
-[/us/pl/108/447/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs102
-[/us/pl/108/447/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs103
+[/us/pl/108/447/dG/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2Fs102
+[/us/pl/108/447/dG/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2Fs103
 [/us/usc/t2/s112g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112g
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

@@ -17,11 +17,11 @@
 
     Payroll administration for the Capitol Police and civilian support personnel of the Capitol Police shall be carried out on a unified basis by a single disbursing authority. The Capitol Police Board, with the approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, acting jointly, shall, by contract or otherwise, provide for such unified payroll administration.
 
-([July 31, 1946, ch. 707, § 9C][/us/act/1946-07-31/ch707/s9C], as added [Pub. L. 102–397, title I, § 102][/us/pl/102/397/s102], Oct. 6, 1992, [106 Stat. 1950][/us/stat/106/1950]; amended [Pub. L. 104–186, title II, § 221(12)][/us/pl/104/186/s221/12], Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750].)
+([July 31, 1946, ch. 707][/us/act/1946-07-31/ch707], § 9C, as added [Pub. L. 102–397, title I][/us/pl/102/397/tI], § 102, Oct. 6, 1992, [106 Stat. 1950][/us/stat/106/1950]; amended [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 221(12), Aug. 20, 1996, [110 Stat. 1750][/us/stat/110/1750].)
 
  __Codification__ 
 
-    Section was classified to section 207a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 207a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 
  __Effective Date__ 
 
-[Pub. L. 102–397, title I, § 104][/us/pl/102/397/s104], Oct. 6, 1992, [106 Stat. 1950][/us/stat/106/1950], as amended by [Pub. L. 102–392, title III, § 321][/us/pl/102/392/s321], Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726], provided that: 
+[Pub. L. 102–397, title I][/us/pl/102/397/tI], § 104, Oct. 6, 1992, [106 Stat. 1950][/us/stat/106/1950], as amended by [Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 321, Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726], provided that: 
 
 > “The unified payroll administration under the amendment made by section 102 \[enacting this section\] shall apply with respect to pay periods beginning after September 30, 1993.”
 
-    \[[Pub. L. 102–392, title III, § 321][/us/pl/102/392/s321], Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726], provided that the amendment made by that section to [section 104 of Pub. L. 102–397][/us/pl/102/397/s104], set out above, is effective Oct. 6, 1992.\]
+    \[[Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 321, Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726], provided that the amendment made by that section to [section 104 of Pub. L. 102–397][/us/pl/102/397/s104], set out above, is effective Oct. 6, 1992.\]
 
 ----------
 
@@ -46,19 +46,19 @@
 ----------
 ----------
 
-[/us/act/1946-07-31/ch707/s9C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707%2Fs9C
-[/us/pl/102/397/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2Fs102
+[/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
+[/us/pl/102/397/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2FtI
 [/us/stat/106/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1950
-[/us/pl/104/186/s221/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F12
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1750
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/pl/102/397/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2Fs104
+[/us/pl/102/397/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2FtI
 [/us/stat/106/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1950
-[/us/pl/102/392/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs321
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1726
-[/us/pl/102/392/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs321
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1726
 [/us/pl/102/397/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F397%2Fs104
 

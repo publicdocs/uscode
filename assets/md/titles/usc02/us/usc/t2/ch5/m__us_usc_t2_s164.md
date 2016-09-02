@@ -17,7 +17,7 @@
 
     The Librarian of Congress is authorized and directed to prepare biennially an index to the legislation of the States of the United States enacted during the biennium, together with a supplemental digest of the more important legislation of the period.
 
-([Feb. 10, 1927, ch. 99, § 1][/us/act/1927-02-10/ch99/s1], [44 Stat. 1066][/us/stat/44/1066]; [Feb. 28, 1929, ch. 367, § 1][/us/act/1929-02-28/ch367/s1], [45 Stat. 1398][/us/stat/45/1398].)
+([Feb. 10, 1927, ch. 99][/us/act/1927-02-10/ch99], § 1, [44 Stat. 1066][/us/stat/44/1066]; [Feb. 28, 1929, ch. 367][/us/act/1929-02-28/ch367], § 1, [45 Stat. 1398][/us/stat/45/1398].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1927-02-10/ch99/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-10%2Fch99%2Fs1
+[/us/act/1927-02-10/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-10%2Fch99
 [/us/stat/44/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1066
-[/us/act/1929-02-28/ch367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch367%2Fs1
+[/us/act/1929-02-28/ch367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-28%2Fch367
 [/us/stat/45/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1398
 
 

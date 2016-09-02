@@ -17,7 +17,7 @@
 
     Until such time as funds are appropriated by law to carry out the purpose of this chapter, the applicable accounts of the House of Representatives shall be available for such purpose.
 
-([Pub. L. 93–554, title I][/us/pl/93/554], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777]; [Pub. L. 104–186, title II, § 207][/us/pl/104/186/s207], Aug. 20, 1996, [110 Stat. 1742][/us/stat/110/1742].)
+([Pub. L. 93–554, title I][/us/pl/93/554/tI], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 207, Aug. 20, 1996, [110 Stat. 1742][/us/stat/110/1742].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
+[/us/pl/93/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554%2FtI
 [/us/stat/88/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1777
-[/us/pl/104/186/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs207
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1742
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

@@ -17,7 +17,7 @@
 
     No part of the appropriations made under the heading “Contingent Expenses of the Senate” on and after June 27, 1956 may be expended for per diem and subsistence expenses (as defined in [section 5701 of title 5][/us/usc/t5/s5701]) at rates in excess of the rates prescribed by the Committee on Rules and Administration; except that (1) higher rates may be established by the Committee on Rules and Administration for travel beyond the limits of the continental United States, and (2) in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate, reimbursement for such expenses may be made on an actual expense basis of not to exceed the daily rate prescribed by the Committee on Rules and Administration in the case of travel within the continental limits of the United States. This section shall not apply with respect to per diem or actual travel expenses incurred by Senators and employees in the office of a Senator which are reimbursed under [section 6314 of this title][/us/usc/t2/s6314].
 
-([June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360]; [Pub. L. 87–139, § 7][/us/pl/87/139/s7], Aug. 14, 1961, [75 Stat. 340][/us/stat/75/340]; [Pub. L. 91–114, § 3][/us/pl/91/114/s3], Nov. 10, 1969, [83 Stat. 190][/us/stat/83/190]; [Pub. L. 94–22, § 8][/us/pl/94/22/s8], May 19, 1975, [89 Stat. 86][/us/stat/89/86]; [Pub. L. 95–94, title I, § 112(e)][/us/pl/95/94/s112/e], Aug. 5, 1977, [91 Stat. 664][/us/stat/91/664]; [Pub. L. 95–355, title I, § 103][/us/pl/95/355/s103], Sept. 8, 1978, [92 Stat. 533][/us/stat/92/533]; [Pub. L. 96–304, title I, § 102(b)][/us/pl/96/304/s102/b], July 8, 1980, [94 Stat. 889][/us/stat/94/889].)
+([June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], [70 Stat. 360][/us/stat/70/360]; [Pub. L. 87–139][/us/pl/87/139], § 7, Aug. 14, 1961, [75 Stat. 340][/us/stat/75/340]; [Pub. L. 91–114][/us/pl/91/114], § 3, Nov. 10, 1969, [83 Stat. 190][/us/stat/83/190]; [Pub. L. 94–22][/us/pl/94/22], § 8, May 19, 1975, [89 Stat. 86][/us/stat/89/86]; [Pub. L. 95–94, title I][/us/pl/95/94/tI], § 112(e), Aug. 5, 1977, [91 Stat. 664][/us/stat/91/664]; [Pub. L. 95–355, title I][/us/pl/95/355/tI], § 103, Sept. 8, 1978, [92 Stat. 533][/us/stat/92/533]; [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 102(b), July 8, 1980, [94 Stat. 889][/us/stat/94/889].)
 
  __Codification__ 
 
@@ -52,17 +52,17 @@
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/act/1956-06-27/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453
 [/us/stat/70/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F360
-[/us/pl/87/139/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F139%2Fs7
+[/us/pl/87/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F139
 [/us/stat/75/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F340
-[/us/pl/91/114/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F114%2Fs3
+[/us/pl/91/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F114
 [/us/stat/83/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F190
-[/us/pl/94/22/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs8
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F86
-[/us/pl/95/94/s112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs112%2Fe
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F664
-[/us/pl/95/355/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2Fs103
+[/us/pl/95/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2FtI
 [/us/stat/92/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F533
-[/us/pl/96/304/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs102%2Fb
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F889
 [/us/usc/t2/s68b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68b
 [/us/pl/96/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304

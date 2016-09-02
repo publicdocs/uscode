@@ -17,7 +17,7 @@
 
     The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982) to the Chaplain of the Senate, upon the request of the Chaplain of the Senate, United States postage stamps in such amounts as may be necessary for the mailing of postal matters arising in connection with his official business.
 
-([Pub. L. 97–51, § 127(b)(1)][/us/pl/97/51/s127/b/1], Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966].)
+([Pub. L. 97–51][/us/pl/97/51], § 127(b)(1), Oct. 1, 1981, [95 Stat. 966][/us/stat/95/966].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/51/s127/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs127%2Fb%2F1
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F966
 [/us/usc/t2/s61d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61d%E2%80%932
 

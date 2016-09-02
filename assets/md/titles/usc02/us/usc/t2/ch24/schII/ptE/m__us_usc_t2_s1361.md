@@ -55,7 +55,7 @@
 
             This chapter shall not be construed to authorize enforcement by the executive branch of this chapter.
 
-([Pub. L. 104–1, title II, § 225][/us/pl/104/1/s225], Jan. 23, 1995, [109 Stat. 22][/us/stat/109/22].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 225, Jan. 23, 1995, [109 Stat. 22][/us/stat/109/22].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t42/s2000e–16/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316%2Fd
 [/us/usc/t2/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1316
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
-[/us/pl/104/1/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs225
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F22
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

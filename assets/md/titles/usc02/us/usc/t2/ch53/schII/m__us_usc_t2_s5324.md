@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of [section 5323 of this title][/us/usc/t2/s5323], in case of the death or resignation of a Member of the House during his term of office, the clerical assistants designated by him and borne upon the clerk hire pay rolls of the House of Representatives on the date of such death or resignation shall be continued upon such pay rolls at their respective salaries until the successor to such Member of the House is elected to fill the vacancy.
 
-([Aug. 21, 1935, ch. 600, § 1][/us/act/1935-08-21/ch600/s1], [49 Stat. 679][/us/stat/49/679]; [Apr. 24, 1950, ch. 96][/us/act/1950-04-24/ch96], [64 Stat. 82][/us/stat/64/82]; [July 15, 1952, ch. 759, § 1][/us/act/1952-07-15/ch759/s1], [66 Stat. 662][/us/stat/66/662]; [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 657][/us/stat/80/657].)
+([Aug. 21, 1935, ch. 600][/us/act/1935-08-21/ch600], § 1, [49 Stat. 679][/us/stat/49/679]; [Apr. 24, 1950, ch. 96][/us/act/1950-04-24/ch96], [64 Stat. 82][/us/stat/64/82]; [July 15, 1952, ch. 759][/us/act/1952-07-15/ch759], § 1, [66 Stat. 662][/us/stat/66/662]; [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 657][/us/stat/80/657].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Act Aug. 21, 1935, ch. 600, § 4][/us/act/1935-08-21/ch600/s4], [49 Stat. 680][/us/stat/49/680], provided that: 
+[Act Aug. 21, 1935, ch. 600][/us/act/1935-08-21/ch600], § 4, [49 Stat. 680][/us/stat/49/680], provided that: 
 
 > “This joint resolution \[enacting sections 5324 to 5326 of this title\] shall be effective as of the beginning of the Seventy-fourth Congress, January 3, 1935.”
 
@@ -45,17 +45,17 @@
 ----------
 
 [/us/usc/t2/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5323
-[/us/act/1935-08-21/ch600/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600%2Fs1
+[/us/act/1935-08-21/ch600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600
 [/us/stat/49/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F679
 [/us/act/1950-04-24/ch96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch96
 [/us/stat/64/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F82
-[/us/act/1952-07-15/ch759/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-15%2Fch759%2Fs1
+[/us/act/1952-07-15/ch759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-15%2Fch759
 [/us/stat/66/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F662
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F657
 [/us/usc/t2/s92b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92b
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
-[/us/act/1935-08-21/ch600/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600%2Fs4
+[/us/act/1935-08-21/ch600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600
 [/us/stat/49/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F680
 
 

@@ -79,7 +79,7 @@
 
         This section shall take effect on the transfer date.
 
-([Pub. L. 110–437, title IV, § 402][/us/pl/110/437/s402], Oct. 20, 2008, [122 Stat. 4991][/us/stat/122/4991].)
+([Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 402, Oct. 20, 2008, [122 Stat. 4991][/us/stat/122/4991].)
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs402
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4991
 
 

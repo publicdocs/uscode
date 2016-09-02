@@ -19,7 +19,7 @@
 
     (b) Adjustments made by the President pro tempore under this section shall be made in such manner as he considers advisable and shall have the force and effect of law.
 
-([Pub. L. 101–520, title III, § 315][/us/pl/101/520/s315], Nov. 5, 1990, [104 Stat. 2283][/us/stat/104/2283]; [Pub. L. 102–90, title III, § 308][/us/pl/102/90/s308], Aug. 14, 1991, [105 Stat. 466][/us/stat/105/466].)
+([Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 315, Nov. 5, 1990, [104 Stat. 2283][/us/stat/104/2283]; [Pub. L. 102–90, title III][/us/pl/102/90/tIII], § 308, Aug. 14, 1991, [105 Stat. 466][/us/stat/105/466].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
-[/us/pl/101/520/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs315
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2283
-[/us/pl/102/90/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs308
+[/us/pl/102/90/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtIII
 [/us/stat/105/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F466
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s60a–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931b

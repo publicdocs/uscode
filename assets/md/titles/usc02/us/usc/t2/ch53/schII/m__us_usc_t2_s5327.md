@@ -19,7 +19,7 @@
 
     (b) The Clerk of the House shall take such action as may be necessary to apply the principles of [section 5325 of this title][/us/usc/t2/s5325] in the carrying out of sections 5327 to 5329 of this title.
 
-([Pub. L. 97–51, § 101(c)][/us/pl/97/51/s101/c], Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959].)
+([Pub. L. 97–51][/us/pl/97/51], § 101(c), Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t2/s5324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5324
 [/us/usc/t2/s5325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5325
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
 [/us/usc/t2/s92b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92b%E2%80%931
 [/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc

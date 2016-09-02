@@ -27,7 +27,7 @@
 
         Subsection (a) shall not apply to any room or space under the jurisdiction of the Senate or the House of Representatives.
 
-([Pub. L. 110–437, title I, § 102][/us/pl/110/437/s102], Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
+([Pub. L. 110–437, title I][/us/pl/110/437/tI], § 102, Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs102
+[/us/pl/110/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtI
 [/us/stat/122/4986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4986
 
 

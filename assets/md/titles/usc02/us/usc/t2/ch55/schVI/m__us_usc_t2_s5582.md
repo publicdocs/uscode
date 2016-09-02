@@ -69,7 +69,7 @@
 
         This section shall take effect on September 30, 2003.
 
-([Pub. L. 108–83, title I, § 103][/us/pl/108/83/s103], Sept. 30, 2003, [117 Stat. 1016][/us/stat/117/1016].)
+([Pub. L. 108–83, title I][/us/pl/108/83/tI], § 103, Sept. 30, 2003, [117 Stat. 1016][/us/stat/117/1016].)
 
  __Codification__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/108/83/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs103
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1016
 [/us/usc/t2/s130–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130%E2%80%932
 [/us/pl/108/83/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs103

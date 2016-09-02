@@ -11,20 +11,20 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122b...122g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
 
-## § 123. Repealed. [June 27, 1956, ch. 453, § 105(m)][/us/act/1956-06-27/ch453/s105/m], [70 Stat. 372][/us/stat/70/372]
+## § 123. Repealed. [June 27, 1956, ch. 453][/us/act/1956-06-27/ch453], § 105(m), [70 Stat. 372][/us/stat/70/372]
 
     Section, [act Aug. 7, 1953, ch. 341][/us/act/1953-08-07/ch341], [67 Stat. 439][/us/stat/67/439], established a joint Senate and House Recording Facility revolving fund, provided for the disposition of monies, and required the coordinator of the Facility to give a penal bond.
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122b...122g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
 
 ----------
 ----------
 
-[/us/act/1956-06-27/ch453/s105/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453%2Fs105%2Fm
+[/us/act/1956-06-27/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-27%2Fch453
 [/us/stat/70/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F372
 [/us/act/1953-08-07/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch341
 [/us/stat/67/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F439

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931b)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1 _us_usc_t2_s72a–1a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931b)
 
 ## § 72a–1b. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931b)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1 _us_usc_t2_s72a–1a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931b)
 
 ----------
 ----------

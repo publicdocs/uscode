@@ -47,7 +47,7 @@
 
         Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisions against which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.
 
-([Pub. L. 93–344, title III, § 313][/us/pl/93/344/s313], formerly [Pub. L. 99–272, title XX, § 20001][/us/pl/99/272/s20001], Apr. 7, 1986, [100 Stat. 390][/us/stat/100/390], as amended [Pub. L. 99–509, title VII, § 7006][/us/pl/99/509/s7006], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 100–119, title II, § 205(a)][/us/pl/100/119/s205/a], (b), Sept. 29, 1987, [101 Stat. 784][/us/stat/101/784]; renumbered [§ 313 of Pub. L. 93–344][/us/pl/93/344/s313] and amended [Pub. L. 101–508, title XIII, § 13214(a)][/us/pl/101/508/s13214/a]–(b)(4), Nov. 5, 1990, [104 Stat. 1388–621][/us/stat/104/1388-621], 1388–622; [Pub. L. 105–33, title X, § 10113(b)(1)][/us/pl/105/33/s10113/b/1], Aug. 5, 1997, [111 Stat. 688][/us/stat/111/688].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 313, formerly [Pub. L. 99–272, title XX][/us/pl/99/272/tXX], § 20001, Apr. 7, 1986, [100 Stat. 390][/us/stat/100/390], as amended [Pub. L. 99–509, title VII][/us/pl/99/509/tVII], § 7006, Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 100–119, title II][/us/pl/100/119/tII], § 205(a), (b), Sept. 29, 1987, [101 Stat. 784][/us/stat/101/784]; renumbered § 313 of [Pub. L. 93–344][/us/pl/93/344] and amended [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13214(a)–(b)(4), Nov. 5, 1990, [104 Stat. 1388–621][/us/stat/104/1388-621], 1388–622; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10113(b)(1), Aug. 5, 1997, [111 Stat. 688][/us/stat/111/688].)
 
  __Codification__ 
 
@@ -55,73 +55,73 @@
 
  __Amendments__ 
 
-    1997—Subsec. (c). [Pub. L. 105–33, § 10113(b)(1)(A)][/us/pl/105/33/s10113/b/1/A], redesignated subsec. (c), relating to point of order, as (d).
+    1997—Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
 
-    Subsec. (d). [Pub. L. 105–33, § 10113(b)(1)(A)][/us/pl/105/33/s10113/b/1/A], redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 105–33, § 10113(b)(1)(B)][/us/pl/105/33/s10113/b/1/B], redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
 
-    1990—[Pub. L. 101–508, § 13214(b)(2)(A)][/us/pl/101/508/s13214/b/2/A], inserted “Extraneous matter in reconciliation legislation” as section catchline.
+    1990—[Pub. L. 101–508][/us/pl/101/508], § 13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
 
-    [Pub. L. 101–508, § 13214(b)(1)][/us/pl/101/508/s13214/b/1], redesignated [section 20001 of Pub. L. 99–272][/us/pl/99/272/s20001] as this section.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(1), redesignated [section 20001 of Pub. L. 99–272][/us/pl/99/272/s20001] as this section.
 
-    Subsec. (a). [Pub. L. 101–508, § 13214(a)(1)(A)][/us/pl/101/508/s13214/a/1/A], inserted heading “In general”.
+    Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(1)(A), inserted heading “In general”.
 
-    [Pub. L. 101–508, § 13214(b)(4)(B)][/us/pl/101/508/s13214/b/4/B], substituted “subsection (b)” for “subsection (d)”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(B), substituted “subsection (b)” for “subsection (d)”.
 
-    [Pub. L. 101–508, § 13214(b)(4)(A)][/us/pl/101/508/s13214/b/4/A], made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(A), made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
 
-    [Pub. L. 101–508, § 13214(b)(2)(B)][/us/pl/101/508/s13214/b/2/B], struck out at end “An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this section, as well as to waive or suspend the provisions of this subsection.”
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(2)(B), struck out at end “An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this section, as well as to waive or suspend the provisions of this subsection.”
 
-    [Pub. L. 101–508, § 13214(a)(1)(B)][/us/pl/101/508/s13214/a/1/B], inserted “(whether that bill or resolution originated in the Senate or the House) or [section 907d of this title][/us/usc/t2/s907d]” after “[section 641 of this title][/us/usc/t2/s641]”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(1)(B), inserted “(whether that bill or resolution originated in the Senate or the House) or [section 907d of this title][/us/usc/t2/s907d]” after “[section 641 of this title][/us/usc/t2/s641]”.
 
-    Subsec. (b). [Pub. L. 101–508, § 13214(b)(2)(B)][/us/pl/101/508/s13214/b/2/B], (C), redesignated subsec. (d) as (b) and struck out former subsec. (b) which provided that no motion to waive or suspend the requirement of [section 636(b)(2) of this title][/us/usc/t2/s636/b/2], as it related to germaneness with respect to a reconciliation bill or resolution, could be agreed to unless supported by an affirmative vote of three-fifths of the Members, duly chosen and sworn, which super-majority was to be required to successfully appeal the ruling of the Chair on a point of order raised under that section, as well as to waive or suspend the provisions of this subsection.
+    Subsec. (b). [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(2)(B), (C), redesignated subsec. (d) as (b) and struck out former subsec. (b) which provided that no motion to waive or suspend the requirement of [section 636(b)(2) of this title][/us/usc/t2/s636/b/2], as it related to germaneness with respect to a reconciliation bill or resolution, could be agreed to unless supported by an affirmative vote of three-fifths of the Members, duly chosen and sworn, which super-majority was to be required to successfully appeal the ruling of the Chair on a point of order raised under that section, as well as to waive or suspend the provisions of this subsection.
 
-    [Pub. L. 101–508, § 13214(a)(2)][/us/pl/101/508/s13214/a/2], inserted heading “Extraneous provisions”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(2), inserted heading “Extraneous provisions”.
 
-    Subsec. (b)(1)(A). [Pub. L. 101–508, § 13214(b)(4)(A)][/us/pl/101/508/s13214/b/4/A], made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
+    Subsec. (b)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(A), made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
 
-    [Pub. L. 101–508, § 13214(a)(3)][/us/pl/101/508/s13214/a/3], inserted before semicolon “(but a provision in which outlay decreases or revenue increases exactly offset outlay increases or revenue decreases shall not be considered extraneous by virtue of this subparagraph)”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(3), inserted before semicolon “(but a provision in which outlay decreases or revenue increases exactly offset outlay increases or revenue decreases shall not be considered extraneous by virtue of this subparagraph)”.
 
-    Subsec. (b)(1)(F). [Pub. L. 101–508, § 13214(a)(4)][/us/pl/101/508/s13214/a/4]–(6), added subpar. (F).
+    Subsec. (b)(1)(F). [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(4)–(6), added subpar. (F).
 
-    Subsec. (b)(2). [Pub. L. 101–508, § 13214(a)(7)][/us/pl/101/508/s13214/a/7], substituted “A Senate-originated provision” for “A provision”.
+    Subsec. (b)(2). [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(7), substituted “A Senate-originated provision” for “A provision”.
 
-    Subsec. (b)(2)(C). [Pub. L. 101–508, § 13214(b)(4)(C)][/us/pl/101/508/s13214/b/4/C], inserted “or” after “scorekeeping purposes;”.
+    Subsec. (b)(2)(C). [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(C), inserted “or” after “scorekeeping purposes;”.
 
-    Subsec. (c). [Pub. L. 101–508, § 13214(b)(4)(F)][/us/pl/101/508/s13214/b/4/F], which directed the substitution of “this subsection” for “this resolution” in par. (2), was executed to last sentence of subsec. (c) as the probable intent of Congress.
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(F), which directed the substitution of “this subsection” for “this resolution” in par. (2), was executed to last sentence of subsec. (c) as the probable intent of Congress.
 
-    [Pub. L. 101–508, § 13214(b)(4)(E)][/us/pl/101/508/s13214/b/4/E], substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F)” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(E), substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F)” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
 
-    [Pub. L. 101–508, § 13214(b)(4)(D)][/us/pl/101/508/s13214/b/4/D], substituted “When” for “when”.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(D), substituted “When” for “when”.
 
-    [Pub. L. 101–508, § 13214(b)(4)(A)][/us/pl/101/508/s13214/b/4/A], made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(4)(A), made technical amendment to reference to [section 641 of this title][/us/usc/t2/s641] to reflect change in reference to corresponding section of original act.
 
-    [Pub. L. 101–508, § 13214(b)(3)][/us/pl/101/508/s13214/b/3], redesignated as subsec. (c), relating to point of order, subsec. (a) of the first section of Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985, as amended by Senate Resolution No. 509, Ninety-ninth Congress, Oct. 16, 1986.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(3), redesignated as subsec. (c), relating to point of order, subsec. (a) of the first section of Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985, as amended by Senate Resolution No. 509, Ninety-ninth Congress, Oct. 16, 1986.
 
-    [Pub. L. 101–508, § 13214(b)(2)(C)][/us/pl/101/508/s13214/b/2/C], redesignated subsec. (e), relating to extraneous materials, as (c).
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(2)(C), redesignated subsec. (e), relating to extraneous materials, as (c).
 
-    [Pub. L. 101–508, § 13214(b)(2)(B)][/us/pl/101/508/s13214/b/2/B], struck out subsec. (c) which provided for effective and termination dates of this section.
+    [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(2)(B), struck out subsec. (c) which provided for effective and termination dates of this section.
 
-    Subsec. (d). [Pub. L. 101–508, § 13214(b)(2)(C)][/us/pl/101/508/s13214/b/2/C], redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 13214(b)(2)(C), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-    Subsecs. (e) to (g). [Pub. L. 101–508, § 13214(a)(8)][/us/pl/101/508/s13214/a/8], (b)(2)(C), added subsecs. (e) to (g) and redesignated them as subsecs. (c) to (e), respectively.
+    Subsecs. (e) to (g). [Pub. L. 101–508][/us/pl/101/508], § 13214(a)(8), (b)(2)(C), added subsecs. (e) to (g) and redesignated them as subsecs. (c) to (e), respectively.
 
-    1987—Subsec. (c). [Pub. L. 100–119, § 205(a)][/us/pl/100/119/s205/a], substituted “September 30, 1992” for “January 2, 1988”.
+    1987—Subsec. (c). [Pub. L. 100–119][/us/pl/100/119], § 205(a), substituted “September 30, 1992” for “January 2, 1988”.
 
-    Subsec. (d)(1)(E). [Pub. L. 100–119, § 205(b)][/us/pl/100/119/s205/b], which directed that cl. (E) be added to subsec. (d)(1)(A), was executed to subsec. (d)(1), as the probable intent of Congress.
+    Subsec. (d)(1)(E). [Pub. L. 100–119][/us/pl/100/119], § 205(b), which directed that cl. (E) be added to subsec. (d)(1)(A), was executed to subsec. (d)(1), as the probable intent of Congress.
 
-    1986—Subsec. (c). [Pub. L. 99–509, § 7006(b)][/us/pl/99/509/s7006/b], substituted “January 2, 1988” for “January 2, 1987”.
+    1986—Subsec. (c). [Pub. L. 99–509][/us/pl/99/509], § 7006(b), substituted “January 2, 1988” for “January 2, 1987”.
 
-    [Pub. L. 99–509, § 7006(c)][/us/pl/99/509/s7006/c], substituted “section 20001” for “section 1201” in Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985. See 1990 Amendment note above.
+    [Pub. L. 99–509][/us/pl/99/509], § 7006(c), substituted “section 20001” for “section 1201” in Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985. See 1990 Amendment note above.
 
-    Subsec. (d)(2). [Pub. L. 99–509, § 7006(a)(1)][/us/pl/99/509/s7006/a/1], substituted “paragraph (1)(A) if the Chairman and Ranking Minority Member of the Committee on the Budget and the Chairman and Ranking Minority Member of the Committee which reported the provision certify that” for “(1)(A) above if” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 99–509][/us/pl/99/509], § 7006(a)(1), substituted “paragraph (1)(A) if the Chairman and Ranking Minority Member of the Committee on the Budget and the Chairman and Ranking Minority Member of the Committee which reported the provision certify that” for “(1)(A) above if” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 99–509, § 7006(a)(2)][/us/pl/99/509/s7006/a/2], substituted “the provision mitigates” for “it is designed to mitigate the”.
+    Subsec. (d)(2)(A). [Pub. L. 99–509][/us/pl/99/509], § 7006(a)(2), substituted “the provision mitigates” for “it is designed to mitigate the”.
 
-    Subsec. (d)(2)(B). [Pub. L. 99–509, § 7006(a)(3)][/us/pl/99/509/s7006/a/3], substituted “the provision” for “it”.
+    Subsec. (d)(2)(B). [Pub. L. 99–509][/us/pl/99/509], § 7006(a)(3), substituted “the provision” for “it”.
 
-    Subsec. (d)(3). [Pub. L. 99–509, § 7006(a)(4)][/us/pl/99/509/s7006/a/4], added par. (3).
+    Subsec. (d)(3). [Pub. L. 99–509][/us/pl/99/509], § 7006(a)(4), added par. (3).
 
 ----------
 
@@ -136,60 +136,60 @@
 [/us/usc/t2/s641/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641%2Fg
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
-[/us/pl/93/344/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs313
-[/us/pl/99/272/s20001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs20001
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
+[/us/pl/99/272/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXX
 [/us/stat/100/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F390
-[/us/pl/99/509/s7006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006
+[/us/pl/99/509/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVII
 [/us/stat/100/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1949
-[/us/pl/100/119/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs205%2Fa
+[/us/pl/100/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtII
 [/us/stat/101/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F784
-[/us/pl/93/344/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs313
-[/us/pl/101/508/s13214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa
+[/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-621
-[/us/pl/105/33/s10113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10113%2Fb%2F1
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F688
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/272/s20001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs20001
-[/us/pl/105/33/s10113/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10113%2Fb%2F1%2FA
-[/us/pl/105/33/s10113/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10113%2Fb%2F1%2FA
-[/us/pl/105/33/s10113/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10113%2Fb%2F1%2FB
-[/us/pl/101/508/s13214/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F2%2FA
-[/us/pl/101/508/s13214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F1
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/272/s20001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs20001
-[/us/pl/101/508/s13214/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F1%2FA
-[/us/pl/101/508/s13214/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FB
-[/us/pl/101/508/s13214/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FA
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
-[/us/pl/101/508/s13214/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F2%2FB
-[/us/pl/101/508/s13214/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F1%2FB
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s907d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907d
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
-[/us/pl/101/508/s13214/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F2%2FB
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s636/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs636%2Fb%2F2
-[/us/pl/101/508/s13214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F2
-[/us/pl/101/508/s13214/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FA
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
-[/us/pl/101/508/s13214/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F3
-[/us/pl/101/508/s13214/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F4
-[/us/pl/101/508/s13214/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F7
-[/us/pl/101/508/s13214/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FC
-[/us/pl/101/508/s13214/b/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FF
-[/us/pl/101/508/s13214/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FE
-[/us/pl/101/508/s13214/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FD
-[/us/pl/101/508/s13214/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F4%2FA
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs641
-[/us/pl/101/508/s13214/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F3
-[/us/pl/101/508/s13214/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F2%2FC
-[/us/pl/101/508/s13214/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F2%2FB
-[/us/pl/101/508/s13214/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fb%2F2%2FC
-[/us/pl/101/508/s13214/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13214%2Fa%2F8
-[/us/pl/100/119/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs205%2Fa
-[/us/pl/100/119/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs205%2Fb
-[/us/pl/99/509/s7006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006%2Fb
-[/us/pl/99/509/s7006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006%2Fc
-[/us/pl/99/509/s7006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006%2Fa%2F1
-[/us/pl/99/509/s7006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006%2Fa%2F2
-[/us/pl/99/509/s7006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006%2Fa%2F3
-[/us/pl/99/509/s7006/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7006%2Fa%2F4
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 
 

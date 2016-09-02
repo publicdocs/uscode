@@ -61,7 +61,7 @@
 
         Paragraphs (2) and (3) shall be effective as of the effective date of the regulations under paragraph (4).
 
-([Pub. L. 105–339, § 4(c)][/us/pl/105/339/s4/c], Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185].)
+([Pub. L. 105–339][/us/pl/105/339], § 4(c), Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 [/us/usc/t2/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1384
 [/us/usc/t2/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1361
 [/us/usc/t5/s3132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F2
-[/us/pl/105/339/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs4%2Fc
+[/us/pl/105/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339
 [/us/stat/112/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3185
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

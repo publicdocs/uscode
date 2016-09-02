@@ -17,7 +17,7 @@
 
     Effective October 1, 1977, the Secretary for the Majority and the Secretary for the Minority are each authorized to appoint and fix the compensation of such employees as they deem appropriate: Provided, That the gross compensation paid to such employees shall not exceed $143,200 each fiscal year for each Secretary.
 
-([Pub. L. 95–94, title I][/us/pl/95/94], Aug. 5, 1977, [91 Stat. 658][/us/stat/91/658], 659.)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], Aug. 5, 1977, [91 Stat. 658][/us/stat/91/658], 659.)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F658
 [/us/usc/t2/s61g–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%935
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656

@@ -33,7 +33,7 @@
 
         (B) In no event shall the percentage adjustment taking effect under subparagraph (A) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under [section 5303 of title 5][/us/usc/t5/s5303] in the rates of pay under the General Schedule.
 
-([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title VI, § 601(a), [60 Stat. 850][/us/stat/60/850]; [Jan. 19, 1949, ch. 2, § 1(d)][/us/act/1949-01-19/ch2/s1/d], [63 Stat. 4][/us/stat/63/4]; [Mar. 2, 1955, ch. 9, § 4(a)][/us/act/1955-03-02/ch9/s4/a], [69 Stat. 11][/us/stat/69/11]; [Pub. L. 88–426, title II, § 204][/us/pl/88/426/s204], Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]; [Pub. L. 89–301, § 11(e)][/us/pl/89/301/s11/e], Oct. 29, 1965, [79 Stat. 1120][/us/stat/79/1120]; [Pub. L. 91–67, § 2][/us/pl/91/67/s2], Sept. 15, 1969, [83 Stat. 107][/us/stat/83/107]; [Pub. L. 94–82, title II, § 204(a)][/us/pl/94/82/s204/a], Aug. 9, 1975, [89 Stat. 421][/us/stat/89/421]; [Pub. L. 101–194, title VII, § 704(a)(2)(B)][/us/pl/101/194/s704/a/2/B], Nov. 30, 1989, [103 Stat. 1769][/us/stat/103/1769]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(4)(D)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439; [Pub. L. 103–356, title I, § 101(1)][/us/pl/103/356/s101/1], Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410].)
+([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title VI, § 601(a), [60 Stat. 850][/us/stat/60/850]; [Jan. 19, 1949, ch. 2][/us/act/1949-01-19/ch2], § 1(d), [63 Stat. 4][/us/stat/63/4]; [Mar. 2, 1955, ch. 9][/us/act/1955-03-02/ch9], § 4(a), [69 Stat. 11][/us/stat/69/11]; [Pub. L. 88–426, title II][/us/pl/88/426/tII], § 204, Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]; [Pub. L. 89–301][/us/pl/89/301], § 11(e), Oct. 29, 1965, [79 Stat. 1120][/us/stat/79/1120]; [Pub. L. 91–67][/us/pl/91/67], § 2, Sept. 15, 1969, [83 Stat. 107][/us/stat/83/107]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 204(a), Aug. 9, 1975, [89 Stat. 421][/us/stat/89/421]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 704(a)(2)(B), Nov. 30, 1989, [103 Stat. 1769][/us/stat/103/1769]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 101(b)(4)(D)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439; [Pub. L. 103–356, title I][/us/pl/103/356/tI], § 101(1), Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–356, title I, § 101][/us/pl/103/356/s101], Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that the amendment made by that section is effective Dec. 31, 1994.
+    [Pub. L. 103–356, title I][/us/pl/103/356/tI], § 101, Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that the amendment made by that section is effective Dec. 31, 1994.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 1955 Amendment__ 
 
-[Act Mar. 2, 1955, ch. 9, § 5][/us/act/1955-03-02/ch9/s5], [69 Stat. 11][/us/stat/69/11], provided that: 
+[Act Mar. 2, 1955, ch. 9][/us/act/1955-03-02/ch9], § 5, [69 Stat. 11][/us/stat/69/11], provided that: 
 
 > “The provisions of this Act \[amending this section, [section 104 of Title 3][/us/usc/t3/s104], The President, [section 7443 of Title 26][/us/usc/t26/s7443], Internal Revenue Code, sections 5, 44, 135, 173, 213, 252, and 508 of Title 28, Judiciary and Judicial Procedure, [section 101 of Title 48][/us/usc/t48/s101], Territories and Insular Possessions, and [section 654 of Title 50][/us/usc/t50/s654], War and National Defense, and repealing [section 31a of this title][/us/usc/t2/s31a]\] shall take effect Mar. 1, 1955.”
 
@@ -101,29 +101,29 @@
 
  __Effective Date__ 
 
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title VI, § 601(a), [60 Stat. 850][/us/stat/60/850], provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
+    [Act Aug. 2, 1946, ch. 753, title VI][/us/act/1946-08-02/ch753/tVI], § 601(a), [60 Stat. 850][/us/stat/60/850], provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 113–3, § 1][/us/pl/113/3/s1], Feb. 4, 2013, [127 Stat. 51][/us/stat/127/51], provided that: 
+[Pub. L. 113–3][/us/pl/113/3], § 1, Feb. 4, 2013, [127 Stat. 51][/us/stat/127/51], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘No Budget, No Pay Act of 2013’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–186, § 1(a)][/us/pl/104/186/s1/a], Aug. 20, 1996, [110 Stat. 1718][/us/stat/110/1718], provided that: 
+[Pub. L. 104–186][/us/pl/104/186], § 1(a), Aug. 20, 1996, [110 Stat. 1718][/us/stat/110/1718], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘House of Representatives Administrative Reform Technical Corrections Act’.”
 
  __Short Title of 1964 Amendment__ 
 
-[Pub. L. 88–426, title II, § 201][/us/pl/88/426/s201], Aug. 14, 1964, [78 Stat. 413][/us/stat/78/413], provided that: 
+[Pub. L. 88–426, title II][/us/pl/88/426/tII], § 201, Aug. 14, 1964, [78 Stat. 413][/us/stat/78/413], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
 
  __Holding Salaries of Members of Congress in Escrow Upon Failure To Agree to Budget Resolution__ 
 
-[Pub. L. 113–3, § 3][/us/pl/113/3/s3], Feb. 4, 2013, [127 Stat. 51][/us/stat/127/51], provided that:
+[Pub. L. 113–3][/us/pl/113/3], § 3, Feb. 4, 2013, [127 Stat. 51][/us/stat/127/51], provided that:
 
 >     “(a) __Holding Salaries in Escrow.—__ 
 
@@ -165,35 +165,35 @@
 
  __Cost of Living Adjustment__ 
 
-[Pub. L. 114–113, § 9][/us/pl/114/113/s9], Dec. 18, 2015, [129 Stat. 2245][/us/stat/129/2245], provided that: 
+[Pub. L. 114–113][/us/pl/114/113], § 9, Dec. 18, 2015, [129 Stat. 2245][/us/stat/129/2245], provided that: 
 
 > “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501][/us/usc/t2/s4501]) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016.”
 
-[Pub. L. 113–235, § 8][/us/pl/113/235/s8], Dec. 16, 2014, [128 Stat. 2133][/us/stat/128/2133], provided that: 
+[Pub. L. 113–235][/us/pl/113/235], § 8, Dec. 16, 2014, [128 Stat. 2133][/us/stat/128/2133], provided that: 
 
 > “Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be “601(a)”\] of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]) \[now [2 U.S.C. 4501][/us/usc/t2/s4501]\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2015.”
 
-[Pub. L. 113–46, div. A, § 146][/us/pl/113/46/s146], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565], provided that: 
+[Pub. L. 113–46, div. A][/us/pl/113/46/dA], § 146, Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565], provided that: 
 
 > “Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be “601(a)”\] of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]) \[now [2 U.S.C. 4501][/us/usc/t2/s4501]\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2014.”
 
-[Pub. L. 112–240, title VIII, § 802][/us/pl/112/240/s802], Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
+[Pub. L. 112–240, title VIII][/us/pl/112/240/tVIII], § 802, Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
 
 > “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]) \[now [2 U.S.C. 4501][/us/usc/t2/s4501]\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2013.”
 
-[Pub. L. 111–165, § 1][/us/pl/111/165/s1], May 14, 2010, [124 Stat. 1185][/us/stat/124/1185], provided that: 
+[Pub. L. 111–165][/us/pl/111/165], § 1, May 14, 2010, [124 Stat. 1185][/us/stat/124/1185], provided that: 
 
 > “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]) \[now [2 U.S.C. 4501][/us/usc/t2/s4501]\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2011.”
 
-[Pub. L. 111–8, div. J, § 103][/us/pl/111/8/s103], Mar. 11, 2009, [123 Stat. 988][/us/stat/123/988], provided that: 
+[Pub. L. 111–8, div. J][/us/pl/111/8/dJ], § 103, Mar. 11, 2009, [123 Stat. 988][/us/stat/123/988], provided that: 
 
 > “Notwithstanding any provision of section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) \[now [2 U.S.C. 4501(2)][/us/usc/t2/s4501/2]\], the percentage adjustment scheduled to take effect under any such provision in calendar year 2010 shall not take effect.”
 
-[Pub. L. 109–289, div. B, title I, § 115][/us/pl/109/289/s115], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 12][/us/stat/121/12], provided that: 
+[Pub. L. 109–289, div. B, title I][/us/pl/109/289/dB/tI], § 115, as added by [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 12][/us/stat/121/12], provided that: 
 
 > “Notwithstanding any other provision of this division \[see Tables for classification\] and notwithstanding section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]\[(2)\]) \[now [2 U.S.C. 4501(2)][/us/usc/t2/s4501/2]\], the percentage adjustment scheduled to take effect under such section for 2007 shall not take effect.”
 
-[Pub. L. 103–6, § 7][/us/pl/103/6/s7], Mar. 4, 1993, [107 Stat. 35][/us/stat/107/35], provided that:
+[Pub. L. 103–6][/us/pl/103/6], § 7, Mar. 4, 1993, [107 Stat. 35][/us/stat/107/35], provided that:
 
 >     “(a)  __Cost of Living Adjustment__  __.—__ 
 
@@ -205,7 +205,7 @@
 
  __Annual Rate of Pay Increase for Certain Members of Congress Serving On or After__  __July 1, 1983__ 
 
-    [Pub. L. 98–63, title I, § 908(d)][/us/pl/98/63/s908/d], (f), July 30, 1983, [97 Stat. 338][/us/stat/97/338], which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with [section 5318 of Title 5][/us/usc/t5/s5318], was repealed by [Pub. L. 102–90, title I, § 6(c)][/us/pl/102/90/s6/c], Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451].
+    [Pub. L. 98–63, title I][/us/pl/98/63/tI], § 908(d), (f), July 30, 1983, [97 Stat. 338][/us/stat/97/338], which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with [section 5318 of Title 5][/us/usc/t5/s5318], was repealed by [Pub. L. 102–90, title I][/us/pl/102/90/tI], § 6(c), Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451].
 
  __Salary Increases__ 
 
@@ -226,23 +226,23 @@
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F850
-[/us/act/1949-01-19/ch2/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2%2Fs1%2Fd
+[/us/act/1949-01-19/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-01-19%2Fch2
 [/us/stat/63/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F4
-[/us/act/1955-03-02/ch9/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9%2Fs4%2Fa
+[/us/act/1955-03-02/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9
 [/us/stat/69/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F11
-[/us/pl/88/426/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs204
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F415
-[/us/pl/89/301/s11/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs11%2Fe
+[/us/pl/89/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301
 [/us/stat/79/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1120
-[/us/pl/91/67/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67%2Fs2
+[/us/pl/91/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67
 [/us/stat/83/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F107
-[/us/pl/94/82/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs204%2Fa
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F421
-[/us/pl/101/194/s704/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs704%2Fa%2F2%2FB
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1769
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/103/356/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs101%2F1
+[/us/pl/103/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtI
 [/us/stat/108/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3410
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/101/194/s704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs704%2Fa%2F1
@@ -255,7 +255,7 @@
 [/us/pl/91/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F67
 [/us/pl/89/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
-[/us/pl/103/356/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs101
+[/us/pl/103/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2FtI
 [/us/stat/108/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3410
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
@@ -270,64 +270,64 @@
 [/us/pl/89/301/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs17
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fb
-[/us/act/1955-03-02/ch9/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9%2Fs5
+[/us/act/1955-03-02/ch9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-02%2Fch9
 [/us/stat/69/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F11
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t26/s7443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7443
 [/us/usc/t48/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs101
 [/us/usc/t50/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs654
 [/us/usc/t2/s31a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtVI
 [/us/stat/60/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F850
-[/us/pl/113/3/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3%2Fs1
+[/us/pl/113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3
 [/us/stat/127/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F51
-[/us/pl/104/186/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs1%2Fa
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/stat/110/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1718
-[/us/pl/88/426/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs201
+[/us/pl/88/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtII
 [/us/stat/78/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F413
-[/us/pl/113/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3%2Fs3
+[/us/pl/113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3
 [/us/stat/127/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F51
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
-[/us/pl/114/113/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs9
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/stat/129/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2245
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
-[/us/pl/113/235/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2133
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
-[/us/pl/113/46/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs146
+[/us/pl/113/46/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2FdA
 [/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
-[/us/pl/112/240/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs802
+[/us/pl/112/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVIII
 [/us/stat/126/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2369
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
-[/us/pl/111/165/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F165%2Fs1
+[/us/pl/111/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F165
 [/us/stat/124/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1185
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
-[/us/pl/111/8/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs103
+[/us/pl/111/8/dJ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdJ
 [/us/stat/123/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F988
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
 [/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
-[/us/pl/109/289/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs115
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtI
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F12
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
-[/us/pl/103/6/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F6%2Fs7
+[/us/pl/103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F6
 [/us/stat/107/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F35
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
 [/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
 [/us/usc/t45/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs352
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
 [/us/usc/t45/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs352
-[/us/pl/98/63/s908/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs908%2Fd
+[/us/pl/98/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2FtI
 [/us/stat/97/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F338
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
-[/us/pl/102/90/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Fc
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358

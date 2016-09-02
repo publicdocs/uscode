@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as limiting the authority of the chairmen of the Committees on the Budget of the House and Senate under [section 643 of this title][/us/usc/t2/s643]. CBO may consult with the Chairmen of the House and Senate Budget Committees to resolve any ambiguities in this chapter.
 
-([Pub. L. 111–139, title I, § 12][/us/pl/111/139/s12], Feb. 12, 2010, [124 Stat. 29][/us/stat/124/29].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 12, Feb. 12, 2010, [124 Stat. 29][/us/stat/124/29].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs643
-[/us/pl/111/139/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs12
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F29
 [/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8

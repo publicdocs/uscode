@@ -17,7 +17,7 @@
 
     An organization described in [section 501(c)(4) of title 26][/us/usc/t26/s501/c/4] which engages in lobbying activities shall not be eligible for the receipt of Federal funds constituting an award, grant, or loan.
 
-([Pub. L. 104–65, § 18][/us/pl/104/65/s18], Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703]; [Pub. L. 104–99, title I, § 129(a)][/us/pl/104/99/s129/a], Jan. 26, 1996, [110 Stat. 34][/us/stat/110/34].)
+([Pub. L. 104–65][/us/pl/104/65], § 18, Dec. 19, 1995, [109 Stat. 703][/us/stat/109/703]; [Pub. L. 104–99, title I][/us/pl/104/99/tI], § 129(a), Jan. 26, 1996, [110 Stat. 34][/us/stat/110/34].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–99, title I, § 129(b)][/us/pl/104/99/s129/b], Jan. 26, 1996, [110 Stat. 34][/us/stat/110/34], provided that: 
+[Pub. L. 104–99, title I][/us/pl/104/99/tI], § 129(b), Jan. 26, 1996, [110 Stat. 34][/us/stat/110/34], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the Lobbying Disclosure Act of 1995 \[[Pub. L. 104–65][/us/pl/104/65]\] on the date of the enactment of such Act \[Dec. 19, 1995\].”
 
@@ -39,12 +39,12 @@
 ----------
 
 [/us/usc/t26/s501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F4
-[/us/pl/104/65/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs18
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F703
-[/us/pl/104/99/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs129%2Fa
+[/us/pl/104/99/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtI
 [/us/stat/110/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F34
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
-[/us/pl/104/99/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs129%2Fb
+[/us/pl/104/99/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtI
 [/us/stat/110/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F34
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/99/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs106

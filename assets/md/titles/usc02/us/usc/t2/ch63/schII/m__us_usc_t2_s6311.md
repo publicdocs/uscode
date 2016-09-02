@@ -39,7 +39,7 @@
 
         This section shall take effect on October 1, 1978.
 
-([Pub. L. 95–355, title I, § 105][/us/pl/95/355/s105], Sept. 8, 1978, [92 Stat. 534][/us/stat/92/534]; [Pub. L. 104–197, title I, § 2][/us/pl/104/197/s2], Sept. 16, 1996, [110 Stat. 2397][/us/stat/110/2397].)
+([Pub. L. 95–355, title I][/us/pl/95/355/tI], § 105, Sept. 8, 1978, [92 Stat. 534][/us/stat/92/534]; [Pub. L. 104–197, title I][/us/pl/104/197/tI], § 2, Sept. 16, 1996, [110 Stat. 2397][/us/stat/110/2397].)
 
  __Codification__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/usc/t2/s6314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314%2Fc
-[/us/pl/95/355/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2Fs105
+[/us/pl/95/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2FtI
 [/us/stat/92/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F534
-[/us/pl/104/197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs2
+[/us/pl/104/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtI
 [/us/stat/110/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2397
 [/us/usc/t2/s43d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43d
 [/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197

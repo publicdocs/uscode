@@ -31,7 +31,7 @@
 
         (2) utilize the services of personnel of the Library of Congress and the Government Publishing Office.
 
-([Pub. L. 91–510, title III, § 331][/us/pl/91/510/s331], Oct. 26, 1970, [84 Stat. 1186][/us/stat/84/1186]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 91–510, title III][/us/pl/91/510/tIII], § 331, Oct. 26, 1970, [84 Stat. 1186][/us/stat/84/1186]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 
 [/us/stat/79/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F270
 [/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
-[/us/pl/91/510/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs331
+[/us/pl/91/510/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIII
 [/us/stat/84/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1186
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F265

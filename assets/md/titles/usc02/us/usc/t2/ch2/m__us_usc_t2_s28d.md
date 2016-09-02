@@ -37,7 +37,7 @@
 
     (b) Each set of Precedents distributed by the Director of the Government Publishing Office under subsection (a) of this section shall be for official use. Each such set shall be legibly stamped on the front cover “Property of the United States Government.” Each such set, upon delivery, shall become and remain the property of the United States, and may not be removed from the building in which is located the designated library or office, as the case may be.
 
-([Pub. L. 94–551, § 3][/us/pl/94/551/s3], Oct. 18, 1976, [90 Stat. 2538][/us/stat/90/2538]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 94–551][/us/pl/94/551], § 3, Oct. 18, 1976, [90 Stat. 2538][/us/stat/90/2538]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Change of Name__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/94/551/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551%2Fs3
+[/us/pl/94/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551
 [/us/stat/90/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2538
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301

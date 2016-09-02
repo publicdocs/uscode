@@ -43,13 +43,13 @@
 
         The Commission shall keep a complete record of all its actions, including a record of the votes on any question on which a record vote is demanded. All records, data, and files of the Commission shall be the property of the Commission and shall be kept in the offices of the Commission or such other places as the Commission may direct.
 
-([Pub. L. 93–191, § 5][/us/pl/93/191/s5], Dec. 18, 1973, [87 Stat. 742][/us/stat/87/742]; [Pub. L. 93–255, § 3(a)][/us/pl/93/255/s3/a], Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 97–69, § 7][/us/pl/97/69/s7], Oct. 26, 1981, [95 Stat. 1043][/us/stat/95/1043].)
+([Pub. L. 93–191][/us/pl/93/191], § 5, Dec. 18, 1973, [87 Stat. 742][/us/stat/87/742]; [Pub. L. 93–255][/us/pl/93/255], § 3(a), Mar. 27, 1974, [88 Stat. 52][/us/stat/88/52]; [Pub. L. 97–69][/us/pl/97/69], § 7, Oct. 26, 1981, [95 Stat. 1043][/us/stat/95/1043].)
 
  __Amendments__ 
 
-    1981—Subsec. (d). [Pub. L. 97–69, § 7(a)(1)][/us/pl/97/69/s7/a/1], (b), inserted references to Federal laws (other than laws which impose criminal penalties), to rules of the House of Representatives relating to franked mail, to former Members of the House of Representatives or Members-elect, Resident Commissioners or Resident Commissioners-elect, Delegates or Delegates-elect, and former House officials, and to individuals designated by the Clerk of the House under [section 3218 of title 39][/us/usc/t39/s3218].
+    1981—Subsec. (d). [Pub. L. 97–69][/us/pl/97/69], § 7(a)(1), (b), inserted references to Federal laws (other than laws which impose criminal penalties), to rules of the House of Representatives relating to franked mail, to former Members of the House of Representatives or Members-elect, Resident Commissioners or Resident Commissioners-elect, Delegates or Delegates-elect, and former House officials, and to individuals designated by the Clerk of the House under [section 3218 of title 39][/us/usc/t39/s3218].
 
-    Subsec. (e). [Pub. L. 97–69, § 7(a)(2)][/us/pl/97/69/s7/a/2], (c), inserted reference to Federal laws that do not include criminal penalties or rules of the House of Representatives relating to franked mail and inserted provision that, in the case of a former Member of the House or a former Member-elect, a former Resident Commissioner or Delegate or Resident Commissioner-elect or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under [section 3218 of title 39][/us/usc/t39/s3218]), or any other former House official, if the Commission finds in its written decision that any serious and willful violation has occurred or is about to occur, then the Commission may refer the matter to any appropriate law enforcement agency or official for appropriate remedial action.
+    Subsec. (e). [Pub. L. 97–69][/us/pl/97/69], § 7(a)(2), (c), inserted reference to Federal laws that do not include criminal penalties or rules of the House of Representatives relating to franked mail and inserted provision that, in the case of a former Member of the House or a former Member-elect, a former Resident Commissioner or Delegate or Resident Commissioner-elect or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under [section 3218 of title 39][/us/usc/t39/s3218]), or any other former House official, if the Commission finds in its written decision that any serious and willful violation has occurred or is about to occur, then the Commission may refer the matter to any appropriate law enforcement agency or official for appropriate remedial action.
 
     1974—Subsec. (d). [Pub. L. 93–255][/us/pl/93/255] inserted reference to [section 3219 of title 39][/us/usc/t39/s3219].
 
@@ -74,15 +74,15 @@
 
 [/us/usc/t39/s3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3218
 [/us/usc/t39/s3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3218
-[/us/pl/93/191/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191%2Fs5
+[/us/pl/93/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F191
 [/us/stat/87/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F742
-[/us/pl/93/255/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255%2Fs3%2Fa
+[/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/stat/88/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F52
-[/us/pl/97/69/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69%2Fs7
+[/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 [/us/stat/95/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1043
-[/us/pl/97/69/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69%2Fs7%2Fa%2F1
+[/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 [/us/usc/t39/s3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3218
-[/us/pl/97/69/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69%2Fs7%2Fa%2F2
+[/us/pl/97/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F69
 [/us/usc/t39/s3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3218
 [/us/pl/93/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F255
 [/us/usc/t39/s3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3219

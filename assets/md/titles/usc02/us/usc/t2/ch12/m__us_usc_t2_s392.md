@@ -43,7 +43,7 @@
 
         The form and length of the briefs, the form of the appendixes, and the number of copies to be served and filed shall be in accordance with such rules as the committee may prescribe.
 
-([Pub. L. 91–138, § 13][/us/pl/91/138/s13], Dec. 5, 1969, [83 Stat. 289][/us/stat/83/289].)
+([Pub. L. 91–138][/us/pl/91/138], § 13, Dec. 5, 1969, [83 Stat. 289][/us/stat/83/289].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs13
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F289
 
 

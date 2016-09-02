@@ -83,7 +83,7 @@
 
             Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
 
-    (f) __Repealed.__  __[__  __Pub. L. 113–76, div. I, title I, § 1002(b)__  __][/us/pl/113/76/s1002/b]__  __,__  __Jan. 17, 2014__  __,__  __[__  __128 Stat. 424__  __][/us/stat/128/424]__ 
+    (f) __Repealed.__  __[__  __Pub. L. 113–76, div. I, title I__  __][/us/pl/113/76/dI/tI]__  __, § 1002(b),__  __Jan. 17, 2014__  __,__  __[__  __128 Stat. 424__  __][/us/stat/128/424]__ 
 
     (g) __Effect on existing law__ 
 
@@ -101,7 +101,7 @@
 
         This section and the amendments made by this section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-([Pub. L. 108–7, div. H, title I, § 1018][/us/pl/108/7/s1018], Feb. 20, 2003, [117 Stat. 366][/us/stat/117/366]; [Pub. L. 111–145, § 2(a)(4)(A)][/us/pl/111/145/s2/a/4/A], Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49]; [Pub. L. 113–76, div. I, title I, § 1002(b)][/us/pl/113/76/s1002/b], Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1018, Feb. 20, 2003, [117 Stat. 366][/us/stat/117/366]; [Pub. L. 111–145][/us/pl/111/145], § 2(a)(4)(A), Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49]; [Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1002(b), Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 1018 of div. H of Pub. L. 108–7][/us/pl/108/7/s1018]. Subsec. (h) of [section 1018 of Pub. L. 108–7][/us/pl/108/7/s1018] amended sections 1901 and 1905a of this title and repealed [section 1921 of this title][/us/usc/t2/s1921].
+    Section is comprised of [section 1018 of div. H of Pub. L. 108–7][/us/pl/108/7/dH/s1018]. Subsec. (h) of [section 1018 of Pub. L. 108–7][/us/pl/108/7/s1018] amended sections 1901 and 1905a of this title and repealed [section 1921 of this title][/us/usc/t2/s1921].
 
     Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of [Pub. L. 108–7][/us/pl/108/7].
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–76, div. I, title I, § 1002(c)][/us/pl/113/76/s1002/c], Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424], provided that: 
+[Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1002(c), Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424], provided that: 
 
 > “This section \[enacting [section 1907b of this title][/us/usc/t2/s1907b] and amending this section\] shall apply with respect to appropriations for fiscal year 2014 and each fiscal year thereafter.”
 
@@ -132,21 +132,21 @@
 ----------
 ----------
 
-[/us/pl/113/76/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fb
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
-[/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F366
-[/us/pl/111/145/s2/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F4%2FA
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F49
-[/us/pl/113/76/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fb
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
-[/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
+[/us/pl/108/7/dH/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2Fs1018
 [/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
 [/us/usc/t2/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1921
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/113/76/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fc
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
 [/us/usc/t2/s1907b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907b
 

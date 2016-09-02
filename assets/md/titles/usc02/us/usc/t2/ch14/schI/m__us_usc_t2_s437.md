@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s434.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437)
+[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s435 _us_usc_t2_s436.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437)
 
 ## § 437. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s434.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437)
+[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s435 _us_usc_t2_s436.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs437)
 
 ----------
 ----------

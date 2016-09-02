@@ -37,7 +37,7 @@
 
         [Section 5104(c) of title 40][/us/usc/t40/s5104/c] shall not apply to any activity carried out under this section.
 
-([Pub. L. 110–437, title II, § 206][/us/pl/110/437/s206], Oct. 20, 2008, [122 Stat. 4988][/us/stat/122/4988].)
+([Pub. L. 110–437, title II][/us/pl/110/437/tII], § 206, Oct. 20, 2008, [122 Stat. 4988][/us/stat/122/4988].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t2/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2231
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
-[/us/pl/110/437/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs206
+[/us/pl/110/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtII
 [/us/stat/122/4988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4988
 
 

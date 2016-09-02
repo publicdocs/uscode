@@ -25,13 +25,13 @@
 
     in the same manner as provided with respect to the Office of Technology Assessment under [section 142f of this title][/us/usc/t2/s142f].
 
-([Pub. L. 101–163, title I][/us/pl/101/163], Nov. 21, 1989, [103 Stat. 1054][/us/stat/103/1054].)
+([Pub. L. 101–163, title I][/us/pl/101/163/tI], Nov. 21, 1989, [103 Stat. 1054][/us/stat/103/1054].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in this section were contained in the following prior appropriation act:
 
-    [Pub. L. 100–458, title I][/us/pl/100/458], Oct. 1, 1988, [102 Stat. 2168][/us/stat/102/2168].
+    [Pub. L. 100–458, title I][/us/pl/100/458/tI], Oct. 1, 1988, [102 Stat. 2168][/us/stat/102/2168].
 
 ----------
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t2/s142f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs142f
-[/us/pl/101/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1054
-[/us/pl/100/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2168
 
 

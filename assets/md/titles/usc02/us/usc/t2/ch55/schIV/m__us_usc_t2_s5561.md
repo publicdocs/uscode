@@ -23,7 +23,7 @@
 
     Section was formerly classified to [section 84a of this title][/us/usc/t2/s84a] prior to editorial reclassification and renumbering as this section.
 
-    R.S. § 54 derived from [act Apr. 2, 1872, ch. 79, § 3][/us/act/1872-04-02/ch79/s3], [17 Stat. 47][/us/stat/17/47].
+    R.S. § 54 derived from [act Apr. 2, 1872, ch. 79][/us/act/1872-04-02/ch79], § 3, [17 Stat. 47][/us/stat/17/47].
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t2/s84a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84a
-[/us/act/1872-04-02/ch79/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-04-02%2Fch79%2Fs3
+[/us/act/1872-04-02/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-04-02%2Fch79
 [/us/stat/17/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F47
 
 

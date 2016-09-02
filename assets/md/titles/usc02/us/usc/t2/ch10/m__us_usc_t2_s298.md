@@ -17,7 +17,7 @@
 
     Each employee in a position of a compensation level of the House Employees Schedule (HS) or the House Wage Schedule (HWS), whose employment in such position and level is terminated and who is reemployed, with or without break in service, in a position in a lower compensation level (HS level or HWS level) of such schedule, or whose position is placed in a lower compensation level of such schedule pursuant to a reclassification of such position, shall be placed by the committee in such step of such lower compensation level as the committee deems appropriate.
 
-([Pub. L. 88–652, § 9][/us/pl/88/652/s9], Oct. 13, 1964, [78 Stat. 1083][/us/stat/78/1083].)
+([Pub. L. 88–652][/us/pl/88/652], § 9, Oct. 13, 1964, [78 Stat. 1083][/us/stat/78/1083].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/652/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs9
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1083
 
 

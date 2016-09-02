@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out the program under this section during fiscal year 2003 and each succeeding fiscal year.
 
-([Pub. L. 108–7, div. H, title I, § 105][/us/pl/108/7/s105], Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 105, Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs105
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F354
 [/us/usc/t2/s60c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%936
 

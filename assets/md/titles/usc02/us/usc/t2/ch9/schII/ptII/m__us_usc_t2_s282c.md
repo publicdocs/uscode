@@ -17,7 +17,7 @@
 
     In accordance with policies and procedures approved by the Speaker, the Legislative Counsel may make such expenditures as may be necessary or appropriate for the functioning of the Office.
 
-([Pub. L. 91–510, title V, § 524][/us/pl/91/510/s524], Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203].)
+([Pub. L. 91–510, title V][/us/pl/91/510/tV], § 524, Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/510/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs524
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1203
 
 

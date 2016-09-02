@@ -189,7 +189,7 @@
 
             If a provision is designated as an emergency requirement under this Act, CBO or OMB, as applicable, shall not include the budgetary effects of such a provision in its estimate of the budgetary effects of that PAYGO legislation.
 
-([Pub. L. 111–139, title I, § 4][/us/pl/111/139/s4], Feb. 12, 2010, [124 Stat. 9][/us/stat/124/9].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 4, Feb. 12, 2010, [124 Stat. 9][/us/stat/124/9].)
 
  __References in Text__ 
 
@@ -201,7 +201,7 @@
 
     As amended by this title, referred to in subsec. (d)(3), means as amended by title I of [Pub. L. 111–139][/us/pl/111/139].
 
-    Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 828][/us/stat/124/828]. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended [section 1396a of Title 42][/us/usc/t42/s1396a], enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under [section 1396p of Title 42][/us/usc/t42/s1396p], prior to repeal by [Pub. L. 112–240, title VI, § 642(b)(1)][/us/pl/112/240/s642/b/1], Jan. 2, 2013, [126 Stat. 2358][/us/stat/126/2358].
+    Legislation titled the “Community Living Assistance Services and Supports Act”, referred to in subsec. (d)(6), was enacted as title VIII of [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 828][/us/stat/124/828]. Title VIII, which was also known as the “CLASS Act”, enacted subchapter XXX of chapter 6A of Title 42, The Public Health and Welfare, amended [section 1396a of Title 42][/us/usc/t42/s1396a], enacted provisions set out as notes under section 300ll of Title 42, and amended provisions set out as a note under [section 1396p of Title 42][/us/usc/t42/s1396p], prior to repeal by [Pub. L. 112–240, title VI][/us/pl/112/240/tVI], § 642(b)(1), Jan. 2, 2013, [126 Stat. 2358][/us/stat/126/2358].
 
  __Codification__ 
 
@@ -233,7 +233,7 @@
 [/us/usc/t2/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs639
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t2/s644/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs644%2Fe
-[/us/pl/111/139/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F9
 [/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8
@@ -250,7 +250,7 @@
 [/us/stat/124/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F828
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/usc/t42/s1396p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p
-[/us/pl/112/240/s642/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs642%2Fb%2F1
+[/us/pl/112/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVI
 [/us/stat/126/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2358
 [/us/pl/111/139/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4
 [/us/pl/111/139/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4

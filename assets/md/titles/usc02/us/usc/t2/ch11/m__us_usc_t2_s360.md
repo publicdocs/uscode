@@ -21,7 +21,7 @@
 
     (B) any prior recommendations of the President which take effect under this chapter.
 
-([Pub. L. 90–206, title II, § 225(j)][/us/pl/90/206/s225/j], Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 95–19, title IV, § 401(b)][/us/pl/95/19/s401/b], Apr. 12, 1977, [91 Stat. 46][/us/stat/91/46]; [Pub. L. 99–190, § 135(f)][/us/pl/99/190/s135/f], Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII, § 701(h)][/us/pl/101/194/s701/h], Nov. 30, 1989, [103 Stat. 1766][/us/stat/103/1766].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(j), Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 95–19, title IV][/us/pl/95/19/tIV], § 401(b), Apr. 12, 1977, [91 Stat. 46][/us/stat/91/46]; [Pub. L. 99–190][/us/pl/99/190], § 135(f), Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(h), Nov. 30, 1989, [103 Stat. 1766][/us/stat/103/1766].)
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 [/us/usc/t2/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs359
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s359/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs359%2F2
-[/us/pl/90/206/s225/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fj
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F644
-[/us/pl/95/19/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs401%2Fb
+[/us/pl/95/19/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIV
 [/us/stat/91/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F46
-[/us/pl/99/190/s135/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs135%2Ff
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1322
-[/us/pl/101/194/s701/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fh
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1766
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358

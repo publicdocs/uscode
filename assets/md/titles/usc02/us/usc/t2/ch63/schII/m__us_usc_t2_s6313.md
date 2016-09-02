@@ -31,7 +31,7 @@
 
     (6) Effective on and after October 1, 1997, the Senators’ Account shall be available for the payment of franked mail expenses of Senators.
 
-([Pub. L. 100–137, § 1(a)][/us/pl/100/137/s1/a], Oct. 21, 1987, [101 Stat. 814][/us/stat/101/814]; [Pub. L. 105–55, title I, § 3(b)][/us/pl/105/55/s3/b], Oct. 7, 1997, [111 Stat. 1180][/us/stat/111/1180].)
+([Pub. L. 100–137][/us/pl/100/137], § 1(a), Oct. 21, 1987, [101 Stat. 814][/us/stat/101/814]; [Pub. L. 105–55, title I][/us/pl/105/55/tI], § 3(b), Oct. 7, 1997, [111 Stat. 1180][/us/stat/111/1180].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Construction of 1997 Amendment__ 
 
-[Pub. L. 105–55, title I, § 3(d)][/us/pl/105/55/s3/d], Oct. 7, 1997, [111 Stat. 1180][/us/stat/111/1180], provided that: 
+[Pub. L. 105–55, title I][/us/pl/105/55/tI], § 3(d), Oct. 7, 1997, [111 Stat. 1180][/us/stat/111/1180], provided that: 
 
 > “Nothing in this section \[amending this section and [section 6314 of this title][/us/usc/t2/s6314], repealing [section 58c–1 of this title][/us/usc/t2/s58c–1], and enacting provisions set out as notes under section 6314 and former [section 58c–1 of this title][/us/usc/t2/s58c–1]\] affects the authority of the Committee on Rules and Administration of the Senate to prescribe regulations relating to the frank by Senators and officers of the Senate.”
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/100/137/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs1%2Fa
+[/us/pl/100/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137
 [/us/stat/101/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F814
-[/us/pl/105/55/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs3%2Fb
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1180
 [/us/pl/100/137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F137%2Fs1
 [/us/stat/101/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F814
 [/us/usc/t2/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58c
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
-[/us/pl/105/55/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs3%2Fd
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1180
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/usc/t2/s58c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58c%E2%80%931

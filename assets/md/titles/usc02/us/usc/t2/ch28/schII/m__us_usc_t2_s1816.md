@@ -47,11 +47,11 @@
 
         This section shall apply with respect to contracts entered into during fiscal year 2002 or any succeeding fiscal year.
 
-([Pub. L. 107–68, title I, § 130][/us/pl/107/68/s130], Nov. 12, 2001, [115 Stat. 580][/us/stat/115/580].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 130, Nov. 12, 2001, [115 Stat. 580][/us/stat/115/580].)
 
  __Codification__ 
 
-    Section was classified to section 166j of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166j of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/107/68/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs130
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F580
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

@@ -51,7 +51,7 @@
 
         This section shall apply with respect to payments of pay and allowances made at any time after the Chief became the disbursing officer for the United States Capitol Police pursuant to [section 1907(a) of this title][/us/usc/t2/s1907/a].
 
-([Pub. L. 112–74, div. G, title I, § 1102][/us/pl/112/74/s1102], Dec. 23, 2011, [125 Stat. 1125][/us/stat/125/1125].)
+([Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1102, Dec. 23, 2011, [125 Stat. 1125][/us/stat/125/1125].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t2/s1907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907%2Fa
-[/us/pl/112/74/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1102
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1125
 
 

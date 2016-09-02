@@ -49,13 +49,13 @@
 
         With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
 
-([Pub. L. 93–344, title II, § 203][/us/pl/93/344/s203], July 12, 1974, [88 Stat. 305][/us/stat/88/305]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 310(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–639.)
+([Pub. L. 93–344, title II][/us/pl/93/344/tII], § 203, July 12, 1974, [88 Stat. 305][/us/stat/88/305]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 310(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–639.)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 310(b)(2)\], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 310(b)(2)\], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)”.
 
-    Subsec. (e). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 310(b)(1)\], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 310(b)(1)\], added subsec. (e).
 
  __Effective Date__ 
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/93/344/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs203
+[/us/pl/93/344/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtII
 [/us/stat/88/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F305
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t2/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs601%2Fa
 [/us/pl/93/344/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs905%2Fb
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621

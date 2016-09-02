@@ -21,9 +21,9 @@
 
  __Codification__ 
 
-    Section was classified to section 188 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
-    R.S. § 1831 derived from [act June 10, 1872, ch. 415, § 1][/us/act/1872-06-10/ch415/s1], [17 Stat. 362][/us/stat/17/362].
+    R.S. § 1831 derived from [act June 10, 1872, ch. 415][/us/act/1872-06-10/ch415], § 1, [17 Stat. 362][/us/stat/17/362].
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/act/1872-06-10/ch415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-06-10%2Fch415%2Fs1
+[/us/act/1872-06-10/ch415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-06-10%2Fch415
 [/us/stat/17/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F362
 
 

@@ -43,7 +43,7 @@
 
         This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each fiscal year, beginning with fiscal year 2014.
 
-([Pub. L. 113–76, div. I, title I, § 1102][/us/pl/113/76/s1102], Jan. 17, 2014, [128 Stat. 425][/us/stat/128/425].)
+([Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1102, Jan. 17, 2014, [128 Stat. 425][/us/stat/128/425].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/113/76/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1102
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F425
 
 

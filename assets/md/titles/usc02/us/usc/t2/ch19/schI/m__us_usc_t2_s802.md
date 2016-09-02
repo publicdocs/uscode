@@ -59,7 +59,7 @@
 
             There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
 
-([Pub. L. 96–114, title I, § 102][/us/pl/96/114/s102], formerly § 3, Nov. 16, 1979, [93 Stat. 851][/us/stat/93/851]; [Pub. L. 99–161, § 4(a)][/us/pl/99/161/s4/a]–(c), Nov. 25, 1985, [99 Stat. 934][/us/stat/99/934]; [Pub. L. 100–674, § 2(a)][/us/pl/100/674/s2/a], Nov. 17, 1988, [102 Stat. 3996][/us/stat/102/3996]; [Pub. L. 101–525, § 3][/us/pl/101/525/s3], Nov. 6, 1990, [104 Stat. 2305][/us/stat/104/2305]; [Pub. L. 103–329, title VI, § 637][/us/pl/103/329/s637], Sept. 30, 1994, [108 Stat. 2431][/us/stat/108/2431]; [Pub. L. 106–63, § 1(a)][/us/pl/106/63/s1/a], Oct. 1, 1999, [113 Stat. 510][/us/stat/113/510]; renumbered title I, § 102, and amended [Pub. L. 106–533, § 1(b)(1)][/us/pl/106/533/s1/b/1], (2), (4), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553]; [Pub. L. 111–200, § 2(a)][/us/pl/111/200/s2/a], July 7, 2010, [124 Stat. 1368][/us/stat/124/1368].)
+([Pub. L. 96–114, title I][/us/pl/96/114/tI], § 102, formerly § 3, Nov. 16, 1979, [93 Stat. 851][/us/stat/93/851]; [Pub. L. 99–161][/us/pl/99/161], § 4(a)–(c), Nov. 25, 1985, [99 Stat. 934][/us/stat/99/934]; [Pub. L. 100–674][/us/pl/100/674], § 2(a), Nov. 17, 1988, [102 Stat. 3996][/us/stat/102/3996]; [Pub. L. 101–525][/us/pl/101/525], § 3, Nov. 6, 1990, [104 Stat. 2305][/us/stat/104/2305]; [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 637, Sept. 30, 1994, [108 Stat. 2431][/us/stat/108/2431]; [Pub. L. 106–63][/us/pl/106/63], § 1(a), Oct. 1, 1999, [113 Stat. 510][/us/stat/113/510]; renumbered title I, § 102, and amended [Pub. L. 106–533][/us/pl/106/533], § 1(b)(1), (2), (4), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553]; [Pub. L. 111–200][/us/pl/111/200], § 2(a), July 7, 2010, [124 Stat. 1368][/us/stat/124/1368].)
 
  __Codification__ 
 
@@ -67,29 +67,29 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–200, § 2(a)(1)][/us/pl/111/200/s2/a/1], struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
+    2010—Subsec. (b). [Pub. L. 111–200][/us/pl/111/200], § 2(a)(1), struck out “under paragraph (3)” after “established by the Board” in concluding provisions.
 
-    Subsec. (c). [Pub. L. 111–200, § 2(a)(2)][/us/pl/111/200/s2/a/2], substituted “in connection with” for “during” in second sentence.
+    Subsec. (c). [Pub. L. 111–200][/us/pl/111/200], § 2(a)(2), substituted “in connection with” for “during” in second sentence.
 
-    2000—Subsec. (e)(3). [Pub. L. 106–533, § 1(b)(4)(A)][/us/pl/106/533/s1/b/4/A], which directed technical amendment to reference in original act which would have appeared in text as reference to [section 804(g)(1) of this title][/us/usc/t2/s804/g/1], could not be executed because that reference did not appear in the original. See Codification note above.
+    2000—Subsec. (e)(3). [Pub. L. 106–533][/us/pl/106/533], § 1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to [section 804(g)(1) of this title][/us/usc/t2/s804/g/1], could not be executed because that reference did not appear in the original. See Codification note above.
 
-    Subsec. (e)(4). [Pub. L. 106–533, § 1(b)(4)(B)][/us/pl/106/533/s1/b/4/B], made technical amendment to reference in original act which appears in text as reference to [section 806 of this title][/us/usc/t2/s806]. See Codification note above.
+    Subsec. (e)(4). [Pub. L. 106–533][/us/pl/106/533], § 1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to [section 806 of this title][/us/usc/t2/s806]. See Codification note above.
 
     1999—Subsec. (e). [Pub. L. 106–63][/us/pl/106/63] substituted “June 1” for “April 1” in introductory provisions.
 
-    1994—Subsec. (a). [Pub. L. 103–329, § 637(1)][/us/pl/103/329/s637/1], struck out “gold, silver, and bronze” after “Under the program” and substituted last sentence for former last sentence which read as follows: “The medals shall be of such design and materials as the Board may determine.”
+    1994—Subsec. (a). [Pub. L. 103–329][/us/pl/103/329], § 637(1), struck out “gold, silver, and bronze” after “Under the program” and substituted last sentence for former last sentence which read as follows: “The medals shall be of such design and materials as the Board may determine.”
 
-    Subsec. (f). [Pub. L. 103–329, § 637(2)][/us/pl/103/329/s637/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–329][/us/pl/103/329], § 637(2), added subsec. (f).
 
     1990—Subsec. (e). [Pub. L. 101–525][/us/pl/101/525] substituted “April 1” for “March 1”.
 
     1988—Subsec. (e)(6) to (8). [Pub. L. 100–674][/us/pl/100/674] added pars. (6) and (7) and redesignated former par. (6) as (8).
 
-    1985—Subsec. (b). [Pub. L. 99–161, § 4(a)][/us/pl/99/161/s4/a], inserted provision limiting salaries established by Board under par. (3) to $75,000 per annum, such limit after 1986 being increased in proportion to Consumer Price Index.
+    1985—Subsec. (b). [Pub. L. 99–161][/us/pl/99/161], § 4(a), inserted provision limiting salaries established by Board under par. (3) to $75,000 per annum, such limit after 1986 being increased in proportion to Consumer Price Index.
 
-    Subsec. (d). [Pub. L. 99–161, § 4(b)][/us/pl/99/161/s4/b], inserted reference to Silver and Bronze Medals.
+    Subsec. (d). [Pub. L. 99–161][/us/pl/99/161], § 4(b), inserted reference to Silver and Bronze Medals.
 
-    Subsec. (e)(4). [Pub. L. 99–161, § 4(c)][/us/pl/99/161/s4/c], inserted “for each member, officer, employee, and consultant of the Board (or of the Corporation established pursuant to [section 806(g)(1) of this title][/us/usc/t2/s806/g/1])”.
+    Subsec. (e)(4). [Pub. L. 99–161][/us/pl/99/161], § 4(c), inserted “for each member, officer, employee, and consultant of the Board (or of the Corporation established pursuant to [section 806(g)(1) of this title][/us/usc/t2/s806/g/1])”.
 
 ----------
 
@@ -98,38 +98,38 @@
 ----------
 ----------
 
-[/us/pl/96/114/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2Fs102
+[/us/pl/96/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2FtI
 [/us/stat/93/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F851
-[/us/pl/99/161/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161%2Fs4%2Fa
+[/us/pl/99/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161
 [/us/stat/99/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F934
-[/us/pl/100/674/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674%2Fs2%2Fa
+[/us/pl/100/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674
 [/us/stat/102/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3996
-[/us/pl/101/525/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs3
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
 [/us/stat/104/2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2305
-[/us/pl/103/329/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs637
+[/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
 [/us/stat/108/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2431
-[/us/pl/106/63/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F63%2Fs1%2Fa
+[/us/pl/106/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F63
 [/us/stat/113/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F510
-[/us/pl/106/533/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F1
+[/us/pl/106/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533
 [/us/stat/114/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2553
-[/us/pl/111/200/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fa
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
 [/us/stat/124/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1368
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/111/200/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fa%2F1
-[/us/pl/111/200/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fa%2F2
-[/us/pl/106/533/s1/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F4%2FA
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/106/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533
 [/us/usc/t2/s804/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs804%2Fg%2F1
-[/us/pl/106/533/s1/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F4%2FB
+[/us/pl/106/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533
 [/us/usc/t2/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs806
 [/us/pl/106/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F63
-[/us/pl/103/329/s637/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs637%2F1
-[/us/pl/103/329/s637/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs637%2F2
+[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
+[/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329
 [/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
 [/us/pl/100/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674
-[/us/pl/99/161/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161%2Fs4%2Fa
-[/us/pl/99/161/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161%2Fs4%2Fb
-[/us/pl/99/161/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161%2Fs4%2Fc
+[/us/pl/99/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161
+[/us/pl/99/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161
+[/us/pl/99/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161
 [/us/usc/t2/s806/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs806%2Fg%2F1
 
 

@@ -19,7 +19,7 @@
 
     (b) This section shall apply with respect to fiscal year 1999 and each succeeding fiscal year.
 
-([Pub. L. 105–275, title I, § 107][/us/pl/105/275/s107], Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439].)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 107, Oct. 21, 1998, [112 Stat. 2439][/us/stat/112/2439].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/105/275/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs107
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2439
 [/us/usc/t2/s74a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%939
 

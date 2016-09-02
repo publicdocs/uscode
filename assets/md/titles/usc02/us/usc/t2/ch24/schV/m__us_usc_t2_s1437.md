@@ -17,7 +17,7 @@
 
     It is the sense of the Senate that the Committee on Rules and Administration of the Senate should review the rules applicable to purchases by Senate offices to determine whether they are consistent with the acquisition simplification and streamlining laws enacted in the Federal Acquisition Streamlining Act of 1994 ([Public Law 103–355][/us/pl/103/355]).
 
-([Pub. L. 104–1, title V, § 508][/us/pl/104/1/s508], Jan. 23, 1995, [109 Stat. 44][/us/stat/109/44].)
+([Pub. L. 104–1, title V][/us/pl/104/1/tV], § 508, Jan. 23, 1995, [109 Stat. 44][/us/stat/109/44].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/104/1/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs508
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F44
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/stat/108/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3243

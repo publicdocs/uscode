@@ -17,7 +17,7 @@
 
     The Sergeant at Arms and Doorkeeper of the Senate shall deposit in the United States Treasury for credit to the appropriation account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”, all moneys received by him as reimbursement for equipment provided to Senators, committee chairmen, and other officers and employees of the Senate, which has been lost, stolen, damaged, or otherwise unaccounted for.
 
-([Pub. L. 98–367, title I, § 5][/us/pl/98/367/s5], July 17, 1984, [98 Stat. 475][/us/stat/98/475].)
+([Pub. L. 98–367, title I][/us/pl/98/367/tI], § 5, July 17, 1984, [98 Stat. 475][/us/stat/98/475].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/367/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2Fs5
+[/us/pl/98/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367%2FtI
 [/us/stat/98/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F475
 [/us/usc/t2/s117d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117d
 

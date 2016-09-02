@@ -97,19 +97,19 @@
 
             (C) develop and monitor processes for recruiting, selecting, appraising, and promoting employees.
 
-([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 108\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–104; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 507(a)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–55; [Pub. L. 107–68, title I, § 122(a)][/us/pl/107/68/s122/a], Nov. 12, 2001, [115 Stat. 576][/us/stat/115/576]; [Pub. L. 108–7, div. H, title I, § 1013(c)][/us/pl/108/7/s1013/c], Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–55, title I, § 1004(g)][/us/pl/109/55/s1004/g], Aug. 2, 2005, [119 Stat. 575][/us/stat/119/575]; [Pub. L. 111–145][/us/pl/111/145], §§ 2(a)(1), (2), 6(a), Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49], 54.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 108\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–104; [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title V, § 507(a)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–55; [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 122(a), Nov. 12, 2001, [115 Stat. 576][/us/stat/115/576]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1013(c), Feb. 20, 2003, [117 Stat. 361][/us/stat/117/361]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1004(g), Aug. 2, 2005, [119 Stat. 575][/us/stat/119/575]; [Pub. L. 111–145][/us/pl/111/145], §§ 2(a)(1), (2), 6(a), Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49], 54.)
 
  __Codification__ 
 
-    Section was classified to section 206a–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 206a–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–145, § 2(a)(1)][/us/pl/111/145/s2/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
+    2010—Subsec. (a). [Pub. L. 111–145][/us/pl/111/145], § 2(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the establishment of the Office of Administration and the appointment and compensation of the Chief Administrative Officer.
 
-    Subsec. (c). [Pub. L. 111–145, § 2(a)(2)][/us/pl/111/145/s2/a/2], struck out subsec. (c) which related to the Chief Administrative Officer’s employment of personnel and access to resources of other agencies.
+    Subsec. (c). [Pub. L. 111–145][/us/pl/111/145], § 2(a)(2), struck out subsec. (c) which related to the Chief Administrative Officer’s employment of personnel and access to resources of other agencies.
 
-    Subsecs. (d) to (g). [Pub. L. 111–145, § 6(a)][/us/pl/111/145/s6/a], struck out subsecs. (d) to (g) which related to a plan for office policies, procedures, and actions, a report on progress made in such planning, submission of the plan and report to the appropriate congressional committees, and termination of the role of the Comptroller General.
+    Subsecs. (d) to (g). [Pub. L. 111–145][/us/pl/111/145], § 6(a), struck out subsecs. (d) to (g) which related to a plan for office policies, procedures, and actions, a report on progress made in such planning, submission of the plan and report to the appropriate congressional committees, and termination of the role of the Comptroller General.
 
     2005—Subsec. (b)(2)(D). [Pub. L. 109–55][/us/pl/109/55] amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.”
 
@@ -131,19 +131,19 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–68, title I, § 122(b)][/us/pl/107/68/s122/b], Nov. 12, 2001, [115 Stat. 576][/us/stat/115/576], provided that: 
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 122(b), Nov. 12, 2001, [115 Stat. 576][/us/stat/115/576], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to pay periods beginning on or after October 1, 2001.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 507(b)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–57, provided that: 
+[Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title V, § 507(b)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–57, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2001 \[H.R. 5657, as enacted by [section 1(a)(2) of Pub. L. 106–554][/us/pl/106/554/s1/a/2]\].”
 
  __Construction of 2010 Amendment__ 
 
-[Pub. L. 111–145, § 2(a)(6)][/us/pl/111/145/s2/a/6], Mar. 4, 2010, [124 Stat. 50][/us/stat/124/50], provided that: 
+[Pub. L. 111–145][/us/pl/111/145], § 2(a)(6), Mar. 4, 2010, [124 Stat. 50][/us/stat/124/50], provided that: 
 
 > “Nothing in the amendments made by this subsection \[amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title\] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\].”
 
@@ -154,25 +154,25 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
-[/us/pl/107/68/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs122%2Fa
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F576
-[/us/pl/108/7/s1013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1013%2Fc
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F361
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/55/s1004/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1004%2Fg
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F575
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F49
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/111/145/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F1
-[/us/pl/111/145/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F2
-[/us/pl/111/145/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fa
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -183,12 +183,12 @@
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s1013/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1013%2Fd
 [/us/usc/t2/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1902
-[/us/pl/107/68/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs122%2Fb
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F576
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 [/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
-[/us/pl/111/145/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F6
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F50
 
 

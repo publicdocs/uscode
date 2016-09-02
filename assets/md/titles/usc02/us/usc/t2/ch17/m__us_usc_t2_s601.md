@@ -61,7 +61,7 @@
 
         There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with [section 6503 of this title][/us/usc/t2/s6503], and upon vouchers approved by the Director.
 
-([Pub. L. 93–344, title II, § 201][/us/pl/93/344/s201], July 12, 1974, [88 Stat. 302][/us/stat/88/302]; [Pub. L. 99–177, title II, § 273][/us/pl/99/177/s273], Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098], renumbered [§ 201(g) of Pub. L. 93–344][/us/pl/93/344/s201/g], [Pub. L. 101–508, title XIII, § 13202(b)][/us/pl/101/508/s13202/b], Nov. 5, 1990, [104 Stat. 1388–615][/us/stat/104/1388-615]; [Pub. L. 101–508, title XIII, § 13202(a)][/us/pl/101/508/s13202/a], (c), Nov. 5, 1990, [104 Stat. 1388–615][/us/stat/104/1388-615]; [Pub. L. 105–33, title X, § 10102][/us/pl/105/33/s10102], Aug. 5, 1997, [111 Stat. 678][/us/stat/111/678]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 224\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–299; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 93–344, title II][/us/pl/93/344/tII], § 201, July 12, 1974, [88 Stat. 302][/us/stat/88/302]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 273, Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098], renumbered § 201(g) of [Pub. L. 93–344][/us/pl/93/344], [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13202(b), Nov. 5, 1990, [104 Stat. 1388–615][/us/stat/104/1388-615]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13202(a), (c), Nov. 5, 1990, [104 Stat. 1388–615][/us/stat/104/1388-615]; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10102, Aug. 5, 1997, [111 Stat. 678][/us/stat/111/678]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 224\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–299; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Codification__ 
 
-    [Pub. L. 101–508, § 12302(b)][/us/pl/101/508/s12302/b], transferred [section 273 of Pub. L. 99–177][/us/pl/99/177/s273], which was classified to [section 921 of this title][/us/usc/t2/s921], to subsec. (g) (now (f)) of this section, relating to revenue estimates.
+    [Pub. L. 101–508][/us/pl/101/508], § 12302(b), transferred [section 273 of Pub. L. 99–177][/us/pl/99/177/s273], which was classified to [section 921 of this title][/us/usc/t2/s921], to subsec. (g) (now (f)) of this section, relating to revenue estimates.
 
  __Amendments__ 
 
@@ -77,17 +77,17 @@
 
     1999—Subsec. (a)(5). [Pub. L. 106–113][/us/pl/106/113] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in [section 5314 of title 5][/us/usc/t5/s5314]. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
 
-    1997—Subsec. (a)(3). [Pub. L. 105–33, § 10102(a)][/us/pl/105/33/s10102/a], substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
+    1997—Subsec. (a)(3). [Pub. L. 105–33][/us/pl/105/33], § 10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
 
-    Subsec. (e). [Pub. L. 105–33, § 10102(b)][/us/pl/105/33/s10102/b], inserted “and” before “the Library”, struck out “and the Office of Technology Assessment,” after “Library of Congress,”, inserted “and” before “the Librarian”, and struck out “, and the Technology Assessment Board” after “Librarian of Congress”.
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 10102(b), inserted “and” before “the Library”, struck out “and the Office of Technology Assessment,” after “Library of Congress,”, inserted “and” before “the Librarian”, and struck out “, and the Technology Assessment Board” after “Librarian of Congress”.
 
-    Subsecs. (f), (g). [Pub. L. 105–33, § 10102(c)][/us/pl/105/33/s10102/c], redesignated subsec. (g), relating to revenue estimates, as (f).
+    Subsecs. (f), (g). [Pub. L. 105–33][/us/pl/105/33], § 10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
 
-    1990—Subsec. (f). [Pub. L. 101–508, § 13202(a)][/us/pl/101/508/s13202/a], redesignated subsec. (f), relating to authorization of appropriations, as (g).
+    1990—Subsec. (f). [Pub. L. 101–508][/us/pl/101/508], § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
-    Subsec. (g). [Pub. L. 101–508, § 13202(a)][/us/pl/101/508/s13202/a], redesignated subsec. (f), relating to authorization of appropriations, as (g).
+    Subsec. (g). [Pub. L. 101–508][/us/pl/101/508], § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
-    [Pub. L. 101–508, § 12302(b)][/us/pl/101/508/s12302/b], (c), redesignated [section 921 of this title][/us/usc/t2/s921] as subsec. (g) of this section, inserted heading “Revenue estimates” and substituted “this Act” for “this title and the Congressional Budget and Impoundment Control Act of 1974”.
+    [Pub. L. 101–508][/us/pl/101/508], § 12302(b), (c), redesignated [section 921 of this title][/us/usc/t2/s921] as subsec. (g) of this section, inserted heading “Revenue estimates” and substituted “this Act” for “this title and the Congressional Budget and Impoundment Control Act of 1974”.
 
  __Effective Date__ 
 
@@ -110,20 +110,20 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6503
-[/us/pl/93/344/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs201
+[/us/pl/93/344/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtII
 [/us/stat/88/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F302
-[/us/pl/99/177/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs273
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1098
-[/us/pl/93/344/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs201%2Fg
-[/us/pl/101/508/s13202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13202%2Fb
+[/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-615
-[/us/pl/101/508/s13202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13202%2Fa
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-615
-[/us/pl/105/33/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10102
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F678
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
@@ -131,18 +131,18 @@
 [/us/usc/t1/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs105
 [/us/usc/t1/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs105
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/101/508/s12302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12302%2Fb
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/177/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs273
 [/us/usc/t2/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs921
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/105/33/s10102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10102%2Fa
-[/us/pl/105/33/s10102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10102%2Fb
-[/us/pl/105/33/s10102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10102%2Fc
-[/us/pl/101/508/s13202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13202%2Fa
-[/us/pl/101/508/s13202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13202%2Fa
-[/us/pl/101/508/s12302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12302%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs921
 [/us/pl/93/344/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs905%2Fa
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344

@@ -17,7 +17,7 @@
 
     Employees of the Library of Congress who perform special functions for the performance of which funds have been entrusted to the board or the librarian, or in connection with cooperative undertakings in which the Library of Congress is engaged, shall not be subject to [section 209 of title 18][/us/usc/t18/s209]; and [section 5533 of title 5][/us/usc/t5/s5533] shall not apply to any additional compensation so paid to such employees.
 
-([Mar. 3, 1925, ch. 423, § 6][/us/act/1925-03-03/ch423/s6], [43 Stat. 1108][/us/stat/43/1108]; [Jan. 27, 1926, ch. 6, § 2][/us/act/1926-01-27/ch6/s2], [44 Stat. 2][/us/stat/44/2]; [Pub. L. 88–448, title IV, § 401(j)][/us/pl/88/448/s401/j], Aug. 19, 1964, [78 Stat. 491][/us/stat/78/491].)
+([Mar. 3, 1925, ch. 423][/us/act/1925-03-03/ch423], § 6, [43 Stat. 1108][/us/stat/43/1108]; [Jan. 27, 1926, ch. 6][/us/act/1926-01-27/ch6], § 2, [44 Stat. 2][/us/stat/44/2]; [Pub. L. 88–448, title IV][/us/pl/88/448/tIV], § 401(j), Aug. 19, 1964, [78 Stat. 491][/us/stat/78/491].)
 
  __Codification__ 
 
@@ -46,11 +46,11 @@
 
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
 [/us/usc/t5/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533
-[/us/act/1925-03-03/ch423/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423%2Fs6
+[/us/act/1925-03-03/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423
 [/us/stat/43/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1108
-[/us/act/1926-01-27/ch6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-01-27%2Fch6%2Fs2
+[/us/act/1926-01-27/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-01-27%2Fch6
 [/us/stat/44/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F2
-[/us/pl/88/448/s401/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs401%2Fj
+[/us/pl/88/448/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2FtIV
 [/us/stat/78/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F491
 [/us/usc/t18/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs209
 [/us/stat/39/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1106

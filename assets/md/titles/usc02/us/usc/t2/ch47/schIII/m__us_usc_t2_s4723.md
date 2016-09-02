@@ -39,7 +39,7 @@
 
     (8) Any other information deemed by the committee to be appropriate to describe its activities in the preceding year.
 
-([Pub. L. 110–81, title V, § 554][/us/pl/110/81/s554], Sept. 14, 2007, [121 Stat. 773][/us/stat/121/773].)
+([Pub. L. 110–81, title V][/us/pl/110/81/tV], § 554, Sept. 14, 2007, [121 Stat. 773][/us/stat/121/773].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/110/81/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs554
+[/us/pl/110/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtV
 [/us/stat/121/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F773
 [/us/usc/t2/s72a–1i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931i
 

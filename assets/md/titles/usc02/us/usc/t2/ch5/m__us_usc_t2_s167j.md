@@ -29,19 +29,19 @@
 
         (2) Improvements to such real property.
 
-([Aug. 4, 1950, ch. 561, § 11][/us/act/1950-08-04/ch561/s11], [64 Stat. 412][/us/stat/64/412]; [Pub. L. 91–281][/us/pl/91/281], June 17, 1970, [84 Stat. 309][/us/stat/84/309]; [Pub. L. 101–520, title II, § 205(d)][/us/pl/101/520/s205/d], Nov. 5, 1990, [104 Stat. 2272][/us/stat/104/2272]; [Pub. L. 101–562, § 2(c)][/us/pl/101/562/s2/c], Nov. 15, 1990, [104 Stat. 2780][/us/stat/104/2780]; [Pub. L. 105–144, § 2][/us/pl/105/144/s2], Dec. 15, 1997, [111 Stat. 2667][/us/stat/111/2667]; [Pub. L. 108–83, title I, § 1203(b)][/us/pl/108/83/s1203/b], Sept. 30, 2003, [117 Stat. 1031][/us/stat/117/1031]; [Pub. L. 110–161, div. H, title I, § 1004(d)(2)(D)][/us/pl/110/161/s1004/d/2/D], Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178, § 4(b)(4)][/us/pl/110/178/s4/b/4], Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
+([Aug. 4, 1950, ch. 561][/us/act/1950-08-04/ch561], § 11, [64 Stat. 412][/us/stat/64/412]; [Pub. L. 91–281][/us/pl/91/281], June 17, 1970, [84 Stat. 309][/us/stat/84/309]; [Pub. L. 101–520, title II][/us/pl/101/520/tII], § 205(d), Nov. 5, 1990, [104 Stat. 2272][/us/stat/104/2272]; [Pub. L. 101–562][/us/pl/101/562], § 2(c), Nov. 15, 1990, [104 Stat. 2780][/us/stat/104/2780]; [Pub. L. 105–144][/us/pl/105/144], § 2, Dec. 15, 1997, [111 Stat. 2667][/us/stat/111/2667]; [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1203(b), Sept. 30, 2003, [117 Stat. 1031][/us/stat/117/1031]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(d)(2)(D), Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178][/us/pl/110/178], § 4(b)(4), Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161, § 1004(d)(2)(D)][/us/pl/110/161/s1004/d/2/D]. See 2007 Amendment notes below.
+    2010—[Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(D). See 2007 Amendment notes below.
 
-    2008—Subsec. (a). [Pub. L. 110–178, § 4(b)(4)(A)][/us/pl/110/178/s4/b/4/A], substituted “The” for “For the purposes of sections 167 to 167j of this title the”.
+    2008—Subsec. (a). [Pub. L. 110–178][/us/pl/110/178], § 4(b)(4)(A), substituted “The” for “For the purposes of sections 167 to 167j of this title the”.
 
-    Subsecs. (b) to (d). [Pub. L. 110–178, § 4(b)(4)(B)][/us/pl/110/178/s4/b/4/B]–(D), substituted “The” for “For the purposes of sections 167 to 167j of this title, the”.
+    Subsecs. (b) to (d). [Pub. L. 110–178][/us/pl/110/178], § 4(b)(4)(B)–(D), substituted “The” for “For the purposes of sections 167 to 167j of this title, the”.
 
-    2007—Subsec. (a). [Pub. L. 110–161, § 1004(d)(2)(D)(i)][/us/pl/110/161/s1004/d/2/D/i], which made amendment identical to that made by [Pub. L. 110–178, § 4(b)(4)(A)][/us/pl/110/178/s4/b/4/A], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
+    2007—Subsec. (a). [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(D)(i), which made amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], § 4(b)(4)(A), was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
 
-    Subsecs. (b) to (d). [Pub. L. 110–161, § 1004(d)(2)(D)(ii)][/us/pl/110/161/s1004/d/2/D/ii]–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, but could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text, was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
+    Subsecs. (b) to (d). [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(2)(D)(ii)–(iv), which directed substitution of “The” for “For the purposes of sections 167 to 167j of this title the”, but could not be executed because “For the purposes of sections 167 to 167j of this title the” did not appear in text, was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
 
     2003—Subsec. (d)(1). [Pub. L. 108–83][/us/pl/108/83] added par. (1) and struck out former par. (1) which read as follows: “Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk’s Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.”
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1990 Amendments__ 
 
-    Amendment by [Pub. L. 101–520][/us/pl/101/520] and [Pub. L. 101–562][/us/pl/101/562] effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in [Pub. L. 101–520, § 205(a)][/us/pl/101/520/s205/a], and [Pub. L. 101–562, § 1][/us/pl/101/562/s1], see [section 205(e) of Pub. L. 101–520][/us/pl/101/520/s205/e] and former [section 2(d) of Pub. L. 101–562][/us/pl/101/562/s2/d], set out as a Special Facilities Center; Acquisition note under [section 141 of this title][/us/usc/t2/s141].
+    Amendment by [Pub. L. 101–520][/us/pl/101/520] and [Pub. L. 101–562][/us/pl/101/562] effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in [Pub. L. 101–520][/us/pl/101/520], § 205(a), and [Pub. L. 101–562][/us/pl/101/562], § 1, see [section 205(e) of Pub. L. 101–520][/us/pl/101/520/s205/e] and former [section 2(d) of Pub. L. 101–562][/us/pl/101/562/s2/d], set out as a Special Facilities Center; Acquisition note under [section 141 of this title][/us/usc/t2/s141].
 
 ----------
 
@@ -74,32 +74,32 @@
 ----------
 ----------
 
-[/us/act/1950-08-04/ch561/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-04%2Fch561%2Fs11
+[/us/act/1950-08-04/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-04%2Fch561
 [/us/stat/64/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F412
 [/us/pl/91/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F281
 [/us/stat/84/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F309
-[/us/pl/101/520/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fd
+[/us/pl/101/520/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtII
 [/us/stat/104/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2272
-[/us/pl/101/562/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562%2Fs2%2Fc
+[/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
 [/us/stat/104/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2780
-[/us/pl/105/144/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F144%2Fs2
+[/us/pl/105/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F144
 [/us/stat/111/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2667
-[/us/pl/108/83/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1203%2Fb
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1031
-[/us/pl/110/161/s1004/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FD
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2234
-[/us/pl/110/178/s4/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F4
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2552
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/161/s1004/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FD
-[/us/pl/110/178/s4/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F4%2FA
-[/us/pl/110/178/s4/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F4%2FB
-[/us/pl/110/161/s1004/d/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FD%2Fi
-[/us/pl/110/178/s4/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fb%2F4%2FA
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/161/s1004/d/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F2%2FD%2Fii
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
 [/us/pl/105/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F144
@@ -123,8 +123,8 @@
 [/us/usc/t2/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs141
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
 [/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
-[/us/pl/101/520/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fa
-[/us/pl/101/562/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562%2Fs1
+[/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
+[/us/pl/101/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562
 [/us/pl/101/520/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs205%2Fe
 [/us/pl/101/562/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F562%2Fs2%2Fd
 [/us/usc/t2/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs141

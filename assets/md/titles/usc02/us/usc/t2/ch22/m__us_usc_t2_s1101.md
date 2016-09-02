@@ -27,11 +27,11 @@
 
     (5) It would be a fitting tribute to Senator Stennis and to his leadership, integrity, and years of devoted public service to establish in his name a center for the training and development of leadership and excellence in public service.
 
-([Pub. L. 100–458, title I, § 112][/us/pl/100/458/s112], Oct. 1, 1988, [102 Stat. 2172][/us/stat/102/2172].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 112, Oct. 1, 1988, [102 Stat. 2172][/us/stat/102/2172].)
 
  __Short Title__ 
 
-[Pub. L. 100–458, title I, § 111][/us/pl/100/458/s111], Oct. 1, 1988, [102 Stat. 2172][/us/stat/102/2172], provided that: 
+[Pub. L. 100–458, title I][/us/pl/100/458/tI], § 111, Oct. 1, 1988, [102 Stat. 2172][/us/stat/102/2172], provided that: 
 
 > “This subtitle \[subtitle B (§§ 111–121) of title I of [Pub. L. 100–458][/us/pl/100/458], enacting this chapter\] may be cited as the ‘John C. Stennis Center for Public Service Training and Development Act’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/100/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs112
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2172
-[/us/pl/100/458/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs111
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2172
 [/us/pl/100/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458
 

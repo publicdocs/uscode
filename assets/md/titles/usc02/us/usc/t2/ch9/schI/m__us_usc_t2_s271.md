@@ -25,7 +25,7 @@
 
  __Appropriations__ 
 
-[Act Aug. 2, 1946, ch. 753, § 204][/us/act/1946-08-02/ch753/s204], [60 Stat. 837][/us/stat/60/837], provided: 
+[Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], § 204, [60 Stat. 837][/us/stat/60/837], provided: 
 
 > “There is hereby authorized to be appropriated for the work of the Office of the Legislative Counsel the following sums:
 
@@ -56,7 +56,7 @@
 [/us/usc/t2/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs281
 [/us/usc/t2/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs281
 [/us/usc/t2/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs282
-[/us/act/1946-08-02/ch753/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2Fs204
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F837
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 

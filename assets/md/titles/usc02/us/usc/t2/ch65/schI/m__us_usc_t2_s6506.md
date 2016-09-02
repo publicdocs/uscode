@@ -27,7 +27,7 @@
 
     (b) Any provision of law which was enacted, or any Senate resolution which was agreed to, prior to October 1, 1983, and which authorizes moneys in the contingent fund of the Senate to be expended by or for the use of the Secretary of the Senate, or his office (whether generally or from a specified account within such fund) may on and after October 1, 1983, be construed to authorize such moneys to be expended from the separate account, within such fund, established by subsection (a)(1) for the “Secretary of the Senate”; and any provision of law which was enacted prior to October 1, 1983, and which authorizes moneys in the contingent fund of the Senate to be expended by or for the use of the Sergeant at Arms and Doorkeeper of the Senate, or his office (whether generally or from a specified account within such fund) may on and after October 1, 1983, be construed to authorize such moneys to be expended from the separate account, within such fund, established by subsection (a)(1) for the “Sergeant at Arms and Doorkeeper of the Senate”.
 
-([Pub. L. 98–51, title I, § 103][/us/pl/98/51/s103], July 14, 1983, [97 Stat. 266][/us/stat/97/266].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 103, July 14, 1983, [97 Stat. 266][/us/stat/97/266].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/98/51/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs103
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F266
 [/us/usc/t2/s68–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68%E2%80%933
 

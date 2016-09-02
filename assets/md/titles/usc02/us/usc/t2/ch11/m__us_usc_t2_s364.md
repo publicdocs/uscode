@@ -29,7 +29,7 @@
 
         (C) which takes effect under section 702 or 703 of the Ethics Reform Act of 1989.
 
-([Pub. L. 90–206, title II, § 225(n)][/us/pl/90/206/s225/n], as added [Pub. L. 101–194, title VII, § 701(k)][/us/pl/101/194/s701/k], Nov. 30, 1989, [103 Stat. 1767][/us/stat/103/1767].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(n), as added [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(k), Nov. 30, 1989, [103 Stat. 1767][/us/stat/103/1767].)
 
  __References in Text__ 
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
-[/us/pl/90/206/s225/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fn
-[/us/pl/101/194/s701/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fk
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1767
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 

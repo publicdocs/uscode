@@ -21,7 +21,7 @@
 
     (2) Omitted
 
-([Pub. L. 96–38, title I, § 106(2)][/us/pl/96/38/s106/2], (3), July 25, 1979, [93 Stat. 112][/us/stat/93/112].)
+([Pub. L. 96–38, title I][/us/pl/96/38/tI], § 106(2), (3), July 25, 1979, [93 Stat. 112][/us/stat/93/112].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/38/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs106%2F2
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F112
 [/us/usc/t2/s61e–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61e%E2%80%932
 [/us/pl/96/38/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs106

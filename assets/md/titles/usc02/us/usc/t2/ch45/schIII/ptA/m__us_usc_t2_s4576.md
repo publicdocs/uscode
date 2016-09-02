@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers, and Employees”, if the aggregate gross pay from those positions does not exceed the maximum rate specified in [section 4575(d)(2) of this title][/us/usc/t2/s4575/d/2].
 
-([Pub. L. 95–94, title I, § 114][/us/pl/95/94/s114], Aug. 5, 1977, [91 Stat. 665][/us/stat/91/665]; [Pub. L. 95–240, title II, § 207][/us/pl/95/240/s207], Mar. 7, 1978, [92 Stat. 117][/us/stat/92/117]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 9\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–295.)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 114, Aug. 5, 1977, [91 Stat. 665][/us/stat/91/665]; [Pub. L. 95–240, title II][/us/pl/95/240/tII], § 207, Mar. 7, 1978, [92 Stat. 117][/us/stat/92/117]; [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title I, § 9\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–295.)
 
  __Codification__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t2/s4575/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F2
-[/us/pl/95/94/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs114
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F665
-[/us/pl/95/240/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F240%2Fs207
+[/us/pl/95/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F240%2FtII
 [/us/stat/92/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F117
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
 [/us/usc/t2/s61–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931a
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202

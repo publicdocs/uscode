@@ -57,23 +57,23 @@
 
         All funding for an agency’s administration of a direct loan or loan guarantee program shall be displayed as distinct and separately identified subaccounts within the same budget account as the program’s cost.
 
-([Pub. L. 93–344, title V, § 504][/us/pl/93/344/s504], as added [Pub. L. 101–508, title XIII, § 13201(a)][/us/pl/101/508/s13201/a], Nov. 5, 1990, [104 Stat. 1388–612][/us/stat/104/1388-612]; amended [Pub. L. 105–33, title X, § 10117(b)][/us/pl/105/33/s10117/b], Aug. 5, 1997, [111 Stat. 693][/us/stat/111/693].)
+([Pub. L. 93–344, title V][/us/pl/93/344/tV], § 504, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–612][/us/stat/104/1388-612]; amended [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10117(b), Aug. 5, 1997, [111 Stat. 693][/us/stat/111/693].)
 
  __Prior Provisions__ 
 
-    A prior [section 504 of Pub. L. 93–344][/us/pl/93/344/s504], title V, July 12, 1974, [88 Stat. 322][/us/stat/88/322], was classified to section 1020a of former Title 31, prior to repeal by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
+    A prior [section 504 of Pub. L. 93–344][/us/pl/93/344/s504], title V, July 12, 1974, [88 Stat. 322][/us/stat/88/322], was classified to section 1020a of former Title 31, prior to repeal by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
 
  __Amendments__ 
 
-    1997—Subsec. (b)(1). [Pub. L. 105–33, § 10117(b)(1)][/us/pl/105/33/s10117/b/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
+    1997—Subsec. (b)(1). [Pub. L. 105–33][/us/pl/105/33], § 10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
 
-    Subsec. (b)(2). [Pub. L. 105–33, § 10117(b)(2)][/us/pl/105/33/s10117/b/2], substituted “has been provided in advance in an appropriations Act” for “is enacted”.
+    Subsec. (b)(2). [Pub. L. 105–33][/us/pl/105/33], § 10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
 
-    Subsec. (c). [Pub. L. 105–33, § 10117(b)(3)][/us/pl/105/33/s10117/b/3], substituted “Subsections (b) and (e)” for “Subsection (b)”.
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 10117(b)(3), substituted “Subsections (b) and (e)” for “Subsection (b)”.
 
-    Subsec. (d)(1). [Pub. L. 105–33, § 10117(b)(4)][/us/pl/105/33/s10117/b/4], substituted “modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)” for “directly or indirectly alter the costs of outstanding direct loans and loan guarantees”.
+    Subsec. (d)(1). [Pub. L. 105–33][/us/pl/105/33], § 10117(b)(4), substituted “modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)” for “directly or indirectly alter the costs of outstanding direct loans and loan guarantees”.
 
-    Subsec. (e). [Pub. L. 105–33, § 10117(b)(5)][/us/pl/105/33/s10117/b/5], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources.”
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources.”
 
 ----------
 
@@ -82,19 +82,19 @@
 ----------
 ----------
 
-[/us/pl/93/344/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs504
-[/us/pl/101/508/s13201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13201%2Fa
+[/us/pl/93/344/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtV
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-612
-[/us/pl/105/33/s10117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fb
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F693
 [/us/pl/93/344/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs504
 [/us/stat/88/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F322
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/105/33/s10117/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fb%2F1
-[/us/pl/105/33/s10117/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fb%2F2
-[/us/pl/105/33/s10117/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fb%2F3
-[/us/pl/105/33/s10117/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fb%2F4
-[/us/pl/105/33/s10117/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10117%2Fb%2F5
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 
 

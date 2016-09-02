@@ -65,7 +65,7 @@
 
             For purposes of this subsection, the “applicable committee” with respect to an office means any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
 
-    (d) __Repealed.__  __[__  __Pub. L. 112–74, div. G, title I, § 1401(a)(1)__  __][/us/pl/112/74/s1401/a/1]__  __,__  __Dec. 23, 2011__  __,__  __[__  __125 Stat. 1134__  __][/us/stat/125/1134]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 112–74, div. G, title I__  __][/us/pl/112/74/dG/tI]__  __, § 1401(a)(1),__  __Dec. 23, 2011__  __,__  __[__  __125 Stat. 1134__  __][/us/stat/125/1134]__ 
 
     (e) __Eligible employee defined__ 
 
@@ -123,7 +123,7 @@
 
         This section shall take effect on December 8, 2004, and shall apply with respect to the portion of fiscal year 2005 occurring on and after December 8, 2004, and to each succeeding fiscal year.
 
-([Pub. L. 108–447, div. G, title II, § 210][/us/pl/108/447/s210], Dec. 8, 2004, [118 Stat. 3194][/us/stat/118/3194]; [Pub. L. 112–74, div. G, title I, § 1401(a)][/us/pl/112/74/s1401/a], Dec. 23, 2011, [125 Stat. 1134][/us/stat/125/1134].)
+([Pub. L. 108–447, div. G, title II][/us/pl/108/447/dG/tII], § 210, Dec. 8, 2004, [118 Stat. 3194][/us/stat/118/3194]; [Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1401(a), Dec. 23, 2011, [125 Stat. 1134][/us/stat/125/1134].)
 
  __Codification__ 
 
@@ -133,13 +133,13 @@
 
  __Amendments__ 
 
-    2011—Subsec. (d). [Pub. L. 112–74, § 1401(a)(1)][/us/pl/112/74/s1401/a/1], struck out subsec. (d). Prior to amendment, text read as follows: “This section shall not apply to any office which is an Executive agency under [section 105 of title 5][/us/usc/t5/s105] or any employee of such an office.”
+    2011—Subsec. (d). [Pub. L. 112–74][/us/pl/112/74], § 1401(a)(1), struck out subsec. (d). Prior to amendment, text read as follows: “This section shall not apply to any office which is an Executive agency under [section 105 of title 5][/us/usc/t5/s105] or any employee of such an office.”
 
-    Subsec. (f)(2)(A). [Pub. L. 112–74, § 1401(a)(2)][/us/pl/112/74/s1401/a/2], substituted “title 5, but excluding the Government Accountability Office” for “title 5”.
+    Subsec. (f)(2)(A). [Pub. L. 112–74][/us/pl/112/74], § 1401(a)(2), substituted “title 5, but excluding the Government Accountability Office” for “title 5”.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–74, div. G, title I, § 1401(c)][/us/pl/112/74/s1401/c], Dec. 23, 2011, [125 Stat. 1134][/us/stat/125/1134], provided that: 
+[Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1401(c), Dec. 23, 2011, [125 Stat. 1134][/us/stat/125/1134], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3521 of Title 5][/us/usc/t5/s3521], Government Organization and Employees\] shall apply with respect to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year.”
 
@@ -152,19 +152,19 @@
 
 [/us/usc/t5/s5595/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595%2Fc
 [/us/usc/t5/s5595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595
-[/us/pl/112/74/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1401%2Fa%2F1
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1134
 [/us/usc/t5/s5379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5379
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/108/447/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs210
+[/us/pl/108/447/dG/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtII
 [/us/stat/118/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3194
-[/us/pl/112/74/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1401%2Fa
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1134
 [/us/usc/t2/s60q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60q
-[/us/pl/112/74/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1401%2Fa%2F1
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/112/74/s1401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1401%2Fa%2F2
-[/us/pl/112/74/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1401%2Fc
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1134
 [/us/usc/t5/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3521
 

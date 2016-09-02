@@ -61,7 +61,7 @@
 
         (3) any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
 
-([Pub. L. 104–65, § 15][/us/pl/104/65/s15], Dec. 19, 1995, [109 Stat. 702][/us/stat/109/702]; [Pub. L. 105–166, § 4(a)][/us/pl/105/166/s4/a], (b), Apr. 6, 1998, [112 Stat. 38][/us/stat/112/38]; [Pub. L. 110–81, title II, § 201(b)(4)][/us/pl/110/81/s201/b/4], Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742].)
+([Pub. L. 104–65][/us/pl/104/65], § 15, Dec. 19, 1995, [109 Stat. 702][/us/stat/109/702]; [Pub. L. 105–166][/us/pl/105/166], § 4(a), (b), Apr. 6, 1998, [112 Stat. 38][/us/stat/112/38]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], § 201(b)(4), Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742].)
 
  __References in Text__ 
 
@@ -71,13 +71,13 @@
 
     2007—Subsecs. (a)(1), (b)(1). [Pub. L. 110–81][/us/pl/110/81] substituted “quarterly period” for “semiannual period”.
 
-    1998—Subsec. (a). [Pub. L. 105–166, § 4(a)(1)][/us/pl/105/166/s4/a/1], in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
+    1998—Subsec. (a). [Pub. L. 105–166][/us/pl/105/166], § 4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
 
-    Subsec. (a)(2). [Pub. L. 105–166, § 4(a)(2)][/us/pl/105/166/s4/a/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in [section 1602(7) of this title][/us/usc/t2/s1602/7], consider as lobbying activities only those activities that are influencing legislation as defined in [section 4911(d) of title 26][/us/usc/t26/s4911/d].”
+    Subsec. (a)(2). [Pub. L. 105–166][/us/pl/105/166], § 4(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in [section 1602(7) of this title][/us/usc/t2/s1602/7], consider as lobbying activities only those activities that are influencing legislation as defined in [section 4911(d) of title 26][/us/usc/t26/s4911/d].”
 
-    Subsec. (b). [Pub. L. 105–166, § 4(b)(1)][/us/pl/105/166/s4/b/1], in introductory provisions, substituted “A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to” for “A registrant that is subject to”.
+    Subsec. (b). [Pub. L. 105–166][/us/pl/105/166], § 4(b)(1), in introductory provisions, substituted “A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to” for “A registrant that is subject to”.
 
-    Subsec. (b)(2). [Pub. L. 105–166, § 4(b)(2)][/us/pl/105/166/s4/b/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in [section 1602(7) of this title][/us/usc/t2/s1602/7], consider as lobbying activities only those activities, the costs of which are not deductible pursuant to [section 162(e) of title 26][/us/usc/t26/s162/e].”
+    Subsec. (b)(2). [Pub. L. 105–166][/us/pl/105/166], § 4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in [section 1602(7) of this title][/us/usc/t2/s1602/7], consider as lobbying activities only those activities, the costs of which are not deductible pursuant to [section 162(e) of title 26][/us/usc/t26/s162/e].”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -99,22 +99,22 @@
 [/us/usc/t2/s1602/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602%2F4
 [/us/usc/t26/s162/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162%2Fe
 [/us/usc/t2/s1602/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602%2F7
-[/us/pl/104/65/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs15
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F702
-[/us/pl/105/166/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fa
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/stat/112/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F38
-[/us/pl/110/81/s201/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F4
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F742
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
-[/us/pl/105/166/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fa%2F1
-[/us/pl/105/166/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fa%2F2
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/usc/t2/s1602/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602%2F7
 [/us/usc/t26/s4911/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4911%2Fd
-[/us/pl/105/166/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fb%2F1
-[/us/pl/105/166/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166%2Fs4%2Fb%2F2
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
+[/us/pl/105/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F166
 [/us/usc/t2/s1602/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602%2F7
 [/us/usc/t26/s162/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162%2Fe
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81

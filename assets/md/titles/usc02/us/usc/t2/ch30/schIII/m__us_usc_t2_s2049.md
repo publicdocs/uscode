@@ -27,15 +27,15 @@
 
         All proceeds from the repayment of any such loan shall be deposited in the appropriation account, within the contingent fund of the Senate, for “Miscellaneous Items”, shall be credited to the fiscal year during which such loan was made, and shall thereafter be available for the same purposes for which the amount loaned was initially appropriated.
 
-([Pub. L. 98–396, title I][/us/pl/98/396], Aug. 22, 1984, [98 Stat. 1395][/us/stat/98/1395].)
+([Pub. L. 98–396, title I][/us/pl/98/396/tI], Aug. 22, 1984, [98 Stat. 1395][/us/stat/98/1395].)
 
  __References in Text__ 
 
-    The Joint Resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, referred to in subsec. (a), is [Pub. L. 87–82][/us/pl/87/82], July 6, 1961, [75 Stat. 199][/us/stat/75/199], as amended, which enacted sections 174j–1 to 174j–7 of former Title 40, Public Buildings, Property, and Works. Sections 174j–1 and 174j–3 to 174j–7 of former Title 40 were transferred to sections 2042 and 2043 to 2047 of this title, respectively. Section 174j–2 of former Title 40 was repealed by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 174j–8 of former Title 40, which was not enacted by [Pub. L. 87–82][/us/pl/87/82], was transferred to [section 2048 of this title][/us/usc/t2/s2048] and subsequently repealed. For complete classification of this Act to the Code, see Tables.
+    The Joint Resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, referred to in subsec. (a), is [Pub. L. 87–82][/us/pl/87/82], July 6, 1961, [75 Stat. 199][/us/stat/75/199], as amended, which enacted sections 174j–1 to 174j–7 of former Title 40, Public Buildings, Property, and Works. Sections 174j–1 and 174j–3 to 174j–7 of former Title 40 were transferred to sections 2042 and 2043 to 2047 of this title, respectively. Section 174j–2 of former Title 40 was repealed by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 174j–8 of former Title 40, which was not enacted by [Pub. L. 87–82][/us/pl/87/82], was transferred to [section 2048 of this title][/us/usc/t2/s2048] and subsequently repealed. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was classified to section 174j–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 174j–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -46,15 +46,15 @@
 
 [/us/usc/t40/s174j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs174j%E2%80%931
 [/us/usc/t2/s2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2042
-[/us/pl/98/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396
+[/us/pl/98/396/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396%2FtI
 [/us/stat/98/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1395
 [/us/pl/87/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F82
 [/us/stat/75/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F199
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 [/us/pl/87/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F82
 [/us/usc/t2/s2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2048
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

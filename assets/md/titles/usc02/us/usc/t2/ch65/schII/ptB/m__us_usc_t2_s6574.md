@@ -35,7 +35,7 @@
 
         To provide capital for the revolving fund, the Secretary of the Senate is authorized to transfer, from moneys appropriated for fiscal year 1990 to the account “Miscellaneous Items” in the contingent fund of the Senate, to the revolving fund such sum as he may determine necessary, not to exceed $30,000.
 
-([Pub. L. 101–163, title I, § 13][/us/pl/101/163/s13], Nov. 21, 1989, [103 Stat. 1047][/us/stat/103/1047].)
+([Pub. L. 101–163, title I][/us/pl/101/163/tI], § 13, Nov. 21, 1989, [103 Stat. 1047][/us/stat/103/1047].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/163/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs13
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1047
 [/us/usc/t2/s68–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68%E2%80%937
 

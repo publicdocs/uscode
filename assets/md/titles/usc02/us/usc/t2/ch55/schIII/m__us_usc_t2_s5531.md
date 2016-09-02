@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated from the applicable accounts of the House of Representatives $500,000 to carry out this section for each of the fiscal years 2003 through 2007.
 
-([Pub. L. 108–7, div. H, title I, § 106][/us/pl/108/7/s106], Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
+([Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 106, Feb. 20, 2003, [117 Stat. 354][/us/stat/117/354].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs106
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F354
 [/us/usc/t2/s130j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130j
 

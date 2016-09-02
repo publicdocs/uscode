@@ -93,7 +93,7 @@
 
         The Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives are authorized to seek and accept gifts from public and private sources to defray the cost of implementing this section.
 
-([Pub. L. 102–429, title III, § 301][/us/pl/102/429/s301], Oct. 21, 1992, [106 Stat. 2205][/us/stat/106/2205].)
+([Pub. L. 102–429, title III][/us/pl/102/429/tIII], § 301, Oct. 21, 1992, [106 Stat. 2205][/us/stat/106/2205].)
 
 ----------
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/102/429/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs301
+[/us/pl/102/429/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtIII
 [/us/stat/106/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2205
 
 

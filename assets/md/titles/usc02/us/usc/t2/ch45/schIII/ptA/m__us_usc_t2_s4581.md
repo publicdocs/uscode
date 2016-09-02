@@ -19,7 +19,7 @@
 
     (b) Subsection (a) shall take effect October 1, 1991.
 
-([Pub. L. 102–90, title I, § 5][/us/pl/102/90/s5], Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450].)
+([Pub. L. 102–90, title I][/us/pl/102/90/tI], § 5, Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t2/s4575/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F1
-[/us/pl/102/90/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs5
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F450
 [/us/usc/t2/s61–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931c
 

@@ -17,7 +17,7 @@
 
     Additional copies of each hardbound decennial revised edition and of the cumulative pocket-part supplements thereto shall be printed and distributed in accordance with the provisions of any concurrent resolution hereafter adopted with respect thereto.
 
-([Pub. L. 91–589, § 4][/us/pl/91/589/s4], Dec. 24, 1970, [84 Stat. 1587][/us/stat/84/1587].)
+([Pub. L. 91–589][/us/pl/91/589], § 4, Dec. 24, 1970, [84 Stat. 1587][/us/stat/84/1587].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/589/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589%2Fs4
+[/us/pl/91/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589
 [/us/stat/84/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1587
 
 

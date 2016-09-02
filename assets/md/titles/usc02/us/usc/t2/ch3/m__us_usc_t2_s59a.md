@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s59–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s59b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59a)
 
-## § 59a. Repealed. [Pub. L. 101–163, title I, § 103(b)][/us/pl/101/163/s103/b], Nov. 21, 1989, [103 Stat. 1050][/us/stat/103/1050]
+## § 59a. Repealed. [Pub. L. 101–163, title I][/us/pl/101/163/tI], § 103(b), Nov. 21, 1989, [103 Stat. 1050][/us/stat/103/1050]
 
-    Section, [Pub. L. 93–462, § 1][/us/pl/93/462/s1], Oct. 20, 1974, [88 Stat. 1388][/us/stat/88/1388], related to purchase of office equipment or furnishings by House Members.
+    Section, [Pub. L. 93–462][/us/pl/93/462], § 1, Oct. 20, 1974, [88 Stat. 1388][/us/stat/88/1388], related to purchase of office equipment or furnishings by House Members.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/101/163/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs103%2Fb
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1050
-[/us/pl/93/462/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F462%2Fs1
+[/us/pl/93/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F462
 [/us/stat/88/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1388
 [/us/pl/101/163/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs103%2Fc
 [/us/usc/t2/s5540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5540

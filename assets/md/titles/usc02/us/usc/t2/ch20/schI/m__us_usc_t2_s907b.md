@@ -77,11 +77,11 @@
 
             If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
-([Pub. L. 99–177, title II, § 258A][/us/pl/99/177/s258A], as added [Pub. L. 101–508, title XIII, § 13101(f)][/us/pl/101/508/s13101/f], Nov. 5, 1990, [104 Stat. 1388–595][/us/stat/104/1388-595].)
+([Pub. L. 99–177, title II][/us/pl/99/177/tII], § 258A, as added [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13101(f), Nov. 5, 1990, [104 Stat. 1388–595][/us/stat/104/1388-595].)
 
  __References in Text__ 
 
-    The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by [Pub. L. 105–33, title X, § 10118(a)][/us/pl/105/33/s10118/a], Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695]. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title][/us/usc/t2/s621] and Tables.
+    The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10118(a), Aug. 5, 1997, [111 Stat. 695][/us/stat/111/695]. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title][/us/usc/t2/s621] and Tables.
 
 ----------
 
@@ -94,12 +94,12 @@
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 [/us/usc/t2/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs631
-[/us/pl/99/177/s258A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs258A
-[/us/pl/101/508/s13101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Ff
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-595
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
-[/us/pl/105/33/s10118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10118%2Fa
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F695
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 

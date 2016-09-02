@@ -21,7 +21,7 @@
 
     The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Compliance.
 
-([Pub. L. 104–197, title II, § 208][/us/pl/104/197/s208], Sept. 16, 1996, [110 Stat. 2409][/us/stat/110/2409].)
+([Pub. L. 104–197, title II][/us/pl/104/197/tII], § 208, Sept. 16, 1996, [110 Stat. 2409][/us/stat/110/2409].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t5/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
-[/us/pl/104/197/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs208
+[/us/pl/104/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtII
 [/us/stat/110/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2409
 
 

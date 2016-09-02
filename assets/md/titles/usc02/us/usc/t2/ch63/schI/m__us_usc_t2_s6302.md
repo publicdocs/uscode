@@ -21,7 +21,7 @@
 
     When no appointments have been made the salaries of Senators elected to fill such vacancies shall commence on the day following their election.
 
-([Feb. 10, 1923, ch. 68][/us/act/1923-02-10/ch68], [42 Stat. 1225][/us/stat/42/1225]; [Feb. 6, 1931, ch. 111][/us/act/1931-02-06/ch111], [46 Stat. 1065][/us/stat/46/1065]; [June 19, 1934, ch. 648][/us/act/1934-06-19/ch648], title I, § 1, [48 Stat. 1022][/us/stat/48/1022]; [Feb. 13, 1935, ch. 6, § 1][/us/act/1935-02-13/ch6/s1], [49 Stat. 22][/us/stat/49/22], 23.)
+([Feb. 10, 1923, ch. 68][/us/act/1923-02-10/ch68], [42 Stat. 1225][/us/stat/42/1225]; [Feb. 6, 1931, ch. 111][/us/act/1931-02-06/ch111], [46 Stat. 1065][/us/stat/46/1065]; [June 19, 1934, ch. 648][/us/act/1934-06-19/ch648], title I, § 1, [48 Stat. 1022][/us/stat/48/1022]; [Feb. 13, 1935, ch. 6][/us/act/1935-02-13/ch6], § 1, [49 Stat. 22][/us/stat/49/22], 23.)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 [/us/stat/46/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1065
 [/us/act/1934-06-19/ch648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch648
 [/us/stat/48/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1022
-[/us/act/1935-02-13/ch6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-13%2Fch6%2Fs1
+[/us/act/1935-02-13/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-13%2Fch6
 [/us/stat/49/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F22
 [/us/usc/t2/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs36
 [/us/act/1894-07-31/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-07-31%2Fch174

@@ -21,7 +21,7 @@
 
     (2) the term “employee” means any employee of the House of Representatives whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives.
 
-([Pub. L. 95–391, title I, § 111][/us/pl/95/391/s111], Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 104–186, title II, § 204(5)(B)][/us/pl/104/186/s204/5/B], Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
+([Pub. L. 95–391, title I][/us/pl/95/391/tI], § 111, Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(5)(B), Aug. 20, 1996, [110 Stat. 1730][/us/stat/110/1730].)
 
  __References in Text__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    1996—Par. (1). [Pub. L. 104–186, § 204(5)(B)(i)][/us/pl/104/186/s204/5/B/i], inserted “and” at end.
+    1996—Par. (1). [Pub. L. 104–186][/us/pl/104/186], § 204(5)(B)(i), inserted “and” at end.
 
-    Par. (2). [Pub. L. 104–186, § 204(5)(B)(ii)][/us/pl/104/186/s204/5/B/ii], (iv), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the term ‘Clerk’ means the Clerk of the House of Representatives;”.
+    Par. (2). [Pub. L. 104–186][/us/pl/104/186], § 204(5)(B)(ii), (iv), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the term ‘Clerk’ means the Clerk of the House of Representatives;”.
 
-    Par. (3). [Pub. L. 104–186, § 204(5)(B)(iii)][/us/pl/104/186/s204/5/B/iii], (iv), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” and redesignated par. (3) as (2).
+    Par. (3). [Pub. L. 104–186][/us/pl/104/186], § 204(5)(B)(iii), (iv), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” and redesignated par. (3) as (2).
 
  __Transfer of Functions__ 
 
@@ -53,16 +53,16 @@
 ----------
 
 [/us/usc/t2/s4557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4557
-[/us/pl/95/391/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs111
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F777
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/104/186/s204/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FB
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1730
 [/us/usc/t2/s60e–1d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931d
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391
-[/us/pl/104/186/s204/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FB%2Fi
-[/us/pl/104/186/s204/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FB%2Fii
-[/us/pl/104/186/s204/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F5%2FB%2Fiii
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

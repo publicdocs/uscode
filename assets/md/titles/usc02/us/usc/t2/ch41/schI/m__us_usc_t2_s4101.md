@@ -31,7 +31,7 @@
 
         (2) The Architect of the Capitol.
 
-([Pub. L. 91–510, title IV, § 431][/us/pl/91/510/s431], Oct. 26, 1970, [84 Stat. 1190][/us/stat/84/1190].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 431, Oct. 26, 1970, [84 Stat. 1190][/us/stat/84/1190].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/91/510/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs431
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1190
 [/us/usc/t2/s60–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60%E2%80%931
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1

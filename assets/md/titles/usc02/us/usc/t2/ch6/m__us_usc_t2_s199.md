@@ -27,7 +27,7 @@
 
     (b) The provisions of subsection (a) shall be applicable in the case of appointments made after December 22, 1980, pursuant to provisions of law enacted on, before, and after, December 22, 1980.
 
-([Pub. L. 96–576, § 3][/us/pl/96/576/s3], Dec. 22, 1980, [94 Stat. 3355][/us/stat/94/3355].)
+([Pub. L. 96–576][/us/pl/96/576], § 3, Dec. 22, 1980, [94 Stat. 3355][/us/stat/94/3355].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/576/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F576%2Fs3
+[/us/pl/96/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F576
 [/us/stat/94/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3355
 
 

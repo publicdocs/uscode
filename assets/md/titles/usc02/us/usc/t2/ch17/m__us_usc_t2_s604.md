@@ -17,9 +17,9 @@
 
  __Codification__ 
 
-Section, [Pub. L. 94–440, title V, § 500][/us/pl/94/440/s500], Oct. 1, 1976, [90 Stat. 1452][/us/stat/90/1452], the Legislative Appropriation Act, 1977, which authorized the Congressional Budget Office to contract without regard to section 5 of former Title 41, Public Contracts, applied to fiscal year 1977 and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
+Section, [Pub. L. 94–440, title V][/us/pl/94/440/tV], § 500, Oct. 1, 1976, [90 Stat. 1452][/us/stat/90/1452], the Legislative Appropriation Act, 1977, which authorized the Congressional Budget Office to contract without regard to section 5 of former Title 41, Public Contracts, applied to fiscal year 1977 and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 94–157, title I][/us/pl/94/157], Dec. 18, 1975, [89 Stat. 834][/us/stat/89/834].
+    [Pub. L. 94–157, title I][/us/pl/94/157/tI], Dec. 18, 1975, [89 Stat. 834][/us/stat/89/834].
 
 ----------
 
@@ -28,9 +28,9 @@ Section, [Pub. L. 94–440, title V, § 500][/us/pl/94/440/s500], Oct. 1, 1976
 ----------
 ----------
 
-[/us/pl/94/440/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs500
+[/us/pl/94/440/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtV
 [/us/stat/90/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1452
-[/us/pl/94/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157
+[/us/pl/94/157/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F157%2FtI
 [/us/stat/89/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F834
 
 

@@ -17,7 +17,7 @@
 
     The usual day for paying salaries in or under the House of Representatives shall be the last day of each month, except that if the last day of a month falls on a Saturday, Sunday, or a legal public holiday, the Chief Administrative Officer of the House of Representatives shall pay such salaries on the first weekday which precedes the last day.
 
-([Pub. L. 107–68, title I, § 116(a)][/us/pl/107/68/s116/a], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 116(a), Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–68, title I, § 116(c)][/us/pl/107/68/s116/c], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573], provided that: 
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 116(c), Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573], provided that: 
 
 > “This section \[enacting this section and repealing sections 60d, 60e, and 60e–1 of this title\] and the amendments made by this section shall apply with respect to pay periods beginning after the expiration of the 1-year period which begins on the date of the enactment of this Act \[Nov. 12, 2001\].”
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/107/68/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fa
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
 [/us/usc/t2/s60d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60d%E2%80%931
-[/us/pl/107/68/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs116%2Fc
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
 
 

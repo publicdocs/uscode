@@ -35,7 +35,7 @@
 
         The provision  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “provisions”. </sup></sup>  of this section shall take effect on April 9, 1992.
 
-([Pub. L. 102–392, title III, § 314][/us/pl/102/392/s314], Oct. 6, 1992, [106 Stat. 1723][/us/stat/106/1723].)
+([Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 314, Oct. 6, 1992, [106 Stat. 1723][/us/stat/106/1723].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/392/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs314
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1723
 [/us/usc/t2/s121e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121e
 

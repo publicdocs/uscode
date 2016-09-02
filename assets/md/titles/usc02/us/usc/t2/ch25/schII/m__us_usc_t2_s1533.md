@@ -29,7 +29,7 @@
 
         There are authorized to be appropriated to each agency to carry out the provisions of this section and for no other purpose, such sums as are necessary.
 
-([Pub. L. 104–4, title II, § 203][/us/pl/104/4/s203], Mar. 22, 1995, [109 Stat. 65][/us/stat/109/65].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 203, Mar. 22, 1995, [109 Stat. 65][/us/stat/109/65].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs203
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F65
 
 

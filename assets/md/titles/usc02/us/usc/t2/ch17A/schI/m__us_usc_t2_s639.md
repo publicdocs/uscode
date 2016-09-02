@@ -69,49 +69,49 @@
 
         Estimates under this section shall be provided in accordance with the scorekeeping guidelines determined under [section 902(d)(5) of this title][/us/usc/t2/s902/d/5].
 
-([Pub. L. 93–344, title III, § 308][/us/pl/93/344/s308], July 12, 1974, [88 Stat. 313][/us/stat/88/313]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1051][/us/stat/99/1051]; [Pub. L. 101–508, title XIII, § 13206][/us/pl/101/508/s13206], Nov. 5, 1990, [104 Stat. 1388–617][/us/stat/104/1388-617]; [Pub. L. 105–33, title X, § 10110][/us/pl/105/33/s10110], Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 111–139, title I, § 4(b)][/us/pl/111/139/s4/b], Feb. 12, 2010, [124 Stat. 11][/us/stat/124/11]; [Pub. L. 113–67, div. A, title I, § 122(8)][/us/pl/113/67/s122/8], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 308, July 12, 1974, [88 Stat. 313][/us/stat/88/313]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1051][/us/stat/99/1051]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13206, Nov. 5, 1990, [104 Stat. 1388–617][/us/stat/104/1388-617]; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10110, Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 111–139, title I][/us/pl/111/139/tI], § 4(b), Feb. 12, 2010, [124 Stat. 11][/us/stat/124/11]; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(8), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1329 of Title 31][/us/usc/t31/s1329] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1329 of Title 31][/us/usc/t31/s1329] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
     2013—Subsec. (d). [Pub. L. 113–67][/us/pl/113/67] made technical amendment to heading in original Act.
 
-    2010—Subsec. (a). [Pub. L. 111–139, § 4(b)(1)(B)][/us/pl/111/139/s4/b/1/B], struck out “Reports on” before “Legislation” in heading.
+    2010—Subsec. (a). [Pub. L. 111–139][/us/pl/111/139], § 4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
 
-    Subsec. (a)(3). [Pub. L. 111–139, § 4(b)(1)(A)][/us/pl/111/139/s4/b/1/A], added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–139][/us/pl/111/139], § 4(b)(1)(A), added par. (3).
 
-    Subsec. (d). [Pub. L. 111–139, § 4(b)(2)][/us/pl/111/139/s4/b/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–139][/us/pl/111/139], § 4(b)(2), added subsec. (d).
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 10110(1)(A)][/us/pl/105/33/s10110/1/A], struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
 
-    Subsec. (a)(1). [Pub. L. 105–33, § 10110(4)][/us/pl/105/33/s10110/4], in introductory provisions, substituted “bill or joint resolution” for “bill or resolution” in two places.
+    Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 10110(4), in introductory provisions, substituted “bill or joint resolution” for “bill or resolution” in two places.
 
-    [Pub. L. 105–33, § 10110(1)(D)][/us/pl/105/33/s10110/1/D], in introductory provisions, struck out “, new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], or new credit authority,” after “continuing appropriations)”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10110(1)(D), in introductory provisions, struck out “, new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], or new credit authority,” after “continuing appropriations)”.
 
-    Subsec. (a)(1)(B). [Pub. L. 105–33, § 10110(1)(C)][/us/pl/105/33/s10110/1/C], substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
+    Subsec. (a)(1)(B). [Pub. L. 105–33][/us/pl/105/33], § 10110(1)(C), substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
 
-    [Pub. L. 105–33, § 10110(1)(B)][/us/pl/105/33/s10110/1/B], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2] which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2] which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
 
-    Subsec. (a)(1)(C), (D). [Pub. L. 105–33, § 10110(1)(B)][/us/pl/105/33/s10110/1/B], redesignated subpars. (C) and (D) as (B) and (C), respectively.
+    Subsec. (a)(1)(C), (D). [Pub. L. 105–33][/us/pl/105/33], § 10110(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
-    Subsec. (a)(2). [Pub. L. 105–33, § 10110(4)][/us/pl/105/33/s10110/4], substituted “bill or joint resolution” for “bill or resolution”.
+    Subsec. (a)(2). [Pub. L. 105–33][/us/pl/105/33], § 10110(4), substituted “bill or joint resolution” for “bill or resolution”.
 
-    [Pub. L. 105–33, § 10110(1)(D)][/us/pl/105/33/s10110/1/D], struck out “, new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], or new credit authority,” after “continuing appropriations)”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10110(1)(D), struck out “, new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], or new credit authority,” after “continuing appropriations)”.
 
-    Subsec. (b)(1). [Pub. L. 105–33, § 10110(4)][/us/pl/105/33/s10110/4], substituted “bills and joint resolutions” for “bills and resolutions” in two places.
+    Subsec. (b)(1). [Pub. L. 105–33][/us/pl/105/33], § 10110(4), substituted “bills and joint resolutions” for “bills and resolutions” in two places.
 
-    [Pub. L. 105–33, § 10110(2)][/us/pl/105/33/s10110/2], struck out “, new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], or new credit authority,” after “new budget authority”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10110(2), struck out “, new spending authority described in [section 651(c)(2) of this title][/us/usc/t2/s651/c/2], or new credit authority,” after “new budget authority”.
 
-    Subsec. (c)(3) to (5). [Pub. L. 105–33, § 10110(3)][/us/pl/105/33/s10110/3], inserted “and” at end of par. (3), substituted a period for “; and” at end of par. (4), and struck out par. (5) which read as follows: “credit authority for each fiscal year in such period.”
+    Subsec. (c)(3) to (5). [Pub. L. 105–33][/us/pl/105/33], § 10110(3), inserted “and” at end of par. (3), substituted a period for “; and” at end of par. (4), and struck out par. (5) which read as follows: “credit authority for each fiscal year in such period.”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–508, § 13206(a)(1)][/us/pl/101/508/s13206/a/1], inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
+    1990—Subsec. (a)(1). [Pub. L. 101–508][/us/pl/101/508], § 13206(a)(1), inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
 
-    Subsec. (a)(2). [Pub. L. 101–508, § 13206(b)][/us/pl/101/508/s13206/b], inserted “(or fiscal years)” after “fiscal year”.
+    Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508], § 13206(b), inserted “(or fiscal years)” after “fiscal year”.
 
-    Subsec. (b)(1). [Pub. L. 101–508, § 13206(c)][/us/pl/101/508/s13206/c], substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
+    Subsec. (b)(1). [Pub. L. 101–508][/us/pl/101/508], § 13206(c), substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
 
     1985—Subsec. (a). [Pub. L. 99–177][/us/pl/99/177], in amending subsec. (a) generally, designated existing provisions as par. (1), substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see [section 275(a)(1) of Pub. L. 99–177][/us/pl/99/177/s275/a/1], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -134,50 +134,50 @@
 [/us/usc/t2/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907
 [/us/usc/t2/s932/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs932%2F8
 [/us/usc/t2/s902/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs902%2Fd%2F5
-[/us/pl/93/344/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs308
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F313
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1051
-[/us/pl/101/508/s13206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13206
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-617
-[/us/pl/105/33/s10110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F685
-[/us/pl/111/139/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F11
-[/us/pl/113/67/s122/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F8
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/usc/t31/s1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1329
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
-[/us/pl/111/139/s4/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb%2F1%2FB
-[/us/pl/111/139/s4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb%2F1%2FA
-[/us/pl/111/139/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs4%2Fb%2F2
-[/us/pl/105/33/s10110/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F1%2FA
-[/us/pl/105/33/s10110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F4
-[/us/pl/105/33/s10110/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F1%2FD
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/105/33/s10110/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F1%2FC
-[/us/pl/105/33/s10110/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F1%2FB
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/105/33/s10110/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F1%2FB
-[/us/pl/105/33/s10110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F4
-[/us/pl/105/33/s10110/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F1%2FD
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/105/33/s10110/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F4
-[/us/pl/105/33/s10110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F2
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651%2Fc%2F2
-[/us/pl/105/33/s10110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10110%2F3
-[/us/pl/101/508/s13206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13206%2Fa%2F1
-[/us/pl/101/508/s13206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13206%2Fb
-[/us/pl/101/508/s13206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13206%2Fc
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177/s275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs275%2Fa%2F1
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

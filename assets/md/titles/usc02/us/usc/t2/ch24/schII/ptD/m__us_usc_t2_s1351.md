@@ -107,7 +107,7 @@
 
             With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
 
-([Pub. L. 104–1, title II, § 220][/us/pl/104/1/s220], Jan. 23, 1995, [109 Stat. 19][/us/stat/109/19].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 220, Jan. 23, 1995, [109 Stat. 19][/us/stat/109/19].)
 
  __References in Text__ 
 
@@ -132,7 +132,7 @@
 [/us/usc/t5/s7119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7119
 [/us/usc/t2/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1384
 [/us/usc/t2/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1384
-[/us/pl/104/1/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs220
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F19
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

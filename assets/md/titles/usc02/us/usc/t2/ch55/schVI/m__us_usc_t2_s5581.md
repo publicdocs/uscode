@@ -19,7 +19,7 @@
 
     (b) For payment of expenses incurred in carrying out subsection (a) of this section, there shall be paid out of the applicable accounts of the House of Representatives, until otherwise provided by law, such sums as may be necessary but not to exceed $40,000 in any calendar year. Such payments shall be made on vouchers signed by the chairman of the Committee on Foreign Affairs and approved by the Committee on House Oversight.
 
-([Pub. L. 95–391, title I, § 111][/us/pl/95/391/s111], Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]; [Pub. L. 103–437, § 2(b)][/us/pl/103/437/s2/b], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–186, title II, § 204(72)][/us/pl/104/186/s204/72], Aug. 20, 1996, [110 Stat. 1741][/us/stat/110/1741]; [Pub. L. 105–275, title I, § 102][/us/pl/105/275/s102], Oct. 21, 1998, [112 Stat. 2438][/us/stat/112/2438]; [Pub. L. 108–83, title I, § 103(e)][/us/pl/108/83/s103/e], Sept. 30, 2003, [117 Stat. 1017][/us/stat/117/1017].)
+([Pub. L. 95–391, title I][/us/pl/95/391/tI], § 111, Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]; [Pub. L. 103–437][/us/pl/103/437], § 2(b), Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(72), Aug. 20, 1996, [110 Stat. 1741][/us/stat/110/1741]; [Pub. L. 105–275, title I][/us/pl/105/275/tI], § 102, Oct. 21, 1998, [112 Stat. 2438][/us/stat/112/2438]; [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 103(e), Sept. 30, 2003, [117 Stat. 1017][/us/stat/117/1017].)
 
  __Codification__ 
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/95/391/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs111
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F777
-[/us/pl/103/437/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs2%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
-[/us/pl/104/186/s204/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F72
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1741
-[/us/pl/105/275/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs102
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2438
-[/us/pl/108/83/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs103%2Fe
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1017
 [/us/usc/t2/s130–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130%E2%80%931
 [/us/pl/95/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391

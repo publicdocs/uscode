@@ -19,7 +19,7 @@
 
     (b) Additional funds, if any, for staff allowances and office space for use by Members-elect (other than an incumbent Member reelected to the ensuing Congress) shall be authorized by the Committee on House Oversight.
 
-([Pub. L. 94–59, title II, § 201][/us/pl/94/59/s201], July 25, 1975, [89 Stat. 282][/us/stat/89/282]; [Pub. L. 104–186, title II, § 203(15)][/us/pl/104/186/s203/15], Aug. 20, 1996, [110 Stat. 1727][/us/stat/110/1727].)
+([Pub. L. 94–59, title II][/us/pl/94/59/tII], § 201, July 25, 1975, [89 Stat. 282][/us/stat/89/282]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(15), Aug. 20, 1996, [110 Stat. 1727][/us/stat/110/1727].)
 
  __Codification__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t2/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5343
-[/us/pl/94/59/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs201
+[/us/pl/94/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtII
 [/us/stat/89/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F282
-[/us/pl/104/186/s203/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F15
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1727
 [/us/usc/t2/s43b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs43b%E2%80%933
 [/us/pl/94/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59

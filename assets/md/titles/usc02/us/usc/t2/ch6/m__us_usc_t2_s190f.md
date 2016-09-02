@@ -15,7 +15,7 @@
 
 ## § 190f. General appropriation bills
 
-    (a) __Repealed.__  __[__  __Pub. L. 91–510, title I, § 108(d)__  __][/us/pl/91/510/s108/d]__  __,__  __Oct. 26, 1970__  __,__  __[__  __84 Stat. 1149__  __][/us/stat/84/1149]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 91–510, title I__  __][/us/pl/91/510/tI]__  __, § 108(d),__  __Oct. 26, 1970__  __,__  __[__  __84 Stat. 1149__  __][/us/stat/84/1149]__ 
 
     (b) __Standard appropriation classification schedule__ 
 
@@ -25,7 +25,7 @@
 
         No general appropriation bill or amendment thereto shall be received or considered in either House if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
 
-([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 139(a), (b), (c), [60 Stat. 833][/us/stat/60/833]; [Pub. L. 91–510, title I, § 108(d)][/us/pl/91/510/s108/d], Oct. 26, 1970, [84 Stat. 1149][/us/stat/84/1149].)
+([Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 139(a), (b), (c), [60 Stat. 833][/us/stat/60/833]; [Pub. L. 91–510, title I][/us/pl/91/510/tI], § 108(d), Oct. 26, 1970, [84 Stat. 1149][/us/stat/84/1149].)
 
  __Partial Repeal__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-    Section effective Jan. 2, 1947, see section 142 of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, [60 Stat. 834][/us/stat/60/834].
+    Section effective Jan. 2, 1947, see section 142 of [act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], [60 Stat. 834][/us/stat/60/834].
 
 ----------
 
@@ -54,18 +54,18 @@
 ----------
 ----------
 
-[/us/pl/91/510/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs108%2Fd
+[/us/pl/91/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtI
 [/us/stat/84/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1149
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F833
-[/us/pl/91/510/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs108%2Fd
+[/us/pl/91/510/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtI
 [/us/stat/84/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1149
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/usc/t2/s190a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190a%2Ff
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 
 

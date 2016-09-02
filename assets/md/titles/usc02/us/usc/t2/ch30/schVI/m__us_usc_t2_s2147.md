@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was classified to section 217a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 217a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is based on par. under heading “BOTANIC GARDEN” in act of July 8, 1935, known as the “Legislative Branch Appropriation Act, 1936”.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1935-07-08/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-08%2Fch374
 [/us/stat/49/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F471
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

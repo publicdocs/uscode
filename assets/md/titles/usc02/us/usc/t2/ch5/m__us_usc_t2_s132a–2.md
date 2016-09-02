@@ -27,7 +27,7 @@
 
         The Librarian may transfer amounts pursuant to subsection (a) only with the approval of the Committees on Appropriations of the House of Representatives and Senate.
 
-([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title II, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title II, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–114.)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

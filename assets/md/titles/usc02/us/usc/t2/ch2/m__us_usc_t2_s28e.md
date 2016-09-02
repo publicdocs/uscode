@@ -19,7 +19,7 @@
 
     (b) The Joint Committee on Printing may from time to time authorize and direct that additional sets of the Precedents, be printed, bound, and distributed in such manner as the Joint Committee determines will best carry out the purposes of sections 28b to 28e of this title.
 
-([Pub. L. 94–551, § 4][/us/pl/94/551/s4], Oct. 18, 1976, [90 Stat. 2538][/us/stat/90/2538].)
+([Pub. L. 94–551][/us/pl/94/551], § 4, Oct. 18, 1976, [90 Stat. 2538][/us/stat/90/2538].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t2/s28b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs28b
-[/us/pl/94/551/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551%2Fs4
+[/us/pl/94/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F551
 [/us/stat/90/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2538
 
 

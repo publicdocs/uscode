@@ -27,7 +27,7 @@
 
         There is authorized to be appropriated to carry out this section $640,000 for fiscal year 2008.
 
-([Pub. L. 110–140, title V, § 502][/us/pl/110/140/s502], Dec. 19, 2007, [121 Stat. 1655][/us/stat/121/1655].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 502, Dec. 19, 2007, [121 Stat. 1655][/us/stat/121/1655].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs502
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1655
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

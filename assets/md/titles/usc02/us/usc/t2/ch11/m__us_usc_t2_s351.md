@@ -17,7 +17,7 @@
 
     There is hereby established a commission to be known as the Citizens’ Commission on Public Service and Compensation (hereinafter referred to as the “Commission”).
 
-([Pub. L. 90–206, title II, § 225(a)][/us/pl/90/206/s225/a], Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 101–194, title VII, § 701(a)][/us/pl/101/194/s701/a], Nov. 30, 1989, [103 Stat. 1763][/us/stat/103/1763].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(a), Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(a), Nov. 30, 1989, [103 Stat. 1763][/us/stat/103/1763].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/206/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fa
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F642
-[/us/pl/101/194/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fa
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1763
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/90/206/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F1

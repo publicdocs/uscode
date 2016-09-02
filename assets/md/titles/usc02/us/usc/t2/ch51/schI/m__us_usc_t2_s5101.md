@@ -29,15 +29,15 @@
 
  __Basic Compensation of Administrative Assistants__ 
 
-[Pub. L. 85–462, § 4(n)][/us/pl/85/462/s4/n], June 20, 1958, [72 Stat. 209][/us/stat/72/209], provided that: 
+[Pub. L. 85–462][/us/pl/85/462], § 4(n), June 20, 1958, [72 Stat. 209][/us/stat/72/209], provided that: 
 
 > “The basic compensation of the Administrative Assistants to the Speaker, Majority Leader, Minority Leader, Majority Whip, and Minority Whip, shall be at the rate of $8,880 per annum.”
 
-House Resolution No. 127, Eighty-ninth Congress, Jan. 19, 1965, which was enacted into permanent law by [Pub. L. 89–90, § 103][/us/pl/89/90/s103], July 27, 1965, [79 Stat. 281][/us/stat/79/281], provided: 
+House Resolution No. 127, Eighty-ninth Congress, Jan. 19, 1965, which was enacted into permanent law by [Pub. L. 89–90][/us/pl/89/90], § 103, July 27, 1965, [79 Stat. 281][/us/stat/79/281], provided: 
 
 > “That effective January 3, 1965, there shall be payable from the contingent fund of the House, until otherwise provided by law, for any Member of the House who has served as majority leader and as minority leader of the House, an additional $8,880 basic per annum for an administrative assistant.”
 
-House Resolution No. 258, Eighty-ninth Congress, Mar. 9, 1965, which was enacted into permanent law by [Pub. L. 89–90, § 103][/us/pl/89/90/s103], July 27, 1965, [79 Stat. 281][/us/stat/79/281], provided: 
+House Resolution No. 258, Eighty-ninth Congress, Mar. 9, 1965, which was enacted into permanent law by [Pub. L. 89–90][/us/pl/89/90], § 103, July 27, 1965, [79 Stat. 281][/us/stat/79/281], provided: 
 
 > “That, effective March 1, 1965, there shall be payable from the contingent fund of the House of Representatives, until otherwise provided by law, an amount which will permit the payment of basic compensation per annum, at a rate not in excess of the highest amount which, together with additional compensation authorized by law, will not exceed the maximum rate authorized by the Classification Act of 1949, as amended \[[act Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782]\], to the administrative assistant of each of the following:
 
@@ -72,11 +72,11 @@ House Resolution No. 258, Eighty-ninth Congress, Mar. 9, 1965, which was enacted
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 [/us/usc/t2/s74a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/pl/85/462/s4/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462%2Fs4%2Fn
+[/us/pl/85/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F462
 [/us/stat/72/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F209
-[/us/pl/89/90/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90%2Fs103
+[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F281
-[/us/pl/89/90/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90%2Fs103
+[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F281
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206

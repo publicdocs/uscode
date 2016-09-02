@@ -39,13 +39,13 @@
 
         (6) the verified return by the person so serving such notice, setting forth the time and manner of such service shall be proof of same, and the return post office receipt shall be proof of the service of said notice mailed by registered or certified mail as aforesaid. Proof of service shall be made to the Clerk promptly and in any event within the time during which the contestee must answer the notice of contest. Failure to make proof of service does not affect the validity of the service.
 
-([Pub. L. 91–138, § 3][/us/pl/91/138/s3], Dec. 5, 1969, [83 Stat. 284][/us/stat/83/284]; [Pub. L. 104–186, title II, § 211(3)][/us/pl/104/186/s211/3], Aug. 20, 1996, [110 Stat. 1744][/us/stat/110/1744].)
+([Pub. L. 91–138][/us/pl/91/138], § 3, Dec. 5, 1969, [83 Stat. 284][/us/stat/83/284]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 211(3), Aug. 20, 1996, [110 Stat. 1744][/us/stat/110/1744].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–186, § 211(3)(A)][/us/pl/104/186/s211/3/A], struck out “to the House of Representatives” after “for election”.
+    1996—Subsec. (a). [Pub. L. 104–186][/us/pl/104/186], § 211(3)(A), struck out “to the House of Representatives” after “for election”.
 
-    Subsec. (c)(4), (5). [Pub. L. 104–186, § 211(3)(B)][/us/pl/104/186/s211/3/B], struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
+    Subsec. (c)(4), (5). [Pub. L. 104–186][/us/pl/104/186], § 211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
 
 ----------
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t2/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs383
-[/us/pl/91/138/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs3
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F284
-[/us/pl/104/186/s211/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs211%2F3
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1744
-[/us/pl/104/186/s211/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs211%2F3%2FA
-[/us/pl/104/186/s211/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs211%2F3%2FB
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
+[/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 
 

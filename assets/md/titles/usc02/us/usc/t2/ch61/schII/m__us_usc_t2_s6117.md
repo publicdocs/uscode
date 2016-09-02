@@ -17,7 +17,7 @@
 
     Effective April 1, 1975, and each fiscal year thereafter, the annual allowance for stationery for the President of the Senate shall be $8,000.
 
-([July 1, 1941, ch. 268][/us/act/1941-07-01/ch268], [55 Stat. 450][/us/stat/55/450]; [June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], [59 Stat. 244][/us/stat/59/244]; [June 14, 1948, ch. 467][/us/act/1948-06-14/ch467], [62 Stat. 425][/us/stat/62/425]; [Oct. 11, 1951, ch. 485][/us/act/1951-10-11/ch485], [65 Stat. 391][/us/stat/65/391]; [Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, [67 Stat. 320][/us/stat/67/320]; [Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], [69 Stat. 504][/us/stat/69/504]; [Pub. L. 88–258, title IV][/us/pl/88/258], Jan. 6, 1964, [77 Stat. 864][/us/stat/77/864]; [Pub. L. 90–21, title I][/us/pl/90/21], May 29, 1967, [81 Stat. 38][/us/stat/81/38]; [Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 342][/us/stat/83/342]; [Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 128][/us/stat/85/128]; [Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 635][/us/stat/85/635]; [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k)(3), formerly § 506(h)(3), Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508], renumbered § 506(i)(3), [Pub. L. 95–391, title I, § 108(a)][/us/pl/95/391/s108/a], Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j)(3), [Pub. L. 96–304, title I, § 101(e)][/us/pl/96/304/s101/e], July 8, 1980, [94 Stat. 889][/us/stat/94/889], renumbered § 506(k)(3), [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189]; [Pub. L. 94–32, title I][/us/pl/94/32], June 12, 1975, [89 Stat. 182][/us/stat/89/182]; [Pub. L. 108–7, div. H, title I, § 2(a)][/us/pl/108/7/s2/a], Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349].)
+([July 1, 1941, ch. 268][/us/act/1941-07-01/ch268], [55 Stat. 450][/us/stat/55/450]; [June 13, 1945, ch. 189][/us/act/1945-06-13/ch189], [59 Stat. 244][/us/stat/59/244]; [June 14, 1948, ch. 467][/us/act/1948-06-14/ch467], [62 Stat. 425][/us/stat/62/425]; [Oct. 11, 1951, ch. 485][/us/act/1951-10-11/ch485], [65 Stat. 391][/us/stat/65/391]; [Aug. 1, 1953, ch. 304][/us/act/1953-08-01/ch304], title I, [67 Stat. 320][/us/stat/67/320]; [Aug. 5, 1955, ch. 568][/us/act/1955-08-05/ch568], [69 Stat. 504][/us/stat/69/504]; [Pub. L. 88–258, title IV][/us/pl/88/258/tIV], Jan. 6, 1964, [77 Stat. 864][/us/stat/77/864]; [Pub. L. 90–21, title I][/us/pl/90/21/tI], May 29, 1967, [81 Stat. 38][/us/stat/81/38]; [Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 342][/us/stat/83/342]; [Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 128][/us/stat/85/128]; [Pub. L. 92–184][/us/pl/92/184], ch. IV, Dec. 15, 1971, [85 Stat. 635][/us/stat/85/635]; [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k)(3), formerly § 506(h)(3), Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508], renumbered § 506(i)(3), [Pub. L. 95–391, title I][/us/pl/95/391/tI], § 108(a), Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j)(3), [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 101(e), July 8, 1980, [94 Stat. 889][/us/stat/94/889], renumbered § 506(k)(3), [Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189]; [Pub. L. 94–32, title I][/us/pl/94/32/tI], June 12, 1975, [89 Stat. 182][/us/stat/89/182]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 2(a), Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349].)
 
  __Codification__ 
 
@@ -55,13 +55,13 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–7, div. H, title I, § 2(b)][/us/pl/108/7/s2/b], Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349], provided that: 
+[Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 2(b), Feb. 20, 2003, [117 Stat. 349][/us/stat/117/349], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to fiscal year 2003 and each fiscal year thereafter.”
 
  __Effective Date of 1972 Amendment__ 
 
-    [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k), formerly § 506(h), Oct. 31, 1972, [86 Stat. 1507][/us/stat/86/1507], renumbered § 506(i) by [Pub. L. 95–391, title I, § 108(a)][/us/pl/95/391/s108/a], Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j) by [Pub. L. 96–304, title I, § 101][/us/pl/96/304/s101], July 8, 1980, [94 Stat. 889][/us/stat/94/889], and renumbered § 506(k) by [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189], provided that the amendment made by that section is effective Jan. 1, 1973.
+    [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k), formerly § 506(h), Oct. 31, 1972, [86 Stat. 1507][/us/stat/86/1507], renumbered § 506(i) by [Pub. L. 95–391, title I][/us/pl/95/391/tI], § 108(a), Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j) by [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 101, July 8, 1980, [94 Stat. 889][/us/stat/94/889], and renumbered § 506(k) by [Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189], provided that the amendment made by that section is effective Jan. 1, 1973.
 
  __Additional Allowances__ 
 
@@ -100,9 +100,9 @@ The following acts authorized additional stationery allowances for each Senator 
 [/us/stat/67/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F320
 [/us/act/1955-08-05/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-05%2Fch568
 [/us/stat/69/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F504
-[/us/pl/88/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F258
+[/us/pl/88/258/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F258%2FtIV
 [/us/stat/77/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F864
-[/us/pl/90/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F21
+[/us/pl/90/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F21%2FtI
 [/us/stat/81/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F38
 [/us/pl/91/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F145
 [/us/stat/83/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F342
@@ -112,15 +112,15 @@ The following acts authorized additional stationery allowances for each Senator 
 [/us/stat/85/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F635
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1508
-[/us/pl/95/391/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs108%2Fa
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F773
-[/us/pl/96/304/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs101%2Fe
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F889
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
-[/us/pl/94/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32
+[/us/pl/94/32/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2FtI
 [/us/stat/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F182
-[/us/pl/108/7/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fa
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F349
 [/us/usc/t2/s46a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46a
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
@@ -132,15 +132,15 @@ The following acts authorized additional stationery allowances for each Senator 
 [/us/pl/91/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F145
 [/us/pl/90/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F21
 [/us/pl/88/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F258
-[/us/pl/108/7/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs2%2Fb
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F349
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1507
-[/us/pl/95/391/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs108%2Fa
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F773
-[/us/pl/96/304/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs101
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F889
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
 [/us/act/1952-07-15/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-15%2Fch758
 [/us/stat/66/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F639

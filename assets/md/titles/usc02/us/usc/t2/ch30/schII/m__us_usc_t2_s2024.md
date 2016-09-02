@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was classified to section 174d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 174d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 142, [60 Stat. 834][/us/stat/60/834], provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, [60 Stat. 839][/us/stat/60/839], provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
+    [Act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], § 142, [60 Stat. 834][/us/stat/60/834], provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of title II of that act, [60 Stat. 839][/us/stat/60/839], provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.
 
 ----------
 
@@ -42,9 +42,9 @@
 [/us/stat/56/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F343
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F814
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
 

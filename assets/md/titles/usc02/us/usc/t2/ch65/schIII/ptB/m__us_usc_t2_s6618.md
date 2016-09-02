@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Sergeant at Arms, subject to the approval of the Committee on Rules and Administration, is hereafter authorized to enter into multi-year contracts for data processing equipment, software, and services.
 
-([Pub. L. 94–32, title I][/us/pl/94/32], June 12, 1975, [89 Stat. 182][/us/stat/89/182]; [Pub. L. 95–26, title I, § 103][/us/pl/95/26/s103], May 4, 1977, [91 Stat. 82][/us/stat/91/82].)
+([Pub. L. 94–32, title I][/us/pl/94/32/tI], June 12, 1975, [89 Stat. 182][/us/stat/89/182]; [Pub. L. 95–26, title I][/us/pl/95/26/tI], § 103, May 4, 1977, [91 Stat. 82][/us/stat/91/82].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/94/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32
+[/us/pl/94/32/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2FtI
 [/us/stat/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F182
-[/us/pl/95/26/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs103
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F82
 [/us/usc/t2/s123c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123c
 [/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26

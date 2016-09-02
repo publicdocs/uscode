@@ -17,11 +17,11 @@
 
     In all cases where Members of Congress or Senators are appointed to represent Congress on any board of trustees or board of directors of any corporation or institution to which Congress makes any appropriation, the term of said Members or Senators, as such trustee or director, shall continue until the expiration of two months after the first meeting of the Congress chosen next after their appointment.
 
-([Mar. 3, 1893, ch. 199, § 1][/us/act/1893-03-03/ch199/s1], [27 Stat. 553][/us/stat/27/553].)
+([Mar. 3, 1893, ch. 199][/us/act/1893-03-03/ch199], § 1, [27 Stat. 553][/us/stat/27/553].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 722 of Title 31][/us/usc/t31/s722] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 722 of Title 31][/us/usc/t31/s722] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1893-03-03/ch199/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch199%2Fs1
+[/us/act/1893-03-03/ch199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch199
 [/us/stat/27/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F553
 [/us/usc/t31/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs722
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

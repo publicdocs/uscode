@@ -21,7 +21,7 @@
 
     (2) The allowance for the office of the Minority Whip is increased by $96,000.
 
-([Pub. L. 111–68, div. A, title I, § 102][/us/pl/111/68/s102], Oct. 1, 2009, [123 Stat. 2029][/us/stat/123/2029].)
+([Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 102, Oct. 1, 2009, [123 Stat. 2029][/us/stat/123/2029].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/68/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs102
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2029
 [/us/usc/t2/s74a–10b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%9310b
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68

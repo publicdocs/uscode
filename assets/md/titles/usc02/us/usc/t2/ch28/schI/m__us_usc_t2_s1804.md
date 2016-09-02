@@ -17,11 +17,11 @@
 
     On and after August 18, 1970, the Deputy Architect of the Capitol shall act as Architect of the Capitol during the absence or disability of that official or whenever there is no Architect.
 
-([Pub. L. 91–382][/us/pl/91/382], Aug. 18, 1970, [84 Stat. 817][/us/stat/84/817]; [Pub. L. 101–163, title I, § 106(d)][/us/pl/101/163/s106/d], Nov. 21, 1989, [103 Stat. 1057][/us/stat/103/1057]; [Pub. L. 108–7, div. H, title I, § 1204][/us/pl/108/7/s1204], Feb. 20, 2003, [117 Stat. 374][/us/stat/117/374].)
+([Pub. L. 91–382][/us/pl/91/382], Aug. 18, 1970, [84 Stat. 817][/us/stat/84/817]; [Pub. L. 101–163, title I][/us/pl/101/163/tI], § 106(d), Nov. 21, 1989, [103 Stat. 1057][/us/stat/103/1057]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1204, Feb. 20, 2003, [117 Stat. 374][/us/stat/117/374].)
 
  __Codification__ 
 
-    Section was classified to section 164a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 164a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is from [Pub. L. 91–382][/us/pl/91/382], popularly known as the “Legislative Branch Appropriation Act, 1971”.
 
@@ -112,11 +112,11 @@ Provisions similar to those in this section were contained in the following prio
 
 [/us/pl/91/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F382
 [/us/stat/84/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F817
-[/us/pl/101/163/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs106%2Fd
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1057
-[/us/pl/108/7/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1204
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F374
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/91/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F382
 [/us/pl/87/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F730

@@ -27,7 +27,7 @@
 
         This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-([Pub. L. 107–206, title I, § 907][/us/pl/107/206/s907], Aug. 2, 2002, [116 Stat. 877][/us/stat/116/877].)
+([Pub. L. 107–206, title I][/us/pl/107/206/tI], § 907, Aug. 2, 2002, [116 Stat. 877][/us/stat/116/877].)
 
  __References in Text__ 
 
@@ -35,11 +35,11 @@
 
  __Codification__ 
 
-    Section was classified to section 166m of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166m of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Acquisition of Property by Architect of the Capitol__ 
 
-[Pub. L. 108–199, div. H, § 152][/us/pl/108/199/s152], Jan. 23, 2004, [118 Stat. 448][/us/stat/118/448], provided that:
+[Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 152, Jan. 23, 2004, [118 Stat. 448][/us/stat/118/448], provided that:
 
 >     “(a) Notwithstanding [section 907(a) of Public Law 107–206][/us/pl/107/206/s907/a] ([116 Stat. 977][/us/stat/116/977]) \[[2 U.S.C. 1820(a)][/us/usc/t2/s1820/a]\] or section 1102 of the Legislative Branch Appropriations Act, 2004 ([2 U.S.C. 1822(b)][/us/usc/t2/s1822/b]), the Architect of the Capitol, at any time after the date of the enactment of this Act \[Jan. 23, 2004\] and subject to the availability of appropriations, may enter into an agreement to acquire by lease any portion of the real property located at 499 South Capitol Street Southwest in the District of Columbia for the use of the United States Capitol Police.
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/107/206/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs907
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F877
 [/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
 [/us/stat/60/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F718
@@ -63,9 +63,9 @@
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
 [/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/pl/108/199/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs152
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F448
 [/us/pl/107/206/s907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs907%2Fa
 [/us/stat/116/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F977

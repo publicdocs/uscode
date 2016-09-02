@@ -43,17 +43,17 @@
 
         (2) utilize this information, whenever appropriate, as one factor in the legislative assessment of matters pending before the Congress, particularly in those instances where the Federal Government may be called upon to consider support for, or management or regulation of, technological applications.
 
-([Pub. L. 92–484, § 2][/us/pl/92/484/s2], Oct. 13, 1972, [86 Stat. 797][/us/stat/86/797].)
+([Pub. L. 92–484][/us/pl/92/484], § 2, Oct. 13, 1972, [86 Stat. 797][/us/stat/86/797].)
 
  __Short Title__ 
 
-[Pub. L. 92–484, § 1][/us/pl/92/484/s1], Oct. 13, 1972, [86 Stat. 797][/us/stat/86/797], provided: 
+[Pub. L. 92–484][/us/pl/92/484], § 1, Oct. 13, 1972, [86 Stat. 797][/us/stat/86/797], provided: 
 
 > “That this Act \[enacting this chapter and amending [section 1862 of Title 42][/us/usc/t42/s1862], The Public Health and Welfare\] may be cited as the ‘Technology Assessment Act of 1972’.”
 
  __Termination of Office of Technology Assessment__ 
 
-[Pub. L. 104–53, title I][/us/pl/104/53], §§ 113, 114, Nov. 19, 1995, [109 Stat. 526][/us/stat/109/526], provided that:
+[Pub. L. 104–53, title I][/us/pl/104/53/tI], §§ 113, 114, Nov. 19, 1995, [109 Stat. 526][/us/stat/109/526], provided that:
 
 > “Sec. 113. Upon enactment of this Act \[Nov. 19, 1995\] all employees of the Office of Technology Assessment for 183 days preceding termination of employment who are terminated as a result of the elimination of the Office and who are not otherwise gainfully employed may continue to be paid by the Office of Technology Assessment at their respective salaries for a period not to exceed 60 calendar days following the employee’s date of termination or until the employee becomes otherwise gainfully employed whichever is earlier. Any day for which a former employee receives a payment under this section shall be counted as Federal service for purposes of determining entitlement to benefits, including retirement, annual and sick leave earnings, and health and life insurance. A statement in writing to the Director of the Office of Technology Assessment or his designee by any such employee that he was not gainfully employed during such period or the portion thereof for which payment is claimed shall be accepted as prima facie evidence that he was not so employed.
 
@@ -66,12 +66,12 @@
 ----------
 ----------
 
-[/us/pl/92/484/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs2
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F797
-[/us/pl/92/484/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs1
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F797
 [/us/usc/t42/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862
-[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F526
 
 

@@ -85,7 +85,7 @@
 
             In this section, the “Federal Research program” is the program of the Library of Congress under which the Librarian provides research reports, translations, and analytical studies for entities of the Federal Government and the District of Columbia (other than any program of the Congressional Research Service).
 
-([Pub. L. 106–481, title I, § 103][/us/pl/106/481/s103], Nov. 9, 2000, [114 Stat. 2189][/us/stat/114/2189].)
+([Pub. L. 106–481, title I][/us/pl/106/481/tI], § 103, Nov. 9, 2000, [114 Stat. 2189][/us/stat/114/2189].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 ----------
 
 [/us/usc/t31/s1535/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535%2Fd
-[/us/pl/106/481/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F481%2Fs103
+[/us/pl/106/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F481%2FtI
 [/us/stat/114/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2189
 [/us/pl/106/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F481
 [/us/stat/114/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2187

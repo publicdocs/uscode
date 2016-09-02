@@ -71,7 +71,7 @@
 
         (2) the Board shall transmit such study and recommendations (with the Board’s comments) to the head of each entity considered in the study, and to the Congress by delivery to the Speaker of the House of Representatives and President pro tempore of the Senate for referral to the appropriate committees of the House of Representatives and of the Senate.
 
-([Pub. L. 104–1, title II, § 230][/us/pl/104/1/s230], Jan. 23, 1995, [109 Stat. 23][/us/stat/109/23]; [Pub. L. 104–53, title III, § 309(a)][/us/pl/104/53/s309/a], (b), Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 230, Jan. 23, 1995, [109 Stat. 23][/us/stat/109/23]; [Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 309(a), (b), Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
     The Rehabilitation Act of 1973, referred to in subsec. (b)(7), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29][/us/usc/t29/s701] and Tables.
 
-    The General Accounting Office Personnel Act of 1980, referred to in subsec. (b)(9), is [Pub. L. 96–191][/us/pl/96/191], Feb. 15, 1980, [94 Stat. 27][/us/stat/94/27], which was classified principally to section 52–1 et seq. of former Title 31, Money and Finance, and which was substantially repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof principally in subchapters III (§ 731 et seq.) and IV (§ 751 et seq.) of chapter 7 of Title 31, Money and Finance.
+    The General Accounting Office Personnel Act of 1980, referred to in subsec. (b)(9), is [Pub. L. 96–191][/us/pl/96/191], Feb. 15, 1980, [94 Stat. 27][/us/stat/94/27], which was classified principally to section 52–1 et seq. of former Title 31, Money and Finance, and which was substantially repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], and reenacted by the first section thereof principally in subchapters III (§ 731 et seq.) and IV (§ 751 et seq.) of chapter 7 of Title 31, Money and Finance.
 
     The Employee Polygraph Protection Act of 1988, referred to in subsec. (b)(10), is [Pub. L. 100–347][/us/pl/100/347], June 27, 1988, [102 Stat. 646][/us/stat/102/646], as amended, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 29][/us/usc/t29/s2001] and Tables.
 
@@ -97,9 +97,9 @@
 
  __Amendments__ 
 
-    1995—Subsec. (a). [Pub. L. 104–53, § 309(a)][/us/pl/104/53/s309/a], substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
+    1995—Subsec. (a). [Pub. L. 104–53][/us/pl/104/53], § 309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 104–53, § 309(b)][/us/pl/104/53/s309/b], substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
+    Subsec. (d)(1). [Pub. L. 104–53][/us/pl/104/53], § 309(b), substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
 
  __Change of Name__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–53, title III, § 309(c)][/us/pl/104/53/s309/c], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], provided that: 
+[Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 309(c), Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect only if the Administrative Conference of the United States ceases to exist prior to the completion and submission of the study to the Board as required by section 230 of the Congressional Accountability Act of 1995 ([2 U.S.C. 1371][/us/usc/t2/s1371]). \[See provision of title IV of [Pub. L. 104–52][/us/pl/104/52], set out as a note preceding [section 591 of Title 5][/us/usc/t5/s591], Government Organization and Employees.\]”
 
@@ -134,9 +134,9 @@
 [/us/usc/t31/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs731
 [/us/usc/t29/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2001
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
-[/us/pl/104/1/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs230
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F23
-[/us/pl/104/53/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fa
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F252
@@ -163,7 +163,7 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/96/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191
 [/us/stat/94/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F27
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F646
@@ -171,13 +171,13 @@
 [/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F890
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
-[/us/pl/104/53/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fa
-[/us/pl/104/53/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fb
+[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
+[/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
-[/us/pl/104/53/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fc
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 [/us/usc/t2/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1371
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52

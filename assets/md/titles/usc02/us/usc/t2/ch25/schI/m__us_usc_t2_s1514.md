@@ -21,7 +21,7 @@
 
         The Committee on Rules shall include in the report required by clause 1(d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of rule XI (relating to its activities during the Congress) of the Rules of the House of Representatives a separate item identifying all waivers of points of order relating to Federal mandates, listed by bill or joint resolution number and the subject matter of that measure.
 
-([Pub. L. 104–4, title I, § 107][/us/pl/104/4/s107], Mar. 22, 1995, [109 Stat. 63][/us/stat/109/63].)
+([Pub. L. 104–4, title I][/us/pl/104/4/tI], § 107, Mar. 22, 1995, [109 Stat. 63][/us/stat/109/63].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs107
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F63
 [/us/pl/104/4/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs107
 [/us/pl/104/4/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs107

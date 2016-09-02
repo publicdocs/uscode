@@ -279,7 +279,7 @@
 
         This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-([Pub. L. 107–68, title I, § 102][/us/pl/107/68/s102], Nov. 12, 2001, [115 Stat. 563][/us/stat/115/563]; [Pub. L. 107–117, div. B, § 916][/us/pl/107/117/s916], Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324]; [Pub. L. 112–74, div. G, title I, § 1001(a)][/us/pl/112/74/s1001/a], (b), Dec. 23, 2011, [125 Stat. 1124][/us/stat/125/1124].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 102, Nov. 12, 2001, [115 Stat. 563][/us/stat/115/563]; [Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 916, Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324]; [Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1001(a), (b), Dec. 23, 2011, [125 Stat. 1124][/us/stat/125/1124].)
 
  __References in Text__ 
 
@@ -299,23 +299,23 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 112–74, § 1001(a)(1)][/us/pl/112/74/s1001/a/1], inserted “, except as provided under subsection (b)(3)” after “means an individual” in introductory provisions.
+    2011—Subsec. (a)(1). [Pub. L. 112–74][/us/pl/112/74], § 1001(a)(1), inserted “, except as provided under subsection (b)(3)” after “means an individual” in introductory provisions.
 
-    Subsec. (a)(2), (3). [Pub. L. 112–74, § 1001(a)(2)][/us/pl/112/74/s1001/a/2], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (a)(2), (3). [Pub. L. 112–74][/us/pl/112/74], § 1001(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) Employee of the senate.—The term ‘employee of the Senate’ has the meaning given the term in [section 1301 of this title][/us/usc/t2/s1301].
 
     “(3) Employing office.—The term ‘employing office’ means the employing office, as defined in [section 1301 of this title][/us/usc/t2/s1301], of an employee of the Senate.”
 
-    Subsec. (b)(3). [Pub. L. 112–74, § 1001(b)][/us/pl/112/74/s1001/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 112–74][/us/pl/112/74], § 1001(b), added par. (3).
 
-    2002—Subsec. (a). [Pub. L. 107–117, § 916(1)][/us/pl/107/117/s916/1], redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
+    2002—Subsec. (a). [Pub. L. 107–117][/us/pl/107/117], § 916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
 
-    Subsec. (g)(1). [Pub. L. 107–117, § 916(2)][/us/pl/107/117/s916/2], substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
+    Subsec. (g)(1). [Pub. L. 107–117][/us/pl/107/117], § 916(2), substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–74, div. G, title I, § 1001(c)][/us/pl/112/74/s1001/c], Dec. 23, 2011, [125 Stat. 1124][/us/stat/125/1124], provided that: 
+[Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1001(c), Dec. 23, 2011, [125 Stat. 1124][/us/stat/125/1124], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 23, 2011\] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 ([2 U.S.C. 60c–5][/us/usc/t2/s60c–5]) \[now [2 U.S.C. 4579][/us/usc/t2/s4579]\] or [section 5379 of title 5][/us/usc/t5/s5379], United States Code, on or after that date.”
 
@@ -335,11 +335,11 @@
 [/us/usc/t2/s6568/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6568%2Fc
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/usc/t2/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4108
-[/us/pl/107/68/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs102
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F563
-[/us/pl/107/117/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs916
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2324
-[/us/pl/112/74/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1001%2Fa
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1124
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -350,14 +350,14 @@
 [/us/usc/t2/s6568/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6568%2Fc
 [/us/usc/t2/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4108
 [/us/usc/t2/s60c–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%935
-[/us/pl/112/74/s1001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1001%2Fa%2F1
-[/us/pl/112/74/s1001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1001%2Fa%2F2
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t2/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1301
 [/us/usc/t2/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1301
-[/us/pl/112/74/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1001%2Fb
-[/us/pl/107/117/s916/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs916%2F1
-[/us/pl/107/117/s916/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs916%2F2
-[/us/pl/112/74/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1001%2Fc
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
+[/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1124
 [/us/usc/t2/s60c–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%935
 [/us/usc/t2/s4579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4579

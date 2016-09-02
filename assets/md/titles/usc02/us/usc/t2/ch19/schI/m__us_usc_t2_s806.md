@@ -135,19 +135,19 @@
 
         (3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the Corporation and the Board.
 
-([Pub. L. 96–114, title I, § 106][/us/pl/96/114/s106], formerly § 7, Nov. 16, 1979, [93 Stat. 854][/us/stat/93/854]; [Pub. L. 99–161, § 4(f)][/us/pl/99/161/s4/f], Nov. 25, 1985, [99 Stat. 935][/us/stat/99/935]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–674, § 2(c)][/us/pl/100/674/s2/c], Nov. 17, 1988, [102 Stat. 3996][/us/stat/102/3996]; [Pub. L. 101–525, § 7][/us/pl/101/525/s7], Nov. 6, 1990, [104 Stat. 2306][/us/stat/104/2306]; renumbered title I, § 106, [Pub. L. 106–533, § 1(b)(1)][/us/pl/106/533/s1/b/1], (2), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553]; [Pub. L. 111–200, § 2(d)][/us/pl/111/200/s2/d]–(g), July 7, 2010, [124 Stat. 1369][/us/stat/124/1369].)
+([Pub. L. 96–114, title I][/us/pl/96/114/tI], § 106, formerly § 7, Nov. 16, 1979, [93 Stat. 854][/us/stat/93/854]; [Pub. L. 99–161][/us/pl/99/161], § 4(f), Nov. 25, 1985, [99 Stat. 935][/us/stat/99/935]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–674][/us/pl/100/674], § 2(c), Nov. 17, 1988, [102 Stat. 3996][/us/stat/102/3996]; [Pub. L. 101–525][/us/pl/101/525], § 7, Nov. 6, 1990, [104 Stat. 2306][/us/stat/104/2306]; renumbered title I, § 106, [Pub. L. 106–533][/us/pl/106/533], § 1(b)(1), (2), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553]; [Pub. L. 111–200][/us/pl/111/200], § 2(d)–(g), July 7, 2010, [124 Stat. 1369][/us/stat/124/1369].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–200, § 2(d)][/us/pl/111/200/s2/d], added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
+    2010—Subsec. (a)(1). [Pub. L. 111–200][/us/pl/111/200], § 2(d), added par. (1) and struck out former par. (1) which read as follows: “the Board shall carry out its functions and make expenditures with only such resources as are available to the Board from sources other than the Federal Government; and”.
 
-    Subsec. (c)(4). [Pub. L. 111–200, § 2(e)][/us/pl/111/200/s2/e], added par. (4) and struck out former par. (4) which read as follows: “Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.”
+    Subsec. (c)(4). [Pub. L. 111–200][/us/pl/111/200], § 2(e), added par. (4) and struck out former par. (4) which read as follows: “Each Statewide Council established pursuant to this section is authorized to receive public monetary and in-kind contributions, which may be made available to local boards to supplement or defray operating expenses. The Board shall adopt appropriate financial management methods in order to ensure the proper accounting of these funds.”
 
-    Subsec. (d). [Pub. L. 111–200, § 2(f)(1)][/us/pl/111/200/s2/f/1], inserted “to be” after “expenditure is”.
+    Subsec. (d). [Pub. L. 111–200][/us/pl/111/200], § 2(f)(1), inserted “to be” after “expenditure is”.
 
-    Subsec. (e)(1)(A). [Pub. L. 111–200, § 2(f)(2)][/us/pl/111/200/s2/f/2], inserted “or for scholarships” after “local program”.
+    Subsec. (e)(1)(A). [Pub. L. 111–200][/us/pl/111/200], § 2(f)(2), inserted “or for scholarships” after “local program”.
 
-    Subsec. (i). [Pub. L. 111–200, § 2(g)][/us/pl/111/200/s2/g], added subsec. (i) and struck out former subsec. (i) which read as follows:
+    Subsec. (i). [Pub. L. 111–200][/us/pl/111/200], § 2(g), added subsec. (i) and struck out former subsec. (i) which read as follows:
 
     “(1) The Board shall provide for the establishment of a private nonprofit corporation for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the corporation such duties as it considers appropriate.
 
@@ -159,19 +159,19 @@
 
     “(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.”
 
-    1990—Subsec. (a). [Pub. L. 101–525, § 7(a)][/us/pl/101/525/s7/a], which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
+    1990—Subsec. (a). [Pub. L. 101–525][/us/pl/101/525], § 7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 
-    Subsec. (b)(2)(C). [Pub. L. 101–525, § 7(b)(1)(A)][/us/pl/101/525/s7/b/1/A], substituted “conduct” for “conducting” and struck out “State and” after “new”.
+    Subsec. (b)(2)(C). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(1)(A), substituted “conduct” for “conducting” and struck out “State and” after “new”.
 
-    Subsec. (b)(2)(D), (E). [Pub. L. 101–525, § 7(b)(1)(B)][/us/pl/101/525/s7/b/1/B], added subpar. (D) and redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
+    Subsec. (b)(2)(D), (E). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(1)(B), added subpar. (D) and redesignated former subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-    Subsec. (b)(2)(F). [Pub. L. 101–525, § 7(b)(1)(B)][/us/pl/101/525/s7/b/1/B], (C), redesignated subpar. (E) as (F) and substituted “conduct” for “conducting”. Former subpar. (F) redesignated (G).
+    Subsec. (b)(2)(F). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(1)(B), (C), redesignated subpar. (E) as (F) and substituted “conduct” for “conducting”. Former subpar. (F) redesignated (G).
 
-    Subsec. (b)(2)(G), (H). [Pub. L. 101–525, § 7(b)(1)(B)][/us/pl/101/525/s7/b/1/B], redesignated subpars. (F) and (G) as (G) and (H), respectively.
+    Subsec. (b)(2)(G), (H). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(1)(B), redesignated subpars. (F) and (G) as (G) and (H), respectively.
 
-    Subsecs. (c), (d). [Pub. L. 101–525, § 7(b)(2)][/us/pl/101/525/s7/b/2], added subsec. (c). Former subsecs. (c) and (d) redesignated (d) and (e), respectively.
+    Subsecs. (c), (d). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(2), added subsec. (c). Former subsecs. (c) and (d) redesignated (d) and (e), respectively.
 
-    Subsec. (e). [Pub. L. 101–525, § 7(b)(2)][/us/pl/101/525/s7/b/2], (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “The Board may seek and accept, from sources other than the Federal Government, funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
+    Subsec. (e). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(2), (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “The Board may seek and accept, from sources other than the Federal Government, funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
 
     “(1) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Award Program; or
 
@@ -179,11 +179,11 @@
 
     The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.” Former subsec. (e) redesignated (f).
 
-    Subsecs. (f) to (i). [Pub. L. 101–525, § 7(b)(2)][/us/pl/101/525/s7/b/2], redesignated subsecs. (e) to (h) as (f) to (i), respectively.
+    Subsecs. (f) to (i). [Pub. L. 101–525][/us/pl/101/525], § 7(b)(2), redesignated subsecs. (e) to (h) as (f) to (i), respectively.
 
-    1988—[Pub. L. 100–674, § 2(c)(1)][/us/pl/100/674/s2/c/1], substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
+    1988—[Pub. L. 100–674][/us/pl/100/674], § 2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
 
-    Subsecs. (b) to (h). [Pub. L. 100–674, § 2(c)(2)][/us/pl/100/674/s2/c/2], added subsec. (b) and redesignated former subsecs. (b) to (g) as (c) to (h), respectively.
+    Subsecs. (b) to (h). [Pub. L. 100–674][/us/pl/100/674], § 2(c)(2), added subsec. (b) and redesignated former subsecs. (b) to (g) as (c) to (h), respectively.
 
     1986—Subsec. (a)(2). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -197,35 +197,35 @@
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/96/114/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2Fs106
+[/us/pl/96/114/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2FtI
 [/us/stat/93/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F854
-[/us/pl/99/161/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161%2Fs4%2Ff
+[/us/pl/99/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161
 [/us/stat/99/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F935
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/674/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674%2Fs2%2Fc
+[/us/pl/100/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674
 [/us/stat/102/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3996
-[/us/pl/101/525/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
 [/us/stat/104/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2306
-[/us/pl/106/533/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F1
+[/us/pl/106/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533
 [/us/stat/114/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2553
-[/us/pl/111/200/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fd
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
 [/us/stat/124/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1369
-[/us/pl/111/200/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fd
-[/us/pl/111/200/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fe
-[/us/pl/111/200/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Ff%2F1
-[/us/pl/111/200/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Ff%2F2
-[/us/pl/111/200/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fg
-[/us/pl/101/525/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fa
-[/us/pl/101/525/s7/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F1%2FA
-[/us/pl/101/525/s7/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F1%2FB
-[/us/pl/101/525/s7/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F1%2FB
-[/us/pl/101/525/s7/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F1%2FB
-[/us/pl/101/525/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F2
-[/us/pl/101/525/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F2
-[/us/pl/101/525/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525%2Fs7%2Fb%2F2
-[/us/pl/100/674/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674%2Fs2%2Fc%2F1
-[/us/pl/100/674/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674%2Fs2%2Fc%2F2
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/111/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/101/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F525
+[/us/pl/100/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674
+[/us/pl/100/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F674
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F161
 

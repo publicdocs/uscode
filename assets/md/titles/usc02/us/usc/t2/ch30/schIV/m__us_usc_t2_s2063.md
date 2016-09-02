@@ -49,7 +49,7 @@
 
         The Office of Personnel Management may prescribe regulations to carry out the provisions of this section.
 
-([Pub. L. 102–90, title III, § 311][/us/pl/102/90/s311], Aug. 14, 1991, [105 Stat. 467][/us/stat/105/467].)
+([Pub. L. 102–90, title III][/us/pl/102/90/tIII], § 311, Aug. 14, 1991, [105 Stat. 467][/us/stat/105/467].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Codification__ 
 
-    Section was classified to section 214c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 214c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
 ----------
 
@@ -70,10 +70,10 @@
 [/us/usc/t5/s8901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F1
 [/us/usc/t5/s8906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906
 [/us/usc/t5/s8906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906
-[/us/pl/102/90/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs311
+[/us/pl/102/90/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtIII
 [/us/stat/105/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F467
 [/us/usc/t2/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2061
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

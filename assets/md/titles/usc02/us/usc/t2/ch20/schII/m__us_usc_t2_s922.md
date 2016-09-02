@@ -73,45 +73,45 @@
 
         The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under [section 904 of this title][/us/usc/t2/s904], shall not be subject to review in any judicial or administrative proceeding.
 
-([Pub. L. 99–177, title II, § 274][/us/pl/99/177/s274], Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098]; [Pub. L. 100–119, title I, § 102(b)(9)][/us/pl/100/119/s102/b/9], (10), Sept. 29, 1987, [101 Stat. 774][/us/stat/101/774], 775; [Pub. L. 105–33, title X, § 10211][/us/pl/105/33/s10211], Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711].)
+([Pub. L. 99–177, title II][/us/pl/99/177/tII], § 274, Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098]; [Pub. L. 100–119, title I][/us/pl/100/119/tI], § 102(b)(9), (10), Sept. 29, 1987, [101 Stat. 774][/us/stat/101/774], 775; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10211, Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711].)
 
  __References in Text__ 
 
     This title, referred to in subsec. (a)(2), (3), means title II (§ 200 et seq.) of [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1038][/us/stat/99/1038], known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of this title][/us/usc/t2/s900] and Tables.
 
-    [Section 906(a) of this title][/us/usc/t2/s906/a], referred to in subsec. (d)(1)(A), was repealed by [Pub. L. 111–139, title I][/us/pl/111/139], §10(a), Feb. 12, 2010, [124 Stat. 21][/us/stat/124/21].
+    [Section 906(a) of this title][/us/usc/t2/s906/a], referred to in subsec. (d)(1)(A), was repealed by [Pub. L. 111–139, title I][/us/pl/111/139/tI], §10(a), Feb. 12, 2010, [124 Stat. 21][/us/stat/124/21].
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1), (3). [Pub. L. 105–33, § 10211(1)][/us/pl/105/33/s10211/1], substituted “section 904” for “section 902”.
+    1997—Subsec. (a)(1), (3). [Pub. L. 105–33][/us/pl/105/33], § 10211(1), substituted “section 904” for “section 902”.
 
-    Subsec. (d)(1). [Pub. L. 105–33, § 10211(1)][/us/pl/105/33/s10211/1], substituted “section 904” for “section 902(b)” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 105–33][/us/pl/105/33], § 10211(1), substituted “section 904” for “section 902(b)” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 105–33, § 10211(2)][/us/pl/105/33/s10211/2], substituted “906(a) of this title if” for “907(1) of this title to the extent that” and inserted “or” at end.
+    Subsec. (d)(1)(A). [Pub. L. 105–33][/us/pl/105/33], § 10211(2), substituted “906(a) of this title if” for “907(1) of this title to the extent that” and inserted “or” at end.
 
-    Subsec. (d)(1)(B). [Pub. L. 105–33, § 10211(3)][/us/pl/105/33/s10211/3], substituted “budgetary resources” for “new budget authority, new loan guarantee commitments, new direct loan obligations, or spending authority”. Directory language directing the striking of “or” after the comma was executed by striking “or” after “account,” and not after “activity,” to reflect the probable intent of Congress.
+    Subsec. (d)(1)(B). [Pub. L. 105–33][/us/pl/105/33], § 10211(3), substituted “budgetary resources” for “new budget authority, new loan guarantee commitments, new direct loan obligations, or spending authority”. Directory language directing the striking of “or” after the comma was executed by striking “or” after “account,” and not after “activity,” to reflect the probable intent of Congress.
 
-    Subsec. (d)(1)(C). [Pub. L. 105–33, § 10211(4)][/us/pl/105/33/s10211/4], struck out subpar. (C) which read as follows: “does not reduce obligation limitations by the amount by which such limitations are required to be reduced under subchapter I of this chapter (or reduces such limitations by more than that amount) with respect to any program, project, activity, or account,”.
+    Subsec. (d)(1)(C). [Pub. L. 105–33][/us/pl/105/33], § 10211(4), struck out subpar. (C) which read as follows: “does not reduce obligation limitations by the amount by which such limitations are required to be reduced under subchapter I of this chapter (or reduces such limitations by more than that amount) with respect to any program, project, activity, or account,”.
 
-    Subsec. (d)(2). [Pub. L. 105–33, § 10211(1)][/us/pl/105/33/s10211/1], substituted “section 904” for “section 902(b)” in introductory and concluding provisions.
+    Subsec. (d)(2). [Pub. L. 105–33][/us/pl/105/33], § 10211(1), substituted “section 904” for “section 902(b)” in introductory and concluding provisions.
 
-    Subsec. (e). [Pub. L. 105–33, § 10211(1)][/us/pl/105/33/s10211/1], substituted “section 904” for “section 902”.
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 10211(1), substituted “section 904” for “section 902”.
 
-    Subsec. (f). [Pub. L. 105–33, § 10211(5)][/us/pl/105/33/s10211/5], redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f) consisting of pars. (1) to (5) relating to alternative procedures for joint reports of directors.
+    Subsec. (f). [Pub. L. 105–33][/us/pl/105/33], § 10211(5), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f) consisting of pars. (1) to (5) relating to alternative procedures for joint reports of directors.
 
-    Subsec. (g). [Pub. L. 105–33, § 10211(6)][/us/pl/105/33/s10211/6], substituted “figures” for “base levels of total revenues and total budget outlays, as” and “[section 904 of this title][/us/usc/t2/s904]” for “section 901(a)(2)(B) or (c)(2) of this title,”.
+    Subsec. (g). [Pub. L. 105–33][/us/pl/105/33], § 10211(6), substituted “figures” for “base levels of total revenues and total budget outlays, as” and “[section 904 of this title][/us/usc/t2/s904]” for “section 901(a)(2)(B) or (c)(2) of this title,”.
 
-    [Pub. L. 105–33, § 10211(5)][/us/pl/105/33/s10211/5], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    [Pub. L. 105–33][/us/pl/105/33], § 10211(5), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-    Subsec. (h). [Pub. L. 105–33, § 10211(5)][/us/pl/105/33/s10211/5], redesignated subsec. (h) as (g).
+    Subsec. (h). [Pub. L. 105–33][/us/pl/105/33], § 10211(5), redesignated subsec. (h) as (g).
 
-    1987—Subsec. (f)(1). [Pub. L. 100–119, § 102(b)(9)(A)][/us/pl/100/119/s102/b/9/A], added par. (1) and struck out former par. (1) which read as follows: “In the event that any of the reporting procedures described in [section 901 of this title][/us/usc/t2/s901] are invalidated, then any report of the Directors referred to in section 901(a) or (c)(1) of this title shall be transmitted to the joint committee established under this subsection.”
+    1987—Subsec. (f)(1). [Pub. L. 100–119][/us/pl/100/119], § 102(b)(9)(A), added par. (1) and struck out former par. (1) which read as follows: “In the event that any of the reporting procedures described in [section 901 of this title][/us/usc/t2/s901] are invalidated, then any report of the Directors referred to in section 901(a) or (c)(1) of this title shall be transmitted to the joint committee established under this subsection.”
 
-    Subsec. (f)(2), (3). [Pub. L. 100–119, § 102(b)(9)(B)][/us/pl/100/119/s102/b/9/B], substituted “Director of CBO” for “Directors” wherever appearing.
+    Subsec. (f)(2), (3). [Pub. L. 100–119][/us/pl/100/119], § 102(b)(9)(B), substituted “Director of CBO” for “Directors” wherever appearing.
 
-    Subsec. (f)(5). [Pub. L. 100–119, § 102(b)(9)(C)][/us/pl/100/119/s102/b/9/C], substituted “section 901(a)(2)(B) or (c)(2)” for “section 901(b) or (c)(2)”.
+    Subsec. (f)(5). [Pub. L. 100–119][/us/pl/100/119], § 102(b)(9)(C), substituted “section 901(a)(2)(B) or (c)(2)” for “section 901(b) or (c)(2)”.
 
-    Subsec. (h). [Pub. L. 100–119, § 102(b)(10)][/us/pl/100/119/s102/b/10], substituted “and economic assumptions” for “, assumptions, and methodologies”, “Director of OMB” for “Comptroller General” in two places, and “section 901(a)(2)(B)” for “section 901(b)”.
+    Subsec. (h). [Pub. L. 100–119][/us/pl/100/119], § 102(b)(10), substituted “and economic assumptions” for “, assumptions, and methodologies”, “Director of OMB” for “Comptroller General” in two places, and “section 901(a)(2)(B)” for “section 901(b)”.
 
 ----------
 
@@ -128,34 +128,34 @@
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
-[/us/pl/99/177/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs274
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1098
-[/us/pl/100/119/s102/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs102%2Fb%2F9
+[/us/pl/100/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtI
 [/us/stat/101/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F774
-[/us/pl/105/33/s10211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F711
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/usc/t2/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fa
-[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F21
-[/us/pl/105/33/s10211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F1
-[/us/pl/105/33/s10211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F1
-[/us/pl/105/33/s10211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F2
-[/us/pl/105/33/s10211/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F3
-[/us/pl/105/33/s10211/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F4
-[/us/pl/105/33/s10211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F1
-[/us/pl/105/33/s10211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F1
-[/us/pl/105/33/s10211/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F5
-[/us/pl/105/33/s10211/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F6
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
-[/us/pl/105/33/s10211/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F5
-[/us/pl/105/33/s10211/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10211%2F5
-[/us/pl/100/119/s102/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs102%2Fb%2F9%2FA
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/100/119/s102/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs102%2Fb%2F9%2FB
-[/us/pl/100/119/s102/b/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs102%2Fb%2F9%2FC
-[/us/pl/100/119/s102/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs102%2Fb%2F10
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 
 

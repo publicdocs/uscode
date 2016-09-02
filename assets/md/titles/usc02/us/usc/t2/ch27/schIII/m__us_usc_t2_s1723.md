@@ -31,7 +31,7 @@
 
         Eleven members of the Board shall constitute a quorum for the transaction of business.
 
-([Pub. L. 106–474, title I, § 123][/us/pl/106/474/s123], Nov. 9, 2000, [114 Stat. 2089][/us/stat/114/2089].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 123, Nov. 9, 2000, [114 Stat. 2089][/us/stat/114/2089].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/474/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs123
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2089
 
 

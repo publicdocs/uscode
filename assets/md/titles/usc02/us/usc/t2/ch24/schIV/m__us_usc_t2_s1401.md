@@ -31,7 +31,7 @@
 
     In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under [section 1402 of this title][/us/usc/t2/s1402], may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
 
-([Pub. L. 104–1, title IV, § 401][/us/pl/104/1/s401], Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 401, Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t2/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1407
 [/us/usc/t2/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1408
 [/us/usc/t2/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1402
-[/us/pl/104/1/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs401
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F32
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F7

@@ -21,7 +21,7 @@
 
     (2) any authority to make appointments to positions under the House of Representatives, irrespective of whether such positions are within the purview of this chapter.
 
-([Pub. L. 88–652, § 12][/us/pl/88/652/s12], Oct. 13, 1964, [78 Stat. 1083][/us/stat/78/1083].)
+([Pub. L. 88–652][/us/pl/88/652], § 12, Oct. 13, 1964, [78 Stat. 1083][/us/stat/78/1083].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/88/652/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs12
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1083
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079

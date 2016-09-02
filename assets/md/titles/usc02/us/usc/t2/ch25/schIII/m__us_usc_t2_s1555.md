@@ -17,7 +17,7 @@
 
     Notwithstanding [section 1502 of this title][/us/usc/t2/s1502], for purposes of this subchapter the term “Federal mandate” means any provision in statute or regulation or any Federal court ruling that imposes an enforceable duty upon State, local, or tribal governments including a condition of Federal assistance or a duty arising from participation in a voluntary Federal program.
 
-([Pub. L. 104–4, title III, § 305][/us/pl/104/4/s305], Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
+([Pub. L. 104–4, title III][/us/pl/104/4/tIII], § 305, Mar. 22, 1995, [109 Stat. 70][/us/stat/109/70].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t2/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1502
-[/us/pl/104/4/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs305
+[/us/pl/104/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtIII
 [/us/stat/109/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F70
 
 

@@ -21,7 +21,7 @@
 
     (2) affect the continuity of employment of, or reduce the pay of, any employee whose pay is disbursed by the Chief Administrative Officer of the House.
 
-([Pub. L. 91–510, title IV, § 476][/us/pl/91/510/s476], Oct. 26, 1970, [84 Stat. 1195][/us/stat/84/1195]; [Pub. L. 104–186, title II, § 210(5)][/us/pl/104/186/s210/5], Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].)
+([Pub. L. 91–510, title IV][/us/pl/91/510/tIV], § 476, Oct. 26, 1970, [84 Stat. 1195][/us/stat/84/1195]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 210(5), Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/91/510/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs476
+[/us/pl/91/510/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtIV
 [/us/stat/84/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1195
-[/us/pl/104/186/s210/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs210%2F5
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1743
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/stat/84/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1193

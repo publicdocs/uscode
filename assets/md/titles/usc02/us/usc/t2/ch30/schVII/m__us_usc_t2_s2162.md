@@ -65,7 +65,7 @@
 
         There is authorized to be appropriated to carry out the feasibility study and demonstration project $3,000,000. Such sums shall remain available until expended.
 
-([Mar. 4, 1911, ch. 285][/us/act/1911-03-04/ch285], [36 Stat. 1414][/us/stat/36/1414]; [Mar. 3, 1921, ch. 124][/us/act/1921-03-03/ch124], [41 Stat. 1291][/us/stat/41/1291]; [Pub. L. 110–140, title V, § 505(2)][/us/pl/110/140/s505/2], Dec. 19, 2007, [121 Stat. 1657][/us/stat/121/1657].)
+([Mar. 4, 1911, ch. 285][/us/act/1911-03-04/ch285], [36 Stat. 1414][/us/stat/36/1414]; [Mar. 3, 1921, ch. 124][/us/act/1921-03-03/ch124], [41 Stat. 1291][/us/stat/41/1291]; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 505(2), Dec. 19, 2007, [121 Stat. 1657][/us/stat/121/1657].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Codification__ 
 
-    Section was classified to section 185 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 185 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is based on act Mar. 4, 1911, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1912”. It followed an appropriation for the Capitol power plant.
 
@@ -91,7 +91,7 @@
 
  __Management and Operation of the Capitol Power Plant__ 
 
-[Pub. L. 108–447, div. G, title I, § 1101][/us/pl/108/447/s1101], Dec. 8, 2004, [118 Stat. 3185][/us/stat/118/3185], provided that:
+[Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1101, Dec. 8, 2004, [118 Stat. 3185][/us/stat/118/3185], provided that:
 
 >     “(a)  __Definition__  __.—__ 
 
@@ -129,7 +129,7 @@
 
  __General Services Administration Coal Yard__ 
 
-[Pub. L. 100–458, title I][/us/pl/100/458], Oct. 1, 1988, [102 Stat. 2170][/us/stat/102/2170], provided: 
+[Pub. L. 100–458, title I][/us/pl/100/458/tI], Oct. 1, 1988, [102 Stat. 2170][/us/stat/102/2170], provided: 
 
 > “That appropriations under this head \[“Capitol Power Plant”\] shall hereafter be available for maintenance, alterations, personal and other services, and for all other necessary expenses of the Government owned property, buildings and facilities located in Lot 803, Square 695, formerly known as the General Services Administration Coal Yard at 42 I Street, S.E., in the District of Columbia.”
 
@@ -145,12 +145,12 @@
 [/us/stat/36/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1414
 [/us/act/1921-03-03/ch124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-03%2Fch124
 [/us/stat/41/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1291
-[/us/pl/110/140/s505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs505%2F2
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1657
 [/us/act/1904-04-28/ch1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-28%2Fch1762
 [/us/stat/33/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F452
 [/us/stat/33/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F479
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t2/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2001
@@ -158,9 +158,9 @@
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/108/447/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1101
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3185
-[/us/pl/100/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2170
 
 

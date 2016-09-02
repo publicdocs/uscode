@@ -17,7 +17,7 @@
 
     During any fiscal year (commencing with the fiscal year beginning October 1, 1982) the Secretary of the Senate is authorized to make such transfers between appropriations of funds available for disbursement by him during such year, subject to the approval of the Committee on Appropriations of the Senate.
 
-([Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189].)
+([Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189].)
 
  __Codification__ 
 
@@ -29,9 +29,9 @@
 
 Provisions authorizing Secretary of Senate, as Disbursing Officer of Senate, to make such transfers between appropriations of funds available for disbursement by him for specific fiscal years, as he deems appropriate, subject to customary reprograming procedures of Senate Committee on Appropriations were contained in the following appropriation acts:
 
-    [Pub. L. 97–51, § 113][/us/pl/97/51/s113], Oct. 1, 1981, [95 Stat. 963][/us/stat/95/963].
+    [Pub. L. 97–51][/us/pl/97/51], § 113, Oct. 1, 1981, [95 Stat. 963][/us/stat/95/963].
 
-    [Pub. L. 97–12, title I, § 107][/us/pl/97/12/s107], June 5, 1981, [95 Stat. 62][/us/stat/95/62].
+    [Pub. L. 97–12, title I][/us/pl/97/12/tI], § 107, June 5, 1981, [95 Stat. 62][/us/stat/95/62].
 
 ----------
 
@@ -40,13 +40,13 @@ Provisions authorizing Secretary of Senate, as Disbursing Officer of Senate, to 
 ----------
 ----------
 
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
 [/us/usc/t2/s64–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs64%E2%80%932
 [/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
-[/us/pl/97/51/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs113
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F963
-[/us/pl/97/12/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2Fs107
+[/us/pl/97/12/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2FtI
 [/us/stat/95/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F62
 
 

@@ -17,7 +17,7 @@
 
     The symbol of his office shall be the mace, which shall be borne by him while enforcing order on the floor.
 
-([Oct. 1, 1890, ch. 1256, § 2][/us/act/1890-10-01/ch1256/s2], [26 Stat. 645][/us/stat/26/645].)
+([Oct. 1, 1890, ch. 1256][/us/act/1890-10-01/ch1256], § 2, [26 Stat. 645][/us/stat/26/645].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1256%2Fs2
+[/us/act/1890-10-01/ch1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1256
 [/us/stat/26/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F645
 [/us/usc/t2/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs79
 

@@ -17,7 +17,7 @@
 
     From and after October 1, 1983, appropriations in this Act available to the Library of Congress for salaries shall be available for expenses of personnel security and suitability investigations of Library employees; special and temporary services (including employees engaged by day or hour or in piecework); and services as authorized by [section 3109 of title 5][/us/usc/t5/s3109].
 
-([Pub. L. 98–51, title II, § 201][/us/pl/98/51/s201], July 14, 1983, [97 Stat. 276][/us/stat/97/276].)
+([Pub. L. 98–51, title II][/us/pl/98/51/tII], § 201, July 14, 1983, [97 Stat. 276][/us/stat/97/276].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/98/51/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs201
+[/us/pl/98/51/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtII
 [/us/stat/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F276
 [/us/pl/98/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51
 [/us/stat/97/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F263

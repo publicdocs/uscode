@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 96 derived from [act Feb. 5, 1859, ch. 22, § 11][/us/act/1859-02-05/ch22/s11], [11 Stat. 381][/us/stat/11/381].
+    R.S. § 96 derived from [act Feb. 5, 1859, ch. 22][/us/act/1859-02-05/ch22], § 11, [11 Stat. 381][/us/stat/11/381].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1859-02-05/ch22/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1859-02-05%2Fch22%2Fs11
+[/us/act/1859-02-05/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1859-02-05%2Fch22
 [/us/stat/11/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F381
 
 

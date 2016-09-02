@@ -29,7 +29,7 @@
 
         The Librarian shall publish in the Federal Register the name of each sound recording that is selected for inclusion in the National Recording Registry.
 
-([Pub. L. 106–474, title I, § 102][/us/pl/106/474/s102], Nov. 9, 2000, [114 Stat. 2085][/us/stat/114/2085].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 102, Nov. 9, 2000, [114 Stat. 2085][/us/stat/114/2085].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/106/474/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs102
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2085
 
 

@@ -17,7 +17,7 @@
 
     Effective with respect to fiscal years beginning with fiscal year 1995, in the case of mail from outside sources presented to the Chief Administrative Officer of the House of Representatives (other than mail through the Postal Service and mail with postage otherwise paid) for internal delivery in the House of Representatives, the Chief Administrative Officer is authorized to collect fees equal to the applicable postage. Amounts received by the Chief Administrative Officer as fees under the preceding sentence shall be deposited in the Treasury for credit to the account of the Office of the Chief Administrative Officer.
 
-([Pub. L. 104–53, title I, § 101][/us/pl/104/53/s101], Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520]; [Pub. L. 110–161, div. H, title I, § 103(a)][/us/pl/110/161/s103/a], Dec. 26, 2007, [121 Stat. 2225][/us/stat/121/2225].)
+([Pub. L. 104–53, title I][/us/pl/104/53/tI], § 101, Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 103(a), Dec. 26, 2007, [121 Stat. 2225][/us/stat/121/2225].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–161, div. H, title I, § 103(b)][/us/pl/110/161/s103/b], Dec. 26, 2007, [121 Stat. 2225][/us/stat/121/2225], provided that: 
+[Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 103(b), Dec. 26, 2007, [121 Stat. 2225][/us/stat/121/2225], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/104/53/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs101
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F520
-[/us/pl/110/161/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs103%2Fa
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2225
 [/us/usc/t2/s117j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117j
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/161/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs103%2Fb
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2225
 
 

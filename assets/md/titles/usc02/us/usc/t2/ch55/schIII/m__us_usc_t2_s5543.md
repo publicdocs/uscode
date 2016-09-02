@@ -17,7 +17,7 @@
 
     Effective with respect to fiscal years beginning with fiscal year 1995, amounts received by the Chief Administrative Officer of the House of Representatives from the Administrator of General Services for rebates under the Government Travel Charge Card Program shall be deposited in the Treasury as miscellaneous receipts.
 
-([Pub. L. 104–53, title I, § 102][/us/pl/104/53/s102], Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520].)
+([Pub. L. 104–53, title I][/us/pl/104/53/tI], § 102, Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/53/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs102
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F520
 [/us/usc/t2/s117k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117k
 

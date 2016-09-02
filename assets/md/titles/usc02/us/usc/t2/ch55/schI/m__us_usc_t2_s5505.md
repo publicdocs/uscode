@@ -27,7 +27,7 @@
 
         (2) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-([Pub. L. 104–186, title I, § 105][/us/pl/104/186/s105], Aug. 20, 1996, [110 Stat. 1721][/us/stat/110/1721].)
+([Pub. L. 104–186, title I][/us/pl/104/186/tI], § 105, Aug. 20, 1996, [110 Stat. 1721][/us/stat/110/1721].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in former [section 95 of this title][/us/usc/t2/s95] prior to amendment of that section by [Pub. L. 104–186, title I, § 105(c)][/us/pl/104/186/s105/c], Aug. 20, 1996, [110 Stat. 1722][/us/stat/110/1722].
+    Provisions similar to those in this section were contained in former [section 95 of this title][/us/usc/t2/s95] prior to amendment of that section by [Pub. L. 104–186, title I][/us/pl/104/186/tI], § 105(c), Aug. 20, 1996, [110 Stat. 1722][/us/stat/110/1722].
 
  __Change of Name__ 
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/104/186/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs105
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1721
 [/us/usc/t2/s95–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95%E2%80%931
 [/us/pl/104/186/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs105
 [/us/pl/104/186/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs105
 [/us/usc/t2/s95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95
 [/us/usc/t2/s95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95
-[/us/pl/104/186/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs105%2Fc
+[/us/pl/104/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtI
 [/us/stat/110/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1722
 
 

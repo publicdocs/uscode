@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137a _us_usc_t2_s137b.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
 
 ## § 137c. Withdrawal of books from Library of Congress
 
     The chief judge and associate judges of the United States Court of Appeals for the District of Columbia and the chief judge and associate judges of the United States District Court for the District of Columbia are authorized to use and take books from the Library of Congress in the same manner and subject to the same regulations as justices of the Supreme Court of the United States.
 
-(Joint Res. No. 9, Jan. 27, 1894, [28 Stat. 577][/us/stat/28/577]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], (b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107].)
+(Joint Res. No. 9, Jan. 27, 1894, [28 Stat. 577][/us/stat/28/577]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), (b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107].)
 
  __Change of Name__ 
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137a _us_usc_t2_s137b.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
 
 ----------
 ----------
@@ -39,9 +39,9 @@
 [/us/stat/48/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F926
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
 
 

@@ -41,7 +41,7 @@
 
         This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-([Pub. L. 107–206, title I, § 905][/us/pl/107/206/s905], Aug. 2, 2002, [116 Stat. 877][/us/stat/116/877]; [Pub. L. 109–55, title I, § 1202(a)][/us/pl/109/55/s1202/a], Aug. 2, 2005, [119 Stat. 579][/us/stat/119/579].)
+([Pub. L. 107–206, title I][/us/pl/107/206/tI], § 905, Aug. 2, 2002, [116 Stat. 877][/us/stat/116/877]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1202(a), Aug. 2, 2005, [119 Stat. 579][/us/stat/119/579].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Codification__ 
 
-    Section was classified to section 166k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–55, title I, § 1202(b)][/us/pl/109/55/s1202/b], Aug. 2, 2005, [119 Stat. 579][/us/stat/119/579], provided that: 
+[Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1202(b), Aug. 2, 2005, [119 Stat. 579][/us/stat/119/579], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to leases entered into on or after the date of the enactment of this Act \[Aug. 2, 2005\].”
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/107/206/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs905
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F877
-[/us/pl/109/55/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1202%2Fa
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F579
 [/us/act/1946-07-31/ch707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fch707
 [/us/stat/60/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F718
@@ -81,10 +81,10 @@
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
 [/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
-[/us/pl/109/55/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1202%2Fb
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F579
 
 

@@ -17,7 +17,7 @@
 
     When any duty is imposed upon a committee involving expenses that are ordered to be paid out of the contingent fund of the Senate, upon vouchers to be approved by the chairman of the committee charged with such duty, the receipt of such chairman for any sum advanced to him or his order out of said contingent fund by the Secretary of the Senate for committee expenses not involving personal services shall be taken and passed by the accounting officers of the Government as a full and sufficient voucher; but it shall be the duty of such chairman, as soon as practicable, to furnish to the Secretary of the Senate vouchers in detail for the expenses so incurred.
 
-([Mar. 3, 1879, ch. 183][/us/act/1879-03-03/ch183], [20 Stat. 419][/us/stat/20/419]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; [June 22, 1949, ch. 235, § 101][/us/act/1949-06-22/ch235/s101], [63 Stat. 218][/us/stat/63/218].)
+([Mar. 3, 1879, ch. 183][/us/act/1879-03-03/ch183], [20 Stat. 419][/us/stat/20/419]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; [June 22, 1949, ch. 235][/us/act/1949-06-22/ch235], § 101, [63 Stat. 218][/us/stat/63/218].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 [/us/stat/20/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F419
 [/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
-[/us/act/1949-06-22/ch235/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235%2Fs101
+[/us/act/1949-06-22/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235
 [/us/stat/63/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F218
 [/us/usc/t2/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs69
 

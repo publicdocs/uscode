@@ -39,7 +39,7 @@
 
         Service of a motion permitted under this section alters the time for serving the answer as follows, unless a different time is fixed by order of the committee: If the committee denies the motion or postpones its disposition until the hearing on the merits, the answer shall be served within ten days after notice of such action. If the committee grants a motion for a more definite statement the answer shall be served within ten days after service of the more definite statement.
 
-([Pub. L. 91–138, § 4][/us/pl/91/138/s4], Dec. 5, 1969, [83 Stat. 285][/us/stat/83/285].)
+([Pub. L. 91–138][/us/pl/91/138], § 4, Dec. 5, 1969, [83 Stat. 285][/us/stat/83/285].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t2/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs382
-[/us/pl/91/138/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs4
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F285
 
 

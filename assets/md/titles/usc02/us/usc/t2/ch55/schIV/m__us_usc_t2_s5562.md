@@ -25,7 +25,7 @@
 
     (b) Subsection (a) shall apply with respect to reports, statements, and documents filed before, on, or after December 8, 2004.
 
-([Pub. L. 108–447, div. G, title I, § 106][/us/pl/108/447/s106], Dec. 8, 2004, [118 Stat. 3176][/us/stat/118/3176].)
+([Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 106, Dec. 8, 2004, [118 Stat. 3176][/us/stat/118/3176].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs106
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3176
 [/us/usc/t2/s104c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104c
 

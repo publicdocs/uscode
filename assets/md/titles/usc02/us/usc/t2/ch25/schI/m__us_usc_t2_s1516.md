@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Congressional Budget Office $4,500,000 for each of the fiscal years 1996, 1997, 1998, 1999, 2000, 2001, and 2002 to carry out the provisions of this subchapter.
 
-([Pub. L. 104–4, title I, § 109][/us/pl/104/4/s109], Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
+([Pub. L. 104–4, title I][/us/pl/104/4/tI], § 109, Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/4/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs109
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F64
 [/us/pl/104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4
 [/us/stat/109/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F50

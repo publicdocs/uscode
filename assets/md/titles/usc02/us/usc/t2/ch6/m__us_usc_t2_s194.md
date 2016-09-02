@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 104 derived from [act Jan. 24, 1857, ch. 19, § 3][/us/act/1857-01-24/ch19/s3], [11 Stat. 156][/us/stat/11/156].
+    R.S. § 104 derived from [act Jan. 24, 1857, ch. 19][/us/act/1857-01-24/ch19], § 3, [11 Stat. 156][/us/stat/11/156].
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 [/us/stat/49/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2041
 [/us/act/1938-06-22/ch594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch594
 [/us/stat/52/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F942
-[/us/act/1857-01-24/ch19/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1857-01-24%2Fch19%2Fs3
+[/us/act/1857-01-24/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1857-01-24%2Fch19
 [/us/stat/11/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F156
 
 

@@ -17,7 +17,7 @@
 
     Standing committees of the House shall have authority to approve the employment and compensation of committee employees (other than special and select committee employees) from the effective date of the beginning of each Congress, or such subsequent date as their service commenced.
 
-([Pub. L. 87–130, § 103][/us/pl/87/130/s103], Aug. 10, 1961, [75 Stat. 334][/us/stat/75/334].)
+([Pub. L. 87–130][/us/pl/87/130], § 103, Aug. 10, 1961, [75 Stat. 334][/us/stat/75/334].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/87/130/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F130%2Fs103
+[/us/pl/87/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F130
 [/us/stat/75/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F334
 [/us/usc/t2/s72a–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%931b
 [/us/pl/87/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F130

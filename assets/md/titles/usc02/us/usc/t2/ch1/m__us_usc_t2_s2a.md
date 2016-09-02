@@ -21,7 +21,7 @@
 
     (c) Until a State is redistricted in the manner provided by the law thereof after any apportionment, the Representatives to which such State is entitled under such apportionment shall be elected in the following manner: (1) If there is no change in the number of Representatives, they shall be elected from the districts then prescribed by the law of such State, and if any of them are elected from the State at large they shall continue to be so elected; (2) if there is an increase in the number of Representatives, such additional Representative or Representatives shall be elected from the State at large and the other Representatives from the districts then prescribed by the law of such State; (3) if there is a decrease in the number of Representatives but the number of districts in such State is equal to such decreased number of Representatives, they shall be elected from the districts then prescribed by the law of such State; (4) if there is a decrease in the number of Representatives but the number of districts in such State is less than such number of Representatives, the number of Representatives by which such number of districts is exceeded shall be elected from the State at large and the other Representatives from the districts then prescribed by the law of such State; or (5) if there is a decrease in the number of Representatives and the number of districts in such State exceeds such decreased number of Representatives, they shall be elected from the State at large.
 
-([June 18, 1929, ch. 28, § 22][/us/act/1929-06-18/ch28/s22], [46 Stat. 26][/us/stat/46/26]; [Apr. 25, 1940, ch. 152][/us/act/1940-04-25/ch152], [54 Stat. 162][/us/stat/54/162]; [Nov. 15, 1941, ch. 470, § 1][/us/act/1941-11-15/ch470/s1], [55 Stat. 761][/us/stat/55/761]; [Pub. L. 104–186, title II, § 201][/us/pl/104/186/s201], Aug. 20, 1996, [110 Stat. 1724][/us/stat/110/1724].)
+([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 22, [46 Stat. 26][/us/stat/46/26]; [Apr. 25, 1940, ch. 152][/us/act/1940-04-25/ch152], [54 Stat. 162][/us/stat/54/162]; [Nov. 15, 1941, ch. 470][/us/act/1941-11-15/ch470], § 1, [55 Stat. 761][/us/stat/55/761]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 201, Aug. 20, 1996, [110 Stat. 1724][/us/stat/110/1724].)
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/act/1929-06-18/ch28/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs22
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F26
 [/us/act/1940-04-25/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-04-25%2Fch152
 [/us/stat/54/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F162
-[/us/act/1941-11-15/ch470/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch470%2Fs1
+[/us/act/1941-11-15/ch470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch470
 [/us/stat/55/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F761
-[/us/pl/104/186/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs201
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1724
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

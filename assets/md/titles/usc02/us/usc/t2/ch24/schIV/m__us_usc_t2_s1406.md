@@ -41,7 +41,7 @@
 
         The Board shall issue a written decision setting forth the reasons for its decision. The decision may affirm, reverse, or remand to the hearing officer for further proceedings. A decision that does not require further proceedings before a hearing officer shall be entered in the records of the Office as a final decision.
 
-([Pub. L. 104–1, title IV, § 406][/us/pl/104/1/s406], Jan. 23, 1995, [109 Stat. 35][/us/stat/109/35].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 406, Jan. 23, 1995, [109 Stat. 35][/us/stat/109/35].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t2/s1405/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1405%2Fg
-[/us/pl/104/1/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs406
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F35
 
 

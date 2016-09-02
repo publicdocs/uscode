@@ -31,17 +31,17 @@
 
         The Committee on Rules and Administration of the Senate in consultation with the Architect of the Capitol and consistent with regulations prescribed by the Commission under subsection (b) of this section, shall have responsibility for the supervision, protection, and placement of all works of art, historical objects, and exhibits which shall have been accepted on behalf of the Senate by the Commission or acknowledged as United States property by inventory of the Commission, and which may be lodged in the Senate wing of the Capitol or the Senate Office Buildings by the Commission.
 
-([Pub. L. 100–696, title IX, § 901(a)][/us/pl/100/696/s901/a], (b)(2), Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610], 4611.)
+([Pub. L. 100–696, title IX][/us/pl/100/696/tIX], § 901(a), (b)(2), Nov. 18, 1988, [102 Stat. 4610][/us/stat/102/4610], 4611.)
 
  __Codification__ 
 
-    Section was classified to section 188b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is based on section 2 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law and amended by [Pub. L. 100–696][/us/pl/100/696].
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–696, § 901(b)(2)][/us/pl/100/696/s901/b/2], substituted “protect, and make known” for “and protect” and “Senate wing of the United States Capitol, any Senate Office Buildings” for “Senate wing of the Capitol”.
+    1988—Subsec. (a). [Pub. L. 100–696][/us/pl/100/696], § 901(b)(2), substituted “protect, and make known” for “and protect” and “Senate wing of the United States Capitol, any Senate Office Buildings” for “Senate wing of the Capitol”.
 
 ----------
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t2/s2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2183
-[/us/pl/100/696/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs901%2Fa
+[/us/pl/100/696/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtIX
 [/us/stat/102/4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4610
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696
-[/us/pl/100/696/s901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs901%2Fb%2F2
+[/us/pl/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696
 
 

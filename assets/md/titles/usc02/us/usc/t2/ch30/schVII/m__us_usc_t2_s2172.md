@@ -89,7 +89,7 @@
 
             The Director of Accessibility Services shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Director. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
 
-([Pub. L. 101–163, title III, § 310][/us/pl/101/163/s310], Nov. 21, 1989, [103 Stat. 1065][/us/stat/103/1065]; [Pub. L. 104–53, title I, § 112][/us/pl/104/53/s112], Nov. 19, 1995, [109 Stat. 525][/us/stat/109/525]; [Pub. L. 110–437, title IV, § 411(a)][/us/pl/110/437/s411/a], Oct. 20, 2008, [122 Stat. 4993][/us/stat/122/4993].)
+([Pub. L. 101–163, title III][/us/pl/101/163/tIII], § 310, Nov. 21, 1989, [103 Stat. 1065][/us/stat/103/1065]; [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 112, Nov. 19, 1995, [109 Stat. 525][/us/stat/109/525]; [Pub. L. 110–437, title IV][/us/pl/110/437/tIV], § 411(a), Oct. 20, 2008, [122 Stat. 4993][/us/stat/122/4993].)
 
  __Codification__ 
 
@@ -115,11 +115,11 @@
 ----------
 
 [/us/usc/t40/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5101
-[/us/pl/101/163/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs310
+[/us/pl/101/163/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtIII
 [/us/stat/103/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1065
-[/us/pl/104/53/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs112
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F525
-[/us/pl/110/437/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs411%2Fa
+[/us/pl/110/437/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIV
 [/us/stat/122/4993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4993
 [/us/usc/t2/s130e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130e
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437

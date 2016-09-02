@@ -19,7 +19,7 @@
 
     (b) The Page Board shall meet regularly, in accordance with a schedule established jointly by the Speaker and minority leader of the House of Representatives.
 
-([Pub. L. 97–377, title I, § 127][/us/pl/97/377/s127], Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914]; [Pub. L. 110–2, § 3][/us/pl/110/2/s3], Feb. 2, 2007, [121 Stat. 5][/us/stat/121/5].)
+([Pub. L. 97–377, title I][/us/pl/97/377/tI], § 127, Dec. 21, 1982, [96 Stat. 1914][/us/stat/96/1914]; [Pub. L. 110–2][/us/pl/110/2], § 3, Feb. 2, 2007, [121 Stat. 5][/us/stat/121/5].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–2, § 4][/us/pl/110/2/s4], Feb. 2, 2007, [121 Stat. 5][/us/stat/121/5], provided that: 
+[Pub. L. 110–2][/us/pl/110/2], § 4, Feb. 2, 2007, [121 Stat. 5][/us/stat/121/5], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 4912 of this title][/us/usc/t2/s4912]\] shall apply with respect to the portion of the One Hundred Tenth Congress which begins after the date of the enactment of this Act \[Feb. 2, 2007\] and each succeeding Congress.”
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/97/377/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs127
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1914
-[/us/pl/110/2/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs3
+[/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
 [/us/stat/121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F5
 [/us/usc/t2/s88b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%932
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
 [/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
-[/us/pl/110/2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2%2Fs4
+[/us/pl/110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F2
 [/us/stat/121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F5
 [/us/usc/t2/s4912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4912
 [/us/stat/121/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F4

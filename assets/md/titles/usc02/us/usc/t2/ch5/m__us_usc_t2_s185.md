@@ -81,7 +81,7 @@
 
         This section shall be effective on August 2, 2005.
 
-([Pub. L. 109–55, title I, § 1307][/us/pl/109/55/s1307], Aug. 2, 2005, [119 Stat. 583][/us/stat/119/583]; [Pub. L. 110–161, div. H, title I, § 1004(d)(3)][/us/pl/110/161/s1004/d/3], Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178, § 4(c)][/us/pl/110/178/s4/c], Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145, § 6(d)(1)][/us/pl/111/145/s6/d/1], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
+([Pub. L. 109–55, title I][/us/pl/109/55/tI], § 1307, Aug. 2, 2005, [119 Stat. 583][/us/stat/119/583]; [Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1004(d)(3), Dec. 26, 2007, [121 Stat. 2234][/us/stat/121/2234]; [Pub. L. 110–178][/us/pl/110/178], § 4(c), Jan. 7, 2008, [121 Stat. 2552][/us/stat/121/2552]; [Pub. L. 111–145][/us/pl/111/145], § 6(d)(1), Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54].)
 
  __References in Text__ 
 
@@ -93,11 +93,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161, § 1004(d)(3)][/us/pl/110/161/s1004/d/3]. See 2007 Amendment note below.
+    2010—Subsec. (b)(1). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(3). See 2007 Amendment note below.
 
     2008—Subsec. (b)(1). [Pub. L. 110–178][/us/pl/110/178] inserted “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police” before semicolon at end.
 
-    2007—Subsec. (b)(1). [Pub. L. 110–161, § 1004(d)(3)][/us/pl/110/161/s1004/d/3], which made amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
+    2007—Subsec. (b)(1). [Pub. L. 110–161][/us/pl/110/161], § 1004(d)(3), which made amendment identical to that made by [Pub. L. 110–178][/us/pl/110/178], was repealed by [Pub. L. 111–145][/us/pl/111/145]. See Effective Date of 2010 Amendment note below.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -114,20 +114,20 @@
 ----------
 ----------
 
-[/us/pl/109/55/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1307
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F583
-[/us/pl/110/161/s1004/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F3
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2234
-[/us/pl/110/178/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178%2Fs4%2Fc
+[/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/stat/121/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2552
-[/us/pl/111/145/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs6%2Fd%2F1
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F54
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
-[/us/pl/110/161/s1004/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F3
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
-[/us/pl/110/161/s1004/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004%2Fd%2F3
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F178
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/110/161/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1004

@@ -51,7 +51,7 @@
 
         This section shall apply to fiscal year 2008 and each fiscal year thereafter.
 
-([Pub. L. 110–161, div. H, title I, § 1201][/us/pl/110/161/s1201], Dec. 26, 2007, [121 Stat. 2238][/us/stat/121/2238]; [Pub. L. 111–68, div. A, title I, § 1201][/us/pl/111/68/s1201], Oct. 1, 2009, [123 Stat. 2032][/us/stat/123/2032].)
+([Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1201, Dec. 26, 2007, [121 Stat. 2238][/us/stat/121/2238]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1201, Oct. 1, 2009, [123 Stat. 2032][/us/stat/123/2032].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (b)(1), (2). [Pub. L. 111–68, § 1201(1)][/us/pl/111/68/s1201/1], substituted “5” for “3”.
+    2009—Subsec. (b)(1), (2). [Pub. L. 111–68][/us/pl/111/68], § 1201(1), substituted “5” for “3”.
 
-    Subsecs. (d), (e). [Pub. L. 111–68, § 1201(2)][/us/pl/111/68/s1201/2], (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”
+    Subsecs. (d), (e). [Pub. L. 111–68][/us/pl/111/68], § 1201(2), (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”
 
 ----------
 
@@ -77,15 +77,15 @@
 ----------
 
 [/us/usc/t26/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1043
-[/us/pl/110/161/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1201
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2238
-[/us/pl/111/68/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1201
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2032
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/usc/t2/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs611
-[/us/pl/111/68/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1201%2F1
-[/us/pl/111/68/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1201%2F2
+[/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
+[/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 
 

@@ -19,11 +19,11 @@
 
     (2) The report by the Architect of the Capitol under paragraph (1) for the semiannual period beginning on January 1, 1976, shall include the period beginning on July 1, 1976, and ending on September 30, 1976, and such semiannual period shall be treated as closing on September 30, 1976. Thereafter, the report by the Architect of the Capitol under paragraph (1) shall be for the semiannual periods beginning on October 1 and ending on March 31 and beginning on April 1 and ending on September 30 of each year.
 
-([Pub. L. 88–454, § 105(b)][/us/pl/88/454/s105/b], Aug. 20, 1964, [78 Stat. 551][/us/stat/78/551]; [Pub. L. 94–303, title I, § 118(c)][/us/pl/94/303/s118/c], June 1, 1976, [90 Stat. 616][/us/stat/90/616].)
+([Pub. L. 88–454][/us/pl/88/454], § 105(b), Aug. 20, 1964, [78 Stat. 551][/us/stat/78/551]; [Pub. L. 94–303, title I][/us/pl/94/303/tI], § 118(c), June 1, 1976, [90 Stat. 616][/us/stat/90/616].)
 
  __Codification__ 
 
-    Section was classified to section 162b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 162b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/88/454/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454%2Fs105%2Fb
+[/us/pl/88/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F454
 [/us/stat/78/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F551
-[/us/pl/94/303/s118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2Fs118%2Fc
+[/us/pl/94/303/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303%2FtI
 [/us/stat/90/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F616
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/94/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F303
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

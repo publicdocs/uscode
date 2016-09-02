@@ -21,11 +21,11 @@
 
     The Disbursing Officer of the Library of Congress shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate, the responsibility for which is imposed upon a certifying officer or employee of the Office of Technology Assessment.
 
-([Pub. L. 97–51, § 101(c)][/us/pl/97/51/s101/c], Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959].)
+([Pub. L. 97–51][/us/pl/97/51], § 101(c), Oct. 1, 1981, [95 Stat. 959][/us/stat/95/959].)
 
  __Codification__ 
 
-    In the second par., “[section 3726 of title 31][/us/usc/t31/s3726]” substituted for “[section 244 of title 31][/us/usc/t31/s244]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In the second par., “[section 3726 of title 31][/us/usc/t31/s3726]” substituted for “[section 244 of title 31][/us/usc/t31/s244]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section is based on section 205 of title II of H.R. 4120, as reported July 9, 1981, and incorporated by reference in [section 101(c) of Pub. L. 97–51][/us/pl/97/51/s101/c], to be effective as if enacted into law.
 
@@ -38,11 +38,11 @@
 
 [/us/usc/t5/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5504
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
-[/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
+[/us/pl/97/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51
 [/us/stat/95/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F959
 [/us/usc/t31/s3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3726
 [/us/usc/t31/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs244
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/97/51/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F51%2Fs101%2Fc
 

@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 61h–5, [Pub. L. 95–26, title I][/us/pl/95/26], May 4, 1977, [91 Stat. 80][/us/stat/91/80], authorizing the Majority Leader and the Minority Leader to appoint, respectively, an Assistant to the Majority Leader for Floor Operations and an Assistant to the Minority Leader for Floor Operations, was omitted in view of [section 101(b) of Pub. L. 98–51][/us/pl/98/51/s101/b], title I, July 14, 1983, [97 Stat. 265][/us/stat/97/265], which provided that effective Oct. 1, 1983, the positions of Assistant to the Majority Leader for Floor Operations and Assistant to the Minority Leader for Floor Operations established by the Supplemental Appropriations Act, 1977 ([Pub. L. 95–26][/us/pl/95/26]) were abolished.
+    A prior section 61h–5, [Pub. L. 95–26, title I][/us/pl/95/26/tI], May 4, 1977, [91 Stat. 80][/us/stat/91/80], authorizing the Majority Leader and the Minority Leader to appoint, respectively, an Assistant to the Majority Leader for Floor Operations and an Assistant to the Minority Leader for Floor Operations, was omitted in view of [section 101(b) of Pub. L. 98–51][/us/pl/98/51/s101/b], title I, July 14, 1983, [97 Stat. 265][/us/stat/97/265], which provided that effective Oct. 1, 1983, the positions of Assistant to the Majority Leader for Floor Operations and Assistant to the Minority Leader for Floor Operations established by the Supplemental Appropriations Act, 1977 ([Pub. L. 95–26][/us/pl/95/26]) were abolished.
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s6132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6132
-[/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F80
 [/us/pl/98/51/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs101%2Fb
 [/us/stat/97/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F265

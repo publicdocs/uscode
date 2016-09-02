@@ -17,7 +17,7 @@
 
     The Commission shall submit to the President a report of the results of each review conducted by the Commission with respect to rates of pay for the offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of [section 356 of this title][/us/usc/t2/s356], together with its recommendations. Each such report shall be submitted on such date as the President may designate but not later than December 15 next following the close of the fiscal year in which the review is conducted by the Commission.
 
-([Pub. L. 90–206, title II, § 225(g)][/us/pl/90/206/s225/g], Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 99–190, § 135(c)][/us/pl/99/190/s135/c], Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII, § 701(e)][/us/pl/101/194/s701/e], Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(g), Dec. 16, 1967, [81 Stat. 644][/us/stat/81/644]; [Pub. L. 99–190][/us/pl/99/190], § 135(c), Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(e), Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __1985__  __Fiscal Year Recommendations on Pay Rates of Offices and Positions__ 
 
-[Pub. L. 99–190, § 135(g)][/us/pl/99/190/s135/g], Dec. 19, 1985, [99 Stat. 1323][/us/stat/99/1323], provided that: 
+[Pub. L. 99–190][/us/pl/99/190], § 135(g), Dec. 19, 1985, [99 Stat. 1323][/us/stat/99/1323], provided that: 
 
 > “Notwithstanding section 225(g) of such Act ([2 U.S.C. 357][/us/usc/t2/s357]), the Commission on Executive, Legislative, and Judicial Salaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act ([2 U.S.C. 356][/us/usc/t2/s356]) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
 
@@ -39,15 +39,15 @@
 ----------
 
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356
-[/us/pl/90/206/s225/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fg
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F644
-[/us/pl/99/190/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs135%2Fc
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1322
-[/us/pl/101/194/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fe
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1764
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
-[/us/pl/99/190/s135/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs135%2Fg
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1323
 [/us/usc/t2/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs357
 [/us/usc/t2/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs356

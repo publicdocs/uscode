@@ -27,7 +27,7 @@
 
     (5) At the direction of the Speaker, to perform on behalf of the House of Representatives any legal services which are within the capabilities of the Office and the performance of which would not be inconsistent with the provisions of [section 281a of this title][/us/usc/t2/s281a] or the preceding provisions of this section.
 
-([Pub. L. 91–510, title V, § 503][/us/pl/91/510/s503], Oct. 26, 1970, [84 Stat. 1202][/us/stat/84/1202].)
+([Pub. L. 91–510, title V][/us/pl/91/510/tV], § 503, Oct. 26, 1970, [84 Stat. 1202][/us/stat/84/1202].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s281a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs281a
-[/us/pl/91/510/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs503
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1202
 
 

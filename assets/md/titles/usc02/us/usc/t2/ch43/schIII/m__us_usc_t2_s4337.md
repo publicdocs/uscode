@@ -33,7 +33,7 @@
 
         This section shall take effect on October 1, 1998, and shall be effective with respect to fiscal years beginning on or after that date.
 
-([Pub. L. 105–275, title I, § 11][/us/pl/105/275/s11], Oct. 21, 1998, [112 Stat. 2435][/us/stat/112/2435].)
+([Pub. L. 105–275, title I][/us/pl/105/275/tI], § 11, Oct. 21, 1998, [112 Stat. 2435][/us/stat/112/2435].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/105/275/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs11
+[/us/pl/105/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtI
 [/us/stat/112/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2435
 [/us/usc/t2/s72d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72d%E2%80%931
 

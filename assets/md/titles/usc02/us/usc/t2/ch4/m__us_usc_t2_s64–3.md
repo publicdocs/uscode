@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 95–26, title I, § 111][/us/pl/95/26/s111], May 4, 1977, [91 Stat. 87][/us/stat/91/87]; [Pub. L. 108–7, div. H, title I, § 1018(h)(3)][/us/pl/108/7/s1018/h/3], Feb. 20, 2003, [117 Stat. 369][/us/stat/117/369], which related to reimbursement for Capitol Police salaries paid by Capitol Police for service at Federal Law Enforcement Training Center, was transferred to [section 1905a of this title][/us/usc/t2/s1905a].
+    Section, [Pub. L. 95–26, title I][/us/pl/95/26/tI], § 111, May 4, 1977, [91 Stat. 87][/us/stat/91/87]; [Pub. L. 108–7, div. H, title I][/us/pl/108/7/dH/tI], § 1018(h)(3), Feb. 20, 2003, [117 Stat. 369][/us/stat/117/369], which related to reimbursement for Capitol Police salaries paid by Capitol Police for service at Federal Law Enforcement Training Center, was transferred to [section 1905a of this title][/us/usc/t2/s1905a].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/95/26/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs111
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F87
-[/us/pl/108/7/s1018/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018%2Fh%2F3
+[/us/pl/108/7/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtI
 [/us/stat/117/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F369
 [/us/usc/t2/s1905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1905a
 

@@ -17,7 +17,7 @@
 
     Paper, envelopes, and blank books required by the stationery rooms of the Senate and House of Representatives for sale to Senators and Members for official use may be purchased from the Director of the Government Publishing Office at actual cost thereof and payment therefor shall be made before delivery.
 
-([June 5, 1920, ch. 253, § 1][/us/act/1920-06-05/ch253/s1], [41 Stat. 1036][/us/stat/41/1036]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([June 5, 1920, ch. 253][/us/act/1920-06-05/ch253], § 1, [41 Stat. 1036][/us/stat/41/1036]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch253%2Fs1
+[/us/act/1920-06-05/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch253
 [/us/stat/41/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1036
-[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t2/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs110
 [/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd

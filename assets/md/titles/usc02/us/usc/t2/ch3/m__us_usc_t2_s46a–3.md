@@ -13,13 +13,13 @@
 
 [Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–2.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46a%E2%80%933)
 
-## § 46a–3. Repealed. [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k)(4), formerly § 506(h)(4), Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508], renumbered § 506(i)(4), [Pub. L. 95–391, title I, § 108(a)][/us/pl/95/391/s108/a], Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j)(4), [Pub. L. 96–304, title I, § 101][/us/pl/96/304/s101], July 8, 1980, [94 Stat. 889][/us/stat/94/889], renumbered § 506(k)(4), [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189]
+## § 46a–3. Repealed. [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k)(4), formerly § 506(h)(4), Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508], renumbered § 506(i)(4), [Pub. L. 95–391, title I][/us/pl/95/391/tI], § 108(a), Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j)(4), [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 101, July 8, 1980, [94 Stat. 889][/us/stat/94/889], renumbered § 506(k)(4), [Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189]
 
-    Section, [Pub. L. 90–417, § 106][/us/pl/90/417/s106], July 23, 1968, [82 Stat. 413][/us/stat/82/413], placed limits on the availability of the stationery allowance for Senators. See [section 6314 of this title][/us/usc/t2/s6314].
+    Section, [Pub. L. 90–417][/us/pl/90/417], § 106, July 23, 1968, [82 Stat. 413][/us/stat/82/413], placed limits on the availability of the stationery allowance for Senators. See [section 6314 of this title][/us/usc/t2/s6314].
 
  __Effective Date of Repeal__ 
 
-    [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k), formerly § 506(h), Oct. 31, 1972, [86 Stat. 1507][/us/stat/86/1507], as amended by [Pub. L. 93–145, § 101][/us/pl/93/145/s101], Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532], and renumbered § 506(i) by [Pub. L. 95–391, title I, § 108(a)][/us/pl/95/391/s108/a], Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j) by [Pub. L. 96–304, title I, § 101][/us/pl/96/304/s101], July 8, 1980, [94 Stat. 889][/us/stat/94/889], and renumbered § 506(k) by [Pub. L. 97–276, § 101(e)][/us/pl/97/276/s101/e], Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189], provided that, insofar as this section has application to Senators, the repeal is effective Jan. 1, 1973.
+    [Pub. L. 92–607][/us/pl/92/607], ch. V, § 506(k), formerly § 506(h), Oct. 31, 1972, [86 Stat. 1507][/us/stat/86/1507], as amended by [Pub. L. 93–145][/us/pl/93/145], § 101, Nov. 1, 1973, [87 Stat. 532][/us/stat/87/532], and renumbered § 506(i) by [Pub. L. 95–391, title I][/us/pl/95/391/tI], § 108(a), Sept. 30, 1978, [92 Stat. 773][/us/stat/92/773], renumbered § 506(j) by [Pub. L. 96–304, title I][/us/pl/96/304/tI], § 101, July 8, 1980, [94 Stat. 889][/us/stat/94/889], and renumbered § 506(k) by [Pub. L. 97–276][/us/pl/97/276], § 101(e), Oct. 2, 1982, [96 Stat. 1189][/us/stat/96/1189], provided that, insofar as this section has application to Senators, the repeal is effective Jan. 1, 1973.
 
 ----------
 
@@ -30,24 +30,24 @@
 
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1508
-[/us/pl/95/391/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs108%2Fa
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F773
-[/us/pl/96/304/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs101
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F889
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
-[/us/pl/90/417/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F417%2Fs106
+[/us/pl/90/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F417
 [/us/stat/82/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F413
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1507
-[/us/pl/93/145/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145%2Fs101
+[/us/pl/93/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F145
 [/us/stat/87/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F532
-[/us/pl/95/391/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs108%2Fa
+[/us/pl/95/391/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtI
 [/us/stat/92/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F773
-[/us/pl/96/304/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs101
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F889
-[/us/pl/97/276/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276%2Fs101%2Fe
+[/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/stat/96/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1189
 
 

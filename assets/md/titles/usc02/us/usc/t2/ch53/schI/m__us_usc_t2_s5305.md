@@ -27,7 +27,7 @@
 
     Fifth, if there be none of the above, to the duly appointed legal representative of the estate of the deceased individual, or if there be none, to the person or persons determined to be entitled thereto under the laws of the domicile of the deceased individual.
 
-([July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, § 105, [68 Stat. 409][/us/stat/68/409]; [Pub. L. 86–102][/us/pl/86/102], July 23, 1959, [73 Stat. 224][/us/stat/73/224]; [Pub. L. 104–186, title II, § 203(5)][/us/pl/104/186/s203/5], Aug. 20, 1996, [110 Stat. 1725][/us/stat/110/1725].)
+([July 2, 1954, ch. 455][/us/act/1954-07-02/ch455], title I, § 105, [68 Stat. 409][/us/stat/68/409]; [Pub. L. 86–102][/us/pl/86/102], July 23, 1959, [73 Stat. 224][/us/stat/73/224]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 203(5), Aug. 20, 1996, [110 Stat. 1725][/us/stat/110/1725].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 [/us/stat/68/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F409
 [/us/pl/86/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F102
 [/us/stat/73/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F224
-[/us/pl/104/186/s203/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs203%2F5
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1725
 [/us/usc/t2/s38a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs38a
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

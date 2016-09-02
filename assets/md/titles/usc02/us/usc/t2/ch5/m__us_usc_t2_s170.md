@@ -59,7 +59,7 @@
 
         This section may be cited as the “American Television and Radio Archives Act”.
 
-([Pub. L. 94–553, title I, § 113][/us/pl/94/553/s113], Oct. 19, 1976, [90 Stat. 2601][/us/stat/90/2601].)
+([Pub. L. 94–553, title I][/us/pl/94/553/tI], § 113, Oct. 19, 1976, [90 Stat. 2601][/us/stat/90/2601].)
 
  __Effective Date__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t17/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs106
 [/us/usc/t17/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs108%2Fa
-[/us/pl/94/553/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs113
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2601
 [/us/pl/94/553/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs102
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101

@@ -59,7 +59,7 @@
 
         This section shall take effect 1 year after January 23, 1995.
 
-([Pub. L. 104–1, title II, § 201][/us/pl/104/1/s201], Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 201, Jan. 23, 1995, [109 Stat. 7][/us/stat/109/7].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 
  __Coverage of House of Representatives and the Agencies of the Legislative Branch__ 
 
-[Pub. L. 102–166, title I, § 117][/us/pl/102/166/s117], Nov. 21, 1991, [105 Stat. 1080][/us/stat/105/1080], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
+[Pub. L. 102–166, title I][/us/pl/102/166/tI], § 117, Nov. 21, 1991, [105 Stat. 1080][/us/stat/105/1080], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __Coverage of the House of Representatives__  __.—__ 
 
@@ -137,16 +137,16 @@
 [/us/usc/t29/s626/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs626%2Ff
 [/us/usc/t29/s794a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794a%2Fa%2F1
 [/us/usc/t42/s12117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12117%2Fa
-[/us/pl/104/1/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs201
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F7
 [/us/pl/104/1/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs201
 [/us/pl/104/1/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs201
 [/us/usc/t29/s633a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs633a
-[/us/pl/102/166/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs117
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1080
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e

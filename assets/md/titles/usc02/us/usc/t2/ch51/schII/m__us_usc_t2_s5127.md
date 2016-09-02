@@ -19,7 +19,7 @@
 
     (b) For as long as he determines there is need therefor, commencing at the expiration of his term of office as a Representative in Congress, the Speaker shall be entitled to the benefits afforded by [section 733 of title 44][/us/usc/t44/s733].
 
-([Pub. L. 91–665][/us/pl/91/665], ch. VIII, Jan. 8, 1971, [84 Stat. 1989][/us/stat/84/1989]; [Pub. L. 93–532, § 1(a)][/us/pl/93/532/s1/a], Dec. 22, 1974, [88 Stat. 1723][/us/stat/88/1723].)
+([Pub. L. 91–665][/us/pl/91/665], ch. VIII, Jan. 8, 1971, [84 Stat. 1989][/us/stat/84/1989]; [Pub. L. 93–532][/us/pl/93/532], § 1(a), Dec. 22, 1974, [88 Stat. 1723][/us/stat/88/1723].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 [/us/usc/t44/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs733
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665
 [/us/stat/84/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1989
-[/us/pl/93/532/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F532%2Fs1%2Fa
+[/us/pl/93/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F532
 [/us/stat/88/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1723
 [/us/usc/t2/s31b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31b%E2%80%934
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665

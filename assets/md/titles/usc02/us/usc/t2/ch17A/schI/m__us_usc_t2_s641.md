@@ -113,7 +113,7 @@
 
         Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to [section 907d of this title][/us/usc/t2/s907d], or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\].
 
-([Pub. L. 93–344, title III, § 310][/us/pl/93/344/s310], July 12, 1974, [88 Stat. 315][/us/stat/88/315]; [Pub. L. 99–177, title II, § 201(b)][/us/pl/99/177/s201/b], Dec. 12, 1985, [99 Stat. 1053][/us/stat/99/1053]; [Pub. L. 101–508, title XIII][/us/pl/101/508], §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–618 to 1388–620; [Pub. L. 105–33, title X, § 10111][/us/pl/105/33/s10111], Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 113–67, div. A, title I, § 122(9)][/us/pl/113/67/s122/9], Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 310, July 12, 1974, [88 Stat. 315][/us/stat/88/315]; [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 201(b), Dec. 12, 1985, [99 Stat. 1053][/us/stat/99/1053]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608], 1388–618 to 1388–620; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10111, Aug. 5, 1997, [111 Stat. 685][/us/stat/111/685]; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(9), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175].)
 
  __References in Text__ 
 
@@ -121,7 +121,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1331 of Title 31][/us/usc/t31/s1331] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1331 of Title 31][/us/usc/t31/s1331] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Amendments__ 
 
@@ -129,17 +129,17 @@
 
     Subsec. (c)(1)(A)(ii). [Pub. L. 113–67][/us/pl/113/67] substituted “under that paragraph by more than—” for “under that paragraph by more than”.
 
-    1997—Subsec. (c)(1)(A)(i). [Pub. L. 105–33, § 10111(1)][/us/pl/105/33/s10111/1], substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
+    1997—Subsec. (c)(1)(A)(i). [Pub. L. 105–33][/us/pl/105/33], § 10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
-    Subsec. (c)(1)(A)(ii). [Pub. L. 105–33, § 10111(2)][/us/pl/105/33/s10111/2], substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
+    Subsec. (c)(1)(A)(ii). [Pub. L. 105–33][/us/pl/105/33], § 10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
 
-    1990—Subsec. (a)(4). [Pub. L. 101–508, § 13207(d)][/us/pl/101/508/s13207/d], inserted before period at end “(including a direction to achieve deficit reduction)”.
+    1990—Subsec. (a)(4). [Pub. L. 101–508][/us/pl/101/508], § 13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
 
-    Subsec. (c). [Pub. L. 101–508, § 13207(c)][/us/pl/101/508/s13207/c], designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
 
-    Subsec. (f). [Pub. L. 101–508, § 13210(2)][/us/pl/101/508/s13210/2], struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill or reconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
+    Subsec. (f). [Pub. L. 101–508][/us/pl/101/508], § 13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill or reconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
 
-    Subsec. (g). [Pub. L. 101–508, § 13112(a)(9)][/us/pl/101/508/s13112/a/9], substituted “joint resolution pursuant” for “resolution pursuant” and “[section 907d of this title][/us/usc/t2/s907d]” for “[section 904(b) of this title][/us/usc/t2/s904/b]”.
+    Subsec. (g). [Pub. L. 101–508][/us/pl/101/508], § 13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “[section 907d of this title][/us/usc/t2/s907d]” for “[section 904(b) of this title][/us/usc/t2/s904/b]”.
 
     1985—[Pub. L. 99–177][/us/pl/99/177] substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
 
@@ -159,7 +159,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I, § 104(a)][/us/pl/112/25/s104/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
+    Amendment by [Pub. L. 99–177][/us/pl/99/177] effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of [Pub. L. 99–177][/us/pl/99/177], formerly set out as an Effective and Termination Dates note under [section 900 of this title][/us/usc/t2/s900] prior to repeal by [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 104(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246].
 
 ----------
 
@@ -175,30 +175,30 @@
 [/us/usc/t2/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs636
 [/us/usc/t2/s907d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907d
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/93/344/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs310
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
 [/us/stat/88/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F315
-[/us/pl/99/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs201%2Fb
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1053
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-608
-[/us/pl/105/33/s10111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10111
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F685
-[/us/pl/113/67/s122/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F9
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t31/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1331
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
-[/us/pl/105/33/s10111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10111%2F1
-[/us/pl/105/33/s10111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10111%2F2
-[/us/pl/101/508/s13207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fd
-[/us/pl/101/508/s13207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13207%2Fc
-[/us/pl/101/508/s13210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13210%2F2
-[/us/pl/101/508/s13112/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fa%2F9
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t2/s907d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907d
 [/us/usc/t2/s904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904%2Fb
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
@@ -212,7 +212,7 @@
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
-[/us/pl/112/25/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs104%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
 
 

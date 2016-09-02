@@ -87,7 +87,7 @@
 
         A hearing officer who conducts a hearing under this section shall be guided by judicial decisions under the laws made applicable by [section 1302 of this title][/us/usc/t2/s1302] and by Board decisions under this chapter.
 
-([Pub. L. 104–1, title IV, § 405][/us/pl/104/1/s405], Jan. 23, 1995, [109 Stat. 33][/us/stat/109/33].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 405, Jan. 23, 1995, [109 Stat. 33][/us/stat/109/33].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t2/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1403
 [/us/usc/t2/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1406
 [/us/usc/t2/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1302
-[/us/pl/104/1/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs405
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F33
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3

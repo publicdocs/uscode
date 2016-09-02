@@ -17,7 +17,7 @@
 
     There is established within the Office of the Architect of the Capitol the Office of the Capitol Visitor Center (in this chapter referred to as the “Office”), to be headed by the Chief Executive Officer for Visitor Services (in this chapter referred to as the “Chief Executive Officer”).
 
-([Pub. L. 110–437, title II, § 201][/us/pl/110/437/s201], Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
+([Pub. L. 110–437, title II][/us/pl/110/437/tII], § 201, Oct. 20, 2008, [122 Stat. 4986][/us/stat/122/4986].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs201
+[/us/pl/110/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtII
 [/us/stat/122/4986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4986
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4983

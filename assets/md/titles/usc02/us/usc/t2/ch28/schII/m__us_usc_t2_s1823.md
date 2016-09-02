@@ -27,7 +27,7 @@
 
     (3) This section shall apply with respect to fiscal year 2007 and each fiscal year thereafter.
 
-([Pub. L. 109–289, div. B, title II, § 20701(b)][/us/pl/109/289/s20701/b], as added [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 37][/us/stat/121/37].)
+([Pub. L. 109–289, div. B, title II][/us/pl/109/289/dB/tII], § 20701(b), as added [Pub. L. 110–5][/us/pl/110/5], § 2, Feb. 15, 2007, [121 Stat. 37][/us/stat/121/37].)
 
  __Codification__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/109/289/s20701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs20701%2Fb
-[/us/pl/110/5/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5%2Fs2
+[/us/pl/109/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdB%2FtII
+[/us/pl/110/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F5
 [/us/stat/121/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F37
 
 

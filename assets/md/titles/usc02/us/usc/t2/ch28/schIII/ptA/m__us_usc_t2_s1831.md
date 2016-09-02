@@ -75,11 +75,11 @@
 
             Nothing in this section shall be construed to alter or supersede any other provision of law otherwise applicable to the Architect of the Capitol or its employees, unless expressly provided in this section.
 
-([Pub. L. 103–283, title III, § 312][/us/pl/103/283/s312], July 22, 1994, [108 Stat. 1443][/us/stat/108/1443]; [Pub. L. 104–1, title V, § 504(c)(1)][/us/pl/104/1/s504/c/1], Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41].)
+([Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 312, July 22, 1994, [108 Stat. 1443][/us/stat/108/1443]; [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(c)(1), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41].)
 
  __Codification__ 
 
-    Section was classified to section 166b–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 166b–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
     Section is comprised of [section 312 of Pub. L. 103–283][/us/pl/103/283/s312]. Subsec. (f) of [section 312 of Pub. L. 103–283][/us/pl/103/283/s312] amended sections 60m, 1201, 1205, and 1212 of this title.
 
@@ -89,15 +89,15 @@
 
  __Savings Provision__ 
 
-    [Pub. L. 104–1, title V, § 504(c)(1)][/us/pl/104/1/s504/c/1], Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], provided in part that subsec. (e) of this section is repealed, except as provided in [section 1435 of this title][/us/usc/t2/s1435].
+    [Pub. L. 104–1, title V][/us/pl/104/1/tV], § 504(c)(1), Jan. 23, 1995, [109 Stat. 41][/us/stat/109/41], provided in part that subsec. (e) of this section is repealed, except as provided in [section 1435 of this title][/us/usc/t2/s1435].
 
  __Flexible Work Schedules__ 
 
-[Pub. L. 110–161, div. H, title I, § 1302][/us/pl/110/161/s1302], Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242], as amended by [Pub. L. 110–437, § 505(a)][/us/pl/110/437/s505/a], Oct. 20, 2008, [122 Stat. 4998][/us/stat/122/4998], provided that: 
+[Pub. L. 110–161, div. H, title I][/us/pl/110/161/dH/tI], § 1302, Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242], as amended by [Pub. L. 110–437][/us/pl/110/437], § 505(a), Oct. 20, 2008, [122 Stat. 4998][/us/stat/122/4998], provided that: 
 
 > “Notwithstanding [section 6101 of title 5][/us/usc/t5/s6101], United States Code, the Architect of the Capitol may establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden. Such pilot program shall be in accordance with chapter 61 of title 5, United States Code. This authority shall terminate effective September 30, 2010.”
 
-\[[Pub. L. 110–437, title V, § 505(b)][/us/pl/110/437/s505/b], Oct. 20, 2008, [122 Stat. 4998][/us/stat/122/4998], provided that: 
+\[[Pub. L. 110–437, title V][/us/pl/110/437/tV], § 505(b), Oct. 20, 2008, [122 Stat. 4998][/us/stat/122/4998], provided that: 
 
 > “The amendment made under subsection (a) \[amending [section 1302 of Pub. L. 110–161][/us/pl/110/161/s1302], set out above\] shall take effect as though enacted as part of the Legislative Branch Appropriations Act, 2008 ([Public Law 110–161][/us/pl/110/161]; [121 Stat. 2218][/us/stat/121/2218] et seq.).”
 
@@ -105,15 +105,15 @@
 
  __Temporary Employees; Benefits__ 
 
-[Pub. L. 108–83, title I, § 1101(b)][/us/pl/108/83/s1101/b]–(d), Sept. 30, 2003, [117 Stat. 1027][/us/stat/117/1027], provided that:
+[Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1101(b)–(d), Sept. 30, 2003, [117 Stat. 1027][/us/stat/117/1027], provided that:
 
 >     “(b) Any individual who exercised an option offered by the Architect of the Capitol under section 133(a)(2) of the Legislative Branch Appropriations Act, 2002 \[[Pub. L. 107–68][/us/pl/107/68], set out below\], prior to the date of the enactment of this Act \[Sept. 30, 2003\] may revoke the option during the 90-day period which begins on the date of the enactment of this Act.
 
->     “(c) The amendments made by subsection (a) \[amending [Pub. L. 107–68, § 133(a)][/us/pl/107/68/s133/a], set out below\] shall take effect as if included in the enactment of section 133(a) of the Legislative Branch Appropriations Act, 2002.
+>     “(c) The amendments made by subsection (a) \[amending [Pub. L. 107–68][/us/pl/107/68], § 133(a), set out below\] shall take effect as if included in the enactment of section 133(a) of the Legislative Branch Appropriations Act, 2002.
 
 >     “(d) Notwithstanding any other provision of law, upon enactment of this Act the Architect of the Capitol shall take all steps which may be required to carry out section 133(a) of the Legislative Branch Appropriations Act, 2002 \[[Pub. L. 107–68][/us/pl/107/68], set out as a note below\].”
 
-[Pub. L. 107–68, title I, § 133(a)][/us/pl/107/68/s133/a], Nov. 12, 2001, [115 Stat. 581][/us/stat/115/581], as amended by [Pub. L. 108–83, title I, § 1101(a)][/us/pl/108/83/s1101/a], Sept. 30, 2003, [117 Stat. 1027][/us/stat/117/1027], provided that:
+[Pub. L. 107–68, title I][/us/pl/107/68/tI], § 133(a), Nov. 12, 2001, [115 Stat. 581][/us/stat/115/581], as amended by [Pub. L. 108–83, title I][/us/pl/108/83/tI], § 1101(a), Sept. 30, 2003, [117 Stat. 1027][/us/stat/117/1027], provided that:
 
 >     “(1) Except as provided in paragraph (2), none of the funds provided by this Act or any other Act may be used by the Architect of the Capitol after the expiration of the 90-day period which begins on the date of the enactment of this Act \[Nov. 12, 2001\] to employ any individual as a temporary employee within a category of temporary employment which does not provide employees with the same eligibility for life insurance, health insurance, retirement, and other benefits which is provided to temporary employees who are hired for a period exceeding 1 year in length.
 
@@ -137,7 +137,7 @@
 
  __Treatment of Separated Employees of Architect of Capitol__ 
 
-    [Pub. L. 105–55, title III, § 310][/us/pl/105/55/s310], Oct. 7, 1997, [111 Stat. 1199][/us/stat/111/1199], as amended by [Pub. L. 105–275, title III, § 308(b)][/us/pl/105/275/s308/b]–(d), Oct. 21, 1998, [112 Stat. 2452][/us/stat/112/2452], 2453; [Pub. L. 106–57, title III, § 308][/us/pl/106/57/s308], Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427], provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining, job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
+    [Pub. L. 105–55, title III][/us/pl/105/55/tIII], § 310, Oct. 7, 1997, [111 Stat. 1199][/us/stat/111/1199], as amended by [Pub. L. 105–275, title III][/us/pl/105/275/tIII], § 308(b)–(d), Oct. 21, 1998, [112 Stat. 2452][/us/stat/112/2452], 2453; [Pub. L. 106–57, title III][/us/pl/106/57/tIII], § 308, Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427], provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining, job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
 
 ----------
 
@@ -146,42 +146,42 @@
 ----------
 ----------
 
-[/us/pl/103/283/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs312
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1443
-[/us/pl/104/1/s504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fc%2F1
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/103/283/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs312
 [/us/pl/103/283/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs312
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
-[/us/pl/104/1/s504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs504%2Fc%2F1
+[/us/pl/104/1/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtV
 [/us/stat/109/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F41
 [/us/usc/t2/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1435
-[/us/pl/110/161/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1302
+[/us/pl/110/161/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdH%2FtI
 [/us/stat/121/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2242
-[/us/pl/110/437/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs505%2Fa
+[/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4998
 [/us/usc/t5/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6101
-[/us/pl/110/437/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs505%2Fb
+[/us/pl/110/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtV
 [/us/stat/122/4998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4998
 [/us/pl/110/161/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1302
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/stat/121/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2218
-[/us/pl/108/83/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1101%2Fb
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1027
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
-[/us/pl/107/68/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs133%2Fa
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
-[/us/pl/107/68/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs133%2Fa
+[/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F581
-[/us/pl/108/83/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs1101%2Fa
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1027
-[/us/pl/105/55/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs310
+[/us/pl/105/55/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtIII
 [/us/stat/111/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1199
-[/us/pl/105/275/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs308%2Fb
+[/us/pl/105/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtIII
 [/us/stat/112/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2452
-[/us/pl/106/57/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs308
+[/us/pl/106/57/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtIII
 [/us/stat/113/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F427
 
 

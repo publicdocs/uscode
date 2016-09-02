@@ -27,7 +27,7 @@
 
     (b) The committee may provide by regulations for the payment of compensation, at an appropriate compensation step determined in accordance with such regulations, to each employee subject to the House Wage Schedule (HWS) who is appointed to a position in a higher compensation level of such schedule or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position.
 
-([Pub. L. 88–652, § 8][/us/pl/88/652/s8], Oct. 13, 1964, [78 Stat. 1082][/us/stat/78/1082].)
+([Pub. L. 88–652][/us/pl/88/652], § 8, Oct. 13, 1964, [78 Stat. 1082][/us/stat/78/1082].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/88/652/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs8
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1082
 
 

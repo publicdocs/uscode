@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6568.md) | [Next](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6573.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6572)
+[Previous](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6569...6571.md) | [Next](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6573.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6572)
 
 ## § 6572. Purchases of stationery and materials for folding
 
@@ -19,7 +19,7 @@
 
     All contracts and bonds for purchases made under the authority of this section shall be filed with the Committee on Rules and Administration of the Senate.
 
-([Mar. 3, 1887, ch. 392, § 1][/us/act/1887-03-03/ch392/s1], [24 Stat. 596][/us/stat/24/596]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Pub. L. 104–186, title II, § 204(58)][/us/pl/104/186/s204/58], Aug. 20, 1996, [110 Stat. 1738][/us/stat/110/1738]; [Pub. L. 113–235, div. H, title I, § 1(b)][/us/pl/113/235/s1/b], Dec. 16, 2014, [128 Stat. 2525][/us/stat/128/2525].)
+([Mar. 3, 1887, ch. 392][/us/act/1887-03-03/ch392], § 1, [24 Stat. 596][/us/stat/24/596]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 102, [60 Stat. 814][/us/stat/60/814]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(58), Aug. 20, 1996, [110 Stat. 1738][/us/stat/110/1738]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1(b), Dec. 16, 2014, [128 Stat. 2525][/us/stat/128/2525].)
 
  __Codification__ 
 
@@ -35,29 +35,29 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    [Act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title I, § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
+    [Act Aug. 2, 1946, ch. 753, title I][/us/act/1946-08-02/ch753/tI], § 142, [60 Stat. 834][/us/stat/60/834], provided that the amendment made by that act is effective Jan. 2, 1947.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6568.md) | [Next](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6573.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6572)
+[Previous](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6569...6571.md) | [Next](./../../../../../..//us/usc/t2/ch65/schII/ptB/m__us_usc_t2_s6573.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6572)
 
 ----------
 ----------
 
 [/us/usc/t2/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4104
-[/us/act/1887-03-03/ch392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch392%2Fs1
+[/us/act/1887-03-03/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-03%2Fch392
 [/us/stat/24/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F596
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F814
-[/us/pl/104/186/s204/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F58
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1738
-[/us/pl/113/235/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2525
 [/us/usc/t2/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t2/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4104
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
-[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/act/1946-08-02/ch753/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753%2FtI
 [/us/stat/60/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F834
 
 

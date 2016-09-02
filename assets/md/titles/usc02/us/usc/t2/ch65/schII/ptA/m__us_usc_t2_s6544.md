@@ -17,7 +17,7 @@
 
     The Secretary of the Senate is on and after June 5, 1981, authorized to employ, by contract or otherwise, substitute reporters of debates and expert transcribers at daily rates of compensation, or temporary reporters of debates and expert transcribers at annual rates of compensation; no temporary reporters of debates or expert transcribers may be employed under authority of this provision for more than ninety days in any fiscal year; and payments made under authority of this section shall be made from the contingent fund of the Senate upon vouchers approved by the Secretary of the Senate.
 
-([Pub. L. 89–90][/us/pl/89/90], July 27, 1965, [79 Stat. 266][/us/stat/79/266]; [Pub. L. 97–12, title I, § 105][/us/pl/97/12/s105], June 5, 1981, [95 Stat. 61][/us/stat/95/61].)
+([Pub. L. 89–90][/us/pl/89/90], July 27, 1965, [79 Stat. 266][/us/stat/79/266]; [Pub. L. 97–12, title I][/us/pl/97/12/tI], § 105, June 5, 1981, [95 Stat. 61][/us/stat/95/61].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 
 [/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F266
-[/us/pl/97/12/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2Fs105
+[/us/pl/97/12/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12%2FtI
 [/us/stat/95/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F61
 [/us/usc/t2/s126b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs126b
 [/us/pl/97/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F12

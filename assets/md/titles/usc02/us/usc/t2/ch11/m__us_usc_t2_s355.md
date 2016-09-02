@@ -17,7 +17,7 @@
 
     The Administrator of General Services shall provide administrative support services for the Commission on a reimbursable basis.
 
-([Pub. L. 90–206, title II, § 225(e)][/us/pl/90/206/s225/e], Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(e), Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/206/s225/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fe
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F643
 
 

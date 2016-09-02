@@ -25,7 +25,7 @@
 
     (4) collect from the funds appropriated for the John C. Stennis Center for Public Service Training and Development the full costs of providing the services specified in (1), (2), and (3) above, as provided under an agreement for services ordered under [31 U.S.C. 1535][/us/usc/t31/s1535] and 1536.
 
-([Pub. L. 101–163, title II, § 205][/us/pl/101/163/s205], Nov. 21, 1989, [103 Stat. 1060][/us/stat/103/1060].)
+([Pub. L. 101–163, title II][/us/pl/101/163/tII], § 205, Nov. 21, 1989, [103 Stat. 1060][/us/stat/103/1060].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t2/s142f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs142f
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/101/163/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs205
+[/us/pl/101/163/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtII
 [/us/stat/103/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1060
 
 

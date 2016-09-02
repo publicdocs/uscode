@@ -23,7 +23,7 @@
 
         This section shall apply with respect to appropriations for fiscal year 2012 and each fiscal year thereafter.
 
-([Pub. L. 112–74, div. G, title I, § 1303][/us/pl/112/74/s1303], Dec. 23, 2011, [125 Stat. 1131][/us/stat/125/1131].)
+([Pub. L. 112–74, div. G, title I][/us/pl/112/74/dG/tI], § 1303, Dec. 23, 2011, [125 Stat. 1131][/us/stat/125/1131].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s8147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147%2Fb
-[/us/pl/112/74/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1303
+[/us/pl/112/74/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdG%2FtI
 [/us/stat/125/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1131
 
 

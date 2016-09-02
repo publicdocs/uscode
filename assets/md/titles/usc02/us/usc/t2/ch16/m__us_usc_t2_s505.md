@@ -17,7 +17,7 @@
 
     In fiscal year 1991 and thereafter, when a Senator disseminates information under the frank by a mass mailing (as defined in [section 3210(a)(6)(E) of title 39][/us/usc/t39/s3210/a/6/E]), the Senator shall register quarterly with the Secretary of the Senate such mass mailings. Such registration shall be made by filing with the Secretary a copy of the matter mailed and providing, on a form supplied by the Secretary, a description of the group or groups of persons to whom the mass mailing was mailed and the number of pieces mailed.
 
-([Pub. L. 101–520, title III, § 320][/us/pl/101/520/s320], Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285].)
+([Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 320, Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t39/s3210/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3210%2Fa%2F6%2FE
-[/us/pl/101/520/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs320
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2285
 [/us/usc/t2/s59g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59g
 

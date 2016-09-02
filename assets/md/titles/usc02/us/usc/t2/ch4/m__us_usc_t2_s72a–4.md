@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1i.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–2 _us_usc_t2_s72a–3.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
 
-## § 72a–4. Repealed. [Pub. L. 90–57, § 105(i)(1)][/us/pl/90/57/s105/i/1], July 28, 1967, [81 Stat. 144][/us/stat/81/144]
+## § 72a–4. Repealed. [Pub. L. 90–57][/us/pl/90/57], § 105(i)(1), July 28, 1967, [81 Stat. 144][/us/stat/81/144]
 
     Section, [Pub. L. 85–75][/us/pl/85/75], July 1, 1957, [71 Stat. 246][/us/stat/71/246], provided for computation of salaries and wages paid out of Senate contingent-expense items. See section 4575(b), (c) of this title.
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1i.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–2 _us_usc_t2_s72a–3.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
 
 ----------
 ----------
 
-[/us/pl/90/57/s105/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57%2Fs105%2Fi%2F1
+[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F144
 [/us/pl/85/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F75
 [/us/stat/71/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F246

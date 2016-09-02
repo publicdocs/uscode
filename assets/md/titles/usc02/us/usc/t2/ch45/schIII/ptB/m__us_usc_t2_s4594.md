@@ -61,7 +61,7 @@
 
         For the purposes of this section, “State” means any of the States of the United States and the District of Columbia.
 
-([Pub. L. 93–371, § 2][/us/pl/93/371/s2], Aug. 13, 1974, [88 Stat. 427][/us/stat/88/427].)
+([Pub. L. 93–371][/us/pl/93/371], § 2, Aug. 13, 1974, [88 Stat. 427][/us/stat/88/427].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/93/371/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs2
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F427
 [/us/usc/t2/s60c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%933
 

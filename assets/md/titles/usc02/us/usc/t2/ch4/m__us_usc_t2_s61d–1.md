@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 61d–1, [Pub. L. 93–371][/us/pl/93/371], Aug. 13, 1974, [88 Stat. 424][/us/stat/88/424]; [Pub. L. 96–38, title I, § 103][/us/pl/96/38/s103], July 25, 1979, [93 Stat. 112][/us/stat/93/112], authorized Chaplain of Senate to appoint and fix compensation of a secretary at not to exceed $20,034 per annum.
+    A prior section 61d–1, [Pub. L. 93–371][/us/pl/93/371], Aug. 13, 1974, [88 Stat. 424][/us/stat/88/424]; [Pub. L. 96–38, title I][/us/pl/96/38/tI], § 103, July 25, 1979, [93 Stat. 112][/us/stat/93/112], authorized Chaplain of Senate to appoint and fix compensation of a secretary at not to exceed $20,034 per annum.
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t2/s6652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6652
 [/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F424
-[/us/pl/96/38/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs103
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F112
 
 

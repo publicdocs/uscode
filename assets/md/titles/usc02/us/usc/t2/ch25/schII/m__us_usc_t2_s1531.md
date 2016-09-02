@@ -17,11 +17,11 @@
 
     Each agency shall, unless otherwise prohibited by law, assess the effects of Federal regulatory actions on State, local, and tribal governments, and the private sector (other than to the extent that such regulations incorporate requirements specifically set forth in law).
 
-([Pub. L. 104–4, title II, § 201][/us/pl/104/4/s201], Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 201, Mar. 22, 1995, [109 Stat. 64][/us/stat/109/64].)
 
  __Effective Date__ 
 
-[Pub. L. 104–4, title II, § 209][/us/pl/104/4/s209], Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67], provided that: 
+[Pub. L. 104–4, title II][/us/pl/104/4/tII], § 209, Mar. 22, 1995, [109 Stat. 67][/us/stat/109/67], provided that: 
 
 > “This title \[enacting this subchapter\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Mar. 22, 1995\].”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/104/4/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs201
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F64
-[/us/pl/104/4/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs209
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F67
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 

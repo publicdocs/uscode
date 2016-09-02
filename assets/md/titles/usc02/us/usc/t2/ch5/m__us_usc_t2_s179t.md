@@ -23,7 +23,7 @@
 
         The Librarian may, in carrying out sections 179l to 179w of this title, procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], but at rates for individuals not to exceed the daily equivalent of the maximum rate of basic pay payable for GS–15 of the General Schedule. In no case may a member of the Board or an alternate be paid as an expert or consultant under this section.
 
-([Pub. L. 104–285, title I, § 110][/us/pl/104/285/s110], Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 110, Oct. 11, 1996, [110 Stat. 3381][/us/stat/110/3381].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/104/285/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs110
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3381
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

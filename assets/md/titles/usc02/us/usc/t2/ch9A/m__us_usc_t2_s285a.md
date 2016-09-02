@@ -17,7 +17,7 @@
 
     The principal purpose of the Office shall be to develop and keep current an official and positive codification of the laws of the United States. The Office shall maintain impartiality as to issues of legislative policy to be determined by the House.
 
-([Pub. L. 93–554, title I][/us/pl/93/554], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777].)
+([Pub. L. 93–554, title I][/us/pl/93/554/tI], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
+[/us/pl/93/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554%2FtI
 [/us/stat/88/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1777
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 

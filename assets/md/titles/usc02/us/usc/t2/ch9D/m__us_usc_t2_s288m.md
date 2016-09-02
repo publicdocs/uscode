@@ -17,7 +17,7 @@
 
     The expenses of the Office shall be paid from the contingent fund of the Senate in accordance with [section 6503 of this title][/us/usc/t2/s6503], and upon vouchers approved by the Counsel.
 
-([Pub. L. 95–521, title VII, § 716][/us/pl/95/521/s716], Oct. 26, 1978, [92 Stat. 1885][/us/stat/92/1885].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 716, Oct. 26, 1978, [92 Stat. 1885][/us/stat/92/1885].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t2/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6503
-[/us/pl/95/521/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs716
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1885
 
 

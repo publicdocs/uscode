@@ -35,11 +35,11 @@
 
     In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
-([Pub. L. 90–206, title II, § 225(f)][/us/pl/90/206/s225/f], Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643]; [Pub. L. 91–375, § 6(a)][/us/pl/91/375/s6/a], Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 94–82, title II, § 206(a)][/us/pl/94/82/s206/a], Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423]; [Pub. L. 95–598, title III, § 301][/us/pl/95/598/s301], Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; [Pub. L. 97–164, title I, § 143][/us/pl/97/164/s143], Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 99–190, § 135(b)][/us/pl/99/190/s135/b], Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 408(c)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–27; [Pub. L. 101–194, title VII, § 701(d)][/us/pl/101/194/s701/d], Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(f), Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643]; [Pub. L. 91–375][/us/pl/91/375], § 6(a), Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 94–82, title II][/us/pl/94/82/tII], § 206(a), Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 301, Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 143, Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 99–190][/us/pl/99/190], § 135(b), Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title IV, § 408(c)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–27; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(d), Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __References in Text__ 
 
-    Subsections (a), (b), (c), and (d) of section 203 of the Federal Legislative Salary Act of 1964 ([78 Stat. 415][/us/stat/78/415]; [Public Law 88–426][/us/pl/88/426]), referred to in par. (B), are subsecs. (a) to (d) of [section 203 of Pub. L. 88–426][/us/pl/88/426/s203], title II, Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]. Subsecs. (a) and (b), which originally related to compensation of the Comptroller General and Assistant Comptroller General, respectively, of the United States, were classified to section 42a of former Title 31, Money and Finance. Subsec. (c), which originally related to compensation of the General Counsel of the United States General Accounting Office, the Librarian of Congress, the Public Printer, and the Architect of the Capitol, was classified to sections 136a and 1802 of this title, section 51a of former Title 31, and section 39a of former Title 44, Public Printing and Documents. Subsec. (d), which originally related to compensation of the Deputy Librarian of Congress, the Deputy Public Printer, and the Assistant Architect of the Capitol, was classified to [section 136a–1 of this title][/us/usc/t2/s136a–1], section 166b of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44. Sections 136a (Librarian of Congress) and 136a–1 (Deputy Librarian of Congress) of this title were omitted from the Code as superseded by [section 136a–2 of this title][/us/usc/t2/s136a–2]. Sections 42a (Comptroller General and Deputy Comptroller General) and 51a (General Counsel of General Accounting Office) of former Title 31 were repealed, and restated in sections 703(f) and 731(c) of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], §§ 1, 5(b), Sept. 13, 1982, [96 Stat. 889][/us/stat/96/889], 897, 1068. Section 166b (Assistant Architect of the Capitol) of former Title 40 was omitted from the Code as superseded by section 166b–3a of former Title 40 (now [section 1848 of this title][/us/usc/t2/s1848]) and was repealed by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 39a (Public Printer and Deputy Public Printer) of former Title 44 was repealed, and restated in [section 303 of Title 44][/us/usc/t44/s303], Public Printing and Documents, by [Pub. L. 90–620][/us/pl/90/620], §§ 1, 3, Oct. 22, 1968, [82 Stat. 1239][/us/stat/82/1239], 1306.
+    Subsections (a), (b), (c), and (d) of section 203 of the Federal Legislative Salary Act of 1964 ([78 Stat. 415][/us/stat/78/415]; [Public Law 88–426][/us/pl/88/426]), referred to in par. (B), are subsecs. (a) to (d) of [section 203 of Pub. L. 88–426][/us/pl/88/426/s203], title II, Aug. 14, 1964, [78 Stat. 415][/us/stat/78/415]. Subsecs. (a) and (b), which originally related to compensation of the Comptroller General and Assistant Comptroller General, respectively, of the United States, were classified to section 42a of former Title 31, Money and Finance. Subsec. (c), which originally related to compensation of the General Counsel of the United States General Accounting Office, the Librarian of Congress, the Public Printer, and the Architect of the Capitol, was classified to sections 136a and 1802 of this title, section 51a of former Title 31, and section 39a of former Title 44, Public Printing and Documents. Subsec. (d), which originally related to compensation of the Deputy Librarian of Congress, the Deputy Public Printer, and the Assistant Architect of the Capitol, was classified to [section 136a–1 of this title][/us/usc/t2/s136a–1], section 166b of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44. Sections 136a (Librarian of Congress) and 136a–1 (Deputy Librarian of Congress) of this title were omitted from the Code as superseded by [section 136a–2 of this title][/us/usc/t2/s136a–2]. Sections 42a (Comptroller General and Deputy Comptroller General) and 51a (General Counsel of General Accounting Office) of former Title 31 were repealed, and restated in sections 703(f) and 731(c) of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], §§ 1, 5(b), Sept. 13, 1982, [96 Stat. 889][/us/stat/96/889], 897, 1068. Section 166b (Assistant Architect of the Capitol) of former Title 40 was omitted from the Code as superseded by section 166b–3a of former Title 40 (now [section 1848 of this title][/us/usc/t2/s1848]) and was repealed by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. Section 39a (Public Printer and Deputy Public Printer) of former Title 44 was repealed, and restated in [section 303 of Title 44][/us/usc/t44/s303], Public Printing and Documents, by [Pub. L. 90–620][/us/pl/90/620], §§ 1, 3, Oct. 22, 1968, [82 Stat. 1239][/us/stat/82/1239], 1306.
 
     The rates of pay of justices, judges, and other personnel in the judicial branch, referred to in par. (C), are set out in [section 867 of Title 10][/us/usc/t10/s867], Armed Forces; [section 7443 of Title 26][/us/usc/t26/s7443], Internal Revenue Code; and sections 5, 44, 135, 173, 213, 252, 603, and 792 of Title 28, Judiciary and Judicial Procedure.
 
@@ -83,7 +83,7 @@
 
  __Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967__ 
 
-[Pub. L. 94–82, title II, § 206(b)][/us/pl/94/82/s206/b], Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423], provided that: 
+[Pub. L. 94–82, title II][/us/pl/94/82/tII], § 206(b), Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423], provided that: 
 
 > “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section \[amending par. (A) of this section\] occurs under the provisions of the Federal Salary Act of 1967 ([2 U.S.C. 351–361][/us/usc/t2/s351–361]), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act \[Aug. 9, 1975\], as adjusted under sections 203 and 204 of this title \[amending sections 60a note, 136a, 136a–1, and 4501 of this title, [section 104 of Title 3][/us/usc/t3/s104], The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and [section 303 of Title 44][/us/usc/t44/s303], Public Printing and Documents\].”
 
@@ -100,23 +100,23 @@
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/usc/t39/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs202
-[/us/pl/90/206/s225/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Ff
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F643
-[/us/pl/91/375/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fa
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F775
-[/us/pl/94/82/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs206%2Fa
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F423
-[/us/pl/95/598/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs301
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2673
-[/us/pl/97/164/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs143
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F45
-[/us/pl/99/190/s135/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs135%2Fb
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1322
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
-[/us/pl/101/194/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fd
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1764
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/stat/78/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F415
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
@@ -127,7 +127,7 @@
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F889
 [/us/usc/t2/s1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1848
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 [/us/usc/t44/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs303
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
@@ -158,7 +158,7 @@
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/94/82/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2Fs206%2Fb
+[/us/pl/94/82/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F82%2FtII
 [/us/stat/89/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F423
 [/us/usc/t2/s351–361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs351%E2%80%93361
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104

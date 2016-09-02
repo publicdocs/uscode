@@ -17,7 +17,7 @@
 
     The Board is authorized to accept, receive, hold, and administer such gifts, bequests, or devises of property for the benefit of, or in connection with, the Library, its collections, or its service, as may be approved by the Board and by the Joint Committee on the Library.
 
-([Mar. 3, 1925, ch. 423, § 2][/us/act/1925-03-03/ch423/s2], formerly § 1, [43 Stat. 1107][/us/stat/43/1107], renumbered [Apr. 13, 1936, ch. 213][/us/act/1936-04-13/ch213], [49 Stat. 1205][/us/stat/49/1205].)
+([Mar. 3, 1925, ch. 423][/us/act/1925-03-03/ch423], § 2, formerly § 1, [43 Stat. 1107][/us/stat/43/1107], renumbered [Apr. 13, 1936, ch. 213][/us/act/1936-04-13/ch213], [49 Stat. 1205][/us/stat/49/1205].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch423/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423%2Fs2
+[/us/act/1925-03-03/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423
 [/us/stat/43/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1107
 [/us/act/1936-04-13/ch213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-04-13%2Fch213
 [/us/stat/49/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1205

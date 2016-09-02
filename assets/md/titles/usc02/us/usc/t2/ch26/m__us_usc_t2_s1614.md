@@ -37,7 +37,7 @@
 
         The Comptroller General may, in carrying out this section, request information from and access to any relevant documents from any person registered under paragraph (1) or (2) of [section 1603(a) of this title][/us/usc/t2/s1603/a] and each employee who is listed as a lobbyist under [section 1603(b)(6) of this title][/us/usc/t2/s1603/b/6] or [section 1604(b)(2)(C) of this title][/us/usc/t2/s1604/b/2/C] if the material requested relates to the purposes of this section. The Comptroller General may request such person to submit in writing such information as the Comptroller General may prescribe. The Comptroller General may notify the Congress in writing if a person from whom information has been requested under this subsection refuses to comply with the request within 45 days after the request is made.
 
-([Pub. L. 104–65, § 26][/us/pl/104/65/s26], as added [Pub. L. 110–81, title II, § 213(a)][/us/pl/110/81/s213/a], Sept. 14, 2007, [121 Stat. 750][/us/stat/121/750].)
+([Pub. L. 104–65][/us/pl/104/65], § 26, as added [Pub. L. 110–81, title II][/us/pl/110/81/tII], § 213(a), Sept. 14, 2007, [121 Stat. 750][/us/stat/121/750].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–81, title II, § 213(b)][/us/pl/110/81/s213/b], Sept. 14, 2007, [121 Stat. 750][/us/stat/121/750], provided that: 
+[Pub. L. 110–81, title II][/us/pl/110/81/tII], § 213(b), Sept. 14, 2007, [121 Stat. 750][/us/stat/121/750], provided that: 
 
 > “The initial audit under subsection (a) of section 26 of the Lobbying Disclosure Act of 1995 \[[2 U.S.C. 1614(a)][/us/usc/t2/s1614/a]\] (as added by subsection (a) of this section) shall be made with respect to lobbying registrations and reports filed during the first calendar quarter of 2008, and the initial report under subsection (b) of such section shall be filed, with respect to those registrations and reports, not later than 6 months after the end of that calendar quarter.”
 
@@ -60,13 +60,13 @@
 [/us/usc/t2/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fa
 [/us/usc/t2/s1603/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1603%2Fb%2F6
 [/us/usc/t2/s1604/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fb%2F2%2FC
-[/us/pl/104/65/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs26
-[/us/pl/110/81/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs213%2Fa
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F750
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/110/81/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs213%2Fb
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F750
 [/us/usc/t2/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1614%2Fa
 

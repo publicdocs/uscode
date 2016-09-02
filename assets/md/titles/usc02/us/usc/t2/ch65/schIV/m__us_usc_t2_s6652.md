@@ -17,7 +17,7 @@
 
     The Chaplain of the Senate may appoint and fix the compensation of such employees as he deems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000.
 
-([Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 340][/us/stat/83/340]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 2(b)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294; [Pub. L. 101–163, title I, § 10][/us/pl/101/163/s10], Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046].)
+([Pub. L. 91–145][/us/pl/91/145], Dec. 12, 1969, [83 Stat. 340][/us/stat/83/340]; [Pub. L. 100–202][/us/pl/100/202], § 101(i) \[title I, § 2(b)\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294; [Pub. L. 101–163, title I][/us/pl/101/163/tI], § 10, Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046].)
 
  __Codification__ 
 
@@ -42,9 +42,9 @@
 
 [/us/pl/91/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F145
 [/us/stat/83/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F340
-[/us/pl/100/202/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fi
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-290
-[/us/pl/101/163/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs10
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1046
 [/us/usc/t2/s61d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61d%E2%80%931
 [/us/pl/101/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163

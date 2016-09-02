@@ -371,13 +371,13 @@
 
         For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-([Pub. L. 99–177, title II, § 255][/us/pl/99/177/s255], Dec. 12, 1985, [99 Stat. 1082][/us/stat/99/1082]; [Pub. L. 99–509, title VII, § 7002(a)][/us/pl/99/509/s7002/a], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title V, § 506(a)][/us/pl/100/86/s506/a], Aug. 10, 1987, [101 Stat. 634][/us/stat/101/634]; [Pub. L. 100–119, title I, § 104(a)(1)][/us/pl/100/119/s104/a/1], (2), (b), (c)(1), Sept. 29, 1987, [101 Stat. 775–777][/us/stat/101/775-777]; [Pub. L. 101–73, title VII, § 743(a)][/us/pl/101/73/s743/a], (c), Aug. 9, 1989, [103 Stat. 437][/us/stat/103/437]; [Pub. L. 101–220, § 8][/us/pl/101/220/s8], Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881]; [Pub. L. 101–508, title XIII, § 13101(c)][/us/pl/101/508/s13101/c], Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589]; [Pub. L. 102–54, § 13(a)][/us/pl/102/54/s13/a], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–486, title IX, § 902(d)][/us/pl/102/486/s902/d], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title VI, § 601][/us/pl/102/572/s601], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–193, title I, § 110(r)(1)][/us/pl/104/193/s110/r/1], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. A, title II, § 2704(d)(10)][/us/pl/104/208/s2704/d/10], Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 105–33, title X, § 10207][/us/pl/105/33/s10207], Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 109–171, title II, § 2102(b)][/us/pl/109/171/s2102/b], Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 111–139, title I, § 11][/us/pl/111/139/s11], Feb. 12, 2010, [124 Stat. 23][/us/stat/124/23]; [Pub. L. 113–67, div. A, title I, § 121(5)][/us/pl/113/67/s121/5]–(8), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175]; [Pub. L. 114–113, div. O, title IV, § 403(a)][/us/pl/114/113/s403/a], Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007].)
+([Pub. L. 99–177, title II][/us/pl/99/177/tII], § 255, Dec. 12, 1985, [99 Stat. 1082][/us/stat/99/1082]; [Pub. L. 99–509, title VII][/us/pl/99/509/tVII], § 7002(a), Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title V][/us/pl/100/86/tV], § 506(a), Aug. 10, 1987, [101 Stat. 634][/us/stat/101/634]; [Pub. L. 100–119, title I][/us/pl/100/119/tI], § 104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, [101 Stat. 775–777][/us/stat/101/775-777]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 743(a), (c), Aug. 9, 1989, [103 Stat. 437][/us/stat/103/437]; [Pub. L. 101–220][/us/pl/101/220], § 8, Dec. 12, 1989, [103 Stat. 1881][/us/stat/103/1881]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13101(c), Nov. 5, 1990, [104 Stat. 1388–589][/us/stat/104/1388-589]; [Pub. L. 102–54][/us/pl/102/54], § 13(a), June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–486, title IX][/us/pl/102/486/tIX], § 902(d), Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 102–572, title VI][/us/pl/102/572/tVI], § 601, Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(r)(1), Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2704(d)(10), Sept. 30, 1996, [110 Stat. 3009–489][/us/stat/110/3009-489]; [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10207, Aug. 5, 1997, [111 Stat. 704][/us/stat/111/704]; [Pub. L. 109–171, title II][/us/pl/109/171/tII], § 2102(b), Feb. 8, 2006, [120 Stat. 9][/us/stat/120/9]; [Pub. L. 111–139, title I][/us/pl/111/139/tI], § 11, Feb. 12, 2010, [124 Stat. 23][/us/stat/124/23]; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 121(5)–(8), Dec. 26, 2013, [127 Stat. 1175][/us/stat/127/1175]; [Pub. L. 114–113, div. O, title IV][/us/pl/114/113/dO/tIV], § 403(a), Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsec. (a), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    Sections 231b and 231c of title 45, referred to in subsec. (a), were in the original references to sections 3 and 4 of the Railroad Retirement Act of 1937 ([45 U.S.C. 231][/us/usc/t45/s231] et seq.), and were translated as meaning sections 3 and 4 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. The Railroad Retirement Act of 1937, [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as restated [June 24, 1937, ch. 382][/us/act/1937-06-24/ch382], pt. I, [50 Stat. 307][/us/stat/50/307], was amended in its entirety and completely revised by [Pub. L. 93–445, title I][/us/pl/93/445], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads.
+    Sections 231b and 231c of title 45, referred to in subsec. (a), were in the original references to sections 3 and 4 of the Railroad Retirement Act of 1937 ([45 U.S.C. 231][/us/usc/t45/s231] et seq.), and were translated as meaning sections 3 and 4 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. The Railroad Retirement Act of 1937, [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as restated [June 24, 1937, ch. 382][/us/act/1937-06-24/ch382], pt. I, [50 Stat. 307][/us/stat/50/307], was amended in its entirety and completely revised by [Pub. L. 93–445, title I][/us/pl/93/445/tI], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads.
 
     The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is [act Sept. 7, 1916, ch. 458][/us/act/1916-09-07/ch458], [39 Stat. 742][/us/stat/39/742], was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
@@ -387,185 +387,185 @@
 
     2015—Subsec. (g)(1)(B). [Pub. L. 114–113][/us/pl/114/113] inserted items relating to the September 11th Victim Compensation Fund (15–0340–0–1–754), Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act, United States Victims of State Sponsored Terrorism Fund, and the World Trade Center Health Program Fund (75–0946–0–1–551).
 
-    2013—Subsec. (a). [Pub. L. 113–67, § 121(5)][/us/pl/113/67/s121/5], substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
+    2013—Subsec. (a). [Pub. L. 113–67][/us/pl/113/67], § 121(5), substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
 
-    Subsec. (h). [Pub. L. 113–67, § 121(6)][/us/pl/113/67/s121/6], in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to [section 1070a of title 20][/us/usc/t20/s1070a].
+    Subsec. (h). [Pub. L. 113–67][/us/pl/113/67], § 121(6), in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to [section 1070a of title 20][/us/usc/t20/s1070a].
 
-    Subsec. (j). [Pub. L. 113–67, § 121(8)][/us/pl/113/67/s121/8], redesignated subsec. (j) relating to identification of programs as (k).
+    Subsec. (j). [Pub. L. 113–67][/us/pl/113/67], § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
 
-    [Pub. L. 113–67, § 121(7)][/us/pl/113/67/s121/7], realigned margins of list items.
+    [Pub. L. 113–67][/us/pl/113/67], § 121(7), realigned margins of list items.
 
-    Subsec. (k). [Pub. L. 113–67, § 121(8)][/us/pl/113/67/s121/8], redesignated subsec. (j) relating to identification of programs as (k).
+    Subsec. (k). [Pub. L. 113–67][/us/pl/113/67], § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
 
-    2010—Subsecs. (a) to (d). [Pub. L. 111–139, § 11(b)][/us/pl/111/139/s11/b], amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
+    2010—Subsecs. (a) to (d). [Pub. L. 111–139][/us/pl/111/139], § 11(b), amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
 
-    Subsecs. (g), (h). [Pub. L. 111–139, § 11(c)][/us/pl/111/139/s11/c], amended subsecs. (g) and (h) generally. Prior to amendment, subsecs. (g) and (h) related to exemptions for other programs and activities and low-income programs, respectively.
+    Subsecs. (g), (h). [Pub. L. 111–139][/us/pl/111/139], § 11(c), amended subsecs. (g) and (h) generally. Prior to amendment, subsecs. (g) and (h) related to exemptions for other programs and activities and low-income programs, respectively.
 
-    Subsec. (i). [Pub. L. 111–139, § 11(d)][/us/pl/111/139/s11/d], added subsec. (i). Former subsec. (i) redesignated (j) relating to identification of programs.
+    Subsec. (i). [Pub. L. 111–139][/us/pl/111/139], § 11(d), added subsec. (i). Former subsec. (i) redesignated (j) relating to identification of programs.
 
-    Subsec. (j). [Pub. L. 111–139, § 11(d)][/us/pl/111/139/s11/d], added subsec. (j) relating to split treatment programs.
+    Subsec. (j). [Pub. L. 111–139][/us/pl/111/139], § 11(d), added subsec. (j) relating to split treatment programs.
 
-    [Pub. L. 111–139, § 11(a)][/us/pl/111/139/s11/a], redesignated subsec. (i) as (j) relating to identification of programs and substituted “2010” for “1998”.
+    [Pub. L. 111–139][/us/pl/111/139], § 11(a), redesignated subsec. (i) as (j) relating to identification of programs and substituted “2010” for “1998”.
 
-    2006—Subsec. (g)(1)(A). [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208, § 2704(d)(10)][/us/pl/104/208/s2704/d/10]. See 1996 Amendment note below.
+    2006—Subsec. (g)(1)(A). [Pub. L. 109–171][/us/pl/109/171] repealed [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(10). See 1996 Amendment note below.
 
-    1997—Subsec. (b). [Pub. L. 105–33, § 10207(a)][/us/pl/105/33/s10207/a], substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36–0120–0–1–701)” for “(36–0137–0–1–702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
+    1997—Subsec. (b). [Pub. L. 105–33][/us/pl/105/33], § 10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36–0120–0–1–701)” for “(36–0137–0–1–702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
-    Subsec. (f). [Pub. L. 105–33, § 10207(b)][/us/pl/105/33/s10207/b], amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Outlays for programs specified in paragraph (1) of [section 907 of this title][/us/usc/t2/s907] shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title.”
+    Subsec. (f). [Pub. L. 105–33][/us/pl/105/33], § 10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Outlays for programs specified in paragraph (1) of [section 907 of this title][/us/usc/t2/s907] shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title.”
 
-    Subsec. (g)(1)(A). [Pub. L. 105–33, § 10207(c)(1)(KK)][/us/pl/105/33/s10207/c/1/KK], inserted items relating to Thrift Savings Fund, United States Enrichment Corporation (95–4054–0–3–271), Vaccine Injury Compensation, and Vaccine Injury Compensation Program Trust Fund.
+    Subsec. (g)(1)(A). [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(KK), inserted items relating to Thrift Savings Fund, United States Enrichment Corporation (95–4054–0–3–271), Vaccine Injury Compensation, and Vaccine Injury Compensation Program Trust Fund.
 
-    [Pub. L. 105–33, § 10207(c)(1)(JJ)][/us/pl/105/33/s10207/c/1/JJ], inserted “Revolving Fund (22–4055–0–3–373)” before semicolon in item relating to the Resolution Trust Corporation.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(JJ), inserted “Revolving Fund (22–4055–0–3–373)” before semicolon in item relating to the Resolution Trust Corporation.
 
-    [Pub. L. 105–33, § 10207(c)(1)(II)][/us/pl/105/33/s10207/c/1/II], struck out “Resolution Funding Corporation;” after item relating to postal service fund.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(II), struck out “Resolution Funding Corporation;” after item relating to postal service fund.
 
-    [Pub. L. 105–33, § 10207(c)(1)(HH)][/us/pl/105/33/s10207/c/1/HH], substituted “806” for “852” in item relating to payments to the United States territories.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(HH), substituted “806” for “852” in item relating to payments to the United States territories.
 
-    [Pub. L. 105–33, § 10207(c)(1)(GG)][/us/pl/105/33/s10207/c/1/GG], struck out “Payments to state and local government fiscal assistance trust fund (20–2111–0–1–851);” after item relating to payments to social security trust funds.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(GG), struck out “Payments to state and local government fiscal assistance trust fund (20–2111–0–1–851);” after item relating to payments to social security trust funds.
 
-    [Pub. L. 105–33, § 10207(c)(1)(FF)][/us/pl/105/33/s10207/c/1/FF], substituted “651” for “571” in item relating to payments to social security trust funds.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(FF), substituted “651” for “571” in item relating to payments to social security trust funds.
 
-    [Pub. L. 105–33, § 10207(c)(1)(EE)][/us/pl/105/33/s10207/c/1/EE], struck out “Compact of Free Association, economic assistance pursuant to [Public Law 99–658][/us/pl/99/658] (14–0415–0–1–806);” after item relating to payments to military retirement fund.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(EE), struck out “Compact of Free Association, economic assistance pursuant to [Public Law 99–658][/us/pl/99/658] (14–0415–0–1–806);” after item relating to payments to military retirement fund.
 
-    [Pub. L. 105–33, § 10207(c)(1)(DD)][/us/pl/105/33/s10207/c/1/DD], substituted “571” for “572” in item relating to payments to health care trust funds.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(DD), substituted “571” for “572” in item relating to payments to health care trust funds.
 
-    [Pub. L. 105–33, § 10207(c)(1)(CC)][/us/pl/105/33/s10207/c/1/CC], inserted item relating to Office of Thrift Supervision.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(CC), inserted item relating to Office of Thrift Supervision.
 
-    [Pub. L. 105–33, § 10207(c)(1)(BB)][/us/pl/105/33/s10207/c/1/BB], substituted “Credit union share” for “credit union share” and inserted before semicolon “(25–4468–0–3–373)” in third item relating to National Credit Union Administration.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(BB), substituted “Credit union share” for “credit union share” and inserted before semicolon “(25–4468–0–3–373)” in third item relating to National Credit Union Administration.
 
-    [Pub. L. 105–33, § 10207(c)(1)(AA)][/us/pl/105/33/s10207/c/1/AA], substituted “Central” for “central” and inserted before semicolon “(25–4470–0–3–373)” in second item relating to National Credit Union Administration.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(AA), substituted “Central” for “central” and inserted before semicolon “(25–4470–0–3–373)” in second item relating to National Credit Union Administration.
 
-    [Pub. L. 105–33, § 10207(c)(1)(Z)][/us/pl/105/33/s10207/c/1/Z], inserted “operating fund (25–4056–0–3–373)” before semicolon in first item relating to National Credit Union Administration.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(Z), inserted “operating fund (25–4056–0–3–373)” before semicolon in first item relating to National Credit Union Administration.
 
-    [Pub. L. 105–33, § 10207(c)(1)(Y)][/us/pl/105/33/s10207/c/1/Y], substituted “(75–9931–0–3–550)” for “(75–4430–0–3–551)” in item relating to medical facilities guarantee and loan fund.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(Y), substituted “(75–9931–0–3–550)” for “(75–4430–0–3–551)” in item relating to medical facilities guarantee and loan fund.
 
-    [Pub. L. 105–33, § 10207(c)(1)(X)][/us/pl/105/33/s10207/c/1/X], substituted “Panama Canal Commission, Panama Canal Revolving Fund (95–4061–0–3–403);” for “Panama Canal Commission, operating expenses (95–5190–0–2–403), and Panama Canal Commission, capital outlay (95–5190–0–2–403);”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(X), substituted “Panama Canal Commission, Panama Canal Revolving Fund (95–4061–0–3–403);” for “Panama Canal Commission, operating expenses (95–5190–0–2–403), and Panama Canal Commission, capital outlay (95–5190–0–2–403);”.
 
-    [Pub. L. 105–33, § 10207(c)(1)(W)][/us/pl/105/33/s10207/c/1/W], substituted “806” for “852” in item relating to internal revenue collections for Puerto Rico.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(W), substituted “806” for “852” in item relating to internal revenue collections for Puerto Rico.
 
-    [Pub. L. 105–33, § 10207(c)(1)(V)][/us/pl/105/33/s10207/c/1/V], struck out “and insurance” after “Higher education facilities loans”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(V), struck out “and insurance” after “Higher education facilities loans”.
 
-    [Pub. L. 105–33, § 10207(c)(1)(U)][/us/pl/105/33/s10207/c/1/U], inserted “program account” after “fund” and substituted “(75–0340–0–1–552)” for “(Health Education Assistance Loan Program) (75–4305–0–3–553)” in item relating to health professions graduate student loan insurance fund.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(U), inserted “program account” after “fund” and substituted “(75–0340–0–1–552)” for “(Health Education Assistance Loan Program) (75–4305–0–3–553)” in item relating to health professions graduate student loan insurance fund.
 
-    [Pub. L. 105–33, § 10207(c)(1)(T)][/us/pl/105/33/s10207/c/1/T], substituted “accounts” for “account” after “Federal payment to the railroad retirement”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(T), substituted “accounts” for “account” after “Federal payment to the railroad retirement”.
 
-    [Pub. L. 105–33, § 10207(c)(1)(S)][/us/pl/105/33/s10207/c/1/S], inserted “(95–4039–0–3–371)” before semicolon in item relating to Federal Housing Finance Board.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(S), inserted “(95–4039–0–3–371)” before semicolon in item relating to Federal Housing Finance Board.
 
-    [Pub. L. 105–33, § 10207(c)(1)(R)][/us/pl/105/33/s10207/c/1/R], inserted “(51–4066–0–3–373)” before semicolon in third item relating to Federal Deposit Insurance Corporation.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(R), inserted “(51–4066–0–3–373)” before semicolon in third item relating to Federal Deposit Insurance Corporation.
 
-    [Pub. L. 105–33, § 10207(c)(1)(Q)][/us/pl/105/33/s10207/c/1/Q], inserted “(51–4065–0–3–373)” before semicolon in second item relating to Federal Deposit Insurance Corporation.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(Q), inserted “(51–4065–0–3–373)” before semicolon in second item relating to Federal Deposit Insurance Corporation.
 
-    [Pub. L. 105–33, § 10207(c)(1)(P)][/us/pl/105/33/s10207/c/1/P], inserted “(51–4064–0–3–373)” before semicolon in first item relating to Federal Deposit Insurance Corporation.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(P), inserted “(51–4064–0–3–373)” before semicolon in first item relating to Federal Deposit Insurance Corporation.
 
-    [Pub. L. 105–33, § 10207(c)(1)(O)][/us/pl/105/33/s10207/c/1/O], struck out “Federal Deposit Insurance Corporation;” after item relating to Farm Credit System Financial Assistance Corporation, interest payments (20–1850–0–1–351).
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(O), struck out “Federal Deposit Insurance Corporation;” after item relating to Farm Credit System Financial Assistance Corporation, interest payments (20–1850–0–1–351).
 
-    [Pub. L. 105–33, § 10207(c)(1)(N)][/us/pl/105/33/s10207/c/1/N], inserted items relating to Farm Credit Administration and Farm Credit System Financial Assistance Corporation, interest payment (20–1850–0–1–908).
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(N), inserted items relating to Farm Credit Administration and Farm Credit System Financial Assistance Corporation, interest payment (20–1850–0–1–908).
 
-    [Pub. L. 105–33, § 10207(c)(1)(M)][/us/pl/105/33/s10207/c/1/M], struck out “Eastern Indian land claims settlement fund (14–2202–0–1–806);” after item relating to dual benefits payments account.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(M), struck out “Eastern Indian land claims settlement fund (14–2202–0–1–806);” after item relating to dual benefits payments account.
 
-    [Pub. L. 105–33, § 10207(c)(1)(L)][/us/pl/105/33/s10207/c/1/L], struck out “Director of the Office of Thrift Supervision;” after item relating to Comptroller of the Currency.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(L), struck out “Director of the Office of Thrift Supervision;” after item relating to Comptroller of the Currency.
 
-    [Pub. L. 105–33, § 10207(c)(1)(K)][/us/pl/105/33/s10207/c/1/K], inserted “, Assessment funds (20–8413–0–8–373)” before semicolon in item relating to the Comptroller of the Currency.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(K), inserted “, Assessment funds (20–8413–0–8–373)” before semicolon in item relating to the Comptroller of the Currency.
 
-    [Pub. L. 105–33, § 10207(c)(1)(J)][/us/pl/105/33/s10207/c/1/J], substituted “806” for “852” in item relating to the Customs Service.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(J), substituted “806” for “852” in item relating to the Customs Service.
 
-    [Pub. L. 105–33, § 10207(c)(1)(I)][/us/pl/105/33/s10207/c/1/I], inserted item relating to Conservation Reserve Program.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(I), inserted item relating to Conservation Reserve Program.
 
-    [Pub. L. 105–33, § 10207(c)(1)(H)][/us/pl/105/33/s10207/c/1/H], inserted item relating to Compact of Free Association.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(H), inserted item relating to Compact of Free Association.
 
-    [Pub. L. 105–33, § 10207(c)(1)(G)][/us/pl/105/33/s10207/c/1/G], struck out “Coinage profit fund (20–5811–0–2–803);” after item relating to claims, judgments, and relief acts.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(G), struck out “Coinage profit fund (20–5811–0–2–803);” after item relating to claims, judgments, and relief acts.
 
-    [Pub. L. 105–33, § 10207(c)(1)(F)][/us/pl/105/33/s10207/c/1/F], substituted “808” for “806” in item relating to claims, judgments, and relief acts.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(F), substituted “808” for “806” in item relating to claims, judgments, and relief acts.
 
-    [Pub. L. 105–33, § 10207(c)(1)(E)][/us/pl/105/33/s10207/c/1/E], struck out “Claims, defense (97–0102–0–1–051);” after second item relating to Bureau of Indian Affairs.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(E), struck out “Claims, defense (97–0102–0–1–051);” after second item relating to Bureau of Indian Affairs.
 
-    [Pub. L. 105–33, § 10207(c)(1)(D)][/us/pl/105/33/s10207/c/1/D], substituted “Miscellaneous trust funds” for “miscellaneous trust funds, tribal trust funds” in second item relating to Bureau of Indian Affairs.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds, tribal trust funds” in second item relating to Bureau of Indian Affairs.
 
-    [Pub. L. 105–33, § 10207(c)(1)(C)][/us/pl/105/33/s10207/c/1/C], inserted “Indian land and water claims settlements and” after comma in first item relating to Bureau of Indian Affairs.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(C), inserted “Indian land and water claims settlements and” after comma in first item relating to Bureau of Indian Affairs.
 
-    [Pub. L. 105–33, § 10207(c)(1)(B)][/us/pl/105/33/s10207/c/1/B], struck out “Thrift Savings Fund (26–8141–0–7–602);” after item relating to administration of Territories, Northern Mariana Islands Covenant grants.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(B), struck out “Thrift Savings Fund (26–8141–0–7–602);” after item relating to administration of Territories, Northern Mariana Islands Covenant grants.
 
-    [Pub. L. 105–33, § 10207(c)(1)(A)][/us/pl/105/33/s10207/c/1/A], inserted item relating to activities financed by voluntary payments to Government.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(1)(A), inserted item relating to activities financed by voluntary payments to Government.
 
-    Subsec. (g)(1)(B). [Pub. L. 105–33, § 10207(c)(2)(E)][/us/pl/105/33/s10207/c/2/E], substituted “Railroad Industry Pension Fund” for “Railroad retirement tier II”.
+    Subsec. (g)(1)(B). [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(2)(E), substituted “Railroad Industry Pension Fund” for “Railroad retirement tier II”.
 
-    [Pub. L. 105–33, § 10207(c)(2)(D)][/us/pl/105/33/s10207/c/2/D], inserted “Special workers compensation expenses,” before “Longshoremen’s and harborworkers’ compensation benefits”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(2)(D), inserted “Special workers compensation expenses,” before “Longshoremen’s and harborworkers’ compensation benefits”.
 
-    [Pub. L. 105–33, § 10207(c)(2)(C)][/us/pl/105/33/s10207/c/2/C], substituted “Claims Judges’ Retirement Fund” for “Court of Federal Claims Judges’ Retirement Fund”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(2)(C), substituted “Claims Judges’ Retirement Fund” for “Court of Federal Claims Judges’ Retirement Fund”.
 
-    [Pub. L. 105–33, § 10207(c)(2)(B)][/us/pl/105/33/s10207/c/2/B], substituted “Black Lung Disability Trust Fund” for “Black lung benefits”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(2)(B), substituted “Black Lung Disability Trust Fund” for “Black lung benefits”.
 
-    [Pub. L. 105–33, § 10207(c)(2)(A)][/us/pl/105/33/s10207/c/2/A], substituted “The following Federal retirement and disability accounts” for “The following budget accounts” in introductory provisions.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(2)(A), substituted “The following Federal retirement and disability accounts” for “The following budget accounts” in introductory provisions.
 
-    Subsec. (g)(2). [Pub. L. 105–33, § 10207(c)(3)(E)][/us/pl/105/33/s10207/c/3/E], struck out items “Credit union share insurance fund (25–4468–0–3–371);” and “Economic development revolving fund (13–4406–0–3–452);” after item relating to credit liquidating accounts, item “Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);” after item relating to energy security reserve (Synthetic Fuels Corporation), item “Federal Deposit Insurance Corporation (51–8419–0–8–371);” after item relating to Federal Crop Insurance Corporation fund, items “Federal Housing Administration fund (86–4070–0–3–371);”, “Federal ship financing fund (69–4301–0–3–403);”, and “Federal ship financing fund, fishing vessels (13–4417–0–3–376);” after item relating to Federal Emergency Management Agency National insurance development fund, items “Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);” and “Health education loans (75–4307–0–3–553);” after item relating to geothermal resources development fund, item “Indian loan guarantee and insurance fund (14–4410–0–3–452);” after item relating to homeowners assistance fund, defense, and items “Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);”, “Rural development insurance fund (12–4155–0–3–452);”, “Rural electric and telephone revolving fund (12–4230–8–3–271);”, “Rural housing insurance fund (12–4141–0–3–371);”, “Small Business Administration, Business loan and investment fund (73–4154–0–3–376);”, “Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);”, “Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);”, “Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);”, and “Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);” after item relating to rail service assistance.
+    Subsec. (g)(2). [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(3)(E), struck out items “Credit union share insurance fund (25–4468–0–3–371);” and “Economic development revolving fund (13–4406–0–3–452);” after item relating to credit liquidating accounts, item “Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);” after item relating to energy security reserve (Synthetic Fuels Corporation), item “Federal Deposit Insurance Corporation (51–8419–0–8–371);” after item relating to Federal Crop Insurance Corporation fund, items “Federal Housing Administration fund (86–4070–0–3–371);”, “Federal ship financing fund (69–4301–0–3–403);”, and “Federal ship financing fund, fishing vessels (13–4417–0–3–376);” after item relating to Federal Emergency Management Agency National insurance development fund, items “Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);” and “Health education loans (75–4307–0–3–553);” after item relating to geothermal resources development fund, item “Indian loan guarantee and insurance fund (14–4410–0–3–452);” after item relating to homeowners assistance fund, defense, and items “Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);”, “Rural development insurance fund (12–4155–0–3–452);”, “Rural electric and telephone revolving fund (12–4230–8–3–271);”, “Rural housing insurance fund (12–4141–0–3–371);”, “Small Business Administration, Business loan and investment fund (73–4154–0–3–376);”, “Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);”, “Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);”, “Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);”, and “Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);” after item relating to rail service assistance.
 
-    [Pub. L. 105–33, § 10207(c)(3)(D)][/us/pl/105/33/s10207/c/3/D], inserted item relating to credit liquidating accounts.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(3)(D), inserted item relating to credit liquidating accounts.
 
-    [Pub. L. 105–33, § 10207(c)(3)(C)][/us/pl/105/33/s10207/c/3/C], struck out “Community development grant loan guarantees (86–0162–0–1–451);” after item relating to United States Treasury check forgery insurance fund.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(3)(C), struck out “Community development grant loan guarantees (86–0162–0–1–451);” after item relating to United States Treasury check forgery insurance fund.
 
-    [Pub. L. 105–33, § 10207(c)(3)(B)][/us/pl/105/33/s10207/c/3/B], substituted “United States Treasury check forgery insurance fund” for “Check forgery insurance fund”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(3)(B), substituted “United States Treasury check forgery insurance fund” for “Check forgery insurance fund”.
 
-    [Pub. L. 105–33, § 10207(c)(3)(A)][/us/pl/105/33/s10207/c/3/A], struck out items “Agency for International Development, Housing, and other credit guarantee programs (72–4340–0–3–151);” and “Agricultural credit insurance fund (12–4140–0–3–351);” after “order issued under this subchapter:”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(c)(3)(A), struck out items “Agency for International Development, Housing, and other credit guarantee programs (72–4340–0–3–151);” and “Agricultural credit insurance fund (12–4140–0–3–351);” after “order issued under this subchapter:”.
 
-    Subsec. (h). [Pub. L. 105–33, § 10207(f)][/us/pl/105/33/s10207/f], struck out heading and text of subsec. (h) relating to optional exemption of military personnel. Text read as follows:
+    Subsec. (h). [Pub. L. 105–33][/us/pl/105/33], § 10207(f), struck out heading and text of subsec. (h) relating to optional exemption of military personnel. Text read as follows:
 
     “(1) The President may, with respect to any military personnel account, exempt that account from sequestration or provide for a lower uniform percentage reduction than would otherwise apply.
 
     “(2) The President may not use the authority provided by paragraph (1) unless he notifies the Congress of the manner in which such authority will be exercised on or before the initial snapshot date for the budget year.”
 
-    [Pub. L. 105–33, § 10207(d)(4)][/us/pl/105/33/s10207/d/4], inserted item relating to family support payments to States.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(d)(4), inserted item relating to family support payments to States.
 
-    [Pub. L. 105–33, § 10207(d)(3)][/us/pl/105/33/s10207/d/3], substituted item relating to special supplemental nutrition program for women, infants, and children (WIC) for “Women, infants, and children program (12–3510–0–1–605).”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(d)(3), substituted item relating to special supplemental nutrition program for women, infants, and children (WIC) for “Women, infants, and children program (12–3510–0–1–605).”.
 
-    [Pub. L. 105–33, § 10207(d)(2)][/us/pl/105/33/s10207/d/2], inserted items relating to temporary assistance for needy families, contingency fund, and child care entitlement to States.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(d)(2), inserted items relating to temporary assistance for needy families, contingency fund, and child care entitlement to States.
 
-    [Pub. L. 105–33, § 10207(d)(1)][/us/pl/105/33/s10207/d/1], substituted item relating to child nutrition programs for “Child nutrition (12–3539–0–1–605);”.
+    [Pub. L. 105–33][/us/pl/105/33], § 10207(d)(1), substituted item relating to child nutrition programs for “Child nutrition (12–3539–0–1–605);”.
 
-    Subsec. (i). [Pub. L. 105–33, § 10207(e)][/us/pl/105/33/s10207/e], amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
+    Subsec. (i). [Pub. L. 105–33][/us/pl/105/33], § 10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
 
-    1996—Subsec. (g)(1)(A). [Pub. L. 104–208, § 2704(d)(10)][/us/pl/104/208/s2704/d/10], which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed and was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendments note below.
+    1996—Subsec. (g)(1)(A). [Pub. L. 104–208][/us/pl/104/208], § 2704(d)(10), which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed and was repealed by [Pub. L. 109–171][/us/pl/109/171]. See Effective Date of 1996 Amendments note below.
 
     Subsec. (h). [Pub. L. 104–193][/us/pl/104/193] substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75–0412–0–1–609);”.
 
-    1992—Subsec. (g)(1)(A). [Pub. L. 102–572, § 601(b)][/us/pl/102/572/s601/b], inserted item relating to payment to Judiciary Trust Funds.
+    1992—Subsec. (g)(1)(A). [Pub. L. 102–572][/us/pl/102/572], § 601(b), inserted item relating to payment to Judiciary Trust Funds.
 
     [Pub. L. 102–486][/us/pl/102/486] inserted item relating to United States Enrichment Corporation.
 
-    Subsec. (g)(1)(B). [Pub. L. 102–572, § 601(a)][/us/pl/102/572/s601/a], inserted items relating to Judicial Officers’ Retirement Fund and Court of Federal Claims Judges’ Retirement Fund.
+    Subsec. (g)(1)(B). [Pub. L. 102–572][/us/pl/102/572], § 601(a), inserted items relating to Judicial Officers’ Retirement Fund and Court of Federal Claims Judges’ Retirement Fund.
 
     1991—Subsec. (b). [Pub. L. 102–83][/us/pl/102/83] substituted “[section 2307 of title 38][/us/usc/t38/s2307]” for “[section 907 of title 38][/us/usc/t38/s907]” in item relating to burial benefits for veterans.
 
     Subsec. (g)(2). [Pub. L. 102–54][/us/pl/102/54] substituted last two items relating to Department of Veterans Affairs for items relating to Veterans Administration, Loan guaranty revolving fund, and Veterans Administration, Servicemen’s group life insurance fund.
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 13101(c)(1)][/us/pl/101/508/s13101/c/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered ‘automatic spending increases’ for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter.”
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 13101(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered ‘automatic spending increases’ for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter.”
 
-    Subsec. (e). [Pub. L. 101–508, § 13101(c)(2)][/us/pl/101/508/s13101/c/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Offsetting receipts and collections shall not be reduced under any order issued under this subchapter.”
+    Subsec. (e). [Pub. L. 101–508][/us/pl/101/508], § 13101(c)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Offsetting receipts and collections shall not be reduced under any order issued under this subchapter.”
 
-    Subsec. (g)(1)(B). [Pub. L. 101–508, § 13101(c)(3)][/us/pl/101/508/s13101/c/3], inserted item relating to railroad supplemental annuity pension fund.
+    Subsec. (g)(1)(B). [Pub. L. 101–508][/us/pl/101/508], § 13101(c)(3), inserted item relating to railroad supplemental annuity pension fund.
 
-    Subsec. (h). [Pub. L. 101–508, § 13101(c)(4)][/us/pl/101/508/s13101/c/4], added subsec. (h) relating to optional exemption of military personnel.
+    Subsec. (h). [Pub. L. 101–508][/us/pl/101/508], § 13101(c)(4), added subsec. (h) relating to optional exemption of military personnel.
 
     1989—Subsec. (g)(1)(A). [Pub. L. 101–220][/us/pl/101/220] inserted item relating to Farm Credit System Financial Assistance Corporation, interest payments, after item relating to Exchange stabilization fund.
 
-    [Pub. L. 101–73, § 743(a)(1)][/us/pl/101/73/s743/a/1], inserted item relating to Director of the Office of Thrift Supervision after item relating to Comptroller of the Currency.
+    [Pub. L. 101–73][/us/pl/101/73], § 743(a)(1), inserted item relating to Director of the Office of Thrift Supervision after item relating to Comptroller of the Currency.
 
-    [Pub. L. 101–73, § 743(a)(2)][/us/pl/101/73/s743/a/2], substituted items relating to Federal Deposit Insurance Corporation, Bank Insurance Fund; Federal Deposit Insurance Corporation, FSLIC Resolution Fund; and Federal Deposit Insurance Corporation, Savings Association Insurance Fund; for item relating to Federal Home Loan Bank Board.
+    [Pub. L. 101–73][/us/pl/101/73], § 743(a)(2), substituted items relating to Federal Deposit Insurance Corporation, Bank Insurance Fund; Federal Deposit Insurance Corporation, FSLIC Resolution Fund; and Federal Deposit Insurance Corporation, Savings Association Insurance Fund; for item relating to Federal Home Loan Bank Board.
 
-    [Pub. L. 101–73, § 743(a)(3)][/us/pl/101/73/s743/a/3], substituted item relating to Federal Housing Finance Board for item relating to Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation.
+    [Pub. L. 101–73][/us/pl/101/73], § 743(a)(3), substituted item relating to Federal Housing Finance Board for item relating to Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation.
 
-    [Pub. L. 101–73, § 743(a)(4)][/us/pl/101/73/s743/a/4], inserted items relating to Resolution Funding Corporation and Resolution Trust Corporation after item relating to Postal service fund.
+    [Pub. L. 101–73][/us/pl/101/73], § 743(a)(4), inserted items relating to Resolution Funding Corporation and Resolution Trust Corporation after item relating to Postal service fund.
 
-    Subsec. (g)(2). [Pub. L. 101–73, § 743(c)][/us/pl/101/73/s743/c], struck out item relating to Federal Savings and Loan Insurance Corporation fund (82–4037–0–3–371).
+    Subsec. (g)(2). [Pub. L. 101–73][/us/pl/101/73], § 743(c), struck out item relating to Federal Savings and Loan Insurance Corporation fund (82–4037–0–3–371).
 
-    1987—Subsec. (b). [Pub. L. 100–119, § 104(b)(1)][/us/pl/100/119/s104/b/1], inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under [section 907 of title 38][/us/usc/t38/s907] relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
+    1987—Subsec. (b). [Pub. L. 100–119][/us/pl/100/119], § 104(b)(1), inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under [section 907 of title 38][/us/usc/t38/s907] relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
 
-    Subsec. (g)(1). [Pub. L. 100–119, § 104(a)(2)][/us/pl/100/119/s104/a/2], (b)(2), (3), designated existing provisions of par. (1) as subpar. (A); inserted items relating to Administration of Territories, Northern Mariana Islands Covenant grants, Thrift Savings Fund, Bureau of Indian Affairs, miscellaneous payments to Indians, Customs Service, miscellaneous permanent appropriations, higher education facilities loans and insurance, Internal Revenue Collections for Puerto Rico, Panama Canal Commission operating expenses and Panama Canal Commission capital outlay, to medical facilities guarantee and loan fund, Federal interest subsidies for medical facilities, Compact of Free Association, economic assistance pursuant to [Public Law 99–658][/us/pl/99/658], payments to United States territories, fiscal assistance, payments to widows and heirs of deceased Members of Congress, and Washington Metropolitan Area Transit Authority, interest payments; and added subpar. (B).
+    Subsec. (g)(1). [Pub. L. 100–119][/us/pl/100/119], § 104(a)(2), (b)(2), (3), designated existing provisions of par. (1) as subpar. (A); inserted items relating to Administration of Territories, Northern Mariana Islands Covenant grants, Thrift Savings Fund, Bureau of Indian Affairs, miscellaneous payments to Indians, Customs Service, miscellaneous permanent appropriations, higher education facilities loans and insurance, Internal Revenue Collections for Puerto Rico, Panama Canal Commission operating expenses and Panama Canal Commission capital outlay, to medical facilities guarantee and loan fund, Federal interest subsidies for medical facilities, Compact of Free Association, economic assistance pursuant to [Public Law 99–658][/us/pl/99/658], payments to United States territories, fiscal assistance, payments to widows and heirs of deceased Members of Congress, and Washington Metropolitan Area Transit Authority, interest payments; and added subpar. (B).
 
     [Pub. L. 100–86][/us/pl/100/86] inserted items relating to Comptroller of the Currency; Federal Deposit Insurance Corporation; Federal Home Loan Bank Board; Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation; National Credit Union Administration; National Credit Union Administration, central liquidity facility; and National Credit Union Administration, credit union share insurance fund.
 
-    Subsec. (g)(2). [Pub. L. 100–119, § 104(c)(1)][/us/pl/100/119/s104/c/1], struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
+    Subsec. (g)(2). [Pub. L. 100–119][/us/pl/100/119], § 104(c)(1), struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
 
-    Subsec. (h). [Pub. L. 100–119, § 104(a)(1)][/us/pl/100/119/s104/a/1], inserted item relating to commodity supplemental food program.
+    Subsec. (h). [Pub. L. 100–119][/us/pl/100/119], § 104(a)(1), inserted item relating to commodity supplemental food program.
 
     1986—Subsec. (d). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -573,7 +573,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. O, title IV, § 403(b)][/us/pl/114/113/s403/b], Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007], provided that: 
+[Pub. L. 114–113, div. O, title IV][/us/pl/114/113/dO/tIV], § 403(b), Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900][/us/usc/t2/s900] et seq.) on or after the date of enactment of this Act \[Dec. 18, 2015\].”
 
@@ -589,13 +589,13 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–572, title XI, § 1101(a)][/us/pl/102/572/s1101/a], Oct. 29, 1992, [106 Stat. 4524][/us/stat/106/4524], provided that: 
+[Pub. L. 102–572, title XI][/us/pl/102/572/tXI], § 1101(a), Oct. 29, 1992, [106 Stat. 4524][/us/stat/106/4524], provided that: 
 
 > “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on January 1, 1993.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–509, title VII, § 7002(b)][/us/pl/99/509/s7002/b], Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949], provided that: 
+[Pub. L. 99–509, title VII][/us/pl/99/509/tVII], § 7002(b), Oct. 21, 1986, [100 Stat. 1949][/us/stat/100/1949], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1986.”
 
@@ -616,43 +616,43 @@
 [/us/usc/t16/s838k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838k
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/pl/99/177/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs255
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1082
-[/us/pl/99/509/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7002%2Fa
+[/us/pl/99/509/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVII
 [/us/stat/100/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1949
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/86/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs506%2Fa
+[/us/pl/100/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtV
 [/us/stat/101/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F634
-[/us/pl/100/119/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs104%2Fa%2F1
+[/us/pl/100/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2FtI
 [/us/stat/101/775-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F775-777
-[/us/pl/101/73/s743/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs743%2Fa
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F437
-[/us/pl/101/220/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs8
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1881
-[/us/pl/101/508/s13101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fc
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-589
-[/us/pl/102/54/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fa
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F274
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/486/s902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs902%2Fd
+[/us/pl/102/486/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIX
 [/us/stat/106/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2944
-[/us/pl/102/572/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs601
+[/us/pl/102/572/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVI
 [/us/stat/106/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4514
-[/us/pl/104/193/s110/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fr%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2175
-[/us/pl/104/208/s2704/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F10
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-489
-[/us/pl/105/33/s10207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F704
-[/us/pl/109/171/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs2102%2Fb
+[/us/pl/109/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtII
 [/us/stat/120/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F9
-[/us/pl/111/139/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F23
-[/us/pl/113/67/s121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F5
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1175
-[/us/pl/114/113/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs403%2Fa
+[/us/pl/114/113/dO/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIV
 [/us/stat/129/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3007
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -661,7 +661,7 @@
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/act/1937-06-24/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-24%2Fch382
 [/us/stat/50/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F307
-[/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/act/1916-09-07/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch458
 [/us/stat/39/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F742
@@ -670,106 +670,106 @@
 [/us/pl/107/42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs410
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/113/67/s121/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F5
-[/us/pl/113/67/s121/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F6
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/pl/113/67/s121/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F8
-[/us/pl/113/67/s121/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F7
-[/us/pl/113/67/s121/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs121%2F8
-[/us/pl/111/139/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fb
-[/us/pl/111/139/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fc
-[/us/pl/111/139/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fd
-[/us/pl/111/139/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fd
-[/us/pl/111/139/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs11%2Fa
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
+[/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/104/208/s2704/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F10
-[/us/pl/105/33/s10207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fa
-[/us/pl/105/33/s10207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t2/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907
-[/us/pl/105/33/s10207/c/1/KK]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FKK
-[/us/pl/105/33/s10207/c/1/JJ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FJJ
-[/us/pl/105/33/s10207/c/1/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FII
-[/us/pl/105/33/s10207/c/1/HH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FHH
-[/us/pl/105/33/s10207/c/1/GG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FGG
-[/us/pl/105/33/s10207/c/1/FF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FFF
-[/us/pl/105/33/s10207/c/1/EE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FEE
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
-[/us/pl/105/33/s10207/c/1/DD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FDD
-[/us/pl/105/33/s10207/c/1/CC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FCC
-[/us/pl/105/33/s10207/c/1/BB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FBB
-[/us/pl/105/33/s10207/c/1/AA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FAA
-[/us/pl/105/33/s10207/c/1/Z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FZ
-[/us/pl/105/33/s10207/c/1/Y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FY
-[/us/pl/105/33/s10207/c/1/X]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FX
-[/us/pl/105/33/s10207/c/1/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FW
-[/us/pl/105/33/s10207/c/1/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FV
-[/us/pl/105/33/s10207/c/1/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FU
-[/us/pl/105/33/s10207/c/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FT
-[/us/pl/105/33/s10207/c/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FS
-[/us/pl/105/33/s10207/c/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FR
-[/us/pl/105/33/s10207/c/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FQ
-[/us/pl/105/33/s10207/c/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FP
-[/us/pl/105/33/s10207/c/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FO
-[/us/pl/105/33/s10207/c/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FN
-[/us/pl/105/33/s10207/c/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FM
-[/us/pl/105/33/s10207/c/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FL
-[/us/pl/105/33/s10207/c/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FK
-[/us/pl/105/33/s10207/c/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FJ
-[/us/pl/105/33/s10207/c/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FI
-[/us/pl/105/33/s10207/c/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FH
-[/us/pl/105/33/s10207/c/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FG
-[/us/pl/105/33/s10207/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FF
-[/us/pl/105/33/s10207/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FE
-[/us/pl/105/33/s10207/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FD
-[/us/pl/105/33/s10207/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FC
-[/us/pl/105/33/s10207/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FB
-[/us/pl/105/33/s10207/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F1%2FA
-[/us/pl/105/33/s10207/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F2%2FE
-[/us/pl/105/33/s10207/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F2%2FD
-[/us/pl/105/33/s10207/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F2%2FC
-[/us/pl/105/33/s10207/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F2%2FB
-[/us/pl/105/33/s10207/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F2%2FA
-[/us/pl/105/33/s10207/c/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F3%2FE
-[/us/pl/105/33/s10207/c/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F3%2FD
-[/us/pl/105/33/s10207/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F3%2FC
-[/us/pl/105/33/s10207/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F3%2FB
-[/us/pl/105/33/s10207/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fc%2F3%2FA
-[/us/pl/105/33/s10207/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Ff
-[/us/pl/105/33/s10207/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fd%2F4
-[/us/pl/105/33/s10207/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fd%2F3
-[/us/pl/105/33/s10207/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fd%2F2
-[/us/pl/105/33/s10207/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fd%2F1
-[/us/pl/105/33/s10207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10207%2Fe
-[/us/pl/104/208/s2704/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2704%2Fd%2F10
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
-[/us/pl/102/572/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs601%2Fb
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/102/572/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs601%2Fa
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/usc/t38/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2307
 [/us/usc/t38/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs907
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/101/508/s13101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fc%2F1
-[/us/pl/101/508/s13101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fc%2F2
-[/us/pl/101/508/s13101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fc%2F3
-[/us/pl/101/508/s13101/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fc%2F4
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
-[/us/pl/101/73/s743/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs743%2Fa%2F1
-[/us/pl/101/73/s743/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs743%2Fa%2F2
-[/us/pl/101/73/s743/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs743%2Fa%2F3
-[/us/pl/101/73/s743/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs743%2Fa%2F4
-[/us/pl/101/73/s743/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs743%2Fc
-[/us/pl/100/119/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs104%2Fb%2F1
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/usc/t38/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs907
-[/us/pl/100/119/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs104%2Fa%2F2
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
-[/us/pl/100/119/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs104%2Fc%2F1
-[/us/pl/100/119/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119%2Fs104%2Fa%2F1
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
+[/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/114/113/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs403%2Fb
+[/us/pl/114/113/dO/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIV
 [/us/stat/129/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3007
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
@@ -781,9 +781,9 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/102/572/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1101%2Fa
+[/us/pl/102/572/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtXI
 [/us/stat/106/4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4524
-[/us/pl/99/509/s7002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7002%2Fb
+[/us/pl/99/509/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVII
 [/us/stat/100/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1949
 [/us/usc/t24/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs411
 

@@ -21,7 +21,7 @@
 
     (2) whose annual rate of pay shall be established by the Speaker, but may not exceed 75 percent of the maximum annual rate under the general limitation specified by the order of the Speaker in effect under [section 4532 of this title][/us/usc/t2/s4532].
 
-([Pub. L. 105–55, title I, § 101][/us/pl/105/55/s101], Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
+([Pub. L. 105–55, title I][/us/pl/105/55/tI], § 101, Oct. 7, 1997, [111 Stat. 1183][/us/stat/111/1183].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s4532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4532
-[/us/pl/105/55/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs101
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1183
 [/us/usc/t2/s74d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74d
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55

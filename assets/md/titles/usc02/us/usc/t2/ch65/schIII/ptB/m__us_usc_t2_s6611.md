@@ -17,7 +17,7 @@
 
     The Sergeant at Arms and Doorkeeper of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year, from the appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Sergeant at Arms and Doorkeeper”, such sums as he shall specify to the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
 
-([Pub. L. 101–520, title I, § 5][/us/pl/101/520/s5], Nov. 5, 1990, [104 Stat. 2258][/us/stat/104/2258].)
+([Pub. L. 101–520, title I][/us/pl/101/520/tI], § 5, Nov. 5, 1990, [104 Stat. 2258][/us/stat/104/2258].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/520/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs5
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2258
 [/us/usc/t2/s68–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68%E2%80%936a
 

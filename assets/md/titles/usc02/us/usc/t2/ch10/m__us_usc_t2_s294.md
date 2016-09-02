@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
+[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293a...293c.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
 
 ## § 294. Position standards and descriptions
 
@@ -71,7 +71,7 @@
 
         All such actions of the committee shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
-([Pub. L. 88–652, § 5][/us/pl/88/652/s5], Oct. 13, 1964, [78 Stat. 1080][/us/stat/78/1080]; [Pub. L. 104–53, title I, § 108(3)][/us/pl/104/53/s108/3], (4), Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522]; [Pub. L. 104–186, title II, § 209(2)][/us/pl/104/186/s209/2], Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].)
+([Pub. L. 88–652][/us/pl/88/652], § 5, Oct. 13, 1964, [78 Stat. 1080][/us/stat/78/1080]; [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 108(3), (4), Nov. 19, 1995, [109 Stat. 522][/us/stat/109/522]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 209(2), Aug. 20, 1996, [110 Stat. 1743][/us/stat/110/1743].)
 
  __References in Text__ 
 
@@ -91,16 +91,16 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
+[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293a...293c.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
 
 ----------
 ----------
 
-[/us/pl/88/652/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs5
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1080
-[/us/pl/104/53/s108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs108%2F3
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F522
-[/us/pl/104/186/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs209%2F2
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1743
 [/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1079

@@ -25,7 +25,7 @@
 
     (4) superseding any provision of law which requires the obligation of budget authority or the making of outlays thereunder.
 
-([Pub. L. 93–344, title X, § 1001][/us/pl/93/344/s1001], July 12, 1974, [88 Stat. 332][/us/stat/88/332].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1001, July 12, 1974, [88 Stat. 332][/us/stat/88/332].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 1400 of Title 31][/us/usc/t31/s1400] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1400 of Title 31][/us/usc/t31/s1400] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title of 1996 Amendment__ 
 
-    [Pub. L. 104–130, § 1][/us/pl/104/130/s1], Apr. 9, 1996, [110 Stat. 1200][/us/stat/110/1200], which provided that [Pub. L. 104–130][/us/pl/104/130] (enacting former subchapter III (§ 691 et seq.) of this chapter and provisions set out as a note under [section 691 of this title][/us/usc/t2/s691] and amending provisions set out as notes under [section 621 of this title][/us/usc/t2/s621]) could be cited as the “Line Item Veto Act”, was omitted pursuant to [section 5 of Pub. L. 104–130][/us/pl/104/130/s5], set out as an Effective and Termination Dates note under [section 691 of this title][/us/usc/t2/s691].
+    [Pub. L. 104–130][/us/pl/104/130], § 1, Apr. 9, 1996, [110 Stat. 1200][/us/stat/110/1200], which provided that [Pub. L. 104–130][/us/pl/104/130] (enacting former subchapter III (§ 691 et seq.) of this chapter and provisions set out as a note under [section 691 of this title][/us/usc/t2/s691] and amending provisions set out as notes under [section 621 of this title][/us/usc/t2/s621]) could be cited as the “Line Item Veto Act”, was omitted pursuant to [section 5 of Pub. L. 104–130][/us/pl/104/130/s5], set out as an Effective and Termination Dates note under [section 691 of this title][/us/usc/t2/s691].
 
  __Short Title__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/93/344/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1001
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F332
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
@@ -63,11 +63,11 @@
 [/us/usc/t1/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs105
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/usc/t31/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1400
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 [/us/pl/93/344/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs905%2Fa
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/104/130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F130%2Fs1
+[/us/pl/104/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F130
 [/us/stat/110/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1200
 [/us/pl/104/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F130
 [/us/usc/t2/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs691

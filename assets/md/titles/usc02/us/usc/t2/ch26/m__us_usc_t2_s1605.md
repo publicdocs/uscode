@@ -65,7 +65,7 @@
 
             The congressional committees referred to in paragraph (1) are the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
-([Pub. L. 104–65, § 6][/us/pl/104/65/s6], Dec. 19, 1995, [109 Stat. 698][/us/stat/109/698]; [Pub. L. 110–81, title II][/us/pl/110/81], §§ 201(b)(3), 209(a), (b), 210, Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742], 748.)
+([Pub. L. 104–65][/us/pl/104/65], § 6, Dec. 19, 1995, [109 Stat. 698][/us/stat/109/698]; [Pub. L. 110–81, title II][/us/pl/110/81/tII], §§ 201(b)(3), 209(a), (b), 210, Sept. 14, 2007, [121 Stat. 742][/us/stat/121/742], 748.)
 
  __References in Text__ 
 
@@ -73,13 +73,13 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–81, § 210][/us/pl/110/81/s210], designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
+    2007—[Pub. L. 110–81][/us/pl/110/81], § 210, designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
 
-    Par. (4). [Pub. L. 110–81, § 209(b)][/us/pl/110/81/s209/b], inserted before semicolon at end “and, in the case of a report filed in electronic form under [section 1604(e) of this title][/us/usc/t2/s1604/e], make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed”.
+    Par. (4). [Pub. L. 110–81][/us/pl/110/81], § 209(b), inserted before semicolon at end “and, in the case of a report filed in electronic form under [section 1604(e) of this title][/us/usc/t2/s1604/e], make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed”.
 
-    Par. (6). [Pub. L. 110–81, § 201(b)(3)][/us/pl/110/81/s201/b/3], substituted “quarterly period” for “semiannual period”.
+    Par. (6). [Pub. L. 110–81][/us/pl/110/81], § 201(b)(3), substituted “quarterly period” for “semiannual period”.
 
-    Pars. (9), (10). [Pub. L. 110–81, § 209(a)][/us/pl/110/81/s209/a], added pars. (9) and (10).
+    Pars. (9), (10). [Pub. L. 110–81][/us/pl/110/81], § 209(a), added pars. (9) and (10).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -93,18 +93,18 @@
 ----------
 
 [/us/usc/t2/s1604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fe
-[/us/pl/104/65/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs6
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F698
-[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2FtII
 [/us/stat/121/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F742
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F691
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
-[/us/pl/110/81/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs210
-[/us/pl/110/81/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs209%2Fb
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/usc/t2/s1604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1604%2Fe
-[/us/pl/110/81/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs201%2Fb%2F3
-[/us/pl/110/81/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs209%2Fa
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
+[/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81
 [/us/pl/110/81/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F81%2Fs215
 [/us/usc/t52/s30104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30104

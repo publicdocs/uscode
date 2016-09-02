@@ -33,11 +33,11 @@
 
     (5) continuity of a session of the Congress shall be considered as broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in the computation of the 45-day period referred to in paragraph (3) of this section and in [section 683 of this title][/us/usc/t2/s683], and the 25-day periods referred to in sections 687 and 688(b)(1) of this title. If a special message is transmitted under [section 683 of this title][/us/usc/t2/s683] during any Congress and the last session of such Congress adjourns sine die before the expiration of 45 calendar days of continuous session (or a special message is so transmitted after the last session of the Congress adjourns sine die), the message shall be deemed to have been retransmitted on the first day of the succeeding Congress and the 45-day period referred to in paragraph (3) of this section and in [section 683 of this title][/us/usc/t2/s683] (with respect to such message) shall commence on the day after such first day.
 
-([Pub. L. 93–344, title X, § 1011][/us/pl/93/344/s1011], July 12, 1974, [88 Stat. 333][/us/stat/88/333].)
+([Pub. L. 93–344, title X][/us/pl/93/344/tX], § 1011, July 12, 1974, [88 Stat. 333][/us/stat/88/333].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 1401 of Title 31][/us/usc/t31/s1401] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 1401 of Title 31][/us/usc/t31/s1401] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -51,10 +51,10 @@
 [/us/usc/t2/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs683
 [/us/usc/t2/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs683
 [/us/usc/t2/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs683
-[/us/pl/93/344/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs1011
+[/us/pl/93/344/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtX
 [/us/stat/88/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F333
 [/us/usc/t31/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1401
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

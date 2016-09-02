@@ -25,7 +25,7 @@
 
         The Executive Director of the Center shall be compensated at the rate specified for employees in grade GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].
 
-([Pub. L. 100–458, title I, § 118][/us/pl/100/458/s118], Oct. 1, 1988, [102 Stat. 2175][/us/stat/102/2175].)
+([Pub. L. 100–458, title I][/us/pl/100/458/tI], § 118, Oct. 1, 1988, [102 Stat. 2175][/us/stat/102/2175].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/100/458/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2Fs118
+[/us/pl/100/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F458%2FtI
 [/us/stat/102/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2175
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

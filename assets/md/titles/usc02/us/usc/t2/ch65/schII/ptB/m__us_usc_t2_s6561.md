@@ -27,7 +27,7 @@
 
         The authority granted by subsection (a) shall not take effect until regulations are issued pursuant to subsection (b).
 
-([Pub. L. 105–55, title I, § 1][/us/pl/105/55/s1], Oct. 7, 1997, [111 Stat. 1179][/us/stat/111/1179].)
+([Pub. L. 105–55, title I][/us/pl/105/55/tI], § 1, Oct. 7, 1997, [111 Stat. 1179][/us/stat/111/1179].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
-[/us/pl/105/55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs1
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1179
 [/us/usc/t2/s68e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68e
 

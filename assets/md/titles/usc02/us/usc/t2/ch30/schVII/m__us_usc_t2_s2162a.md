@@ -43,7 +43,7 @@
 
         Not later than 180 days after December 19, 2007, the Architect of the Capitol shall complete the implementation of the requirements of this section and submit a report describing the actions taken and the energy efficiencies achieved to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 
-([Pub. L. 110–140, title V, § 504][/us/pl/110/140/s504], Dec. 19, 2007, [121 Stat. 1656][/us/stat/121/1656].)
+([Pub. L. 110–140, title V][/us/pl/110/140/tV], § 504, Dec. 19, 2007, [121 Stat. 1656][/us/stat/121/1656].)
 
  __Effective Date__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs504
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1656
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

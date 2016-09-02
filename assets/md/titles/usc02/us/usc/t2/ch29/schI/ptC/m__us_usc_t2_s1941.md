@@ -17,13 +17,13 @@
 
     The Capitol Police Board shall select and regulate the pattern for a uniform for the Capitol police and watchmen, and furnish each member of the force with the necessary belts and arms, payable from appropriations to the Capitol Police upon certification of payment by the Chief of the Capitol Police. Such arms so furnished or other arms as authorized by the Capitol Police Board shall be carried by each officer and member of the Capitol Police, while in the Capitol Buildings (as defined in [section 5101 of title 40][/us/usc/t40/s5101]), and while within or outside of the boundaries of the United States Capitol Grounds (as defined in [section 5102 of title 40][/us/usc/t40/s5102]), in such manner and at such times as the Capitol Police Board may, by regulations, prescribe.
 
-(R.S. § 1824; [Pub. L. 92–607][/us/pl/92/607], ch. V, § 507, Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508]; [Pub. L. 95–26, title I, § 112][/us/pl/95/26/s112], May 4, 1977, [91 Stat. 87][/us/stat/91/87]; [Pub. L. 108–447, div. G, title I, § 1003][/us/pl/108/447/s1003], Dec. 8, 2004, [118 Stat. 3180][/us/stat/118/3180].)
+(R.S. § 1824; [Pub. L. 92–607][/us/pl/92/607], ch. V, § 507, Oct. 31, 1972, [86 Stat. 1508][/us/stat/86/1508]; [Pub. L. 95–26, title I][/us/pl/95/26/tI], § 112, May 4, 1977, [91 Stat. 87][/us/stat/91/87]; [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 1003, Dec. 8, 2004, [118 Stat. 3180][/us/stat/118/3180].)
 
  __Codification__ 
 
-    Section was classified to section 210 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 210 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
-    R.S. § 1824 derived from [act Mar. 30, 1867, ch. 20, § 1][/us/act/1867-03-30/ch20/s1], [15 Stat. 11][/us/stat/15/11].
+    R.S. § 1824 derived from [act Mar. 30, 1867, ch. 20][/us/act/1867-03-30/ch20], § 1, [15 Stat. 11][/us/stat/15/11].
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 [/us/usc/t40/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5102
 [/us/pl/92/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F607
 [/us/stat/86/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1508
-[/us/pl/95/26/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs112
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F87
-[/us/pl/108/447/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1003
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3180
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
-[/us/act/1867-03-30/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-30%2Fch20%2Fs1
+[/us/act/1867-03-30/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-30%2Fch20
 [/us/stat/15/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F11
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/95/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26

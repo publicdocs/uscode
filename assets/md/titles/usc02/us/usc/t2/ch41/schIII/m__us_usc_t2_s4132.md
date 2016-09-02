@@ -23,7 +23,7 @@
 
         (2) Omitted.
 
-([Pub. L. 96–304, title I, § 108][/us/pl/96/304/s108], July 8, 1980, [94 Stat. 890][/us/stat/94/890]; [Pub. L. 101–520, title I, § 7(d)][/us/pl/101/520/s7/d], Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259].)
+([Pub. L. 96–304, title I][/us/pl/96/304/tI], § 108, July 8, 1980, [94 Stat. 890][/us/stat/94/890]; [Pub. L. 101–520, title I][/us/pl/101/520/tI], § 7(d), Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-    [Pub. L. 101–520, title I, § 7(d)][/us/pl/101/520/s7/d], Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259], provided that the amendment made by that section is effective Apr. 1, 1991.
+    [Pub. L. 101–520, title I][/us/pl/101/520/tI], § 7(d), Nov. 5, 1990, [104 Stat. 2259][/us/stat/104/2259], provided that the amendment made by that section is effective Apr. 1, 1991.
 
 ----------
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/96/304/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2Fs108
+[/us/pl/96/304/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F304%2FtI
 [/us/stat/94/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F890
-[/us/pl/101/520/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fd
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2259
 [/us/usc/t2/s123b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123b%E2%80%931
 [/us/pl/101/520/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fd
 [/us/usc/t2/s6597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6597
 [/us/pl/101/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520
-[/us/pl/101/520/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs7%2Fd
+[/us/pl/101/520/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtI
 [/us/stat/104/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2259
 
 

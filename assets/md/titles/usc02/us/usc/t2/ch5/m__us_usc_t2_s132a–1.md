@@ -17,7 +17,7 @@
 
     Effective for fiscal years beginning with fiscal year 1995, obligations for any reimbursable and revolving fund activities performed by the Library of Congress are limited to the total amounts provided (1) in the annual regular appropriations Act making appropriations for the legislative branch, or (2) in a supplemental appropriations Act that makes appropriations for the legislative branch.
 
-([Pub. L. 103–69, title II, § 206][/us/pl/103/69/s206], Aug. 11, 1993, [107 Stat. 706][/us/stat/107/706].)
+([Pub. L. 103–69, title II][/us/pl/103/69/tII], § 206, Aug. 11, 1993, [107 Stat. 706][/us/stat/107/706].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/69/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs206
+[/us/pl/103/69/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtII
 [/us/stat/107/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F706
 
 

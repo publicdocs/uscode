@@ -21,7 +21,7 @@
 
     (2) periodically forward copies of such statements to the Director of the Congressional Budget Office on a reasonably timely basis after promulgation of the general notice of proposed rulemaking or of the final rule for which the statement was prepared.
 
-([Pub. L. 104–4, title II, § 206][/us/pl/104/4/s206], Mar. 22, 1995, [109 Stat. 66][/us/stat/109/66].)
+([Pub. L. 104–4, title II][/us/pl/104/4/tII], § 206, Mar. 22, 1995, [109 Stat. 66][/us/stat/109/66].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1532
-[/us/pl/104/4/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs206
+[/us/pl/104/4/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtII
 [/us/stat/109/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F66
 
 

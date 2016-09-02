@@ -25,7 +25,7 @@
 
         This section shall take effect on October 1, 2001, and shall apply in fiscal year 2002 and successive fiscal years.
 
-([Pub. L. 107–68, title I, § 109][/us/pl/107/68/s109], Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 109, Nov. 12, 2001, [115 Stat. 569][/us/stat/115/569].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/68/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs109
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F569
 [/us/usc/t2/s61f–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61f%E2%80%9310
 

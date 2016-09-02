@@ -17,7 +17,7 @@
 
     The applicable accounts of the House of Representatives is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “are”. </sup></sup>  made available after August 28, 1965, for reimbursement of transportation expenses incurred by not to exceed two employees in the office of a Member of the House of Representatives (including the Resident Commissioner from Puerto Rico) for one round trip each, or incurred by not to exceed one employee for two round trips, in any calendar year between Washington, District of Columbia, and the place of residence of the Member representing the congressional district involved. Such payment shall be made only upon vouchers approved by the Member containing a certification by him that such travel was performed in line of official duty, but the mileage allowed for any such trip shall not exceed the round trip mileage by the nearest usual route between Washington, District of Columbia, and the Member’s place of residence in the congressional district involved. The Committee on House Oversight of the House of Representatives shall make such rules and regulations as may be necessary to carry out this section.
 
-([Pub. L. 89–147, § 3][/us/pl/89/147/s3], Aug. 28, 1965, [79 Stat. 583][/us/stat/79/583]; [Pub. L. 104–186, title II, § 204(71)][/us/pl/104/186/s204/71], Aug. 20, 1996, [110 Stat. 1740][/us/stat/110/1740].)
+([Pub. L. 89–147][/us/pl/89/147], § 3, Aug. 28, 1965, [79 Stat. 583][/us/stat/79/583]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(71), Aug. 20, 1996, [110 Stat. 1740][/us/stat/110/1740].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/89/147/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F147%2Fs3
+[/us/pl/89/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F147
 [/us/stat/79/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F583
-[/us/pl/104/186/s204/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F71
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1740
 [/us/usc/t2/s127a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs127a
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

@@ -17,7 +17,7 @@
 
     The provisions of subsections (a) and (b) of [section 4507 of this title][/us/usc/t2/s4507] (as amended by [section 110 of Pub. L. 95–391][/us/pl/95/391/s110]), shall apply to telephone operators (including the chief operator and assistant chief operators) on the United States Capitol telephone exchange and members of the Capitol Police whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives in the same manner and to the same extent as such provisions apply to individuals whose compensation is disbursed by the Secretary of the Senate. For purposes of so applying such subsections, creditable service shall include service performed as an employee of the United States Capitol telephone exchange or a member of the Capitol Police whether compensation therefor is disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate.
 
-([Pub. L. 95–391, title III, § 310][/us/pl/95/391/s310], Sept. 30, 1978, [92 Stat. 790][/us/stat/92/790]; [Pub. L. 104–186, title II, § 204(8)][/us/pl/104/186/s204/8], Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731].)
+([Pub. L. 95–391, title III][/us/pl/95/391/tIII], § 310, Sept. 30, 1978, [92 Stat. 790][/us/stat/92/790]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(8), Aug. 20, 1996, [110 Stat. 1731][/us/stat/110/1731].)
 
  __Inapplicability of Section to Certain Employees On and After__  __October 1, 1983__ 
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 [/us/pl/95/391/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs110
-[/us/pl/95/391/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2Fs310
+[/us/pl/95/391/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F391%2FtIII
 [/us/stat/92/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F790
-[/us/pl/104/186/s204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F8
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1731
 [/us/usc/t2/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4507
 [/us/usc/t2/s4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4509

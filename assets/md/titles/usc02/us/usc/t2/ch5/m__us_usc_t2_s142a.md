@@ -17,7 +17,7 @@
 
     From and after June 10, 1928, the office of administrative assistant and disbursing officer of the Library of Congress, created by [section 142 of this title][/us/usc/t2/s142], is abolished and thereafter the duties required to be performed by the administrative assistant and disbursing officer shall be performed, under the direction of the Librarian of Congress, by such persons as the Librarian may appoint for those purposes.
 
-([May 11, 1928, ch. 521][/us/act/1928-05-11/ch521], [45 Stat. 497][/us/stat/45/497]; [Pub. L. 92–310, title II, § 220(h)][/us/pl/92/310/s220/h], June 6, 1972, [86 Stat. 205][/us/stat/86/205].)
+([May 11, 1928, ch. 521][/us/act/1928-05-11/ch521], [45 Stat. 497][/us/stat/45/497]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 220(h), June 6, 1972, [86 Stat. 205][/us/stat/86/205].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t2/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs142
 [/us/act/1928-05-11/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-11%2Fch521
 [/us/stat/45/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F497
-[/us/pl/92/310/s220/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs220%2Fh
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F205
 [/us/usc/t2/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs142
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310

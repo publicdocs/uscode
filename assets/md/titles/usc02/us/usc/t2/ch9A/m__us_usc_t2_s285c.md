@@ -17,7 +17,7 @@
 
     The management, supervision, and administration of the Office are vested in the Law Revision Counsel, who shall be appointed by the Speaker without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person so appointed shall serve at the pleasure of the Speaker.
 
-([Pub. L. 93–554, title I][/us/pl/93/554], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777].)
+([Pub. L. 93–554, title I][/us/pl/93/554/tI], ch. III, § 101, Dec. 27, 1974, [88 Stat. 1777][/us/stat/88/1777].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
+[/us/pl/93/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554%2FtI
 [/us/stat/88/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1777
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 

@@ -61,19 +61,19 @@
 
         (3) wherever possible, undertake expanded initiatives to ensure the preservation of the moving image heritage of the United States, including film, videotape, television, and born digital moving image formats, by supporting the work of the National Audio-Visual Conservation Center of the Library of Congress, and other appropriate nonprofit archival and preservation organizations.
 
-([Pub. L. 104–285, title I, § 103][/us/pl/104/285/s103], Oct. 11, 1996, [110 Stat. 3377][/us/stat/110/3377]; [Pub. L. 109–9, title III, § 302(a)][/us/pl/109/9/s302/a], Apr. 27, 2005, [119 Stat. 224][/us/stat/119/224]; [Pub. L. 110–336, § 3(a)(2)][/us/pl/110/336/s3/a/2], Oct. 2, 2008, [122 Stat. 3727][/us/stat/122/3727].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 103, Oct. 11, 1996, [110 Stat. 3377][/us/stat/110/3377]; [Pub. L. 109–9, title III][/us/pl/109/9/tIII], § 302(a), Apr. 27, 2005, [119 Stat. 224][/us/stat/119/224]; [Pub. L. 110–336][/us/pl/110/336], § 3(a)(2), Oct. 2, 2008, [122 Stat. 3727][/us/stat/122/3727].)
 
  __References in Text__ 
 
-    The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) and (c), is title II of [Pub. L. 102–307][/us/pl/102/307], June 26, 1992, [106 Stat. 267][/us/stat/106/267], which was classified principally to sections 179 to 179k of this title and was repealed by [Pub. L. 104–285, title I, § 114][/us/pl/104/285/s114], Oct. 11, 1996, [110 Stat. 3382][/us/stat/110/3382].
+    The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) and (c), is title II of [Pub. L. 102–307][/us/pl/102/307], June 26, 1992, [106 Stat. 267][/us/stat/106/267], which was classified principally to sections 179 to 179k of this title and was repealed by [Pub. L. 104–285, title I][/us/pl/104/285/tI], § 114, Oct. 11, 1996, [110 Stat. 3382][/us/stat/110/3382].
 
  __Amendments__ 
 
     2008—Subsec. (b). [Pub. L. 110–336][/us/pl/110/336] inserted at end “The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.”
 
-    2005—Subsec. (b). [Pub. L. 109–9, § 302(a)(1)][/us/pl/109/9/s302/a/1], substituted “film or other approved copies” for “film copies” and “copyrighted, mass distributed, broadcast, or published” for “copyrighted” and substituted “film or other approved copy” for “film copy” wherever appearing.
+    2005—Subsec. (b). [Pub. L. 109–9][/us/pl/109/9], § 302(a)(1), substituted “film or other approved copies” for “film copies” and “copyrighted, mass distributed, broadcast, or published” for “copyrighted” and substituted “film or other approved copy” for “film copy” wherever appearing.
 
-    Subsec. (c). [Pub. L. 109–9, § 302(a)(2)][/us/pl/109/9/s302/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–9][/us/pl/109/9], § 302(a)(2), added subsec. (c).
 
 ----------
 
@@ -84,18 +84,18 @@
 
 [/us/usc/t2/s179n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179n
 [/us/usc/t2/s179n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179n
-[/us/pl/104/285/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs103
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3377
-[/us/pl/109/9/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fa
+[/us/pl/109/9/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtIII
 [/us/stat/119/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F224
-[/us/pl/110/336/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs3%2Fa%2F2
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3727
 [/us/pl/102/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F307
 [/us/stat/106/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F267
-[/us/pl/104/285/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs114
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3382
 [/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
-[/us/pl/109/9/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fa%2F1
-[/us/pl/109/9/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fa%2F2
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 
 

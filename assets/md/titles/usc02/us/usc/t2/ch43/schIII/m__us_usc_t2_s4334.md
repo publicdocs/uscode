@@ -17,7 +17,7 @@
 
     Funds in the account, within the contingent fund of the Senate, available for the expenses of inquiries and investigations shall be available for franked mail expenses incurred by committees of the Senate the other expenses of which are paid from that account.
 
-([Pub. L. 105–55, title I, § 6(b)][/us/pl/105/55/s6/b], Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181].)
+([Pub. L. 105–55, title I][/us/pl/105/55/tI], § 6(b), Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–55, title I, § 6(c)][/us/pl/105/55/s6/c], Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181], provided that: 
+[Pub. L. 105–55, title I][/us/pl/105/55/tI], § 6(c), Oct. 7, 1997, [111 Stat. 1181][/us/stat/111/1181], provided that: 
 
 > “This section \[enacting this section\] is effective for fiscal years beginning on and after October 1, 1997.”
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/105/55/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs6%2Fb
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1181
 [/us/usc/t2/s69–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs69%E2%80%931
-[/us/pl/105/55/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs6%2Fc
+[/us/pl/105/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtI
 [/us/stat/111/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1181
 
 

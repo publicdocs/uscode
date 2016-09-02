@@ -21,7 +21,7 @@
 
     (2) “user” means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms.
 
-([Pub. L. 100–123, § 1][/us/pl/100/123/s1], Oct. 5, 1987, [101 Stat. 794][/us/stat/101/794].)
+([Pub. L. 100–123][/us/pl/100/123], § 1, Oct. 5, 1987, [101 Stat. 794][/us/stat/101/794].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–123, § 4][/us/pl/100/123/s4], Oct. 5, 1987, [101 Stat. 795][/us/stat/101/795], provided that: 
+[Pub. L. 100–123][/us/pl/100/123], § 4, Oct. 5, 1987, [101 Stat. 795][/us/stat/101/795], provided that: 
 
 > “This Act \[enacting this section and sections 6622 and 6623 of this title\] shall take effect on October 1, 1987.”
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/100/123/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs1
+[/us/pl/100/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123
 [/us/stat/101/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F794
 [/us/usc/t2/s58a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs58a%E2%80%931
-[/us/pl/100/123/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123%2Fs4
+[/us/pl/100/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F123
 [/us/stat/101/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F795
 
 

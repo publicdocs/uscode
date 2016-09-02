@@ -51,7 +51,7 @@
 
         Amounts deposited in the Miscellaneous Receipts Account of the Capitol Visitor Center Revolving Fund under this section shall be available as provided under [section 2233(b) of this title][/us/usc/t2/s2233/b].
 
-([Pub. L. 110–437, title V, § 504][/us/pl/110/437/s504], Oct. 20, 2008, [122 Stat. 4998][/us/stat/122/4998].)
+([Pub. L. 110–437, title V][/us/pl/110/437/tV], § 504, Oct. 20, 2008, [122 Stat. 4998][/us/stat/122/4998].)
 
 ----------
 
@@ -65,7 +65,7 @@
 [/us/usc/t2/s167j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167j
 [/us/usc/t2/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2231
 [/us/usc/t2/s2233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2233%2Fb
-[/us/pl/110/437/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs504
+[/us/pl/110/437/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtV
 [/us/stat/122/4998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4998
 
 

@@ -47,7 +47,7 @@
 
         The Speaker of the House shall prescribe rules and regulations to carry out the provisions of this section.
 
-([Pub. L. 93–359, § 3][/us/pl/93/359/s3], July 25, 1974, [88 Stat. 395][/us/stat/88/395]; [Pub. L. 104–186, title II, § 204(76)][/us/pl/104/186/s204/76], Aug. 20, 1996, [110 Stat. 1742][/us/stat/110/1742]; [Pub. L. 104–316, title I, § 102(c)][/us/pl/104/316/s102/c], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828].)
+([Pub. L. 93–359][/us/pl/93/359], § 3, July 25, 1974, [88 Stat. 395][/us/stat/88/395]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(76), Aug. 20, 1996, [110 Stat. 1742][/us/stat/110/1742]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 102(c), Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828].)
 
  __Codification__ 
 
@@ -68,11 +68,11 @@
 ----------
 ----------
 
-[/us/pl/93/359/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F359%2Fs3
+[/us/pl/93/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F359
 [/us/stat/88/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F395
-[/us/pl/104/186/s204/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F76
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1742
-[/us/pl/104/316/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs102%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3828
 [/us/usc/t2/s130d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130d
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

@@ -17,7 +17,7 @@
 
     The Federal Bureau of Investigation, notwithstanding any other provision of law, may in any fiscal year pay all administrative uncontrollable overtime accrued by its employees while on detail to the Committee on Appropriations.
 
-([Pub. L. 103–283, title I][/us/pl/103/283], July 22, 1994, [108 Stat. 1430][/us/stat/108/1430].)
+([Pub. L. 103–283, title I][/us/pl/103/283/tI], July 22, 1994, [108 Stat. 1430][/us/stat/108/1430].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
+[/us/pl/103/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtI
 [/us/stat/108/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1430
 [/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
 

@@ -17,7 +17,7 @@
 
     The Financial Clerk of the Senate may be paid at a maximum annual rate of compensation not to exceed $39,000.
 
-([Pub. L. 93–371, § 4][/us/pl/93/371/s4], Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429]; [Pub. L. 94–59, title I, § 105][/us/pl/94/59/s105], July 25, 1975, [89 Stat. 275][/us/stat/89/275].)
+([Pub. L. 93–371][/us/pl/93/371], § 4, Aug. 13, 1974, [88 Stat. 429][/us/stat/88/429]; [Pub. L. 94–59, title I][/us/pl/94/59/tI], § 105, July 25, 1975, [89 Stat. 275][/us/stat/89/275].)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/93/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371%2Fs4
+[/us/pl/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F371
 [/us/stat/88/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F429
-[/us/pl/94/59/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2Fs105
+[/us/pl/94/59/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59%2FtI
 [/us/stat/89/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F275
 [/us/usc/t2/s64a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs64a%E2%80%931
 [/us/pl/94/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F59

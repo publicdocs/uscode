@@ -25,7 +25,7 @@
 
     (2) Upon the request of the Commission, the head of any department, agency, or establishment of any branch of the Federal Government is authorized to detail, on a reimbursable basis, for periods covering all or part of any fiscal year referred to in subparagraphs (A) and (B) of [section 352(8) of this title][/us/usc/t2/s352/8], any of the personnel of such department, agency, or establishment to assist the Commission in carrying out its function.
 
-([Pub. L. 90–206, title II, § 225(c)][/us/pl/90/206/s225/c], Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643]; [Pub. L. 101–194, title VII, § 701(c)][/us/pl/101/194/s701/c], Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764].)
+([Pub. L. 90–206, title II][/us/pl/90/206/tII], § 225(c), Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643]; [Pub. L. 101–194, title VII][/us/pl/101/194/tVII], § 701(c), Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s352/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs352%2F8
-[/us/pl/90/206/s225/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs225%2Fc
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F643
-[/us/pl/101/194/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs701%2Fc
+[/us/pl/101/194/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtVII
 [/us/stat/103/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1764
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t2/s352/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs352%2F8

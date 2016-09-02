@@ -75,21 +75,21 @@
 
         It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in [section 901 of this title][/us/usc/t2/s901] to be exceeded.
 
-([Pub. L. 93–344, title III, § 314][/us/pl/93/344/s314], as added [Pub. L. 105–33, title X, § 10114(a)][/us/pl/105/33/s10114/a], Aug. 5, 1997, [111 Stat. 688][/us/stat/111/688]; amended [Pub. L. 105–89, title II, § 201(b)(2)][/us/pl/105/89/s201/b/2], Nov. 19, 1997, [111 Stat. 2125][/us/stat/111/2125]; [Pub. L. 112–25, title I, § 105(a)][/us/pl/112/25/s105/a], Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246]; [Pub. L. 112–78, title V, § 511][/us/pl/112/78/s511], Dec. 23, 2011, [125 Stat. 1291][/us/stat/125/1291]; [Pub. L. 113–67, div. A, title I, § 122(10)][/us/pl/113/67/s122/10], Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
+([Pub. L. 93–344, title III][/us/pl/93/344/tIII], § 314, as added [Pub. L. 105–33, title X][/us/pl/105/33/tX], § 10114(a), Aug. 5, 1997, [111 Stat. 688][/us/stat/111/688]; amended [Pub. L. 105–89, title II][/us/pl/105/89/tII], § 201(b)(2), Nov. 19, 1997, [111 Stat. 2125][/us/stat/111/2125]; [Pub. L. 112–25, title I][/us/pl/112/25/tI], § 105(a), Aug. 2, 2011, [125 Stat. 246][/us/stat/125/246]; [Pub. L. 112–78, title V][/us/pl/112/78/tV], § 511, Dec. 23, 2011, [125 Stat. 1291][/us/stat/125/1291]; [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(10), Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
 
  __Amendments__ 
 
     2013—Subsec. (d)(2). [Pub. L. 113–67][/us/pl/113/67] redesignated subpar. (B) as (A) and substituted “under paragraph (1)” for “under subparagraph (A)”, redesignated subpar. (C) as (B) and substituted “under subparagraph (A)” for “under subparagraph (B)”, and struck out former subpar. (A) which read as follows: “In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.”
 
-    2011—Subsec. (a). [Pub. L. 112–25, § 105(a)(1)][/us/pl/112/25/s105/a/1], added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
+    2011—Subsec. (a). [Pub. L. 112–25][/us/pl/112/25], § 105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 
-    Subsecs. (b) to (d). [Pub. L. 112–25, § 105(a)(2)][/us/pl/112/25/s105/a/2], (3), added subsec. (d), redesignated former subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to amounts of adjustments.
+    Subsecs. (b) to (d). [Pub. L. 112–25][/us/pl/112/25], § 105(a)(2), (3), added subsec. (d), redesignated former subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to amounts of adjustments.
 
-    Subsec. (e). [Pub. L. 112–78, § 511(2)][/us/pl/112/78/s511/2], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 112–78][/us/pl/112/78], § 511(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    [Pub. L. 112–25, § 105(a)(2)][/us/pl/112/25/s105/a/2], (3), added subsec. (e) and struck out former subsec. (e) which defined “continuing disability reviews” and “new budget authority” as used in former subsec. (b)(2).
+    [Pub. L. 112–25][/us/pl/112/25], § 105(a)(2), (3), added subsec. (e) and struck out former subsec. (e) which defined “continuing disability reviews” and “new budget authority” as used in former subsec. (b)(2).
 
-    Subsec. (f). [Pub. L. 112–78, § 511(1)][/us/pl/112/78/s511/1], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 112–78][/us/pl/112/78], § 511(1), redesignated subsec. (e) as (f).
 
     1997—Subsec. (b)(6). [Pub. L. 105–89][/us/pl/105/89] added par. (6).
 
@@ -109,23 +109,23 @@
 [/us/usc/t2/s901/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fb%2F2%2FA%2Fi
 [/us/usc/t2/s644/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs644%2Fe
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
-[/us/pl/93/344/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs314
-[/us/pl/105/33/s10114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10114%2Fa
+[/us/pl/93/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIII
+[/us/pl/105/33/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtX
 [/us/stat/111/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F688
-[/us/pl/105/89/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs201%2Fb%2F2
+[/us/pl/105/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2FtII
 [/us/stat/111/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2125
-[/us/pl/112/25/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs105%2Fa
+[/us/pl/112/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2FtI
 [/us/stat/125/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F246
-[/us/pl/112/78/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs511
+[/us/pl/112/78/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtV
 [/us/stat/125/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1291
-[/us/pl/113/67/s122/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F10
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1176
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
-[/us/pl/112/25/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs105%2Fa%2F1
-[/us/pl/112/25/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs105%2Fa%2F2
-[/us/pl/112/78/s511/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs511%2F2
-[/us/pl/112/25/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs105%2Fa%2F2
-[/us/pl/112/78/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs511%2F1
+[/us/pl/112/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25
+[/us/pl/112/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25
+[/us/pl/112/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78
+[/us/pl/112/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25
+[/us/pl/112/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/pl/105/89/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs501

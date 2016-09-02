@@ -17,7 +17,7 @@
 
     All appropriations made to the Architect of the Capitol on account of the Library Building and Grounds shall be disbursed for that purpose in the same manner as other appropriations under his control.
 
-([June 29, 1922, ch. 251, § 3][/us/act/1922-06-29/ch251/s3], [42 Stat. 715][/us/stat/42/715].)
+([June 29, 1922, ch. 251][/us/act/1922-06-29/ch251], § 3, [42 Stat. 715][/us/stat/42/715].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1922-06-29/ch251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-29%2Fch251%2Fs3
+[/us/act/1922-06-29/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-06-29%2Fch251
 [/us/stat/42/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F715
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
 [/us/usc/t31/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs306

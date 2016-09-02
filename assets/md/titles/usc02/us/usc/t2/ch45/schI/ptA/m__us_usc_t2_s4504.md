@@ -35,7 +35,7 @@
 
         (3) chapter 89 (relating to Federal employees group health insurance) of title 5.
 
-([Pub. L. 89–379][/us/pl/89/379], Mar. 30, 1966, [80 Stat. 94][/us/stat/80/94]; [Pub. L. 104–186, title II, § 204(73)][/us/pl/104/186/s204/73], Aug. 20, 1996, [110 Stat. 1741][/us/stat/110/1741].)
+([Pub. L. 89–379][/us/pl/89/379], Mar. 30, 1966, [80 Stat. 94][/us/stat/80/94]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(73), Aug. 20, 1996, [110 Stat. 1741][/us/stat/110/1741].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 
 [/us/pl/89/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F379
 [/us/stat/80/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F94
-[/us/pl/104/186/s204/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F73
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1741
 [/us/usc/t2/s130a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130a
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186

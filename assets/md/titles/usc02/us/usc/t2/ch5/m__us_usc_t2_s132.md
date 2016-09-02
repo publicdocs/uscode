@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 81 derived from [act July 14, 1832, ch. 221, § 1][/us/act/1832-07-14/ch221/s1], [4 Stat. 579][/us/stat/4/579].
+    R.S. § 81 derived from [act July 14, 1832, ch. 221][/us/act/1832-07-14/ch221], § 1, [4 Stat. 579][/us/stat/4/579].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1832-07-14/ch221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-14%2Fch221%2Fs1
+[/us/act/1832-07-14/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-14%2Fch221
 [/us/stat/4/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F579
 
 

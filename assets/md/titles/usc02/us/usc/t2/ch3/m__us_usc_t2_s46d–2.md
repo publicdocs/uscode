@@ -15,7 +15,7 @@
 
 ## § 46d–2. Repealed. [Pub. L. 90–57][/us/pl/90/57], July 28, 1967, [81 Stat. 130][/us/stat/81/130]
 
-    Section, [Pub. L. 89–90, § 101][/us/pl/89/90/s101], July 27, 1965, [79 Stat. 268][/us/stat/79/268], provided for computation of long-distance telephone calls for Senators, wide area telephone service contracts, and effective date of changes. See [section 6314 of this title][/us/usc/t2/s6314].
+    Section, [Pub. L. 89–90][/us/pl/89/90], § 101, July 27, 1965, [79 Stat. 268][/us/stat/79/268], provided for computation of long-distance telephone calls for Senators, wide area telephone service contracts, and effective date of changes. See [section 6314 of this title][/us/usc/t2/s6314].
 
  __Effective Date of Repeal__ 
 
@@ -30,7 +30,7 @@
 
 [/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
 [/us/stat/81/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F130
-[/us/pl/89/90/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90%2Fs101
+[/us/pl/89/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F90
 [/us/stat/79/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F268
 [/us/usc/t2/s6314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6314
 [/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57

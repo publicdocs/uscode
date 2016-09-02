@@ -35,7 +35,7 @@
 
         (2) 36.5 percent of such allowance shall be transferred to the Office of the Minority Leader.
 
-([Pub. L. 108–83, title I, § 106][/us/pl/108/83/s106], Sept. 30, 2003, [117 Stat. 1018][/us/stat/117/1018].)
+([Pub. L. 108–83, title I][/us/pl/108/83/tI], § 106, Sept. 30, 2003, [117 Stat. 1018][/us/stat/117/1018].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t2/s74d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74d%E2%80%931
 [/us/usc/t2/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5622
-[/us/pl/108/83/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2Fs106
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1018
 [/us/usc/t2/s74d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74d
 

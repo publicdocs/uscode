@@ -53,7 +53,7 @@
 
         The Chief Executive Officer shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Chief Executive Officer. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
 
-([Pub. L. 110–437, title II, § 203][/us/pl/110/437/s203], Oct. 20, 2008, [122 Stat. 4987][/us/stat/122/4987].)
+([Pub. L. 110–437, title II][/us/pl/110/437/tII], § 203, Oct. 20, 2008, [122 Stat. 4987][/us/stat/122/4987].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t2/s2271/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2271%2Fb
 [/us/usc/t2/s2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2233
-[/us/pl/110/437/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs203
+[/us/pl/110/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtII
 [/us/stat/122/4987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4987
 [/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4983

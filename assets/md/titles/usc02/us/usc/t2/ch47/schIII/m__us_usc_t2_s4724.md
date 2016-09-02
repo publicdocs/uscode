@@ -19,7 +19,7 @@
 
     (b) Subsection (a) shall not apply if an employee first advises his supervisor of his significant financial interest and obtains from such supervisor a written waiver stating that the participation of the employee is necessary. A copy of each such waiver shall be filed with the Select Committee.
 
-([Pub. L. 101–194, title IX, § 903][/us/pl/101/194/s903], Nov. 30, 1989, [103 Stat. 1781][/us/stat/103/1781].)
+([Pub. L. 101–194, title IX][/us/pl/101/194/tIX], § 903, Nov. 30, 1989, [103 Stat. 1781][/us/stat/103/1781].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/194/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs903
+[/us/pl/101/194/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIX
 [/us/stat/103/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1781
 [/us/usc/t2/s60–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60%E2%80%932
 

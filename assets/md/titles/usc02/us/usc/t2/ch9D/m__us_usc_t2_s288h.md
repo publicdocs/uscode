@@ -31,7 +31,7 @@
 
     (7) the constitutionality of Acts and joint resolutions of the Congress.
 
-([Pub. L. 95–521, title VII, § 709][/us/pl/95/521/s709], Oct. 26, 1978, [92 Stat. 1881][/us/stat/92/1881].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 709, Oct. 26, 1978, [92 Stat. 1881][/us/stat/92/1881].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/95/521/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs709
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1881
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504

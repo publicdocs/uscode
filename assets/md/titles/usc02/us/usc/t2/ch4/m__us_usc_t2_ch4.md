@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs60j%E2%80%934" data-uslm-ref="/us/usc/t2/s60j–4">60j–4</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs60" data-uslm-ref="/us/usc/t2/s60">60</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs60j%E2%80%934" data-uslm-ref="/us/usc/t2/s60j–4">60j–4</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs60l" data-uslm-ref="/us/usc/t2/s60l">60l</a>.  </td>
 
     <td> Transferred.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs60" data-uslm-ref="/us/usc/t2/s60">60</a>o to 61–1c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs60o" data-uslm-ref="/us/usc/t2/s60o">60o</a> to 61–1c.  </td>
 
     <td> Transferred.  </td>
 
@@ -1033,7 +1033,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs130j" data-uslm-ref="/us/usc/t2/s130j">130j</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs130" data-uslm-ref="/us/usc/t2/s130">130</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs130j" data-uslm-ref="/us/usc/t2/s130j">130j</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs130l" data-uslm-ref="/us/usc/t2/s130l">130l</a>.  </td>
 
     <td> Transferred.  </td>
 

@@ -57,7 +57,7 @@
 
         Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
 
-([Pub. L. 104–1, title II, § 203][/us/pl/104/1/s203], Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–197, title III, § 312][/us/pl/104/197/s312], Sept. 16, 1996, [110 Stat. 2415][/us/stat/110/2415].)
+([Pub. L. 104–1, title II][/us/pl/104/1/tII], § 203, Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–197, title III][/us/pl/104/197/tIII], § 312, Sept. 16, 1996, [110 Stat. 2415][/us/stat/110/2415].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(3). [Pub. L. 104–197, § 312(a)][/us/pl/104/197/s312/a], inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
+    1996—Subsec. (a)(3). [Pub. L. 104–197][/us/pl/104/197], § 312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
 
-    Subsec. (c)(4). [Pub. L. 104–197, § 312(b)][/us/pl/104/197/s312/b], added par. (4).
+    Subsec. (c)(4). [Pub. L. 104–197][/us/pl/104/197], § 312(b), added par. (4).
 
  __Application of Rights and Protections of Fair Labor Standards Act of 1938 to Congressional and Architect of the Capitol Employees__ 
 
-[Pub. L. 101–157, § 8][/us/pl/101/157/s8], Nov. 17, 1989, [103 Stat. 944][/us/stat/103/944], provided that:
+[Pub. L. 101–157][/us/pl/101/157], § 8, Nov. 17, 1989, [103 Stat. 944][/us/stat/103/944], provided that:
 
 >     “(a) __House Employees.—__ 
 
@@ -103,9 +103,9 @@
 [/us/usc/t2/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1384
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s207/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fk
-[/us/pl/104/1/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs203
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F10
-[/us/pl/104/197/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs312
+[/us/pl/104/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtIII
 [/us/stat/110/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2415
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
@@ -113,9 +113,9 @@
 [/us/pl/104/1/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs203
 [/us/pl/104/1/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs203
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/pl/104/197/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs312%2Fa
-[/us/pl/104/197/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs312%2Fb
-[/us/pl/101/157/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs8
+[/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197
+[/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F944
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201

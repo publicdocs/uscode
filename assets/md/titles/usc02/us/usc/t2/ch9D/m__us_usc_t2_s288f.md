@@ -17,7 +17,7 @@
 
     When directed to do so pursuant to [section 288b(d) of this title][/us/usc/t2/s288b/d], the Counsel shall serve as the duly authorized representative of the Senate or a committee or subcommittee of the Senate in requesting a United States district court to issue an order granting immunity pursuant to [section 6005 of title 18][/us/usc/t18/s6005].
 
-([Pub. L. 95–521, title VII, § 707][/us/pl/95/521/s707], Oct. 26, 1978, [92 Stat. 1880][/us/stat/92/1880].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 707, Oct. 26, 1978, [92 Stat. 1880][/us/stat/92/1880].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t2/s288b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288b%2Fd
 [/us/usc/t18/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6005
-[/us/pl/95/521/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs707
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1880
 
 

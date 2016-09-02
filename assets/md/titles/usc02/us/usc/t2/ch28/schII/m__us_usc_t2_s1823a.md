@@ -35,7 +35,7 @@
 
         This section shall apply with respect to fiscal year 2009 and each succeeding fiscal year.
 
-([Pub. L. 111–8, div. G, title I, § 1102][/us/pl/111/8/s1102], Mar. 11, 2009, [123 Stat. 823][/us/stat/123/823].)
+([Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1102, Mar. 11, 2009, [123 Stat. 823][/us/stat/123/823].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/8/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1102
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F823
 
 

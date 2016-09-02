@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s441i.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s441k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441j)
 
-## § 441j. Repealed. [Pub. L. 96–187, title I, § 105(1)][/us/pl/96/187/s105/1], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354]
+## § 441j. Repealed. [Pub. L. 96–187, title I][/us/pl/96/187/tI], § 105(1), Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354]
 
-    Section, [Pub. L. 92–225, title III, § 329][/us/pl/92/225/s329], as added [Pub. L. 94–283, title I, § 112(2)][/us/pl/94/283/s112/2], May 11, 1976, [90 Stat. 494][/us/stat/90/494], set forth provisions respecting penalties for violations of the Federal Election Campaign Act of 1971.
+    Section, [Pub. L. 92–225, title III][/us/pl/92/225/tIII], § 329, as added [Pub. L. 94–283, title I][/us/pl/94/283/tI], § 112(2), May 11, 1976, [90 Stat. 494][/us/stat/90/494], set forth provisions respecting penalties for violations of the Federal Election Campaign Act of 1971.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/96/187/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs105%2F1
+[/us/pl/96/187/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2FtI
 [/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
-[/us/pl/92/225/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs329
-[/us/pl/94/283/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs112%2F2
+[/us/pl/92/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtIII
+[/us/pl/94/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtI
 [/us/stat/90/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F494
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

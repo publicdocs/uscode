@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 22 derived from [act Feb. 2, 1872, ch. 11, § 6][/us/act/1872-02-02/ch11/s6], [17 Stat. 29][/us/stat/17/29].
+    R.S. § 22 derived from [act Feb. 2, 1872, ch. 11][/us/act/1872-02-02/ch11], § 6, [17 Stat. 29][/us/stat/17/29].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1872-02-02/ch11/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-02-02%2Fch11%2Fs6
+[/us/act/1872-02-02/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-02-02%2Fch11
 [/us/stat/17/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F29
 
 

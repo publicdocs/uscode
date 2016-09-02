@@ -17,7 +17,7 @@
 
     The authorization to bring judicial proceedings under sections 1405(f)(3), 1407, and 1408 of this title shall not constitute a waiver of sovereign immunity for any other purpose, or of the privileges of any Senator or Member of the House of Representatives under article I, section 6, clause 1, of the Constitution, or a waiver of any power of either the Senate or the House of Representatives under the Constitution, including under article I, section 5, clause 3, or under the rules of either House relating to records and information within its jurisdiction.
 
-([Pub. L. 104–1, title IV, § 413][/us/pl/104/1/s413], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 413, Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/1/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs413
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F38
 
 

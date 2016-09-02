@@ -33,7 +33,7 @@
 
         All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall become the property of the United States Government, subject to the provisions of title 17.
 
-([Pub. L. 106–474, title I, § 104][/us/pl/106/474/s104], Nov. 9, 2000, [114 Stat. 2087][/us/stat/114/2087].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 104, Nov. 9, 2000, [114 Stat. 2087][/us/stat/114/2087].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/106/474/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs104
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2087
 [/us/pl/106/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474
 [/us/stat/114/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2085

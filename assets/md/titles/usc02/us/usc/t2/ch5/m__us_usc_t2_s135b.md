@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-([Mar. 3, 1931, ch. 400, § 2][/us/act/1931-03-03/ch400/s2], [46 Stat. 1487][/us/stat/46/1487]; [Pub. L. 89–522, § 1][/us/pl/89/522/s1], July 30, 1966, [80 Stat. 330][/us/stat/80/330].)
+([Mar. 3, 1931, ch. 400][/us/act/1931-03-03/ch400], § 2, [46 Stat. 1487][/us/stat/46/1487]; [Pub. L. 89–522][/us/pl/89/522], § 1, July 30, 1966, [80 Stat. 330][/us/stat/80/330].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t2/s135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs135a
 [/us/usc/t2/s135a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs135a%E2%80%931
-[/us/act/1931-03-03/ch400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch400%2Fs2
+[/us/act/1931-03-03/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch400
 [/us/stat/46/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1487
-[/us/pl/89/522/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F522%2Fs1
+[/us/pl/89/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F522
 [/us/stat/80/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F330
 [/us/pl/89/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F522
 

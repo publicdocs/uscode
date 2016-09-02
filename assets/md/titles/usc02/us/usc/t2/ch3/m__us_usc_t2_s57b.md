@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 57b, [Pub. L. 104–53, title III, § 314][/us/pl/104/53/s314], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], provided that, effective Sept. 1, 1995, Committee on House Oversight of House of Representatives had authority to combine House of Representatives Clerk Hire Allowance, Official Expenses Allowance, and Official Mail Allowance into single allowance, to be known as the “Members’ Representational Allowance” and to prescribe regulations relating to allocations, expenditures, and other matters with respect to Members’ Representational Allowance.
+    A prior section 57b, [Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 314, Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538], provided that, effective Sept. 1, 1995, Committee on House Oversight of House of Representatives had authority to combine House of Representatives Clerk Hire Allowance, Official Expenses Allowance, and Official Mail Allowance into single allowance, to be known as the “Members’ Representational Allowance” and to prescribe regulations relating to allocations, expenditures, and other matters with respect to Members’ Representational Allowance.
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5341
-[/us/pl/104/53/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs314
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 
 

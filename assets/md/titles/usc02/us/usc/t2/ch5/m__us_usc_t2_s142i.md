@@ -17,7 +17,7 @@
 
     Effective June 15, 1989, the Library of Congress shall provide financial management services and support to the United States Capitol Preservation Commission as may be required and mutually agreed to by the Librarian of Congress and the Cochairmen of the United States Capitol Preservation Commission.
 
-([Pub. L. 101–45, title I][/us/pl/101/45], June 30, 1989, [103 Stat. 107][/us/stat/103/107].)
+([Pub. L. 101–45, title I][/us/pl/101/45/tI], June 30, 1989, [103 Stat. 107][/us/stat/103/107].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
+[/us/pl/101/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45%2FtI
 [/us/stat/103/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F107
 
 

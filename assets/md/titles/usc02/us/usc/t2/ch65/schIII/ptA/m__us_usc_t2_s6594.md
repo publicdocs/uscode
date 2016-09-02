@@ -17,7 +17,7 @@
 
     Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of the Deputy Sergeant at Arms and Doorkeeper at an annual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
 
-([Pub. L. 94–226, § 1(a)][/us/pl/94/226/s1/a], Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203]; [Pub. L. 96–38, title I, § 106(1)][/us/pl/96/38/s106/1], July 25, 1979, [93 Stat. 112][/us/stat/93/112].)
+([Pub. L. 94–226][/us/pl/94/226], § 1(a), Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203]; [Pub. L. 96–38, title I][/us/pl/96/38/tI], § 106(1), July 25, 1979, [93 Stat. 112][/us/stat/93/112].)
 
  __Codification__ 
 
@@ -29,19 +29,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–226, § 1(b)][/us/pl/94/226/s1/b], Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203], provided that: 
+[Pub. L. 94–226][/us/pl/94/226], § 1(b), Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203], provided that: 
 
 > “Subsection (a) \[enacting this section\] shall take effect on January 1, 1976, and, notwithstanding any other provision of law, any increase in compensation made under authority of such subsection may take effect on that date or any date thereafter as prescribed by the Sergeant at Arms and Doorkeeper at the time of making such increase.”
 
  __Change of Name__ 
 
-[Pub. L. 94–226, § 1(c)][/us/pl/94/226/s1/c], Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203], provided that: 
+[Pub. L. 94–226][/us/pl/94/226], § 1(c), Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203], provided that: 
 
 > “Effective on the date of enactment of this resolution \[Mar. 9, 1976\] the title of the Procurement Officer, Auditor, and Deputy Sergeant at Arms is changed to Deputy Sergeant at Arms and Doorkeeper.”
 
  __Authority of President Pro Tempore of the Senate To Raise or Adjust Rate of Compensation__ 
 
-[Pub. L. 94–226, § 1(a)][/us/pl/94/226/s1/a], Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203], provided in part that: 
+[Pub. L. 94–226][/us/pl/94/226], § 1(a), Mar. 9, 1976, [90 Stat. 203][/us/stat/90/203], provided in part that: 
 
 > “This subsection \[this section\] does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection \[this section\] under section 4 of the Federal Pay Comparability Act of 1970 \[[section 4571 of this title][/us/usc/t2/s4571]\].”
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/pl/94/226/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226%2Fs1%2Fa
+[/us/pl/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226
 [/us/stat/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F203
-[/us/pl/96/38/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs106%2F1
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F112
 [/us/usc/t2/s61e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61e%E2%80%931
 [/us/pl/96/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38
-[/us/pl/94/226/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226%2Fs1%2Fb
+[/us/pl/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226
 [/us/stat/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F203
-[/us/pl/94/226/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226%2Fs1%2Fc
+[/us/pl/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226
 [/us/stat/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F203
-[/us/pl/94/226/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226%2Fs1%2Fa
+[/us/pl/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F226
 [/us/stat/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F203
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 

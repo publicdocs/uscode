@@ -151,7 +151,7 @@
 
         The term “tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act ([85 Stat. 688][/us/stat/85/688]; [43 U.S.C. 1601][/us/usc/t43/s1601] et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
-([Pub. L. 93–344, title IV, § 421][/us/pl/93/344/s421], as added [Pub. L. 104–4, title I, § 101(a)(2)][/us/pl/104/4/s101/a/2], Mar. 22, 1995, [109 Stat. 50][/us/stat/109/50]; amended [Pub. L. 113–67, div. A, title I, § 122(14)][/us/pl/113/67/s122/14], Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
+([Pub. L. 93–344, title IV][/us/pl/93/344/tIV], § 421, as added [Pub. L. 104–4, title I][/us/pl/104/4/tI], § 101(a)(2), Mar. 22, 1995, [109 Stat. 50][/us/stat/109/50]; amended [Pub. L. 113–67, div. A, title I][/us/pl/113/67/dA/tI], § 122(14), Dec. 26, 2013, [127 Stat. 1176][/us/stat/127/1176].)
 
  __References in Text__ 
 
@@ -179,10 +179,10 @@
 [/us/usc/t31/s6501/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6501%2F9
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/93/344/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs421
-[/us/pl/104/4/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2Fs101%2Fa%2F2
+[/us/pl/93/344/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2FtIV
+[/us/pl/104/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F4%2FtI
 [/us/stat/109/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F50
-[/us/pl/113/67/s122/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs122%2F14
+[/us/pl/113/67/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtI
 [/us/stat/127/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1176
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

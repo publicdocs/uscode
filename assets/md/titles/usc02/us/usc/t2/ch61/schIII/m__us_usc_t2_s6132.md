@@ -17,7 +17,7 @@
 
     Effective October 1, 1983, there is established within the Offices of the Majority and Minority Leaders the positions of Assistant to the Majority Leader for Floor Operations and Assistant to the Minority Leader for Floor Operations, respectively. Individuals appointed to such positions by the Majority Leader and Minority Leader, respectively, shall receive compensation at a rate fixed by the appropriate Leader not to exceed the maximum annual rate of gross compensation of the Assistant Secretary of the Senate.
 
-([Pub. L. 98–51, title I, § 101(a)][/us/pl/98/51/s101/a], July 14, 1983, [97 Stat. 265][/us/stat/97/265].)
+([Pub. L. 98–51, title I][/us/pl/98/51/tI], § 101(a), July 14, 1983, [97 Stat. 265][/us/stat/97/265].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/51/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs101%2Fa
+[/us/pl/98/51/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2FtI
 [/us/stat/97/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F265
 [/us/usc/t2/s61h–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61h%E2%80%935
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656

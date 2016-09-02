@@ -93,25 +93,25 @@
 
         The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
 
-([Pub. L. 104–285, title I, § 104][/us/pl/104/285/s104], Oct. 11, 1996, [110 Stat. 3378][/us/stat/110/3378]; [Pub. L. 109–9, title III, § 302(b)][/us/pl/109/9/s302/b], Apr. 27, 2005, [119 Stat. 225][/us/stat/119/225]; [Pub. L. 110–336, § 3(a)(3)][/us/pl/110/336/s3/a/3], Oct. 2, 2008, [122 Stat. 3727][/us/stat/122/3727].)
+([Pub. L. 104–285, title I][/us/pl/104/285/tI], § 104, Oct. 11, 1996, [110 Stat. 3378][/us/stat/110/3378]; [Pub. L. 109–9, title III][/us/pl/109/9/tIII], § 302(b), Apr. 27, 2005, [119 Stat. 225][/us/stat/119/225]; [Pub. L. 110–336][/us/pl/110/336], § 3(a)(3), Oct. 2, 2008, [122 Stat. 3727][/us/stat/122/3727].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(E). [Pub. L. 110–336, § 3(a)(3)(A)][/us/pl/110/336/s3/a/3/A], substituted “Cinema and Media” for “Cinema”.
+    2008—Subsec. (a)(1)(E). [Pub. L. 110–336][/us/pl/110/336], § 3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
 
-    Subsec. (a)(1)(G). [Pub. L. 110–336, § 3(a)(3)(B)][/us/pl/110/336/s3/a/3/B], substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
+    Subsec. (a)(1)(G). [Pub. L. 110–336][/us/pl/110/336], § 3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
 
-    Subsec. (a)(1)(H). [Pub. L. 110–336, § 3(a)(3)(C)][/us/pl/110/336/s3/a/3/C], substituted “Cinema Studies” for “Film and Television”.
+    Subsec. (a)(1)(H). [Pub. L. 110–336][/us/pl/110/336], § 3(a)(3)(C), substituted “Cinema Studies” for “Film and Television”.
 
-    Subsec. (a)(1)(L). [Pub. L. 110–336, § 3(a)(3)(D)][/us/pl/110/336/s3/a/3/D], amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
+    Subsec. (a)(1)(L). [Pub. L. 110–336][/us/pl/110/336], § 3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
 
-    2005—Subsec. (a)(1). [Pub. L. 109–9, § 302(b)(1)][/us/pl/109/9/s302/b/1], substituted “22” for “20” in introductory provisions.
+    2005—Subsec. (a)(1). [Pub. L. 109–9][/us/pl/109/9], § 302(b)(1), substituted “22” for “20” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–9, § 302(b)(2)][/us/pl/109/9/s302/b/2], substituted “5” for “three”.
+    Subsec. (a)(2). [Pub. L. 109–9][/us/pl/109/9], § 302(b)(2), substituted “5” for “three”.
 
-    Subsec. (d). [Pub. L. 109–9, § 302(b)(3)][/us/pl/109/9/s302/b/3], substituted “12” for “11”.
+    Subsec. (d). [Pub. L. 109–9][/us/pl/109/9], § 302(b)(3), substituted “12” for “11”.
 
-    Subsec. (e). [Pub. L. 109–9, § 302(b)(4)][/us/pl/109/9/s302/b/4], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
+    Subsec. (e). [Pub. L. 109–9][/us/pl/109/9], § 302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
 
 ----------
 
@@ -120,19 +120,19 @@
 ----------
 ----------
 
-[/us/pl/104/285/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2Fs104
+[/us/pl/104/285/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F285%2FtI
 [/us/stat/110/3378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3378
-[/us/pl/109/9/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fb
+[/us/pl/109/9/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtIII
 [/us/stat/119/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F225
-[/us/pl/110/336/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs3%2Fa%2F3
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
 [/us/stat/122/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3727
-[/us/pl/110/336/s3/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs3%2Fa%2F3%2FA
-[/us/pl/110/336/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs3%2Fa%2F3%2FB
-[/us/pl/110/336/s3/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs3%2Fa%2F3%2FC
-[/us/pl/110/336/s3/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336%2Fs3%2Fa%2F3%2FD
-[/us/pl/109/9/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fb%2F1
-[/us/pl/109/9/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fb%2F2
-[/us/pl/109/9/s302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fb%2F3
-[/us/pl/109/9/s302/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs302%2Fb%2F4
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
+[/us/pl/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F336
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
+[/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 
 

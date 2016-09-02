@@ -17,7 +17,7 @@
 
     No provision of this Act or of any Act enacted after October 1, 1976, which specifies a rate of compensation (including a maximum rate) for any position or employee whose compensation is disbursed by the Secretary of the Senate shall, unless otherwise specifically provided therein, be construed to affect the applicability of [section 4571 of this title][/us/usc/t2/s4571] to such rate.
 
-([Pub. L. 94–440, title I, § 107][/us/pl/94/440/s107], Oct. 1, 1976, [90 Stat. 1444][/us/stat/90/1444].)
+([Pub. L. 94–440, title I][/us/pl/94/440/tI], § 107, Oct. 1, 1976, [90 Stat. 1444][/us/stat/90/1444].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
-[/us/pl/94/440/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs107
+[/us/pl/94/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2FtI
 [/us/stat/90/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1444
 [/us/pl/94/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440
 [/us/stat/90/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1439

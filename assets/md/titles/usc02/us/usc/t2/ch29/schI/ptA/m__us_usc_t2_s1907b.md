@@ -17,7 +17,7 @@
 
     Available balances of expired United States Capitol Police appropriations shall be available to the Capitol Police to make the deposit to the credit of the Employees’ Compensation Fund required by [section 8147(b) of title 5][/us/usc/t5/s8147/b].
 
-([Pub. L. 113–76, div. I, title I, § 1002(a)][/us/pl/113/76/s1002/a], Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
+([Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1002(a), Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t5/s8147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147%2Fb
-[/us/pl/113/76/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fa
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
 [/us/pl/113/76/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fc
 [/us/usc/t2/s1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907

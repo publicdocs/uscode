@@ -17,7 +17,7 @@
 
     There is established in the House of Representatives an office to be known as the Office of the Legislative Counsel, referred to hereinafter in this subchapter as the “Office”.
 
-([Pub. L. 91–510, title V, § 501][/us/pl/91/510/s501], Oct. 26, 1970, [84 Stat. 1201][/us/stat/84/1201].)
+([Pub. L. 91–510, title V][/us/pl/91/510/tV], § 501, Oct. 26, 1970, [84 Stat. 1201][/us/stat/84/1201].)
 
  __Effective Date__ 
 
@@ -25,7 +25,7 @@
 
  __Transfer of Functions; Nonapplicability of Sections 271 to 277 to the House__ 
 
-[Pub. L. 91–510, title V, § 531][/us/pl/91/510/s531], Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203], provided that: 
+[Pub. L. 91–510, title V][/us/pl/91/510/tV], § 531, Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203], provided that: 
 
 > “Any individual who on the date of the enactment of this Act \[Oct. 26, 1970\] is serving under an appointment by the Speaker as Legislative Counsel of the House of Representatives shall continue as Legislative Counsel of the House of Representatives in accordance with this subtitle \[this subchapter\]. All personnel, positions, property, records, and unexpended balances of appropriations of or for that part of the Office of the Legislative Counsel established under section 1303 of the Revenue Act of 1918 (2 U.S.C., ch. 9) \[sections 271 to 277 of this title\] employed or held in or for the House of Representatives shall be transferred to the Office established under this subtitle; and, effective upon the date of enactment of this Act, the provisions of section 1303 of the Revenue Act of 1918 shall have no further applicability of any kind to the Speaker or to any committee, officer, employee, or property of the House of Representatives.”
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/91/510/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs501
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1201
 [/us/pl/91/510/s601/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F5
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/pl/91/510/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs531
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1203
 
 

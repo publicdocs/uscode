@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 90–206, title II, § 214(g)][/us/pl/90/206/s214/g]–(i), Dec. 16, 1967, [81 Stat. 636][/us/stat/81/636], provided for an increase in annual rate of gross compensation for pay periods after Dec. 16, 1967, for certain employees whose compensation is disbursed by Secretary of Senate and Clerk of House of Representatives.
+    Section, [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 214(g)–(i), Dec. 16, 1967, [81 Stat. 636][/us/stat/81/636], provided for an increase in annual rate of gross compensation for pay periods after Dec. 16, 1967, for certain employees whose compensation is disbursed by Secretary of Senate and Clerk of House of Representatives.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/206/s214/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214%2Fg
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F636
 
 

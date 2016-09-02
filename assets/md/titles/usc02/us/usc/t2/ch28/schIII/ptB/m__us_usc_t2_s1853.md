@@ -29,9 +29,9 @@
 
     Section was formerly classified to [section 60e–2a of this title][/us/usc/t2/s60e–2a] prior to editorial reclassification and renumbering as this section.
 
-    Section is comprised of section 204(a) of act Oct. 28, 1949. Subsections (b) and (c) of such section were repealed by [Pub. L. 89–554, § 8][/us/pl/89/554/s8], Sept. 6, 1966, [80 Stat. 655][/us/stat/80/655], and reenacted as sections 5102(d) and 5103 of Title 5, Government Organization and Employees.
+    Section is comprised of section 204(a) of act Oct. 28, 1949. Subsections (b) and (c) of such section were repealed by [Pub. L. 89–554][/us/pl/89/554], § 8, Sept. 6, 1966, [80 Stat. 655][/us/stat/80/655], and reenacted as sections 5102(d) and 5103 of Title 5, Government Organization and Employees.
 
-    Section was classified to [section 1084(a) of Title 5][/us/usc/t5/s1084/a] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was classified to [section 1084(a) of Title 5][/us/usc/t5/s1084/a] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
     “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “this Act”, referring to the Classification Act of 1949, on authority of [section 7(b) of Pub. L. 89–554][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], section 1 of which enacted Title 5.
 
@@ -53,10 +53,10 @@
 [/us/act/1923-03-04/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch265
 [/us/stat/42/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1488
 [/us/usc/t2/s60e–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%932a
-[/us/pl/89/554/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F655
 [/us/usc/t5/s1084/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1084%2Fa
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631

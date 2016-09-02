@@ -31,7 +31,7 @@
 
         Amounts received by the Federal Government from the sale of items of office equipment or office furnishings under this section shall be remitted to the General Services Administration and credited to the appropriate account or accounts.
 
-([Pub. L. 93–462, § 2][/us/pl/93/462/s2], Oct. 20, 1974, [88 Stat. 1388][/us/stat/88/1388].)
+([Pub. L. 93–462][/us/pl/93/462], § 2, Oct. 20, 1974, [88 Stat. 1388][/us/stat/88/1388].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/462/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F462%2Fs2
+[/us/pl/93/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F462
 [/us/stat/88/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1388
 [/us/usc/t2/s59b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs59b
 

@@ -33,7 +33,7 @@
 
     (8) references  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “the reference”. </sup></sup>  in [section 907(e) of this title][/us/usc/t2/s907/e] to “section 901, 902, or 903 of this title” shall be interpreted as referencing [section 933 of this title][/us/usc/t2/s933].
 
-([Pub. L. 111–139, title I, § 8][/us/pl/111/139/s8], Feb. 12, 2010, [124 Stat. 21][/us/stat/124/21].)
+([Pub. L. 111–139, title I][/us/pl/111/139/tI], § 8, Feb. 12, 2010, [124 Stat. 21][/us/stat/124/21].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t2/s906/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fk
 [/us/usc/t2/s907/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907%2Fe
 [/us/usc/t2/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs933
-[/us/pl/111/139/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2Fs8
+[/us/pl/111/139/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139%2FtI
 [/us/stat/124/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F21
 [/us/pl/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F139
 [/us/stat/124/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F8

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch21/m__us_usc_t2_ch21.md) | [Next](./../../../..//us/usc/t2/ch22/m__us_usc_t2_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch22)
+[Previous](./../../../..//us/usc/t2/ch21/m__us_usc_t2_s1001...1004.md) | [Next](./../../../..//us/usc/t2/ch22/m__us_usc_t2_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch22)
 
 ## CHAPTER 22—JOHN C. STENNIS CENTER FOR PUBLIC SERVICE TRAINING AND DEVELOPMENT
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch21/m__us_usc_t2_ch21.md) | [Next](./../../../..//us/usc/t2/ch22/m__us_usc_t2_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch22)
+[Previous](./../../../..//us/usc/t2/ch21/m__us_usc_t2_s1001...1004.md) | [Next](./../../../..//us/usc/t2/ch22/m__us_usc_t2_s1101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch22)
 
 ----------
 ----------

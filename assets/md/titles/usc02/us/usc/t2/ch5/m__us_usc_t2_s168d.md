@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums, to remain available until expended, as may be necessary to carry out the provisions of sections 168 to 168d of this title.
 
-([Pub. L. 91–589, § 5][/us/pl/91/589/s5], Dec. 24, 1970, [84 Stat. 1587][/us/stat/84/1587].)
+([Pub. L. 91–589][/us/pl/91/589], § 5, Dec. 24, 1970, [84 Stat. 1587][/us/stat/84/1587].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/589/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589%2Fs5
+[/us/pl/91/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F589
 [/us/stat/84/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1587
 
 

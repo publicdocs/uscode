@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 64–2, [Pub. L. 95–26, title I, § 108][/us/pl/95/26/s108], May 4, 1977, [91 Stat. 85][/us/stat/91/85], provided that, on and after May 4, 1977, Secretary of Senate was authorized to transfer funds between appropriations with approval of a resolution of Senate.
+    A prior section 64–2, [Pub. L. 95–26, title I][/us/pl/95/26/tI], § 108, May 4, 1977, [91 Stat. 85][/us/stat/91/85], provided that, on and after May 4, 1977, Secretary of Senate was authorized to transfer funds between appropriations with approval of a resolution of Senate.
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t2/s6562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6562
-[/us/pl/95/26/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2Fs108
+[/us/pl/95/26/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F26%2FtI
 [/us/stat/91/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F85
 
 

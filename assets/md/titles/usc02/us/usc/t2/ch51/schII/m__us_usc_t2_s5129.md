@@ -21,7 +21,7 @@
 
     (2) in the case of an individual who becomes a former Speaker after October 1, 1993, for 5 years, commencing at the expiration of the term of office of the individual as a Representative in Congress.
 
-([Pub. L. 103–69, title I, § 101A(a)][/us/pl/103/69/s101A/a], Aug. 11, 1993, [107 Stat. 699][/us/stat/107/699].)
+([Pub. L. 103–69, title I][/us/pl/103/69/tI], § 101A(a), Aug. 11, 1993, [107 Stat. 699][/us/stat/107/699].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–69, title I, § 101A(b)][/us/pl/103/69/s101A/b], Aug. 11, 1993, [107 Stat. 699][/us/stat/107/699], provided that: 
+[Pub. L. 103–69, title I][/us/pl/103/69/tI], § 101A(b), Aug. 11, 1993, [107 Stat. 699][/us/stat/107/699], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1993.”
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/103/69/s101A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs101A%2Fa
+[/us/pl/103/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtI
 [/us/stat/107/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F699
 [/us/usc/t2/s31b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31b%E2%80%937
 [/us/pl/103/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69
 [/us/pl/91/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F665
 [/us/stat/84/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1989
-[/us/pl/103/69/s101A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs101A%2Fb
+[/us/pl/103/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtI
 [/us/stat/107/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F699
 
 

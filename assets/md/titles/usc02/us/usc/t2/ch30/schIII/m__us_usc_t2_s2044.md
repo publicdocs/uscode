@@ -17,11 +17,11 @@
 
     There is established with the Treasurer of the United States a special deposit account in the name of the Architect of the Capitol for the United States Senate Restaurants, into which shall be deposited all sums received pursuant to sections 2042 to 2047 of this title or any amendatory or supplementary resolutions hereafter adopted and from the operations thereunder and from which shall be disbursed the sums necessary in connection with the exercise of the duties required under sections 2042 to 2047 of this title or any amendatory or supplementary resolutions and the operations thereunder. Any amounts appropriated for fiscal year 1973 and thereafter from the Treasury of the United States, which shall be part of a “Contingent Expenses of the Senate” item for the particular fiscal year involved, shall be paid to the Architect of the Capitol by the Secretary of the Senate at such times and in such sums as the Senate Committee on Rules and Administration may approve. Any such payment shall be deposited by the Architect in full under such special deposit account.
 
-([Pub. L. 87–82, § 4][/us/pl/87/82/s4], July 6, 1961, [75 Stat. 199][/us/stat/75/199]; [Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 129][/us/stat/85/129]; [Pub. L. 92–342, § 101][/us/pl/92/342/s101], July 10, 1972, [86 Stat. 435][/us/stat/86/435].)
+([Pub. L. 87–82][/us/pl/87/82], § 4, July 6, 1961, [75 Stat. 199][/us/stat/75/199]; [Pub. L. 92–51][/us/pl/92/51], July 9, 1971, [85 Stat. 129][/us/stat/85/129]; [Pub. L. 92–342][/us/pl/92/342], § 101, July 10, 1972, [86 Stat. 435][/us/stat/86/435].)
 
  __Codification__ 
 
-    Section was classified to section 174j–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 174j–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/87/82/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F82%2Fs4
+[/us/pl/87/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F82
 [/us/stat/75/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F199
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51
 [/us/stat/85/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F129
-[/us/pl/92/342/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342%2Fs101
+[/us/pl/92/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342
 [/us/stat/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F435
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/92/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F342
 [/us/pl/92/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F51

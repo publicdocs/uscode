@@ -23,7 +23,7 @@
 
         Not more than 10 percent of the total amount of funds appropriated to the account under any category of appropriations for the Library of Congress for a fiscal year may be transferred from that account by all transfers made under subsection (a).
 
-([Pub. L. 113–76, div. I, title I, § 1402][/us/pl/113/76/s1402], Jan. 17, 2014, [128 Stat. 431][/us/stat/128/431].)
+([Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1402, Jan. 17, 2014, [128 Stat. 431][/us/stat/128/431].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/113/76/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1402
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F431
 
 

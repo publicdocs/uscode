@@ -21,7 +21,7 @@
 
     (2) the promotion of coordination in areas of technology assessment, and the avoidance of unnecessary duplication or overlapping of research activities in the development of technology assessment techniques and programs.
 
-([Pub. L. 92–484, § 10(a)][/us/pl/92/484/s10/a], Oct. 13, 1972, [86 Stat. 802][/us/stat/86/802].)
+([Pub. L. 92–484][/us/pl/92/484], § 10(a), Oct. 13, 1972, [86 Stat. 802][/us/stat/86/802].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/484/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484%2Fs10%2Fa
+[/us/pl/92/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F484
 [/us/stat/86/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F802
 
 

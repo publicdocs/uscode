@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 99–177, title II, § 273][/us/pl/99/177/s273], Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098], which related to revenue estimates, was redesignated as [section 201(g) of Pub. L. 93–344][/us/pl/93/344/s201/g] by [section 13202(b) of Pub. L. 101–508][/us/pl/101/508/s13202/b] and is classified to [section 601(f) of this title][/us/usc/t2/s601/f].
+    Section, [Pub. L. 99–177, title II][/us/pl/99/177/tII], § 273, Dec. 12, 1985, [99 Stat. 1098][/us/stat/99/1098], which related to revenue estimates, was redesignated as [section 201(g) of Pub. L. 93–344][/us/pl/93/344/s201/g] by [section 13202(b) of Pub. L. 101–508][/us/pl/101/508/s13202/b] and is classified to [section 601(f) of this title][/us/usc/t2/s601/f].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/177/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs273
+[/us/pl/99/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2FtII
 [/us/stat/99/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1098
 [/us/pl/93/344/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344%2Fs201%2Fg
 [/us/pl/101/508/s13202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13202%2Fb

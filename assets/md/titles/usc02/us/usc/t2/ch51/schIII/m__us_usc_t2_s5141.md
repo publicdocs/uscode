@@ -19,7 +19,7 @@
 
     (b) The annual rate of compensation for any individual employed under subsection (a) shall not exceed the annual rate of basic pay of level V of the Executive Schedule of [section 5316 of title 5][/us/usc/t5/s5316], and until otherwise provided by law such compensation as may be necessary shall be paid from the applicable accounts of the House of Representatives.
 
-([Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668]; [Pub. L. 104–53, title I, § 103][/us/pl/104/53/s103], Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520]; [Pub. L. 104–186, title II, § 204(15)(A)][/us/pl/104/186/s204/15/A], Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 115, Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668]; [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 103, Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520]; [Pub. L. 104–186, title II][/us/pl/104/186/tII], § 204(15)(A), Aug. 20, 1996, [110 Stat. 1732][/us/stat/110/1732].)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 1995, as enacted into permanent law by [Pub. L. 104–53, title I, § 103][/us/pl/104/53/s103], Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520], provided that: 
+Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 1995, as enacted into permanent law by [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 103, Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520], provided that: 
 
 > “Upon the enactment of this section into permanent law, the amendment made by subsection (b) \[amending this section\] shall take effect.”
 
@@ -53,11 +53,11 @@ Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 
 ----------
 
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
-[/us/pl/104/53/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs103
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F520
-[/us/pl/104/186/s204/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F15%2FA
+[/us/pl/104/186/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2FtII
 [/us/stat/110/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1732
 [/us/usc/t2/s74a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74a%E2%80%933
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
@@ -65,7 +65,7 @@ Section 3(a) of House Resolution No. 113, One Hundred Fourth Congress, Mar. 10, 
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53
-[/us/pl/104/53/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs103
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F520
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656

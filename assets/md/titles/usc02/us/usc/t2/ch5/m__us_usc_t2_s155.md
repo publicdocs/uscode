@@ -17,7 +17,7 @@
 
     No compensation shall be paid to the members of the board for their services as such members, but they shall be reimbursed for the expenses necessarily incurred by them, out of the income from the fund or funds in connection with which such expenses are incurred. The voucher of the chairman of the board shall be sufficient evidence that the expenses are properly allowable. Any expenses of the board, including the cost of its seal, not properly chargeable to the income of any trust fund held by it, shall be estimated for in the annual estimates of the librarian for the maintenance of the Library of Congress.
 
-([Mar. 3, 1925, ch. 423, § 1][/us/act/1925-03-03/ch423/s1], [43 Stat. 1107][/us/stat/43/1107].)
+([Mar. 3, 1925, ch. 423][/us/act/1925-03-03/ch423], § 1, [43 Stat. 1107][/us/stat/43/1107].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch423/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423%2Fs1
+[/us/act/1925-03-03/ch423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch423
 [/us/stat/43/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1107
 [/us/usc/t2/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs154
 

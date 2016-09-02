@@ -27,7 +27,7 @@
 
         Nothing in this chapter shall be construed to confer standing on any party seeking to bring, or jurisdiction on any court with respect to, any civil or criminal action against Congress, either House of Congress, a Member of Congress, a committee or subcommittee of a House of Congress, any office or agency of Congress, or any officer or employee of a House of Congress or any office or agency of Congress.
 
-([Pub. L. 95–521, title VII, § 713][/us/pl/95/521/s713], Oct. 26, 1978, [92 Stat. 1883][/us/stat/92/1883].)
+([Pub. L. 95–521, title VII][/us/pl/95/521/tVII], § 713, Oct. 26, 1978, [92 Stat. 1883][/us/stat/92/1883].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t2/s288e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288e
-[/us/pl/95/521/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs713
+[/us/pl/95/521/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2FtVII
 [/us/stat/92/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1883
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t2/s5504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5504

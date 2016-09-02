@@ -31,7 +31,7 @@
 
         The Sergeant at Arms is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section and to provide for the operations of the Daniel Webster Senate Page Residence.
 
-([Pub. L. 103–283, title I, § 4][/us/pl/103/283/s4], July 22, 1994, [108 Stat. 1427][/us/stat/108/1427]; [Pub. L. 104–53, title I, § 6][/us/pl/104/53/s6], Nov. 19, 1995, [109 Stat. 518][/us/stat/109/518].)
+([Pub. L. 103–283, title I][/us/pl/103/283/tI], § 4, July 22, 1994, [108 Stat. 1427][/us/stat/108/1427]; [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 6, Nov. 19, 1995, [109 Stat. 518][/us/stat/109/518].)
 
  __Codification__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/103/283/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs4
+[/us/pl/103/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtI
 [/us/stat/108/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1427
-[/us/pl/104/53/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs6
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F518
 [/us/usc/t2/s88b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%937
 [/us/pl/104/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53

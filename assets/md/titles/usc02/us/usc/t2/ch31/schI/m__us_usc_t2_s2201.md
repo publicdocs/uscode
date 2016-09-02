@@ -109,7 +109,7 @@
 
             A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of an historical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
 
-([Pub. L. 110–437, title I, § 101][/us/pl/110/437/s101], Oct. 20, 2008, [122 Stat. 4984][/us/stat/122/4984].)
+([Pub. L. 110–437, title I][/us/pl/110/437/tI], § 101, Oct. 20, 2008, [122 Stat. 4984][/us/stat/122/4984].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 
  __Short Title__ 
 
-[Pub. L. 110–437, § 1(a)][/us/pl/110/437/s1/a], Oct. 20, 2008, [122 Stat. 4983][/us/stat/122/4983], provided that: 
+[Pub. L. 110–437][/us/pl/110/437], § 1(a), Oct. 20, 2008, [122 Stat. 4983][/us/stat/122/4983], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 130e, 1301, 1331, 1341, and 2134 of this title and sections 2107 and 5379 of Title 5, Government Organization and Employees, repealing sections 1806, 1807, 1825, 2165, and 2166 of this title, enacting provisions set out as notes under sections 1301 and 1831 of this title, and amending provisions set out as a note under [section 1831 of this title][/us/usc/t2/s1831]\] may be cited as the ‘Capitol Visitor Center Act of 2008’.”
 
@@ -141,7 +141,7 @@
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
 [/us/stat/115/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F588
 [/us/usc/t2/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2134
-[/us/pl/110/437/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs101
+[/us/pl/110/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtI
 [/us/stat/122/4984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4984
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-569
@@ -152,7 +152,7 @@
 [/us/usc/t2/s2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2165
 [/us/pl/110/437/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs101
 [/us/usc/t2/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2134
-[/us/pl/110/437/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs1%2Fa
+[/us/pl/110/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437
 [/us/stat/122/4983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4983
 [/us/usc/t2/s1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1831
 

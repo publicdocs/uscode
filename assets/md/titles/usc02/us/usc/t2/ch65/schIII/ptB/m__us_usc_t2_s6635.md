@@ -41,7 +41,7 @@
 
         The provisions of this section shall be carried out in accordance with regulations which shall be promulgated by the Sergeant at Arms and Doorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
 
-([Pub. L. 101–163, title I, § 4][/us/pl/101/163/s4], Nov. 21, 1989, [103 Stat. 1044][/us/stat/103/1044]; [Pub. L. 102–90, title I, § 2][/us/pl/102/90/s2], Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450].)
+([Pub. L. 101–163, title I][/us/pl/101/163/tI], § 4, Nov. 21, 1989, [103 Stat. 1044][/us/stat/103/1044]; [Pub. L. 102–90, title I][/us/pl/102/90/tI], § 2, Aug. 14, 1991, [105 Stat. 450][/us/stat/105/450].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
     Section is from the Congressional Operations Appropriations Act, 1990, which is title I of the Legislative Branch Appropriations Act, 1990.
 
-    In subsec. (e), “[section 5104(c) of title 40][/us/usc/t40/s5104/c]” substituted for “[section 4 of the Act of July 31, 1946][/us/act/1946-07-31/s4] ([40 U.S.C. 193d][/us/usc/t40/s193d])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (e), “[section 5104(c) of title 40][/us/usc/t40/s5104/c]” substituted for “[section 4 of the Act of July 31, 1946][/us/act/1946-07-31/s4] ([40 U.S.C. 193d][/us/usc/t40/s193d])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
-[/us/pl/101/163/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs4
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1044
-[/us/pl/102/90/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs2
+[/us/pl/102/90/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtI
 [/us/stat/105/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F450
 [/us/usc/t2/s121c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121c
 [/us/usc/t40/s5104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs5104%2Fc
 [/us/act/1946-07-31/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-31%2Fs4
 [/us/usc/t40/s193d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs193d
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
 

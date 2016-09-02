@@ -17,7 +17,7 @@
 
     Effective January 3, 1977, and until otherwise provided by law, the rate of pay for each of the six positions of minority employee authorized by the Legislative Pay Act of 1929 and referred to in House Resolution 441 of the Ninety-first Congress shall be a per annum gross rate equal to the annual rate of basic pay of level IV of the Executive Schedule of [section 5315 of title 5][/us/usc/t5/s5315], unless a lower rate is established by the Minority Leader.
 
-([Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668].)
+([Pub. L. 95–94, title I][/us/pl/95/94/tI], § 115, Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Prior Provisions__ 
 
-Provisions similar to those in this section were contained in House Resolution 441, Ninety-first Congress, June 17, 1969, as enacted into permanent law by [Pub. L. 91–145, § 103][/us/pl/91/145/s103], Dec. 12, 1969, [83 Stat. 359][/us/stat/83/359], which provided: 
+Provisions similar to those in this section were contained in House Resolution 441, Ninety-first Congress, June 17, 1969, as enacted into permanent law by [Pub. L. 91–145][/us/pl/91/145], § 103, Dec. 12, 1969, [83 Stat. 359][/us/stat/83/359], which provided: 
 
 > “That, until otherwise provided by law—
 
@@ -77,7 +77,7 @@ Provisions similar to those in this section were contained in House Resolution 4
 
  __Designation and Compensation of Three Further Minority Employees__ 
 
-House Resolution No. 7, One Hundred Fourth Congress, Jan. 4, 1995, which was enacted into permanent law by [Pub. L. 104–53, title I, § 103][/us/pl/104/53/s103], Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520], provided that: 
+House Resolution No. 7, One Hundred Fourth Congress, Jan. 4, 1995, which was enacted into permanent law by [Pub. L. 104–53, title I][/us/pl/104/53/tI], § 103, Nov. 19, 1995, [109 Stat. 520][/us/stat/109/520], provided that: 
 
 > “In addition, the minority leader may appoint and set the annual rate of pay for up to three further minority employees.”
 
@@ -89,16 +89,16 @@ House Resolution No. 7, One Hundred Fourth Congress, Jan. 4, 1995, which was ena
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
 [/us/act/1929-06-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-20%2Fch33
 [/us/stat/46/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F32
 [/us/usc/t2/s74c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs74c
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
-[/us/pl/91/145/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F145%2Fs103
+[/us/pl/91/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F145
 [/us/stat/83/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F359
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/104/53/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs103
+[/us/pl/104/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtI
 [/us/stat/109/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F520
 
 

@@ -19,7 +19,7 @@
 
     (b) Gross compensation for employees filling positions established by subsection (a) for the fiscal year ending September 30, 1987, shall be paid out of any funds available in the Senate appropriation for such year under the item “Salaries, Officers and Employees”.
 
-([Pub. L. 101–163, title I, § 9][/us/pl/101/163/s9], Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046].)
+([Pub. L. 101–163, title I][/us/pl/101/163/tI], § 9, Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 101–163, title I, § 9][/us/pl/101/163/s9], Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046], provided that this section is effective on Jan. 28, 1987, the date on which Senate Resolution No. 89, One Hundredth Congress, was agreed to.
+    [Pub. L. 101–163, title I][/us/pl/101/163/tI], § 9, Nov. 21, 1989, [103 Stat. 1046][/us/stat/103/1046], provided that this section is effective on Jan. 28, 1987, the date on which Senate Resolution No. 89, One Hundredth Congress, was agreed to.
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/101/163/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs9
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1046
 [/us/usc/t2/s61h–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61h%E2%80%937
 [/us/pl/101/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163
-[/us/pl/101/163/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs9
+[/us/pl/101/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2FtI
 [/us/stat/103/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1046
 
 

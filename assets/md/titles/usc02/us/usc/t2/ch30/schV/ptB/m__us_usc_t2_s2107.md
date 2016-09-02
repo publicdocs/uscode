@@ -27,11 +27,11 @@
 
         Disbursements for expenses incurred for the purposes in subsection (a) shall be made upon vouchers approved by the Chairman of the Senate Commission on Art or the Executive Secretary of the Senate Commission on Art.
 
-([Pub. L. 101–302, title III, § 316][/us/pl/101/302/s316], May 25, 1990, [104 Stat. 246][/us/stat/104/246]; [Pub. L. 101–520, title III, § 323][/us/pl/101/520/s323], Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285]; [Pub. L. 102–90, title III, § 310][/us/pl/102/90/s310], Aug. 14, 1991, [105 Stat. 467][/us/stat/105/467]; [Pub. L. 102–392, title III, § 312][/us/pl/102/392/s312], Oct. 6, 1992, [106 Stat. 1723][/us/stat/106/1723]; [Pub. L. 103–69, title III, § 314][/us/pl/103/69/s314], Aug. 11, 1993, [107 Stat. 713][/us/stat/107/713]; [Pub. L. 103–283, title III, § 309][/us/pl/103/283/s309], July 22, 1994, [108 Stat. 1442][/us/stat/108/1442]; [Pub. L. 104–53, title III, § 311][/us/pl/104/53/s311], Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538]; [Pub. L. 104–197, title III, § 313][/us/pl/104/197/s313], Sept. 16, 1996, [110 Stat. 2415][/us/stat/110/2415]; [Pub. L. 105–55, title III, § 309][/us/pl/105/55/s309], Oct. 7, 1997, [111 Stat. 1198][/us/stat/111/1198]; [Pub. L. 105–275, title III, § 311][/us/pl/105/275/s311], Oct. 21, 1998, [112 Stat. 2457][/us/stat/112/2457]; [Pub. L. 106–57, title III, § 309][/us/pl/106/57/s309], Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427]; [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 8, title III, § 309\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–98, 2763A–119; [Pub. L. 107–68, title III, § 308][/us/pl/107/68/s308], Nov. 12, 2001, [115 Stat. 592][/us/stat/115/592]; [Pub. L. 108–7, div. H, title II, § 207][/us/pl/108/7/s207], Feb. 20, 2003, [117 Stat. 383][/us/stat/117/383]; [Pub. L. 108–83, title I][/us/pl/108/83], §§ 3(d)(2), 7, Sept. 30, 2003, [117 Stat. 1013][/us/stat/117/1013]; [Pub. L. 108–447, div. G, title I, § 3][/us/pl/108/447/s3], Dec. 8, 2004, [118 Stat. 3169][/us/stat/118/3169]; [Pub. L. 109–55, title I, § 3][/us/pl/109/55/s3], Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568].)
+([Pub. L. 101–302, title III][/us/pl/101/302/tIII], § 316, May 25, 1990, [104 Stat. 246][/us/stat/104/246]; [Pub. L. 101–520, title III][/us/pl/101/520/tIII], § 323, Nov. 5, 1990, [104 Stat. 2285][/us/stat/104/2285]; [Pub. L. 102–90, title III][/us/pl/102/90/tIII], § 310, Aug. 14, 1991, [105 Stat. 467][/us/stat/105/467]; [Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 312, Oct. 6, 1992, [106 Stat. 1723][/us/stat/106/1723]; [Pub. L. 103–69, title III][/us/pl/103/69/tIII], § 314, Aug. 11, 1993, [107 Stat. 713][/us/stat/107/713]; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 309, July 22, 1994, [108 Stat. 1442][/us/stat/108/1442]; [Pub. L. 104–53, title III][/us/pl/104/53/tIII], § 311, Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538]; [Pub. L. 104–197, title III][/us/pl/104/197/tIII], § 313, Sept. 16, 1996, [110 Stat. 2415][/us/stat/110/2415]; [Pub. L. 105–55, title III][/us/pl/105/55/tIII], § 309, Oct. 7, 1997, [111 Stat. 1198][/us/stat/111/1198]; [Pub. L. 105–275, title III][/us/pl/105/275/tIII], § 311, Oct. 21, 1998, [112 Stat. 2457][/us/stat/112/2457]; [Pub. L. 106–57, title III][/us/pl/106/57/tIII], § 309, Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 8, title III, § 309\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–98, 2763A–119; [Pub. L. 107–68, title III][/us/pl/107/68/tIII], § 308, Nov. 12, 2001, [115 Stat. 592][/us/stat/115/592]; [Pub. L. 108–7, div. H, title II][/us/pl/108/7/dH/tII], § 207, Feb. 20, 2003, [117 Stat. 383][/us/stat/117/383]; [Pub. L. 108–83, title I][/us/pl/108/83/tI], §§ 3(d)(2), 7, Sept. 30, 2003, [117 Stat. 1013][/us/stat/117/1013]; [Pub. L. 108–447, div. G, title I][/us/pl/108/447/dG/tI], § 3, Dec. 8, 2004, [118 Stat. 3169][/us/stat/118/3169]; [Pub. L. 109–55, title I][/us/pl/109/55/tI], § 3, Aug. 2, 2005, [119 Stat. 568][/us/stat/119/568].)
 
  __Codification__ 
 
-    Section was classified to section 188b–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 188b–6 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 
     2001—Subsec. (a). [Pub. L. 107–68][/us/pl/107/68] substituted “2002” for “2001” in first sentence.
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title III, § 309\], substituted “2001” for “2000” in first sentence.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title III, § 309\], substituted “2001” for “2000” in first sentence.
 
-    [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 8(1), (2)\], in first sentence, substituted “works of art, historical objects, documents, or material relating to historical matters for placement or exhibition” for “items of art, fine art, and historical items” and, in second sentence, substituted “such works, objects, documents, or material” for “such items” in two places and “a work, object, document, or material” for “an item”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 8(1), (2)\], in first sentence, substituted “works of art, historical objects, documents, or material relating to historical matters for placement or exhibition” for “items of art, fine art, and historical items” and, in second sentence, substituted “such works, objects, documents, or material” for “such items” in two places and “a work, object, document, or material” for “an item”.
 
-    Subsec. (b). [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 8(3)\], substituted “such works, objects, documents, or materials” for “such items of art” and “may” for “shall”.
+    Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 8(3)\], substituted “such works, objects, documents, or materials” for “such items of art” and “may” for “shall”.
 
     1999—Subsec. (a). [Pub. L. 106–57][/us/pl/106/57] substituted “2000” for “1999”.
 
@@ -79,50 +79,50 @@
 ----------
 
 [/us/usc/t2/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4107
-[/us/pl/101/302/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2Fs316
+[/us/pl/101/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtIII
 [/us/stat/104/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F246
-[/us/pl/101/520/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs323
+[/us/pl/101/520/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2FtIII
 [/us/stat/104/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2285
-[/us/pl/102/90/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs310
+[/us/pl/102/90/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2FtIII
 [/us/stat/105/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F467
-[/us/pl/102/392/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs312
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1723
-[/us/pl/103/69/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2Fs314
+[/us/pl/103/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F69%2FtIII
 [/us/stat/107/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F713
-[/us/pl/103/283/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2Fs309
+[/us/pl/103/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283%2FtIII
 [/us/stat/108/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1442
-[/us/pl/104/53/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs311
+[/us/pl/104/53/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2FtIII
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
-[/us/pl/104/197/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs313
+[/us/pl/104/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtIII
 [/us/stat/110/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2415
-[/us/pl/105/55/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs309
+[/us/pl/105/55/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtIII
 [/us/stat/111/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1198
-[/us/pl/105/275/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs311
+[/us/pl/105/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtIII
 [/us/stat/112/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2457
-[/us/pl/106/57/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs309
+[/us/pl/106/57/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2FtIII
 [/us/stat/113/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F427
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/68/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs308
+[/us/pl/107/68/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtIII
 [/us/stat/115/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F592
-[/us/pl/108/7/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs207
+[/us/pl/108/7/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH%2FtII
 [/us/stat/117/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F383
-[/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
+[/us/pl/108/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83%2FtI
 [/us/stat/117/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1013
-[/us/pl/108/447/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs3
+[/us/pl/108/447/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdG%2FtI
 [/us/stat/118/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3169
-[/us/pl/109/55/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs3
+[/us/pl/109/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2FtI
 [/us/stat/119/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F568
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F83
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57
 [/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275
 [/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55

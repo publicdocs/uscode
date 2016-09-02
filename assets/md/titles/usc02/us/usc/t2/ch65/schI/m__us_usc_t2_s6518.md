@@ -23,7 +23,7 @@
 
         This section shall apply with respect to appropriations for fiscal year 2014, and each fiscal year thereafter.
 
-([Pub. L. 113–76, div. I, title I, § 1][/us/pl/113/76/s1], Jan. 17, 2014, [128 Stat. 420][/us/stat/128/420].)
+([Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1, Jan. 17, 2014, [128 Stat. 420][/us/stat/128/420].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s8147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147%2Fb
-[/us/pl/113/76/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F420
 
 

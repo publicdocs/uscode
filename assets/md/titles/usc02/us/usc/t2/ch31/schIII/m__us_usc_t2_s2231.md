@@ -21,7 +21,7 @@
 
     (2) The Miscellaneous Receipts Account.
 
-([Pub. L. 110–437, title III, § 301][/us/pl/110/437/s301], Oct. 20, 2008, [122 Stat. 4989][/us/stat/122/4989].)
+([Pub. L. 110–437, title III][/us/pl/110/437/tIII], § 301, Oct. 20, 2008, [122 Stat. 4989][/us/stat/122/4989].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/437/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2Fs301
+[/us/pl/110/437/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F437%2FtIII
 [/us/stat/122/4989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4989
 
 

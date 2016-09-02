@@ -23,7 +23,7 @@
 
     Section was formerly classified to [section 32 of this title][/us/usc/t2/s32] prior to editorial reclassification and renumbering as this section.
 
-    R.S. § 36 derived from [act Aug. 16, 1856, ch. 123, § 2][/us/act/1856-08-16/ch123/s2], [11 Stat. 48][/us/stat/11/48].
+    R.S. § 36 derived from [act Aug. 16, 1856, ch. 123][/us/act/1856-08-16/ch123], § 2, [11 Stat. 48][/us/stat/11/48].
 
  __Cross References__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t2/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs32
-[/us/act/1856-08-16/ch123/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-16%2Fch123%2Fs2
+[/us/act/1856-08-16/ch123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1856-08-16%2Fch123
 [/us/stat/11/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F48
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 

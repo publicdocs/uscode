@@ -17,7 +17,7 @@
 
     Any provision of law which is enacted prior to October 1, 1983, and which directs the Sergeant at Arms and Doorkeeper of the Senate to deposit any moneys in the United States Treasury for credit to the account, within the contingent fund of the Senate, for “Miscellaneous Items”, or for “Automobiles and Maintenance” shall, on and after October 1, 1983, be deemed to direct him to deposit such moneys in the United States Treasury for credit to the account, within the contingent fund of the Senate, for the “Sergeant at Arms and Doorkeeper of the Senate”.
 
-([Pub. L. 98–181, title I, § 1202][/us/pl/98/181/s1202], Nov. 30, 1983, [97 Stat. 1289][/us/stat/97/1289].)
+([Pub. L. 98–181, title I][/us/pl/98/181/tI], § 1202, Nov. 30, 1983, [97 Stat. 1289][/us/stat/97/1289].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/98/181/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs1202
+[/us/pl/98/181/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtI
 [/us/stat/97/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1289
 [/us/usc/t2/s68–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs68%E2%80%934
 

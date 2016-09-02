@@ -17,7 +17,7 @@
 
     Any clerical assistants who continue on the House pay rolls under the provisions of [section 5324 of this title][/us/usc/t2/s5324] shall, while so continued, perform their duties under the direction of the Clerk of the House, and he is authorized and directed to remove from such pay rolls any such clerks who are not attending to the duties for which their services are continued.
 
-([Aug. 21, 1935, ch. 600, § 2][/us/act/1935-08-21/ch600/s2], [49 Stat. 680][/us/stat/49/680].)
+([Aug. 21, 1935, ch. 600][/us/act/1935-08-21/ch600], § 2, [49 Stat. 680][/us/stat/49/680].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t2/s5324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5324
-[/us/act/1935-08-21/ch600/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600%2Fs2
+[/us/act/1935-08-21/ch600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch600
 [/us/stat/49/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F680
 [/us/usc/t2/s92c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92c
 [/us/usc/t2/s5324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5324

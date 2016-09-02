@@ -51,7 +51,7 @@
 
                 The amendment made by subparagraph (A) shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003, except that the amendment shall not apply with respect to any overtime work performed prior to March 4, 2010.
 
-([Pub. L. 111–145, § 5][/us/pl/111/145/s5], Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52].)
+([Pub. L. 111–145][/us/pl/111/145], § 5, Mar. 4, 2010, [124 Stat. 52][/us/stat/124/52].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 5 of Pub. L. 111–145][/us/pl/111/145/s5]. Subsec. (a)(2) of [section 5 of Pub. L. 111–145][/us/pl/111/145/s5] repealed sections 1924 and 1925 of this title. Subsec. (b)(3)(A) of [section 5 of Pub. L. 111–145][/us/pl/111/145/s5] repealed section 1009 of the Legislative Branch Appropriations Act, 2003, [Pub. L. 108–7, div. H][/us/pl/108/7], [117 Stat. 359][/us/stat/117/359], which is not classified to the Code.
+    Section is comprised of [section 5 of Pub. L. 111–145][/us/pl/111/145/s5]. Subsec. (a)(2) of [section 5 of Pub. L. 111–145][/us/pl/111/145/s5] repealed sections 1924 and 1925 of this title. Subsec. (b)(3)(A) of [section 5 of Pub. L. 111–145][/us/pl/111/145/s5] repealed section 1009 of the Legislative Branch Appropriations Act, 2003, [Pub. L. 108–7, div. H][/us/pl/108/7/dH], [117 Stat. 359][/us/stat/117/359], which is not classified to the Code.
 
 ----------
 
@@ -71,13 +71,13 @@
 [/us/usc/t2/s1313/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1313%2Fc%2F4
 [/us/usc/t2/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1313
 [/us/usc/t29/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212%2Fc
-[/us/pl/111/145/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs5
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F52
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/111/145/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs5
 [/us/pl/111/145/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs5
 [/us/pl/111/145/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs5
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdH
 [/us/stat/117/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F359
 
 

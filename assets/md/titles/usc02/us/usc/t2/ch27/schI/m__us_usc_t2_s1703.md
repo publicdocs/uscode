@@ -69,7 +69,7 @@
 
             The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
 
-([Pub. L. 106–474, title I, § 103][/us/pl/106/474/s103], Nov. 9, 2000, [114 Stat. 2086][/us/stat/114/2086].)
+([Pub. L. 106–474, title I][/us/pl/106/474/tI], § 103, Nov. 9, 2000, [114 Stat. 2086][/us/stat/114/2086].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t2/s1702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1702%2Fb
-[/us/pl/106/474/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2Fs103
+[/us/pl/106/474/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F474%2FtI
 [/us/stat/114/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2086
 
 

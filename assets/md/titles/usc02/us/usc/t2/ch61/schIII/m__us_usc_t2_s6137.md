@@ -27,7 +27,7 @@
 
         The Secretary of the Senate is authorized to advance such sums as may be necessary to defray expenses incurred in carrying out subsections (a) and (b).
 
-([Pub. L. 102–27, title II][/us/pl/102/27], Apr. 10, 1991, [105 Stat. 144][/us/stat/105/144].)
+([Pub. L. 102–27, title II][/us/pl/102/27/tII], Apr. 10, 1991, [105 Stat. 144][/us/stat/105/144].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27
+[/us/pl/102/27/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F27%2FtII
 [/us/stat/105/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F144
 [/us/usc/t2/s31a–2b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31a%E2%80%932b
 

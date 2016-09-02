@@ -19,7 +19,7 @@
 
     (b) Witnesses whose depositions are taken shall be entitled to receive from the party at whose instance the witness appeared the same fees and travel allowance paid to witnesses subpenaed to appear before the House of Representatives or its committees.
 
-([Pub. L. 91–138, § 10][/us/pl/91/138/s10], Dec. 5, 1969, [83 Stat. 288][/us/stat/83/288].)
+([Pub. L. 91–138][/us/pl/91/138], § 10, Dec. 5, 1969, [83 Stat. 288][/us/stat/83/288].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/91/138/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138%2Fs10
+[/us/pl/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F138
 [/us/stat/83/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F288
 
 

@@ -37,7 +37,7 @@
 
         Notwithstanding any other provision of law, the head of the office in which a position is established under this section shall have the exclusive authority to appoint personnel to such a position.
 
-([Pub. L. 107–68, title I, § 118][/us/pl/107/68/s118], Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
+([Pub. L. 107–68, title I][/us/pl/107/68/tI], § 118, Nov. 12, 2001, [115 Stat. 573][/us/stat/115/573].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/107/68/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2Fs118
+[/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F573
 [/us/usc/t2/s75f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs75f
 

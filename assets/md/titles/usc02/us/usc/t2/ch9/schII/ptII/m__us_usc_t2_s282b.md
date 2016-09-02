@@ -19,7 +19,7 @@
 
     (b) Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.
 
-([Pub. L. 91–510, title V, § 523][/us/pl/91/510/s523], Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203]; [Pub. L. 95–94, title I, § 115][/us/pl/95/94/s115], Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668].)
+([Pub. L. 91–510, title V][/us/pl/91/510/tV], § 523, Oct. 26, 1970, [84 Stat. 1203][/us/stat/84/1203]; [Pub. L. 95–94, title I][/us/pl/95/94/tI], § 115, Aug. 5, 1977, [91 Stat. 668][/us/stat/91/668].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/91/510/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs523
+[/us/pl/91/510/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2FtV
 [/us/stat/84/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1203
-[/us/pl/95/94/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2Fs115
+[/us/pl/95/94/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94%2FtI
 [/us/stat/91/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F668
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94

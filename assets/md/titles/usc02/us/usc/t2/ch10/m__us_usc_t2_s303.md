@@ -17,7 +17,7 @@
 
     For the purposes of applicable law relating to the payment to any employee subject to the House Employees Schedule or the House Wage Schedule of compensation from more than one civilian office or position, the rate of basic compensation of each employee subject to any such schedule shall be held and considered to be that rate which, when increased by additional compensation then currently authorized by law for House employees generally, equals or most nearly equals the per annum rate of compensation of such employee under such schedule.
 
-([Pub. L. 88–652, § 14][/us/pl/88/652/s14], Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084].)
+([Pub. L. 88–652][/us/pl/88/652], § 14, Oct. 13, 1964, [78 Stat. 1084][/us/stat/78/1084].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/652/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652%2Fs14
+[/us/pl/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F652
 [/us/stat/78/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1084
 
 

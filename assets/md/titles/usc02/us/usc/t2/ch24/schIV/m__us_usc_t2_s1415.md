@@ -27,7 +27,7 @@
 
         Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title may be paid only from funds appropriated to the employing office or entity responsible for correcting such violations. There are authorized to be appropriated such sums as may be necessary for such funds.
 
-([Pub. L. 104–1, title IV, § 415][/us/pl/104/1/s415], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–76, div. I, title I, § 1101(a)][/us/pl/113/76/s1101/a], Jan. 17, 2014, [128 Stat. 425][/us/stat/128/425]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 104–1, title IV][/us/pl/104/1/tIV], § 415, Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1101(a), Jan. 17, 2014, [128 Stat. 425][/us/stat/128/425]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–76, div. I, title I, § 1101(b)][/us/pl/113/76/s1101/b], Jan. 17, 2014, [128 Stat. 425][/us/stat/128/425], provided that: 
+[Pub. L. 113–76, div. I, title I][/us/pl/113/76/dI/tI], § 1101(b), Jan. 17, 2014, [128 Stat. 425][/us/stat/128/425], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/pl/104/1/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs415
+[/us/pl/104/1/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtIV
 [/us/stat/109/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F38
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/113/76/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1101%2Fa
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F425
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3
@@ -71,7 +71,7 @@
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
-[/us/pl/113/76/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1101%2Fb
+[/us/pl/113/76/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdI%2FtI
 [/us/stat/128/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F425
 
 

@@ -43,11 +43,11 @@
 
         The liability of the certifying officers of the United States Capitol Police shall be enforced in the same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
-([Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 107\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–103; [Pub. L. 111–145, § 2(a)(3)][/us/pl/111/145/s2/a/3], Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49].)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 107\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–103; [Pub. L. 111–145][/us/pl/111/145], § 2(a)(3), Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49].)
 
  __Codification__ 
 
-    Section was classified to section 207d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+    Section was classified to section 207d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217][/us/pl/107/217], § 1, Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/145/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F3
+[/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/stat/124/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F49
-[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 
