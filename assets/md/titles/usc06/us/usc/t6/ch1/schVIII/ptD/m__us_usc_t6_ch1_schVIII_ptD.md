@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_s381.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVIII%2FptD)
+[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_s382.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVIII%2FptD)
 
 #### Part D—Acquisitions
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_s381.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVIII%2FptD)
+[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptC/m__us_usc_t6_s382.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschVIII%2FptD)
 
 ----------
 ----------
